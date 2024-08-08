@@ -1,0 +1,236 @@
+{
+    "_fetched_at": "2024-08-08T00:58:12Z",
+    "name_ja": "総合英語Ⅱ",
+    "name_en": "Comprehensive English II",
+    "syllabus_number": "1010600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西村　浩子",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "実用英語運用能力を測定するテストとして、TOEICの重要性は近年ますます高まり、受験を奨励する企業や就職対策としてスコア向上を目指す大学生が年々増えています。この授業では、TOEIC Listening & Reading Test(以下TOEIC L&R)のパート別対策法を意識した練習を通して、スコア500以上を取得するために必要な語彙力、文法力、聴解・読解力をつけるための訓練をします。この科目は主にTOEIC L&Rでスコア450前後を取得している人を対象としますが、すでにスコア500以上を取得してスコア600以上を目指している人にも、「英語処理速度」（問題を速く正確に解くTOEICの基礎力）を高める練習ができるという点で有益です。総合英語Iを履修した人もそうでない人も履修可です。",
+    "overview": "テキストをベースに、４技能使用による英語学習を目指した授業をします。語彙や文法の知識獲得に加え、リスニング力を鍛えるためのシャドーイングや読解速度・スピーキング力向上につながる音読学習などもテキストの題材を使用して行います。学期後半の授業でTOEIC L&Rミニ模擬試験を実施し、それからIPテストもしくは公開テストを受験して学習進捗を確認します。受験料は各自負担です。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "ILLUMINATING THE PATH TO THE TOEIC L&R TEST",
+            "year": 2021,
+            "author": "Michiko Ueki, Brent Cotsworth, Koichi Yamaoka, Osamu Takeuchi",
+            "publisher": "Kinseido",
+            "price": 2090,
+            "isbn": "978-4-7647-4127-0",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "総合英語入門A, B"
+        ],
+        "brings": "教科書、筆記用具、辞書",
+        "other": ""
+    },
+    "evaluation_criteria": "TOEIC頻出単熟語の習得、TOEIC基本文法の理解、TOEICパート別攻略法の理解と実践を、「学生に対する評価」にある通り評価します。評価基準の「小テスト」は、反復学習による知識定着を図るため、各講義の前回講義の内容から出題し、原則として毎授業実施します。「その他」は授業活動への積極的関与、課題への取り組みなどが10%、TOEIC L&Rの受験を10%として評価します。学期末に学内で実施されるIPテストか12月に学外の一般会場で実施される公開テスト、いずれかを受験してスコア証明書を提出した人には一律10点を加算します。原則として、出欠状況は評価に含まれませんが、授業回数の3分の2以上の出席がなければ期末試験受験資格が失効します。十分注意してください。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "TOEICは、英語によるコミュニケーションの能力を測るテストです。TOEICの問題には、実際のコミュニケーションの場面で使用される表現がたくさん含まれています。実際に使える状態になることを目指して学習しましょう。また、円滑なコミュニケーションには、ある程度の速度を持って理解・応答できることが必要です。英語の処理速度を上げるには、授業内の学習だけでは足りません。授業外で、英語に興味を持ち、自分が楽しいと思える英語に触れる機会を毎日20分でもいいので作りましょう。テキストの学習を通して、自分の課題（たとえば、語彙力、リスニング力、など具体的に）を見極めて、復習をしっかり行ってください。実際に声に出す学習も怠らないようにしましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（授業の進め方、評価、授業外学習など）\nUnit 1: Traveling\nPart 1,2,5,7　文法：自動詞と他動詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Unit 1: Traveling\nUnit 2: Daily Life & Shopping\nPart 1,3, 5, 7  文法：呼応",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Unit 3: At Restaurants\nPart 1,4,5,7  文法：比較・最上級",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Unit 4: Job Hunting\nPart 1,2,5,7 文法：関係代名詞・分詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Unit 5: At the Office 1\nPart 1,3,6,7  \n空所穴埋め問題の解き方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Unit 6: At the Office 2\nPart 1,4,5,7 文法：名詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Unit 7 Review Test\nUnit 1～6の復習と解説",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Unit 8: Doing Business Online\nPart 1,2,5,7 文法：仮定法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Unit 9: Housing\nPart 1,3,5,7 文法：前置詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Unit 10: Making Deals & Contracts\nPart 1,4,5,7 文法：動名詞と不定詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Unit 11: Public Service\nPart 1,2,5,7  文法：時、理由、譲歩",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Unit 12: Banking & Finance\nPart 1,3,5,7  文法：副詞と形容詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Unit 13: At Seminars & Workshops\nPart 1,4,6,7  \n文脈をとらえる",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Unit 14: News & Media\nPart 1,2,5,7 文法：時制",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "Unit 15: Review Test 2\nUnit 8～14の復習と解説\n期末試験、評価について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

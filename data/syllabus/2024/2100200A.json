@@ -1,0 +1,215 @@
+{
+    "_fetched_at": "2024-08-07T17:06:59Z",
+    "name_ja": "実社会とデータ分析",
+    "name_en": "",
+    "syllabus_number": "2100200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済経営学部 経済経営学科",
+        "人間健康学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "矢島",
+            "main": false
+        },
+        {
+            "name": "安敏",
+            "main": false
+        }
+    ],
+    "term": "1Q",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "デジタル社会において、以下の項目を理解する \n\n1.なぜデータ活用が必要なのか \n\n2.どのようなデータが使われているのか \n\n3.データの活用にはどのような技術が使われているのか \n\n4.データ活用で留意しなくてはならない点",
+    "overview": "現代のデジタル社会では、様々な活動にデータが活用されています。皆さんが便利に日常を過ごしている背後には、膨大な量のデータがやりとりされ高度なデジタル技術が活用されています。この講義では、データ活用の実際を幅広い分野の事例を通じ、なぜデータ活用が必要か、どのようなデータが使われているのか、どのような技術が使われているのか、データ活用で留意しなくてはならない点、さらに、データ活用の中心となるデータサイエンティストの活動の実際に関してもお話します。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "PC",
+        "other": ""
+    },
+    "evaluation_criteria": "毎回の講義に関連した課題を設定しますので、レポートを提出してください。毎回のレポートの評価により成績とします。 \n\n成績評価の割合；レポート100％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "毎回の講義後は、インターネット等で関連した社会活動の情報収集を行いさらに理解を深めてください。また、ニュースなどを通じてデジタル社会に関連した世の中の最新の動向に、アンテナを広げ続ける努力をしてください。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "企業におけるデータサイエンティストの役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "旅客サービス業におけるデータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "製薬業におけるデータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "社会におけるスケジューリングと最適化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "大規模マーケティングデータプラットフォーマーの役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "AIコンサルティング企業におけるデータサイエンティストの活動の実際",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "金融におけるIT技術の活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "航空会社におけるDXとアプリケーションの内製化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "クラウドファンディング運営会社におけるデータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "物作り企業におけるデジタル経営変革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ポイントを軸としたエコシステムの展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業経営におけるビジネスインテリジェント活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "製造業のDXの現状",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かして実社会におけるデータ活用の知識を身に着けさせる。"
+}

@@ -1,0 +1,360 @@
+{
+    "_fetched_at": "2024-08-07T16:14:43Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700SD",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. スポーツ健康科学分野における個別問題・課題の解決に相応しい研究を計画的に実施し、研究論文を作成できる。\n2. 卒業研究の成果と今後の課題を明示できる。",
+    "overview": "自ら設定したテーマに即して、科学的手法により、調査、実験等を行い、これによって得られた結果を考察し、論文として完成させ、これを発表することを目的とする。また、これら研究に対する姿勢を身に付けることで、社会生活における問題解決能力を身に付ける。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP2",
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "適宜資料を配布します"
+    },
+    "evaluation_criteria": "卒業論文 70%、発表 30%",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 70,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "卒業論文の作成は、大学でのスポーツ健康科学の学びの到達点です。可能な限り高度で質の高い研 究論文の作成を目指してください。\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、専門演習Ⅱの進め方等",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "専門演習Ⅰにおける研究計画の報告、討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "研究計画の再考①文献的検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究計画の再考②研究目的の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究計画の再考③研究課題の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "研究計画の再考④仮説の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "研究計画の再考⑤研究方法の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "研究計画の再考⑥先行研究の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "研究計画の再考⑦研究資料の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "研究計画の再考⑧実験計画の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "研究計画の再考⑨研究期間の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究計画の再考⑩考察方法の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "研究計画の再考⑪Plot 及び論理性の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究計画の再考⑫研究倫理の検証",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "研究計画の確定：発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "予備的実験・資料調査",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "予備的実験・資料調査の改善",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "予備的実験・資料データの解析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "予備的実験・資料データの考察 発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "本実験・資料収集の実施",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "本実験・資料の解析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "本実験・資料の考察",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "論述①序章：目的、仮説、課題、方法、先行研究の検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "論述②解析・分析結果",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "論述③考察",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "論述④結論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "論述⑤注及び引用",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究発表原稿作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業研究報告会準備作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業研究報告会の実施：発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,220 @@
+{
+    "_fetched_at": "2024-08-08T01:22:41Z",
+    "name_ja": "コンテンツビジネス入門",
+    "name_en": "Introduction to Contents Business",
+    "syllabus_number": "2044400A",
+    "course_number": "02CP102",
+    "target_departments_and_courses": [
+        "経済学部",
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水田　直美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本講義では、コンテンツビジネスの誕生から現在までの状況を学び、将来の可能性について考えていく。コンテンツビジネスの定義や特徴、コンテンツビジネス産業の特徴と動向を理解する。急激に発達しているコンテンツビジネスを体系的・グローバル的に理解する。\n【到達目標】\n①コンテンツおよびコンテンツビジネスの定義や特徴を理解し、説明できる。\n②コンテンツビジネス産業の特徴と動向を理解し、説明できる。",
+    "overview": "講義形式で進めていくが、学生は受動的に講義を受けるのではなく、主体的に事例や問題について考えてもらいたい。復習を通して、学生自身が知識と考える力を確実に身につけることができるようにする。\n※出欠はAAAパスワードの他、小テストによっても確認します。両方が満たされて出席となります。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "情報メディア白書2023",
+            "year": 2023,
+            "author": "電通メディアイノベーションラボ",
+            "publisher": "ダイヤモンド社",
+            "price": 17600,
+            "isbn": "978-4478117705",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "筆記用具、ノートパソコン",
+        "other": "特定の教科書は使用せず、授業中に配布する資料を中心に進めていきます。上記以外の参考図書は講義内で適宜案内します。"
+    },
+    "evaluation_criteria": "①コンテンツおよびコンテンツビジネスの定義や特徴、②コンテンツビジネス産業の特徴と動向、③コンテンツビジネスの具体例と問題点について「学生に対する評価」の内容で評価する。\n※「その他」は授業における発言の質や参加態度を評価する。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "コンテンツやコンテンツビジネスについての知識は、ゲーム、書籍の利用や、インターネットでの発信を適切に行う上でも必要です。関心を持って授業に参加してくれることを期待します。\n【予習・復習について】\n予習…配付資料について、事前に読んでおくこと。\n復習…実施内容について配付資料の該当箇所を読み返し、身近な事例についても考えること。\n※予習・復習合わせて60分程度を行うこと。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション／コンテンツおよびコンテンツビジネスを学ぶ上での基礎知識の確認",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "コンテンツビジネスの定義と特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "コンテンツおよびコンテンツビジネス産業の歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "知的財産権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "コンテンツ産業（1）出版産業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "コンテンツ産業（2）音楽産業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "コンテンツ産業（3）映像メディア産業（映画、テレビ）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "コンテンツ産業（4）映像メディア産業（ネット配信）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "コンテンツ産業（5）ゲーム産業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "コンテンツ産業（6）インターネット利用（SNS、アプリケーション）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "コンテンツ産業（7）イベント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "コンテンツ産業（8）ツーリズム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "日本のコンテンツ産業政策（1）国内",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "日本のコンテンツ産業政策（2）海外に向けて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ\n※15回講義終了後に試験を実施",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水田　直美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

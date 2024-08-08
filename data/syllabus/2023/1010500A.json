@@ -1,0 +1,253 @@
+{
+    "_fetched_at": "2024-08-08T00:58:10Z",
+    "name_ja": "総合英語Ⅰ",
+    "name_en": "Comprehensive English I",
+    "syllabus_number": "1010500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田中　数恵",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "実用英語運用能力を測定するテストとして、TOEICの重要性は近年ますます高まり、受験を奨励する企業や就職対策としてスコア向上を目指す大学生が年々増えています。この授業では、TOEIC Listening & Reading Test［以下TOEIC L&R］のパート別対策法を意識した練習を通して、スコア500を取得するために必要な語彙力、文法力、聴解力、読解力をつけるための訓練をします。この科目は主にTOEIC L&Rでスコア400前後を取得している人を対象としますが、すでにスコア500前後を取得してスコア600を目指している人にも、「スピード処理能力」（やさしい問題を速く正確に解くTOEICの基礎力）を高める練習ができるという点で有益です。",
+    "overview": "テキストに沿って、まず各ユニットで扱うトピックに関する語句・表現と文法事項を確認してから、実際のTOEIC L&Rと同じ形式のMini Testに取り組みます。すでに学習した内容を踏まえて問題を解き、そのあと解説を聞きながら解法の確認をしたり、解けた問題についてもさらに英文の理解を深めるための語い・表現を学びます。学期後半の授業でTOEIC L&Rミニ模擬試験を実施し、それからIPテストもしくは公開テストを受験して学習進捗を確認します。受験料は各自負担です。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "GIGA BOOSTER FOR THE TOEIC L&R TEST／全パート・全頻出！TOEIC L&Rテスト実戦問題GIGA",
+            "year": 2023,
+            "author": "早川 幸治，番場 直之",
+            "publisher": "金星堂",
+            "price": 2530,
+            "isbn": "978-4764741836",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "公式TOEIC Listening & Reading 500＋",
+            "year": 2022,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 3300,
+            "isbn": "978-4906033676",
+            "available_on_campus": false
+        },
+        {
+            "title": "公式TOEIC Listening & Reading Part 7 速読演習",
+            "year": 2022,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 3300,
+            "isbn": "978-4906033690",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書，ノート，英語辞書",
+        "other": ""
+    },
+    "evaluation_criteria": "TOEIC頻出単熟語の習得、TOEIC基本文法の理解、TOEICパート別対策法の理解と実践を、「学生に対する評価」にある通り評価します。評価基準の「小テスト」は、各ユニットで学ぶ語い・文法の定着を図るための小テストや小課題提出で、ほぼ毎時間あります。「その他」はTOEIC L&Rの受験です。学期末に学内で実施されるIPテストか12月に学外の一般会場で実施される公開テスト、いずれかを受験してスコア証明書の写しを提出した人には一律10点を加算します。原則として、出欠状況は評価に含まれませんが、授業回数の3分の2以上の出席がなければ期末試験受験資格が失効します。十分注意してください。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "自主的かつ継続的に努力を重ねて、TOEIC L&R目標スコアを達成しましょう。\n毎時間、教科書の予習箇所を指示します。授業には必ず予習・復習をして臨んでください。また、授業の教材とは別に、自分のレベルにあった単語帳や問題集を入手して、継続的に語い学習や聴解・読解の練習に取り組むことも大切です。そして、外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を使って、予習・復習をしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方・評価について\nUNIT 1 TRAVEL\nListening Section　Part 1: 人物の動作①など\nReading Section　Part 5: 品詞①名詞など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "UNIT 2 DINING OUT\nListening Section　Part 2: WH疑問文②Whereで始まる疑問文など\nReading Section　Part 6: 語彙問題②難しめの語彙など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "UNIT 3 DAILY LIFE\nListening Section　Part 3: 会話から話し手の働いている場所や部門を推測するなど\nReading Section　Part 7: 推測させる問題①キーワードを参考に情報を読み取るなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "UNIT 4 ENTERTAINMENT\nListening Section　Part 4: トーク内の質問・依頼を聞き取るなど\nReading Section　Part 5: 代名詞など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "UNIT 5 PURCHASING\nListening Section　Part 1: 人物の位置・場所①１人のパターンなど\nReading Section　Part 6: 代名詞②所有格など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "UNIT 6 OFFICES\nListening Section　Part 2: WH疑問文⑥How＋αで始まる疑問文など\nReading Section　Part 7: 文挿入問題①キーワードや文自体の意味を手がかりにするなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "UNIT 7 CLIENTS\nListening Section　Part 3: 図表問題①会話の内容と図表の情報を関連させるなど\nReading Section　Part 5: 能動態・受動態など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "UNIT 8 RECRUITING\nListening Section　Part 4: トークから話し手・聞き手の職業を判断するなど　\nReading Section　Part 6: 時制②適切な時制を選ぶなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "UNIT 9 PERSONNEL\nListening Section　Part 1: 人物の動作④身に着けているものに関する表現パターンなど\nReading Section　Part 7: 詳細情報に関する問題②問われている箇所を文書から探し出すなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "UNIT 10 ADVERTISING\nListening Section　Part 2: 付加疑問文など\nReading Section　Part 5: 前置詞など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "UNIT 11 MEDIA\nListening Section　Part 3: 会話内の特定の情報をキャッチするなど\nReading Section　Part 6: 接続表現②話の流れに合う表現を選ぶなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "UNIT 12 FINANCE\nListening Section　Part 4: トークの内容の理由・原因を理解するなど\nReading Section　Part 7: NOT問題②情報が並列されていない場合など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "UNIT 13 MEETINGS\nListening Section　Part 1: 人物の動作⑥推測するパターンなど\nReading Section　Part 5: 関係代名詞など",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "UNIT 14 SALES & MARKETING\nListening Section　Part 2: 選択疑問文など\nReading Section　Part 6: 文選択問題②名詞・代名詞に注目するなど",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "TOEIC L&R ミニ模擬試験\n期末試験について\nオンライン授業評価",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

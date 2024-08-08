@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T16:33:10Z",
+    "name_ja": "プログラミング演習",
+    "name_en": "Exercise in Computer Programming",
+    "syllabus_number": "2022500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙藤　大介",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．既に習得したC言語の基礎を用いて、文章で書かれたアルゴリズムをC言語で実装できる。\n２．どんなプログラミング言語においても必要となるプログラミング技術を身に付けることができる。",
+    "overview": "この講義の目的は、自分自身でCプログラムを書ける能力を身に付け、どんなプログラミング言語でも必要となるプログラミング技術を習得することである。パソコンを使用したプログラミング演習に重点をおく。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "プログラミング基礎"
+        ],
+        "brings": "ノートパソコン、筆記用具、ノート",
+        "other": ""
+    },
+    "evaluation_criteria": "プログラミングの理解度を以下の「学生に対する評価」に従い評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "前回の資料を通読して授業に臨んでください（予習・30分）\n授業終了後には、講義資料および自分自身で作成したCプログラムを見直し、課題レポートにより理解を深めてください。作成したCプログラムを変更し、幅広い知識の習得に努めてください。さらに自分自身で演習課題を作成し、Cプログラムを作成してください（復習・90分）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "プログラミング環境設定、変数、制御文、配列",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "数値表現、２進数",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "文字列処理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "探索アルゴリズム（線形探索）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "探索アルゴリズム（２分探索）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ポインタ，アドレス，メモリの確保",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "構造体の概念，構造体の宣言，構造体とポインタ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "リスト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "スタックとキュー",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "グラフの実現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "構造体と配列",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "配列とポインタ，リストの実装",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "ファイルの読み込み，ファイルの書き込み",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "再帰関数（２分探索木）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "グラフの深さ優先探索",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

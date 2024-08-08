@@ -1,0 +1,408 @@
+{
+    "_fetched_at": "2024-08-07T15:41:23Z",
+    "name_ja": "総合英語入門A（再履修）",
+    "name_en": "Introduction of Comprehensive English A (Retakers)",
+    "syllabus_number": "1010100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田中　数恵",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(1)平易な短い英語を繰り返しや言い換えがあれば理解する\n(2)平易な英語で書かれた短いEメールなどの英文を読んで大意を理解する\n(3)基礎レベルの語彙・構文で、日常生活について短い英文を話したり書いたりする",
+    "overview": "主教材のテキスト『English Day!』に沿ってまず語彙・表現を学び、モデル会話を聞いたり話したりする練習でそれらの定着をはかります。次に、ターゲットになる文法事項を学び、それを含む短い英文を読んだり書いたりしながら練習します。各ユニットの一連の学習は、私たちが日常生活の中でよく出合うような場面・トピックに関連する内容になっています。ひとつのUnitの学習が完了したら、副教材のテキスト『Best Practice for the TOEIC L&R Test Basic』でTOEIC L&Rテストと同じ形式の練習問題に取り組みます。外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を用意して、授業に持ってきてください。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "English Day!",
+            "year": 2023,
+            "author": "Robert Hickling",
+            "publisher": "金星堂",
+            "price": 2090,
+            "isbn": "9784764741690",
+            "available_on_campus": true
+        },
+        {
+            "title": "Best Practice for the TOEIC L&R Test Basic",
+            "year": 2023,
+            "author": "吉塚弘、Graham Skerritt",
+            "publisher": "成美堂",
+            "price": 2750,
+            "isbn": "9784791948314",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書、筆記用具、辞書",
+        "other": "なし"
+    },
+    "evaluation_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや授業活動への参加態度などを含みます。詳細についてはクラス担当者が第1回目の授業で説明します。小テストやワークシートなど授業時間内に行う活動を基にする評価が半分を占めますので、遅刻・欠席をしないよう注意しましょう。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "効果的な学習のため教科書は必ず書き込みのないものを準備してください。各担当教員から具体的に予習・復習・その他の内容について指示をする場合がありますので、その際はその指示に従ってください。\nまた、授業計画は進捗などにより変更する場合があります。\n\n【予習・復習について】\n担当教員の指示に従って、重要単熟語や文法事項の予習と、聴解・読解問題の復習などをしてください。また、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 60～90分）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方・評価について\nMini-Test",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Unit 1: Getting Up\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Unit 1: Getting Up\n文法（BE動詞・現在時制）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Unit 1: Getting Up\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習①",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Unit 1: Getting Up\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習①",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Unit 2: Breakfast Time\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Unit 2: Breakfast Time\n文法（一般動詞・現在時制）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Unit 2: Breakfast Time\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Unit 2: Breakfast Time\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Unit 3: Getting Ready for School\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Unit 3: Getting Ready for School\n文法（一般動詞・現在時制）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Unit 3: Getting Ready for School\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習③",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Unit 3: Getting Ready for School\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習③",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Unit 4: First Class of the Day\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "Unit 4: First Class of the Day\n文法（代名詞）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "Unit 4: First Class of the Day\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習④",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "Unit 4: First Class of the Day\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習④",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "Unit 5: Lunchtime\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "Unit 5: Lunchtime\n文法（前置詞）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "Unit 5: Lunchtime\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習⑤",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "Unit 5: Lunchtime\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習⑤",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "Unit 6: Shopping\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "Unit 6: Shopping\n文法（WH疑問文）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "Unit 6: Shopping\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習⑥",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "Unit 6: Shopping\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習⑥",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "Unit 7: Getting Lost\n語彙・表現・会話",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "Unit 7: Getting Lost\n文法（過去時制）・読解・作文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "Unit 7: Getting Lost\n【復習】語彙・会話\n【副教材】TOEIC Listening 基本練習⑦",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "Unit 7: Getting Lost\n【復習】語彙・文法\n【副教材】TOEIC Reading 基本練習⑦",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総復習\n期末試験について\nオンライン授業評価",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

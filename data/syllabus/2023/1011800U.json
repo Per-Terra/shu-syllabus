@@ -1,0 +1,216 @@
+{
+    "_fetched_at": "2024-08-08T01:00:14Z",
+    "name_ja": "地域ゼミⅡ",
+    "name_en": "",
+    "syllabus_number": "1011800U",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本地域ゼミでは、「小学校の体育授業の運営」というテーマのもと、体育授業へのボランティア参加を通して、子どもに対する運動課題や指導方法を学び、実践的な指導力を身につけます。\n　到達目標は以下の3つです。\n(i) 子どもの運動発達に関する専門的な知識を身につける。\n\n(ii) 運動に関する指導者としての資質を高める。\n\n(iii) 子どもの運動発達の特性を理解し、効果的な運動指導を実践できる。",
+    "overview": "「講義」と学外における「実践活動」の組み合わせで行います（※学外における「実践活動」の日時は固定されていません）。\n　授業は、近隣小学校の体育授業を運営することです。対象となる小学校の時間割により、必ずしも授業開講時間と同一時間にならないケースも生じてきます。成果報告を含めて2単位時間分の活動を行います。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "適宜配布します。",
+        "other": ""
+    },
+    "evaluation_criteria": "小学校での活動のための準備から実際の活動までを評価します。また活動後にはレポートを課し、その内容も評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 55,
+        "ポートフォリオ": 0,
+        "その他": 15
+    },
+    "message_from_teachers": "地域の方々（小学校の先生や児童・生徒）と直接的な関わりが多いので、責任感を持って取り組むことが必要となります。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：授業全体の説明",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "体力や運動能力の実態について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "子どもに求められるもの運動指導",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "小学校の体育授業について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "体育授業の見学",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "体力・運動能力などの測定法と評価法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "単元について①\n（体つくり運動）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "単元について②\n（体ほぐし運動）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "多様な動きをつくる運動遊びについて",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "体育授業への参画①\n（運営補助）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "体育授業への参画②\n（準備運動）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "体育授業への参画③\n（体ほぐし運動）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "体育授業への参画④\n（多様な動きをつくる運動遊び）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "体育授業への参画⑤\n（授業全体）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "受講生全員による報告とディスカッション、報告書の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

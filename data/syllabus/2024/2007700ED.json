@@ -1,0 +1,371 @@
+{
+    "_fetched_at": "2024-08-07T16:13:53Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700ED",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "林　德順",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "テーマ：論文形式で企業経営・社会問題の解決策を探る\n【到達目標】\n(ⅰ)論理的に自論を展開することができる。\n(ⅱ)文章表現が適切である。\n(ⅲ)論文形式を守りながら、論文を作成できる。",
+    "overview": "本講義は、受講生が卒業論文を仕上げることである。具体的には、大学４年間で学んだ知識とスキールを基に、自ら設定した研究課題について、その事象の発生原因を探り、根拠を示しながら解決策を提言する過程を経て、文献調査力、クリティカル・シンキング、アカデミックライティングの力を身に付けることである。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "(ⅰ)論理的に自論を展開することができる。\n(ⅱ)文章表現が適切である。\n(ⅲ)論文形式を守りながら、論文を作成できる。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 90,
+        "発表・実技": 10,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本講義は、演習型を主たる形式とする講義である。能動的に授業に取り組み、知的好奇心を持って授業に臨む必要がある。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "クリティカル・シンキング（1）～科学論文とクリティカル・シンキング～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "クリティカル・シンキング（2）～論証を探求～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "クリティカル・シンキング（3）～演繹的論証と帰納的論証～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "クリティカル・シンキング（4）～パラグラフ構造～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究テーマの発表（1）～研究課題の概要、研究の背景、理論的枠組み～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "研究テーマの発表（2）～研究課題の概要、研究の背景、理論的枠組み～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "研究テーマの発表（3）～研究課題の概要、研究の背景、理論的枠組み～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "研究発表（1）～論文の構成計画～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "研究発表（2）～論文の構成計画～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "研究発表（3）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "研究発表（4）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究発表（5）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "研究発表（6）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究発表（7）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "研究発表（8）～先行研究に基づく理論的枠組み～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "研究発表（9）～理論的枠組みに基づく問題解決策の研究～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "研究発表（10）～理論的枠組みに基づく問題解決策の研究～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "研究発表（11）～理論的枠組みに基づく問題解決策の研究～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "研究発表（12）～理論的枠組みに基づく問題解決策の研究～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "研究発表（13）～理論的枠組みに基づく問題解決策の研究～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "研究発表（14）～問題解決策の検証～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "研究発表（15）～問題解決策の検証～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "研究発表（16）～問題解決策の検証～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "研究発表（17）～問題解決策の検証～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "研究発表（18）～論文の校正（論理の飛躍の有無の検証と修正）～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究発表（19）～論文の校正（論理の飛躍の有無の検証と修正）～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究発表（20）～論文の校正（文章表現が適切であるか否かを検証し・必要に応じて修正）～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究発表（21）～論文の校正（脚注・参考文献の表示が適切であるか否かを検証し・必要に応じて修正）～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "研究要旨の作成と研究発表の準備資料（PPT）を作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "研究発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "なし"
+}

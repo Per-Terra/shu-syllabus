@@ -1,0 +1,210 @@
+{
+    "_fetched_at": "2024-08-08T01:17:47Z",
+    "name_ja": "社会福祉の原理と政策Ⅰ",
+    "name_en": "",
+    "syllabus_number": "2026900A",
+    "course_number": "05HS201",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "社会福祉の原理を学ぶ。社会福祉の歴史を欧米と日本の展開から現代に至るプロセスを学ぶ。さらに、社会福祉の思想・哲学・理論を知ることで社会福祉の意義について理解する。実際に社会で起こっている課題について考え、社会問題と社会構造について知る。",
+    "overview": "社会福祉は、国が目指すべき望ましい状態を実現させるための施策である。いかに社会福祉は、社会全体の幸福を作り出すとかを考える。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "現代の社会問題に関して理論的な裏付けができるようにする。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "日常生活から社会福祉の問題に関心を持つ。新聞やニュースを見るように心がける。時事的な課題に敏感になりましょう。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "ガイダンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "複雑化する現代の社会問題①（人口減少）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "複雑化する現代の社会問題②（高齢化）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "社会問題と社会構造①（貧困・失業）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "社会問題と社会構造②（社会的孤立・偏見と差別）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "社会問題と社会構造③（社会的排除と社会的包摂・依存症・自殺",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "社会問題と社会構造④（ヴァルネラビリティ・ニューリスク）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "社会福祉の原理の意味と展開　(人間の尊厳と人権・福祉理念を含む)(自立の概念を含む)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "社会福祉の歴史を学ぶ視点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "欧米の社会福祉の歴史的展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "日本の社会福祉の歴史的展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "社会福祉の思想・哲学",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "社会福祉の理論と論点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会福祉の対象とニーズ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "総括",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

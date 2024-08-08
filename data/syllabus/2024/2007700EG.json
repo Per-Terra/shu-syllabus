@@ -1,0 +1,379 @@
+{
+    "_fetched_at": "2024-08-07T16:14:01Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700EG",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "村岡　浩次",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本ゼミでは、専門ゼミⅠで学んだ知識を応用し、各自で策定した卒業論文のテーマについて、丁寧に指導していきます。卒業論文を作成することはとても大変な学習ですが、全力で支援・指導しますので、自身の努力とともに良い論文を完成させていくことを目標とします。\n　また、そのような活動を通じて、現実社会の中に自ら問題を見出し、それを実際に解決していく能力を身に着けることを目標とします。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析する\n（ⅱ）経済理論を現実問題へ適用する\n（ⅲ）卒業論文を作成する",
+    "overview": "本授業は学生の自主的・主体的な参加型授業です。各自で策定した卒業論文のテーマについて調査し、毎回の授業でそれを発表・確認し、改善点などの指導を行っていきます。論文を作成することは簡単なことではありませんが、分析の方法論や、先行研究・参考文献、文章の改善など、あらゆる面で支援しますので、最後まで頑張っていきましょう。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "Microeconometrics Using StataーRevised Edition",
+            "year": 2010,
+            "author": "A. Colin  Cameron, Pravin K. Trivedi",
+            "publisher": "STATA Press",
+            "price": 19240,
+            "isbn": "1597180734",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ",
+            "経済学"
+        ],
+        "recommended_courses": [
+            "ミクロ・マクロ経済学演習",
+            "地域経済論",
+            "国際経済学"
+        ],
+        "brings": "",
+        "other": "なし"
+    },
+    "evaluation_criteria": "毎回の研究報告や卒業論文に基づいて評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "論文作成について全力で支援していきます。各自の努力とともに、良い卒業論文を作成しましょう。\n【予習・復習について】\n　卒業論文制作においては、授業時間以外の自主的な研究が極めて重要です。自分が納得できる論文を作成するため、先行研究の調査や分析手法の修得、分析結果の提示や最終的な結論に到達するため、十分な学習時間を確保してください。具体的な目安は１日に４～５時間です。そして、それらの成果を毎回のゼミでぶつけてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n\n各自の論文課題の確認",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "中間報告・ディスカッション①\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "中間報告・ディスカッション②\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "中間報告・ディスカッション③\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "中間報告・ディスカッション④\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "中間報告・ディスカッション⑤\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "中間報告・ディスカッション⑥\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "中間報告・ディスカッション⑦\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "中間報告・ディスカッション⑧\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "中間報告・ディスカッション⑨\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "中間報告・ディスカッション⑩\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "中間報告・ディスカッション⑪\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "中間報告・ディスカッション⑫\n\n先行研究と自らの研究の比較検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "中間報告・ディスカッション⑬\n\n研究テーマ、分析方法の再検討―改善点をまとめる",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期総括\n\n前期の成果をまとめ、夏期休暇の研究計画をまとめる",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "夏季休暇の研究発表\n\n後期研究計画発表\n\n夏季休暇の総括と研究計画の改善",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "中間報告・ディスカッション⑭\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "中間報告・ディスカッション⑮\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "中間報告・ディスカッション⑯\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "中間報告・ディスカッション⑰\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "中間報告・ディスカッション⑱\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "中間報告・ディスカッション⑲\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "中間報告・ディスカッション⑳\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "中間報告・ディスカッション―完成に向けて①\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "中間報告・ディスカッション―完成に向けて②\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "中間報告・ディスカッション―完成に向けて③\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "中間報告・ディスカッション―完成に向けて④\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "中間報告・ディスカッション―完成に向けて⑤\n\n論文指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業論文の仕上げ\n\n卒業論文の改善点をまとめて論文を仕上げる",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業論文最終報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村岡　浩次"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

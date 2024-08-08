@@ -1,0 +1,220 @@
+{
+    "_fetched_at": "2024-08-08T01:18:52Z",
+    "name_ja": "ソーシャルワークの理論と方法Ⅰ",
+    "name_en": "",
+    "syllabus_number": "2029600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①人と環境との交互作用に関する理論とミクロ・メゾ・マクロレベルにおけるソーシャルワークについて理解する。\n②ソーシャルワークの過程とそれに係る知識と技術について理解する。\n③コミュニティワークの概念とその展開について理解する。\n④ソーシャルワークにおけるスーパービジョンについて理解する。",
+    "overview": "本科目はソーシャルワーク実践の基盤となる人と環境との交互作用に関する理論やソーシャルワークの過程、ソーシャルワーク実践に係る多様な知識及び技術を学ぶ科目である。\n　授業内容は、ソーシャルワークの各援助セクションに係る知識や技術をはじめソーシャルワークの記録、コンサルテーションやスーパビジョン、ケアマネジメント等を計画している。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "ソーシャルワークの理論と方法Ⅰ",
+            "year": 2023,
+            "author": "立花直樹、小口将典ほか",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623095209",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "試験（100％）",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読してください（予習30分程度）。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理するようにしてください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "人と環境との交互作用に関する理論とミクロ・メゾ・マクロレベルにおけるソーシャルワーク（システム理論と生態学理論等）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "人と環境との交互作用に関する理論とミクロ・メゾ・マクロレベルにおけるソーシャルワーク（ミクロレベルソーシャルワーク）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "人と環境との交互作用に関する理論とミクロ・メゾ・マクロレベルにおけるソーシャルワーク（メゾ・マクロレベルのソーシャルワーク）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ソーシャルワークの過程（ケースの発見、インテーク、アセスメント）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ソーシャルワークの過程（アセスメントの方法①）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ソーシャルワークの過程（アセスメントの方法②）\nソーシャルワークの記録",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ソーシャルワークの過程（アセスメントの方法③）\nソーシャルワークの記録",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ソーシャルワークの過程（プランニング①：支援目標と計画立案の考え方）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ソーシャルワークの過程（プランニング②　事例を踏まえた計画立案）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ソーシャルワークの過程（支援計画の実施～終結）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "コミュニティワーク",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "コミュニティワークとケアマネジメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "コミュニティワークと集団を活用した支援について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "コンサルテーションとスーパービジョン\nまとめ\nまとめ（確認テスト）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,222 @@
+{
+    "_fetched_at": "2024-08-08T00:56:03Z",
+    "name_ja": "地誌学Ⅱ",
+    "name_en": "Topography II",
+    "syllabus_number": "1002500A",
+    "course_number": "00SS302",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "佐藤　裕哉",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "世界には色々な国や地域があります。例えば、インドってどんな国でしょうか？テレビなどを通して色々なイメージを持っていると思います。グローバル化する社会においては、世界の様々な地域の理解が重要です。私たちが知らない風習や習慣、タブーなどがあるからです。将来、海外で仕事をすることになる人もいると思いますので（海外で勤務しなくても、取引先が海外ということもあると思います）、本講義では、地誌学Ⅰで学んだ世界の諸地域の概要をふまえ、具体的な地域を取り上げて自然や社会、文化などについて学びます。具体的には、身近な地域である山口県と、経済成長が著しく注目を集めているBRICS諸国（ブラジル、ロシア、インド、中国、南アフリカ）を対象とします。 \n\n【到達目標】\n1.地誌学の基礎知識を熟知している。\n2.地誌学の基礎知識を用いてBRICS諸国について理解する。\n3.グローバル化する社会に関して自分の意見を言える",
+    "overview": "講義形式で授業を行い、地誌学Ⅰで学んだ基礎知識を踏まえて、具体的な地域や国を取り上げて地誌学の見方・考え方の応用を目指します。また、双方向の授業となるよう、毎時、地図や統計データの読み取り作業を行ってもらいます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "新詳高等地図",
+            "year": 2022,
+            "author": "帝国書院編集部",
+            "publisher": "帝国書院",
+            "price": 1760,
+            "isbn": "978-4-8071-6643-5",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "人文地理学Ⅰ",
+            "人文地理学Ⅱ",
+            "地誌学Ⅰ"
+        ],
+        "brings": "",
+        "other": "教科書は使用せず毎時プリントを配布します。遅刻、途中退出、私語は厳禁です。"
+    },
+    "evaluation_criteria": "1）試験は、山口県、BRICS諸国について地誌的に理解できているかどうかで評価します。2）その他は、毎時の授業への参加度（地図や統計データの読み取り作業）により評価します。",
+    "evaluation_ratio": {
+        "試験": 85,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 15
+    },
+    "message_from_teachers": "【予習】ニュース等で、授業で扱う山口県やBRICS諸国に関する情報に注意し、何が起きているか把握しておいてください（その背景なども把握しておくと、なお良いです）。\n【復習】授業で習ったこととニュースなど報じられる情報を結びつけながら、BRICS諸国と日本との関わりなどについて考えてみましょう。また、参考図書のものでなくて構いませんので、地図で授業時に扱った地域について確認しておいてください。\n（※予習、復習合わせて60分程度行ってください）\n楽しみながら、世界と日本のつながりや、近さを感じてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、世界の地域の見方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "山口県の自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "山口県の人文社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "BRICSとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ブラジルの自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ブラジルの人文",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ロシアの自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ロシアの人文社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "インドの自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "インドの人文社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "中国の自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "中国の人文社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "南アフリカの自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "南アフリカの人文社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "グローバル化する社会で地誌学の知識をどう使うか",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

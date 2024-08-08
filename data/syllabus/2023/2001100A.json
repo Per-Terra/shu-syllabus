@@ -1,0 +1,361 @@
+{
+    "_fetched_at": "2024-08-08T01:01:46Z",
+    "name_ja": "日本経済概論",
+    "name_en": "Introduction to Japanese Economy",
+    "syllabus_number": "2001100A",
+    "course_number": "01EP101",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "日本経済の戦中、戦後から現在までの推移、課題について解説する。また、日本経済と大きく関連がある政治、国際、環境等に関する事項についても同時に解説する。\n\n【到達目標】\n①戦中から現在までの日本経済の推移、諸課題について理解できる。",
+    "overview": "講義形式で授業を進めていく。学生には受動的に講義を受けるのではなく、これまでの日本経済の動きや課題等、広く関心を持って授業に臨んでもらいたい。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "evaluation_criteria": "期末に実施する「期末レポート」及び「その他」を評価対象とする。\n※「その他」は授業で数回実施する「小レポート」を評価対象とする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "戦後改革と復興１/第2次世界大戦中の日本の経済状況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "戦後改革と復興２/戦後の経済混乱と経済復興に向けた動き",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "高度経済成長１/朝鮮戦争と特需",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "高度経済成長２/所得倍増計画、産炭地域振興政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "高度経済成長３/いざなぎ景気、沖縄返還",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "石油危機と安定成長への転換１/第1次石油危機、列島改造論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "石油危機と安定成長への転換２/第2次石油危機、日米貿易摩擦",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "石油危機と安定成長への転換３/プラザ合意",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "バブル経済の時代１/バブル経済の要因、総量規制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "バブル経済の時代２/1980年代の政治経済の状況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "バブル経済の時代３/バブル経済の崩壊と要因",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "長期停滞の時代１/平成初期の日本の経済状況、同時多発テロ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "長期停滞の時代２/小泉構造改革、第1次安倍政権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "長期停滞の時代３/民主党政権、第2次安倍政権、コロナ禍",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "戦後の日本経済１/戦前から高度経済成長期までの日本経済の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "戦後の日本経済２/高度成長期から現在までの日本経済の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "日本の政治機構/日本経済に大きな影響を与える日本の政治機構（地方自治体を含む）の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "国際政治/日本経済に大きな影響を与える海外紛争の状況、対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "資本主義体制１/資本主義と社会主義の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "資本主義体制２/経済主体、景気循環",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "経済成長と金融/国民所得計算、金融政策の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "財政/日本の財政の推移、財政に関する課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "労働/労働運動の推移、労働問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "社会保障/社会保障制度の概要、高齢化社会への対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "日本経済の諸課題１/中小企業問題、農業問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "日本経済の諸課題２/消費者問題、都市問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "国際経済/経済格差問題、日米貿易摩擦",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "地球環境をとりまく諸課題/地球環境問題、エネルギー問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総括/本授業の内容の振り帰り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}

@@ -1,0 +1,253 @@
+{
+    "_fetched_at": "2024-08-07T17:08:22Z",
+    "name_ja": "人間と健康",
+    "name_en": "Human health",
+    "syllabus_number": "2109300A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "人間健康学部 スポーツ健康科学科",
+        "人間健康学部 看護学科",
+        "人間健康学部 福祉学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "main": false
+        },
+        {
+            "name": "瀬尾　賢一郎",
+            "main": false
+        },
+        {
+            "name": "中嶋　健",
+            "main": true
+        },
+        {
+            "name": "小野　高志",
+            "main": false
+        },
+        {
+            "name": "金子　幸",
+            "main": false
+        },
+        {
+            "name": "難波　利光",
+            "main": false
+        },
+        {
+            "name": "大平　光子",
+            "main": false
+        },
+        {
+            "name": "北村　光子",
+            "main": false
+        },
+        {
+            "name": "梅田　勝利",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. 生活者である人及び 人の健康の 概念や健康を捉える枠組みを説明できる。\n2. 多様な年齢、健康状態にある人の 健康増進 、地域社会の健康向上 に必要な 要素を説明できる。\n3. あらゆる健康状態にある人々の生涯にわたる Wellell-being を実現する方略について考察できる 。",
+    "overview": "人の健康の概念は社会環境に即して変化する。本授業では胎児期から生の終焉まで，発達し続ける生活者である人間の健康とは何かについて，スポーツ健康科学，看護学，福祉学の視点から捉え，どのような健康状態であっても自身の持てる力を発揮して，その人らしいより豊かな健康生活（ Well -being ）を支援する方略について考察する。本授業を通して，人間の健康及びその人らしいより豊かな健康生活を支援および探究していく基礎的知識を修得する。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP2",
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "福祉学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "参考文献等は、講義中に適宜案内する。"
+    },
+    "evaluation_criteria": "課題レポート100%",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "人の健康は国や地域、時代、価値観によってさまざまな捉え方があります。また、健康の定義や概念は変化していくものです 。将来、 人々 の健康増進・未病・予防・治療・看護・介護 にシームレスに 携 わっていく学生間が相互に 学び合う、人間健康科学部だからこそ、 他分野の 視点を尊重し合いながら学んでいきましょう。\n【事前学習・事後学習の時間】\nあわせて90 分程度。\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋健",
+                "大平",
+                "光子",
+                "難波利光"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "人間、健康、環境、看護の概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "人間の健康に関する看護学分野の捉え方（ウエルネス理論、エン\nパワメント、セルフケア）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "環境（自然・物理化学的・社会・文化・価値）が健康に及ぼす影\n響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "あらゆる健康状態にある人々のWell-being",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "身体運動と健康増進",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "運動実践者の健康サポート",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野高志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "スポーツによる健康な社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋健"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "スポーツ教育と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾健一郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "シニアと健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北村光子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "子どもと健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子幸"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "社会福祉法人活動と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田勝利"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "地域と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "あらゆる健康状態にある人の生涯にわたるWell-being 実現のための方略",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "総括",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋健",
+                "大平",
+                "光子",
+                "難波利光"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "本科目の一部は看護師資格を持ち、看護師、助産師としての実務経験を持つ教員が担当する。"
+}

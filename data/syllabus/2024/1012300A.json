@@ -1,0 +1,289 @@
+{
+    "_fetched_at": "2024-08-07T15:41:49Z",
+    "name_ja": "持続可能な社会とダイバーシティ",
+    "name_en": "Sustainable Society and Diversity",
+    "syllabus_number": "1012300A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 スポーツ健康科学科",
+        "人間健康学部 看護学科",
+        "人間健康学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "main": false
+        },
+        {
+            "name": "田尾　真一",
+            "main": false
+        },
+        {
+            "name": "田中　数恵",
+            "main": false
+        },
+        {
+            "name": "寺田　篤史",
+            "main": false
+        },
+        {
+            "name": "水﨑　佑毅",
+            "main": false
+        },
+        {
+            "name": "呉　贇",
+            "main": true
+        },
+        {
+            "name": "小林　啓祐",
+            "main": false
+        },
+        {
+            "name": "赤木　真由",
+            "main": false
+        },
+        {
+            "name": "金子　幸",
+            "main": false
+        },
+        {
+            "name": "渡邊　淳子",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "① SDGsや持続可能な社会について、成り立ちや主旨を説明することができる。\n② ダイバーシティやインクルージョンに関する理念・法制度・課題等に関する基礎知識を理解し、それぞれについて自己の考察を加え説明することができる。\n③ 社会の持続的成長と自身の目標を関連付けて思考・行動できる。",
+    "overview": "本科目は、持続可能な社会作りのために学生各自が現在どのような課題があり、その課題解決に向けて何ができるのかを考えられるようにすることが目的である。持続可能な社会というと、環境問題や経済的な格差問題に目が向きがちであるが、本科目はそれだけではなく、例えば男女共同参画における女性の地位、障がいをもった人々、LGBTQの人々などマイノリティに置かれている、社会参加の側面において「弱い」立場に立たされている人々の人権を福祉の立場から論じてみたり、スポーツの立場から、あるいは言語学の立場からも論じていく。本科目を通して、社会の持続的成長に向けて、学生は自分たちは何ができるのかを考え、行動に移す手段を考えていく力を育むとともに、社会の中では多様な生き方を選択する人々がいることを認めることができる豊かな教養やマインドを養う。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "情報科学科DP4",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "テーマごとに担当教員から示される。",
+            "year": 0,
+            "author": "",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "なし"
+    },
+    "evaluation_criteria": "①SDGsや持続可能な社会の成り立ちや主旨、②ダイバーシティやインクルージョンに関する理念・法制度・課題、③社会の持続的成長と自身の目標\n上記①～③に関する理解度についてテーマごとにレポートや小テストが提示され、評価は総合評価で行う。\n\n評価の割合：レポート50％、小テスト50％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 50,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "シラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "持続可能な社会とダイバーシティ概論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "呉　贇"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "経済と環境問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "男女共同参画",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "言語学から見たジェンダー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中",
+                "数恵"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "障がい者",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "健康と福祉",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑",
+                "佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "子どもの問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "子どもと貧困\n貧困状態にある子どもたちについて、防災との関連性から安心した生活を送れる方策について考える",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩",
+                "目山",
+                "直樹"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "セクシュアリティ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊",
+                "淳子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "性の多様性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊",
+                "淳子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "地域デザインと創造性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "赤木",
+                "真由"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "本学の活動事例",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "寺田",
+                "篤史"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業の発展と社会的責任",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩",
+                "吉本",
+                "龍太郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "経済と持続可能な社会作り\nSDGsと金融",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩",
+                "後藤",
+                "文恵"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "ワークショップ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩",
+                "岡崎",
+                "麻衣",
+                "原田",
+                "宗隆"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "吉本 龍太郎氏…中特グループ、後藤 文恵氏…アイザワ証券、岡崎 麻衣氏…地域食堂鹿野ふらっと食堂主催者、原田 宗隆氏…ちるちあネット代表"
+}

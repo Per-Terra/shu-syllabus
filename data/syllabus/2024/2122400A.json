@@ -1,0 +1,226 @@
+{
+    "_fetched_at": "2024-08-07T17:09:05Z",
+    "name_ja": "心理学と心理的支援",
+    "name_en": "Psychology",
+    "syllabus_number": "2122400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部",
+        "人間健康学部 福祉学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "藤川　卓也",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "①人の心の基本的な理解ができている。\n②人の成長・発達段階の各期に特有な心理的課題について説明することができる。\n③日常生活と心の健康との関係について説明することができる。\n④心理学の理論を基礎としたアセスメントの方法と支援について説明することができる。",
+    "overview": "ソーシャルワーク支援を行うためには、人の理解として例えば人の発達や認知の仕方など、心理的な理解が必ず求められる。本科目は、心理学の中でも最も基本的な視点を身に付けることを目的としている。内容としては、心理学の視点を身につけ、人の心の基本的な仕組みと機能、人の心の発達過程、日常生活と心の健康について理解し、心理学の理論を基礎としたアセスメントと支援の基本を学ぶ。このことにより、学生はその人の健康に影響を与えるさまざまな問題を整理する際に役立たせることができ、支援の必要性について根拠を持ち、ニーズを明確化していくことにつながる。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP2",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "心理学と心理的支援 (最新社会福祉士養成講座精神保健福祉士養成講座)",
+            "year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟",
+            "publisher": "中央法規出版",
+            "price": 2750,
+            "isbn": "978-4805882320",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "教科書、ノートPC",
+        "other": "なし"
+    },
+    "evaluation_criteria": "到達目標に関するテストを学期末に実施し、評価を行う。\n※「その他」は，授業への参加状況・態度で評価を行う。",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "心理学は社会心理学，学習・教育心理学，認知心理学，発達心理学，臨床心理学などの分野があり，分野ごとに数多くの理論が存在します。授業を通して，そうした心理学理論を自分の身に置き換えて体験的に楽しく学習してほしいと思います。\n【予習・復習について】\n予習については必要としませんが，学んだ内容をしっかり身につけて欲しいので，復習はこまめに行ってください（30分ほど）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n心理学の歴史と対象\n心を探求する方法の発展",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "心の生物学的基盤",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "感情・動機づけ・欲求",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "感覚・知覚",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "学習・行動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "認知",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "個人差",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "人と環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "生涯発達\n心の発達の基盤",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "心の不適応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "健康生成論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "心理アセスメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "心理的支援の基本的技法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "心理療法におけるアセスメントと介入技法の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "心理の専門職",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤川　卓也"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

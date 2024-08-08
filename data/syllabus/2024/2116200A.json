@@ -1,0 +1,255 @@
+{
+    "_fetched_at": "2024-08-07T17:08:43Z",
+    "name_ja": "看護学概論",
+    "name_en": "Introduction to Nursing Science",
+    "syllabus_number": "2116200A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "人間健康学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "杉本　吉恵",
+            "main": true
+        },
+        {
+            "name": "上野　和美",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．看護の定義、目的、対象、機能を説明できる。 \n２．ナイチンゲールの看護覚え書きとヘンダーソンの看護の基本となるものを熟読し、それぞれの看護について説明できる。 \n３．人間について身体的、精神的、社会的側面から説明できる。 \n４．健康について人間の身体的、精神的、社会的側面から説明でき、健康であること・健康でないことを説明できる。 \n５．人間を取り巻いている環境と人間は相互に影響しあい、健康にも影響を与えていることを説明できる。 \n６．看護職と法的根拠、看護の提供の場、多職種連携、看護の提供の仕組み（法的根拠）について説明できる。\n７．わが国の看護の歴史を振り返り、将来の看護の在り方を考えることができる。",
+    "overview": "これから学ぶ看護学へのイントロダクションとして、看護とは何かを考え、看護の本質とその役割の重要性を学ぶ科目である。看護の主要概念である「看護」、「人間」、「健康」、「環境」について理解し、看護の提供者、看護提供の仕組みについて具体的に学ぶ。 \n授業では、提示された課題について自己学習し、グループで討議しクラス全体で発表する機会を設ける。",
+    "corresponding_diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門分野Ⅰ　看護学概論",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護覚え書　改訳第7版",
+            "year": 0,
+            "author": "Florence Nightingale",
+            "publisher": "現代社",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護の基本となるもの",
+            "year": 0,
+            "author": "Virginia Henderson",
+            "publisher": "日本看護協会出版",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "必要時、授業で紹介する",
+            "year": 0,
+            "author": "",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "教科書・筆記用具等、ノートパソコンまたはタブレット端末",
+        "other": "授業の前に、テキストで該当する内容部分を熟読してきてください。"
+    },
+    "evaluation_criteria": "授業の到達目標の達成度で評価する。成績評価は、課題レポート50％　筆記試験50％で総合的に評価し60点以上で合格とする。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "看護学について初めて学ぶ授業です。看護実践の面白さもお伝えし、学生の皆さんの看護への興味・関心を刺激できるように授業に取り組みたいと思います。 \n授業の各回の予習復習の時間は、２時間程度必要になります。計画的に学習に取り組みましょう。 \n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業オリエンテーション \n看護学へのイントロダクション　 \n看護とは、看護の定義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "看護の本質：ナイチンゲールの看護覚え書き１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "看護の本質：ナイチンゲールの看護覚え書き２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "看護の本質：ヘンダーソンの看護の基本となるもの１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "看護の本質：ヘンダーソンの看護の基本となるもの２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "看護の主要概念：人間１ \n　こころとからだ \n　患者の心理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "看護の主要概念：人間２ \n　身体的発育 \n　心理・社会的側面における発達 \n　人間の暮らし",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "看護の主要概念：健康 \n　健康とは \n　健康でないとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "看護の主要概念：環境 \n　環境、環境と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "患者さんから学ぶ（薬害エイズ患者さんなど）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "看護の提供者　 \n　看護師　助産師　保健師 \n　看護職者の継続教育とキャリア開発",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "看護の提供者　 \n\n　看護師　助産師　保健師 \n\n　看護職者の継続教育とキャリア開発 \n\n看護の提供のしくみ：看護サービスの提供の場　 \n　多職種連携とチーム医療",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "看護の提供のしくみ：看護をめぐる制度と政策１ \n　我が国の法体系、看護をめぐる法と制度、医療法、保健師助産師看護師法、看護師の裁量権の範囲、看護師職者の法的責任、看護学生の法的責任",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "看護の提供のしくみ：看護をめぐる制度と政策２ \n　看護師等の人材確保の促進に関する法律、個人情報の保護、介護保険法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "わが国における看護職の歴史と将来展望",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "看護師としての臨床経験に基づいて、看護学の基盤となる看護理論や専門知識についてわかりやすく教授する。"
+}

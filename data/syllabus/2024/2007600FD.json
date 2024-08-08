@@ -1,0 +1,391 @@
+{
+    "_fetched_at": "2024-08-07T15:55:58Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600FD",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①自分の興味・関心のある研究テーマを設定することができる。\n②論文の書き方・約束事について説明することができる。\n③自分が調べてきた内容について適切にプレゼンテーションができる。\n④グループディスカッションに参加することができる。",
+    "overview": "本授業においては、卒業論文を執筆するための準備の段階として、各自の興味・関心のあるテーマを設定し、そのテーマを研究する方法を理解し、卒業論文の序論・本論にあたる部分の概要を完成させる。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "PC",
+        "other": "必要な資料については適宜配付する。必要な書籍については授業中に指示する。"
+    },
+    "evaluation_criteria": "①テーマ設定、②論文の書き方の理解、③プレゼンテーション、④グループディスカッション",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 50,
+        "ポートフォリオ": 30,
+        "その他": 0
+    },
+    "message_from_teachers": "前半は講義中心になるので、予習として専門用語の復習をしておいてください（60分程度）。復習として講義の内容をノート等に整理しておいてください（180分程度）。後半は、プレゼンテーションを行いますので、十分に準備をしておいてください（240分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション　自己紹介\n授業の進め方\nテーマ設定の方法についての解説",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "テーマ設定の方法についての解説\n各自のテーマに対して質疑応答を行い、テーマを絞り込む",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "各自のテーマを深めるためのグループディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究方法についての説明：量的研究",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究方法についての説明：質的研究",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "論文の書き方の説明：論文の構成について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "論文の書き方の説明：文献の探し方、引用方法について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "論文の書き方の説明：要約の方法について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "レポート（序論部分）作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "先行研究のレビューの方法の説明",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "先行研究のレビューについて発表とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "先行研究のレビューについて発表とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "調査の準備：調査票、インタビューガイドの作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "調査結果の整理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "調査結果の整理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "調査結果の整理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "調査結果の整理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "レポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "レポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "レポート（本論部分）完成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

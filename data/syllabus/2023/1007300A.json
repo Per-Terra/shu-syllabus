@@ -1,0 +1,225 @@
+{
+    "_fetched_at": "2024-08-08T00:57:08Z",
+    "name_ja": "キャリアプランニングⅡ",
+    "name_en": "Career Planning II",
+    "syllabus_number": "1007300A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "坂本　勲",
+            "main": true
+        },
+        {
+            "name": "河田　正樹",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本学の教育目標である「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」という目標に対し、就職筆記試験という具体的な試験問題に対する知識、解法を身に付け就職筆記試験に合格する能力を習得する。また業界、職種、企業を分析する能力を習得する。\n\n【到達目標】\n① 業界、職種、一般企業の分析ができる。\n② 就職筆記試験（SPI3、一般常識、時事問題等）の基本的な問題が正解できる。\n③ 時事問題に関連する政治・経済等のニュースを見る習慣が身に付けている。",
+    "overview": "授業のねらい：一般企業の具体的な調査、分析の方法の解説を行い自分で業界、企業を選択できるよう指導する。就職筆記試験の学習を行い就職筆記試験に対するレベルアップを行う。また山口県下の企業の情報も提供し、地元企業の就職についても有益な内容です。\n概要： 企業調査の方法の解説。SPI、一般常識、時事問題の学習指導・演習・解説。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "① 業界、職種、一般企業の分析、② 就職筆記試験の基本的な問題への対応、③ 時事問題に触れる習慣　について、「学生に対する評価」」の内容で評価します。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "この講座を通して業界・職種・企業分析の方法の習得と就職筆記試験で合格できるレベルとなることを目指してください。\n\n【予習・復習について】\n(第6回以降)\n予習…テキストの指示された問題を解き、解説の動画を視聴してください。テストゼミ形式で授業を実施しますので、予習が必要になります。\n復習…当日の内容やテキストの該当する単元を確認し、内容の定着をはかること。\n※ 予習・復習合わせて60分程度行うようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "業界研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "職種、企業研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "企業分析の基礎、財務分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "希望する業界の調査演習、レポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "希望する企業の調査演習、レポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "SPIの勉強方法について\nSPI問題演習＋解説（損益算、割合、同意語）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "SPI問題演習＋解説（料金の割引、料金の分割払い、反意語）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "SPI問題演習＋解説（料金の精算、仕事算、二語関係）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "SPI問題演習＋解説（濃度算、文法）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "SPI問題演習＋解説（速さ、旅人算、ことわざ・四字熟語）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "SPI問題演習＋解説（順列、組合せ、語の意味）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "SPI問題演習＋解説（確率、語彙・慣用句）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "SPI問題演習＋解説（資料解釈、表の読み取り、集合、語句）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "SPI問題演習＋解説（推論、図形の展開図、空所補充）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "SPI問題演習＋解説（時事問題・一般常識）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

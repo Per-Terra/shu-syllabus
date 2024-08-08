@@ -1,0 +1,245 @@
+{
+    "_fetched_at": "2024-08-07T15:54:45Z",
+    "name_ja": "マーケティング戦略実習",
+    "name_en": "Marketing Strategies and Practice",
+    "syllabus_number": "2005800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【目標】\n①マーケティング戦略の基礎を体系的に知る。\n②製品戦略の基礎を実践し、体得する。",
+    "overview": "マーケティングは、理論と実務が相互に関連しあって成り立っており、日々進化していく学問です。本科目では、マーケティング理論を実務として使いこなせるように講義・演習を行います。内容に応じてゲスト講義を組み込む場合があります。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3"
+    ],
+    "textbooks": [
+        {
+            "title": "「マーケティング」実践講座",
+            "year": 2023,
+            "author": "弓削 徹",
+            "publisher": "日本実業出版社",
+            "price": 2200,
+            "isbn": "978-4-534-06015-0",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "コトラー、アームストロング、恩藏のマーケティング原理",
+            "year": 2014,
+            "author": "フィリップ コトラー, ゲイリー アームストロング, 恩藏 直人",
+            "publisher": "丸善出版",
+            "price": 5280,
+            "isbn": "978-4-621-06622-5",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "以下に関して「学生に対する評価」の内容で評価する。\n\n①マーケティングの基本的な知識・戦略の理解ができているかどうか\n②論理的思考ができているかどうか\n③各ステークホルダー起点の思考と企業価値を上げるストーリー立てができているかどうか",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 40,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "マーケティング論の基礎知識を復習しながら、一緒に課題を考え、マーケティングを実践していきましょう。\n予習：次回実施内容を確認の上、該当箇所の通読をお願いします。（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成し、知識・論理的思考を定着させてください。（60～90分）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、イントロダクション／授業計画・授業内容・成績評価・到達目標説明\nマーケティングの手順／戦略の立て方と分析方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "マーケティング調査／なぜ必要か、種類、手順、作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ケース・ディスカッション１",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "新規事業・新商品開発／STP、開発手順、アイデア・テーマ出し、計画の最適化",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "マーケティング調査の有効化／効果を疑う、インサイトを探りだす",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ネーミング／ツールとしてのネーミング、戦略的ネーミング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "有利な価格設定／値上げの必要性と効果、利益変化と最適価格",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "流通チャネルの決定／戦略的な決定、オムニチャネル戦略",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ケース・ディスカッション２",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "プロモーション実施／販路開拓効果の最大化、プロモーション戦略、効率化、広告・販促制作、プレスリリースの活用",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "キャッチコピーを書く／キーワードの有用性、売れる言葉のセット",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ブランド育成／ブランドの役割と効果、構築・発展、顧客と関係性",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業価値を高める戦術／勝てる事業ドメイン、戦い方、時代と企業の社会的立場、行動経済学",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "グループ課題",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "グループ課題",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

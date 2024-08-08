@@ -1,0 +1,231 @@
+{
+    "_fetched_at": "2024-08-07T16:44:54Z",
+    "name_ja": "データマイニング",
+    "name_en": "",
+    "syllabus_number": "2026400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "矢島",
+            "main": false
+        },
+        {
+            "name": "安敏",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ビジネスの世界では、日々膨大なデータが蓄積されている。このうような大量のデータを深く掘り下げて分析することにより、これまでに知られていない新しい知識の発見に繋がり、ビジネス戦略の支援に役立てることが期待できる。\nデータマイニングは、従来からの数理統計学、人工知能の分野の研究成果を包含しつつ、大量データを対象とする知識発見技術として注目されている。本講義では、データマイニングの基本的考え方、代表的手法について学ぶ。\nPythonを使ってデータマイニングのプログラムを実行できる。\nデータマイニングの主な手法について理解する。\n実行結果をレポートとしてまとめる。",
+    "overview": "講義では、主にデータマイニングの手法を概説し、Python使って実際にプログラムを実行する。実行結果をまとめレポートとして提出する。 また、講義進度は受講者の理解度によって弾力的に変更する場合があります。\n※対面で実施する回、オンラインで実施する回がありますので、講義内での説明をよく聞いておくこと。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "Python入門"
+        ],
+        "recommended_courses": [],
+        "brings": "パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "小テストを行い成績の評価とする。レポートも課す。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 40,
+        "レポート": 60,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "講義では、PCとインターネットを使いプログラミングや小テストを行うため、インターネットに接続可能なPCが必要です。また、予習と復習を兼ねたレポート課題（およそ1時間程度）に各自で取組に取組む必要があります。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "・ガイダンス\n授業の進め方、成績評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "・環境の構築\nGoogle Colaboratory と Python の準備",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "・データマイニングの準備\n基礎集計の目的、概要、準備",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "・基礎集計\nPythonを用いたデータの基礎集計手法",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "・可視化\nPythonを用いたデータの可視手法",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "・基礎集計と可視化の実践\nデータを用いた基礎集計と可視化の実践",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "・クラスタリング分析（１）\nクラスタリング分析の概要",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "・クラスタリング分析（２）\nデータを用いたクラスタリング分析の実践",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "・回帰分析（１）\n回帰分析の概要",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "・回帰分析（２）\nデータを用いた回帰分析の実践",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "・分類（１）\n分類手法の概要",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "・分類（２）\nデータを用いた分類の実践",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "・機械学習（１）\n機械学習手法の概要",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "・機械学習（２）\nデータを用いた機械学習の実践",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "・まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

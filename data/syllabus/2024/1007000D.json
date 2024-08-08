@@ -1,0 +1,219 @@
+{
+    "_fetched_at": "2024-08-07T15:32:20Z",
+    "name_ja": "地域ゼミ-2",
+    "name_en": "Seminar for Community Revitalization",
+    "syllabus_number": "1007000D",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "岡井　理香",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本ゼミは「well-being・スポーツ・健康」をテーマとし、産学官連携による地域共創事業に参画する。履修生一人ひとりの個性を活かしたイベント・企画の立案と運営を通して、地域で学び、地域とつながり、地域に貢献する。達成目標は以下３点である。\n\n１）周南地域が抱える健康・スポーツの課題を説明できる。\n２）上記に対する自らの考えを表現できる。\n３）上記の解決に向けて、主体的に行動できる。",
+    "overview": "小集団での協同学習にてイベント・企画の立案と準備を進め、社会実走する。具体的には下記3点をくり返し、1年間かけて各チームの企画を創り上げ、効果検証を行う。\n\n１）企画書・計画書の作成\n２）プレゼンテーション・質疑応答\n３）試行・ブラシュアップ・リフレクション",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "主体性、レポート、プレゼンテーション、協同学習への貢献度を総合的に評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本ゼミは、Challenge・Change・Chanceをモットーに、産学官連携の下、学生一人ひとりの興味・関心に応じて、多彩な企画の立案と運営に挑戦します。また、自分たちの考えや取り組みを広く発信していきます。そのための準備や協同学習に主体的・積極的に取り組むことのできる真摯な学生を募集します。スポーツの得意不得意はまったく問いません。\n\n※本ゼミは「ワークショップデザインⅠ」と連動しているため、本年度の「ワークショップデザインⅠ」を必ず履修してください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス・オリエンテーション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "企画ミーティング①（企画立案）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "企画ミーティング②（企画書・計画書）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "企画ミーティング③（プレゼンテーション）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "企画準備①（会場下見）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "企画準備②（物品）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "企画準備③（レイアウト・タイムスケジュール）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "地域実習①（産学官連携会議）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "地域実習②（企画の試行_１回目）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "地域実習③（企画のリフレクション・ブラシュアップ_１回目）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "地域実習④（企画の試行_２回目）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "地域実習⑤（企画のリフレクション・ブラシュアップ_２回目）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "地域実習⑥（企画の本実施）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "地域実習⑦（企画のリフレクション・ブラシュアップ_３回目）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "成果発表会・まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、ヘルスプロモーションの推進およびスポーツ・運動関連領域の教育実践に必要な知識とスキルを高める。"
+}

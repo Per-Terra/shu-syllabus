@@ -1,0 +1,234 @@
+{
+    "_fetched_at": "2024-08-08T01:16:10Z",
+    "name_ja": "プログラミング演習",
+    "name_en": "Exercise in Computer Programming",
+    "syllabus_number": "2022500A",
+    "course_number": "10ES301、05WI302",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "(ⅰ) メソッドの考え方が理解できるようになる。\n(ⅱ) オブジェクトの考え方が理解できるようになる。\n(ⅲ) 継承の考え方が理解できるようになる。\n(ⅳ) 上記(ⅰ)～(ⅲ)の考え方を使って、簡単なJavaプログラミングができるようになる。",
+    "overview": "Javaは、企業システム、組込システム、モバイルシステムまで、多岐にわたる分野で利用されているオブジェクト指向型プログラミング言語の一つです。\n本講義では、Javaの学習を通じて、プログラミングとは何かを理解し、判断分岐や繰返しまでの制御構造を使った簡単なプログラムを組めることを目的とします。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "新・明解Java入門 第2版",
+            "year": 2020,
+            "author": "柴田望洋",
+            "publisher": "SBクリエイティブ",
+            "price": 2700,
+            "isbn": "978-4-8156-0601-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "やさしいJava 第7版",
+            "year": 0,
+            "author": "高橋麻奈",
+            "publisher": "SBクリエイティブ",
+            "price": 2838,
+            "isbn": "978-4-8156-0084-6",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "プログラミング基礎"
+        ],
+        "recommended_courses": [
+            "Python入門"
+        ],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "（ⅰ）メソッドの考え方　（ⅱ）オブジェクトの考え方　（ⅲ）継承の考え方　（ⅳ）プログラミング\n上記（ⅰ）～（ⅳ）に関する理解度を実技40％、課題30％、レポート15％、小テスト15％で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 15,
+        "レポート": 15,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "将来、プログラマなどのエンジニアとして情報産業で活躍したいと考えている皆さんにとって、プログラミング言語を修得することは必須です。Javaというプログラミング言語を通じて、プログラムの組み方を学びましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス\nオブジェクト指向プログラミングとは？",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "オブジェクトとクラス",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "メソッド、インスタンスとコンストラクタ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "アクセス修飾子とゲッター、セッター",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "カプセル化について",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "継承について",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ポリモーフィズムについて",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "オブジェクト指向を踏まえたプログラミング",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ライブラリ（API）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "GUIプログラミング",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "イベント駆動型プログラミング",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "一定の動作をするプログラムを作成する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "プログラムの改良",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アプリケーションの作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本講義のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

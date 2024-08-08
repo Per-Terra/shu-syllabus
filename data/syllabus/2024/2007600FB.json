@@ -1,0 +1,380 @@
+{
+    "_fetched_at": "2024-08-07T15:55:55Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600FB",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "牛島　豊広",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目は、学生が主体的に取り組む研究過程を通じて、卒業論文における研究課題の明確化、科学的アプローチの方法の理解、論理的思考、研究的な視点や態度を習得するものである。授業の到達目標は以下の通りである。\n①社会福祉領域で解決すべき課題について説明することができる。\n②研究課題に関し文献を収集する方法について説明することができる。\n③科学的根拠を導くための調査方法について説明することができる。\n④研究計画を文章化する力⑤研究活動における倫理について説明することができる。",
+    "overview": "授業では、研究テーマを決定するために必要な文献収集の方法、研究課題の設定の方法、調査方法、データ分析の方法について解説し、研究計画書を作成する。また、研究倫理についても説明し、責任ある学術研究活動に取り組む。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "特定の図書は指定せず授業中に資料を配布します。",
+            "year": 0,
+            "author": "-",
+            "publisher": "-",
+            "price": 0,
+            "isbn": "-",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "参考図書は講義内で適時案内します。",
+            "year": 0,
+            "author": "-",
+            "publisher": "-",
+            "price": 0,
+            "isbn": "-",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "①社会福祉領域で解決すべき課題②研究課題に関し文献を収集する方法③科学的根拠を導くための調査方法④研究計画を文章化⑤研究活動における倫理について以下の割合で評価します。\n「発表・実技」は、授業の取り組み意欲、研究計画書の作成及び発表について評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "ソーシャルワーカーとして研究の視点を身に付けることは将来福祉現場でも役立てることができます。福祉現場をエビデンスを立てて分析し、利用者支援ができるようになってほしいと考えています。そのためにも、時間をかけて先行研究を整理し、研究目的を設定していきます。そして、研究目的を明らかにするための研究方法を適切に選択し、結果を導いていきます。本科目では、研究計画書を作成することまでを目標としてすすめていきます。\n授業においては、次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方と研究の取り組み",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究に取り組む意義",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "卒業研究に取り組む目的",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "卒業研究の進め方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "卒業研究の執筆スケジュール",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "卒業研究テーマの検討①テーマの探索",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "卒業研究テーマの検討②テーマの探索の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "卒業研究テーマの検討③文献収集の方法～図書館の活用～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "卒業研究テーマの検討④文献収集の方法～研究誌の活用～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "卒業研究テーマの検討⑤文献収集の方法～インターネットの活用～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "卒業研究テーマの検討⑥文献収集",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "卒業研究テーマの検討⑦文献収集の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "卒業研究テーマの検討⑧研究テーマの整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "卒業研究テーマの検討⑨研究テーマの決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "卒業研究テーマの検討⑩研究テーマの発表～前半組～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "卒業研究テーマの検討⑪研究テーマの発表～後半組～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "研究方法の検討①研究方法の種類",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "研究方法の検討②研究方法の理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "研究方法の検討③研究テーマに沿った研究方法の検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "研究方法の検討④研究テーマに沿った研究方法の決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "研究活動における倫理と倫理申請の理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "研究倫理の書類の作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "研究倫理の書類の提出",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "研究計画書の作成①研究計画書を作成する目的",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "研究計画書の作成②研究計画書のフォーマットの確認",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究計画書の作成②研究計画書のフォーマットの作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究計画書の作成③研究計画書のフォーマットの完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究計画書の作成④研究計画書のパワーポイント作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "研究計画の発表①口頭発表～前半組～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "研究計画の発表②口頭発表～後半組～",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

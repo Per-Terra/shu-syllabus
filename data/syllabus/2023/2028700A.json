@@ -1,0 +1,217 @@
+{
+    "_fetched_at": "2024-08-08T01:18:36Z",
+    "name_ja": "権利擁護を支える法制度",
+    "name_en": "",
+    "syllabus_number": "2028700A",
+    "course_number": "05SW309",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "服部　恭弥",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "知識（理解）障がい者や高齢者の現状や権利擁護の課題について理解する。②態度（関心・意欲）権利擁護についての知識習得への意欲や法制度に関心を持つ。③技能（表現）授業での発表等を通じてプレゼンテーションや適切な表現を学ぶ。④思考・判断　福祉の理念や思想を学び、的確な判断力と福祉専門職として鋭い人権感覚を身につけることを目標とする。",
+    "overview": "①法に共通する基礎的な知識を身につけるとともに、権利擁護を支える憲法、民法、行政法の基礎を理解する。②権利擁護の意識と支える仕組みにについて理解する。③権利が侵害されている者や日常生活上の支援が必要な者に対する権利擁護活動の実際について理解する。④権利擁護活動を実践する過程で直面しうる問題を、法的観点から理解する。⑤ソーシャルワークにおいて必要となる成年後見制度について理解する。福祉専門職として権利擁護を実践するため成年後見制度を中心に学習し、人権侵害に対する感覚を身につけ、必要とされる行政法規についても理解する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "権利擁護を支える法制度",
+            "year": 2021,
+            "author": "一般社団法人　日本ソーシャルワーク教育学校連盟　編集",
+            "publisher": "中央法規",
+            "price": 2500,
+            "isbn": "978-4-8058-8239-9",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "受講態度及びレポート提出を重視する。",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法の基礎①　法と規範　法の体系、種類、機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "2",
+            "content": "法の基礎②　法律の基礎知識、法の解釈、裁判所判例",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ソーシャルワークと法の関わり①　憲法の概要、基本的人権等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ソーシャルワークと法の関わり②　民法の総則、規約、不法行為、親族",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ソーシャルワークと法の関わり③　行政法　行政処分、行政訴訟制度、国と地方自治体",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "6",
+            "content": "権利擁護の意義と支える仕組み①　権利擁護の意義、福祉サービスの適切な利用、苦情解決",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "7",
+            "content": "権利擁護の意義と支える仕組み②　虐待防止法及び差別禁止法の概要、意思決定支援ガイドライン",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "8",
+            "content": "権利擁活動における法的諸問題①　インフォームド・コンセント、　秘密、プライバシー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "9",
+            "content": "権利擁活動における法的諸問題②　個人情報　守秘義務、　通報等社会の安全",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "10",
+            "content": "権利擁護に関わる関係団体　組織・団体の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "11",
+            "content": "成年後見制度①　成年後見制度の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "12",
+            "content": "成年後見制度②　後見の概要　成年被後見人の行為能力、後見人の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "13",
+            "content": "成年後見制度③　保佐・補助の概要　任意後見の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "14",
+            "content": "成年後見制度④　成年後見制度の動向　成年後見制度利用支援事業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "15",
+            "content": "成年後見制度⑤　日常生活自立支援事業の概要、動向、専門職の役割　まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

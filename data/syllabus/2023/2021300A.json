@@ -1,0 +1,178 @@
+{
+    "_fetched_at": "2024-08-08T01:15:45Z",
+    "name_ja": "情報関係法",
+    "name_en": "Information-related Law",
+    "syllabus_number": "2021300A",
+    "course_number": "05IC202",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水野　陽一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "建学の精神である「公正な社会観と正しい倫理観の確立」に関連する科目であり、教育目標のうち、とりわけ[２]「世界的視野と広く豊かな教養を有する人材を育成する」ために必要な科目です。情報関係の法学の基礎知識を学ぶことで、実社会におけるデータ保護についての必要な知識を身につけることを目標とします。",
+    "overview": "この授業では、法学の基礎について簡単に説明した上で、主に情報分野においてどのように法律が適用されているかを見ていきます。情報技術、特にAI技術の発展について説明し、AI時代におけるデータ保護の重要性について海外の事情を踏まえて説明します。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "（i）法学（情報関係法分野）に関する基本知識が身についた。\n\n（ii）データ保護に関する法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n\n（iii）データ保護と法との関わりに対して、省察を深めることができた。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "主体的に抗議に参加してください。予習もですが復習がより大切です。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "講義概要及び実施方法の説明",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "データ保護にとってなぜ法が必要か？",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "情報関連技術の発展とAI",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "AIの今",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "プライバシーとデータ保護",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "憲法とデータ保護",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "個人情報保護法",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "EUにおけるデータ保護の実相",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "EUデータ保護一般規則",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "EUにおけるAI原則",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "プライバシーバイデザインとAI",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "刑法とAI",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "サイバー犯罪",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "情報技術と刑事手続",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "まとめ",
+            "methods": [],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

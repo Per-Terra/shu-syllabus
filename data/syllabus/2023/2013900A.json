@@ -1,0 +1,211 @@
+{
+    "_fetched_at": "2024-08-08T01:13:38Z",
+    "name_ja": "公衆衛生学",
+    "name_en": "Public Health",
+    "syllabus_number": "2013900A",
+    "course_number": "05SW201",
+    "target_departments_and_courses": [
+        "福祉情報学部",
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長谷　亮佑",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "健康と健康に関連する社会・生活についての理解を深める。そのために必要な疫学・保健統計、法律・社会制\n度を理解する。\n\n【到達目標】\n(ⅰ)社会・生活と健康の関連を理解する\n(ⅱ)疫学・保健統計を理解する\n(ⅲ)法律・社会制度を理解する",
+    "overview": "毎回配布資料を用い授業を行う。\n参加型授業としてグループワークやディスカッションなどを取り入れる。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "厚生労働省のHPを参照すること。→https://www.mhlw.go.jp/index.html"
+    },
+    "evaluation_criteria": "(ⅰ)社会・生活と健康の関連の理解、(ⅱ)疫学・保健統計の理解、(ⅲ)法律・社会制度の理解の三点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 15,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 15
+    },
+    "message_from_teachers": "健康とは何か、健康を維持増進するためにはどうしたらいいかを一緒に考えましょう。\n\n【予習・復習について】\n各回の授業内容を見直し知識を定着させてください（60分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "公衆衛生・社会医学とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "環境と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "疫学・保健統計",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "予防医学・健康管理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "生活習慣病",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "がん",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "食事・運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "睡眠・飲酒・喫煙",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "感染症",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "地域保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "産業保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "保健医療福祉の制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "国際保健・保健医療の倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "まとめ①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "【職歴】\n2008年～2010年 山口大学医学部附属病院 研修医\n2013年～現在　山口大学大学院医学系研究科 公衆衛生学・予防医学講座\n【実務経験を活用した授業内容】\n公衆衛生・社会医学の専門家として、公衆衛生学の現場を伝える。\n内科医・産業医として、臨床の現場を伝える。"
+}

@@ -1,0 +1,245 @@
+{
+    "_fetched_at": "2024-08-08T01:22:30Z",
+    "name_ja": "商業学(2022以降入学者)",
+    "name_en": "Study of Commerce",
+    "syllabus_number": "2043800A",
+    "course_number": "02CM201、05HS209",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "商業、流通は、わたしたちにとって身近な存在であり、商業学は日常生活と密接に結びついた学問です。\n商業の基礎となる小売業、流通を中心に取り上げ、各々の機能・特徴などの基本的な知識の獲得を目指します。\n（小売と流通の構造・小売と流通の関係性の理解、商業をめぐる課題についての説明）",
+    "overview": "講義、および、ディスカッションにて授業を進める。積極的にアウトプットすることで知識を確実に身に付けることができるようにする。\n学生の積極的な参加が求めらる。講義ごとにショートレポートを実施する。\nまた、内容に応じてゲスト講義を組み込む場合がある。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "現代商業学　新版",
+            "year": 2012,
+            "author": "高嶋克義",
+            "publisher": "有斐閣アルマ",
+            "price": 2310,
+            "isbn": "978-4-641-12464-6",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "１からの流通論〈第２版〉",
+            "year": 2018,
+            "author": "石原 武政 、竹村 正明 、細井 謙一",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": "978-4-502-28361-1",
+            "available_on_campus": false
+        },
+        {
+            "title": "ベーシック流通と商業［第3版］",
+            "year": 2021,
+            "author": "原田 英生 、向山 雅夫 、渡辺 達朗",
+            "publisher": "有斐閣",
+            "price": 2200,
+            "isbn": "978-4-641-22171-0",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "以下に関して「学生に対する評価」の内容で評価する。\n(ⅰ)小売と流通の構造を理論的に説明できる\n(ⅱ)小売と流通の関係性を理論的に説明できる。\n(ⅲ)商業をめぐる新しい課題について理論的に説明できる。",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "小売と流通、それぞれの構造や両者の関係について、問題点やその解決策などについて一緒に考えていきましょう。\n予習：次回実施内容を確認の上、教科書該当箇所の通読\n復習、レポート：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、イントロダクション／授業計画・授業内容・成績評価・到達目標説明",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "商業学とは何か／小売商業と流通の関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "小売商業の構造１／商業の構造と小売店舗の位置づけ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "小売商業の構造２／消費者行動と小売競争",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ワークショップ：小売商業の構造についてまとめる",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "卸売商業の構造１／卸売商業の発生と構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "卸売商業の構造２／多段階流通と消費者行動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ワークショップ：卸売業の具体例を調べる",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "現代の流通構造について１／情報化の影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "現代の流通構造について２／eコマースの展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "現代の流通構造について３／流通段階への影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ワークショップ：流通の変化とその意義について整理する",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "商業における信頼関係１／信頼関係と市場取引",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "商業における信頼関係２／信頼関係の構築",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "ワークショップ：商業と信頼関係についてまとめる",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

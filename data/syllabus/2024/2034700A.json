@@ -1,0 +1,231 @@
+{
+    "_fetched_at": "2024-08-07T17:03:30Z",
+    "name_ja": "解剖学",
+    "name_en": "Human Anatomy",
+    "syllabus_number": "2034700A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "小笠　博義",
+            "main": true
+        },
+        {
+            "name": "尾形　聡",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①人体の基本構造について理解できる。\n②人体を構成する臓器の位置・形態を理解できる。\n③運動やスポーツに関連する傷害や疾病の基礎知識を得ることにより、健康状態を系統的に把握することができる。",
+    "overview": "ヒトの健康や運動・スポーツを理解する上で必要とされる身体の構造や機能を理解するとともに、運動やスポーツに関連する傷害や疾病の基礎知識を得ることを目標とする。人体の基本構造（骨格、関節、筋肉、神経）、人体を構成する臓器（呼吸器、循環器、消化器、感覚器、泌尿器、生殖器、内分泌器官）の位置・形態を一連の機能系統別に学修し、健康状態を系統的に把握するために必要な解剖学的知識を修得する。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツ健康科学科DP2",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "ぜんぶわかる人体解剖図",
+            "year": 2017,
+            "author": "坂井建雄　橋本尚嗣",
+            "publisher": "成美堂出版",
+            "price": 1900,
+            "isbn": "978-4-415-30619-3",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "特になし",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "筆記試験 50%、課題レポート 30%、授業への参加意欲 20%",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "人体の構造のこと、生命現象のことを知ることで、より人間に興味をもってもらえればと思います。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（授業の進め方の確認）、人体解剖の歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義",
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "全身の骨格、骨の構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "関節の形態としくみ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "全身の筋肉",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "筋肉の構造、筋の種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "中枢神経系と末梢神経系、神経の仕組み、神経伝達の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "脳神経の仕組み、脊髄神経の仕組み、運動神経と知覚神経、自律神経系",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "循環器系の概要、全身の血管",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "血液の成分とはたらき、免疫の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "内分泌系・呼吸器系の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "消化器系の仕組み、消化と吸収の仕組み、消化管の運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "感覚器系の仕組み①位置・形態",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "感覚器系の仕組み②機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "泌尿器系・生殖器系の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形聡"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめと解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠博義",
+                "尾形聡"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "日本スポーツ協会スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

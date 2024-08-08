@@ -1,0 +1,138 @@
+{
+    "_fetched_at": "2024-08-08T00:57:45Z",
+    "name_ja": "哲学",
+    "name_en": "philosophy",
+    "syllabus_number": "1009600A",
+    "course_number": "00HM104",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１、哲学の代表的な諸問題を考察することによって哲学独自の思考方法を理解できる。\n２、様々な哲学の問題についても、自力で考察できるようになる。そのために、存在論、認識論、心の哲学、言語哲学等の代表的な問題のいくつかを考察してみる。",
+    "overview": "日常において常識的に前提とされていることを問い直し、その意味をあらためて説き明かそうとするのが哲学である。本講義では論理的思考力を培い、多様かつ柔軟な視点をもち、ひいては現代の諸問題にも対処できる力をつけることを目指し、6つのテーマで講義を行う。すなわち「人間らしさとは何か」、「「私」の身体」、「生と死の接点」、「心の問題」、「言語と論理」、「責任と自由」である。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "6つのテーマ、①「人間らしさとは何か」、②「「私」の身体」、③「生と死の接点」、④「心の問題」、⑤「言語と論理」、⑥「責任と自由」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "哲学的な思考法とは、「そもそも疑ってみる」という考え方である。常識として受け入れられている考えを疑い、何となく使っている言葉の定義を疑い、本質はどこにあるのかを見極めることが重要である。このような思考方法を日常経験や現実の様々な局面に適用して吟味してみよう。\nまた、授業中に配布された資料や自分で作成した講義ノートは、次回の授業までに読み返しておくこと。 （３０分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "序論 「哲学すること」の意味",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "1 人間らしさ①オイディプス神話からデカルトへ\n1 人間らしさ②哲学的人工知能論\n1 人間らしさ③個体と特殊者",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "2 身体・表現・世界①「わたしの」身体\n2 身体・表現・世界②生活世界",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "3 こころ①心身問題\n3 こころ②情報伝達と「心」の存在",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "4 生と死①生と死の接点\n4 生と死②幸福の追求",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "5 言語と論理①言葉の機能、意味と文脈\n5 言語と論理②判断と論理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "6 責任と自由①行為と責任\n6 責任と自由②自由とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "1",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

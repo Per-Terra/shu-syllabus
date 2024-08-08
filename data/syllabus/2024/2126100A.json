@@ -1,0 +1,219 @@
+{
+    "_fetched_at": "2024-08-07T17:09:46Z",
+    "name_ja": "地域企業会計",
+    "name_en": "Accounting for Local Business",
+    "syllabus_number": "2126100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 福祉学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "梅田　勝利",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①複式簿記の構造について説明することができる。\n②会計基準に従った会計処理方法について具体的に述べることができる。\n③会計基準に従って作成した計算書類について説明することができる。",
+    "overview": "本講義では、地域活性化の担い手となる地域企業、福祉や観光などの地域未来牽引企業などが、自身にとって有用な財務情報の数値を把握し、現状分析を行い、会計的視点から経営力向上のための方法について考察できるようになること目的とする。具体的には、「複式簿記の構造」を主なテーマとし、企業会計制度の動向の把握、複式簿記・発生主義会計の意義と会計基準に従った会計処理方法の理解、会計基準に従って作成した計算書類の見方などを習得する。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "現代の簿記論",
+            "year": 2021,
+            "author": "篠原淳・古市承治・梅田勝利編著",
+            "publisher": "税務経理協会",
+            "price": 2640,
+            "isbn": "9784419066932",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書、電卓",
+        "other": "なし"
+    },
+    "evaluation_criteria": "①複式簿記の構造について理解できている。\n②会計基準に従った会計処理方法について理解できている。\n③会計基準に従って作成した計算書類について理解できている。\n上記①～③に関する理解度を「学生に対する評価」の割合により評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 50,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "①事前学習（予修。2時間）として、前回の授業において指示された教科書部分を熟読すること。\n②事後学習（復修。2時間）として、各章末の練習問題を解き、各自が授業内容に照らして、正答を確認しておくこと。なお、疑問点などあれば、次回の授業開始時に質問すること。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、地域活性化の担い手となる企業のあり方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "簿記の基礎概念、取引と勘定の意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "資産・負債・資本（純資産）と貸借対照表、第1回小テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "収益・費用と損益計算書",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "仕訳と転記、仕訳帳と総勘定元帳",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "現金預金、第2回小テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "商品売買",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "債権・債務",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "有形固定資産、第3回小テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "資本金と利益剰余金",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "税金",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "試算表の作成、第4回小テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "収益と費用、8桁精算表の作成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "決算書類の作成、第5回小テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "授業の総括、地域活性化の担い手となる地域企業の今後の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

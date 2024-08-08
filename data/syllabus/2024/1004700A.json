@@ -1,0 +1,422 @@
+{
+    "_fetched_at": "2024-08-07T15:31:39Z",
+    "name_ja": "ドイツ語Ⅰ",
+    "name_en": "German I",
+    "syllabus_number": "1004700A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 スポーツ健康科学科",
+        "人間健康学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
+    "overview": "初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。日常会話でよく使われるあいさつ表現や文字と音の対応規則を学び、平易な文を聞き取ったり書いたりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、独和、和独辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP4",
+        "スポーツ健康科学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "新装版・話すぞドイツ語！",
+            "year": 2023,
+            "author": "在間　進",
+            "publisher": "朝日出版社",
+            "price": 2860,
+            "isbn": "978‐4‐255‐25463‐0",
+            "available_on_campus": true
+        },
+        {
+            "title": "ベーシッククラウン独和・和独辞典　小型版",
+            "year": 2022,
+            "author": "",
+            "publisher": "三省堂",
+            "price": 2530,
+            "isbn": "978-4-385-11972-4",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "テキスト、ノート、辞書",
+        "other": "なし"
+    },
+    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方、評価方法などについてのオリエンテーション\nLektion０ アルファベット、発音練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Lektion０ アルファベット、発音練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Lektion０　アルファベット、発音練習、あいさつ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Lektion１　動詞の人称変化",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Lektion１　動詞の人称変化と語順",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Lektion１　自己紹介",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Lektion２　名詞の性と１格／不定冠詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Lektion２　名詞の性と１格／定冠詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Lektion２　否定冠詞／数字",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Lektion３　名詞の４格",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Lektion３　注文をしてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Lektion４　所有冠詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Lektion４　不定冠詞類（dieser,welcher,jeder)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Lektion４　趣味をたずねてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "Lektion５　名詞の複数形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "Lektion５　名詞の複数形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "Lektion５　いくつ？と聞いてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "Lektion６　名詞の２格と３格",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "Lektion６　名詞の２格と３格",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "Lektion６　感想をたずねてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "Lektion７　前置詞（３格支配と４格支配）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "Lektion７　前置詞（３格支配と４格支配ができる前置詞）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "Lektion７　時刻をたずねてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "Lektion７　不規則動詞の現在人称変化",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "Lektion８　分離動詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "Lektion８　分離動詞を使った文章の語順",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "Lektion８　週末の予定をたずねてみよう！／一日の生活を表現してみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "Lektion９　話法の助動詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "Lektion９　電話をかけてみよう！会話練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "試験対策演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,230 @@
+{
+    "_fetched_at": "2024-08-07T16:32:42Z",
+    "name_ja": "情報社会論",
+    "name_en": "Introduction to Information Society",
+    "syllabus_number": "2021200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "（１）高度情報化社会がもつ構造的な意味を理解する。\n（２）情報化社会で生じているさまざまな社会現象を解読していくことを通して、自分の意見をもつ。",
+    "overview": "情報化社会とはどのような社会なのだろうか？ 情報化の進展は私たちの生活をどのように変えるのだろうか？そもそも「情報」とは何か？本講義では、メディア社会の展開と現実をマスメディア、スマホ、インターネットなどの情報メディアを題材に論じる。そして情報化社会で生じているさまざまな社会現象を解読していくことを通して、視野の拡大をはかっていく。その際に情報メディアの産業・技術的側面だけに注目するのではなく、そのようなテクノロジーが発達するようになった社会的背景や、私たちの社会や意識への影響についても思考を深めることを目標とする。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "『情報様式論』",
+            "year": 2001,
+            "author": "マークポスター著、室井尚・吉岡洋訳",
+            "publisher": "岩波現代文庫",
+            "price": 1100,
+            "isbn": "978-4006030476",
+            "available_on_campus": false
+        },
+        {
+            "title": "『インターネット空間の社会学』",
+            "year": 2000,
+            "author": "吉田純",
+            "publisher": "世界思想社",
+            "price": 1900,
+            "isbn": "978-4790708254",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は指定せず、資料などを配布する。"
+    },
+    "evaluation_criteria": "本講義の主要テーマである「メディア社会の展開」、「情報化社会の現実」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "たんに情報メディアの産業・技術的側面だけに注目するのではなく、そのようなテクノロジーが発達した社会の構造や、その影響についても一緒に考えていこう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "序論:情報社会論のスキーム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "情報と社会①情報とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "情報と社会②社会とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "メディア社会の展開①口コミメディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "メディア社会の展開②活字メディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "メディア社会の展開③映像メディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "メディア社会の展開④コミュニケーション・メディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "メディア社会の展開⑤マスメディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "メディア社会の展開⑥ネットワーク・メディア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "情報化社会の現実①「メディアはメッセージである」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "情報化社会の現実②モバイル・コミュニケーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "情報化社会の現実③サイバースペース",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "情報化社会の現実④バーチャル・リアリティ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "情報化社会の現実⑤インターネットと公共圏",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

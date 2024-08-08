@@ -1,0 +1,239 @@
+{
+    "_fetched_at": "2024-08-07T16:33:04Z",
+    "name_ja": "ソフトウェア演習",
+    "name_en": "Software Exercises",
+    "syllabus_number": "2022110A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "土屋　敏夫",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "HTML、CSSの基礎的技術が理解できる。\nWebページ作成および運用について理解できる。",
+    "overview": "この授業は、Webサイトの作成を通じて、インターネットによる情報収集および発信の方法を学ぶ。 HTMLおよびCSSを使ったWebサイトの構築と公開の手法について学ぶ。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "これだけで基本がしっかり身につく HTML/CSS&Webデザイン1冊目の本",
+            "year": 2021,
+            "author": "Capybara Design, 竹内 直人, 竹内 瑠美",
+            "publisher": "翔泳社",
+            "price": 2200,
+            "isbn": "4798170119",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書、パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "毎回の講義で作成した内容を課題として提出してもらいます。試験は実施しません。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "・ガイダンス\n授業の進め方と評価\nアプリケーションのインストールとプログ\nラミング環境の設定",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "・HTMLの基本を学ぼう\nマークアップ言語について エディタを使ったコードの記述方法",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "・CSSのきほんを学ぼう\nCSSについて CSSファイルとHTMLファイルの紐付け",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "・SNSリンク集のCSSを書いてみよう\nサンプルコードを使ってSNSリンク集を作成する",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "・ブログサイトのHTMLを書いてみよう\nインタフェースのパーツ\nアウトラインとセクション",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "・ブログサイトのCSSを書いてみよう\nフレックスボックスレイアウトを使う\nページごとのCSS書く",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "・Web招待状サイトのHTMLを書いてみよう\nフォームをマークアップする",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "・Web招待状サイトのCSSを書いてみよう\nセクションごとにCSSを記述する",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "・CSSアニメーションをつけてみよう\nCSSアニメーションの基礎",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "・レスポンシブウェブデザインに対応させ\nよう\nマルチデバイスについて\nパーツの表示方法",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "・複数ページのサイトを作ってみよう\n制作の流れとWebデザインのきほん",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "・レストランサイトのCSSを書こう(モバ イル)\nモバイル用複数ページサイトのコーティング",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "・レストランサイトのCSSを書こう(PC)\nPC用複数ページサイトのコーティング",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "・参考サイトの活用方法を学ぼう\nWeb上の情報を活用する サンプルコードをサイトに組み込む",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "・まとめ\nWebサイト公開のための様々な運用方 法を理解する",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,261 @@
+{
+    "_fetched_at": "2024-08-08T01:20:47Z",
+    "name_ja": "経済学の視点を学ぶ",
+    "name_en": "Perspectives of Economics",
+    "syllabus_number": "2036400A",
+    "course_number": "01TE101",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "小林　啓祐",
+            "main": true
+        },
+        {
+            "name": "田尾　真一",
+            "main": false
+        },
+        {
+            "name": "長澤　賢一",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "現在「経済学」と呼ばれる分野は多岐にわたります。そのすべてを学ぶことは容易ではありませんが、本学の専門科目を見てもらえばわかるように、本学においても多くの専門科目を学ぶことが出来ます。この講義は、経済学の各分野（経済史・金融・財政）の専門家から、現在のその分野の「視点」を学んでもらうことを目的とします。あくまで「視点」ですので、もし講義を受けて興味を持った分野などは、その後関連する専門科目を履修することで学びを深めてほしいと思います。\n\n【到達目標】\n（ⅰ）経済学の多様な視点について理解できる。\n（ⅱ）各専門分野の考え方について、端的にまとめることができる",
+    "overview": "基本的には講義形式だが、学生との会話も重視したい。また、内容によっては演習問題も扱う。学生には単に受動的に講義を受けるのではなく、常に経済問題に意識を向け、疑問を持って講義に臨んでもらいたい。なお、3人の教員がリレー式で講義を担当する。1回から5回までを小林、5回から10回までを長澤、11回から15回までを田尾が担当する。また、指示はTEAMSで行うので、いつも注意しておくこと。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "NHK欲望の経済史 日本戦後編 年表とトピックでいまを読み解く ニッポン戦後経済史",
+            "year": 2018,
+            "author": "坂井 豊貴  (編集), NHK「欲望の経済史 日本戦後編」制作班 (編集)",
+            "publisher": "NHK出版",
+            "price": 1650,
+            "isbn": "978-4140817322",
+            "available_on_campus": false
+        },
+        {
+            "title": "金融論（第4版）",
+            "year": 2021,
+            "author": "晝間文彦",
+            "publisher": "新世社",
+            "price": 2805,
+            "isbn": "978-4883842759",
+            "available_on_campus": false
+        },
+        {
+            "title": "グローバル・タックスー国境を超える課税権力",
+            "year": 2020,
+            "author": "諸富徹",
+            "publisher": "岩波書店",
+            "price": 902,
+            "isbn": "978-4004318583",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "以下の３点について、「学生に対する評価」の内容で評価する。\n（ⅰ）基本的な経済史の考え方、戦後日本経済の歴史について説明することができる。\n（ⅱ）債券市場について理解し、債券価格および利回りについての基礎的な計算を行うことができる。\n（ⅲ）現代財政が抱える様々な問題（グローバル課税や社会資本整備）について理解し、議論できる。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 50,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "３人の担当者が、各々の専門分野を活かして最新の研究動向を含めた「考え方」についてレクチャーします。ぜひ２年次以降の専門科目履修の目安にしてください。\n\n【予習・復習について】\n予習は特に必要ないですが、講義内容をしっかりと復習し（60分程度）、関連する経済ニュースなどに気を配ってください。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "経済史の考え方―日本史と経済史の違い",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "「資本主義」と経済史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "歴史としての「バブル経済」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "疾病と歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "科学技術の発展と経済史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林",
+                "啓祐"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "企業の資金調達の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤",
+                "賢一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "貸借対照表、損益計算書の読み方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤",
+                "賢一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "キャッシュフロー計算書の読み方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤",
+                "賢一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "主要な経営指標の算出",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤",
+                "賢一"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "小テストおよび解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤",
+                "賢一"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "現代社会における財政的課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "税を取り巻く環境の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "グローバル課税の潮流",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会資本をめぐる議論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "危機を迎える社会資本整備の今後",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾",
+                "真一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

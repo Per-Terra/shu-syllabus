@@ -1,0 +1,242 @@
+{
+    "_fetched_at": "2024-08-08T01:21:14Z",
+    "name_ja": "商法Ⅰ",
+    "name_en": "",
+    "syllabus_number": "2039000A",
+    "course_number": "10ES212",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "川崎　政之",
+            "main": true
+        },
+        {
+            "name": "内田　邦彦",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "Ⅰ・Ⅱを通して、株式会社の法律的な仕組みを理解できるようにしたいと思います。\nこの授業を受けて頂けば，皆さんが社会人として就職する際に必要な最低限の法的知識が身に着くようにと思っています。。時には経済記事や講師の経験等の実例を示すなどして，わかりやすい講義を目指します。\n\n【到達目標】\n株式会社の具体像を把握すること。例えば，株主，株主総会，取締役会，監査役，代表取締役の役割等の他，労働法などの視点も踏まえて，新聞報道等による一般的な経済記事を理解，説明できるレベルを目指します。",
+    "overview": "【講義型】講義用レジュメと資料を毎回配布する予定です。\n\n※授業の実施順序は状況に応じて変更することがあります。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "会社法 第４版",
+            "year": 2023,
+            "author": "田中　亘",
+            "publisher": "東京大学出版会",
+            "price": 4180,
+            "isbn": "978-4130323949",
+            "available_on_campus": false
+        },
+        {
+            "title": "中学校学習指導要領",
+            "year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 397,
+            "isbn": "978-4-8278-1579-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "高等学校学習指導要領",
+            "year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 834,
+            "isbn": "978-4827815672",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "講義用レジュメと資料を毎回配布する予定です。"
+    },
+    "evaluation_criteria": "(ⅰ)講義全般の理解、(ⅱ)知識修得、新聞記事の読解力 について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "講師の川崎と内田は共に周南地区で活動している弁護士です。\n最終的に会社法とビジネスに関する法律の全体像とを理解して貰えればと思います。いわば，「商法入門」と\n思って貰えればと思います。\n\n【予習・復習について】\n各回実施内容について講義資料を見直す、まとめる等により知識を定着させてください（各回60分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス：本講義の目的と取り扱う法律について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "総論①：「会社」は誰のものか：その歴史的沿革からの説明",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "総論②：「会社」は誰のものか：法人と自然人",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "総論③：会社法の仕組み／株式会社の基本原則",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "会社法Ⅰ①：会社の意義と種類／会社にはどのような種類があるか",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "会社法Ⅰ②：株式／会社を基礎づける株式の意味",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "会社法Ⅰ③：会社の機関／株主総会とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "会社法Ⅰ④：会社の機関／取締役，監査役とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "会社法Ⅰ⑤：会社の機関／代表取締役とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "労働法①：入門／会社と従業員との関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "労働法②：採用／労働条件(賃金，労働時間)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "労働法③：解雇、労災、労働組合",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "税法①：総論／租税法律主義とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "税法②：個人に関する税法／所得税法等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "税法③：法人に関する税法／法人税法等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "川崎政之\n2008年～現在　中村友次郎法律事務所勤務（周南市）。弁護士として、民事事件、商事事件、家事事件等を担当。\n内田邦彦\n2010年～2022年　杉岡法律会計事務所勤務（光市）。2023年1月に内田法律事務所を起業。\n　弁護士・税理士・社会保険労務士として、主に中小企業の相談業務に従事。"
+}

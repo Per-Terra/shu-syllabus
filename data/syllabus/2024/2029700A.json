@@ -1,0 +1,221 @@
+{
+    "_fetched_at": "2024-08-07T16:46:26Z",
+    "name_ja": "保健医療と福祉",
+    "name_en": "Helth and sociall services",
+    "syllabus_number": "2029700A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "main": true
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目では、相談援助活動において必要になる医療保険制度や保健医療サービスについて理解するとともに、終末期ケアにおける心理・社会的なケアについての基礎的な知識を習得することを目指す。到達目標は以下の通りである。\n①わが国における医療保険制度の概要について説明することができる。\n②保健医療サービスにおける社会福祉専門職の役割を説明することができる。\n③保健医療サービスにおける多職種協働の意義及び方法について説明することができる。",
+    "overview": "社会福祉・介護福祉の専門職として必要とされる保健医療サービス及び終末期ケアに関する知識を習得することを目指す。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "保健医療と福祉",
+            "year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟編集",
+            "publisher": "中央法規出版",
+            "price": 2750,
+            "isbn": "978-4-8058-8248-1",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書",
+        "other": "なし"
+    },
+    "evaluation_criteria": "①医療保険制度の理解度\n②多職種協働についての理解度\n③保健医療領域における支援の実際の理解度",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 20,
+        "レポート": 10,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "保健医療サービスにおいては、特に医療保険制度が複雑なので、枠組みを理解できるようにしてください。予習は教科書の該当部分を熟読してください（2時間程度）。復習は授業で出てきたキーワードをノートに整理してください（2時間程度）。",
+    "schedule": [
+        {
+            "session": "第１回",
+            "content": "オリエンテーション：授業の進め方\n保健医療の課題を持つ人の理解",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第2回",
+            "content": "医療倫理：患者の意思決定をめぐる課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第3回",
+            "content": "保健医療の動向：疾病構造の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第4回",
+            "content": "保健医療における福祉的辛い",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第5回",
+            "content": "保健医療の政策・制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第6回",
+            "content": "保健医療サービスの提供体制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第7回",
+            "content": "医療費の保障",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第8回",
+            "content": "地域包括ケアシステム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第9回",
+            "content": "医療ソーシャルワーカーの歴史と業務の枠組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第10回",
+            "content": "医療ソーシャルワーカーの業務内容",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第11回",
+            "content": "医療保険制度と診療報酬制度の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第12回",
+            "content": "介護保険制度と介護報酬の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第13回",
+            "content": "チームケア実現のための制度や連携機関・団体",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第14回",
+            "content": "保健医療ネットワーク構築のための連携方法と基礎知識",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第15回",
+            "content": "地域ケアネットワークの実際",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,239 @@
+{
+    "_fetched_at": "2024-08-07T17:03:57Z",
+    "name_ja": "経営組織論Ⅰ",
+    "name_en": "organization theory",
+    "syllabus_number": "2036200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "木全　晃",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n以下の事項を説明できるようになること。\n（１）経営組織論とは何か\n（２）現代組織のマクロ的な諸課題とは何か\n（３）対処するうえでの“メガネ”（理論や思考の枠組み）にはどのようなものがあるか\n（４）これらを自らの「腑に落ちる」言葉で説明できるようになること",
+    "overview": "同一の業種や規模であっても、存続・成長する組織がある一方で、衰退・撤退する組織がある。その重要な差異の一つに組織のマネジメントの違いが挙げられる。本講義は、ますます複雑化・複層化する現代の経営組織の諸問題に対処するうえで、実体がよくみえる「理論や思考の枠組み」を身につけることを目的とする。本講義では、主体を組織全体に措定するマクロ的視点から、組織および組織と外部環境の相互作用に焦点を当て、組織デザイン（職能別・事業部制・マトリクスなど）や戦略、知識創造（SEKIモデル）などの主要なテーマについて事例を交えながら詳説する。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "マクロ組織論",
+            "year": 2019,
+            "author": "髙木俊雄・四本雅人",
+            "publisher": "学文社",
+            "price": 2530,
+            "isbn": "978476208",
+            "available_on_campus": false
+        },
+        {
+            "title": "組織のメタファー",
+            "year": 2022,
+            "author": "高橋正泰・木全晃",
+            "publisher": "文眞堂",
+            "price": 3080,
+            "isbn": "4830951680",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "経営学総論",
+            "経営管理論",
+            "企業概論",
+            "経営戦略論"
+        ],
+        "brings": "なし",
+        "other": "経済学部2021年度以前入学の学生は、「経営組織論Ⅰ」及び「経営組織論Ⅱ」の両方の単位を修得することで、「経営組織論（４単位）」の単位が修得できます。"
+    },
+    "evaluation_criteria": "不定期かつ複数回の講義内レポート等（40点）、期末試験（60点）",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "基本的に毎回配布する講義資料をもとに進める。講義形式をとるが、日頃からメディア等を通じて組織について問題意識を醸成すること。講義形式をとるが、質問を投げかけることがあるので、主体的参加を心掛けられたい。準備学習等については初回講義時にアナウンスする。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション：経営組織論とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "組織観の変遷①：科学的管理法と人間関係論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "組織観の変遷②：近代組織論（人間協働と意思決定）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "組織観の変遷③：官僚制とオーソリティ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "組織デザイン①：分業と調整、構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "組織デザイン②：現代の組織編制とジレンマ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "知識創造とケイパビリティ：情報・知識・理論の連鎖、SECIモデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "コンティンジェンシー・アプローチ①：分化と統合、トンプソンモデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "コンティンジェンシー・アプローチ②：不確実性の削減，情報処理モデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "組織と戦略①：組織間関係、資源依存モデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "組織と戦略②：戦略選択アプローチ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "組織と戦略③：ライフサイクルと組織変革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "組織と環境①：ポピュレーションエコロジー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "組織と環境②：社会と自然",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本講義の総括とふりかえり",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木全　晃"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

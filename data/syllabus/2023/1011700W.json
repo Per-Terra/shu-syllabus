@@ -1,0 +1,208 @@
+{
+    "_fetched_at": "2024-08-08T00:59:19Z",
+    "name_ja": "地域ゼミⅠ",
+    "name_en": "Seminar for Community Revitalization I",
+    "syllabus_number": "1011700W",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "必修",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "地域ゼミでは、本学の専門領域に関わる地域の課題を取り上げ、その解決を目的とした課題解決型学習（PBL）に取り組みます。特に本地域ゼミでは、山口県の推進事業「やまぐち海のSDGsサポーターズ支援事業」にエントリーし、山口県環境生活部廃棄物・リサイクル対策課と武田薬品工業株式会社などと一緒に活動します。また、企業における環境問題の取り組みを理解し、海岸清掃活動、中学校にて環境問題について講義、廃棄プラスチックをリサイクル加工するワークショップ開催などを通じ、海洋プラスチックごみの発生抑制対策について学びます。\n\n【到達目標】\n①周南地域の魅力の発信に関して問題を発見できる。\n②周南地域の魅力発信のために提案し、その実現に向けて行動することができる。\n③問題発見・解決のための一連の活動を他者に報告・説明できる。",
+    "overview": "授業は前期ですが、年間を通じて15回分の活動を実施予定です。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "レポート40％、ゼミ活動への積極的な参加等６０％とし、総合的に評価を行う。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "ゼミ活動は、土日の活動もあります。\nまた、毎回、学習内容に関する予習・復習を合計60分間実施すること。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "講演：企業のSDGs活動について",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "海岸活動①プラスチックゴミ回収イベント企画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "海岸活動②プラスチックゴミ回収イベント実施",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "光市の中学校にてSDGs授業案作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "光市の中学校にてSDGs授業案作成・完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "光市の中学校にてSDGs授業実施",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "ポプラ祭での発表準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "ポプラ祭での成果発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "レノファ山口ホームゲームにて活動報告準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "レノファ山口ホームゲームにてイベント開催",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "レノファ山口ホームゲームにて活動報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "成果発表スライド作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "成果発表動画作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "成果ポスター作製",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

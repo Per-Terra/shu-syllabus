@@ -1,0 +1,249 @@
+{
+    "_fetched_at": "2024-08-07T15:31:45Z",
+    "name_ja": "陸上運動Ⅰ",
+    "name_en": "Track and Field I",
+    "syllabus_number": "1005410A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "松田　亮",
+            "main": false
+        },
+        {
+            "name": "西山　健太",
+            "main": true
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. 陸上競技の特性・技能・ルール・トレーニング方法を理解できる\n2. 陸上競技の技能・トレーニング方法を実践できる",
+    "overview": "本講義では陸上競技の特性・ルール・トレーニング方法を理解できることや、陸上競技に意欲・関心を持って取り組めること、陸上競技の技能・トレーニング方法を実践できるようになることを目標とする。「陸上競技」では、年齢や競技レベルを問わず、記録という客観的な指標の追求を通して、他者や自分自身との競争を楽しみ、卓越や達成の喜びを得られるという、陸上競技の本質的な価値や楽しさを伝えられるようになることを目的とする。そのため、陸上競技における走・跳・投の基本的な種目に取り組むこととする。授業は実習を中心に進行しながら、各種目のルールの知識や技能、トレーニング方法について解説する。また、スポーツライフステージや競技レベルに応じた適切な指導の在り方についても解説する。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "中学校部活動における陸上競技指導の手引き",
+            "year": 2018,
+            "author": "公益財団法人日本陸上競技連盟",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "陸上競技のコーチング学",
+            "year": 2020,
+            "author": "日本陸上競技学会",
+            "publisher": "大修館書店",
+            "price": 2860,
+            "isbn": "9784469268805",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "なし"
+    },
+    "evaluation_criteria": "実技試験 60%、レポート 40%",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "陸上競技のもつ魅力に気づき、それを伝えられる指導者となることを目指して、この授業に臨んでくれることを期待します。授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書該当ページを通読してください。授業終了後には、授業で行った実技の内容を振り返って、レポートとしてまとめてください。\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ウォーキングの特性と指導（障がい者スポーツ指導を含む）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ウォーキングの実際",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ジョギングの特性と指導（障がい者スポーツ指導を含む）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ジョギングの実際",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "走種目のルールと特性（障がい者スポーツ指導を含む）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "短距離走の技能",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ハードル走のルールと特性",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ハードル走の技能",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "跳躍種目のルールと特性（障がい者スポーツ指導を含む）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "走高跳の技能",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "投てき種目のルールと特性（障がい者スポーツ指導を含む）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "砲丸投げの技能",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "競技会",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太",
+                "松田　亮"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

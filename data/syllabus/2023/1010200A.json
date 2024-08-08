@@ -1,0 +1,408 @@
+{
+    "_fetched_at": "2024-08-08T00:58:02Z",
+    "name_ja": "総合英語入門B（再履修）",
+    "name_en": "",
+    "syllabus_number": "1010200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "英語は世界で最も広範囲に使われ、最も有効な国際共通語です。この科目は皆さんが高校までに学んだ語彙、文法、構文をかため、さらに日常会話で使用頻度の高い表現を学びながら、コミュニケーションの道具としての総合的な英語運用能力の基礎を築くことを主目的とします。また、学生の皆さんに受験を推奨しているTOEIC Listening & Reading Test（以下TOEIC L&R）のテスト形式に慣れることとテストに頻出する単語・フレーズを覚えることも目標です。\n \n受講後も計画的に学習を続け、卒業時には皆さんがスコア550以上を取得されることを期待します。",
+    "overview": "テキストに沿ってまず頻出の単熟語や表現を学んで、次に問題タイプ別の解答技術や必須の文法事項を身に付けるための説明を聞いて基礎練習問題を解いていきます。また、副教材のワークで、さらに文法演習を重ねます。\n\n授業には予習・復習をして臨んでください。また、自分のレベルにあった目標設定をして、継続的に語彙学習や聴解・読解の練習に取り組むことも大切です。そして、外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を用意して、授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "BEST PRACTICE FOR THE TOEIC TEST -Basic-",
+            "year": 2022,
+            "author": "吉塚　弘　　Graham Skerritt",
+            "publisher": "成美堂",
+            "price": 2530,
+            "isbn": "978-4-7919-7232-6",
+            "available_on_campus": true
+        },
+        {
+            "title": "５分間基本英文法",
+            "year": 2022,
+            "author": "佐藤　誠司",
+            "publisher": "南雲堂",
+            "price": 770,
+            "isbn": "978-4-523-17526-1",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "評価割合は「試験」60％、「小テスト」30％、「その他」10％です。「試験」は定期試験期間に実施される期末試験です。「小テスト」は授業中に行う語彙・文法等のクイズやワークシート、課題提出に対する評価、「その他」は学習意欲、取り組みを含む評価となります。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "授業にきちんと参加し、「わからない」を「わかった」に変えていけるように一緒に頑張りましょう！\n\n\n与えられるのを待つのではなく、「自ら学ぶ」意欲を持ちましょう。自主的かつ継続的に努力を重ねて、目標スコアを達成しましょう。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション（授業の進め方など）\nMini Test",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "Unit8　\nWarm up\n頻出単語チェック\nGrammar　Review（前置詞　所属・関連）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "Unit8\nPart5演習問題\nPart1,2 実践問題\nワークUnit15,16（分詞）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "Unit8\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "Unit8\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "Unit9　\nWarm up\n頻出単語チェック\nGrammar　Review（数量形容詞）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "Unit9\nPart5演習問題\nPart1,2 実践問題\nワークUnit21（関係詞）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "Unit9\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "Unit9\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "Unit10　\nWarm up\n頻出単語チェック\nGrammar　Review（自動詞と他動詞）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "Unit10\nPart5演習問題\nPart1,2 実践問題\nワークUnit22（関係詞）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "Unit10\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "Unit10\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "Unit11 \nWarm up\n頻出単語チェック\nGrammar　Review（接尾辞と品詞ー形容詞）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "Unit11\nPart5演習問題\nPart1,2 実践問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "Unit11\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "Unit11\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "Unit12　\nWarm up\n頻出単語チェック\nGrammar　Review（比較）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "Unit12\nPart5演習問題\nPart1,2 実践問題\nワークUnit19,20（比較）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "Unit12\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "Unit12\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "Unit13　\nWarm up\n頻出単語チェック\nGrammar　Review（受動態）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "Unit13\nPart5演習問題\nPart1,2 実践問題\nワークUnit10（受動態）、11（時制と受動態のまとめ）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "Unit13\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "Unit13\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "Unit14　\nWarm up\n頻出単語チェック\nGrammar　Review（接続詞ー相関接続詞）／　Part5演習問題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "Unit14\nPart5演習問題\nPart1,2 実践問題\nワークUnit17,18（接続詞）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "Unit14\nPart3,4 長文リスニング演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "Unit14\nPart6,7 長文読解問題演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "Unit8～14復習\n試験対策",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

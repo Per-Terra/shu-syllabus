@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T15:54:51Z",
+    "name_ja": "税務会計論",
+    "name_en": "Tax Accounting",
+    "syllabus_number": "2006800A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田村　匡礼",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【授業のテーマ】\n会計実務に必要な法人税と消費税法に関し計算構造を中心に理論を体系的に学ぶ\n\n【到達目標】\n（１）法人税の課税所得の計算構造について体系的に理解し、計算できる\n（２）消費税の計算構造について体系的に理解し、計算できる",
+    "overview": "本講義では企業の法人税法に基づく課税所得の算定構造について理論的に学んでいく。企業利益は、会社計算規則及び企業会計基準等に基づき計算された期間収益と期間費用との差額であり、課税所得は、法人税法等に基づき計算された益金と損金との差額である。課税所得の算定を理解するために、最も重要である「企業利益と課税所得との相違点（①益金算入、②益金不算入、③損金算入、④損金不算入）」の具体的な内容とその理論的背景について本講義を通じて学修でき、会計の専門家にとって必須な知識が修得できる。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "Newベーシック　税務会計＜企業課税編＞",
+            "year": 0,
+            "author": "中島　茂幸　編著",
+            "publisher": "五絃舎",
+            "price": 2900,
+            "isbn": "978-4-86434-117-2",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "簿記初級"
+        ],
+        "recommended_courses": [
+            "簿記中級"
+        ],
+        "brings": "電卓",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "期末テストを実施して評価する",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "授業は理論を説明した後、演習問題を解き知識の定着を図る。自分で計算して初めて身につく学問であるため、毎回配布する資料を復習することが必要である。理解度を考慮しながら授業計画の進度を調整することがある。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法人税の基礎概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "法人税額の計算の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "益金の概念と計算、受取配当等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "損金の概念と計算　　棚卸資産、減価償却",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "損金の概念と計算　　減価償却、圧縮記帳",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "損金の概念と計算　　役員給与",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "損金の概念と計算　　寄付金",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "損金の概念と計算　　交際費",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "損金の概念と計算　　貸倒損失　引当金",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "別表4の作成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "消費税法の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "消費税の課税対象",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "課税標準及び税率",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "課税仕入れと税額控除",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "課税仕入れと税額控除（2）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村　匡礼"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "実社会では、教科書等に記載されていない取引事象が多い。実務経験に基づき、その際にどのように解釈するのがよいか、思考能力、応用能力を養えるように授業を進めたい"
+}

@@ -1,0 +1,219 @@
+{
+    "_fetched_at": "2024-08-07T17:07:10Z",
+    "name_ja": "線形代数基礎",
+    "name_en": "Linear Algebra",
+    "syllabus_number": "2100600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "main": false
+        }
+    ],
+    "term": "3Q",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．ベクトル・行列の基礎的な演算ができる。\n２．連立一次方程式を行列計算を使用して解くことができる。\n３．データサイエンスを学ぶ上で線形代数が必要な理由を理解できる。",
+    "overview": "データサイエンスを学ぶ上で、数学（線形代数・微分積分・確率統計）の理解は必要不可欠である。\n線形代数では、多変量を数学的に記述する上で必須の「ベクトルと行列」の取扱いと、基礎的な計算方法を学ぶことが主眼となる。特に、連立一次方程式の解法、行列式の概念、データの幾何学的表現を重点的に解説する。線形代数は世の中の様々な分野に応用・活用されている。線形代数の理解を通して、データセットの処理、画像処理、機械学習等の土台となる基礎的な数学を修得する。主に講義形式で授業を進めていく。また、簡単な演習問題をレポートとして課すことで基本的な行列計算に慣れてもらう。\n主に講義形式で授業を進めていく。また、簡単な演習問題をレポートとして課すことで基本的な行列計算に慣れてもらう。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "データサイエンスのための数学",
+            "year": 2019,
+            "author": "椎名洋 (著), 姫野哲人 (著), 保科架風 (著), 清水昌平 (編集)",
+            "publisher": "講談社",
+            "price": 3080,
+            "isbn": "ISBN-13 ? : ? 978-4065169988",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "筆記用具",
+        "other": ""
+    },
+    "evaluation_criteria": "主に、中間テストと期末テストを用いて各講義の内容の理解度を評価する。毎週小レポートを課し、各単元の理解度も確認する。授業への取り組み姿勢も評価対象となるため、出席点も加点する。評価基準は下記とする。\n出席(10%)、小レポート(20%)、中間テスト(30%)、期末テスト(40%)\nこれらを総合して概ね6割程度の理解度を達成している者を合格とする。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、データサイエンスと線形代数",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ベクトルと行列",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ベクトルと行列の演算",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "様々な行列①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "様々な行列②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ベクトル空間",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ベクトルと行列の復習・中間テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "線型写像",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "行列のランク",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "行列式",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "固有値・固有ベクトル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "行列の分解",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "線形代数と多変量解析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "線形代数と機械学習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

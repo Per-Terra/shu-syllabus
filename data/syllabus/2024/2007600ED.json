@@ -1,0 +1,374 @@
+{
+    "_fetched_at": "2024-08-07T15:55:16Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600ED",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①経済学的な視点で身のまわりの課題をとらえ、データ収集、文献整理、仮説の提示・検証など論文作成に必要なスキルを身につけること\n②論理的な思考に基づき、他者と適切にコミュニケーションを図るとともに、自分の考えを文章化し発表することに慣れること",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行う。また、学生の興味関心の深いテーマについて、データ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいてそれを企画あるいは政策提言として文書にまとめるといった一連のプロセスを学修する。当ゼミでは、卒業論文等を作成に向けて、都市地域経済学のアプローチに基づいた必要なスキルを身につけながら、３年次レポートを取りまとめる。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4",
+        "知財開発コースDP3",
+        "知財開発コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "教養ゼミ",
+            "地域ゼミ",
+            "経済学"
+        ],
+        "brings": "ノートパソコン、筆記用具",
+        "other": "参考図書は授業で案内する"
+    },
+    "evaluation_criteria": "３年次研究レポートの作成（50％）、輪読など毎回の発表（30％）およびゼミへの主体的・率先的な取組姿勢等（20％）を評価",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "専門ゼミⅠでは、参考文献にできるだけ多く触れた上で、卒業論文として取り組む研究の部分的なまたは序章的な内容を３年次研究レポートとしてまとめていきます。何事も興味を持って調べたり、データ収集を行いましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、専門ゼミⅠの流れの確認",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究テーマ等についての意見交換",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "参考文献の輪読（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "参考文献の輪読（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "参考文献の輪読（３）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "参考文献の輪読（４）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "まちの観察（周南市内）（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "まちの観察（周南市内）（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "公的セクターの視察（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "公的セクターの視察（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "参考文献の輪読（５）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "参考文献の輪読（６）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "参考文献の輪読（７）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究テーマの検討、意見交換",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期のまとめと研究計画の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "夏季休暇中の研究進捗報告、後期研究計画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "研究進捗報告、参考文献レビュー（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "研究進捗報告、参考文献レビュー（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "研究進捗報告、参考文献レビュー（３）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "研究進捗報告、参考文献レビュー（４）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "研究進捗報告、参考文献レビュー（５）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "研究進捗報告、参考文献レビュー（６）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "研究進捗報告、参考文献レビュー（７）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "３年次研究レポートの中間報告（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "３年次研究レポートの中間報告（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究進捗報告、参考文献レビュー（８）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究進捗報告、参考文献レビュー（９）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究進捗報告、参考文献レビュー（１０）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "３年次研究レポート発表会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "地方公共団体での勤務経験を踏まえ、事例を交えて演習を行う"
+}

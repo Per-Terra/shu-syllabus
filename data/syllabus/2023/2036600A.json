@@ -1,0 +1,211 @@
+{
+    "_fetched_at": "2024-08-08T01:20:49Z",
+    "name_ja": "経済政策Ⅰ",
+    "name_en": "Economic policyⅠ",
+    "syllabus_number": "2036600A",
+    "course_number": "01EP202",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "経済政策は、現代社会の運営のために必要不可欠な政策である。経済政策の内容は広範囲にわたり、私たちの生活に深く結びついている。本授業では経済政策を理解する上で必要となる基礎的事項を中心に解説する。\n\n【到達目標】\n①経済政策について基礎的事項が理解できる。",
+    "overview": "講義形式で授業を進めていく。学生には受動的に講義を受けるのではなく、常に現在の経済問題、経済政策に関心を向け、問題意識を持って授業に臨んでもらいたい。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "evaluation_criteria": "期末に実施する「期末レポート」及び「その他」を評価対象とする。\n※「その他」は授業で数回実施する「小レポート」を評価対象とする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習について】\n予習・復習は合わせて60分程度行うこと。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の内容、受講にあたっての留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "日本経済の推移１/戦前、戦後の日本の経済情勢",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "日本経済の推移２/高度経済成長、所得倍増計画",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "日本経済の推移３/高度経済成長時代の地域の状況、産炭地域振興政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "日本経済の推移４/バブル景気、不良債権の顕在化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "日本経済の推移５/小泉構造改革、平成の長期不況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "経済成長の減速要因と日本的経済システム/日本の経済成長終了の要因、日本も経済システムの特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "少子高齢化の進展/人口減少と高齢化、雇用慣行の変化、所得格差の推移",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "社会保障と税の改革/財政再建、年金制度改革、生活保護制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "TPP（環太平洋パートナーシップ協定）と農業/TPPの経緯、TPPの国内農業への影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "長寿化社会の到来/長寿化社会の概要、長寿化社会の課題と対策の方向性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "人口減少社会の地域づくり/人口減少期における地域づくりの新たな方向性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "今後の地域経営と産業活性化１/今後の地域経営において必要不可欠な産業活性化に係る具体的手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "今後の地域経営と産業活性化２/今後の地域経営において必要不可欠な産業活性化に係る具体的手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "社会福祉の国際比較、人口減少社会の構想/日本の社会福祉の状況、人口減少社会における日本の経済政策の方向性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}

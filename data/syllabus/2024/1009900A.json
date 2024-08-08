@@ -1,0 +1,225 @@
+{
+    "_fetched_at": "2024-08-07T15:41:18Z",
+    "name_ja": "AI・データサイエンス基礎",
+    "name_en": "Introduction to AI and Data Science",
+    "syllabus_number": "1009900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "木島　正明",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本授業では，AI・データサイエンスを実務で応用することを念頭において，これらの基礎的な事項について学びます．到達目標は以下の４点です．\n(ⅰ) 確率・統計の基礎的な内容について理解している\n(ⅱ) 確率・統計とAI・機械学習の考え方の類似点と相違点について理解している\n(ⅲ) データの性質を理解して適切な手法を使って分析できる\n(ⅳ) 目的に応じてデータ分析の方法を使い分けることができる",
+    "overview": "AI（人工知能）とデータサイエンスの基礎を学びます．特に，「データから何が読み取れるか」と「不確実な未来をどのようにして予測するか」について考えます．このためには，確率・統計の考え方とAI・機械学習の考え方の類似点と相違点について理解しておくことが重要です．",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "ビッグデータと人工知能",
+            "year": 2016,
+            "author": "西垣通",
+            "publisher": "中公新書",
+            "price": 780,
+            "isbn": "978-4-12-102384-1",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "データサイエンス入門"
+        ],
+        "recommended_courses": [],
+        "brings": "PC",
+        "other": ""
+    },
+    "evaluation_criteria": "中間試験の成績とレポートの出来栄え",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "コンピュータ能力の進展によりデータ分析の手法や考え方が大きく変りました．以前は数学的な能力が要求されましたが，今はコンピュータが計算してくれるので，データの性質を理解して目的に応じて分析手法を使い分けることや，データの背後にある風景を知って分析結果を解釈する能力が問われます．この授業では，データ分析の楽しさを伝えたいと思います．",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：未来を予測できるか？ラプラスの魔女，確率とは，生活の中の確率，確実 vs 不確実，IT革命，Society 5.0，AI戦略2019",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "データから何がわかるか？データとは，ケトレーとナイチンゲール，ビジネス教育，データ駆動社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "データの集計と可視化：サンプリングバイアス，円グラフ，散布図，確率の捉え方，統計学の考え方，質的データと量的データ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "確率・統計の基礎１：場合の数と確率，頻度と確率，客観確率と主観確率，分布",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "確率・統計の基礎２：連続分布，多変量データ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "統計量：平均と重心，分布の散らばり，相関係数",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "統計学における基本モデル：回帰モデル，数量化モデル，因子分析，判別分析，時系列モデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ここまでの講義内容の確認（中間試験）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "人工知能と人間の知能：ICTと集合知，ビッグデータ，DXとは，AIの発展，ムーアの法則，RPA，将来性のある職業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "機械学習：統計学と機械学習，工学的アプローチ，相関関係と因果関係，学習と推定，過学習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ビッグデータ活用事例１：AI創薬，認知症の判定，不正送金の検知，設備の自動診断，分類とクラスタリング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ビッグデータ活用事例２：デジタル金融，保険におけるデータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "モンテカルロシミュレーション１：乱数の生成，大数の法則と中心極限定理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "モンテカルロシミュレーション２：分布の作成，将来の予測",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめと本講義内容の確認",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

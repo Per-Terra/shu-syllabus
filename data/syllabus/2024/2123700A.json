@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-07T17:09:16Z",
+    "name_ja": "保育原理",
+    "name_en": "Principles of Early Childhood Care and Education",
+    "syllabus_number": "2123700A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 福祉学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "金子　幸",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①子どもの育ちについて説明することができる\n②子どもの育ちに関連する制度や政策について説明することができる\n③保育士の役割について説明することができる\n④保育所保育指針の内容を説明することができる",
+    "overview": "本授業の目的は、子どもの育ちとそれにまつわる制度や政策の基本を学び、子どもの発達を社会の中心で支えている保育士の役割について理解を深めることである。そのために授業では、児童福祉法を基に、子どもや子育てについて整備されている制度や政策について学んでいく。さらに、子どもの発達に応じた保育内容・環境構成、保育方法について考え、現代社会における保育の役割・意義、保育士の役割について理解を深めていく。 \n 主に講義形式で授業を進めていくが、学生同士の議論も重視したい。子どもの育ちを支える方法は多様であり、他者の考えを聞きながら自らの保育に対する考え方を広げることができるようにしていきたい。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "保育原理 (新・基本保育シリーズ)",
+            "year": 2019,
+            "author": "公益財団法人児童育成協会＝監修　天野珠路・北野幸子＝編集",
+            "publisher": "中央法規",
+            "price": 2200,
+            "isbn": "9784805857816",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "保育所保育指針解説",
+            "year": 2018,
+            "author": "厚生労働省",
+            "publisher": "フレーベル館",
+            "price": 320,
+            "isbn": "9784577814482",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書、筆記用具",
+        "other": ""
+    },
+    "evaluation_criteria": "①子どもの発達過程\n②保育の関係法令及び制度\n③保育士の役割\n上記①～③に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "保育所で実践される保育には様々な法令が関係しています。それらは、子どもがより良い成長を遂げるために重要なことばかりです。関係法令を学び、より良い子どもの成長に必要なことについて一緒に考えていきましょう。\n受講にあたっては、各回の授業計画に該当する教科書を熟読しておくことを予習とします（2時間程度）。また、授業内容を振り返り、各自で関連資料を収集するなど、授業内容の定着を図るように努めることを復習とします（2時間程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "保育の理念と概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "保育の社会的役割と責任",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "保育の関係法令及び制度①：児童福祉法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "保育の関係法令及び制度②：保育所保育指針",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "子どもの発達過程①：3歳未満児",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "子どもの発達過程②：3歳以上児",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "多様な保育施設",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "保育士の役割①：幼児教育を行う施設として共有すべき事項",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "保育士の役割②：5領域",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "保育の環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "子ども理解に基づく保育の過程①：3歳未満児",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "子ども理解に基づく保育の過程②：3歳以上児",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "保育の思想と歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "保育所における子育て支援",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "保育の現状と課題・まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

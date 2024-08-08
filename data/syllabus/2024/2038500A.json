@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-07T17:04:33Z",
+    "name_ja": "財務管理論入門",
+    "name_en": "Intoroduction of financial management",
+    "syllabus_number": "2038500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）株式や債券の概念について理解する。\n（２）企業価値評価の基礎的な概念について理解する。",
+    "overview": "現在、日本の証券市場においては外国法人株主を含む機関投資家が台頭するとともに、企業の海外進出やＭ＆Ａが急速に進んでいる。このような背景のもと、日本企業は、財務戦略を構築する際、資本コストを踏まえた意思決定を迫られている。このため、財務管理論における知識の習得は、極めて重要となっている。このような我が国の置かれている状況を踏まえ、本講義では、企業価値の評価、企業の投資、資金調達およびペイアウト政策およびコーポレートガバナンスなどについて網羅的に学習していく。なお、本講義においては、計算演習を積極的に取り入れることとする。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "コーポレートファイナンス",
+            "year": 2021,
+            "author": "新井富雄・高橋文朗・芹田敏夫著",
+            "publisher": "中央経済社",
+            "price": 3740,
+            "isbn": "978-4502183515",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "金融論",
+            "ファイナンス論"
+        ],
+        "brings": "必要に応じて電卓",
+        "other": "なし"
+    },
+    "evaluation_criteria": "株式および債券、企業価値評価に関する基本的な理解度を評価する（最終テスト：60％、中間テスト：40％）",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本授業において、株式や債券、企業価値評価に関する基礎的な知識を習得することにより、財務管理に関する理解がより進むと思います。授業は、講義と演習とを中心に行います。授業は、段階的に進めていくので、欠席はできるだけ避けることが望まれるます。なお、授業においては、計算演習を行う回もあるので、必要に応じて電卓の持参を指示します。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "ガイダンス：財務管理論入門を学ぶ意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "株式会社の資金調達（株式・債券）について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "割引現在価値および将来現在価値について（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "割引現在価値および将来現在価値について（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "債券価格および債券利回りの計算（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "債券価格および債券利回りの計算（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "割引現在価値および債券価格等に関する小テストおよび解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "ポートフォリオ理論やＣＡＰＭで使用する統計の基礎",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "証券のリスクとリターン①：株式の投資収益率、ポートフォリオ理論の基礎",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "市場均衡理論について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "証券のリスクとリターン②：資本資産評価モデル（ＣＡＰＭ）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "株式評価モデルおよび資本コスト概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業価値評価モデル（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "企業価値評価モデル（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "テスト、講義の総括、本授業に関する振返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。\n・講義は、実務経験を踏まえ行う。"
+}

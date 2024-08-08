@@ -1,0 +1,363 @@
+{
+    "_fetched_at": "2024-08-07T15:54:34Z",
+    "name_ja": "日本経済概論",
+    "name_en": "Introduction to Japanese Economy",
+    "syllabus_number": "2001100B",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【授業のテーマ】\n　戦後日本経済の動きと現代の日本経済の課題\n\n【到達目標】\n　戦後から現在までの日本経済の推移、諸課題について理解できる。",
+    "overview": "本講義では、主に戦後から現在までの日本経済の推移、動向、課題等について、基礎的事項を中心に事例を含めて説明する。また、昨今のデフレーション、国際貿易、環境・エネルギー問題、人口減少・高齢化など、われわれの生活と切り離せない問題についても国や地方の経済政策とあわせて紹介する。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "期末に実施する「期末レポート」及び「その他」を評価対象とする。\n　※「その他」は授業で数回実施する「小レポート」を評価対象とする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、深掘りすることを薦める。\n\n【予習・復習】\n　予習・復習は合わせて60分以上行うこと。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "戦後復興期１/占領期の経済改革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "戦後復興期２/戦後インフレの克服",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "高度経済成長期１/経済成長の要因、自由貿易体制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "高度経済成長期２/産業間の労働移動、経済成長の陰り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "低成長期１/石油危機、経済摩擦",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "低成長期２/経済成長の負の側面",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "バブル経済期１/資産価格の高騰、バブルの崩壊",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "バブル経済期２/不良債権、バブル崩壊後の不況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "長期停滞期１/構造改革、再生に向けた動き",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "長期停滞期２/リーマンショック、東日本大震災",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "長期停滞期３/アベノミクス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "長期停滞期４/新型コロナ危機、「新しい資本主義」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "戦後日本経済のまとめと課題１/戦後～高度経済成長期",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "戦後日本経済のまとめと課題２/高度成長期～現在",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "日本経済の現状と課題０/フロー・ストック、景気循環",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "日本経済の現状と課題１/日本の企業システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "日本経済の現状と課題２/労働（１）/日本の労働市場",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "日本経済の現状と課題３/労働（２）/働き方改革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "日本経済の現状と課題４/社会保障（１）/社会保障制度の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "日本経済の現状と課題５/社会保障（２）/高齢化社会への対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "日本経済の現状と課題６/財政",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "日本経済の現状と課題７/金融",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "日本経済の現状と課題８/国際経済・貿易",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "日本経済の現状と課題９/農業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "日本経済の現状と課題１０/地球環境・エネルギー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "地域からみた日本経済１/少子高齢化、人口減少社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "地域からみた日本経済２/都市集中、地域間格差",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "地域からみた日本経済３/地方公共財、コロナ危機、都市・地域政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "本講義のまとめ・振り返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "教員の実務経験（地方公務員）に基づく事例を授業の中で紹介し、さらなる理解促進を図る。"
+}

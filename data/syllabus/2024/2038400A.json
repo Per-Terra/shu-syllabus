@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T17:04:30Z",
+    "name_ja": "財務会計論",
+    "name_en": "Financial Accounting",
+    "syllabus_number": "2038400A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "手嶋　竜二",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）財務会計の仕組みと考え方を理解し，財務会計の役割が理解できる。 \n（２）企業活動と会計との関連を理解することができる。\n（３）財務諸表を分析することができる。",
+    "overview": "本講義では、①企業の資金調達活動、仕入活動、製造活動、販売活動などがどのように数値として記録され、貸借対照表、損益計算書、キャッシュフロー計算書に集約されていくかについて、②企業の収益性分析、安全性分析の理論、について扱う。これらの理論を体系的に学習・習得することで企業の経営状況の分析及び経営改善に役立つ知識を学修できる。本講義を学修することで、ビジネスマンとして必要な企業の経営活動と関連付けながら財務諸表を分析でき、会計専門家として企業活動と関連付けながら企業取引を認識・測定・記録する基礎的理論を深めることができる。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "ビジネス会計検定試験公式テキスト3級　第5版",
+            "year": 2023,
+            "author": "大阪商工会議所",
+            "publisher": "中央経済社",
+            "price": null,
+            "isbn": "978-4502454219",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "簿記初級Ⅰ・Ⅱ"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "教科書、ノート、電卓、筆記用具",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "①企業会計の理解，②貸借対照表の理解，③損益計算書の理解，④キャッシュ・フロー計算書の理解，および⑤財務諸表分析についての理解\n上記①～⑤に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 70,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "財務会計（企業会計）は，企業経営にデータを提供する重要な機能であり，これをなくして企業経営は成り立ちません。本科目を理解するために，① 予習としてテキストを読むこと。② 復習として，授業で行った内容についてテキストを見返しながらノートを整理すること。③ 本科目に関して，週に予習と復習に1.5時間程度ずつ費やす必要がある。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス／授業の進め方、成績評価方法、財務会計とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "貸借対照表①／貸借対照表（B／S）の仕組み、資産の概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "貸借対照表②／資産の概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "貸借対照表③／負債の概念、純資産の概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "損益計算書①／損益計算書（P／L）の仕組み、損益計算のルール",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "損益計算書②／売上総利益，営業利益",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "損益計算書③／経常利益、税引前当期純利益、当期純利益",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "キャッシュ・フロー計算書①／キャッシュ・フロー計算書とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "キャッシュ・フロー計算書②／B／SとP／Lとの関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "キャッシュ・フロー計算書③／様式，3つの活動区分",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "キャッシュ・フロー計算書④／キャッシュ・フローの増減",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "財務諸表分析①／財務諸表分析の基本体系、会社の比較",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "財務諸表分析②／百分比、成長性、伸び率",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "財務諸表分析③／流動性、自己資本比率",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ／その他分析と復習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "手嶋　竜二"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

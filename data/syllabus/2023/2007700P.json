@@ -1,0 +1,359 @@
+{
+    "_fetched_at": "2024-08-08T01:04:43Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700P",
+    "course_number": "10SE401、05HS401",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(i)文献を精読し、その内容を要約し報告できた。\n(ii)科学的方法、特に社会学的方法を理解し、実践できた。\n(iii)論文作成の基礎を理解し、先行研究をもとに卒業論文の執筆を行うことができた。",
+    "overview": "人々の健康といった広いテーマについて、社会・文化現象・吟味・批判的に検討し、文献の精読や科学的手法を用いた調査などを通じて、各自の課題研究（卒業論文の執筆）を行なっていきます。",
+    "corresponding_diploma_policies": [
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "④に記載の到達目標に対して、以下の観点から総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 40,
+        "ポートフォリオ": 10,
+        "その他": 50
+    },
+    "message_from_teachers": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（卒業論文とは）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "専門ゼミⅠの成果報告①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "専門ゼミⅠの成果報告②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究計画の立案①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究計画の立案②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "研究計画の立案③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "研究計画の立案④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "予備調査①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "予備調査②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "予備調査③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "データ分析①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "データ分析②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "データ分析③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "予備調査の研究発表会①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "予備調査の研究発表会②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "本調査①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "本調査②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "本調査③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "データ分析①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "データ分析②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "データ分析③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "データ分析④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "データ分析⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "執筆作業①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "執筆作業②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "執筆作業③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "執筆作業④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "執筆作業⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "執筆作業⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業論文発表会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

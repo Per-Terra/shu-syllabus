@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-07T17:08:30Z",
+    "name_ja": "アスレティックトレーニング概論",
+    "name_en": "Introduction to Athletic Training",
+    "syllabus_number": "2110600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 スポーツ健康科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "佐野村　学",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. アスレティックトレーナーの位置づけ、役割などについて説明できる。\n2. アスレティックトレーナーに必要な知識や技能、態度などについて説明できる。\n3. スポーツ医・科学チームを構成する関連資格の特徴とアスレティックトレーナーとの連携と指導者に求められる倫理や責任などについて説明できる。",
+    "overview": "アスレティックトレーニング において重要な役割を果たすアスレティックトレーナーの位置づけと役割、専門性、業務を遂行する上で必要とされる具体的な知識や技能、態度などを習得することを目標とする。スポーツ医・科学チームを構成する関連資格の特徴とアスレティックトレーナーの役割や連携について理解する。また、指導者に求められる倫理や責任などについて理解するとともに、指導現場において起こり得るリスクやそのマネジメント法を習得する。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "公認アスレティックトレーナー専門科目　第1巻アスレティックトレーナーの役割",
+            "year": 2022,
+            "author": "",
+            "publisher": "日本スポーツ協会",
+            "price": 3410,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "公認スポーツ指導者資格　共通科目リファレンスブック",
+            "year": 0,
+            "author": "",
+            "publisher": "日本スポーツ協会",
+            "price": 4840,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "筆記試験30％、課題レポート30％、発表30％、授業への参加意欲10％",
+    "evaluation_ratio": {
+        "試験": 30,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "毎回、学習内容に関する予習・復習を実施すること。\n【事前学習・事後学習の時間】合わせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "アスレティックトレーニングとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "アスレティックトレーナーのコンピテンシーに応じた業務の運営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "アスレティックトレーナーの役割と必要な知識、技能、態度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "スポーツ指導者としてのアスレティックトレーナーの活動と倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "アスレティックトレーナーとしての活動におけるリスクマネジメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "アスレティックトレーナーとしての活動環境と職域",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "アスレティックトレーナーに必要とされる健康管理と対応策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "感染症対策とメンタルヘルス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "スポーツ医・科学チームを構成する関連資格の特徴と役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "アスレティックトレーナーにおけるエビデンスに基づく実践の概念と運営方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "アスレティックトレーナーにおける研究の目的と意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "アスレティックトレーナーに求められる生涯教育と生涯学習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "アスレティックトレーナーにおける関係者とのコミュニケーシ\nョンと留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アスレティックトレーナーと関係する組織の仕組みと特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "アスレティックトレーナーにおけるクライアントの把握とコミュニケーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村　学"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

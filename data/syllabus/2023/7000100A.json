@@ -1,0 +1,223 @@
+{
+    "_fetched_at": "2024-08-08T01:22:54Z",
+    "name_ja": "教師論",
+    "name_en": "Theory of Teaching Personality",
+    "syllabus_number": "7000100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(1)教職の意義等について基本的知識を獲得できた\n(2)教員の基本的資質として何が必要か理解できた\n(3)教職に就くための覚悟ができた",
+    "overview": "教師の仕事の内容を整理し、教師に求められる資質能力を多面的に学ぶ。そして、教員採用の実態を明らかにし、教師の待遇や研修など、学校制度と管理運営の概要を学ぶ。講義を通して、教員としての基本的な資質を養うとともに、教職に就くための覚悟を形成してもらう。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "『教職概論』",
+            "year": 2012,
+            "author": "佐久間裕之　編著",
+            "publisher": "玉川大学出版部",
+            "price": 2000,
+            "isbn": "9784472404481",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "本講義の主要テーマである「 教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n教職の意義等についての導入",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "よい教師とは（１）\nＫＪ法によるグループ討議と作業",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "よい教師とは（２）\nグループ別発表とコメント",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "教師の資質能力（１）\nこれまでの教師",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "教師の資質能力（２）\n教師のいま\nＫＪ法によるグループ討議と作業",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "教師の資質能力（３）\n学ぶことと教えること\nグループ別発表とコメント",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "教師の仕事（１）\n学習指導",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "教師の仕事（２）\n生徒指導・教育相談・進路指導",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "教師の仕事（３）\n学級経営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "教師の養成と制度（１）\n教師養成の歴史、教員と免許法、専門職としての教師",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "教師の養成と制度（２）\n教師の職務・研修",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "教師の養成と制度（３）\n教師の任用・身分・服務",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "２１世紀の教師（１）\n国際化、ジェンダー・フリー、リカレント教育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "２１世紀の教師（２）\n奉仕活動、教師の心構え、チーム学校",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "全体の振り返りとまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

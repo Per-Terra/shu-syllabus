@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-07T17:10:25Z",
+    "name_ja": "保健体育科教育法Ⅰ",
+    "name_en": "Educational Method for Health and Physical Education I",
+    "syllabus_number": "7001400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "・保健体育授業における「目的」「内容」「方法」「評価」の一貫性について理解できる。 \n・保健体育の「教科内容」「教材」「教具」について理解し、説明ができる。\n・保健体育における授業づくりの仕組みと方法がわかる。",
+    "overview": "本講義では、保健体育科の授業とはどのような理論に即して実施されているのかについて、学習指導要領解説などを踏まえて講義を行い、中学校・高等学校の保健体育科の授業づくりに必要な知識と方法、ならびに授業場面での指導技術、ICT（情報通信技術）の効果的な活用や情報社会の中で学び続ける力の育成方法について学ぶ。 具体的には、体育授業を編成することに必要な教科内容論、教材研究論、評価論、技術指導の系統性、学習集団論について学ぶ。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [
+        {
+            "title": "中学校学習指導要領（平成29年告示）解説　保健体育編　文部科学省",
+            "year": 2017,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 496,
+            "isbn": "978-4-8278-1576-4",
+            "available_on_campus": true
+        },
+        {
+            "title": "高等学校学習指導要領（平成30年告示）解説　保健体育編　文部科学省",
+            "year": 2018,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 552,
+            "isbn": "978-4-8278-1568-9",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "保健体育授業における「目的」「内容」「方法」「評価」の一貫性について理解するとともに、保健体育の授業づくりの仕組みと方法について説明することができるかに関して、以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 20,
+        "その他": 0
+    },
+    "message_from_teachers": "本講座は教職の必修科目であり、保健体育教員として最も重要な保健及び体育の授業について学ぶため、予習や復習の徹底を求める。教壇に立つ自らの姿を思い描きながら意欲的に受講することを期待している。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "よい保健体育科教員になるために",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "マイクロ・ティーチング（グループ単位での模擬授業）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "体育の目的と基本的構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "体育の領域構成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "体育の学習内容（教科内容の構造）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "体育科の教材・教具（教材・教具づくりの基本的視点）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "体育科の学習指導（学習指導の具体的な進め方と教授行動）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "体育の学習形態",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "体育の指導計画と指導案の作成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "授業観察",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "マイクロティーチング（個人単位での模擬授業）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "体育の学習評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "施設設備の安全管理と授業経営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "保健分野の目的と基本的構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "体育理論について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

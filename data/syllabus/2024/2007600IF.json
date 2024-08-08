@@ -1,0 +1,225 @@
+{
+    "_fetched_at": "2024-08-07T16:12:07Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600IF",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "専門ゼミIでは、一定のテーマの下、卒業研究を実施するための基本的能力を習得する。\n各人が個別のテーマを設定し、それを通じて　1．プログラミング能力（および各種ライブラリの活用能力）　2．サーベイ能力（文献・技術調査）　3．プレゼンテーション能力　を修得することを目標とする。",
+    "overview": "週1回のゼミは、文献紹介もしくは進捗報告とそれに基づいた議論によって展開します。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "深層学習",
+            "year": 2015,
+            "author": "麻生 英樹, 安田 宗樹, 前田 新一, 岡野原 大輔, 岡谷 貴之, 久保 陽太郎, ボレガラ ダヌシカ",
+            "publisher": "近代科学社",
+            "price": 3850,
+            "isbn": "978-4764904873",
+            "available_on_campus": false
+        },
+        {
+            "title": "つくりながら学ぶ! PyTorchによる発展ディープラーニング",
+            "year": 2019,
+            "author": "小川雄太郎",
+            "publisher": "マイナビ出版",
+            "price": 3828,
+            "isbn": "978-4839970253",
+            "available_on_campus": false
+        },
+        {
+            "title": "ディジタル画像処理[改訂第二版]",
+            "year": 2020,
+            "author": "ディジタル画像処理編集委員会",
+            "publisher": "画像情報教育振興協会",
+            "price": 4290,
+            "isbn": "978-4903474649",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "機械学習入門",
+            "AI・データサイエンス実践"
+        ],
+        "brings": "ノートPC",
+        "other": ""
+    },
+    "evaluation_criteria": "到達目標に挙げる　1．プログラミング能力（および各種ライブラリの活用能力）の修得　2．サーベイ能力（文献・技術調査）の修得　3．プレゼンテーション能力の修得　を「学生に対する評価」の内容により評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 60,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "ゼミにおける評価は、自らの主体性と意欲に大きく影響されます。能動性と自己探求を欠かさず、積極的に取り組んでいきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "テーマの検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "テーマの決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "4～6",
+            "content": "先行研究調査\n文献調査の方法、論文の読み方について",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "7～8",
+            "content": "文献紹介ゼミ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "9～10",
+            "content": "環境構築\n各種ライブラリの導入",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "11～14",
+            "content": "公開データセットを用いた画像認識実践",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "成果報告会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "16～26",
+            "content": "各テーマにおける画像認識モデルの実装および実験",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "最終成果報告会に向けたアブストラクト作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "最終成果報告会に向けた発表準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "最終成果報告会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "専門ゼミⅠ報告レポート作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

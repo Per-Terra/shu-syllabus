@@ -1,0 +1,212 @@
+{
+    "_fetched_at": "2024-08-07T16:46:34Z",
+    "name_ja": "ICT活用と地域課題解決",
+    "name_en": "",
+    "syllabus_number": "2030000A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "立部　文崇",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1.\t地方創生にDXの推進が望まれる背景が理解できる\n2.\t先行事例において、データがどのように収集されているかが理解できる\n3.\t先行事例において、収集されたデータがどのように活用されているかが理解できる",
+    "overview": "地方の創生を考えるにあたっては、次の３つのような視点が取り上げられることが多い。\n◯地方へのひとの流れの創出、人材支援（ヒューマン）\n◯地方創生に資するDXの推進（デジタル）\n◯地方が牽引する脱炭素社会の実現（グリーン）\n周南圏域においては、いずれも関連が深いと考えられるが、本授業では、主に「地方創生に資するDXの推進」の視点を取り上げる。それぞれの毎回の授業においては、DXの推進による地域課題の解決、地域の魅力向上などの取り組み事例を紹介する。それぞれの事例紹介を通して、DXの推進が地方創生に必要とされる理由、DX推進の可能性を知ることを目的とするが、それぞれの事例の紹介においては、先進的かつ身近な事例について学ぶ機会を設け、これからの学びに何が必要かを考える力を身につける。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "1.\t地方創生とDX推進にあいだにある関連性の理解\n2.\t先行事例ひとつひとつの理解\n3.\t先行事例の基底となっている現象の理解",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 60,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "地域の活性化には、各地域の特色を踏まえた自主的・主体的な取り組みの促進が望まれています。同時に、これらの取り組みには、デジタル化への関心も高まっています。１年次科目である本科目は、このような関心の高まりをもとに、実際に行われている先行事例を知り、今後、みなさんの学びが社会とどのように関わるのかを考えます。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "Introduction 地方創生とDXの推進",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "DXコンサルテーションによる地方企業のDX推進",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "「つながるDX」――関係人口を可視化・育成するシステムによる地方創生",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ブロックチェーンを活用した町おこし：実証実験と展開から",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "地方銀行による地域DX推進事業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "地方中小企業に向けたDXコンサル事業とコワーキングスペースを活用したイノベーション創出",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "日本酒造りにおけるデータ活用とオートメーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "地方創生のためのビジネスインテリジェンス活用と地方豪族企業のデータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "デジテックfor Yamaguchiによる山口県DX推進とY-Baseの活動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "衛星リモートセンシング技術の防災利用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "データを駆使したデジタル農業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "自動車産業の未来を創る技術",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "スポーツを科学する技術（サッカー、バスケットボール）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "福祉業界のIT化、DXへの取り組みー持続可能な社会福祉サービスに向けて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,234 @@
+{
+    "_fetched_at": "2024-08-07T16:32:56Z",
+    "name_ja": "福祉情報インターフェース",
+    "name_en": "Welfare Interface of Infomation & Communication Technology",
+    "syllabus_number": "2021800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "土屋　敏夫",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本講義では情報機器におけるインターフェースの基本と福祉におけるインターフェースの特徴について修得します。",
+    "overview": "インタフェースは、コンピュータ装置と人間の接点となる部分です。インタフェースデザインによって、コンピュータシステムを利用する人にとってのアクセシビリティが決まります。\n初回のガイダンスで、講義の進め方と評価方法に関して確認をします。必要なアプリケーションや環境設定について説明します。\nまた、講義進度は受講者の理解度によって弾力的に変更する場合があります。\n配付資料はデジタルデータでの配布としますので毎回パソコンを持参してください。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "UIデザインの教科書［新版］ マルチデバイス時代のインターフェース設計",
+            "year": 2019,
+            "author": "原田 秀司",
+            "publisher": "翔泳社",
+            "price": 2200,
+            "isbn": "4798155454",
+            "available_on_campus": false
+        },
+        {
+            "title": "ノンデザイナーでもわかる UX+理論で作る Webデザイン",
+            "year": 2017,
+            "author": "川合 俊輔他",
+            "publisher": "マイナビ出版",
+            "price": 2490,
+            "isbn": "4839961077",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "情報システム論"
+        ],
+        "brings": "パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "試験は行いません。毎回、講義に関連する小レポートを提出してもらいます。レポートの内容や講義内でのプレゼンテーションなどで評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 60,
+        "レポート": 0,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "・ガイダンス\n授業の進め方と評価\nアプリケーションのインストールとプログ\nラミング環境の設定",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "・UI/UXデザイン UI/UXについて\nUI/UXデザインの目的\nUI/UXについて理解する",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "・物理的な制約\nインタフェースの物理的制約",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "・ソフトウエアの影響\nWebとアプリケーション\nマルチメディア\nパフォーマンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "・人間の認知特性1\n色・形・動き\nインタラクションコスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "・人間の認知特性2\n一貫性、シンプルさ\n共通概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "・階層と構造\n階層の深さと広さによる使いやすさの影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "・直感的に分かりやすいサイト構造\nわからないとは何か\n関連する情報をユーザーに提示する",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "・ナビゲーションとインタラクション1\nナビゲーション、インタラクションとは\nナビゲーションの方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "・ナビゲーションとインタラクション2\nオーバーレイ、インレイとは\nスクロール、ページングとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "・デザインを形にする\nミニマルデザインとは\nデザインガイドライン",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "・プロトタイピングとマルチデバイス\nプロトタイピングとは\nマルチデバイスとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "・デザイン思考とWebデザイン\nデザイン思考とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "・情報のデザイン\n情報設計とは\nストーリーボードとカードソーティング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "・ユーザーの感性に訴えるデザイン\n感性と使いやすさ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋　敏夫"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

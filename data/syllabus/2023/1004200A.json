@@ -1,0 +1,403 @@
+{
+    "_fetched_at": "2024-08-08T00:56:33Z",
+    "name_ja": "中国語Ⅱ",
+    "name_en": "Chinese II",
+    "syllabus_number": "1004200A",
+    "course_number": "00FL201",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "河村　玉",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "初修中国語Ⅰで習得したものを基礎とし、「話す」「聞く」「読む」「書く」の４つの技能を高める。",
+    "overview": "①初修中国語（第二外国語）後半の完成\n②四技能（話す、聞く、読む、書く）を養う",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "大学生のための初期中国語　２４回",
+            "year": 2019,
+            "author": "杉野元子　黄漢青",
+            "publisher": "白帝社",
+            "price": 2640,
+            "isbn": "9784863983687",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "外国人留学生は日本語能力試験N3以上を持つ者のみを受け入れる",
+            "2年生以上",
+            "中国語を母国語としない者で、中国語Ⅰを履修済みの学生"
+        ],
+        "recommended_courses": [],
+        "brings": "ノート、筆記用具",
+        "other": ""
+    },
+    "evaluation_criteria": "期末テスト６０％、小テスト２０％、授業態度などは２０％として評価",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "習った単語等々をよく復習して、楽しくて効率よく勉強し、中国語検定準４級のレベルまで達するようにがんばりましょう！",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "中国語Ⅰの復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "中国語Ⅰの復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "第1５課（１）\n経験の｛？｝",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "第1５課（２）\n動作量補語",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "第1５課（３）\n前置詞「跟」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "第16課（1）\n時間量\n時間量補語",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "第16課（２）\n前置詞「从」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "第16課（３）\n前置詞「到」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "第17課（１）\n助動詞「会」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "第17課（２）\n助動詞「能",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "17課（3）\n主述述語文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "第18課（1）\n比較",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "第18課（2）\n「多」＋形容詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "第18課（3）\n年齢の尋ね方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "第19課（１）\n「是～的」構文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "第19課（２）\n１００以上の数\n金額の言い方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "総復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "第20課（１）\n状態補語①",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "第20課（２）\n状態補語②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "第20課（3）\n二重目的語",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "第21課（1）\n方向補語",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "第21課（2）\n進行の言い方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "第21課（3）\n禁止",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "第22課（１）\n結果補語",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "第22課（2）\n処置文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "第23課（１）\n受身文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "第23課（2）\n使役文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "第24課（１）\n近い未来",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "第24課（2）\n復文",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "河村玉"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

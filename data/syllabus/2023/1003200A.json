@@ -1,0 +1,233 @@
+{
+    "_fetched_at": "2024-08-08T00:56:19Z",
+    "name_ja": "自然地理学Ⅱ",
+    "name_en": "Physical Geography II",
+    "syllabus_number": "1003200A",
+    "course_number": "00NS203",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "竹本　仁美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "人間の時代ともいえる第四紀の地球環境の変化をテーマに、気候変動や自然災害についての基礎知識を得られるようにします。自然地理学Iで学んだ地形の成り立ちと本講義で学ぶ地球環境の変化とが結びついていることを学びます。\n\n到達目標\n1．第四紀の地球環境の変化や現在の状況について興味関心をもち、その特徴と捉え方を理解することができる。\n2．地球環境の変化が様々な事象と結びついていることを理解し、地球環境の現状や課題と関連づけて考えることができる。\n3．中学校および高等学校の社会科教員として自然地理学分野を教える際に必要な基礎知識を身につけることができる。",
+    "overview": "講義形式で授業を進めます。高等学校で地理を学習していなくても理解できる内容の講義を行います。気候や地球環境に関する様々なデータを参照したり、WebGISを利用したりしながら、様々な地域や時代の特徴を捉えられる場を適宜設定します。また、地球環境に関する時事的話題や周南市周辺の身近な事例を適宜取り上げ、基礎知識を応用させながら理解を深めます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "みわたす・つなげる自然地理学",
+            "year": 2021,
+            "author": "小野映介・吉田圭一郎",
+            "publisher": "古今書院",
+            "price": 2640,
+            "isbn": "9784772281201",
+            "available_on_campus": false
+        },
+        {
+            "title": "やさしい気候学　第4版",
+            "year": 2022,
+            "author": "仁科淳司",
+            "publisher": "古今書院",
+            "price": 2860,
+            "isbn": "9784772285117",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "自然地理学I",
+            "人文地理学I",
+            "人文地理学II",
+            "地誌学I（3年生以上）",
+            "地誌学II（3年生以上）"
+        ],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "授業後にコメントペーパーの提出を求めます。「その他」はコメントペーパーの内容で評価します。\n試験およびコメントの評価基準は以下のとおりです。\n・自然地理学的な事象について、そのメカニズムや地球環境への影響を正しく理解している。\n・自然地理学に関する基礎知識に基づき、地球上の様々な場所に知識を応用させ、自分の言葉で説明できる。\n・講義に対するコメントや質問が、講義内容に興味関心を持ち、理解した上で記述されている。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "講義前の予習は求めません。\n講義後は配布した資料を再読し、復習を行ってください。新しく知った用語について調べたり、資料中に挙げている参考文献を参照して理解を深めましょう。地図帳やWebGISを積極的に活用するのも効果的です。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：第四紀とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "気候とはなにか：わたしたちに身近な「気候」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "気流、海流（1）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "気流、海流（2）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "気候システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "世界の気候区分",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "日本の気候",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "気候変動の歴史とメカニズム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "第四紀の古気候変動の復元（1）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "第四紀の古気候変動の復元（2）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "年代測定法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "海水準変動と地球環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "周南市周辺の古環境変遷",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "気候変動がもたらす自然災害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ：気候変動と地球環境や人間活動との関わり",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "下村　仁美"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

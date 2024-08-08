@@ -1,0 +1,217 @@
+{
+    "_fetched_at": "2024-08-07T17:02:33Z",
+    "name_ja": "グローバルビジネス論",
+    "name_en": "",
+    "syllabus_number": "2031800A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【授業のテーマ】\n経済のグローバル化が拡大・深化する中で、国境を越えて企業活動を行う多国籍企業の活動が目立っている。本講義では、グローバルビジネスの理論と実態について学ぶ。具体的には、国際経営の基礎、海外直接投資の理論、多国籍企業の戦略、トランスナショナル経営、海外子会社の経営について検討を行う。\n【到達目標】\n（１）グローバルビジネス論の概要と現状について理解する。\n（２）海外直接投資の歴史とその現状について学ぶ。\n（３）多国籍企業によるグローバルビジネスの展開について学ぶ。",
+    "overview": "近年、グローバル化が多くの地域・様々な分野において急速に進んでおり、国境を越えたビジネスも猛烈な勢いで進展している。その中で、投資目的によって、資源ビジネス・製造業・サービス業などの多様な投資分野があり、また、ビジネスの担い手である多国籍企業を見ても、実に多彩な組織構造と経営バターンを呈している。本科目はグローバルビジネスの多様性を知るとともに、国境を超える環境（政治・経済・文化などの違い）、貿易理論、多国籍企業論の内容をベースに、具体的な事例をまじえながら講義を進めていく。グローバル企業の成長要因・戦略行動を分析できるようになることを目標としている。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "テキストはなし。毎回レジュメを配布する。適宜内容を変更することがある。"
+    },
+    "evaluation_criteria": "到達目標である：\n１．グロバルビジネス論の概要と現状について理解する。\n２．海外直接投資の歴史とその現状について説明ができる。\n３．国際的な視点から多国籍企業によるグローバルビジネスの展開を分析できる。\n　上記１．～3．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "【準備学習】段階的に講義を進めていくので、毎回、前回のレジュメやノートを参照に復習をしてから講義に臨むこと。（約2時間）\n【事後学習】各回の終了後に講義の要点を整理・要約しておくこと。 （約２時間）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "グローバルビジネス論とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "国際経営の基礎:多国籍企業と直接投資",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "海外直接投資の理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "直接投資と技術移転",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "グローバルビジネスと国際競争戦略",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "多国籍企業とグローバルビジネスの展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "グローバルビジネスと組織：トランスナショナル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "海外子会社の経営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "グローバル・バリューチェーンの理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "グローバル・バリューチェーンの実践：ビールゲーム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究開発の国際化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "グローバルビジネスとCSR",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アーキテクチャの変化と後発国メーカーの成長",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

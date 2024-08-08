@@ -1,0 +1,241 @@
+{
+    "_fetched_at": "2024-08-07T17:05:00Z",
+    "name_ja": "体力トレーニング論（経済・福祉情報学部）",
+    "name_en": "Physical Training Theory",
+    "syllabus_number": "2040000B",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "1. トレーニングの基本となる原理・原則を説明できる\n2. 筋力・筋パワーや筋肥大、筋持久力、全身持久性体力などの目的に応じたトレーニングの内容を説明できる。\n3. 青少年や女性、高齢者などの対象者の特性に応じたトレーニングの内容を説明できる。",
+    "overview": "トレーニングの目的に応じて、トレーニングの強度や量、頻度、休息時間などのトレーニング変数を適切に組み合わせることができることや、対象に応じて適切なトレーニングを処方できるようになることを目的とする。そのため、まずトレーニング一般に関する基礎知識について解説する。そして、トレーニングの目的や対象者の特性に応じたトレーニングの在り方について、トレーニング効果が得られるメカニズムにもとづいて解説する。\nこの授業は、8回目までを対面授業で、その後はオンデマンド授業で進行します。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "健康運動指導士養成講習会テキスト上・下",
+            "year": 2014,
+            "author": "公益財団法人健康・体力づくり事業財団",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "公認スポーツ指導者養成テキスト共通科目Ⅰ・Ⅱ・Ⅲ",
+            "year": 2018,
+            "author": "公益財団法人日本体育協会",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツトレーニングの常識を超えろ！",
+            "year": 2019,
+            "author": "NPO法人日本トレーニング指導者協会",
+            "publisher": "大修館書店",
+            "price": 2200,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "1. トレーニングの原理・原則に関する理解度を小テスト30%で評価する。\n2. 目的に応じたトレーニングに関する理解度を小テスト40%で評価する。\n3. 対象者の特性に応じたトレーニングに関する理解度を小テスト30%で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "体力トレーニングについて、行い方を知るだけでなく、行い方の根拠となる基礎理論をしっかりと習得してください。\n毎回の授業に対して30分間程度の復習をしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "体力トレーニングの概論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "体力トレーニングの基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "体力トレーニングの原理・原則",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "体力トレーニングの効果と種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "体力トレーニングの立案と基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "筋力や筋量を増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "筋パワーを増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "筋持久力を増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "全身持久力を高めるための有酸素運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "体力測定とその活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "障がい者の運動能力の特徴と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "青少年期の成長発達と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "女性の体力・運動能力の特徴と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "加齢に伴う体力の低下と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

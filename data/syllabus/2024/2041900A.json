@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T17:05:44Z",
+    "name_ja": "簿記上級Ⅱ",
+    "name_en": "Advanced Bookkeeping 2",
+    "syllabus_number": "2041900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田村　匡礼",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n日商簿記1級等に必要な知識と考え方を習得し、会計学の理論的背景及び関連諸法規の趣旨が理解でき、会計処理ができるようにする",
+    "overview": "簿記の本質的な理解には、その前提となる会計学の知識が必要となる。会計の理論がわかれば、仕訳の理解も深まり、財務諸表の理解の一助となる。商業簿記を中心に、会計理論を確認しながら、それぞれの仕訳の理解に重点を置く。本講義では、金融商品会計、外貨換算会計、退職給付会計、リース会計、減損会計等の個別論点を学修する。本講義を通して、日商簿記1級や、税理士試験等の簿記論に必要な知識と考え方を習得し、会計学の理論的背景及び関連諸法規の趣旨が理解でき、会計処理について的確に処理でき、財務諸表を理解できる能力を身につける。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "検定簿記講義　1級　商業簿記・会計学　下巻",
+            "year": 2024,
+            "author": "渡辺裕亘　他",
+            "publisher": "中央経済社",
+            "price": 2200,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "簿記中級"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "電卓・教科書",
+        "other": "経済学部2021年度以前入学の学生は、「簿記上級Ⅰ」及び「簿記上級Ⅱ」の単位を修得することで、「簿記上級（４単位）」の単位が修得できます。"
+    },
+    "evaluation_criteria": "1.個別論点の会計の基本理論が理解できる。　　\n2.個別論点の会計処理ができる。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "簿記は積み重ねの学問であるため、毎回講義内容の復習が必要となってくる。復習には60分ぐらいかかると想定される。\n\n本講義では、配布資料と教科書をベースとして授業を進める。知識の定着を図るため、概要を解説した後、演習問題を解きながら授業を進めるため、必ず電卓を持参する必要がある。毎回授業は出席し、必ず復習する事が望ましい。理解度を考慮しながら授業計画の進度を調整することがある。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "連結会計　\n　概要　資本連結",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "連結会計\n　債権、債務の相殺消去\n　連結会社相互間の取引の相殺消去",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "連結会計\n　未実現損益の消去",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "連結会計\n　子会社株式の追加取得及び一部売却と段階取得",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "連結会計\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "リース会計\n　概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "リース会計\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "減損会計\n　概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "減損会計　\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "金融商品会計\n　概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "金融商品会計　\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "外貨換算会計\n　概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "外貨換算会計\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "退職給付会計\n　概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "退職給付会計\n　演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田村匡礼"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "実社会では、教科書等に記載されていない取引事象が多い。実務経験に基づき、その際にどのように解釈し、どのようにその経済取引を仕訳するのか、思考能力、応用能力を養えるように授業を進めたい。"
+}

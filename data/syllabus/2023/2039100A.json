@@ -1,0 +1,242 @@
+{
+    "_fetched_at": "2024-08-08T01:21:16Z",
+    "name_ja": "商法Ⅱ",
+    "name_en": "",
+    "syllabus_number": "2039100A",
+    "course_number": "10ES213",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "川崎　政之",
+            "main": true
+        },
+        {
+            "name": "内田　邦彦",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "Ⅰ・Ⅱを通して、株式会社の法律的な仕組みを理解できるようにしたいと思います。\nこの授業を受けて頂けば，皆さんが社会人として就職する際に必要な最低限の法的知識が身に着くように出来ればと思っています。\n時には経済記事や講師の経験等の実例を示すなどして，わかりやすい講義を目指します。\n\n【到達目標】\n株式会社の具体像を把握すること。例えば，株主，株主総会，取締役会，監査役，代表取締役の役割等の他，労働法などの視点も踏\nまえて，新聞報道等による一般的な経済記事を理解，説明できるレベルを目指します。",
+    "overview": "【講義型】講義用レジュメと資料を毎回配布する予定です。\n\n※授業の実施順序は状況に応じて変更することがあります。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "会社法 第４版",
+            "year": 2023,
+            "author": "田中　亘",
+            "publisher": "東京大学出版会",
+            "price": 4180,
+            "isbn": "978-4130323949",
+            "available_on_campus": false
+        },
+        {
+            "title": "中学校学習指導要領",
+            "year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 397,
+            "isbn": "978-4-8278-1579-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "高等学校学習指導要領",
+            "year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 834,
+            "isbn": "978-4827815672",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "講義用レジュメと資料を毎回配布する予定です。"
+    },
+    "evaluation_criteria": "(ⅰ)講義全般の理解、(ⅱ)知識修得、新聞記事の読解力 について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "講師の川崎と内田は共に周南地区で活動している弁護士です。\n最終的に会社法とビジネスに関する法律の全体像とを理解して貰えればと思います。いわば，「商法入門」と\n思って貰えればと思います。\n【予習・復習について】\n各回実施内容について講義資料を見直す、まとめる等により知識を定着させてください（各回60分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "民法①：入門",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "民法②：契約法／融資は準消費貸借契約",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "民法③：契約法／連帯保証は危険？",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "民法④：物権法／抵当権設定とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "民法⑤：総則／騙されたなら詐欺取消？",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "財務諸表の見方①：決算書とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "財務諸表の見方②：利益とおカネの違い",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "会社法Ⅱ①：会社の計算・資金調達／募集株式の発行",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "会社法Ⅱ②：会社の計算・資金調達／配当",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "会社法Ⅲ①：組織変更／Ｍ＆Ａとは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "会社法Ⅲ②：清算／破産等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "会社法Ⅲ③：設立／個人事業からの法人成り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "手形小切手法①：約束手形の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "手形小切手法②：①の続きと小切手",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　政之"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "金融関係法　融資と保全：金融機関の意義、利息規制、担保の仕組み、債権回収方法等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田　邦彦"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "川崎政之\n2008年～現在　中村友次郎法律事務所勤務（周南市）。弁護士として、民事事件、商事事件、家事事件等を担当。\n内田邦彦\n2010年～2022年　杉岡法律会計事務所勤務（光市）。2023年1月に内田法律事務所を起業。\n　弁護士・税理士・社会保険労務士として、主に中小企業の相談業務に従事。"
+}

@@ -1,0 +1,223 @@
+{
+    "_fetched_at": "2024-08-07T17:04:49Z",
+    "name_ja": "生理学（経済・福祉情報学部）",
+    "name_en": "Physiology",
+    "syllabus_number": "2039500B",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "生理学(Physiology)は、生命活動の動的構造の解析を目的とし、細胞や器官の機能解明と、これらの機能が統合された個体全体の生命現象の解明を目指す学問です。現在の学問領域の多くは解剖学、生理学から分化発展したものであり、医学知識の基本的な部分を占め、専門課程の最初に学習します。\nまた、運動生理学(Sports Physiology I)とは、ヒトが運動を行った時の生体の反応を調べる学問です。健康・体育分野に関わる職業に就きたいと考える人は、必ず知っておかなければならない知識を身につけることをねらいとします。\n\n【到達目標】\n①身体の構造と機能に関わる用語を正しく理解出来る。\n②運動に伴う身体の機能的変化の特性を理解する。\n③実際の活動（運動やトレーニング）において、生理学的な機能や効果さらには意義を理解して取り組むことが出来るようになる。",
+    "overview": "生理学は、読替：「運動生理学Ⅰ」となります。\n授業は、パワーポイントやDVDなどの視覚教材、配布資料等を使いながら進めます。毎回、内容理解確認のため、小テストを行います。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "健康運動指導士養成講習会テキスト上・下",
+            "year": 2020,
+            "author": "公益財団法人健康・体力づくり事業財団",
+            "publisher": "株式会社　南江堂",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "経済学部・福祉情報学部の「生理学」となります。2024年4月開設の新学部学科の学生は履修出来ません。"
+    },
+    "evaluation_criteria": "筆記試験70％、小テスト30％をもとに総合的に評価する。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "生理学／運動生理学は、自分の身体を理解することから始まります。運動生理学の知見が深まるほど、身体への働きかけの重要性が理解出来ます。特に骨と筋の名称はしっかりと覚えて下さい。また、各項目について予習・復習を60分間実施して下さい。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション\n一般生理学の概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "細胞の構造と機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "骨格系と運動（骨の種類と機能）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "筋系と運動（筋の構造と機能）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "神経系と運動（神経組織と脳）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "呼吸器系と運動（呼吸器官の構造と呼吸機能）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "感覚系と運動（受容器と感覚）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "内分泌系と運動（内分泌線とホルモン）\n血液と運動（血液の組成と血球細胞）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "心臓の構造と機能\n血管系と運動（循環と機能）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "運動時中の基質\nエネルギー代謝",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "免疫系と運動（免疫機構の分類）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "消化器系と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "消化器系と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "環境と運動（低酸素下（高地）での運動）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "成長と機能変化（発育発達期の身体的特徴、心理的特徴）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

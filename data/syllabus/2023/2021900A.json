@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2024-08-08T01:15:59Z",
+    "name_ja": "CAD入門",
+    "name_en": "Introduction to CAD",
+    "syllabus_number": "2021900A",
+    "course_number": "05DS203",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "CADソフトの基本的な操作だけでなく、建築の基礎知識・基本的な構造・その成り立ちを理解し、図面をトレースする力が身に付きます。\n（ⅰ）図面の理解\n（ⅱ）CADソフトの基本操作\n（ⅲ）図面の作成",
+    "overview": "CADソフトを使った図面の作成は様々な分野、業界で行われています。現在、手描きで図面を作成することはほとんどなくなっており、CADによる製図が必須です。本講義では、CADの概念と基本的な使い方を学び、建築CAD検定3級程度の技能を身に付けます。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "2022年度版 建築CAD検定試験 公式ガイドブック",
+            "year": 2022,
+            "author": "鳥谷部真",
+            "publisher": "株式会社エクスナレッジ",
+            "price": 3520,
+            "isbn": "978-4-7678-3001-8",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "（ⅰ）図面の理解　（ⅱ）CADソフトの基本操作　（ⅲ）図面の作成\n上記（ⅰ）～（ⅲ）に関する理解度を実技60％、課題40％で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "図面を描く事は難しくありません。「CAD演習」を学ぶことでさらに表現の幅が広がりますので、併せての履修をおすすめします。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "建築の基礎知識",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "CADのインターフェースの理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "建築図面の見方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "様々な図形の描き方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "平面図を描く練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "階段平面図を描く①\n階段平面図の説明とその描き方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "階段平面図を描く②\n建築CAD検定３級程度の階段平面図を描く練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "通り芯・寸法・通り芯記号図面を描く①\n通り芯・寸法・通り芯記号の説明とその描き方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "通り芯・寸法・通り芯記号図面を描く②\n建築CAD検定３級程度の通り芯・寸法・通り芯記号図面を描く練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "柱・壁・間仕切壁図面を描く①\n柱・壁・間仕切壁の説明とその描き方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "柱・壁・間仕切壁図面を描くを描く②\n建築CAD検定３級程度の柱・壁・間仕切壁図面を描く練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "壁と窓図面を描く①\n壁と窓の説明とその描き方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "壁と窓図面を描く②\n建築CAD検定３級程度の壁と窓図面を描く練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

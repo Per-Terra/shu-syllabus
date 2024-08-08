@@ -1,0 +1,216 @@
+{
+    "_fetched_at": "2024-08-07T17:03:25Z",
+    "name_ja": "運動指導論",
+    "name_en": "Theory of Exercise and Sports Coaching",
+    "syllabus_number": "2034400A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "main": true
+        },
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "指導者は各個人が健康維持・増進やスポーツ活動を効果的に行えるように正しい知識を習得すると共に効率の良い指導計画作成の技術を習得する必要がある．そこでこの指導法を理解し指導者としての安全指導・効果的指導の資質向上をねらいとする．\n　到達目標は以下の3つである。\n(ⅰ)運動指導の理論を理解し説明出来るようになる．\n(ⅱ)運動指導の理論を理解し実践出来るようになる．\n(ⅲ)指導計画の必要性・内容・項目を理解し作成出来るようになる．",
+    "overview": "講義に加えて，簡単なワークやグループディスカッションを行う場合があり，授業への主体的な参加を要する．併せて，授業毎の小テスト等により，学習内容の振り返りを行う．",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "参考資料は適宜配布します。"
+    },
+    "evaluation_criteria": "スポーツ指導者に求められる態度や基礎知識等を小テストとレポートから評価します。小テストは、1回目から7回目までの内容を含み、8回目の授業内で行います。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "スポーツ指導者を目指す学生が，将来の対象選手や生徒らのためを考え，真摯に受講することを期待します．\nまた、スライドの内容をノートにまとめ、理解を深めてください。授業後は授業内容の復習に60分程度の時間を当ててください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\nスポーツ指導者とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "指導者の心構え・視点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "世界の舞台をめざすアスリートの発掘・育成の重要性と指導者の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "指導計画の立て方（集団の指導計画，個人の指導計画，期別計画）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "スポーツ活動と安全管理（個人的要因，環境的要因，競技特性）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "危機管理体制の整備（リスクマネジメント）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "スポーツ事故における法的責任とスポーツ事故判例",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "スポーツと人権\n（小テストとフィードバック）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "プレイヤーと指導者の望ましい関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ミーティングの方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "世界における競技スポーツの競争環境と世界の舞台を目指すパスウェイ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "世界を目指した競技者育成における指導者の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "トップアスリートを育てるために～指導者が持つべき視点～",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "スポーツ指導者における評価の必要性と評価方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "指導者の在り方についての評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山健太"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

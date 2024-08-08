@@ -1,0 +1,399 @@
+{
+    "_fetched_at": "2024-08-08T00:56:44Z",
+    "name_ja": "ドイツ語Ⅱ",
+    "name_en": "German II",
+    "syllabus_number": "1004800A",
+    "course_number": "00FL203",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。",
+    "overview": "ドイツ語Ⅰで使用したテキストの中級文法はテキストに沿って、文法、表現を学習し、音読、練習問題に取り組むことで定着させる。また、新しいテキストを使い、既習内容の復習も兼ねて、たくさん書いてたくさん読んで、たくさん話す時間をとって、学生参加型の授業を展開する。\n＊ドイツ語Ⅰで使用したテキストと辞書は必ず持ってくること。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "ドイツ語の収穫",
+            "year": 2015,
+            "author": "春日　正男　　高橋　泰雄",
+            "publisher": "朝日出版社",
+            "price": 2420,
+            "isbn": "978-4-255-25228-5",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "使えるドイツ語を目指して頑張りましょう！",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "授業の進め方についてのオリエンテーション\n発音練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "Lektion１動詞の語尾変化と動詞の場所",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "Lektion２名詞の性・数・格／冠詞／複数形\nLektion１－２練習問題／クイズ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "Lektion３いろいろな冠詞／代名詞／疑問詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "Lektion４不規則変化動詞／命令形\nLektion３－４練習問題／クイズ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "Lektion５前置詞／人称代名詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "Lektion６分離動詞／再帰代名詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "Lektion５－６練習問題／クイズ\n読み物",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "Lektion７助動詞／未来形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "課題解説、復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "Lektion８形容詞の語尾変化",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "Lektion８形容詞の語尾変化\nLektion７－８練習問題／クイズ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "Lektion９動詞の基本３形／語順を変える接続詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "Lektion９動詞の基本３形／語順を変える接続詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "Lektion１０完了形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "Lektion１０完了形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "Lektion９－１０練習問題／クイズ\n読み物",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "Lektion１１関係詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "Lektion１１関係詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "Lektion１２比較",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "Lektion１２zu不定句",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "Lektion１１－１２練習問題／クイズ\n読み物",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "Lektion１３受動態",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "Lektion１３受動態",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "Lektion１４接続法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "Lektion１４接続法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "読み物",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "読み物",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "課題解説、復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "試験対策",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

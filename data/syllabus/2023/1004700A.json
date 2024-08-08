@@ -1,0 +1,408 @@
+{
+    "_fetched_at": "2024-08-08T00:56:41Z",
+    "name_ja": "ドイツ語Ⅰ",
+    "name_en": "German I",
+    "syllabus_number": "1004700A",
+    "course_number": "00FL103",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。",
+    "overview": "たくさん聞いて、たくさん話すことを繰り返すことで文法や単語を習得していくような学生参加型の授業を展開します。\nテキストに沿って、基本語彙、文法、表現を学習します。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、指定する辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "耳から学ぶドイツ語",
+            "year": 2022,
+            "author": "Roland  Schulz　　大薗正彦",
+            "publisher": "三修社",
+            "price": 2620,
+            "isbn": "978-4-384-12297-8",
+            "available_on_campus": true
+        },
+        {
+            "title": "ベーシッククラウン独和・和独辞典　小型版",
+            "year": 2018,
+            "author": "",
+            "publisher": "三省堂",
+            "price": 2530,
+            "isbn": "978-4-385-11972-4",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "第二外国語を学ぶ喜びを一緒に楽しみましょう！",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方、評価方法などについてのオリエンテーション\nEinfuhrung アルファベット、発音練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Einfuhrung アルファベット、発音練習、数字１－１２",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Einfuhrung アルファベット、発音練習、あいさつ、辞書の引き方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Lektion１　自己紹介（人称代名詞、動詞の人称変化）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Lektion１　自己紹介（平叙文と疑問文）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Lektion１　自己紹介（不規則動詞 sein）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Lektion２　名詞の性",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Lektion２　定冠詞、不定冠詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Lektion２　値段をたずねる（数字１３－１００）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Lektion３　不規則動詞　i/ieタイプ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Lektion３　不規則動詞　haben",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Lektion３　不定語　keinとnicht",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Lektion４　名詞の複数形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Lektion４　時刻。時間の表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "Lektion４　敬称のSie",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "Lektion５　前置詞の格支配",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "Lektion５　不規則動詞　aタイプ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "Lektion５　曜日、月",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "Lektion６　所有冠詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "Lektion６　定冠詞、不定冠詞類",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "Lektion６　時の表現、季節",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "Lektion７　分離動詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "Lektion７　命令表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "Lektion７　時刻の表現まとめ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "Lektion８　再帰代名詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "Lektion８　再帰動詞",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "Lektion８　数字（１０１以上）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "Lektion１－４復習　まとめリスニング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "Lektion５－８復習　まとめリスニング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "試験対策演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

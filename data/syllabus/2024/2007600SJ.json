@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T16:13:27Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600SJ",
+    "course_number": ".",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "日置　智子",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目では、研究を遂行するために必要となる以下の知識・技術を身に付けることを目的とする。\n\n・課題を設定し、その解決方法について論理的に考え、自らの言葉で適切に表現することができる。\n・研究遂行に必要となる情報を収集し整理することができる。\n・実験機器や情報機器を利用してデータの取得、処理・分析を適切に行うことができる。",
+    "overview": "生体情報分析に関する書籍の輪読や論文の紹介を行う。また、実際に計測実験やデータ分析等を行うことで生体情報の取得および処理・分析に関する知識・スキルを身につける。各自が課題を設定し、その課題についての情報収集を行い、課題解決に向けた活動を行っていく。課題の進捗状況を発表し、ディスカッションを行う。主に生体の運動に関するデータを扱う。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "(1) 課題を設定し、その解決方法について論理的に考え、自らの言葉で適切に表現することができる。\n(2) 研究遂行に必要となる情報を収集し整理することができる。\n(3) 実験機器や情報機器を利用してデータの取得、処理・分析を適切に行うことができる。\n上記の項目について、発表及び実験等への取り組みにより評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "運動データを処理・分析するために必要となる数学やプログラミングも学びます。積極的に情報収集やディスカッションを行いながら研究に取り組んでいきましょう。\n授業に参加するにあたっては、次回の授業内容に関連する事項について情報収集し(予習30分程度)、授業終了後には、授業で扱った内容の重要箇所の再確認を行い、知識を定着させてください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション・研究の進め方について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "2,3",
+            "content": "文献検索の方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "4~6",
+            "content": "論文紹介",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "7,8",
+            "content": "計測実験の方法",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "9~14",
+            "content": "データ処理・分析の方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期のまとめ",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "計測実験に向けた準備",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "17,18",
+            "content": "計測実験",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "19,20",
+            "content": "データ処理",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "21~23",
+            "content": "データ分析",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "プレゼンテーションの方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "プレゼンテーションの準備",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "プレゼンテーションの実践",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究テーマ決定に向けた情報収集",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "28,29",
+            "content": "研究計画の立案",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "まとめ",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

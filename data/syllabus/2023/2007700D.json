@@ -1,0 +1,72 @@
+{
+    "_fetched_at": "2024-08-08T01:04:10Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700D",
+    "course_number": "10SE401、05HS401",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "卒業論文を書き上げる",
+    "overview": "卒業論文執筆に向けた指導を行います",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "卒業論文執筆に向けて、各自が担当する箇所に十分な責任を負っているかどうかで評価する",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 20,
+        "ポートフォリオ": 80,
+        "その他": 0
+    },
+    "message_from_teachers": "学生によっては、二度と論文作成という大きな取りかかりはないかもしれません。是非、自分の思う論文を仕上げてほしいと思います。毎回、教員から伝えられた内容を文章に反映させる習慣を付けていってください。",
+    "schedule": [
+        {
+            "session": "1-60",
+            "content": "卒業論文制作指導",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

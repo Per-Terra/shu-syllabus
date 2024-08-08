@@ -1,0 +1,134 @@
+{
+    "_fetched_at": "2024-08-07T15:32:14Z",
+    "name_ja": "地域ゼミ",
+    "name_en": "Seminar for Community Revitalization",
+    "syllabus_number": "1007000B",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "稲垣　円",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①調査手法を習得し、周南市で暮らす人々の語りを記録する実践ができるようになる。\n②対象となる地域の歴史、特徴等を丹念に調べ、文章等で表現できることができるようになる。\n③他者と協力して、目標達成に向けて行動することができる。",
+    "overview": "課題解決型学習（PBL; Project/Problem Based Learning）の入門編として、地域が抱える課題の発見・解決に取組み、課題対応能力の伸長を目指す。各ゼミはそれぞれのテーマに応じて、また連携相手となる地域のニーズに応じて、取組むべき課題を見出し、まちづくり、ボランティア、イベント企画・開催、商品づくり、コンテンツ制作、情報発信など課題解決活動を行う。ゼミの実施にあたっては、多様なゼミ活動に共通する課題解決プロセス（現状認識、問題発見、課題解決、結論・総括）を意識し、課題解決の方法論の習得を目指す。また、他者との協働を通じてEQ力の伸長も図る。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "特定の教科書は指定せず、授業中に講師が配布する資料を中心に進める。",
+        "other": "毎回PCを持参すること。"
+    },
+    "evaluation_criteria": "授業時間外の活動も含まれるため、全出席を基本とする。\n地域の方々との信頼関係をつくる作業であるため、フィールド調査等において協力者と丁寧にやりとりする姿勢、また一緒に取り組む仲間との共同作業に主体的かつ積極的に取り組む姿勢を評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "本年度から着任するため、私もこの授業を通して住民の方々と関りながら周南市についての理解を深めたいと思います。協力いただいた方々および地域にとって価値ある取り組みになるよう、創りあげていきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：ゼミの方針、進め方、文献の紹介",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "2～3",
+            "content": "調査手法についての説明・実践",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "調査計画の立案：日程確認、グループ分け、グループでの活動方針、成果物作成に向けた計画の立案",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "5～6",
+            "content": "調査対象の現状調査：図書館・Web等を活用した情報収集・整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "7～10",
+            "content": "現地調査実施（聞き取り）※授業時間外での活動を予定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "11～14",
+            "content": "収集データの書き起こし・編集、冊子として集約する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "最終報告会：調査対象地あるいは大学にて実施（予定）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,236 @@
+{
+    "_fetched_at": "2024-08-08T01:05:08Z",
+    "name_ja": "アニメーション基礎原理",
+    "name_en": "Basic principle of animation",
+    "syllabus_number": "2008400A",
+    "course_number": "03AM101",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "久保　俊介",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ問題解決能力を持った人材の育成を意図した授業です。\n「動き」の原理を理解し、実際の動きを観察して、自分で考えてアニメーションを描く力を身に付けます。",
+    "overview": "アニメーションの基礎知識、動きの原理を理解し制作工程の学習や見せ方を身に着けます\n画の動かし方の基本を押さえ実際に動画を制作します。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "After Effects for アニメーションBEGINNER",
+            "year": 2021,
+            "author": "大平幸輝",
+            "publisher": "BNN",
+            "price": 3520,
+            "isbn": "978-44-8025-1003-5",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "CG入門"
+        ],
+        "brings": "USBフラッシュメモリ（データ保存用）",
+        "other": "定員 19 名。定員を超える場合には抽選で履修者を決定します。 但し、知財開発コース学生向けの主学科科目で ある為、知財開発コースの学生を優先します"
+    },
+    "evaluation_criteria": "①制作工程の理解②動きの原理の理解を期末アニメーション制作課題により評価します。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "イラストの上手下手にとらわれず、原理を理解し描いたものを動かしてみてください。",
+    "schedule": [
+        {
+            "session": "01",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "02",
+            "content": "アニメーション制作工程",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "03",
+            "content": "基本設定と考え方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "04",
+            "content": "タイムシートとインターフェース",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "05",
+            "content": "素材配置・レイヤー構造",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "06",
+            "content": "キーフレーム・連弁セル・親子構造",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "07",
+            "content": "キーフレームの停止・パン",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "08",
+            "content": "トラックマット",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "09",
+            "content": "オーバーラップ・モーションブラー",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "レイヤー処理・エフェクト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "３D処理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "編集作業・ポストプロダクション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "２Dアニメーション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "制作課題",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "制作課題仕上・講評",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+}

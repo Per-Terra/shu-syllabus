@@ -1,0 +1,211 @@
+{
+    "_fetched_at": "2024-08-07T17:07:32Z",
+    "name_ja": "ビジネスアナリティクス概論",
+    "name_en": "Introduction to Business Analytics",
+    "syllabus_number": "2104400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "木島　正明",
+            "main": false
+        }
+    ],
+    "term": "4Q",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。\n１．ビジネスアナリティクスが求められている社会的な背景を理解する\n２．ビジネスアナリティクスの代表的な活用事例を理解する\n３．ビジネスアナリティクスに必要な知識や技術の概要を理解する",
+    "overview": "Society 5.0の実現に向けて、デジタル・トランスフォーメーション（DX）への取組が盛んになっています。その中で、データを活用しビジネス上の意思決定を支える技術であるビジネスアナリティクスは、最も重要な要素の一つです。この講義では、ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "レポートの提出状況と内容の出来を総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "ビジネスアナリティクスは、データをビジネスで活用する上で欠かすことのできない技術です。普段からビジネスとデータに関する情報に関心を持ち、ビジネスでデータがどのように活用されているかを考えるようにして下さい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "デジタル社会とその特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "デジタル社会を支える技術とデータ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "メディアリテラシー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "インターネットと集合知１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "インターネットと集合知２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ビジネスにおけるデータ活用例１：マーケティング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ビジネスにおけるデータ活用例２：製造業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ビジネスにおけるデータ活用例３：金融",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ビジネスアナリティクスプログラムでの学び",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ビジネスにおける数理モデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "AI、機械学習とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "最適化とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "時系列解析とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "シミュレーションとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本講義のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島　正明"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

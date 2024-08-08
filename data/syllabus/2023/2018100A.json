@@ -1,0 +1,232 @@
+{
+    "_fetched_at": "2024-08-08T01:14:33Z",
+    "name_ja": "介護の基本Ⅵ",
+    "name_en": "Basics of the Care VI",
+    "syllabus_number": "2018100A",
+    "course_number": "05NW404",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "末次　絵里子",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "「尊厳の保持」「自立支援」という新しい介護の考え方を理解するとともに、「介護を必要とする人」を、生\n活の観点から捉えるための学習。また、介護における安全やチームケア等について理解するための学習とす\nる。",
+    "overview": "人間の多様性・複雑性が援助にどのような影響があるかを概説し、特に障害のある人に対する理解を促進する\nことを図る。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "主体性・多様性・協調性の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "最新・介護福祉士養成講座14『障害の理解第2版』介護福祉士養成講座編集委員会編",
+            "year": 2022,
+            "author": "介護福祉士養成講座編集委員会編",
+            "publisher": "中央法規",
+            "price": 2420,
+            "isbn": "978-4-8058-8403-４",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "介護の基本Ⅴ"
+        ],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "試験（40％）、小テスト（30％）、レポート（30％）などから総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 30,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "授業の終わりに、次回授業の内容・範囲・主要なテーマをお知らせしますので、予習として60分程度の時間をかけ、教科書を読み、主なテーマについて各自で調べ、知識をつけておいてください。また、授業後にはワークシートを配りますので、学んだことを振り返り、まとめることで、60分程度の復習をしてください。復習に用いたワークシートは、次回授業時に提出してください。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "介護を必要とする人の理解（１）－人間の多様\n性・複雑性の理解－?",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "介護を必要とする人の理解（２）－人間の多様\n性・複雑性の理解－?",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "介護を必要とする人の理解（３）－障害のある\n人の生活ニーズー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "介護を必要とする人の理解（４）－障害のある\n人の生活基盤（年金制度）ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "介護を必要とする人の理解（５）－障害のある\n人の生活基盤（生活保護）－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "介護を必要とする人の理解（６）－障害のある\n人の生活基盤（介護保険）ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "介護を必要とする人の理解（７）－障害のある\n人の生活を支えるサービスの現状と課題－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "介護を必要とする人の理解（８）－障害のある\n人の家族・世帯構成ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "介護を必要とする人の理解（９）－障害のある\n人の就労・雇用ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "介護を必要とする人の理解（10）－障害のある\n人の収入・生計ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "介護を必要とする人の理解（11）－障害のある\n人の社会活動・余暇活動ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "介護を必要とする人の理解（12）－生活、生活\n環境の考え方ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "介護を必要とする人の理解（13）－家族のとら\nえ方ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "介護を必要とする人の理解（14）－地域のとら\nえ方ー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "介護を必要とする人の理解（15）－社会のとら\n\nえ方－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "試験",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

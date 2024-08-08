@@ -1,0 +1,256 @@
+{
+    "_fetched_at": "2024-08-07T17:04:17Z",
+    "name_ja": "行動経済学",
+    "name_en": "Behavioral Economics",
+    "syllabus_number": "2037800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）行動経済学の基本的概念、考え方を習得し、社会現象・経済現象を理解できること。",
+    "overview": "経済人(ホモエコノミカス)の「合理性」が経済学で前提とされるが、現実の経済行動は単純な合理性のみには基づかない。経済活動が合理性のみでは説明不可能であることが明らかになるにつれて、心理学、脳科学などの知見を取り入れる形で行動経済学は発展してきた。本講義では、カーネマンのプロスペクト理論や、セイラーのナッジ(行動を促すように軽く突くこと)の是非などを具体例を交えながら概説し、不確実性への対処、利他性や倫理と経済の関係を考える。これらの理論は実際の生活でも応用可能なものでもあるので、ナッジ的な行動など理論を踏まえた行動ができるようになることを一つの目標とする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "あなたを変える行動経済学",
+            "year": 2022,
+            "author": "大竹文雄",
+            "publisher": "東京書籍",
+            "price": 1300,
+            "isbn": "4487815436",
+            "available_on_campus": true
+        },
+        {
+            "title": "ファスト&スロー(上)(下)",
+            "year": 2014,
+            "author": "カーネマン著・村井章子訳",
+            "publisher": "早川書房",
+            "price": 2112,
+            "isbn": "4150504105",
+            "available_on_campus": true
+        },
+        {
+            "title": "行動経済学―伝統的経済学との統合による新しい経済学を目指して （新版）",
+            "year": 2018,
+            "author": "大垣昌夫・田中沙織",
+            "publisher": "有斐閣",
+            "price": 2860,
+            "isbn": "4641165386",
+            "available_on_campus": true
+        },
+        {
+            "title": "行動経済学の逆襲(上)(下)",
+            "year": 2016,
+            "author": "セイラー",
+            "publisher": "早川書房",
+            "price": 1848,
+            "isbn": "4150505470",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "ミクロ経済学",
+            "意思決定科学入門",
+            "心理学概論"
+        ],
+        "brings": "なし",
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "evaluation_criteria": "期末に実施する試験と、参加型や課題についてのレポートによる評価を予定している。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "伝統的な経済学ではホモエコノミクス(合理的経済人)を想定し、ミクロ経済学のモデルが組み立てられてきた。現実の経済行動では普遍的にその合理性に当てはまらない事象が多々観察され、その知見の反映が求められることで行動経済学が重要になってきていると考えられる。本科目では、経済学の基本概念を踏まえ、合理性に疑問を持ちつつ、人間行動を考えたい。\n\n行動経済学は近年注目されている分野であり、テレビやネット記事でも取り上げられていることがある。それらにアンテナを張って興味を持つことは理解・応用の助けになると考える。また比較的読みやすい関係書籍も多く出版されているため、予習・復習に活用していただきたい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "経済学の基本的な考え方と行動経済学の立ち位置",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "(伝統的)経済学の復習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "合理的経済人と限定合理性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "時間選好・指数割引",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "利用可能性ヒューリスティック・代表性ヒューリスティック",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "双曲割引・選好逆転・現在バイアス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "アノマリーとパラドックス(ベルヌーイ・アレ・エルスバーグ)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "期待効用理論とプロスペクト理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "リスクと不確実性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ナッジとスラッジ、熟議について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "コミットメントとゲーム理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "規範行動と政策評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "幸福度、厚生、利他行動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

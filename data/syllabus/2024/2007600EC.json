@@ -1,0 +1,413 @@
+{
+    "_fetched_at": "2024-08-07T15:55:13Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600EC",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①関係文献に関する概念理解\n②レジュメの作成能力\n③できれば実験の企画やデータ分析",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行う。また、学生の興味関心の深いテーマについて、データ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいてそれを企画あるいは政策提言として文書にまとめるといった一連のプロセスを学修する。専門ゼミⅡで卒業論文等を作成するために必要なスキルを身につける。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4",
+        "知財開発コースDP3",
+        "知財開発コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "ファスト&スロー(上)(下)",
+            "year": 2014,
+            "author": "ダニエル・カーネマン著・ 村井章子訳",
+            "publisher": "早川書房",
+            "price": 2112,
+            "isbn": "4150504105",
+            "available_on_campus": true
+        },
+        {
+            "title": "あなたを変える行動経済学:よりよい意思決定・行動をめざして",
+            "year": 2022,
+            "author": "大竹文雄",
+            "publisher": "東京書籍",
+            "price": 1300,
+            "isbn": "4487815436",
+            "available_on_campus": true
+        },
+        {
+            "title": "行動経済学 -- 伝統的経済学との統合による新しい経済学を目指して",
+            "year": 2018,
+            "author": "大垣昌夫・田中沙織",
+            "publisher": "有斐閣",
+            "price": 2860,
+            "isbn": "4641165386",
+            "available_on_campus": true
+        },
+        {
+            "title": "NUDGE 実践 行動経済学 完全版",
+            "year": 2022,
+            "author": "リチャード・セイラー・キャス・サンスティーン著、遠藤真美訳",
+            "publisher": "日経BP",
+            "price": 2530,
+            "isbn": "4296000985",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "ミクロ経済学",
+            "意思決定科学",
+            "経済学",
+            "心理学",
+            "データサイエンス入門"
+        ],
+        "brings": "パソコンは必要になると考える。",
+        "other": ""
+    },
+    "evaluation_criteria": "参加態度(レジュメ、ディスカッション)などで判断する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "行動経済学のゼミであるため、行動経済学に関する文献を扱うことになると考えられる。現在の所は文献の輪読を考えている。その場合は第一回に文献は決定する予定である。第二回以降は担当箇所をまとめてレジュメを作成して頂くことになるため、そのための基礎的スキルは身につけておいて頂きたい。また、行動経済学は実験要素の多い分野であり、できれば仮説を立ててどのように実証し検証できるかを考え、実行できたらおもしろいと考えている。それにはそれなりに多くの知識、想像力、データ分析力が問われるため、知識は着実に身につけて頂きたい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ゼミの概要・方針の説明(第2回以降は希望次第であり流動的)",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "文献による学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,223 @@
+{
+    "_fetched_at": "2024-08-07T16:31:36Z",
+    "name_ja": "福祉サービスの組織と経営",
+    "name_en": "Organization and Management of  Welfare Services",
+    "syllabus_number": "2014600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "輪倉　一広",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": null,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1.ソーシャルワークにおいて必要となる、福祉サービスを提供する組織や団体の概要について理解する。\n2.社会福祉士に求められる福祉サービスの組織と沿革、経営の視点と方法を理解する。\n3.福祉サービスの組織と運営に係る基礎理論、労働者の権利等について理解する。\n4.福祉サービスに求められる福祉人材マネジメントについて理解する。",
+    "overview": "社会福祉士カリキュラムの１つ。社会福祉事業の組織、団体、ルールを理解する。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "福祉サービスの組織と経営",
+            "year": 2021,
+            "author": "一般社団法人　日本ソーシャルワーク教育学校連盟　編集",
+            "publisher": "中央法規",
+            "price": 2500,
+            "isbn": "978-4-8058-8244-3",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "特になし"
+        ],
+        "recommended_courses": [],
+        "brings": "教科書",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "①福祉サービスを提供する組織や団体の概要\n②福祉サービスの組織と沿革、経営の視点と方法\n③福祉サービスの組織と運営に関する基礎理論、労働者の権利\n④福祉サービスに求められる人材マネジメント\n上記①～④に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 80,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "積極的な授業参加を望みます。\n予習・復習により知識が定着します。頑張って取り組んでください。\n事前・事後学習時間の目安、おおよそ4時間程度。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "経営の定義、福祉経営の特殊性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "福祉サービスに係る組織や団体の概要と役割①\n社会福祉法人等、福祉サービスの担い手",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "福祉サービスに係る組織や団体の概要と役割②\n施設整備や運営費財源",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "福祉サービスに係る組織や団体の概要と役割③\n社会福祉法人",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "福祉サービスに係る組織や団体の概要と役割④\n公益法人制度改革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "福祉サービスに係る組織や団体の概要と役割⑤\n組織間連携とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "福祉サービスの組織と運営に関する基礎理論①\n組織運営に関する基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "福祉サービスの組織と運営に関する基礎理論②\n集団の力学に対する基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "福祉サービスの組織と運営に関する基礎理論③\nリーダーシップに関する基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "福祉サービス提供組織の経営と実際①\n福祉サービスのコンプライアンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "福祉サービス提供組織の経営と実際②\n福祉サービスのカバナンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "福祉サービス提供組織の経営と実際③\n適切な福祉サービスの経営管理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "福祉人材マネジメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "働きやすい労働環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉　一広"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

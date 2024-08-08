@@ -1,0 +1,231 @@
+{
+    "_fetched_at": "2024-08-07T16:45:41Z",
+    "name_ja": "貧困に対する支援",
+    "name_en": "Social Work Theory for the Poverty and Needy",
+    "syllabus_number": "2028000A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "牛島　豊広",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目は貧困状態にある人の生活実態について知り、貧困に係る法制度や支援の仕組みに関する理解を通じ、ソーシャルワーカーとしての適切な支援のあり方について学修する。授業の到達目標は以下の通りである。\n①貧困や公的扶助の概念を踏まえ、貧困状態にある人の生活実態とこれを取り巻く社会環境について説明することができる。\n②貧困の歴史と貧困観の変遷について説明することができる。\n③貧困に係る法制度と支援の仕組みについて説明することができる。\n④貧困による生活課題を踏まえ、社会福祉士としての適切な支援のあり方について説明することができる。",
+    "overview": "授業では、貧困の概念や歴史、貧困状態にある人の生活実態とこれを取り巻く社会環境について説明をする。また、貧困に対する法制度と支援に係る専門職の役割について理解ができるようにし、貧困に対する支援の実際について概説していく。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "最新社会福祉士養成講座４ 貧困に対する支援",
+            "year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟編",
+            "publisher": "中央法規",
+            "price": 2750,
+            "isbn": "9784805882474",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "参考図書は講義内で適時案内します。",
+            "year": 0,
+            "author": "-",
+            "publisher": "-",
+            "price": 0,
+            "isbn": "-",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書",
+        "other": ""
+    },
+    "evaluation_criteria": "①貧困や公的扶助の概念と貧困状態にある人の生活実態②貧困の歴史と貧困観の変遷③貧困に係る法制度と支援の仕組み④貧困による生活課題を踏まえ、社会福祉士としての適切な支援について以下の割合で評価する。\n「試験」は、全授業後の試験期間に実施します。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "社会福祉において貧困の課題は大変重要なテーマです。貧困の概念をはじめ、制度や支援を学ぶ中で人々が地域で安心して暮らしを営むことができる社会のあり方について一緒に考えていきましょう。\n授業においては、次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "貧困の概念～絶対的貧困と相対的貧困の概念、社会的排除、社会的孤立\nオリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "公的扶助の意義と範囲",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "貧困状態にある人の生活実態",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "貧困状態にある人を取り巻く社会環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "貧困状態にある人に対する福祉の理念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "貧困の歴史と貧困観の変遷",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "貧困に対する制度の発展過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "貧困に対する法制度における生活保護法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "貧困に対する法制度における生活困窮者自立支援法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "貧困に対する法制度における低所得者対策、ホームレス対策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "貧困に対する支援における関係機関と専門職の役割及び公私の役割関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "貧困に対する支援における国、都道府県、市町村の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "貧困に対する支援における福祉事務所の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "貧困に対する支援と自立支援機関の役割と関連する機関、専門職の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "貧困に対する支援の実際と社会福祉士の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

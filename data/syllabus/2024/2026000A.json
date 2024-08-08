@@ -1,0 +1,236 @@
+{
+    "_fetched_at": "2024-08-07T16:44:44Z",
+    "name_ja": "Python入門",
+    "name_en": "Introduction to Python programming",
+    "syllabus_number": "2026000A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "(i) Pythonの基本的な構文を理解し目的に合わせて記述できる\n(ii) 授業を学んだことを元に応用したプログラムが書ける\n(iii) 授業で学んだ複数の技法を組み合わせて活用したプログラムが書ける",
+    "overview": "Python入門はプログラミング言語Pythonを用いてコンピュータプログラミングにおける基本的な考え方と初級的なプログラミング技術について修得する。Pythonは人工知能やデータサイエンス等の分野で広く使用されている一方で、文法は他の言語と比較して簡単なものである。この授業では、プログラミング言語の基本的な概念として、基本的処理、変数、演算子、アルゴリズムなどを理解し、手続き型プログラミング技法を用いた基本的なソフトウェア開発をできるようになることを目標とする。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP1",
+        "情報科学科DP3",
+        "福祉学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "必携パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "到達目標1および2について、各回の小テスト・小レポートによって評価し、到達目標1～3について最終課題をまとめた期末レポートによって評価する。\n期末レポートは授業時に開示するルーブリックに基づいて採点する。\n成績評価の配点\n小テスト、小レポート40％\n期末レポート60%",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 40,
+        "レポート": 60,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "Python は今世界でもっとも注目度の高いプログラミング言語と言えます。データサイエンスや業務効率化において大変有用な言語です。\n毎回の授業の積み重ねで深く理解していくことができます。必ず各回の課題にしっかりと取り組み、小レポート等によって自身の理解を振り返ってください。\n\n事前学習、事後学習の時間：あわせて90分程度（プログラミング課題含む）。 \n【オンデマンドのオフィスアワー】オンデマンド教材の配信日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、 Python とはなにか、今後のプログラミング演習の準備",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "変数と文字列の操作",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "データ型と四則演算",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "リスト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "モジュール",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "条件分岐",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "論理演算子",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "whileによる繰り返し処理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "for により繰り返し処理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "辞書",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "関数",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "並べ替えのアルゴリズム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "ファイル操作",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "表データの読み書き",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめと最終課題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

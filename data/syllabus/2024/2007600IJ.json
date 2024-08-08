@@ -1,0 +1,359 @@
+{
+    "_fetched_at": "2024-08-07T16:12:16Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600IJ",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "野村　典文",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "・メタバースにおける新しい価値創造の手法を理解し、適用する。\n・メタバース空間を通して、VR/AR/MRに関する新たな情報技術を習得する。\n・メタバース空間での人間の能力拡張について研究することで創造性を身に着ける。\n・メタバースの技術的、社会的な課題を議論し、解決策を提案する。",
+    "overview": "このゼミでは、メタバースと呼ばれる仮想空間が生み出す新しい価値に焦点を当て、その可能性と挑戦について深く探ります。学生たちは、メタバースにおけるコミュニケーション、ビジネス、テクノロジーなどの多岐にわたるテーマを調査研究し、価値を生み出すメタバース空間の制作などを実践的なプロジェクトを通じて学びます。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "PC",
+        "other": "教科書は特に指定しない。準備した資料を活用する。"
+    },
+    "evaluation_criteria": "プレゼンテーション、ディスカッションへの参加、およびレポート\nその他：メタバースに関する成果物（プロトタイプ制作）",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "現在、私たちはこれまでとは違う、まったく新しい世界の探求を計画しています。これは、仮想世界であり、無限の可能性が広がるメタバースです。メタバースは単なるゲームやバーチャルリアリティ以上のものです。それは新しい「社会」、新しい「市場」、新しい「ステージ」です。そして私たちは、そこでどのような新しい価値を創り出せるのか、あなたと一緒に探っていきたいと思っています。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、テーマ設定、文献検索",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "テーマ設定、文献検索",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "論文・専門書の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "論文・専門書の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "論文・専門書の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "論文・専門書の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "論文・専門書の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "プラットフォーム評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "プラットフォーム評価評価レポート作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "プラットフォーム評価レポート作成",
+            "methods": [],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "コンテンツ制作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "全体のインテグレーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "全体のインテグレーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "レポート作成・発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "レポート作成・発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "レポート作成・発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "野村 典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大\n学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベ\nース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
+}

@@ -1,0 +1,258 @@
+{
+    "_fetched_at": "2024-08-08T01:01:27Z",
+    "name_ja": "留学英語IELTS",
+    "name_en": "IELTS Preparation",
+    "syllabus_number": "1013600B",
+    "course_number": "00EG106",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田中　数恵",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "IELTS(アイエルツ)とは「International English Language Testing System」の略で、留学や移住、就労などで英語力を証明するための英語運用能力評価試験として、英国、オーストラリア、ニュージーランド、カナダ、米国、欧州各国などで広く利用されている国際的な認知度の高いテストです。IELTSは4つの英語スキル（書く、読む、聞く、話す）をはかるテストで、IELTSアカデミックとIELTSジェネラル・トレーニングの二種類があります。この授業は、長期留学に関心がある人のためのIELTS入門コースです。交換・派遣留学や大学院進学などでIELTS Academic（アイエルツ　アカデミック・モジュール）の受験を予定している学生を対象に、目標スコア到達に必要な4技能（Reading, Listening, Writing, Speaking）の試験対策をします。",
+    "overview": "IELTSテスト各パートの例題を解いて、出題形式や傾向を理解します。また、例題を通して必須の語彙やWriting TestやSpeaking Testで役立つ構文を学びます。学期後半の授業で、到達度確認のためのIELTSミニ模擬試験を実施します。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "新セルフスタディ IELTS完全攻略［第2版］",
+            "year": 2020,
+            "author": "Anthony Allan",
+            "publisher": "ジャパンタイムズ出版",
+            "price": 2860,
+            "isbn": "978-4789017510",
+            "available_on_campus": false
+        },
+        {
+            "title": "実践IELTS英単語3500",
+            "year": 2013,
+            "author": "内宮 慶一，吉塚 弘",
+            "publisher": "旺文社",
+            "price": 2750,
+            "isbn": "978-4010941850",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書，ノート，英語辞書",
+        "other": ""
+    },
+    "evaluation_criteria": "IELTS受験必須の単熟語の習得、基本文法の理解、パート別対策法の理解と実践を、「学生に対する評価」にある通り評価します。評価基準の「小テスト」は、語い・文法・構文の定着を図るための小テストや小課題提出です。「発表・実技」は、授業内で行うWriting・Speaking練習への取り組みです。「その他」は授業内外の学習における自主性・積極性です。原則として、出欠状況は評価に含まれませんが、授業回数の3分の2以上の出席がなければ期末試験受験資格が失効します。十分注意してください。",
+    "evaluation_ratio": {
+        "試験": 30,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "自主的かつ継続的に努力を重ねて、目標のIELTSバンド（スコア）を達成しましょう。\n毎時間、教科書の予習箇所を指示します。授業には必ず予習・復習をして臨んでください。また、授業時間とは別に、継続的な語彙学習、イギリス式英語の発音に慣れるための聴解練習、話の流れをつかみながら長文を読み進める読解練習などが大切です。そして、外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を使って、予習・復習をしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方・評価について\nIELTS Academicとは（テストの概要、受験方法、教材など）\nIELTS LISTENING ①　\nMultiple Choice Questions　選択肢問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "IELTS READING ①\nMultiple Choice Questions　選択肢問題\nShort Answer Questions　短文解答問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "IELTS LISTENING ②\nShort Answer Questions　短文解答問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "IELTS READING ②\nSentence Completion Questions　英文完成問題\nDiagram/Chart/Table Completion　図表完成問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "IELTS LISTENING ③\nSentence Completion Questions　英文完成問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "IELTS READING ③\nHeadings　小見出し選択問題\nTrue/Fales/Not Given Questions　正誤問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "IELTS SPEAKING ①\nスピーキングテストの流れ\nPart 1　自己紹介と日常生活に関する質問",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "IELTS READING ④\nMatching Sentence Endings　文組み合わせ問題",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "IELTS WRITING ①\nTask 1: Describing Graphs/Charts　図表の説明",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "IELTS WRITING ②\nTask 1: Describing Processes　手順・過程の説明",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "IELTS SPEAKING ②\nPart 2　スピーチ",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "IELTS WRITING ③\nTask 2: For or Against　賛成／反対のエッセイ",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "IELTS SPEAKING ③\nPart 3　ディスカッション",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "IELTS WRITING ④\nTask 2: \"What\" Questions　Whatで問われるエッセイ",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "IELTS Academic ミニ模擬試験",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

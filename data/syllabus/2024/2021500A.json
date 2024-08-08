@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2024-08-07T16:32:48Z",
+    "name_ja": "情報社会と職業",
+    "name_en": "IT Society and Profession",
+    "syllabus_number": "2021500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長谷川　賀秀",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "この授業内容を学習することで、高等学校情報科の教員免状を取得するために必要な基本的な知識を理解し、情報化の進展が社会、ビジネス活動及び職業などに及ぼす影響を理解します。また、その知識等を用いて情報科の授業を構成する力、ビジネス活動や職業の現場で活躍する基礎的な力等の熟成を目指します。【身につく力】「知識、理解」「情報リテラシー」「コミュニケーション能力」",
+    "overview": "産業社会における情報化の進展は、個人を取り巻く職業環境を大きく変化させるとともに、個人の人生観や職業観・職業意識の多様化を推し進めている。その中で、この授業では、職業と情報の関わり、これからの情報社会の中で求められている職業人としての資質・能力及び職業観などについて考察する。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "情報と職業―ＡＩ時代に向けてのキャリア開発 （改訂４版）",
+            "year": 2023,
+            "author": "豊田 雄彦／加藤 晃／鈴木 和雄【著】",
+            "publisher": "電気書院",
+            "price": 2200,
+            "isbn": "9784485665626",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "テキスト",
+        "other": "なし"
+    },
+    "evaluation_criteria": "「④授業のテーマ及び到達目標」に掲げた到達目標への習熟度を、試験60％、レポート40％の割合で評価する。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "予習・次回実施内容を確認の上、教科書の該当箇所を通読しておく。\n復習・実施内容について、今一度、自分の頭の中で整理しておく。\n※予習・復習合わせて30分程度を行うこと。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "「情報と職業」とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "そもそも働くとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "さまざまな仕事",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "情報を扱う職種",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "資格と適性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "情報にまつまる法制度と情報倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "情報化社会の発展と法制度の整備",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "知的財産権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "情報化とプライバシー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "情報リスクマネジメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "キャリアデザイン",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "キャリア支援",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "情報技術とビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "競争力を高めるためのIT",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "AI（人工知能）の経営への活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷川　賀秀"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "タウン誌編集を経て、地元経済誌の記者を15年、その後、日刊有料メールマガジンというビジネスモデルで起業し20年。近畿大学工学部、広島経済大学メディアビジネス学部でも同様の科目を15年従事し、情報と社会を取り巻く環境を現場と学術の両分野で関わってきたことで、情報を職業選択などで活かす手法などを共に学んでいきたい。"
+}

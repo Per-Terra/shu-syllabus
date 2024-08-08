@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2024-08-08T01:22:44Z",
+    "name_ja": "日本経済史",
+    "name_en": "Japanese Economic History",
+    "syllabus_number": "2044600A",
+    "course_number": "01EH201",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "小林　啓祐",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本講義は16世紀から21世紀後半までのおよそ500年間の日本経済の歩みを学ぶものである。1600年代には、江戸幕府により「天下一統」がなされ、幕藩体制が確立されるなど、社会・経済においても大きな変革がもたらされた。そして1800年代には開国、明治維新など近代日本に向けてさらなる変革が日本に起こった。1900年代に入ると、激動の戦争の時代、高度経済成長、バブル景気と目まぐるしく日本経済は変動してきた。講義では、当時の時代がいかなる経済のもとに成り立っていたのかを学び、それにより時代を見る目、ひいては現代経済を理解する目を養ってもらいたい。\n\n【到達目標】\n１、歴史的な視点を持って現在の日本経済を説明することができる\n２，日本経済の歴史を客観的に説明することができる",
+    "overview": "基本的に教科書とワークシートを中心に進めていくが、適宜学生と対話しながら進めていく。毎回課題（講義内課題、講義時間外課題）が出るので、必ず出すこと。5回に1回の頻度で1000字以上の記述を必要とする課題を出すので、全部出す覚悟を持って受けること。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [
+        {
+            "title": "日本経済史1600-2015:歴史に読む現代 　増補改訂版",
+            "year": 2017,
+            "author": "浜野潔　他著",
+            "publisher": "慶応義塾大学出版会",
+            "price": 3080,
+            "isbn": "978-4766423358",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "日本史Ⅰ",
+            "日本史Ⅱ"
+        ],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "講義内課題（小テスト）、講義時間外レポート（レポート）で評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 70,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "基本的に教科書に準じて講義していきますが、教科書すべての内容を網羅できるわけではありません。講義の理解には予復習は欠かせないです。とくに課題については復習も兼ねていますので、しっかり取り組むようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンスと今後の進め方について説明",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "古代～中世期の日本",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "大開墾の時代",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "幕藩体制の成立と日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "江戸時代の改革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "開国と明治維新",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "明治政府と日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "松方財政による影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "産業革命と日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "第一次世界大戦の勃発と日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "アジア・太平洋戦争と日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "復興期の日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "高度経済成長期の日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "安定成長期からバブル経済へ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "失われた日本経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　啓祐"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

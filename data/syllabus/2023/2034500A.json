@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-08T01:20:20Z",
+    "name_ja": "運動生理学",
+    "name_en": "Exercise Physiology",
+    "syllabus_number": "2034500A",
+    "course_number": "04BM201、05LS213",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "運動生理学Ⅰ（生理学）の知識をさらに進化させ、高度専門職業人としての教養を身につけることを目標にとして授業を行う。具体的には、ヒトの体をシステムとして考え、各器官がどのように連携し運動に適した状態を保つのかという視点に立って説明する。\n\n【到達目標】\n①身体の構造と機能に関わる用語を正しく理解出来る。\n②運動に伴う身体の機能的変化の特性を理解する。\n③実際の活動（運動やトレーニング）において、生理学的な機能や効果さらには意義を理解して取り組むことが出来るようになる。",
+    "overview": "「運動生理学」は、読替：「運動生理学Ⅱ」となります。\n授業は、板書を中心とし、パワーポイントやDVDなどの視覚教材、配布資料等を使いながら進めます。また、肺活量計、呼気ガス分析器、血圧計、筋電計、超音波測定装置などの測定機器を使用しての測定実習も行う。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "筆記試験50％、レポート50％をもとに総合的に評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "運動生理学（運動生理学Ⅱ）では、より専門的内容を学習します。運動生理学の知見が深まるほど、身体への働きかけの重要性が理解出来ます。毎回、授業内容の理解確認のため小テストを行います。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "健康日本２１（第二次）における社会環境の整備",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "呼吸器と運動（肺の構造・呼吸発生メカニズムと肺機能）、肺活量の測定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "呼吸調節と運動（運動時の呼吸調節機能）、呼気ガス分析器による代謝測定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "循環器と運動（中心循環）、超音波法による心臓の観察",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "循環器と運動（末梢循環）、血圧の測定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "神経系と運動（中枢神経）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "神経系と運動（末梢神経）、表面筋電図の測定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "骨格筋と運動（筋収縮の詳細メカニズム）、超音波による筋収縮の観察",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "骨格筋と運動（疲労）、乳酸の測定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "運動中のエネルギー代謝（糖代謝と脂質代謝メカニズム）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "内分泌と運動",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "運動と免疫能",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "水中環境と運動",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "介護予防と運動",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "高齢者における運動指導の実際",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

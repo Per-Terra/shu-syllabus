@@ -1,0 +1,92 @@
+{
+    "_fetched_at": "2024-08-07T16:12:19Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600IK",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙藤　大介",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼卒業研究の遂行に必要な知識を習得できる。",
+    "overview": "各学生に担当する教科書のページを割り当てますので、学生は割り当てられたページを勉強して、学習内容を発表してもらいます。また、理解度を確認するためにプログラム作成などの演習をやってもらいます。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本",
+            "year": 2021,
+            "author": "米田 優峻",
+            "publisher": "技術評論社",
+            "price": 2948,
+            "isbn": "978-4-297-12521-9",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "ノートパソコン、筆記用具、ノート",
+        "other": ""
+    },
+    "evaluation_criteria": "発表内容やその理解度に応じて評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "原則すべての授業に出席すること。\n教科書をしっかり理解し、学習内容を理解してもらうためのわかりやすいスライドを作成するよう努力すること。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、アルゴリズムのイントロダクション、アルゴリズムとプログラミング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "2-30",
+            "content": "学習内容の発表、プログラム作成などの演習",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

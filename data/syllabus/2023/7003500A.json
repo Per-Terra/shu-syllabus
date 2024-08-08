@@ -1,0 +1,219 @@
+{
+    "_fetched_at": "2024-08-08T01:24:29Z",
+    "name_ja": "職業指導Ⅱ",
+    "name_en": "Guidance for Profession II",
+    "syllabus_number": "7003500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "坂本　勲",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本学の教育目標である「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」ための授業科目です。また経済学部のディプロマ・ポリシーである「社会人として必要となる基礎知識や、専門分野での学習に必要となる基礎知識と技法を身につけること」、「情報の収集や活用に必要となる十分な情報処理能力を持つこと」を達成するための授業科目です。\n到達目標は、以下の通りです。\n(i) 広範囲な業界・職種についての知識がある。\n(ii) 職業選択のための企業分析の方法を習得している。\n(iii) ビジネス文書、マナー、試験対策について指導ができる。",
+    "overview": "進路指導を行うための実践的な知識と方法を学ぶことが授業の狙いです。授業で学ぶ項目は、①職業選択を行うための業界・職種・企業の研究及び研究発表。②職業活動を行う学生を指導するためのビジネス文書、マナー、面接指導。③キャリア・カウンセリング演習等です。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "職業指導Ⅰ"
+        ],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "・広範囲な業界・職種についての知識の習得、職業選択のための企業分析の方法の習得、ビジネス文書、マナー、試験対策について指導力の習得です。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "教員として進路指導を行うためには業界や職種の広範囲な知識や就活で必要なビジネス・マナー、筆記試験、面接試験等に対する知識が必要です。この授業を通して進路指導を行うための広い知識と実践力を身につけてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、進路指導のポイントと流れ、高校生の就職指導",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "高校生の進学指導\n自己分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "課題発表\n業界研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "業界研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "職種研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "企業研究",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "企業分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ビジネス・マナー\nES、履歴書",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ビジネス・マナー\n挨拶、身だしなみ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "業界・企業研究発表",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "業界・企業研究発表",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "グループディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "グループディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "筆記試験について\n面接試験対策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "面接試験対策\n総まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
+}

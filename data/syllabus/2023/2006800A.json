@@ -1,0 +1,239 @@
+{
+    "_fetched_at": "2024-08-08T01:02:30Z",
+    "name_ja": "税務会計論",
+    "name_en": "Tax Accounting",
+    "syllabus_number": "2006800A",
+    "course_number": "02AC301",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "林　德順",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "テーマ：経営管理者の意思決定と業績管理に必要な会計知識を学ぶ\n【到達目標】\n(i) 課税所得の計算構造について体系的に理解できる。\n(ii) 税務会計に係るニュースの本質について理解できる。\n(iii) 法人税申告書の別表四「所得の金額の計算に関する明細書」を作成できる。",
+    "overview": "この授業は、企業の課税所得計算に関する理論構造を理解し、その応用として法人税申告書別表四を作成できることである。具体的には、企業利益と課税所得の相違点を理解し、その本質と歴史的な背景が理解でき、申告書を利用しながら各自で中小企業の課税所得が計算できる。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "要点解説税務会計基礎講座[最新版]",
+            "year": 2018,
+            "author": "平野嘉秋",
+            "publisher": "大蔵財務協会",
+            "price": 2954,
+            "isbn": "4754725646",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "簿記初級"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "この授業は、下記の到達目標を意識しながら期末テストと授業中小テストを実施して評価する。\n(i) 課税所得の計算構造について体系的に理解できる。\n(ii) 税務会計に係るニュースの本質について理解できる。\n(iii) 法人税申告書の別表四「所得の金額の計算に関する明細書」を作成できる。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "課税所得計算に関する理論的基礎が学べ、税務会計の本質が理解できる授業です。約120分の利用し、各回の授業内容に係る専門用語を事前に予習し、配布資料を基に復習することが必要である。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "税務会計総論\n～税務会計の意義・企業会計と税務会計の関係等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "課税所得計算の基本構造（１）\n～確定決算主義・公正処理基準・税務調整等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "課税所得計算の基本構造（２）\n～企業利益と課税所得の関係・納税義務者等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "課税所得計算の基本構造（３）\n～租税法律主義と実質課税の原則等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "益金の額（１）\n～収益の計上時期～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "益金の額（２）\n～棚卸資産の販売に係る収益等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "益金の額（３）\n～特殊販売に係る収益等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "益金の額（４）\n～固定資産の譲渡収益等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "損金の額（１）\n～原価・費用及び損失の計上時期等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "損金の額（２）\n～棚卸資産の範囲と売上原価等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "損金の額（３）\n～減価償却資産の範囲・方法等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "損金の額（４）\n～引当金・準備金制度等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "法人税申告書別表四の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "その他の損益等\n～同族会社に対する特別措置等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "国際課税\n～移転価格税制・過小資本税制等～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "林　徳順"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

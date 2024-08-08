@@ -1,0 +1,210 @@
+{
+    "_fetched_at": "2024-08-07T15:30:37Z",
+    "name_ja": "日本語表現法Ⅰ",
+    "name_en": "Japanese I",
+    "syllabus_number": "1000810A",
+    "course_number": "１",
+    "target_departments_and_courses": [
+        "経済経営学部 経済経営学科"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "山本　晋也",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本講義では、留学生活を送る上で重要となる日本語コミュニケーションのうち、主に文章作成に関する基礎知識の習得とその応用をめざす。具体的な到達目標は、以下の3点である。\n\n1）文章作成の基礎について理解する\n2）習得した知識を踏まえて400字程度の論理的な文章作成ができるようになる。\n3）読者のコメントを受け、文章の修正ができる",
+    "overview": "本講義では、様々な形式の文章表現に関する問題演習を行うほか、トピックに対する自らの意見・思考を口頭で表現し、文書でまとめる活動を行う。なお、授業ではPCによる文章作成を想定している。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
+    },
+    "evaluation_criteria": "本講義における成績評価は、①期末レポート、②小課題、③ポートフォリオの3点で行う。①は、学期中に仮原稿の提出・推敲を行い、完成したものを最終版として提出する。②は、講義内で実施する小レポートや練習問題などである。③は、講義内で指示した提出物である。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 20,
+        "その他": 0
+    },
+    "message_from_teachers": "本講義は、日本での大学生活を送る上で重要な土台となる文章作成について学びます。\n講義で指示された課題をしっかりと行い、提出を忘れないようにしてください。また、講義内容の理解や課題作成に関して、毎回60分程度の予習・復習を実施してください。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "授業ガイダンス・オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "書くことと話すこととは？\n日本語表現の基礎(原稿用紙の使い方・句読点)\n日本語表現の基礎①(句読点・段落)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "日本語表現の基礎②(表現形式)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "日本語表現の基礎③(意見文)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "異文化理解とは何か①(社会)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "異文化理解とは何か②(生活)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "異文化理解とは何か③(環境)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "日本語表現のフォーマット①(手紙・文書)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "日本語表現のフォーマット②(履歴書)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "日本語表現のフォーマット③(メール)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "レポート作成に向けて①(調査)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "レポート作成に向けて②(文章構成)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "レポート作成に向けて③(引用)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "最終レポートの修正・検討",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "最終レポート評価会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,72 @@
+{
+    "_fetched_at": "2024-08-07T16:14:09Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700FA",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "卒業論文を書き上げる",
+    "overview": "卒業論文執筆に向けた指導を行います",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "卒業論文執筆に向けて、学生個々人が選択したテーマに沿った文献を紹介し、精読します。"
+    },
+    "evaluation_criteria": "卒業論文執筆に向けて、各自が担当する箇所に十分な責任を負っているかどうかで評価する",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 20,
+        "ポートフォリオ": 80,
+        "その他": 0
+    },
+    "message_from_teachers": "学生によっては、二度と論文作成という大きな取りかかりはないかもしれません。是非、自分の思う論文を仕上げてほしいと思います。毎回、教員から伝えられた内容を文章に反映させる習慣を付けていってください。予習・復習については時間の制限はありませんが、およそ予習に120分、復習に120分が必要です。",
+    "schedule": [
+        {
+            "session": "1-60",
+            "content": "卒業論文制作指導",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

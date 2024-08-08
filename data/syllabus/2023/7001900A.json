@@ -1,0 +1,201 @@
+{
+    "_fetched_at": "2024-08-08T01:23:46Z",
+    "name_ja": "福祉科教育法Ⅱ",
+    "name_en": "Educational Method for Welfare II",
+    "syllabus_number": "7001900A",
+    "course_number": "41",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "福祉情報学部",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "藤田　久美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(i) 学習指導案を作成することができる。\n\n(ii) 教材研究や授業作りの方法を体験的に理解する。\n\n(iii) 模擬授業を実施・評価し、教育実習に向けての課題を明確にすることができる。",
+    "overview": "福祉科教育法Ⅰで学んだことを基礎として、福祉科の教材研究や授業作りについて理解を深め、学習指導案を作成し、模擬授業を行う。また、模擬授業の振り返りを実施し、よりよい授業のあり方を考察する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "高校福祉科の教育実習で「福祉」の授業を行うことができるスキルを育成するために、学習指導案作成、教材研究、模擬授業の実施・評価を通して体験的に学びます。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 80,
+        "ポートフォリオ": 10,
+        "その他": 10
+    },
+    "message_from_teachers": "「教壇に立つ」という経験を通して、人間的にも成長してほしいと思っています。また、指導案作成の演習は、教育実習にも役立つので、授業時間を大切にして取り組んで下さい。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション：福祉科教育法Ⅱで何を学ぶか把握する。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "２",
+            "content": "授業の実際：学習指導案の例をもとに、授業作りのイメージをもつ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "３",
+            "content": "授業の実際：指導法や留意点の復習と教材研究の工夫。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "４",
+            "content": "指導案作成（演習）：実際に指導案を作成する。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "５",
+            "content": "指導案作成（演習）：実際に指導案を作成する。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "６",
+            "content": "指導案作成（演習）：各自、学習指導案を作成し、個別指導を受ける。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "７",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "８",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "９",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "模擬授業及び討論：授業実践を体験し、教師に求められる資質・能力を養う",
+            "methods": [],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "全体討論とまとめ：模擬授業の体験を振り返る。",
+            "methods": [],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "福祉科教諭に求められる資質・教育実習に向けて：各自の課題を明確にする。",
+            "methods": [],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

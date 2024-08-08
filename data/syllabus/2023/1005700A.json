@@ -1,0 +1,226 @@
+{
+    "_fetched_at": "2024-08-08T00:56:57Z",
+    "name_ja": "レクリエーション",
+    "name_en": "Recreation",
+    "syllabus_number": "1005700A",
+    "course_number": "04HP203、05LS216",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本授業のテーマは、レクリエーション支援者としての基礎的知識を習得し、楽しいを原動力としたレクリエーション事業について理解を深めとともに、レクリエーション活動が生きる喜びに繋がることを知ることである。\n到達目標は以下３つとする。\n（ⅰ）レクリエーション支援者としての基礎的知識の習得\n\n（ⅱ）レクリエーション事業について理解を深め生きる喜びにつながることを知る。\n\n（ⅲ）レクリエーション事業の企画・運営方法を理解する。",
+    "overview": "レクリエーションとは障害の有無に関わらず、誰もが自身の状態に合わせて行うことができ、心身の健康に繋がる活動として位置づけられている。本授業では、レクリエーション支援の基礎的な知識を身につけるだけでなく、企画や実践を通して体系的に学ぶことができる。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "レクリエーション支援の基礎－楽しさ・心地よさを活かす理論と技術",
+            "year": 2007,
+            "author": "編）日本レクリエーション協会",
+            "publisher": "",
+            "price": 2000,
+            "isbn": "978-4-931180-81-9",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "授業中の取り組みやレポートによる評価に加え、レクリエーションの基礎知識＋αを問うために定期試験を実施します。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 10,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "授業への参加はもちろんですが、授業の内容もしっかりと理解できるまで深く学習することを望みます。授業スライドの資料は配布しませんので、しっかりとノートに取るようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス\n\nレクリエーションの基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "レクリエーション支援論\n\n～ライフスタイルとレクリエーション～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "高齢化社会の課題とレクリエーション\n\n～アイスブレーキング～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "少子化の課題とレクリエーション\n\n～グループワーク～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "地域とレクリエーション\n\n～グループワーク～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "レクリエーション事業の考え方\n\n～レクリエーション事業の展開方法～",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "プログラムの組み立て方・演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "事業計画Ⅰ： 個々人のアセスメントに基づいたプログラム計画\n\n事業計画Ⅱ： 市民を対象とした事業のつくり方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "レクリエーション活動の安全管理\n\n～安全管理の考え方・危険回避～",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "軽スポーツとその指導及び評価基準\n\n～アダプテッドスポーツのあり方～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "アダプテッドスポーツⅠ\n\n～ボッチャ・ブラインドサッカー～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "アダプテッドスポーツⅡ\n\n～ソフトバレー・シッティングバレー～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "アダプテッドスポーツⅢ\n\n～障害に応じたスポーツの工夫と実施～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アダプテッドスポーツⅣ\n\n～障害者に応じた工夫と実施発表～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "全体の振り返りとまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,221 @@
+{
+    "_fetched_at": "2024-08-08T01:05:41Z",
+    "name_ja": "体育原理",
+    "name_en": "Principles of physical Education",
+    "syllabus_number": "2010200A",
+    "course_number": "04SP205",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "体育やスポーツの本質を考え、あるべき体育やスポーツの原理原則を明確にしていきます。\n体育やスポーツを哲学的・倫理学的な観点から考察します。\n\n【到達目標】\n（ⅰ）「体育はなぜ必要か」説明できる。\n（ⅱ）「体育とは何か」「スポーツとは何か」を理解し、それぞれの違いについて説明できる。\n（ⅲ）体育・スポーツに関する哲学的・倫理学的問題について自らの意見を記述することができる。",
+    "overview": "講義が中心となるが、ディスカッション等を実施し、各自が考えて発言する機会を提供します。アクティブ\nラーニングとして主体的な学習を行います。\n一人一人が当事者意識を持ち、講義に参加しましょう。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "教養としての体育原理 新版:現代の体育・スポーツを考えるために",
+            "year": 2016,
+            "author": "友添秀則 (編集), 岡出美則 (編集)",
+            "publisher": "大修館書店",
+            "price": 1980,
+            "isbn": "978-4469267976",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "ノート",
+        "other": ""
+    },
+    "evaluation_criteria": "（ⅰ）体育の理解、（ⅱ）スポーツの理解、（ⅲ）スポーツの倫理的問題 の三点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 50,
+        "レポート": 30,
+        "発表・実技": 20,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "履修者の状況を見て講義の内容は一部をする場合があります。\n\n【予習・復習について】\n各回で実施した内容について理解を深めるための方策を講じてください（各回60分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "体育とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "体育とスポーツ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "体育とスポーツの成立と展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "スポーツ倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "体育における人間形成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "スポーツマンシップ・フェアプレイ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "スポーツとルール",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "教師とコーチ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "運動部活動の意義と課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "スポーツのインテグリティ1",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "スポーツのインテグリティ2",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "スポーツとジェンダー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "スポーツとドーピング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "体育原理のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

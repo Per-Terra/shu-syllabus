@@ -1,0 +1,362 @@
+{
+    "_fetched_at": "2024-08-08T01:02:50Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600AD",
+    "course_number": "10SE301、05HS301",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．自分の考えを論理的に言語化、文章化し、他者に説明することできる。\n２．テーマに関する知識を必要に応じて習得することができる。\n３．課題に対し計画的に行動することができる。",
+    "overview": "4年次の卒業研究の準備としてゼミを進める。テーマは主としてこども家庭福祉に関するものであるが、話し合いで決定する。テーマに関する文献・資料の検索、レポート作成、発表等を通じて研究的思考を養う。また、テーマによっては地域に出向き、体験的な学習も行う。なお、卒業時までに求める成果物として、卒業論文の執筆・提出もしくは教材等の卒業制作物を必須とし、本学の卒論概要集の執筆・提出や研究活動報告会の実施は話し合いで決定する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "１．テーマに関する文献・資料の検索\n２．論理的な文章作成、言語化\n３．論文テーマに関する知識・技術の習得",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "この授業は卒業研究につながるテーマの選定と年間計画を立てることから始めます。\n自らの問題意識を持ち、取り組む課題に対し主体的に取り組んでください。\n予習・復習については、卒業研究に関連するテーマに基づき、随時課題を課すことにします。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "前期ガイダンス（前期ゼミの説明・進め方等)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "研究とは：研究における５つのコミュニケーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "研究のアウトライン",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "研究方法の選択",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "データ収集を始める前に留意すべき点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "データ収集のツール",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "データ分析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "研究論文のまとめ方",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "研究発表の方法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "テーマの選定・年間計画立案",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "テーマ・年間計画発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "修正後のテーマ・年間計画発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "年間計画に基づいた学習（テーマに関する文献・資料の検索、レポート作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "テーマに関するレポート発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "前期まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "後期ガイダンス（後期ゼミの説明・進め方等）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "進捗状況報告会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "個別指導①　Aグループ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "個別指導①　Bグループ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "テーマに関するレポート発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "年間計画に基づいた学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "テーマに関するレポート発表・討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "後期まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-07T17:06:51Z",
+    "name_ja": "社会保障論Ⅰ",
+    "name_en": "Social Security Theory Ⅰ",
+    "syllabus_number": "2045200A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "脇野　幸太郎",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①社会保障の総論部分について、社会保障を取り巻く状況、社会保障の歴史、社会保障の目的と機能などの観点から説明できる。\n②社会保障の法理論について、憲法および権利の観点から説明できる。\n③社会保障法の体系について説明できる。\n④社会保障の意義や必要性、持続可能性などについて説明できる。",
+    "overview": "本講義は、社会保障の総論部分について、法的な観点から理解・把握することを目的とする。それを通じて、私たちの「権利」としての社会保障の意義や必要性、持続可能性などについての理解を深めたい。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP4",
+        "知財開発コースDP1",
+        "知財開発コースDP2",
+        "知財開発コースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "社会保障法　第2版",
+            "year": 2018,
+            "author": "菊池　馨実",
+            "publisher": "有斐閣",
+            "price": 5280,
+            "isbn": "978-4-641-24304-0",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "筆記用具",
+        "other": "毎回レジュメを配布し、それに基づいて授業を進めます。"
+    },
+    "evaluation_criteria": "定期試験と、毎回の授業後課題により評価します。また、受講態度を重視します。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "・日ごろから、社会保障や社会福祉の問題について関心を持ち、新聞やニュースを見るよう心掛けてください。\n・毎回、授業後課題を提示しますので、期限までに提出してください（評価の一環となります）。\n\n新聞やニュース、レジュメの読み返しなどを含め、事前・事後学習として次回の講義までに4時間程度の時間を要する。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "講義ガイダンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "社会保障を取り巻く状況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "社会保障とは何か\n　社会保障のとらえ方\n　社会保障の目的と機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "社会保障の歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "社会保障の保障方法\n　社会保険と社会扶助\n　社会保険と民間保険",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "社会保障の保障水準と費用負担",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "社会保障の国際化―グローバル化と社会保障",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "社会保障「法」の理論①\n　社会保障の権利\n　憲法と社会保障",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "社会保障「法」の理論②\n　社会保障受給権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "社会保障「法」の理論③\n　社会保障と訴訟",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "社会保障「法」の理論④\n　社会保障における手続的保障",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "社会保障「法」の理論⑤\n　社会保障法の意義と体系",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "社会保障「法」の理論⑥\n　社会保障の法主体\n　社会保障の法理念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会保障と社会保障法の展望",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "ふり返りとまとめ\n　「各論」へのアプローチ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

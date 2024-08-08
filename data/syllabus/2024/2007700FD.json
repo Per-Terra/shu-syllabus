@@ -1,0 +1,374 @@
+{
+    "_fetched_at": "2024-08-07T16:14:18Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700FD",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "専門研究Ⅰで作成した研究計画に基づき、研究成果物の完成を目指すことを目標とする。\n卒業研究への取り組みを通して情報収集力や論理的思考力、課題解決能力、プレゼンテーション能力を養う。加えて、福祉課題の解決に寄与しようとする意識を醸成する。",
+    "overview": "本科目は、福祉課題に関するテーマを取り上げ、自らが立てた研究構想・研究計画に基づき卒業研究の成果物の完成を目指す授業である。\n授業では、卒業研究Ⅰで作成した研究計画書にもとづいて研究活動に取り組み、研究指導を繰り返しながら、成果物の完成を目指す。研究成果は発表会を通じ発信することとする。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "教育と福祉の展望",
+            "year": 2024,
+            "author": "伊藤良高監修　森本誠司ほか",
+            "publisher": "晃洋書房",
+            "price": 0,
+            "isbn": "教科書は、2024年4月に発刊予定であるため、詳細については授業内で適宜案内を行う。",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "卒業研究成果物（70％）卒業研究の成果発表（30％）",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 70
+    },
+    "message_from_teachers": "専門ゼミⅠで作成した研究計画に取り組み、卒業研究の成果物としてまとめる。\n卒業成果については発表会の開催を通じ発信する。\n予習は教科書（指定箇所）の通読と教員が指示する課題に取組むこと(予習・2時間)。\n復習は、授業で説明した資料等を再度確認し、重要語句や要点について整理しておくこと（復習2時間）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "卒業研究の進め方と執筆スケジュール",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究構想と研究計画の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "研究の実施（調査の準備）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究の実施（文献・資料整理と収集①）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究の実施（文献・資料整理と収集②）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "研究活動①（問題の所在部分の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "卒業研究（中間発表）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "研究指導と研究活動（論文の執筆）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "卒業研究ラフ原稿のチェックと提出",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "本論文提出にむけた修正作業①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "本論文提出にむけた修正作業②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "本論文提出にむけた修正作業③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "卒業研究概要版の作成①（発表要旨の作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "卒業研究概要版の作成②（発表要旨の作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "成果発表に向けた準備①（スライド資料作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "成果発表に向けた準備②（スライド資料作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業研究（研究成果の発表会）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "振り返りとまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

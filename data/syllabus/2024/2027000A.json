@@ -1,0 +1,260 @@
+{
+    "_fetched_at": "2024-08-07T16:45:11Z",
+    "name_ja": "社会福祉の原理と政策Ⅱ",
+    "name_en": "Theory and Policy of Social Welfare",
+    "syllabus_number": "2027000A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 福祉学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "main": false
+        },
+        {
+            "name": "守本　友美",
+            "main": false
+        },
+        {
+            "name": "難波　利光",
+            "main": false
+        },
+        {
+            "name": "輪倉　一広",
+            "main": true
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①福祉政策を捉える視点として、概念や理念を説明することができる。\n②福祉政策の動向と課題を踏まえた上で、関連施策や包括的支援について説明することができる。\n③福祉サービスの供給と利用の過程について説明することができる。\n④福祉政策の国際比較の視点から、日本の福祉政策の特性について理解する。",
+    "overview": "この授業では福祉サービスを支える理論を学ぶことを目的としている。まず、福祉政策を支える視点としてその概念や理念を理解し、人々が生活していく上でのニーズと福祉政策の過程を結びつける。また、福祉政策の動向と課題を理解し、社会福祉関連施策や包括的支援について述べる。次に、福祉サービスがどのように供給されているのか、その利用の過程ついて学ぶ。最後に、福祉施策を国際比較し、日本の特性について学んでいく。\n具体的には、次の項目で学習を進める。\n①社会問題と社会構造、②福祉政策の基本的な視点、③福祉政策におけるニーズと資源、④福祉政策の構成要素と過程、⑤福祉政策の動向と課題、⑥福祉政策と関連施策、⑦福祉サ－ビスの供給と利用過程、⑧福祉政策の国際比較。\nこの授業を通して、学生は現代社会の特質と福祉政策の動向を結び付けて考える能力が身に付くとともに、現状に対する批判的視点を養うこともできる。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP2",
+        "福祉学科DP3",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "『社会福祉の原理と政策』",
+            "year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟編",
+            "publisher": "中央法規出版",
+            "price": 3190,
+            "isbn": "978-4-8058-8234-4",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "『政策科学入門』",
+            "year": 2002,
+            "author": "宮川公男",
+            "publisher": "東洋経済新報社",
+            "price": 3080,
+            "isbn": "9784492250082",
+            "available_on_campus": true
+        },
+        {
+            "title": "『地方都市の持続可能性ー「東京ひとり勝ち」を超えて』",
+            "year": 2018,
+            "author": "田村秀",
+            "publisher": "筑摩書房",
+            "price": 946,
+            "isbn": "978-4-480-07175-0",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "教科書",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "①福祉政策の概念や理念、②福祉政策の動向、③福祉サービスの供給と利用、④福祉政策の特性\n上記①～④に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 80%、課題レポート 20％",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "「福祉政策の方向性」を理解し、問題意識をもって学んでほしいと思います。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、専門用語の整理をしておくこと（復習 2 時間程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：授業の進め方 福祉問題と社会構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下",
+                "徹"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "福祉政策の基本的な視点 社会政策における重要な概念・理念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下",
+                "徹"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "福祉政策におけるニーズ：ニーズとデマンド",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "福祉政策におけるニーズ：ニーズの種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "福祉政策におけるリソース",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "福祉政策の構成要素",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "福祉政策の過程と評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "福祉政策と包括的支援の現状",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "福祉政策と包括的支援の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "福祉政策と関連施策：保健医療政策、教育政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "福祉政策と関連施策：住宅政策、労働政策、災害政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "福祉供給部門と供給過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本友美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "福祉利用過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本友美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "福祉政策の動向：欧米",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本友美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "福祉政策の動向：東アジア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本友美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

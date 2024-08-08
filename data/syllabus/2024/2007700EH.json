@@ -1,0 +1,369 @@
+{
+    "_fetched_at": "2024-08-07T16:14:04Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700EH",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "【到達目標】\n①コーポレートファイナンスに関する基本的な考え方について理解できる。\n②基礎的な統計解析をできるようにする。",
+    "overview": "本ゼミでは、専門ゼミⅠにおいて習得したコーポレートファイナンスの知識を踏まえ、さらなるファイナンス領域の知識を充足することを目的とする。また、専門ゼミⅠにおいて自ら設定した課題に即し、分析を行うほか、その分析結果に基づき論文を作成する。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [
+            "マクロ経済学Ⅰ",
+            "マクロ経済学Ⅱ",
+            "金融論",
+            "ファイナンス論",
+            "ミクロ経済学Ⅰ",
+            "ミクロ経済学Ⅱ"
+        ],
+        "brings": "電卓、パソコン,筆記具",
+        "other": "授業中に資料を配するするので、それに沿って授業を進めていく。"
+    },
+    "evaluation_criteria": "研究論文の作成・発表：100％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "コーポレートファイナンスの知識の習得は、金融機関や一般企業の財務部などの就職を希望する学生諸君にとって、就職活動中および就職後において極めて有益であり、論文を策定する過程において、より深くコーポレートファイナンスの知識を獲得できる。指定した文献を授業の前後で熟読すること（1～2時間程度）。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション\n　（本授業の進め方について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "ファイナンスデータの分析①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "ファイナンスデータの分析②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "ファイナンスデータの分析③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "ファイナンスデータの分析④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "ファイナンスデータの分析⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "ファイナンスデータの分析⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "ファイナンスデータの分析⑦",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "ファイナンスデータの分析⑧",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ファイナンスデータの分析⑨",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ファイナンスデータの分析結果の検証①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ファイナンスデータの分析結果の検証②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "ファイナンスデータの分析結果の検証③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "ファイナンスデータの分析結果の検証④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "ファイナンスデータの分析結果の検証⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "論文作成①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "論文作成②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "論文作成③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "論文作成④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "論文作成⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "論文作成⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "論文作成⑦",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "論文作成⑧",
+            "methods": [],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "論文作成⑨",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "論文作成⑩",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "論文ドラフト発表の準備①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "論文ドラフト発表の準備②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "論文ドラフト発表の準備③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "論文発表①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "論文発表②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。\n・授業は、実務経験を踏まえ行う。"
+}

@@ -1,0 +1,220 @@
+{
+    "_fetched_at": "2024-08-07T16:32:53Z",
+    "name_ja": "コンピュータ概論",
+    "name_en": "Introduction to Computer Science",
+    "syllabus_number": "2021700A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "橋本　喜代太",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①コンピュータに関する基本的な知識（誕生背景、動作原理）を習得すること。\n②現代の私たちの社会や生活の中でどのような存在であるか長所・短所を含めて理解すること。\n③うまく活用していくためのリテラシーの基礎を身に付けること。",
+    "overview": "本講義では、コンピュータの歴史、基本的な仕組み、どのように進化してきたかを学ぶ。超スマート社会(Society5.0)を迎える現代社会において、コンピュータ、ネットワーク(通信)、AIをはじめとするコンピュータシステムと私たちの社会や生活は密接な関係がある。それらを上手に活用するために、本講義を通じてコンピュータの基本的な知識を得ると同時に、その問題点や危険性も理解し、適切な関わり方を考えていく。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "コンピュータ概論‐情報システム入門 第8版",
+            "year": 2020,
+            "author": "魚田勝臣",
+            "publisher": "共立出版",
+            "price": 2960,
+            "isbn": "ISBN-10 ? : ? 4320124537",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "PC、教科書、ノート、筆記具",
+        "other": ""
+    },
+    "evaluation_criteria": "講義内容を振り返り理解を深めるために3回ほどの小レポート（又は小テスト）(担当教員ごと)を課します。\nまた、全体講義終了後に全体の理解度を確認するための試験(60分)を行います。\n成績評価の割合：小レポート(又は小テスト)60％、試験40%",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 60,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "今後、情報科学部で様々なカリキュラムを学んでいく上で基本となる知識となります。本講義でコンピュータシステムの全体像を理解し、以降のカリキュラムの理解がスムーズに進むように努めてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス：コンピュータシステムとの関わり",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "コンピュータとその利用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ビジネスとコンピュータシステム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "コンピュータシステムの歴史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "情報の表現：デジタルとアナログ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "コンピュータと科学：AIとロボットの時代",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ハードウェアの仕組み１：コンピュータアーキテクチャ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤　大介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ハードウェアの仕組み２：計算や記憶をできる仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤　大介"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ソフトウェアの仕組み１：OS、プログラミング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤　大介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ソフトウェアの仕組み２：データ、データベース",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤　大介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ネットワーク（LAN、WAN、無線通信、光通信）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "情報倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "情報セキュリティ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "クラウドの仕組みとデータセンター",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "全体のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "野村　典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
+}

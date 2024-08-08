@@ -1,0 +1,385 @@
+{
+    "_fetched_at": "2024-08-07T16:13:22Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600SH",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(i)文献を精読し、その内容を要約し報告できた。\n(ii)科学的方法、特に社会学的方法を理解し、実践できた。\n(iii)論文作成の基礎を理解し、先行研究をもとに卒業論文のテーマを決定した。",
+    "overview": "社会学的方法を活用しながら、スポーツを中心とする社会・文化現象に関連する課題研究を進めることによって、社会・文化現象を把握し吟味するための方法や思考様式を修得する。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "④に記載の到達目標に対して、以下の観点から総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 50,
+        "ポートフォリオ": 20,
+        "その他": 0
+    },
+    "message_from_teachers": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション／レジュメの書き方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "批判的討議の方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第一章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ディスカッションと論述\n（配布資料）第一章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第二章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ディスカッションと論述\n（配布資料）第二章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第三章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ディスカッションと論述\n（配布資料）第三章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第四章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ディスカッションと論述\n（配布資料）第四章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第五章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ディスカッションと論述\n（配布資料）第五章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "テキストの読解・ディスカッション\n（配布資料）第六章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "ディスカッションと論述\n（配布資料）第六章について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "後期オリエンテーション／社会学の研究法1（総論）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "社会学の研究法2（意味解釈）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "社会学の研究法3（統計帰納）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "社会学の研究法4（数理演繹）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "研究手法の実際（モノグラフ）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "研究手法の実践（モノグラフ）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "研究手法の実際（言説分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "研究手法の実践（言説分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "研究手法の実際（会話分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "研究手法の実践（会話分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究手法の実際（計量分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究手法の実践（計量分析）とディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "社会学的方法のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "社会学的方法のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業論文での研究テーマの設定",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

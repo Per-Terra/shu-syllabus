@@ -1,0 +1,362 @@
+{
+    "_fetched_at": "2024-08-08T01:03:51Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600Y",
+    "course_number": "10SE301、05HS301",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "教育目標のうち、とりわけ[1]「主体性を持った意欲ある人材」、並びに[3]「現実的な知識と手法を備え、問題解決能力を持った人材」を育成する授業科目です。",
+    "overview": "この授業では、大学での学びに必要な基本的な技術・作法（アカデミックスキル）の修得・向上を目指します。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "(ⅰ)大学生として必要な生活習慣や学習習慣を身につけることができた。\n\n(ⅱ)大学で求められる学習のあり方を学び，大学生として必要なスキルを習得・活用することができた。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "前半イントロダクション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "日本の社会構造",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "世界の社会構造",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "社会課題の抽出",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "社会課題の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "社会課題の分析方法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "社会課題の分析方法（統計処理）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "社会保障の課題発見",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "社会保障の課題の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "社会保障の課題の分析方法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "社会保障の課題（年金）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "社会保障の課題（医療）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "社会保障の課題（介護）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会保障の課題（労働）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "前半総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "後半イントロダクション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "まちづくりの現状",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "まちづくりの経済的視点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "まちづくりの社会福祉的視点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "健康まちづくりの実態",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "健康まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "健康まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "健康まちづくりのパースペクティブ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "観光まちづくりの実態",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "観光まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "観光まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "観光まちづくりのパースペクティブ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

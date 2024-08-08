@@ -1,0 +1,89 @@
+{
+    "_fetched_at": "2024-08-08T00:58:28Z",
+    "name_ja": "地域ゼミⅠ",
+    "name_en": "",
+    "syllabus_number": "1011700D",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙藤　大介",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．地域社会の一員であることを意識し、社会貢献の意義を理解できる。\n２．問題解決能力を身に付けることができる。",
+    "overview": "高齢者向けのボランティア活動を行います。具体的には、タブレット・スマートフォンについて、使用方法を教えたり、困っていることの解決を手伝ってもらいます。ただし、地域の要望により他の活動を行うこともあります。活動前には情報収集や資料作成、活動後には反省と改良を行うことで、問題解決の手順を学習し、問題解決能力を身に付けます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "筆記用具、ノート、ノートパソコン",
+        "other": "ボランティア活動で使用するタブレットやスマートフォンは大学側で準備します。ノートパソコンは情報収集や資料作成などで使用します。"
+    },
+    "evaluation_criteria": "ボランティア活動を通した問題解決能力を以下の「学生に対する評価」に従い評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 80,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "ボランティア活動前準備や活動中など、常に相手を思いやる気持ちをもって、かつ積極的に行動してください。\nまた、無断での欠席、無断での遅刻、無断での早退は禁止です。最低限のマナーを守ってください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "活動内容の説明",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤大介"
+            ]
+        },
+        {
+            "session": "2-12",
+            "content": "日程を調整しながら、以下の活動を繰り返す：\n(1) 活動内容の確認、情報収集などの準備、(2) ボランティア活動、(3) 活動内容の反省と改善点などのまとめ",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙藤大介"
+            ]
+        },
+        {
+            "session": "13-15",
+            "content": "活動内容のまとめ、報告資料の作成",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙藤大介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

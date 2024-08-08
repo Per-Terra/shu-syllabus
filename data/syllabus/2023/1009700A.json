@@ -1,0 +1,235 @@
+{
+    "_fetched_at": "2024-08-08T00:57:48Z",
+    "name_ja": "生活と経済",
+    "name_en": "Economy for Living",
+    "syllabus_number": "1009700A",
+    "course_number": "00SS101",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "小林　啓祐",
+            "main": true
+        },
+        {
+            "name": "坂本　勲",
+            "main": false
+        },
+        {
+            "name": "田尾　真一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "現代経済は、皆さんの生活に大きな影響を与えています。何気なく読んでいるニュースも、経済の知識を\nもって読むことで、今までとは違った見方ができることでしょう。また、経済を理解することは現代社会を理\n解することにもつながるだけでなく、自身のライフプランニングにもポジティブな影響を与えます。本講義で\nは、経済を専門的に学んでいない学生でもわかりやすく、経済学の知見について説明していきます。また日本\nの財政の状況や問題点、個人としてのお金の管理や資産運用についても学びます。\n\n【到達目標】\n１，基本的な経済学の概念が理解できる\n２，日本経済の歴史について基本的な概要が説明できる\n３，個人のライフイベントや生活で必要な「お金」の管理や資産運用の基礎について理解している。",
+    "overview": "基本的には講義形式だが、3人の教員がリレー式で講義を担当する。1回から5回までを小林、5回から10回まで\nを田尾、11回から15回までを坂本が担当する。指示はTEAMSで行うので、送られてくる連絡に注意すること。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "ビジュアル　日本経済の基本",
+            "year": 2018,
+            "author": "小峰隆夫",
+            "publisher": "日経文庫",
+            "price": 1100,
+            "isbn": "9784532119379",
+            "available_on_campus": false
+        },
+        {
+            "title": "財政のしくみがわかる本",
+            "year": 2007,
+            "author": "神野直彦",
+            "publisher": "岩波ジュニア新書",
+            "price": 902,
+            "isbn": "9784005005666",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "担当教員3人が課題をそれぞれ提出します。毎回課題が出ますので、必ず提出するようにしてください。評価は出された課題を3人がそれぞれ採点して評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "課題は担当する3教員がそれぞれ提出しますので、必ず出すようにしてください。課題に関しては予復習が重要になってきますので、それぞれ1時間程度取り組むようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーションと基本的な経済学の考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林啓祐"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "高度経済成長期の日本",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林啓祐"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "平成・令和の日本",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林啓祐"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "企業と日本経済：自動車製造業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林啓祐"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "企業と日本経済：家電製造業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林啓祐"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "社会インフラの整備について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾真一"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "税について考える",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾真一"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "日本財政の現状",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾真一"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "社会保障制度について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾真一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "環境と経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾真一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "パーソナルファイナンスとは何か。人生設計とお金について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本勲"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ライフイベントと資金繰り　生涯キャッシュフロー表の作成演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本勲"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "資産運用についての考え方　生涯キャッシュフロー表の作成演習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本勲"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "資産運用の方法　不動産投資",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本勲"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "資産運用の方法　金融商品（株式、債券、外貨運用）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本勲"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

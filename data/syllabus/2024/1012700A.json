@@ -1,0 +1,172 @@
+{
+    "_fetched_at": "2024-08-07T15:43:35Z",
+    "name_ja": "人の健康生活",
+    "name_en": "Human health",
+    "syllabus_number": "1012700A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "経済経営学部 経済経営学科",
+        "人間健康学部 看護学科",
+        "人間健康学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "大平　光子",
+            "main": true
+        },
+        {
+            "name": "岡田　純也",
+            "main": false
+        },
+        {
+            "name": "大達　亮",
+            "main": false
+        },
+        {
+            "name": "井上　みゆき",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．人及び人の健康の捉え方を知る。\n２．人の多様な健康生活を知る。\n３．人の健康に影響を及ぼす影響や要因を説明できる。\n４．人の健康に関する価値やその人らしい健康生活の考え方を説明できる。\n５．人の健康生活に関するトピックに関して参考文献等を用いて考察できる。",
+    "overview": "病気や障がいの有無にかかわらず、あらゆる健康状態にある人びとの健康を身体的、精神的、社会的側面から捉えることは、一人ひとりの人間の、その人らしくより豊かな生活健康を考える重要な視点である。本授業では人の健康生活について、人間を全人的に理解し、健康を身体的側面、精神的側面、社会的側面から理解することを通して、人の健康生活のための知識とスキルを理解する。本授業を通して、人の健康に影響を及ぼす環境や要因、人の健康に関する価値、その人らしいより豊かな健康生活に関する考え方の基礎的知識を身につける。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP4",
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "福祉学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "授業において適宜紹介、提示する。",
+            "year": 0,
+            "author": "",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "ノート PC 等デジタル教材使用に必要なデバイス",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "課題レポート100％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "授業を通して、様々な資料を活用して、健康や健康生活について考察します。授業を通して自分自身の健康にも関心をもってください。（事前学習 45 分、事後学習 45 分）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、全人的な人の捉え方と人の健康生活",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "セクシュアルリプロダクティブヘルス/ライツ（SRHR）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "疾病や障がいの有無に関わらず子どもが健康に暮らす①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上みゆき"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "疾病や障がいの有無に関わらず子どもが健康に暮らす②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上みゆき"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "病気や障がいがある人の健康生活とソーシャルサポート",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田純也"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "人の生活におけるストレスとコーピング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "セルフケア、ヘルスプロモーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "総括",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平光子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "看護師医療従事者として人々の健康生活に関わってきた教員が担当している。"
+}

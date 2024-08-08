@@ -1,0 +1,233 @@
+{
+    "_fetched_at": "2024-08-07T17:08:27Z",
+    "name_ja": "栄養学",
+    "name_en": "Nutrition",
+    "syllabus_number": "2109500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 スポーツ健康科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "尾形　聡",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1.五大栄養素（糖質・脂質・たんぱく質 ・ミネラル ）の体内での代謝 および 対内動態が理解できる。\n2.食事・栄養療法を実践するために、スクリーニング ・アセスメント ・必要栄養素の計算ができる。\n3.栄養食事指導をするため の、さまざまなツールの特徴が理解できる。\n4.様々な機能を持つ食品が理解できる。\n5.各ライフステージに応じた栄養療法や各種疾患に対する食事・栄養療法が理解できる。",
+    "overview": "生体は摂取した食物（栄養素）を、生存のためのエネルギーへ変換し、その生体構成成分を合成する事によって、生命を維持している。本講義では、生命を保持し、あらゆる活動のために必要とされている栄養素が、 1．どのように摂取・消化・吸収・代謝され、どのように機能するか。 2．食事・栄養療法を実践するためにどういった手法を使うか。 3．各ライフステージや各種疾患でどのような食品を利用し、いかに食事を行うか。について学修する。おもに講義形式で授業を進めていくが、ICTを利用しリアルタイムに進達度を確かめながら教員と学生の考え方 を共有し相互理解を深めていく。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "すべての診療科で役立つ　栄養学と食事・栄養療法",
+            "year": 2019,
+            "author": "曽根博仁（編）",
+            "publisher": "羊土社",
+            "price": 4180,
+            "isbn": "9784758108980",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "栄養科学イラストレイテッド　基礎栄養学　第４版",
+            "year": 2020,
+            "author": "田地　陽一",
+            "publisher": "羊土社",
+            "price": 3080,
+            "isbn": "978-4-7581-1360-1",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "筆記試験（100％）",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "健康・スポーツ・生命科学の分野で栄養学は非常に大切な分野だと思います。将来この分野で活躍するときに役に立つような内容を心がけた授業をします。\n【事前学習・事後学習の時間】\nあわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "栄養 素の消化・吸収と代謝①\n炭水化物・たんぱく質・脂質",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "栄養素の消化・吸収と代謝②\nビタミン・ミネラル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "食事・栄養療法の実践①\n栄養スクリーニング・栄養アセスメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "食事・栄養療法の実践②\n必要栄養素量の計算・基本的な考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "栄養指導の実際①\n栄養食事指導と食習慣",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "栄養指導の実際②\n栄養指導に役立つツール",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "栄養指導の実際③\n運動と栄養",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "食事・栄養療法に役立つ食品学①\n食品の三次機能と機能性食品①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "食事・栄養療法に役立つ食品学②\n機能性食品②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ライフステージと栄養\n妊娠・授乳期、乳幼児期、成長期、高齢期、性差と栄養",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "各疾患の食事・栄養療法①\n肥満",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "各疾患の食事・栄養療法②\n高血圧、脂質異常症、高尿酸血症",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "各疾患の食事・栄養療法③\n糖尿病、腎臓病",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "各疾患の食事・栄養療法④\n摂食障害、貧血、骨粗しょう症、サルコペニア・フレイル、褥瘡",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "各疾患の食事・栄養療法⑤\n食物アレルギー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "日本スポーツ協会スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

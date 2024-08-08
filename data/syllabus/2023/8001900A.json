@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2024-08-08T01:40:57Z",
+    "name_ja": "ビジネス日本語Ⅱ",
+    "name_en": "Business Japanese II",
+    "syllabus_number": "8001900A",
+    "course_number": "00JP203",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "山本　晋也",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本講義では、「ビジネス日本語Ⅰ」での学習内容を踏まえ、日本社会での長期的なワークキャリア・ライフキャリア形成に必要な経験について考える。具体的な到達目標は、以下3点である。\n1）卒業後のキャリア像を明確にし、進路計画に反映させることができる\n2）自身の進路計画を言語化し、他者に説明することができる\n3）他者のキャリア形成について理解を深め、自身のキャリアについて振り返ることができる",
+    "overview": "本講義では、日本社会でのワークキャリア・ライフキャリア形成をめざし、必要な言語文化知識について講義・演習形式で学びます。講義では、日本国内での就職を経験した先輩留学生や、就職支援を行う教職員の方をゲストに招き、講演を行うことがあります。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "本講義では、学期末の最終レポートを主な成績評価の対象とします。その他には、ゲストスピーカーの講演の際には、内容をまとめた小レポートの作成を課すことがあります。また、講義内で指示した課題は、teams上に取りまとめて提出します。最終的には、これら3点をもとに総合的な評価を行います。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 20,
+        "その他": 0
+    },
+    "message_from_teachers": "長期的なキャリア形成は、大学生活を送る上でも重要テーマです。\n本講義は、将来日本での就職を希望する学生に限らず、全ての留学生を受け入れます。\n講義の前後には、前時の復習と課題作成に関して、それぞれ30分程度の予習・復習を行ってください。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "授業オリエンテーション・今後の授業計画について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "キャリアを考える①　卒業後の進路設計",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "キャリアを考える②　5年プランの作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "キャリアを考える③　5年プランの発表",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "ゲストスピーカー①",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "キャリアを考える④　自己分析の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "キャリアを考える⑤　自己分析の発表",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "キャリアを考える⑥　自己PRの作成と見直し",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "ゲストスピーカー②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "キャリアを考える⑦　ビジネス場面のコンフリクト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "キャリアを考える⑧　ビジネス場面のコンフリクト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "キャリアを考える⑨　生活場面のコンフリクト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "キャリアを考える⑩　生活場面のコンフリクト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "最終レポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "最終レポート検討会",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,389 @@
+{
+    "_fetched_at": "2024-08-07T15:33:49Z",
+    "name_ja": "キャリアプランニング実践",
+    "name_en": "Career planning practice",
+    "syllabus_number": "1009300A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "坂本　勲",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "【到達目標】\n(i)学生が志望する業界、職種、企業等を選択し、レポートを作成できる。\n(ii)志望する業界の面接にうまく対応できる（履歴書、エントリーシート等の書き方を含む）。\n(ⅲ)志望する業界を選択し、就活イベントに参加する。",
+    "overview": "業界研究、面接対策等就活において内定を獲得するための具体的な方法の説明や訓練を行う授業です。山口県下の\n「主体性を持った意欲ある人材を育成する」また「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」という教育目標に対し、就活に必要な業界研究、就職試験についての知識を高め、内定を獲得するための能力を育成します。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "・志望業界、職種、企業等の選択、レポートの作成能力、志望する業界の面接への対応、履歴書、エントリーシート等の作成、就活イベントへの参加。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 35,
+        "発表・実技": 35,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "・この講座を通して就活準備をしっかり行い、希望に沿った企業・機関の内定を獲得してください。\n・就活に必要な業界研究、面接対策等を行う講座ですので、就職を希望する学生は、必ず受講してください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、就活スケジュールと就活準備について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "インターンプログラムの概要、参加の注意点",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "就活サイト登録会\n業界、企業研究の方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "インターンプログラムへの申し込み、連絡事項、参加の心得、マナー等",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "就活サイト登録会",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "就活計画レポート作成方法の説明\n業界研究①　行政職、消防・警察等",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "業界研究②　商社、メーカー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "業界研究③　金融",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "業界研究④　流通・商業・その他１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "業界研究⑤　その他２（教職、福祉、進学等）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ビジネス文書の基礎、注意点",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ネチケット、ビジネスメールの作成演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業研究会",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "就活計画レポート等課題作成、個別指導会",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "就活計画レポート等課題作成、個別指導会",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "OpenESの使用方法",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "履歴書の作成の注意点、書き方演習　履歴書左側項目の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "履歴書の作成の注意点、書き方演習　自己紹介文の作成、エントリーシート作成の注意点",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "エントリーシートの書き方①",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "エントリーシート作成の注意点、作成演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "ミニJobフェア",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "ビジネスマナーの説明とロールプレー演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "グループディスカッション演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "グループディスカッション演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "グループ面接演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "グループ面接演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "WEB面接の対応\nグループ面接演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "ハローワークの活用方法について\n個別面接会",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "社会人としての法律知識\n個別面接会",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "就活開始に向けて\nそうまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

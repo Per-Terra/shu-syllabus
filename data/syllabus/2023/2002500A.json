@@ -1,0 +1,237 @@
+{
+    "_fetched_at": "2024-08-08T01:01:57Z",
+    "name_ja": "証券投資の技術",
+    "name_en": "Techniques of Securities Investment",
+    "syllabus_number": "2002500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "本授業においては、株式や債券などの有価証券に係る知識に加え、証券投資の前提となる企業価値評価に関する基礎的な知識の習得を目指している。本授業を履修し、有価証券や企業価値評価に関する概念を理解することができれば、証券投資に関する基礎を理解することができる。\n\n【到達目標】\n　① 株式や債券の概念について理解する。\n　② 企業価値評価の基礎的な概念について理解する。",
+    "overview": "授業は、講義と演習とを中心に行う。授業は、段階的に進めていくので、欠席はできるだけ避けることが望まれる。なお、授業においては、計算演習を行う回もあるので、必要に応じて電卓の持参を指示する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "企業価値経営",
+            "year": 2021,
+            "author": "伊藤邦雄",
+            "publisher": "日本経済新聞出版",
+            "price": 4620,
+            "isbn": "9784532135140",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "ファイナンス論",
+            "コーポレートファイナンス",
+            "ファイナンス入門"
+        ],
+        "brings": "電卓、パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "株式および債券、企業価値評価に関する基本的な理解（試験：60％、小テスト：40％）",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本授業において、株式や債券、企業価値評価に関する基礎的な知識を習得することにより、証券投資に関する理解がより進むと思います。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "ガイダンス：証券投資の技術を学ぶ意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "株式会社の資金調達（株式・債券）について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "割引現在価値および将来現在価値について（１）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "割引現在価値および将来現在価値について（２）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "債券価格および債券利回りの計算（１）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "債券価格および債券利回りの計算（２）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "割引現在価値および債券価格等に関する小テストおよび解説",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "ポートフォリオ理論やＣＡＰＭで使用する統計の基礎",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "証券のリスクとリターン①：株式の投資収益率、ポートフォリオ理論の基礎",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "証券のリスクとリターン②：資本資産評価モデル（ＣＡＰＭ）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "資本コスト概念および株式評価モデル",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ポートフォリオ理論や株式評価モデルに関する小テストおよび解説",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "企業価値評価モデル（１）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "企業価値評価モデル（２）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本授業に関する振返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。"
+}

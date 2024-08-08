@@ -1,0 +1,221 @@
+{
+    "_fetched_at": "2024-08-08T01:15:48Z",
+    "name_ja": "情報社会と職業",
+    "name_en": "IT Society and Profession",
+    "syllabus_number": "2021500A",
+    "course_number": "05IC302",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長谷川　賀秀",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "この授業内容を学習することで、高等学校情報科の教員免状を取得するために必要な基本的な知識を理解し、情報化の進展が社会、ビジネス活動及び職業などに及ぼす影響を理解します。また、その知識等を用いて情報科の授業を構成する力、ビジネス活動や職業の現場で活躍する基礎的な力等の熟成を目指します。【身につく力】「知識。理解」「情報リテラシー」「コミュニケーション能力」",
+    "overview": "産業社会における情報化の進展は、個人を取り巻く職業環境を大きく変化させるとともに、個人の人生観や職業観・職業意識の多様化を推し進めている。その中で、この授業では、職業と情報の関わり、これからの情報社会の中で求められている職業人としての資質・能力及び職業観などについて考察する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "情報と職業 (改訂2版) (IT Text)",
+            "year": 2015,
+            "author": "駒谷 昇一  (著), 辰己 丈夫  (著), 情報処理学会 (編集)",
+            "publisher": "オーム社",
+            "price": 2750,
+            "isbn": "978-4274216756",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "テキスト",
+        "other": ""
+    },
+    "evaluation_criteria": "情報社会とは何か、そして、情報社会の今後を考慮しつつ、それを踏まえて、今後の歩みたい方向性、どういった職業を選択し、どういう形で社会で活躍したいのかなどをどう考察しているのかを現時点でどう考えているのかなどが、評価基準となる。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "予習・次回実施内容を確認の上、教科書の該当箇所を通読しておく。\n復習・実施内容について、今一度、自分の頭の中で整理しておく。\n※予習・復習合わせて30分程度を行うこと。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "情報社会と情報システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "２",
+            "content": "情報化によるビジネス環境の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "３",
+            "content": "ビジネスモデル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "４",
+            "content": "企業における情報活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "５",
+            "content": "ビジネスを拡大させるための情報公開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "６",
+            "content": "企業内でのコンピュータ活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "７",
+            "content": "eラーニング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "８",
+            "content": "ネットビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "９",
+            "content": "働く環境と労働観の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "情報化による業務内容の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "情報社会における犯罪と法制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "職業人としての情報倫理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "情報社会におけるリスクマネジメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "明日の情報社会",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "デジタルデバイド",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "タウン誌編集を経て、地元経済誌の記者を15年、その後、日刊有料メールマガジンというビジネスモデルで起業し20年。近畿大学工学部、広島経済大学メディアビジネス学部でも同様の科目を15年従事し、情報と社会を取り巻く環境を現場と学術の両分野で関わってきたことで、情報を職業選択などで活かす手法などを共に学んでいきたい。"
+}

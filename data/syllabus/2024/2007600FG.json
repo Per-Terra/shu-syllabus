@@ -1,0 +1,360 @@
+{
+    "_fetched_at": "2024-08-07T16:11:50Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600FG",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①まちづくりに福祉の視点が必要であることを理解する。\n②自治体ごと特異性によるまちづくりの必要性を理解する。\n③まちづくりの担い手を発掘・育成する視点を理解する。\n④まちづくりが財政に与える影響について理解する。",
+    "overview": "本ゼミは、「福祉まちづくり」をテーマにしたゼミです。\nゼミにおいては各々が積極的に取り組むことを基本とし、能動的に研究課題を考えてもらいます。\n多くの人が住みたいと思う『まち』を形成する要素について考えていきましょう。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "研究課題に関する発表等で評価を行います。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "まちづくりは、公共性が高いため個人的な視点だけではなく、社会全体に関心を抱く力が求められます。\nそのため、福祉だけではなく経済などに関する様々な視点を持つ必要があります。\nゼミ生には、自らが興味・関心をもったことについて、自主的に調査し解決していくための意欲や好奇心、データを基にした統計処理能力を求めます。\n\n新聞等のニュースを基に社会の動向を把握するため、事前・事後学習として次回のゼミまでに４時間程度の時間が必要になります。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "前半イントロダクション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "日本の社会構造",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "世界の社会構造",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "社会課題の抽出",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "社会課題の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "社会課題の分析方法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "社会課題の分析方法（統計処理）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "社会保障の課題発見",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "社会保障の課題の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "社会保障の課題の分析方法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "社会保障の課題（年金）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "社会保障の課題（医療）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "社会保障の課題（介護）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会保障の課題（労働）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "前半総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "後半イントロダクション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "まちづくりの現状",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "まちづくりの経済的視点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "まちづくりの社会福祉的視点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "健康まちづくりの実態",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "健康まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "健康まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "健康まちづくりのパースペクティブ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "観光まちづくりの実態",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "観光まちづくりの先進事例",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "観光まちづくりの理論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "観光まちづくりのパースペクティブ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

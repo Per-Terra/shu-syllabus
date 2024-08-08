@@ -1,0 +1,112 @@
+{
+    "_fetched_at": "2024-08-08T01:02:41Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600AA",
+    "course_number": "10SE301、05HS301",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "専門ゼミⅠでは、卒業論文作成のための研究テーマの設定から論文執筆に至るまでの研究過程について理解を深める。受講生が研究テーマを設定できることが、このゼミの目標である。",
+    "overview": "卒業論文作成に向けて、論文のテーマと研究方法について方向性を示すことができるようにしていきます",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "ⅰ）社会福祉領域に関わる問題について、研究テーマを設定することができた。\nⅱ）研究の進め方について理解できた。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 60,
+        "ポートフォリオ": 40,
+        "その他": 0
+    },
+    "message_from_teachers": "・受講生によっては、論文執筆は二度とないことになるかもしれません。だからこそ、「何が問題なのか」や、「自分は何をすべきなのか」を、研究という活動を通じて文章に表すことができるようになっていってほしいと思います。\n・このゼミは、社会福祉を学んでいる学生が多いです。社会福祉専攻・介護福祉専攻は国家試験受験があるので、計画的に卒論に取り組まないと、国家試験対策と卒論がどっちつかずになってしまう可能性があります。この点も合わせてサポートしていければと考えています。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "session": "2～30",
+            "content": "卒業論文テーマの仮設定",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "session": "30～45",
+            "content": "研究方法について学ぶ",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "session": "45～50",
+            "content": "卒業論文テーマ設定のための、さまざまな実践現場の見学",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "session": "50～60",
+            "content": "卒業論文テーマの設定",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

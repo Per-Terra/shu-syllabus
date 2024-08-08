@@ -1,0 +1,246 @@
+{
+    "_fetched_at": "2024-08-07T17:03:33Z",
+    "name_ja": "環境経済学",
+    "name_en": "",
+    "syllabus_number": "2034900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）環境経済学の基本概念の理解\n（２）世界を取り巻く環境問題・身の回りの環境問題の理解と解決方法を考察できること",
+    "overview": "現代社会における環境問題は、土壌汚染のような地域問題、産業廃棄物の偽装輸出などの主に2国間の国際問題、地球温暖化のような地球規模の環境影響にまで多岐にわたる。そこで本講義では、外部性と市場の失敗、環境税・補助金・排出量取引、環境の価値評価、SDGsや社会的責任としての企業の役割、地球環境問題と国際貿易などを取り上げ、それらを理解することを目標とする。環境の価値評価1つを取り上げても、環境の質を量的評価の尺度に落とし込むことは非常に難しいが、地球に生きる上で避けては通れない環境問題と経済活動を理論的に捉えて両者のバランスを議論する。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "環境経済学の第一歩",
+            "year": 2021,
+            "author": "大沼あゆみ・柘植隆宏",
+            "publisher": "有斐閣",
+            "price": 2000,
+            "isbn": "9784641150898",
+            "available_on_campus": true
+        },
+        {
+            "title": "環境経済学をつかむ〔第4版〕",
+            "year": 2020,
+            "author": "栗山浩一・馬奈木俊介",
+            "publisher": "有斐閣",
+            "price": 2400,
+            "isbn": "4641177295",
+            "available_on_campus": true
+        },
+        {
+            "title": "環境経済学入門 [第三版]",
+            "year": 2021,
+            "author": "ニック・ハンレー他著・田中勝也訳",
+            "publisher": "昭和堂",
+            "price": 3200,
+            "isbn": "4812220335",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "ミクロ経済学",
+            "マクロ経済学",
+            "経済政策"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "試験とレポートで評価する。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本科目では、環境税や排出権取引が取りざたされる昨今の環境経済や、社会的費用論、エコロジー経済などについて解説し、どのように応用可能かを考察する。\n\n私は学生時代に生物多様性に関心を持ち、環境破壊がどうして行われ、環境が顧みられないのかという観点から、環境破壊のメカニズムとして経済学に興味を持った。環境の大切さや生物多様性が義務教育で扱われるようになり、関心がある人も増えたと考えるが、環境破壊がなぜ起こるか、生物多様性がなぜ失われるかに興味がある方は、この科目である程度の答えを考えられるようになるのではないかと考えます。80億人に迫る地球で生活する人間にとって環境問題は現在進行形の時事問題であり、日々のニュースやドキュメンタリーに関心を持って頂きたいと思います。それなりに難解な概念も出てきますので、理解不足を感じたら是非復習して理解に務めて頂きたい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "環境経済学の概要 環境問題と経済学的分析の意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "経済学の復習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ミクロ経済学の復習(消費者余剰と生産者余剰など)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "外部性と市場の失敗",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "環境税の理論(ピグー税・ボーモルオーツ税)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "環境税の理論と現実",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "汚染と持続的経済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "コースの定理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "排出権取引",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "エネルギー問題と枯渇資源・再生可能資源",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "廃棄物(Badsの経済学)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "持続可能な発展とは(強い持続性・弱い持続性)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "生物多様性と環境評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "企業と環境配慮",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

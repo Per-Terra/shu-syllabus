@@ -1,0 +1,274 @@
+{
+    "_fetched_at": "2024-08-07T17:06:57Z",
+    "name_ja": "情報科学概論",
+    "name_en": "Introduction to Information Science",
+    "syllabus_number": "2100100A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "情報科学部 情報科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "オムニバス",
+    "teachers": [
+        {
+            "name": "羽渕　由子",
+            "main": false
+        },
+        {
+            "name": "酒井　徹也",
+            "main": false
+        },
+        {
+            "name": "立部　文崇",
+            "main": false
+        },
+        {
+            "name": "児玉　満",
+            "main": false
+        },
+        {
+            "name": "木島　正明",
+            "main": false
+        },
+        {
+            "name": "土屋　敏夫",
+            "main": false
+        },
+        {
+            "name": "道山　知成",
+            "main": false
+        },
+        {
+            "name": "髙藤　大介",
+            "main": false
+        },
+        {
+            "name": "日置　智子",
+            "main": false
+        },
+        {
+            "name": "松村　遼",
+            "main": false
+        },
+        {
+            "name": "野村　典文",
+            "main": true
+        },
+        {
+            "name": "内田　善彦",
+            "main": false
+        },
+        {
+            "name": "橋本　喜代太",
+            "main": false
+        },
+        {
+            "name": "矢島",
+            "main": false
+        },
+        {
+            "name": "安敏",
+            "main": false
+        },
+        {
+            "name": "小柳　淳二",
+            "main": false
+        },
+        {
+            "name": "呉　靭",
+            "main": false
+        }
+    ],
+    "term": "1Q",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．情報科学部での学びについて理解し、必要な知識やスキルを習得することができる。\n２．進路の実現に向けて情報科学部での学びの計画を立てることができる。",
+    "overview": "この講義は、情報科学領域における先端的なトピックを幅広く学習する事を目的とする。授業は情報\n科学部に所属する全教員によるオムニバス科目として進行する。データサイエンス、情報エンジニア\nリング、ビジネスアナリティクスの各領域およびその関連領域のトピックについて、各教員が専門分\n野における基本から最先端までの概要を講義する。この授業を通じて情報科学の動向を知り、情報科\n学部における4 年間の学びの基礎とし、卒業研究や卒業後の進路を考えるための材料を手に入れるこ\nとを目標とする。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "必携パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "毎回の授業でその回の講義内容を振り返り理解を深めるための小レポートを課します。成績に直結す\nるものなので真剣に取り組んで下さい。\n成績評価の割合：小レポート 100％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "Society5.0とは、経済的発展と社会課題の解決を両立し、人々が快適で活力に満ちた質の高い生活を送ることができる人間中心の社会のことで、 これを実現するためには、 情報科学部で学ぶ内容を発展・深化させる必要があります．我が国が進むべき未来をデザインするために、情報科学部での学びの第一歩を踏み出しましょう。\n\n【予復習】\n毎回受講後には振り返りにより理解を深め（復習・45 分）、加えて次回のテーマと関連した情報を収\n集しましょう（予習・45分）\n\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、情報科学部での学び\nデジタル金融／人間に関する研究とコンピュータサイエンスへ\nの応用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木島",
+                "酒井"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "デジタル社会における情報システムのデザイン技術",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "実社会における最適化技術の広がり",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ブロックチェーンの仕組みと活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "最適化問題と最適化の手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "自然言語処理と関連分野",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "アルゴリズムとは？",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "人間の視覚と機械の視覚",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "情報科学の東洋医学分野への応用(研究事例の紹介)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "呉"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "バイオメカニクスとデータサイエンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "天文学とデータサイエンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "情報科学と商品開発～消費者の感性を科学する～",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "土屋"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "テキストマイニングとその研究事例",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "コーパスの活用と事例",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "情報システムとプログラミング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

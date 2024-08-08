@@ -1,0 +1,271 @@
+{
+    "_fetched_at": "2024-08-07T16:46:10Z",
+    "name_ja": "社会福祉調査の基礎",
+    "name_en": "Introduction to social welfare survey",
+    "syllabus_number": "2029100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伊藤　敏安",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "・地域の実態を的確に把握・分析するため、社会調査の基本的スキルを学修する。特に次の能力の修得と増進をめざす。\n①社会福祉士として必要な能力を修得する。\n②社会調査に関する基本的なリテラシーを身につける。",
+    "overview": "・演習形式を中心に講義形式で補完する。主に次の内容から構成される。\n①実践的なテキストを使って、社会調査の基本的スキルを学修する。\n②関連論文の読み合わせを通じて、地域政策への活用の仕方を学ぶ。\n③グループワークと個人学習により、具体的な地域課題について社会調査計画を作成する。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "①地域で住民の皆さんが社会調査を行うための手引き",
+            "year": 2006,
+            "author": "山口県社会福祉協議会",
+            "publisher": "山口県社会福祉協議会",
+            "price": 0,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "②社会教育調査ハンドブック",
+            "year": 2011,
+            "author": "国立教育政策研究所",
+            "publisher": "国立教育政策研究所",
+            "price": 0,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "③社会調査の方法（前編）",
+            "year": 2022,
+            "author": "小山弘美",
+            "publisher": "自治大学校",
+            "price": 0,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "④社会調査の方法（後編）",
+            "year": 2022,
+            "author": "小山弘美",
+            "publisher": "自治大学校",
+            "price": 0,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "⑤政策形成における社会調査の活用に関する調査研究",
+            "year": 2014,
+            "author": "清池良太",
+            "publisher": "宇都宮市市政研究センター",
+            "price": 0,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "テキスト（各自でダウンロード）、ノート、筆記具",
+        "other": "なし"
+    },
+    "evaluation_criteria": "・①授業への取り組み状況（事前・事後学習、発表など）、②グループワークにおける協働、③社会調査計画の完成度から評価する。\n・評価の配分は①40％、②30％、③30％とする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "【テキスト】\n①content/uploads/2023/03/49XcRakwnxwh4DwX_08060212102_cd.pdf\n②https://www.nier.go.jp/jissen/chosa/h23_handbook03_all.pdf\n③https://www.soumu.go.jp/main_content/000819731.pdf\n④https://www.soumu.go.jp/main_content/000825755.pdf\n⑤https://www.city.utsunomiya.tochigi.jp/_res/projects/default_project/_page_/001/009/231/sykaityousa.pdf\n\n【授業中】\n・事前・事後学習をふまえ、担当箇所とその関連事項について分かりやすく発表すること。\n・議論や意見交換に主体的に参加すること。\n・授業と事前・事後学習を通じて「自分のノート」をつくること。\n\n【事前・事後学習】\n・テキストのほか関連文献を探して、発表原稿を整理すること（事前学習2時間程度）。\n・当日の授業を振り返りながら、「自分のノート」を追補すること（事後学習2時間程度）。\n\n【オフィスアワー】\n・講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション　テキスト①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "社会福祉調査の概要　テキスト①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "調査の目的と流れ　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "調査計画と調査方法　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "調査対象と抽出方法　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "調査票の設計　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "調査の実施方法と留意事項　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "入力・集計と報告書作成　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "データ分析の基礎　テキスト②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "地方自治体の社会調査　テキスト③④",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "地域政策への活用　テキスト⑤",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "事例研究1（グループワーク）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "事例研究2（グループワーク）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "調査計画と調査票の素案設計",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "調査計画と調査票のプレゼンテーション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "・地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。"
+}

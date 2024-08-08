@@ -1,0 +1,209 @@
+{
+    "_fetched_at": "2024-08-07T17:10:42Z",
+    "name_ja": "情報科教育法Ⅰ",
+    "name_en": "Educational Method for Information I",
+    "syllabus_number": "7002000A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "阿濱　茂樹",
+            "main": false
+        }
+    ],
+    "term": "集中",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "情報科の目標や内容を理解するとともに，基礎的な学習理論を理解し，教材開発や授業設計を行う方法，設計された授業を実践する技能を身に付ける。\n【到達目標】\n情報科の目標や内容について理解し，情報科の授業設計や教材開発ができる\n情報科の授業を構想し，具体的な学習指導を実践する基礎的な力を身につける",
+    "overview": "情報科の意義や学習指導要領に示された教科の内容について座学で学びます。また，情報科の学習デザインや学習評価，教材開発の方法について座学に演習を交えて実践的に学びます。さらに，演習として授業を構想して実際に模擬授業を行い，省察と再考を試みます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "情報科の目標や内容について正確に理解しているか小テストやレポート，ポートフォリオで評価します。情報科の授業設計や教材開発を効果的にできるかどうか発表で評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 20,
+        "レポート": 50,
+        "発表・実技": 20,
+        "ポートフォリオ": 10,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業オリエンテーション：情報科の学習指導に必要な基礎知識の確認",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "2",
+            "content": "教科の内容と目的：情報科の内容と学習する目的についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "3",
+            "content": "学習指導要領の解説①：情報Ⅰについての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "4",
+            "content": "学習指導要領の解説②：情報Ⅱについての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "5",
+            "content": "情報科の学習デザイン：情報科の学習デザインについての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "6",
+            "content": "情報科の評価：情報科の評価方法についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "7",
+            "content": "情報科の教材：情報科の教材開発方法についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "8",
+            "content": "情報科の教材開発演習：情報科の教材開発の演習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "9",
+            "content": "開発した教材の発表と省察：開発した教材の発表と自己評価・他者評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "10",
+            "content": "情報科の授業設計：情報科の授業設計についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "11",
+            "content": "情報科の授業検討：情報科の学習指導案の試作",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "12",
+            "content": "情報科の授業検討の発表：試作した学習指導案の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "13",
+            "content": "情報科の授業の省察と再考：指導案の省察と再考",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "14",
+            "content": "情報科の歴史：情報科および関連教科等の歴史についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "15",
+            "content": "情報科についての国際比較：諸外国における情報教育科目についての解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

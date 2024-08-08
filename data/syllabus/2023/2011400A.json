@@ -1,0 +1,230 @@
+{
+    "_fetched_at": "2024-08-08T01:05:58Z",
+    "name_ja": "スポーツバイオメカニクス",
+    "name_en": "Sports Biomechanics",
+    "syllabus_number": "2011400A",
+    "course_number": "04SP201、05LS203",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. 機能解剖学やエネルギー論の基礎の習得を目指す\n2. 基礎的な力学の理論の習得を目指す\n3. 基礎知識を応用し，実際の運動を力学的に理解する",
+    "overview": "身体運動にかかわる身体の機能的な仕組みを理解し、力学的な視点から、生理学や解剖学などの基礎知識も応用して身体運動の仕組みをよりよく理解することを目的とする。そのため、まず基礎領域として、筋系やエネルギー供給系、神経系、骨格系などについて解説する。その後、実践・応用領域では、走る、跳ぶ、投げるなどの基本的なスポーツ動作がどのように成り立っているのか等について力学的観点を中心に解説する。\n主に講義形式で授業を進める。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得"
+    ],
+    "textbooks": [
+        {
+            "title": "スポーツ・バイオメカニクス入門 第4版",
+            "year": 2020,
+            "author": "金子公宥・藤原敏行",
+            "publisher": "杏林書院",
+            "price": 2750,
+            "isbn": "978-4-7644-1211-8",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "バイオメカニクス-身体運動の科学的基礎-",
+            "year": 2004,
+            "author": "金子公宥・福永哲夫",
+            "publisher": "杏林書院",
+            "price": 8250,
+            "isbn": "978-4-7644-1069-5",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "1. 機能解剖学・エネルギー論に関する理解度を小テスト25%で評価する。\n2. 力学の基礎に関する理解度を小テスト25%で評価する。\n3. 力学の応用に関する理解度を小テスト50%で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "スポーツ動作を力学的な観点から分析することは、パフォーマンスをよりよく理解するうえでとても役に立ちます。ぜひ、この授業での学びをスポーツ活動に活かしてください。\n授業に参加するにあたって、次回の「授業の内容」を参照し、教科書該当ページを通読しておいてください（予習・30分程度）。毎回の授業後には、その回の内容を振り返る小テストを実施します。配布資料等を用いて取り組んでください（復習・30分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "身体運動に関係する筋",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "エネルギー供給",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "運動の指令と調整機構",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "身体の構造と運動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "運動と力学の法則①：運動の3法則",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "運動と力学の法則②：力学",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "バイオメカニクスの実際①：立つ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "バイオメカニクスの実際②：歩く",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "バイオメカニクスの実際③：走る",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "バイオメカニクスの実際④：高く跳ぶ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "バイオメカニクスの実際⑤：遠くへ跳ぶ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "バイオメカニクスの実際⑥：投げる",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "バイオメカニクスの実際⑦：泳ぐ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

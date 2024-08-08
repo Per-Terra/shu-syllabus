@@ -1,0 +1,226 @@
+{
+    "_fetched_at": "2024-08-08T01:16:20Z",
+    "name_ja": "ネットワーク論",
+    "name_en": "Introduction to Networking",
+    "syllabus_number": "2023000A",
+    "course_number": "10ES209、05WI204",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "野村　典文",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "情報科社会において、インターネットは必要不可欠なものになっています。また知識や技術的な理解の不足から、インターネットとネットワークを同義に捉える者も多く存在しています。本講義ではネットワークの技術的な部分に目を向けることで、本来の意味を知ることを目的とします。また本授業を学修することでネットワークの構築・運用ができるようになります。\n【到達目標】\n（ⅰ）コンピュータ・ネットワークの仕組みを理解する。\n（ⅱ）LANやイーサネットの仕組みを理解する。\n（ⅲ）TCP/IPの仕組みを理解する。\n（ⅳ）通信障害への対応や、セキュリティ対策ができるようになる。",
+    "overview": "第１回の講義でガイダンスを行います。講義の進め方やレポートの作成方法、評価の方法などを明示します。\n\n普段、パソコンやスマートフォンを使ってインターネットを利用するとき、“なぜネットに接続されているのか”、“どのような仕組みでネットに接続されているのか”ということを意識して講義を受講してください。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [
+        {
+            "title": "ネットワークがよくわかる教科書",
+            "year": 2018,
+            "author": "福永勇二",
+            "publisher": "SBクリエイティブ",
+            "price": 2178,
+            "isbn": "978-4797393804",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "コンピュータ概論"
+        ],
+        "brings": "PC、教科書、ノート、筆記具、講義資料（事前配布）",
+        "other": ""
+    },
+    "evaluation_criteria": "（ⅰ）、（ⅱ）、（ⅲ）、（ⅳ）の四点について「⑪学生に対する評価」に明記した方法で評価を行う。",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 0,
+        "レポート": 10,
+        "発表・実技": 10,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "自宅あるいは学校で、それまで利用可能だった「インターネット」が急に使えなくなったことはありませんか。\n\n本講義では、コンピュータ・ネットワークの仕組みを理解し、インターネットへの接続やその問題解決をする方法を身につけることが目標です。コンピュータ・ネットワークの技術的側面に興味のある皆さんはぜひ受講してみてください。\n\n【予習・復習について】\n復習に重きを置き、各回で実施した内容について再確認、まとめ、考察を行うこと。\n※講義1回にあたり60分程度を目安とします。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス\nコンピュータ・ネットワークの成り立ち",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ネットワークの種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "インターネットの仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "LANの種類とその特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "LANにおける通信の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "無線LANについて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "イーサネットの概要と仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "伝送制御プロトコルについて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "インターネットプロトコルについて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "リアルタイム通信の仕組み（RTP/RTCP)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "通信障害の種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "通信障害への対処",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "ネットワークのセキュリティの概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "ネットワークのセキュリティ技術",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,178 @@
+{
+    "_fetched_at": "2024-08-08T00:55:55Z",
+    "name_ja": "法律学概論Ⅱ",
+    "name_en": "Introduction to Jurisprudence II",
+    "syllabus_number": "1002100A",
+    "course_number": "00SS104",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水野　陽一",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "建学の精神である「公正な社会観と正しい倫理観の確立」に関連する科目であり、教育目標のうち、とりわけ[２]「世界的視野と広く豊かな教養を有する人材を育成する」ために必要な科目です。法学の基礎知識を学ぶことで、豊かな教養を身につけることを目標とします。",
+    "overview": "この授業では、法学の基礎について簡単に説明した上で、主に私的分野においてどのように法律が適用されているかを見ていきます。契約とは何か、相続とは何か、借金をすることとは何か、といったこと等を話していきます。\n\n※時事問題を多く扱うため授業の進捗に合わせシラバス内容は変更になることがあります。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "（i）法学（私法分野）に関する基本知識が身についた。\n\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "法律は主専攻ではないので、予習よりも復習を心がけましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法の種類：公法と私法、実体法と手続法、成文法と不文法",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "契約の成立（公序良俗等）\n\n契約の種類１―権利移転型（贈与、売買）",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "契約の種類２―貸借型（物を借りる契約）",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "契約の種類３―労務提供型、その他",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "財産とは何か、所有権、無体財産権、様々な規制",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "動産と不動産の区別",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "年齢と法律、未成年者",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "高齢者の保護",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "損害賠償１―債務不履行",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "損害賠償２―不法行為",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "時効制度、お金の取り立て",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "担保制度、法人",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "会社制度（特に株式会社）",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "手形・小切手制度、親族法",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "相続法と全体のまとめ",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,391 @@
+{
+    "_fetched_at": "2024-08-08T01:02:44Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600AB",
+    "course_number": "10SE301、05HS301",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目は、卒業論文作成に向けて、論文の書き方、研究の手法を修得することを目指す。到達目標は以下の通りである。\n①論文の構成を説明することができる。\n②研究の手法の主なものを説明することができる。\n③研究計画書を作成することができる。\n④研究計画に基づいて調査を実施することができる。",
+    "overview": "本科目では、卒業論文作成に向けて、論文の構成を学ぶ。また、論文作成に必要な文献検索の方法や調査手法について学ぶ。また、フィールドに出向いて調査を実施し、分析し、卒業論文の素材とする。",
+    "corresponding_diploma_policies": [
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "PC",
+        "other": ""
+    },
+    "evaluation_criteria": "①論文の構成の理解度\n②研究の手法の理解度\n③研究計画書の完成度\n④調査実施の精度",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 50,
+        "その他": 0
+    },
+    "message_from_teachers": "k研究は地道な作業です。自分が本当に深めたいテーマを探し、「何を明らかにしたいのか」を明確にできるように取り組んでいきましょう。また、積極的に調査に取り組んでいきましょう。",
+    "schedule": [
+        {
+            "session": "第１回",
+            "content": "オリエンテーション：授業の進め方\n研究テーマの検討",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第2回",
+            "content": "論文の書き方について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第3階",
+            "content": "論文の書き方について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第4回",
+            "content": "研究テーマの検討",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第5回",
+            "content": "研究テーマの検討",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第6回",
+            "content": "研究テーマの決定、先行研究のレビューの仕方について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第７回",
+            "content": "先行研究のレビュー",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第8回",
+            "content": "先行研究のレビュー",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第9回",
+            "content": "先行研究のまとめのレポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第10回",
+            "content": "量的調査について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第11回",
+            "content": "量的調査について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第12回",
+            "content": "質的調査について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第13回",
+            "content": "質的調査について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第14回",
+            "content": "研究計画書の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第15回",
+            "content": "研究計画書の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第16回",
+            "content": "質的調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第17回",
+            "content": "質的調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第18回",
+            "content": "質的調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第19回",
+            "content": "質的調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第20回",
+            "content": "質的調査の実施",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第21回",
+            "content": "調査結果の分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第22回",
+            "content": "調査結果の分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第23回",
+            "content": "調査結果の分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第24回",
+            "content": "質的調査をまとめたレポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第25回",
+            "content": "質的調査をまとめたレポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第26回",
+            "content": "質的調査をまとめたレポート作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第27回",
+            "content": "補足データの収集",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第28回",
+            "content": "補足データの収集",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第29回",
+            "content": "先行研究及び調査結果をまとめた論文の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第30回",
+            "content": "先行研究及び調査結果をまとめた論文の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

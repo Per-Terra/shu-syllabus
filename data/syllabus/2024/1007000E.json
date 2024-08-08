@@ -1,0 +1,213 @@
+{
+    "_fetched_at": "2024-08-07T15:32:23Z",
+    "name_ja": "地域ゼミ",
+    "name_en": "Seminar for Community Revitalization",
+    "syllabus_number": "1007000E",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "周南地域（周南市＋下松市等の周辺市町村）の現状と課題を理解し、課題への対処策を考える。まずは周南地域の現状と課題について市町村別に理解し、次に課題の対処策についてゼミ内で検討する。そして市役所等、外部へのヒアリング等を踏まえ、課題に対する対処策を提案する。\n\n【到達目標】\n①周南地域の現状と課題を理解し、課題の対処策を考えることができる。",
+    "overview": "講義及び教員とのディスカッション等で授業を進めていく。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "evaluation_criteria": "毎回の授業における「発表・実技」及び「その他」を評価対象とする。\n※「その他」は授業における「授業への参加の意欲」を評価対象とする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "周南地域の状況理解/周南地域の歴史、現状、課題について理解する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "現地視察/周南市",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "現地視察/下松市",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "現地視察/光市",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "チーム編成、課題を決める/チームを編成し、各チームで調査、検討を行う地域の課題を決める",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "課題テーマ発表/各チームがこれから調査、検討を行う地域課題のテーマについて発表を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "調査、検討の実施１/各チームは地域課題の調査、検討を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "調査、検討の実施２/外部（市役所等）へのヒアリングを実施するチームはヒアリング内容を決める",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "中間発表１/各チームがこれまで検討してきた地域課題の内容、対処策について中間発表を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "中間発表２/各チームがこれまで検討してきた地域課題の内容、対処策について中間発表を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "調査、検討の実施１/中間発表の結果を踏まえ、各チームでさらに調査、検討を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "調査、検討の実施２/外部（市役所等）へのヒアリングを実施するチームはヒアリング調査を実施する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "最終発表１/各チームがこれまで検討してきた地域課題の内容、対処策について最終発表を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "最終発表２/各チームがこれまで検討してきた地域課題の内容、対処策について最終発表を行う",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}

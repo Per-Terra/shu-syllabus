@@ -1,0 +1,246 @@
+{
+    "_fetched_at": "2024-08-07T15:54:37Z",
+    "name_ja": "地方財政論",
+    "name_en": "Local Government Finance",
+    "syllabus_number": "2002400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田尾　真一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）日本の国と地方の財政関係について理解している\n（２）地方分権化の理論や潮流に関して理解している\n（３）日本の地方財政の問題点・あり方について把握し、議論できる",
+    "overview": "地方財政論は、財政学の一分野である。地方財政は地方自治体の経済活動を意味し、私たちの日々の生活と密接にかかわっている。義務教育、ゴミ処理、警察、消防など日常生活に欠かすことのできない行政サービスの多くは、地方自治体が担っている。その行政サービスを供給するための財源として地方自治体は租税(地方税)だけでなく、国からの財政移転にも多くを頼っている。そのため、複雑なシステムになっている。本講義では、そうした地方財政にかかわる複雑なシステムについて概説したうえで、近年進展する地方分権に関する理論や動向についても扱う。また、ふるさと納税の是非など個別の政策課題についても議論を交わす。こうした地方財政に関する理論や制度、政策について理解し自分なりの意見を持って議論できるようになることを修得目標とする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本の地方財政〔第2版〕",
+            "year": 2020,
+            "author": "神野直彦、小西砂千夫",
+            "publisher": "有斐閣",
+            "price": 2200,
+            "isbn": "978-4641165755",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "Basic 地方財政論",
+            "year": 2013,
+            "author": "重森暁、植田和弘ほか",
+            "publisher": "有斐閣",
+            "price": 2640,
+            "isbn": "978-4641184145",
+            "available_on_campus": false
+        },
+        {
+            "title": "地方財政学: 機能・制度・歴史",
+            "year": 2022,
+            "author": "小西砂千夫",
+            "publisher": "有斐閣",
+            "price": 4400,
+            "isbn": "978-4641165946",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "財政学",
+            "租税論"
+        ],
+        "brings": "なし",
+        "other": "教科書の購入については初回講義時に指示します。"
+    },
+    "evaluation_criteria": "(ⅰ) 日本の国と地方の財政関係の理解、(ⅱ) 地方分権化の理論や潮流の理解、(ⅲ) 日本の地方財政の問題点の把握と議論、について「学生に対する評価」の内容で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 20,
+        "レポート": 20,
+        "発表・実技": 10,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "地方財政論は財政学の一分野ですが、より私たちに身近な地方政府の財政を扱う学問です。地方財政のシステムや分権化に関しての議論は私たちから遠く離れたもののように感じますが、私たちの生活にも直接関わるものだと理解した上で授業に参加し、主体的に学んで下さい。\n\n【予習・復習について】\n予習としては、テキストの該当箇所を事前に読んで来てください。また、レジュメ作成の担当者はレジュメの作成をしてきてください（60～120分）。また、次回講義時に復習テストを行うので講義内容をよく復習しておくように（30～60分）。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション／地方財政の統治構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "財政の機能と地方財政／政府間財政関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "地方税の体系とそのあり方①\n　－地方税原則",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "地方税の体系とそのあり方②\n　－日本の地方税制の実態",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "地方交付税の考え方と総額決定",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "地方交付税の算定",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "地方交付税の制度運営と地方自治体の予算編成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "国庫支出金とその運用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "地方債の起債制限とその運用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "地方自治体の予算・決算",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "自治体財政健全化法と地方公会計改革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "決算カードを読む",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "地方分権改革と地方財政制度のあり方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "ディスカッション　ーふるさと納税制度について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "本講義の復習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

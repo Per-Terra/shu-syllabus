@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-07T17:09:21Z",
+    "name_ja": "子どもの遊びと援助",
+    "name_en": "child's play and support",
+    "syllabus_number": "2124200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 福祉学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "金子　幸",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①子どもの生活全体を通して、養護と教育が一体的に展開することを説明することができる\n②保育の環境構成の工夫について説明することができる\n③家庭との連携のあり方を説明することができる\n④多様な保育の展開について説明することができる",
+    "overview": "本科目は、養護と教育が一体となって展開する保育や遊びを通した総合的な指導について理解し、一人一人に応じた支援の在り方学ぶ科目である。\n　授業では、保育の基本である養護と教育を一体的に展開するための環境について理解を深め、遊びを通して子どもの成長発達を援助する方法について学ぶ。さらに、子どもの育ちを保護者とともに支えていくために、家庭との連携のあり方について検討する。\n　この授業を通して、①養護と教育を一体的に展開する保育、②子どもの遊びの重要性、③家庭との連携、について学び、子どもの成長を支える専門的な援助の方法を身に付ける。主に講義形式で授業を進めていくが、学生同士の議論も重視したい。各自が取り組んだ課題をグループで共有しながら、多様な保育のあり方について検討できるようにしていく。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "保育内容総論 (新・基本保育シリーズ)",
+            "year": 2019,
+            "author": "公益財団法人児童育成協会＝監修　石川昭義・松川恵子＝編集",
+            "publisher": "中央法規",
+            "price": 2200,
+            "isbn": "9784805857946",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "保育所保育指針解説",
+            "year": 2018,
+            "author": "厚生労働省",
+            "publisher": "フレーベル館",
+            "price": 320,
+            "isbn": "9784577814482",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "教科書、筆記用具",
+        "other": ""
+    },
+    "evaluation_criteria": "①養護と教育が一体的に展開する保育の考え方\n②遊びを通した総合的な指導\n③家庭との連携のあり方\n④多様な保育の展開\n上記①～④に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "乳幼児期の子どもの遊びには心身の成長に欠かせない多くの学びが含まれています。より良い子どもの成長を支えるために必要な遊びの援助について一緒に学んでいきましょう。\n受講にあたっては、各回の授業計画に該当する教科書を熟読しておくことを予習とします（2時間程度）。また、授業内容を振り返り、演習課題に再度取り組むなど、授業内容の定着を図るように努めることを復習とします（2時間程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "保育所保育指針に基づく保育の基本",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "保育内容の理解①：養護",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "保育内容の理解②：教育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "子どもの発達と保育内容",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "子どもの発達と保育環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "個と集団の発達と保育内容",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "保育における観察と記録",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "養護と教育が一体的に展開する保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "環境を通して行う保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "遊びによる総合的な保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "生活や発達の連続性に考慮した保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "家庭・地域・小学校との連続を踏まえた保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "特別な支援を必要とする子どもの保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "多文化共生の保育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "保育士の専門性・まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,254 @@
+{
+    "_fetched_at": "2024-08-07T15:30:30Z",
+    "name_ja": "問題発見と解決",
+    "name_en": "Problem Finding and Problem Solving",
+    "syllabus_number": "1000500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "羽渕　由子",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "以下の３つの教育目標を掲げる授業科目である。\n[1]主体性を持った意欲ある人材を育成する。\n[2]世界的視野と広く豊かな教養を有する人材を育成する。\n[3]現実的な知識と手法を備え，問題解決能力を持った人材を育成する。",
+    "overview": "問題発見と解決の方法について解説と演習をおこなう。\n（１）講義と演習形式で進める。\n（２）前半では各受講生が自身の問題発見と解決をおこなう。後半ではグループで問題発見と解決をおこなう。\n（３）講義開始から30分経過した後の入室は認めない。\n（４）グループ分け（第10回）までに欠席が多い学生は，以降のグループ活動に参加できないことがあるので注意すること。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "世界一やさしい問題解決の授業",
+            "year": 2007,
+            "author": "渡辺健介",
+            "publisher": "ダイヤモンド社",
+            "price": 1267,
+            "isbn": "9784478000496",
+            "available_on_campus": false
+        },
+        {
+            "title": "世界一やさしい右脳型問題解決の授業",
+            "year": 2018,
+            "author": "渡辺健介",
+            "publisher": "ダイヤモンド社",
+            "price": 1320,
+            "isbn": "4478101191",
+            "available_on_campus": false
+        },
+        {
+            "title": "たった２つの質問だけ！　いちばんシンプルな問題解決の方法―「タテの質問」で掘り下げ、「ヨコの質問」で全体像をあぶり出す",
+            "year": 2010,
+            "author": "諏訪　良武",
+            "publisher": "ダイヤモンド社",
+            "price": 1414,
+            "isbn": "4478006016",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "EQトレーニングⅠ"
+        ],
+        "brings": "ノートパソコン，筆記用具",
+        "other": ""
+    },
+    "evaluation_criteria": "(i) 多面的に物事を理解できる\n(ii)本質を見極めることができる\n(iii)目標を具体的な行動に結び付けられる",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 10,
+        "ポートフォリオ": 40,
+        "その他": 0
+    },
+    "message_from_teachers": "本科目は，自分の力で考えて行動し，問題発見と解決のスキルを身につけることを目的としたEQ教育科目です。自分で問題を発見し，解決に向けた方法を検討し，実際に解決過程の計画をたてて取り組みます。本科目は，課外時間に各自の問題解決に取り組むため，各自の問題に合わせて，準備（予習），遂行（復習）が必要です。\n【予復習】\n毎回受講後には振り返りにより理解を深め（復習・120分）、加えて次回のテーマと関連した情報を収集しましょう（予習・120分）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション　問題とは何か",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "問題解決過程の解説と演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "問題の意識化・問題発見",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "原因分析（１）ロジックツリー（原因）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "原因分析（２）ロジックツリー（打ち手）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "仮説の設定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "仮説検証のための調査",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "仮説の検証",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "打ち手の決定",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "実行プランの作成・レポート提出",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "チームでおこなう問題解決\nグループディスカッション（１）意見をまとめる",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "グループディスカッション（２）発表資料の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "グループディスカッション（３）発表の練習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "プレゼンテーションとディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "全体のふりかえり（効果の確認，自己評価，ピア評価）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

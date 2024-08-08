@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-08T01:05:39Z",
+    "name_ja": "スポーツ心理学",
+    "name_en": "Sports Psychology",
+    "syllabus_number": "2009900A",
+    "course_number": "04SP101、05LS102",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "運動・スポーツに関わる行動や諸問題について，スポーツ心理学の知見から理解を深め，スポーツ現場での実践に活かすことをテーマに授業を展開します．\n　到達目標は以下の2つです。\n(ⅰ)スポーツ心理学に関する基礎的知識の習得\n(ⅱ)スポーツにおける心理的問題・課題に対する関心・態度を高める",
+    "overview": "講義に加えて，簡単なワークやグループディスカッションを行う場合があり，授業への主体的な参加を要します．併せて，授業毎の小レポートにより，学習内容を振り返ります．",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "やわらかアカデミズム・＜わかる＞シリーズ　よくわかるスポーツ心理学",
+            "year": 0,
+            "author": "中込四郎・伊藤豊彦・山本裕二　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2400,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツ心理学の世界",
+            "year": 0,
+            "author": "杉原隆・船越正康・工藤孝幾・中込四郎　編著",
+            "publisher": "福村出版",
+            "price": 2600,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "毎授業の理解度を測る小レポートや定期試験から評価を行います。",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "大勢の受講が予想されますが、一人一人の真摯な受講態度を期待します。\n　また、授業内容をしっかりとノートにまとめ、深く理解することを期待します。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n\nスポーツ心理学小史",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "スポーツにおける動機づけ①\n\n（スポーツと心，動機づけ，原因帰属）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "スポーツにおける動機づけ②\n\n（自己効力感，達成目標理論）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "スポーツにおける動機づけ③\n\n（自己決定理論，～動機づけ雰囲気）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "スポーツの社会心理①\n\n（集団規範，集団凝集性，チームビルディング）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "スポーツの社会心理②\n\n（リーダーシップ）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "運動による健康の増進①\n\n（運動の心理的効果）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "運動による健康の増進②\n\n（運動行動の規定因，トランスセオレティカルモデル）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "運動による健康の増進③\n\n（運動行動の促進）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "競技スポーツの心理①\n\n（スポーツにおけるパーソナリティ研究の現状）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "競技スポーツの心理②\n\n（アスリートに求められる心理的スキル，スポーツメンタルトレーニング，メンタルマネジメント, 他）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "競技スポーツの心理③\n\n（競技スポーツの世界，アスリートの心性）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "競技スポーツの心理④\n\n（アスリートの心理サポート現場、コーチングの心理，指導者のメンタルマネジメント）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "運動学習①\n\n（運動学習とは？）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "運動学習②\n（指導への応用）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

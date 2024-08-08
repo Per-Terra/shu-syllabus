@@ -1,0 +1,367 @@
+{
+    "_fetched_at": "2024-08-07T16:13:48Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700EB",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "赤木　真由",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本ゼミでは、専門ゼミⅠで設定したテーマついて研究をおこない、卒業論文を作成する。受講生は卒業研究を通じて、地域デザインのプロセスとして、問題の探索、定義、解決策の検討、検証、プレゼンテーションを実践的に身につける。\n\n①自分自身の関心に沿って研究テーマを設定できる\n②問題を設定し、その解決策を検証することができる\n③卒業論文として論理的に執筆し、発表することができる",
+    "overview": "受講生は自身の卒業研究プロジェクトについて主体的・自律的に企画進行していく。各回のゼミでは受講生は自身のプロジェクトの進行状況をレポートする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4",
+        "知財開発コースDP4",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "各回の報告の内容および最終的に仕上げる卒業論文によって総合的に判断する。\n各回の報告：60％\n卒業論文：40％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "卒業研究に取り組むことで、自分自身が関心があるテーマについて深掘りし、論理的に物事を説明する力をつけることができます。また、自律的に研究プロセスを設計し、それを実行経験は、社会人となってからも活かすことができます。教員がサポートしますので、主体的に取り組んでいきましょう。（予習復習：4時間程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：1年間の研究計画の策定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究テーマの検討1：因果ループ図、コンテクスト図、ユースケース図などを使用",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "研究テーマの検討2：文献検索",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究テーマの設定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "先行研究の調査1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "先行研究の調査2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "実証準備1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "実証準備2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "実証1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "実証2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "実証結果の整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "実証結果の考察",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "実証結果のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "実証結果の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "先行研究の調査3",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "先行研究のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "序論執筆1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "実証執筆1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "序論執筆2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "実証執筆2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "全体的考察執筆1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "実証執筆3",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "全体的考察執筆2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "序論執筆3",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "卒論全体の調整",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "卒業研究発表会の準備1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "卒業研究発表会の準備2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業研究発表会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総括：2年間のまとめと振り返り",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "赤木　真由"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

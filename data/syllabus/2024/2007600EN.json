@@ -1,0 +1,362 @@
+{
+    "_fetched_at": "2024-08-07T15:55:44Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600EN",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田尾　真一",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n　ⅰ）社会情勢を把握し、課題を見つけ、それを解決するための素養を身に付けている\n　ⅱ）他者に有益なコメントをしたり、他者のコメントから学んだりできる\n　ⅲ）共同で論文を執筆する\n　ⅳ）自らの研究内容について外部に向けて報告できる",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行う。また、学生の興味関心の深いテーマについて、データ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいてそれを企画あるいは政策提言として文書にまとめるといった一連のプロセスを学修する。専門ゼミⅡで卒業論文等を作成するために必要なスキルを身につける。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "初回講義で輪読するテキストを決めますので、以降決定したテキストを持参するようにしてください。",
+        "other": "財政学、租税論、地方財政論、など関連する講義を学ぶことで理解を深めてください。"
+    },
+    "evaluation_criteria": "輪読時のやり取りや、共同論文執筆を通じて、ⅰ）社会情勢の把握・課題設定、ⅱ）議論の素養、ⅲ）共同論文の執筆、ⅳ）表現力、について以下の学生に対する評価に示した内容で評価を行う。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 60,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "「財政」と聞くと我々からは遠い知らないところで行われているように感じますが、実際は身近な存在であり、一国民、一有権者としてすべての国民に関係するものです。「財政」について、通常講義だけでは得られない知識や考察をゼミを通じて身に付けていただきたく思います。\n前期に輪読する教科書は、初回講義時に学生と相談して決定します。輪読時は事前にテキストに目を通し、レジュメ作成担当の場合は前日までにレジュメを作成して提出してください。また、学んだ内容はしっかりと身に付けておきましょう。そのため予習・復習にはそれぞれ1時間～1時間半ほど時間を割いてください。後期は共同論文作成に向けて講義時以外にも十分時間を割いて準備・執筆してください（1時間～∞／日）。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション\n　本演習の進め方について／輪読テキストの決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "教科書輪読①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "教科書輪読②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "教科書輪読③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "教科書輪読④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "教科書輪読⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "教科書輪読⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "教科書輪読⑦",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "教科書輪読⑧",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "教科書輪読⑨",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "教科書輪読⑩",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "共同論文のテーマ案のプレゼン",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "共同論文のテーマ案についての議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "共同論文のテーマ決定、今後の方針",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "共同論文執筆計画の作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "共同論文執筆に向けた調査・研究①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "共同論文執筆に向けた調査・研究②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "共同論文についての報告・議論①\n（論文全体の概要について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "共同論文についての報告・議論②\n（第１章の内容について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "共同論文についての報告・議論③\n（第２章の内容について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "共同論文についての報告・議論④\n（第３章の内容について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "共同論文についての報告・議論⑤\n（第４章の内容について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "共同論文についての報告・議論⑥\n（論文全体について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "初稿の完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "初稿の校正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "第２校の完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "第２校の校正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "最終稿の完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "共同論文最終稿の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総復習・次年度に向けた準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田尾　真一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,230 @@
+{
+    "_fetched_at": "2024-08-08T01:19:05Z",
+    "name_ja": "3D表現手法Ⅱ",
+    "name_en": "",
+    "syllabus_number": "2030200A",
+    "course_number": "03CG202、05HS208",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "久保　俊介",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ、問題解決能力を持った人材の育成を意図した授業です。\n3DCGの基本知識と技術の習得、またその技術を使って応用する力、最適解を導き出す判断力を養います。",
+    "overview": "CGの技術は日々の進歩が大きく、使用される分野も拡大を続けています。\n3DCGの基本的な概念を理解し、制作技術とワークフローを学習しアイデアを形にする力を養います。\n複数課題の制作を行います。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "CG入門Ⅰ",
+            "CG入門Ⅱ"
+        ],
+        "recommended_courses": [],
+        "brings": "USBフラッシュメモリ（データ保存用）",
+        "other": ""
+    },
+    "evaluation_criteria": "①制作工程の理解②立体構成力③３DCGモデル制作課題",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "CG制作概要",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ベベルとスウィープ表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ミラーモデリングとブーリアン",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "クロスシミュレーションでの変形",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "アニマルモデリング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "パッチモデリング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "スカルプトモデリングの概念と基本操作",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "スカルプトモデリングの実践",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "リギング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "スキニング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "キャラクターのポージング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "UV展開とテクスチャリング",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "アングルとカメラワーク",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "制作課題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "講評",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+}

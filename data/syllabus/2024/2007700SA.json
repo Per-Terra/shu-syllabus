@@ -1,0 +1,237 @@
+{
+    "_fetched_at": "2024-08-07T16:14:35Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700SA",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "岡井　理香",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、専門ゼミⅠでの活動内容をさらに深める。達成する目標は以下の3点である。\n\n１）専門ゼミⅠで設定した「学術的問い」に対する研究・調査・実験を行う。\n２）上記の結果を分析し、卒業論文にまとめる。\n３）卒業論文のプレゼンテーションを行う。",
+    "overview": "卒論の提出に向けて、ゼミ生一人ひとりの進捗状況と希望に応じた個別ゼミを基本的な授業形式とする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4",
+        "スポーツ健康科学科DP1",
+        "スポーツ健康科学科DP2",
+        "スポーツ健康科学科DP3",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "卒論への取り組み状況、および卒業論文を総合的に評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス・オリエンテーション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究計画書の作成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "執筆①（目的）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "執筆②（方法）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "結果の分析",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "執筆③（結果）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "執筆④（考察）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "執筆⑤（まとめ・結論）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "執筆⑥（ブラシュアップ）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "プレゼンテーション（資料作成）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "プレゼンテーション（発表練習）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "プレゼンテーション（ブラシュアップ）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "発表会（準備）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "発表会（実践・質疑応答）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "発表会（まとめ）",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
+}

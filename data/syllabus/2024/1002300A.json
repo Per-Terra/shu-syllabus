@@ -1,0 +1,221 @@
+{
+    "_fetched_at": "2024-08-07T15:31:09Z",
+    "name_ja": "社会学",
+    "name_en": "Sociology",
+    "syllabus_number": "1002300A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 スポーツ健康科学科",
+        "人間健康学部 看護学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "稲垣　円",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①社会学の基本的な理論と概念について理解する。\n②身近な事例への知的好奇心を醸成する。\n③現代の社会問題や生活問題について理解し、深く洞察する力を身に付ける",
+    "overview": "私たちの生活は、人と人の関わり合いの連なり、すなわち社会によって成り立ち、支えられている。その反面、社会は社会構造と変動によって差別や排除などによって一部の人々の生活や生存を脅かすこともある。今よりも少しでも良い社会につくり変えていく力や問い続けるために、社会にどのようなしくみがあるのか理解する必要がある。\n本講義では、社会学に関する入門的知識を学ぶ。基本的な理論と概念について学び、社会学の視点から人びとの生活と人生、自己と他者との関係、そして市民社会と公共性などを踏まえ、現実の社会問題にアプローチする力が身につくことを目指す。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP4",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。",
+        "other": "PCを持参してください。"
+    },
+    "evaluation_criteria": "毎回のリフレクション（振り返り）ペーパーの提出、授業中に行うワークへの参加、および期末レポートで評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 70,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "授業計画は変更することがあります。\n資料は授業後に提供しますが、口頭での説明の全てが記載されているわけではありません。授業中に気になることはメモを取り整理しておきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：社会学とはどういう学問か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "行為・役割・社会化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "相互作用分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "集団・組織・官僚制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ネットワークとソーシャルキャピタル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "家族（1）家族の諸形態",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "家族（2）家族の現在",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ジェンダ―と多様な性のあり方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "階級と階層（1）序列を伴う差異",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "階層と階級（2）社会移動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "逸脱と社会問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "社会学にとっての「都市」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "町内会と非営利組織",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "社会調査（1）社会調査とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "社会調査（2）調査とデータ分析の手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

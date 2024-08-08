@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-07T17:05:19Z",
+    "name_ja": "都市経済学",
+    "name_en": "Urban Economics",
+    "syllabus_number": "2040800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "都市とは何か、地域とは何か、現代の都市や地域が直面する諸問題について概説した上で、都市化のメカニズム、都市規模と都市システム、土地利用、企業・産業・住宅の立地、地域間格差と人口移動、都市交通などについて理解を深める。\n\n【到達目標】\n（１）現実の都市が直面している諸問題についての理解を深める\n（２）都市化、都市の集積、地域間人口移動等に関する経済理論を身につける\n（３）都市・地域に関する経済理論を基に身のまわりの社会事象について考察を行うこと",
+    "overview": "都市とは何か、地域とは何か、現代の都市や地域が直面する諸問題について概説したうえで、都市化のメカニズム、都市規模と都市システム、土地利用、企業・産業・住宅の立地、地域間格差と人口移動、都市交通などについて理解を深める。本講義を通じ、①現実の都市が直面している諸問題についての理解を深める、②都市化、都市の集積、地域間人口移動等に関する経済理論を身につける、③都市・地域に関する経済理論を基に受講者が身のまわりの社会事象についての考察を行うことを目標とする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "都市・地域経済学への招待状",
+            "year": 2014,
+            "author": "佐藤泰裕",
+            "publisher": "有斐閣",
+            "price": 1980,
+            "isbn": "978-4641150096",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。\n講義内容をもとに考察を深めるミニ事例研究（小レポート）を課す。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "【予習・復習について】\n予習は、指定があるときには参考図書の該当部分を読んでおくこと、。\n復習は、授業の知識の定着とともに自分の疑問や提案を整理しておくこと。\nこれら予習・復習を合わせて６０～９０分程度行うことが望ましい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/都市・地域について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "都市化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "都市集積の理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "都市内の土地利用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "住宅立地",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "企業・産業立地",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "地域経済の構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "地域間格差",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "都市規模の理論と地域間人口移動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "都市・地域の交通",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "都市・地域の環境問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "都市・地域の防災とリスクシェア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "公共部門と地方公共財(1)/地方政府の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "公共部門と地方公共財(2)/地方公共財、サミュエルソン条件",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "講義のまとめ・振り返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "地方公共団体での勤務経験を踏まえ、事例を交えて講義を行う。"
+}

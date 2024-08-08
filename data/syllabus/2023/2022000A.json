@@ -1,0 +1,222 @@
+{
+    "_fetched_at": "2024-08-08T01:16:01Z",
+    "name_ja": "CAD演習",
+    "name_en": "CAD Exercises",
+    "syllabus_number": "2022000A",
+    "course_number": "05DS204",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "与えられた課題をこなしてCADの使い方を学ぶだけでなく、自ら考え、自分なりに表現する力を磨きます。\n（ⅰ）CADの基本操作\n（ⅱ）ワークフローの理解\n（ⅲ）詳細図面および立面図の作成",
+    "overview": "CADでの図面作成は建築のみならず様々な分野で用いられています。本講義では、実践的な図面作成の方法を学び、さらに建築CAD検定2級程度の技能を身に付けます。また、三次元CADによる様々な表現も学びます。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "2022年度版 建築CAD検定試験 公式ガイドブック",
+            "year": 2020,
+            "author": "鳥谷部真",
+            "publisher": "株式会社エクスナレッジ",
+            "price": 3520,
+            "isbn": "978-4-7678-3001-8",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "CAD入門"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "（ⅰ）CADの基本操作　（ⅱ）ワークフローの理解　（ⅲ）詳細図面および立面図の作成\n上記（ⅰ）～（ⅲ）に関する理解度を実技50％、課題50％で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "二次元CADによる製図だけにとどまらず、様々な場面で役に立つ三次元CADを習得しましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "CAD基本操作の復習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "建築図面の基礎知識",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "平面詳細図を描く①\nCADソフトウェアの初期設定を行う（テンプレートの作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "平面詳細図を描く②\nグリッド・通り芯・寸法を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "平面詳細図を描く③\n壁と間仕切を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "平面詳細図を描く④\n窓・ドア・階段を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "平面詳細図を描く⑤\n設備機器を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "立面図を描く①\nＧＬの意味の理解と１階部分を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "立面図を描く②\nＦＬの意味の理解と２階部分を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "立面図を描く③\nバルコニーと屋根を描く",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "立面図を描く④\n屋根の種類を理解し、その描き方を修得する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "立面図を描く⑤\n立面図全体を調整する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "三次元CADについて基礎を学ぶ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

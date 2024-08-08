@@ -1,0 +1,213 @@
+{
+    "_fetched_at": "2024-08-07T17:09:38Z",
+    "name_ja": "やまぐち地域福祉発達史",
+    "name_en": "History of Social Welfare in Yamaguchi Local Community",
+    "syllabus_number": "2125600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "人間健康学部 福祉学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "真木　奈美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1．日本近現代における社会福祉の形成過程を説明することができる。\n2．地域の社会福祉史から社会福祉史の通史全体を捉え直す視点を得る。\n3．現代の社会福祉をめぐる諸問題について、歴史的過程をふまえて解決する視点をもつ。",
+    "overview": "本科目は、日本における社会福祉の形成過程について、その源流や地域における歴史的背景、地域的特徴を相互に関連付けながら理解することを目標とする。\n社会福祉の歴史は、国の法律や制度に規定される一方で、地域独自の歴史や社会経済的背景と密接に関連しながら発達してきた。山口県において、対外戦争や産業革命など国内外の事象に影響を受けつつ、明治期以降の慈善事業や社会事業はどのように実践され、戦時下の厚生事業と戦後の社会福祉にはどのような連続と断絶がみられたのか。現代の地域福祉をめぐる諸問題は、こうした歴史的過程への理解を前提として検討される必要がある。\n授業は主に講義形式で進めていくが、現地見学や歴史資料の実見を通じ、地域の歴史を受講者が身近に感じられる機会も設ける予定である。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノート",
+        "other": "教科書は使用せず、毎回の授業でプリントを配付する。参考図書は授業中に提示する。"
+    },
+    "evaluation_criteria": "・授業内小レポートと期末試験の結果に基づいて総合的判断する。\n・期末試験は持ち込み可の論述形式で行う。授業内容の理解度と、論述分としての完成度の両面から評価する。",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "配付プリントや授業中に示された社会福祉史に関する基本的な用語については、正確に理解できるよう復習してください（30分程度）。また、授業中に示す歴史的な事象と現代の社会福祉との関連を意識しながら受講するようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション―地域社会福祉史の意義とは―",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "前近代の山口における貧困と救済",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "明治期山口県における貧困と救済―恤救規則と地域内救済―①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "明治期山口県における貧困と救済―恤救規則と地域内救済―②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "山口県における人の移動管理と救貧法制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "山口県における米騒動の影響と社会事業の生成",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "山口県における方面委員事業の開始と展開①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "山口県における方面委員事業の開始と展開②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "山口県における農村社会事業の開始と普及",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "山口県における農村保健衛生問題への対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "山口県における「医療の社会化」",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "山口県における児童保護事業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "救護法の制定と山口県における社会事業施設の設立",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "戦時下山口県における軍事援護事業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "生活保護法の制定と戦後山口県の社会福祉",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "真木　奈美"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

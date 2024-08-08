@@ -1,0 +1,216 @@
+{
+    "_fetched_at": "2024-08-08T01:00:47Z",
+    "name_ja": "人の健康生活",
+    "name_en": "Human health",
+    "syllabus_number": "1012700A",
+    "course_number": "00HI102",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "大平　光子",
+            "main": true
+        },
+        {
+            "name": "渡邊　淳子",
+            "main": false
+        },
+        {
+            "name": "田淵　啓二",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "病気や障がいの有無にかかわらず、あらゆる健康状態にある全ての人の健康及び健康に影響する環境、健康生活のための知識とスキルについて教授し、看護学分野の視座、他分野の考え方や価値を尊重し合いながら、全ての人の健康とは、健康生活とは、について考察する。\n\n【到達目標】\n(ⅰ)人の健康生活に関するトピックを自分自身の生活の中に具体的な事項として見出す。\n(ⅱ)人の健康生活に関するトピックを論理的に説明する。\n(ⅲ)人の健康生活に関するトピックに関して、具体的事例から参考文献等を用いて考察する。",
+    "overview": "授業中小グループでディスカッションすることや学生にコメントをしてもらうことがあります。\n率直な考えや感想を共有してください。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "前回資料、PC／タブレット",
+        "other": "適宜、授業資料は配付し、参考図書も紹介します。"
+    },
+    "evaluation_criteria": "(ⅰ)人の健康生活について説明できる、(ⅱ)人の健康生活と環境について説明できる、(ⅲ)人が健康に生活するためのスキルについて説明できる、(ⅳ)健康生活に関するトピックについて考察できる 以上四点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 70,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "看護の専門的知識との授業ではありません。あらゆる健康状態にある人の健康をテーマとして、看護学分野の視座、他分野の考え方や価値を尊重し合いながら、議論します。テーマに関する自分なりの意見をもって授業に参加してください。\n\n【予習・復習について】\n前回授業に対するコメントの作成、参考資料・書籍の閲覧（各回60分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション，多様性の尊重と健康生活",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平　光子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "暴力の健康への影響(子ども虐待)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平　光子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "暴力の健康への影響（IPV）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平　光子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "病気や障がいがある人の健康生活",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平　光子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "海外の母子保健から",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊　淳子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "牲の健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊　純子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "性感染症",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊　純子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "プレコンセプションケア－飲酒・喫煙－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊　純子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "不妊",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊　純子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "環境と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵　啓二"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "メンタルヘルスと健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵　啓二"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ストレスとストレスコーピング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵　啓二"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "ライフサイクルにおける発達課題と関わりのポイント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵　啓二"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "日本と海外の健康比較",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵　啓二"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大平　光子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "看護師医療従事者として人々の健康生活に関わってきた教員が担当している。"
+}

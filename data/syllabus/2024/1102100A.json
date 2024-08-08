@@ -1,0 +1,232 @@
+{
+    "_fetched_at": "2024-08-07T15:54:23Z",
+    "name_ja": "心理学Ⅱ",
+    "name_en": "General Psychology Ⅱ",
+    "syllabus_number": "1102100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康学部 スポーツ健康科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "武田　朋昭",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "心理学Ⅰでは、身体、脳、行動、思考、感情を中心に学んできた。心理学Ⅱは発達、対人関係、生活、精神的健康がテーマである。人間の言動がどのように影響が出るか、言動に隠れたものとは何かについて学んでいく。心理学が社会生活にどのように寄与し貢献できるかをも考えていけたらと考えている。社会生活を送る時に心理学の知識や志向性が役立てられるように学ぶことが目標である。\n\n１）自己や他者との関係の中で起きる相互作用や影響について学ぶ\n２）心理学的な視点を学び日常生活での幅を広げるようにする",
+    "overview": "何かを考えたり、決めたり、発言したり。私たちがふだん何気なくとっているこれらの行動は、いつも同じあり方をするのだろうか。たとえば、少人数クラスと受講生であふれる大教室とでは、発言や挙手のしやすさは同じだろうか。ストレスを感じている時も、元気な時と同様に振る舞えるだろうか。歴史も文化も異なる国においても、人は同じように感じ考えるのだろうか。本講義では、私たちの行動を生み出す「心のプログラム」が、他者の存在や特別な環境・状況の中でどう変化するかに焦点を当てながら解説する。また、これらの知識を応用した、技術・技法についても紹介する。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "心理学 新版 (New Liberal Arts Selection)",
+            "year": 2018,
+            "author": "無藤 隆 他",
+            "publisher": "有斐閣",
+            "price": 4620,
+            "isbn": "978-4-641-05386-1",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅱ」の読替科目です。"
+    },
+    "evaluation_criteria": "授業への参加姿勢、講義後のレポート(小テスト)、学期末のレポート提出で総合的に評価をします。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 40,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "心理学の楽しさ、面白さを感じていただけるように講義も工夫していきます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "発達１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "発達２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "発達３",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "対人関係・社会１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "対人関係・社会２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "対人関係・社会３",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "性格・知能１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "性格・知能２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "性格・知能３",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "健康と不健康、ストレス１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "健康と不健康、ストレス２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "応用心理学１",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "応用心理学２",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "総論（ふりかえり）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "武田　朋昭"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

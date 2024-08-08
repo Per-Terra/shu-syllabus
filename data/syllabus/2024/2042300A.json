@@ -1,0 +1,246 @@
+{
+    "_fetched_at": "2024-08-07T17:05:55Z",
+    "name_ja": "流通論",
+    "name_en": "Distribution",
+    "syllabus_number": "2042300A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【目標】\n（１）流通に関する知識を身に着け、流通の全体像を理解する\n（２）現実に起きている流通に関する出来事を論理的に分析できるようになる",
+    "overview": "デジタル化やグローバル化が急速に進展し、環境が激変している流通・商業の現実のもとで、受講生は現在の日本社会が直面する課題と、それに応じて多様な発展を示す小売企業のビジネスモデルについて学ぶ。本講義では、日本の小売企業を対象とし、現代の小売企業を取り巻く環境や消費者ニーズの多様性に対して、小売企業がどのように対応し、どのように進化してきたのかを歴史的、体系的に考察する。また、小売企業の発展とともに現れた現代の流通における課題を理解する。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "１からの流通論〈第２版〉",
+            "year": 2018,
+            "author": "石原 武政 、竹村 正明 、細井 謙一",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": "978-4-502-28361-1",
+            "available_on_campus": false
+        },
+        {
+            "title": "ベーシック流通と商業［第3版］",
+            "year": 2021,
+            "author": "原田 英生 、向山 雅夫 、渡辺 達朗",
+            "publisher": "有斐閣",
+            "price": 2200,
+            "isbn": "978-4-641-22171-0",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "1からのデジタル・マーケティング",
+            "year": 2019,
+            "author": "西川英彦・澁谷覚（編著）",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": "978-4502289910",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "経済学部2021年度以前入学の学生は、「商業学」及び「流通論」の単位を修得することで、「商業学（４単位）」の単位が修得できます。"
+    },
+    "evaluation_criteria": "以下に関して「学生に対する評価」の内容で評価する。\n①流通に関する知識\n②流通における全体像の理解\n②現実に起きている流通に関する出来事の論理的な分析",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 20,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "日頃より、流通に関する現象を意識して観察しておくと授業の理解がより深まるでしょう。\n\n予習：次回実施内容を確認の上、該当箇所の通読をお願いします。（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成し、知識を定着させてください。（60～90分）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、イントロダクション／授業計画・授業内容・成績評価・到達目標説明\n流通とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "百貨店と総合スーパー／百貨店の革新・総合スーパーの成長",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "食品スーパーとコンビニエンス・ストア／新鮮さ・便利さの追求",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ディスカウント・ストアとSPA／概要・歴史・仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "商店街とショッピングセンター／商店街の成り立ちと方向性・SCの革新性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "小売業態とは何か\n小売を支えるロジスティクス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "インターネット技術と新しい小売業態／インターネット技術・新しい業態と商取引",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "卸の役割／小売を支える卸",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "卸の存在意義／問い直される卸売業の役割・業界再編成・機能強化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "流通構造とその変容／構造の変化・分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "流通・商業と社会／SDGsとの関連を中心に",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "流通・商業を考える視点／活動とコスト・効率・有効性・公正公平・文化・コミュニティの担い手",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "事例検討：インターネット小売業の特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "事例検討：プラットフォームビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "事例検討：デジタル時代の流通",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

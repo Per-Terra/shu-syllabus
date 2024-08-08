@@ -1,0 +1,234 @@
+{
+    "_fetched_at": "2024-08-08T01:25:21Z",
+    "name_ja": "日本語口頭表現",
+    "name_en": "Japanese Oral Presentation",
+    "syllabus_number": "8000500A",
+    "course_number": "00JP201",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "立部　文崇",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本授業は、日常的な日本語ではなく自らの考えていること、また自らが置かれている状況を聞き手にどのようにすればうまく伝えることができるかということを学ぶための授業です。「長く」話すのではなく、「わかりやすく」話すことを目指します。\n【到達目標】\n１　日本語で書かれた小説を理解することができる\n２　聞き手にとってわかりやすい日本語で話すことができる\n３　小説でつかわれる言葉を俯瞰的に見ることができる",
+    "overview": "毎週20ページほど、教科書となる小説を読んできてもらいます。その内容は、毎週渡す用紙に要約してきてください。その要約用紙の提出を持って、出席とします。授業では、読んできた小説について、担当者（毎週1人）に発表してもらいます。その後、グループで自分の感想、意見などを伝えあってもらいます。授業の構成上、小説を読んでこない場合は、授業になりませんので、注意してください。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "さざなみの夜",
+            "year": 2018,
+            "author": "木皿泉",
+            "publisher": "河出書房新社",
+            "price": null,
+            "isbn": "4309025250",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "毎回の授業において、グループ内で発表をしてもらいます。また授業後、範囲の内容を要約を提出してもらいます。そして、最後に本の内容とおすすめポイントを口頭で録音したものを提出してもらいます。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 40,
+        "レポート": 20,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "「話す」ことによって、何かを伝えるということは、能動的な行為です。だからと言って、自分勝手に話すことは何の意味もなしません。聞いている人にどのようにすれば、自分の考えが伝わるのかをいっしょに考えましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n\n毎週の課題の説明・教科書の説明",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "要約範囲１　\n\n要約の仕方と、発表方法について",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "要約範囲２\n\n聞き手にわかりやすい伝え方について",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "要約範囲３\n\nどのような順番で伝えることが望ましいか",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "要約範囲４\n\n内容の振り返り",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "要約範囲５\n\n日本語でのコミュニケーションの着地点",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "要約範囲６\n\n意見を伝えるということについて",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "要約範囲７\n\n日本語で相手の意見を訂正する",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "要約範囲８\n\n内容の振り返り２",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "要約範囲９\n\nストーリーを語るには何が必要か",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "要約範囲10\n\n聴きやすい語りと、聴きにくい語りとは",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "要約範囲11\n\n聞き手への配慮をどう示すか",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "要約範囲12\n\nまとめ",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "振り返りと期末課題への取り組み",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "期末課題提出前のグループ内討議",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "立部　文崇"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

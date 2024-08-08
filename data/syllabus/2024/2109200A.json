@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-07T17:08:19Z",
+    "name_ja": "法律学Ⅱ（2023年度以前入学者：法律学概論Ⅱ）",
+    "name_en": "",
+    "syllabus_number": "2109200A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "type": "総合科目、専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水野　陽一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）法学（私法分野）に関する基本知識が身についた。\n（２）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（３）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "overview": "本講義では、法学の基礎について簡単に説明した上で、主に私的分野においてどのように法律が適用されているかを見ていく。契約とは何か、相続とは何か、借金をすることとは何か、といったこと等について主に扱っていく。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "図録 法学入門",
+            "year": 2024,
+            "author": "著者 \t堀口　悟郎 編著 斎藤　一久 編著",
+            "publisher": "弘文堂",
+            "price": 2750,
+            "isbn": "978-4-335-35961-3",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "※2023（令和5）年度入学生までにおける「法律学概論Ⅱ」の読替科目です。"
+    },
+    "evaluation_criteria": "（i）法学（私法分野）に関する基本知識が身についた。\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "法律は主専攻ではないので、予習よりも復習を心がけましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法の種類：公法と私法、実体法と手続法、成文法と不文法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "契約の成立（公序良俗等）\n\n契約の種類１―権利移転型（贈与、売買）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "契約の種類２―貸借型（物を借りる契約）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "契約の種類３―労務提供型、その他",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "財産とは何か、所有権、無体財産権、様々な規制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "動産と不動産の区別",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "年齢と法律、未成年者",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "高齢者の保護",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "損害賠償１―債務不履行",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "損害賠償２―不法行為",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "時効制度、お金の取り立て",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "担保制度、法人",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "会社制度（特に株式会社）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "手形・小切手制度、親族法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "相続法と全体のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野　陽一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

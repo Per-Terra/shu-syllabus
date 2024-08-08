@@ -1,0 +1,215 @@
+{
+    "_fetched_at": "2024-08-07T15:32:58Z",
+    "name_ja": "地域ゼミ",
+    "name_en": "Seminar for Community Revitalization",
+    "syllabus_number": "1007000R",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "輪倉　一広",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "テーマ：峨眉山（光市）一帯の地域活性化活動への協力\n①テーマに関して十分な現状理解がなされ、価値ある課題を発見し、説明することができる。\n?計画を立て調査分析を行う等、課題の解決に向けた行動を説明することができる。\n③活動の成果を総括し、他者に向けてわかりやすく説明することができる。\n④課題発見・解決に向けて、他者と協働して取り組むことができる。",
+    "overview": "光市東部地域の活性化に取り組む既存の地元市民団体「むろづみ空想計画舎」が峨眉山一帯のエリアにおいて展開しようとする種々の活動（計画を含む）に協力する。なお、連携先におけるフィールドワークや会議参加等の都合もあるため、ゼミ活動が授業計画通りに進行しない可能性が少なからずある。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "特になし"
+        ],
+        "recommended_courses": [],
+        "brings": "PC、ノート、筆記用具",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "①現状理解・問題発見、②課題解決、③活動の総括・報告、④協働性、のそれぞれの観点について、活動の成果、活動報告、平素の活動参加状況から総合的に評価する。\n活動報告（成果物含む）60％、その他（平素の活動参加状況）40％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "チームによる課題解決を行います。学びを深めるためにはゼミ生同士、地域の方々との協力が不可欠です。周囲とのコミュニケーションを十分に取り、ゼミ活動に積極的に参加することを期待します。\nフィールドワークや発表等を意義あるものにするため、事前準備や事後の整理を十分に行ってください（準備2時間程度、事後整理2時間程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（地域ゼミの目的と意義）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "チームビルディング",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "課題解決の方法論や心構えの学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "現状認識①テーマについての調査・学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "現状認識?対象地域についての調査・学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "問題発見①地域がかかえる問題についての調査・学習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "問題発見?取り組むべき課題を見出す",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "課題解決①課題解決方法の検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "課題解決?課題解決に向けた計画立案",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "課題解決③課題解決策の試行",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "課題解決④課題解決策の改善",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "課題解決⑤課題解決策の実行",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "活動報告の準備①活動の振り返り",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "活動報告の準備?発表資料づくり",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "活動報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "輪倉一広"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

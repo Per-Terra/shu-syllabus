@@ -1,0 +1,255 @@
+{
+    "_fetched_at": "2024-08-07T16:33:18Z",
+    "name_ja": "福祉医療情報システム",
+    "name_en": "Welfare medical information system",
+    "syllabus_number": "2022900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "(ⅰ)保健医療分野に導入されている情報システムの特徴を理解できる。\n(ⅱ)保健医療分野におけるデータ活用の方法を理解できる。\n(ⅲ)医療情報システムの導入・運用・保守・セキュリティの方法を理解できる。",
+    "overview": "医療分野では様々なシステムが稼働している。病院での様々な業務、データ管理等における情報システム化は完成の域に達し、さらに、地域医療、遠隔医療との連携・活用へとその範囲を広げている。さらには、Society5.0を想定したVRやAR、AIにおける深層学習・機械学習との連携も検討され、実現されてきている。\nこのような趨勢をふまえ、医療分野で稼働するシステムについて順に取り上げ概説するとともに、これらの意義と課題について考察する。また、医療データを扱う上で必須のセキュリティ技術についても解説する。さらに、地域医療、遠隔医療の概要と実際ついて解説・考察し、Society5.0のAI時代における医療システムの展望と課題を学ぶ。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "医療情報システム入門2020",
+            "year": 2020,
+            "author": "一般社団法人保健医療福祉情報システム工業会(JAHIS)",
+            "publisher": "社会保険研究所",
+            "price": 3300,
+            "isbn": "978-4-7894-1895-9",
+            "available_on_campus": false
+        },
+        {
+            "title": "医療情報システム",
+            "year": 2012,
+            "author": "黒田知宏 監修、電子情報通信学会 編",
+            "publisher": "オーム社",
+            "price": 3300,
+            "isbn": "978-4-274-21150-8",
+            "available_on_campus": false
+        },
+        {
+            "title": "医療情報 医療情報システム編 第7版",
+            "year": 2022,
+            "author": "日本医療情報学会医療情報技師育成部会",
+            "publisher": "篠原出版新社",
+            "price": 3740,
+            "isbn": "978-4-86705-815-2",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "（ⅰ）医療情報システムの特徴　（ⅱ）データ活用の方法　（ⅲ）システムの導入・運用・保守・セキュリティ\n上記（ⅰ）～（ⅲ）に関する理解度を試験50％、課題20％、レポート15％、小テスト15％で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 15,
+        "レポート": 15,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "医療分野は情報科学の技術を多く取り入れている分野の１つであり、この分野を学ぶことでどのように情報科学が実践されているかを知ることに役立ちます。\n授業を受けるにあたり、あらかじめ与えられた資料に目を通しておくこと（予習・30分程度）、授業後には授業で学んだことを確認し、課題にとりくんでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス‐医療情報システムの概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "電子カルテシステム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "医療画像システム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "臨床検査システム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "会計・調剤システム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "リハビリテーション支援システム",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "医療情報データベース",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "医療情報の標準化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "情報セキュリティ技術",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "医療情報ネットワークとIT",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "医療ロボット",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "遠隔治療と遠隔診断",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "医療分野における高度情報処理：AIと言語処理",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "これからの医療情報システムの展望と課題",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

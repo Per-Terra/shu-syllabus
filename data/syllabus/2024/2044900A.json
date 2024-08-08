@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-07T17:06:43Z",
+    "name_ja": "公共経済学",
+    "name_en": "public economics",
+    "syllabus_number": "2044900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）公共経済学に関するツールを使いこなすことができる\n（２）ミクロ経済学の基礎理論に基づいて公共政策を分析できるようになる",
+    "overview": "公共経済学は、国や地方公共団体などの公共部門の活動を経済学の枠組みで分析する学問である。本講義では、それらの公共部門が存在する根拠と社会的役割を考える。具体的には、所得の再分配、余剰分析、市場機構の効率性と市場の失敗、公共財の供給、外部性とその対応、自然独占と料金制度などを扱う。それらの理論を理解した上で、市場の不備に対する政策や現在の日本が直面している財政・経済的諸問題や政策を議論し、政策の是非を科学的根拠をもって判断できるように考えられることを目標とする。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "公共経済学",
+            "year": 2016,
+            "author": "小塩隆士",
+            "publisher": "東洋経済新報社",
+            "price": 3080,
+            "isbn": "4492314733",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "ミクロ経済学",
+            "マクロ経済学",
+            "経済政策",
+            "地域経済論"
+        ],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "試験とレポートによる評価を考えているが、内容は追って説明する。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "市場メカニズムのみでは、資源配分の効率性、所得分配の公平性、経済の安定性が達成できないことがある。そこに政府が市場に介入し適切な政策を行う余地があり、適切な政策を考えることが公共経済学の大きな役割である。財源の観点では租税を考える必要があり、支出面では費用と便益の効率を考慮する必要がある。また、その過程での意思決定のあり方も考える必要がある。\n\n公共経済学では主に政府の役割を考えるが、昨今のグローバル化によって政府の役割が大きくなっている。そして、昨今の日本では、年金や老後の問題、少子化問題、財政赤字やそれに関する消費税増税など、政府に関する経済問題は深刻であり未解決のものも多い。それらの問題は、学生自らの将来に関する重要な問題であり、公共経済学には政策判断などをする上で重要な概念が数多く含まれている。他人事と考えず、時事問題について切実さを持って考えて頂きたい。概念の理解は結構大変だと思うが復習が肝要だと考えるので理解に務めて頂きたい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "公共経済学とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "需要・供給・消費者余剰",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "効率性と公平性(資源配分と所得再分配)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "公共財の特徴",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "外部性とピグー税、コースの定理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "市場の失敗と政府の失敗",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "不完全競争",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "消費課税と所得課税",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "財政支出と公債",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ケインズ経済学、有効需要の原理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ゲーム理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "情報の経済学・情報の非対称性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "年金",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "再分配政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

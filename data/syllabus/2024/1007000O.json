@@ -1,0 +1,209 @@
+{
+    "_fetched_at": "2024-08-07T15:32:50Z",
+    "name_ja": "地域ゼミ",
+    "name_en": "Seminar for Community Revitalization",
+    "syllabus_number": "1007000O",
+    "course_number": "-",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "「地域ゼミ」では、地域の課題を取り上げその解決を目的とした課題解決型実習（PBL）に取り組む。「地域での星空観望会実践」をテーマとしているが、実習の過程において自由に課題設定することも可とする。非専門家の学生主導で星空観望 会を開催する。",
+    "overview": "地域の生涯学習の機会を拡大す る目的で、星空観望会を計画・実施する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "下記の項目を、レポート(20%)、発表・実技(40%)、出席(40%)を総じて評価し、概ね6割以上達成している者を合格とする。\n(i) 星空観望会の計画を立てた\n(ii) 星空観望会を実践した\n(iii) 実践内容を振り返り、改善策を提案した\n(iv) 解決策を実施できた。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "星空に興味がなくても、問 題ありません。むしろ、知識も興味もない学生がイ ベントを開催することが、このゼミの醍醐味です。 イベントの企画等に興味がある学生も是非。観望会の準備や当日の運営等、授業時間外の活動を含みます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "2",
+            "content": "星空観望会実施計画作成①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "3",
+            "content": "星空観望会実施計画作成②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "4",
+            "content": "星空観望会①活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "5",
+            "content": "星空観望会②活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "6",
+            "content": "星空観望会③活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "7",
+            "content": "星空観望会④活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "8",
+            "content": "星空観望会⑤活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "9",
+            "content": "星空観望会⑥活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "10",
+            "content": "観望会実施経験をもとにした課題発見",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "11",
+            "content": "課題解決方法の議論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "12",
+            "content": "発表準備①",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "13",
+            "content": "発表準備②",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "14",
+            "content": "発表準備③",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "15",
+            "content": "他ゼミと共同の成果報告会",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

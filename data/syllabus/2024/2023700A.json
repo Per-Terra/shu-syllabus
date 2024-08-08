@@ -1,0 +1,245 @@
+{
+    "_fetched_at": "2024-08-07T16:33:29Z",
+    "name_ja": "学習心理学",
+    "name_en": "Psychology of learning",
+    "syllabus_number": "2023700A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "梨和　ひとみ",
+            "main": false
+        }
+    ],
+    "term": "集中",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "（i）心理学における「学習」とは何かを理解し、基本的な用語やそのメカニズムについて正しい知識を身につける\n（ii）自分の経験や身近な事例と結び付けて知見を説明できる\n（iii）知見を臨床や教育現場などの関連領域に応用して考えることができる",
+    "overview": "学習心理学では（1）人の行動が変化する過程とそのメカニズムについて学び、（2）人の行動が変化する過程について事例を踏まえて説明できること、および（3）臨床や教育現場など関連領域に治験を応用して考えられるようになることを狙いとする。本講義では、学習心理学における基礎的な事象および理論を説明しながら、学習心理学の理論と方法、その応用について学び、講義の中で簡単な心理実験を体験することで、学習心理学および心理学全般の理解を深める。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "学習心理学への招待【改正版】　学習・記憶のしくみを探る",
+            "year": 2008,
+            "author": "篠原　彰一",
+            "publisher": "サイエンス社",
+            "price": 2640,
+            "isbn": "978-4-7819-1204-2  C3311",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "学習・言語心理学　支援のために知る「行動の変化」と「言葉の習得」",
+            "year": 2019,
+            "author": "郷式　徹・西垣　順子",
+            "publisher": "ミネルヴァ書房",
+            "price": 2420,
+            "isbn": "978-4-623-08583-5",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "心理学概論 I",
+            "心理学概論 II"
+        ],
+        "recommended_courses": [
+            "心理学実験実習I",
+            "心理学実験実習　II",
+            "認知心理学　I",
+            "認知心理学　II",
+            "教育心理学"
+        ],
+        "brings": "テキスト、ノート",
+        "other": "PC（必要であれば）"
+    },
+    "evaluation_criteria": "3回目の講義の後にそれぞれの講義内容についての小テストを行います（80%）。小テストを行うにあたって、グループでまとめの作業を行います（10％）。まとめたものをそれぞれレポートとして提出します（10％）。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 80,
+        "レポート": 10,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "【予習・復習について】\n各回で実施する内容についてまとめることで知識を定着させてください。\n（予習・復習合わせて2時間程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "学習心理学の領域\n　学習とは何か",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "古典的条件付け\n　古典的条件付けの実験",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "オペラント条件付け\n　オペラント条件付けの実験\n\n小テスト：講義１・２・３のまとめ",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "強化と行動\n　行動と結果の関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "条件付けの制約\n　刷り込み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "一時的な記憶\n　条件付けと記憶\n\n小テスト：講義４・５・６のまとめ",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "長期記憶の多様性\n　長期記憶の区分",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "長期記憶への取り入れ\n　学習の要因",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "保持と忘却\n　忘却の過程\n\n小テスト：講義７・８・９のまとめ",
+            "methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "検索\n　記憶のテスト、再生と再認",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "学習と思考\n　推論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "技能\n　技能の学習\n\n小テスト：講義10・11・12のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "言語心理学\n　言葉の発生基盤\n　話し言葉の発達",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "言語心理学\n　書き言葉の獲得\n　リテラシーと生涯発達",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "言語心理学\n　第二言語・外国語の習得\n　学習と言語の障害\n小テスト：講義13・14・15のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

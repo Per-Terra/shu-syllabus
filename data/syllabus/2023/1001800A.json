@@ -1,0 +1,367 @@
+{
+    "_fetched_at": "2024-08-08T00:55:41Z",
+    "name_ja": "経済学(a)",
+    "name_en": "Economics",
+    "syllabus_number": "1001800A",
+    "course_number": "10EN101",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "総合科目",
+    "main_department": "経済学部",
+    "requirements": "必修科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "経済学を今後、習得していく上で重要となる経済学の基礎的事項について、ミクロ経済学及びマクロ経済学に関する分野を中心に解説する。\n\n【到達目標】\n①経済学のミクロ経済学及びマクロ経済学に関する基礎的事項について理解できる。",
+    "overview": "講義形式で授業を進めていく。授業の理解を進める上で学生には受動的に講義を受けるのではなく、世の中の経済情勢の動き等に関心を持って授業に臨んでもらいたい。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "マンキュー入門経済学（第3版）",
+            "year": 2019,
+            "author": "N・グレゴリー・マンキュー",
+            "publisher": "東洋経済新報社",
+            "price": 3520,
+            "isbn": "4492315217",
+            "available_on_campus": true
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "evaluation_criteria": "期末に実施する「試験」、授業の中で実施する「小テスト」を評価対象とする。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分でさらに深く調べてみる等、学習の深掘りをすること。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "経済学とは何か１/経済学の考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "経済学とは何か２/経済学の流れ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "経済学とは何か３/ミクロ経済学とマクロ経済学、希少性と価格",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ミクロ経済学の基本１/価格と需要の関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ミクロ経済学の基本２/需要と供給の弾力性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "消費者行動/家計の消費、所得効果、代替効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "企業行動１/企業の目的、生産関数",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "企業行動２/費用曲線、利潤の最大化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "市場機能と価格/完全競争、価格調整、資源配分の効率性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "所得配分/要素価格、所得再分配",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "独占市場/独占企業の行動、異なる市場での価格差別",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "寡占市場/ゲーム理論、カルテル",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "外部性と市場の失敗/外部経済の内部化、公共財",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "不完全情報の世界/情報と経済分析、モラルハザード",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "中間まとめ/これまでの授業内容（主にミクロ経済学）の振り返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "マクロ経済学の基本１/マクロ経済活動のとらえ方、GDPの概念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "マクロ経済学の基本２/三面等価の法則、物価指数",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "GDP決定のメカニズム１/ケインズ経済学、国民所得決定のメカニズム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "GDP決定のメカニズム２/財市場と貨幣市場の均衡",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "マクロ経済主体の行動１/家計の消費行動、企業の投資行動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "マクロ経済主体の行動２/政府の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "財政/財政赤字、公債は誰が返すのか",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "金融/ハイパワード・マネー、中央銀行の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "景気と失業/雇用と労働市場、長時間労働",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "インフレとデフレ/よいインフレと悪いインフレ、バブル経済とその崩壊",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "経済成長/高度経済成長と経済成長の低迷化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "国際経済/貿易の利益、経済統合と通貨統合",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "マクロ経済政策/政治と経済の関係、政府の信頼性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総括/本授業の内容の振り返り",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}

@@ -1,0 +1,211 @@
+{
+    "_fetched_at": "2024-08-08T01:15:35Z",
+    "name_ja": "情報倫理とセキュリティ",
+    "name_en": "Information Ethics and Security",
+    "syllabus_number": "2020900A",
+    "course_number": "10ES101、05IC102",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "（１）高度情報化社会がもつ構造的な意味を踏まえた行動規範を理解する。\n（２）情報に対する法律や技術、その根底にある倫理観を理解する。",
+    "overview": "今日の社会では、Facebook、Twitter、LineといったSNSや情報サービスを抜きにして我々の日常生活は語れないほど情報技術が進展し、浸透しており、またコミュニケーション形態も変化している。しかし、その一方で今までの常識を覆すような、さまざまな問題が生起している。今までの常識を吟味しなおす時期にきているのかもしれない。ともあれ、情報化社会における基本的人権であるプライバシー、情報化社会における情報流通の基本ルールである著作権、この二つのテーマが情報倫理の柱である。これを守るためのセキュリティ技術や法制度を学ぶことは重要である。我々にとって、著作権（知的財産）やプライバシーを守る意識（コンプライアンス）が、今ほど求められている時はないことも事実である。この講義では、情報倫理とセキュリティの根本的問題から、具体的な現象まで詳説する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "本講義の主要テーマである「情報化社会における基本的人権であるプライバシーとそれをめぐる倫理的問題」、「情報化社会における情報流通の基本ルールである知的財産権とそれをめぐる倫理的問題」および「セキュリティー問題」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "情報化社会の急速な発達に伴い、情報倫理の必要性がますます高まっている。 このように大きく変化する社会を安定的かつ発展的なものとしてゆくための、その社会に応じた新たな規範を一緒に考えていこう。\n授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス\n情報倫理とは？ セキュリティとは？",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "高度情報化社会の構造\n　コミュニケーションと社会の変化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "基本的人権としてのプライバシー\n　歴史と意義・保護法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "ハッカー倫理（１）\n　情報の共有",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "ハッカー倫理（２）\n　社会への影響",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "知的財産についての基礎知識",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "基本的ルールとしての著作権（１）\n　歴史と意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "基本的ルールとしての著作権（２）\n　著作権法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "コピーレフト運動（もう一つの著作権）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "産業財産権（１）\n　特許権・実用新案権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "産業財産権（２）\n　意匠権・商標権",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "知的財産とビジネス\n　知的財産の活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "セキュリティ問題（１）\n　サーバ攻撃、情報漏洩",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "セキュリティ問題（２）\n　防御方式",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "セキュリティ問題（３）\n　暗号革命",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

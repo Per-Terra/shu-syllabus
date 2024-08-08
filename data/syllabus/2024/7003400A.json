@@ -1,0 +1,218 @@
+{
+    "_fetched_at": "2024-08-07T17:11:20Z",
+    "name_ja": "職業指導Ⅰ",
+    "name_en": "Guidance for Profession I",
+    "syllabus_number": "7003400A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "坂本　勲",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）職業指導の歴史、理論について説明することができる。\n（２）進路指導の活動内容、組織、実施計画について説明することができる。\n（３）キャリア・カウンセリングについての理論や方法について説明することができる。",
+    "overview": "進路指導を行うために必要な基礎理論や実践のための方法、進路指導実践のための組織運営に関する広範囲な知識の習得と進路指導の具体的な方法を学ぶことが本講義の狙いである。本講義で学ぶ項目は、①職業指導の歴史、基礎理論・理念、②進路指導の活動概要、組織、計画と実践、③キャリア・カウンセリングの理論と活用、④進路指導のアセスメント、⑤産業界における職業指導、⑥進路指導の実践ロールプレイング、⑦進学相談、公務員試験の進路指導等である。本講義を受講することにより、進路指導の歴史、基礎理論の理解、進路指導を行う学校内組織体制と運営方法の理解を深めるとともに進路指導のロールプレイングによる進路指導の実践的な能力が身につく。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "・職業指導の歴史、理論についての理解、進路指導の活動内容、組織、実施計画についての理解、キャリア・カウンセリングについての理論や方法についての理解。",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "教員としての進路指導の知識と方法を学ぶと同時に、自分自身の進路、職業選択、キャリア・パスについて考えるチャンスと捉え、しっかり学んでください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "職業指導の歴史と展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "職業指導の基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "職業指導の基礎理念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "進路指導の諸活動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "進路指導の組織と運営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "進路指導の計画と実践①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "進路指導の計画と実践②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "学校と家庭、地域等との連携",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "キャリア・カウンセリングの理論と活用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "進路指導のアセスメント",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "産業界における職業指導",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "進路指導の実践①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "進路指導の実践②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "全体のまとめ、職業指導Ⅱの案内",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "坂本　勲"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
+}

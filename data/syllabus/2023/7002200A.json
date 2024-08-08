@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2024-08-08T01:23:54Z",
+    "name_ja": "道徳教育",
+    "name_en": "Moral Education",
+    "syllabus_number": "7002200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "（１）道徳の意義や原理を踏まえ、道徳教育の目標や内容項目を理解できた。\n（２）道徳教育の授業が担当できるようになった。",
+    "overview": "道徳教育の目標は、道徳的な心情、判断力、実践意欲、態度などの道徳性を養うことである。このことは、道徳の時間はもちろんのこと、その他の学校の教育活動全体を通じて、すなわち、各教科、総合的な学習の時間及び特別活動における道徳教育と密接な関連を図りながら、行うものである。そして、その道徳教育の内容は、小学校高学年、中学校では二十二の項目になる。道徳の意義や原理を踏まえた上で、これらのことを理解し、子どもたちに教授できるようにする。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "『中学校学習指導要領解説　特別の教科　道徳編』",
+            "year": 2017,
+            "author": "文部科学省",
+            "publisher": "教育出版",
+            "price": 156,
+            "isbn": "9784316300849",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "本講義の主要テーマである「道徳教育の目標や内容」、「指導案の作成」に関する理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "教育は「人格の完成」「国家・社会の形成者の育成」を目指すもので、道徳教育は人格形成の中心に位置するものです。しかし、「人格の完成」はあくまで目標とするものであって、「完成体」ははるかかなたにあるものです。力まずにしかし真摯に学びましょう。\n授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、道徳をとりまく問題状況　教育の基礎理論としての道徳教育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "道徳とは何かを考える",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "道徳性の発達段階に応じた道徳教育",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "道徳教育の構造と道徳科",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "道徳教育と道徳教育指導要領改訂の要点について考える\n総説：改訂の経緯、基本方針、要点\n第2章　道徳教育の目標",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "第3章　道徳科の内容",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "第4章　指導計画の作成と内容の取扱い",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "第5章　道徳科の評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "学習指導案の作成について、実例による教授",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "各自指導案を作成する（１）\n　題材の選択と構成",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "各自指導案を作成する（２）\n指導案を作成する",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "作成した指導案を基に、グループディスカッションをする\n各自発表し、取り入れるべき点・改善点を指摘し合う",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "グループの代表者による指導案の発表\n全員で取り入れるべき点・改善点を指摘し合う（代表者１）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "グループの代表者による指導案の発表\n全員で取り入れるべき点・改善点を指摘し合う（代表者２）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "授業全体の振り返りとまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

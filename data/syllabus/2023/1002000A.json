@@ -1,0 +1,178 @@
+{
+    "_fetched_at": "2024-08-08T00:55:52Z",
+    "name_ja": "法律学概論Ⅰ",
+    "name_en": "Introduction to Jurisprudence I",
+    "syllabus_number": "1002000A",
+    "course_number": "00SS103",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水野　陽一",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "建学の精神である「公正な社会観と正しい倫理観の確立」に関連する科目であり、教育目標のうち、とりわけ[２]「世界的視野と広く豊かな教養を有する人材を育成する」ために必要な科目です。法学の基礎知識を学ぶことで、豊かな教養を身につけることを目標とします。",
+    "overview": "この授業では、法学の基礎について簡単に説明した上で、主に公的分野においてどのように法律が適用されているかを見ていきます。犯罪が起こった、容疑者が逮捕された、有罪になったというニュースをよく見ると思います。犯罪とはなにか？裁判とは何か？有罪ってなんなのか？ということを説明します。また、就職後に重要となる労働法についても若干説明します。法律は主専攻ではないので、\n\n※時事問題を多く扱うため授業の進捗に合わせシラバス内容は変更になることがあります。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "（i）法学（公法分野）に関する基本知識が身についた。\n\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "主体性をもって講義に参加することを望みます。\n　法律は主専攻ではないので、予習よりも復習を心がけましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法の種類：公法と私法、実体法と手続法、成文法と不文法",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "法の適用、法の解釈",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "憲法",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "労働法１－－－法定労働時間－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "労働法２―労働条件",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "刑法総論１――構成要件該当性",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "刑法総論２――違法性、有責性",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "刑法総論３――未遂犯、共犯",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "刑法各論１――犯罪の種類：身体に対する罪－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "刑法各論２－－－犯罪の種類：財産犯－－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "刑事訴訟法１－－－刑事手続の目的－－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "刑事訴訟法２－－－裁判官・弁護人・検察官－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "刑事訴訟法３－－－犯罪捜査－－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "刑事訴訟法４－－－刑事裁判－－－",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "まとめ",
+            "methods": [],
+            "teachers": [
+                "水野陽一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

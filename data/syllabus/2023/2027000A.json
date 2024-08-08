@@ -1,0 +1,210 @@
+{
+    "_fetched_at": "2024-08-08T01:17:50Z",
+    "name_ja": "社会福祉の原理と政策Ⅱ",
+    "name_en": "",
+    "syllabus_number": "2027000A",
+    "course_number": "05HS202",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "福祉政策の動向と課題を理解し、社会福祉関連施策や包括的支援について述べる。次に、福祉サービスがどのように供給されているのか、その利用の過程について学ぶ。最後に、福祉施策を国際比較し、日本の特性について学んでいく。\n福祉政策を捉える視点として、概念や理念を説明することができる。福祉政策の動向と課題を踏まえた上で、関連施策や包括的支援について説明することができる。福祉サービスの供給と利用の過程について説明することができる。福祉政策の国際比較の視点から、日本の福祉政策の特性について理解する。",
+    "overview": "この授業では福祉サービスを支える理論を学ぶことを目的としている。まず、福祉政策を支える視点としてその概念や理念を理解し、人々が生活していく上でのニーズと福祉政策の過程を結びつける。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "現代の社会問題に関して理論的な裏付けができるようにする。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "日常生活から社会福祉の問題に関心をもつ。新聞やニュースを見るように心がけ、時事的な課題に敏感になりましょう。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション：授業の進め方　福祉問題と社会構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "福祉政策の基本的な視点　社会政策における重要な概念・理念（自立の概念含む）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "福祉政策におけるニーズ：ニーズとデマンド",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "福祉政策におけるニーズ：ニーズの種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "福祉政策におけるリソース",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "福祉政策の構成要素",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "福祉政策の過程と評価",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "福祉政策と包括的支援の現状",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "福祉政策と包括的支援の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "福祉政策と関連施策：保健医療政策、教育政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "福祉政策と関連施策：住宅政策、労働政策、災害政策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "福祉供給部門と供給過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "福祉利用過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "福祉政策の動向：欧米",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "福祉政策の動向：東アジア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

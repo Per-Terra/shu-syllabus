@@ -1,0 +1,210 @@
+{
+    "_fetched_at": "2024-08-08T01:22:49Z",
+    "name_ja": "社会保障論Ⅰ",
+    "name_en": "Social Security I",
+    "syllabus_number": "2045200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①生活や労働における問題を把握する。\n②福祉と経済の関連性を把握する。\n③具体的に日常生活における社会保障制度や行政の現場で起こっている問題について理解を深める。",
+    "overview": "本講義では、社会保障機能を理論的に示すとともに、具体的事例を取り上げながら制度を説明する。取り上げる制度は、年金、医療、介護、生活保護についてである。各制度は、生涯にわたり日常生活で関わるものであり、サービス内容やサービス負担額を理解することの重要性は高まっている。特にサービスの負担は、①税、②社会保険料、③自己負担により行われ、家計に対する影響も大きいといえる。最後に国際比較を通して日本の方向性を示唆する。\n　社会保障に関する知識は、国および地方公務員として業務を行う上でも重要である。さらに、民間企業でも少子高齢化社会の中でシニアビジネス等に対する注目度は高く、福祉市場に関する視点も具体的な事例を取り上げながら説明する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "日常生活から社会福祉の問題に関心をもつ。新聞やニュースを見るように心がける。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "講義ガイダンス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "少子高齢化による人口問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "人口減少による人口問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "都市規模による人口問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "社会保障の概念と範囲（財政理論）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "社会保障のための役割と意義（財政の仕組み）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "社会保障のための財政学①（財源）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "社会保障のための財政学②（租税）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "社会保障のための財政学③（給付）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "社会保障のための公共財①（公共財と私的財）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "社会保障のための公共財②（価値財）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "社会保障のためのパターナリズム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "社会保険の社会扶助",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "社会保険と民間保険",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "総括",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

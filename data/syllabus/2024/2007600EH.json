@@ -1,0 +1,364 @@
+{
+    "_fetched_at": "2024-08-07T15:55:27Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600EH",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "企業や地域が抱える現実の課題（含む表面化していないモノ）を探索するところからスタートします。ニーズを特定し、コンセプトの創出、開発戦略・計画を立案し、事業運営計画を策定し、最後は当該者（企業、団体、行政等）に提案をします。\n【目標】\n①全体最適を設計をするための基礎力を身に着ける。\n②バックキャストをし、一定条件下でプロジェクトを完遂するマネジメント力を身に着ける。\n③固定概念に捉われずSF思考をすることができる。\n④異なるバックグラウンドから得た意見を融合・深化させる力を身に着ける。",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行う。また、学生の興味関心の深いテーマについて、データ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいてそれを企画あるいは政策提言として文書にまとめるといった一連のプロセスを学修する。専門ゼミⅡで卒業論文等を作成するために必要なスキルを身につける。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "以下に関して「学生に対する評価」の内容で評価する。\nⅰ）バックキャスティングなどタイムマネジメントができたかどこか\nⅱ）共創者およびゼミ仲間と積極的に関わったかどうか\nⅲ）カスタマージャーニーを描けたかどうか\nⅳ）4軸の目的を満たすデザインかどうか\nⅴ）自身の考えを第3者にわかりやすく説明できたかどうか",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "いままで学んできたこと、新たに発見したことをすべて結び付けて何が最適なのかを探究し、提案をしてください。\nオーナーシップを持って、情報を鵜呑みにせず、好奇心をもって課題に取り組むことを期待します。\nチャレンジを楽しんでください。\n\nケースメソッド時\n予習：当該ケースの通読と自分ならばどうするかを考える。（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成し、知識・論理的思考を定着させてください。（60～90分）\n\nプロジェクト活動時\n予習：共創者との打ち合わせ等コンタクトする際は必ず事前準備と当日の模擬練習をして臨んでください。（60分）\n復習：内容のとりまとめ、メンバーとの共有をする（議事録、変更箇所等、次回Todoなど）、（60～90分）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス／ゼミの方針、進め方などの説明、自己紹介",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ケースメソッドによるディスカッション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "企業や地域の抱える課題探索1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "企業や地域の抱える課題探索2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "テーマ決め",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "対象と課題の観察調査・アイデア1",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "対象と課題の観察調査・アイデア2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "対象と課題の観察調査・特定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "コンセプト開発1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "コンセプト開発2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "クリティーク1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "クリティーク2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "中間発表準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "中間発表1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "中間発表2、振り返り、レビュー反映",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "ケースメソッドによるディスカッション2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "モデル概念設計1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "仮説、検証方法検討",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "モデル概念設計2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "クリティーク／計画・進捗の報告1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "クリティーク／計画・進捗の報告2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "モデル詳細設計1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "検証・分析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "モデル詳細設計2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "検証・分析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "最終発表準備1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "最終発表準備2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "最終発表・レビュー1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "最終発表・レビュー2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "最終報告書作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

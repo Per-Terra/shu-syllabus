@@ -1,0 +1,223 @@
+{
+    "_fetched_at": "2024-08-08T01:17:39Z",
+    "name_ja": "機械学習入門",
+    "name_en": "Introduction to machine learning",
+    "syllabus_number": "2026600A",
+    "course_number": "10ES303、05DS302",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本授業では機械学習入門として、機械学習の概要を学び、回帰、分類、クラスタリングアルゴリズムについて概観し、これらを修得する。上記アルゴリズムを具体的な題材を通じて学び、どのような場面で有効活用できるのか理解することを目標とする。さらに機械学習モデルの性能評価方法や評価指標についても学習する。授業では、座学だけでなくプログラミング演習も導入することで理解を深めると同時に、各機械学習手法の実装を通じて、実装力の向上および実践力を養う。\n\n【到達目標】\n①機械学習がどのようなものか理解できる。\n②回帰、分類、クラスタリングについて理解できる。\n③機械学習モデルの性能評価方法について理解できる。",
+    "overview": "授業は講義形式で進行します。また、演習も取り入れており、機械学習手法の実装と実践に取り組んでもらいます。演習ではプログラミングが必須となりますので注意してください。「Python入門」を履修済み、もしくは同等の知識技能を修得していることが望ましいです。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得"
+    ],
+    "textbooks": [
+        {
+            "title": "見て試してわかる機械学習アルゴリズムの仕組み  機械学習図鑑",
+            "year": 2019,
+            "author": "秋庭 伸也，杉山 阿聖，寺田 学",
+            "publisher": "翔泳社",
+            "price": 2948,
+            "isbn": "978-4798155654",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "Python入門"
+        ],
+        "brings": "ノートPC（毎回持参するようにしてください）",
+        "other": ""
+    },
+    "evaluation_criteria": "到達目標に挙げる ①機械学習ついての理解　②回帰、分類、クラスタリング手法についての理解　③機械学習モデルの性能評価方法についての理解　を「学生に対する評価」の内容により評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "受講にあたり、次回の「授業の内容」を参考に、教科書該当ページの通読やこちらが提示するキーワードについて調査し (予習・30分程度)、授業終了後には、学んだ箇所の再読および提供資料の再確認を行い、知識を定着させてください(復習・30分程度)。授業の進捗状況や受講学生の理解度などを考慮して、適宜順序の変更や内容の一部省略・追加を行うことがあります。その場合には事前に告知します。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "機械学習概要：機械学習とは・機械学習の歴史・AIと機械学習・機械学習とパターン認識",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "演習①：演習環境準備・pythonプログラミング演習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "回帰分析と最小二乗法・重回帰分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "演習②：回帰分析と最小二乗法・重回帰分析",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "パーセプトロンによる分類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "演習③：パーセプトロンによる分類",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ロジスティック回帰による分類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "演習④：ロジスティック回帰による分類",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "k-meansによるクラスタリング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "演習⑤：k-meansによるクラスタリング",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ベイズの識別規則・単純ベイズ分類器による分類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "演習⑥：単純ベイズ分類器による分類",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "評価手法：平均二乗誤差・適合率・再現率・F値・交差検証",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "学習曲線：未学習と過学習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "演習⑦：機械学習モデルの評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

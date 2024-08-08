@@ -1,0 +1,237 @@
+{
+    "_fetched_at": "2024-08-07T17:04:57Z",
+    "name_ja": "体力トレーニング論（人間健康科学部スポーツ健康科学科）",
+    "name_en": "Physical Training Theory",
+    "syllabus_number": "2040000A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "人間健康学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. トレーニングの基本となる原理・原則を説明できる。\n2. 筋力・筋パワーや筋肥大、筋持久力、全身持久性体力などの目的に応じたトレーニングの内容を説明できる。\n3. レジスタンスエクササイズトレーニングの内容を説明できる。",
+    "overview": "本講義では、トレーニングの原理・原則を理解し、目的と対象に応じたトレーニング方法を説明できることを目標とする。トレーニング目的に応じて、トレーニングの強度や量、頻度、休息時間などのトレーニング変数を適切に組み合わせ、対象に応じて、レジスタンスエクササイズのアイソトニックトレーニング、アイソメトリックトレーニング、サーキットトレーニングなどの体力トレーニングを適切に処方できるようになることを目指す。そのため、スポーツバイオメカニクスの視点から対象者の特性に応じたトレーニングの在り方や効果、メカニズムを解説する。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "健康運動指導士養成講習会テキスト上・下",
+            "year": 2014,
+            "author": "公益財団法人健康・体力づくり事業財団",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "公認スポーツ指導者養成テキスト共通科目Ⅰ・Ⅱ・Ⅲ",
+            "year": 2018,
+            "author": "公益財団法人日本体育協会",
+            "publisher": "",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツトレーニングの常識を超えろ！",
+            "year": 2019,
+            "author": "NPO法人日本トレーニング指導者協会",
+            "publisher": "大修館書店",
+            "price": 2200,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "1. トレーニングの原理・原則に関する理解度を小テスト30%で評価する。\n2. 目的に応じたトレーニングに関する理解度を小テスト40%で評価する。\n3. 対象者の特性に応じたトレーニングに関する理解度を小テスト30%で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "トレーニングで十分に成果をあげるためには、目的や対象に応じた適切な行い方を知っておくことが 必要です。この授業を通して、トレーニングに必要な知識を身につけてください。 授業前に関連資料を配布するので、通読しておいてください。毎回の授業後には、その回の内容を振 り返る小テストを実施します。配布資料等を用いて取り組んでください。\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "体力トレーニングの概論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "体力トレーニングの基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "体力トレーニングの原理・原則",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "体力トレーニングの効果と種類",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "体力トレーニングの立案と基礎理論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "筋力や筋量を増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "筋パワーを増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "筋持久力を増加するための運動条件とその効果",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "健康づくりとレジスタンスエクササイズ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "アイソトニックトレーニングの理論と実践①：マシントレーニング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "アイソトニックトレーニングの理論と実践②：フリーウェイトトレーニング",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "アイソメトリックトレーンングの理論と実践",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "自重や身近な用具を使ったトレーンングの理論と実践",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "サーキットトレーニングの理論と実践",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "プライオメトリックトレーニングの理論と実践",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

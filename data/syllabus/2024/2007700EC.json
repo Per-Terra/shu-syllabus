@@ -1,0 +1,371 @@
+{
+    "_fetched_at": "2024-08-07T16:13:51Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700EC",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "百武　仁志",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "専門ゼミⅠまでの経験を踏まえて、大学生活の学びをまとめることを主な目的としています。\nなお、各回の準備として、予習および復習には最低2時間を推奨します。これにより、授業の理解を深め、ディスカッションに積極的に参加できるようになります。\nまた、専門ゼミⅡでは、グループディスカッションを含む研究提案の作成、そしてケーススタディを通じて、実践的な問題解決能力を養います。",
+    "overview": "前期では専門ゼミⅠで完成させた企画書を発展させた研究計画書を作成します。この時、3年生と一緒に討論を行います。次に後期では論文・プロジェクト報告書の執筆を行います。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [
+            "企業概論Ⅰ",
+            "企業概論Ⅱ",
+            "中小企業論"
+        ],
+        "brings": "パソコン又はタブレット",
+        "other": "なし"
+    },
+    "evaluation_criteria": "前期作成する研究計画書及び討論の内容（40％）・卒業論文の内容（60％）で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 60
+    },
+    "message_from_teachers": "卒業論文などの長い文章を一気に書くのではなく、少しずつ書く方法を学び、コツコツと完成させていくことを学びます。コツコツ書くためには計画が必要であり、計画に基づいて書き続ける力が必要になります。\n頑張って卒業論文を完成させるようにしてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス/専門ゼミⅡを受講するのにあたって。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "卒業論文の書き方（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "卒業論文の書き方（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究計画書の立て方（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究計画書の立て方（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "文献サーベイ（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "文献サーベイ（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "文献レビュー（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "文献レビュー（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "文献レビュー（３）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "研究計画書を作成する（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究計画書を作成する（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "研究計画書を作成する（３）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究計画書を作成する（４）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "研究計画書発表会",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "卒業論文執筆の準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "序章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "第1章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "第2章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "第3章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "第4章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "終章の作成・議論",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "卒業論文全体の議論（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "卒業論文全体の議論（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "卒業論文の修正（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "卒業論文の修正（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "卒業論文の修正（３）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "卒業論文発表会（１）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業論文発表会（２）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業論文の最終確認",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

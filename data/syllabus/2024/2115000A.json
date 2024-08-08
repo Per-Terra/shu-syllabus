@@ -1,0 +1,266 @@
+{
+    "_fetched_at": "2024-08-07T17:08:38Z",
+    "name_ja": "人体の構造と機能Ⅱ",
+    "name_en": "Structure and function of the human body　Ⅱ",
+    "syllabus_number": "2115000A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "人間健康学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "岸　博子",
+            "main": true
+        },
+        {
+            "name": "松崎　健太郎",
+            "main": false
+        },
+        {
+            "name": "前嶋　翔",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "1 人体の構造と機能を説明できる。\n2 人体を構成する細胞の構造、それらの集合体である組織や器官の特徴とその構造を説明できる。\n3 骨格系、筋肉系、神経系の構造を説明できる。\n4 感覚器の構造とその働きを説明できる。\n5 神経の機能を説明できる。\n6 運動における神経系と筋の役割・収縮機構を説明できる。\n7 内分泌系の機能を説明できる。\n8 生殖機能、性周期を説明できる。\n9 医の倫理と人間の尊厳について説明できる。",
+    "overview": "人体の正常な構造及び機能に従って系統的に人体の構造と機能を学ぶことは人の日常生活の営みを支える看護職者が人間の身体を理解し、フィジカルアセスメントを行う基盤となる。本授業では人体の構造と機能Ⅰにひきつづき、自立神経系・内分泌系、感覚器、骨格・筋・神経・運動器系の構造と機能、さらに生体防御機構と適応、生殖・発生・老化について、人体の各部位の形態や位置関係と機能を結びつけ、組織や細胞の構造と機能を理解する。\n授業を通して、生活者である人の個々の身体的特徴を理解するための正常な身体の構造と機能に関する基礎的知識を身につける。",
+    "corresponding_diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎　解剖生理学",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "系統看護学講座　専門基礎　運動器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　脳・神経",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　内分泌・代謝",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　女性生殖器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "人体の構造と機能Ⅰ"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "筆記試験100％",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "筆記試験 100％",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "運動器系の構造と機能①（骨格系、関節、筋系の構造と末梢神経支配）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "運動器系の構造と機能②（運動器系と末梢神経支配）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "シナプスと神経（ニューロン、シナプス、Kイオン、Naイオン、興奮性シナプス電位、抑制性シナプス電位）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "感覚器の構造と機能①（感覚の分類、皮膚感覚、皮膚節、痛覚、体性感覚の伝導路、前庭感覚と平衡）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "感覚器の構造と機能②（視覚器、網膜、視覚の伝導路）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "感覚器の構造と機能③（聴覚器、味覚器、嗅覚器）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "感覚器の構造と機能④（体性感覚器、平衡感覚器）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "神経系の構造と機能①（大脳皮質、間脳、中脳、橋、延髄、小脳、脊髄）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "神経系の構造と機能②（髄膜と脳室、脳神経と脊髄神経、自律神経系）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "神経系の構造と機能③（大脳皮質の機能局在、レム睡眠、ノンレム睡眠）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "内分泌系の構造と機能①（視床下部、下垂体）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "内分泌系の構造と機能②（甲状腺、上皮小体、副腎、膵臓）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "生殖器系の構造と機能　女性生殖器（子宮、卵巣、卵管、膣、外陰部、性腺、卵巣及び月経周期）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "生殖器系の構造と機能　男性生殖器（精巣、精巣上体、精管、前立腺、陰茎）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "生体の防御機構、免疫",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

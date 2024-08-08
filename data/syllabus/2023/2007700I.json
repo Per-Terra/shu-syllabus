@@ -1,0 +1,364 @@
+{
+    "_fetched_at": "2024-08-08T01:04:24Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700I",
+    "course_number": "10SE401、05HS401",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "経済学部",
+    "requirements": "必修科目",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "小野　高志",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①「スポーツ」に関係する様々な事象に対し、その理（ことわり）を考え、「なぜ？」や「知りたい」という動機を明確にすることができる。\n②すでに明らかになっていることとまだ明らかになっていないことを整理することができる。\n③課題解決のための最適な方法論を導き出し、まだ誰も明らかにしていないことを明らかにすることができる。",
+    "overview": "この授業では「スポーツ」をキーワードに社会に存在する課題を多角的に検証し、自分自身も含めて人々の生活を豊かにし、活気あるまちづくりを行うための方策を考えます。あらゆる情報を科学的根拠に基づいて整理し、現場に積極的に足を運び、課題解決のための最適な方法論を導き出し、まだ誰も明らかにしていないことを明らかにすることを目指します。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "社会に求められる人材となるためには主体性（自分は何がしたいのか）と協調性（他者が何を求めているか）が重要です。自分自身も周りの人も皆がワクワクするような授業にしましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n授業概要および進め方に関する説明",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "取り組むテーマの発表、ディスカッション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "課題発掘のためのフィールドワーク",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "課題を整理する、ディスカッション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "情報収集",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "課題の再検討、ディスカッション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "方法論の検討、選択",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "方法論が正しいかの検証\n専門ゼミⅠで取り組んだ予備実験・調査の結果を踏まえた再考",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "取り組むテーマの再確認、ディスカッション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "本実験・調査①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "本実験・調査②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "データ処理、分析、考察①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "データ処理、分析、考察②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "本実験・調査の中間報告①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本実験・調査の中間報告②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "卒業論文の作成方法について①（研究の背景、先行研究）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "卒業論文の作成方法について②（研究の目的、タイトル）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "卒業論文の作成方法について③（方法および手続き）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "卒業論文の作成方法について④（データ処理、図表の作成）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "卒業論文の作成方法について⑤（結果の考察）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "卒業論文の作成方法について⑥（研究の限界と課題）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "卒業論文の作成方法について⑦（まとめ、参考文献リスト）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "卒業論文の作成①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "卒業論文の作成②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "卒業論文の作成③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "卒業論文の作成④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "プレゼンテーション資料作成①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "プレゼンテーション資料作成②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "プレゼンテーション練習",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "プレゼンテーション・まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "これまでの教育研究機関や競技スポーツ現場（サッカー、水泳、アイスホッケー、スキー・スノーボード等）における教育者・研究者・指導者としての経験を通し、科学と実践との相互フィードバックがどのようにして成されているかについて、実例・実演を交えて解説する。\nアスリートサポートセンターが取り組む事業について紹介するとともに、積極的な関わりを促す。"
+}

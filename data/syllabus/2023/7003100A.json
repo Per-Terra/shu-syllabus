@@ -1,0 +1,63 @@
+{
+    "_fetched_at": "2024-08-08T01:24:19Z",
+    "name_ja": "教育実習Ⅰ",
+    "name_en": "Student Teaching I",
+    "syllabus_number": "7003100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": true
+        },
+        {
+            "name": "大坂　遊",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "教育実習は、教職課程でこれまで学んだ各種の教育に関する理論などを、実際に教育現場（教育実習校）で実践し、教師の立場で体験することができる重要な機会である。本実習を通して、生徒と接し、教師の仕事を体験し、学校教育における教師の役割や仕事を理解する。また、自身の教師としての態度や心構えを見直し、教員としての適性について考える。",
+    "overview": "実習校の指導教諭及び教育実習担当教諭の指導の下で、授業見学・校務見学・特別活動（学級活動・生徒会活動・学校行事）の見学等を経て、可能な限り指導の実践をする。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "履修しておくべき科目:教職に関する科目全て"
+    },
+    "evaluation_criteria": "基本的には実習校による教育実習成績評価表で評価する。「教員としてのあり方」、「実践的な指導力・行動力」、「教育課題」、「学級経営」の観点から10の評価項目で４段階評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 100
+    },
+    "message_from_teachers": "教育実習現地指導の先生と連絡をとること。PDCAやホウレンソウを忘れずに。 本学のEQ教育やキャリア教育を活かし教育実習をしましょう。",
+    "schedule": [],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

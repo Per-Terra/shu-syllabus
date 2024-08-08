@@ -1,0 +1,208 @@
+{
+    "_fetched_at": "2024-08-08T00:55:49Z",
+    "name_ja": "日本国憲法",
+    "name_en": "Constitution of Japan",
+    "syllabus_number": "1001900A",
+    "course_number": "00SS102",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新井　誠",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "この講義では、憲法にかかわる身近な問題を提示しながら、憲法の意味や歴史、さらには人権や統治機構の諸問題について学習し、「日本国憲法」の基礎知識を身につけることをねらいとしている。\n\n以下を到達目標とする。\n①「日本国憲法」をめぐる基礎的用語とその内容を理解し、説明できる。\n②憲法に定める人権保障・統治機構に関する学説・判例について理解し、説明できる。\n③憲法をめぐる諸問題をめぐって、冷静な視点で論理的に考え、あるべき解決方法を見出すことができる。",
+    "overview": "講義形式。ただし講義中に適宜、学生の意見を求める場合がある。講義は以下の授業計画に沿って行う予定であるが、進行により内容を一部割愛する場合がある。出席を重視する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "各回資料を配付する。参考図書等は授業内で適時案内していく。"
+    },
+    "evaluation_criteria": "先述の到達目標について、以下の方法で評価する。\n（対面実施の場合）授業中に毎回リアクションペーパー（30％）を作成・提出していただく。これに加えて期末の定期試験（70％）を行う予定。\n※状況により、授業等がオンライン等での実施になる場合には、リアクションペーパーの提出方法や、期末試験の実施方法を変更する可能性がある（期末試験については、これに代わる期末課題の提出など）。なお具体的実施方法については授業の際に述べる。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "学生には、身近な社会問題に興味を持ち、授業に積極的に参加いただくことを希望する。また、合理的な理由をもとに自分の考え方を述べられるようになってほしい。\n\nこの科目の他に、法学を学ぶ科目がいくつか設置されているので、興味のある人は履修をしてみるとよいと思う。\n\n（予習・復習について）\n授業の際に取り上げるトピックや、興味のある憲法、法律問題について考えてみるようにするとよい（各回30～60分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "「日本国憲法」を学ぶための基礎知識①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "「日本国憲法」を学ぶための基礎知識②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "幸福追求・プライバシーをめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "法の下の平等をめぐる問題①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "法の下の平等をめぐる問題②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "思想・良心の自由をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "表現の自由をめぐる問題①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "表現の自由をめぐる問題②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "信教の自由・政教分離をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "経済的自由をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "生存権をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "民主主義を実現するための制度（選挙権と選挙制度）をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "国会と内閣をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "裁判所と地方自治をめぐる問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "憲法をめぐる新しい問題・おわりに",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新井　誠"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

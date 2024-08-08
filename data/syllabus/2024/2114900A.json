@@ -1,0 +1,279 @@
+{
+    "_fetched_at": "2024-08-07T17:08:35Z",
+    "name_ja": "人体の構造と機能Ⅰ",
+    "name_en": "Structure and function of the human body　Ⅰ",
+    "syllabus_number": "2114900A",
+    "course_number": "a",
+    "target_departments_and_courses": [
+        "人間健康学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "宮本　達雄",
+            "main": true
+        },
+        {
+            "name": "板橋　岳志",
+            "main": false
+        },
+        {
+            "name": "森田　知佳",
+            "main": false
+        },
+        {
+            "name": "弘澤　萌",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "1人体の構造と機能を説明できる。\n2 人体を構成する細胞の構造、それらの集合体である組織や器官の特徴とその構造を説明できる。\n3 血液、組織液などの機能を説明できる。\n4 血液循環と呼吸機能を説明できる。\n5 腎臓、泌尿器の構造と機能を説明できる。\n6 消化器系の機能を説明できる。\n7 医の倫理と人間の尊厳について説明できる。",
+    "overview": "人体の正常な構造及び機能に従って系統的に人体の構造と機能を学ぶことは人の日常生活の営みを支える看護職者が人間の身体を理解し、フィジカルアセスメントを行う基盤となる。本授業では人間の解剖生理を理解する基礎的知識、血液、組織液、消化器系、呼吸・循環器系、腎泌尿器系の構造と機能について、人体の各部位の形態や位置関係と機能を結びつけ、組織や細胞の構造と機能を理解する。授業を通して、生活者である人の個々の身体的特徴を理解するための正常な身体の構造と機能に関する基礎的知識を身につける。",
+    "corresponding_diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎　解剖生理学",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "系統看護学講座　専門基礎　血液・造血器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　循環器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　呼吸器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　腎・泌尿器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門基礎　消化器",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "筆記試験100％",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "人体の構造①（医の倫理、人間の尊厳、身体の名称と区分）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "人体の構造と機能②（解剖生理学の基礎知識）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "人体の構造③（細胞）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "血液、組織液①（細胞内液・外液など体を構成する水分）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "血液、組織液②（血液）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "循環器系の構造と機能①（心臓）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "循環器系の構造と機能②（心臓と動脈と静脈）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "板橋　岳志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "呼吸器系の構造と機能①（鼻腔、喉頭）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "呼吸器系の構造と機能②（気管、肺）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "肺と循環と血流",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "泌尿器系の構造と機能①（腎臓）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "泌尿器系の構造と機能②（尿管、膀胱、尿道）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "消化器系の構造と機能①（口腔、食道、胃）①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "消化器系の構造と機能②（肝臓、膵臓、小腸、大腸）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "皮膚の機能と構造、体温と体温調節",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宮本　達雄"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

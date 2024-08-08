@@ -1,0 +1,251 @@
+{
+    "_fetched_at": "2024-08-07T15:54:07Z",
+    "name_ja": "コミュニケーション英語Ⅰ",
+    "name_en": "English Communication Ⅰ",
+    "syllabus_number": "1101200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "情報科学部 情報科学科"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "Richard",
+            "main": false
+        },
+        {
+            "name": "Sugg",
+            "main": false
+        }
+    ],
+    "term": "集中",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "１.情報科学の研究遂行に必要な初歩の英語力を身につけることができる。\n２.日常的な場面の会話において英語で口頭表現することができる。\n３.英語で書かれた論文やレポートのおおよその内容を理解することができる。",
+    "overview": "コミュニケーション英語Ⅰ～Ⅳでは、情報科学部における研究遂行に必要な英会話、および英語に関するリーディングとライティング能力、明解な口頭発表を行うためのプレゼンテーション能力、闊達な議論を可能とするコミュニケーション能力を身につける。こうした力は情報科学部における4年間の学びの基礎となるのみならず、卒業後の進路において有用な武器となる。本授業を通じて学生は、情報科学部で必要となる初歩的な英語力（研究遂行のための初歩の英語力、日常な会話力、英語論文の概要を理解する力）を身につける。\n授業はオンデマンド教材を用いたe-learningによって進める。毎回の授業についてLMSを通じて学習すべき教材を指示する。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "Distinction2000",
+            "year": 0,
+            "author": "",
+            "publisher": "KADOKAWA",
+            "price": 2400,
+            "isbn": "978-4046045331",
+            "available_on_campus": true
+        },
+        {
+            "title": "パーフェクト講義英文法編セット",
+            "year": 0,
+            "author": "",
+            "publisher": "",
+            "price": 2420,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "必携パソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "学生はLMS上で指示されたe-learning教材を指定の期間内に受講し、課題に回答することで授業への出席となる。\n2回の小テスト（50％）と期末試験（50％）によって成績を評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 50,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "教科書はE-learning教材を提供する。\n情報科学は英語との距離が非常に近い分野です。情報科学分野では日々新たな手法や考え方がアップデートされており、こういった論文やレポートのほとんどは英語で書かれています。また、DXの現場でも日々グローバルなビジネスが展開されているため、情報科学部では英語教育を重要視し、実践的な英語能力の修得を目標としています。\n各回の内容は1度学んで終わりにするのではなく、繰り返し学習して下さい（60分）。特に不得意であって部分については習熟まで繰り返して下さい。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、英語の音の基礎\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "時制1：基本時制（現在・未来・過去形）の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "時制2：現在形の特殊用法をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "時制3：進行形の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "時制4：完了形（現在完了・未来完了・過去完了）の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "仮定法1：仮定法の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "仮定法2：仮定法の倒置をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "実践演習1 、小テスト\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "助動詞1：各助動詞の基本をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "不定詞1：不定詞の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "不定詞2：to 不定詞を使った慣用表現①をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "不定詞3：to 不定詞を使った慣用表現②をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "動名詞1：動名詞の概念をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "動名詞2：動名詞の慣用表現をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "実践演習2、小テスト\n（授業形態：オンデマンド）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "Richard",
+                "Sugg"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

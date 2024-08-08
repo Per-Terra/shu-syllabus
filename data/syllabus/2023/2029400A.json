@@ -1,0 +1,222 @@
+{
+    "_fetched_at": "2024-08-08T01:18:46Z",
+    "name_ja": "障害者福祉Ⅰ",
+    "name_en": "",
+    "syllabus_number": "2029400A",
+    "course_number": "05SN205",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "服部　恭弥",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "障害者の生活実態とこれを取り巻く社会情勢について理解し、あわせて障害者福祉制度の概要について理解する。また、相談援助活動において必要となる制度や障害者の福祉・介護に係る他の法制度について理解できる",
+    "overview": "障害者の生活実態とこれを取り巻く社会情勢について理解し、あわせて障害者福祉制度の概要について理解する。また、相談援助活動において必要となる制度や障害者の福祉・介護に係る他の法制度について理解する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [
+        {
+            "title": "障害者福祉",
+            "year": 2021,
+            "author": "一般社団法人　日本ソーシャルワーク教育学校連盟　編集",
+            "publisher": "中央法規",
+            "price": 2750,
+            "isbn": "978-4-8058-8238-2",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "講義態度、レポートを重視する。",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "障害者福祉の理念・歴史①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "2",
+            "content": "障害者福祉の理念・歴史②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "3",
+            "content": "障害者の定義と特性　身体障害・知的障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "4",
+            "content": "障害者の定義と特性　発達障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "5",
+            "content": "障害者の定義と特性　精神障害・その他の障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "6",
+            "content": "障害者の生活実態とこれを取り巻く社会環境と課題①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "7",
+            "content": "障害者の生活実態とこれを取り巻く社会環境と課題②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "8",
+            "content": "障害者と家族等の支援における関係機関と専門職の役割①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "9",
+            "content": "障害者と家族等の支援における関係機関と専門職の役割②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "10",
+            "content": "障害者と家族等に対する支援の実際",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "11",
+            "content": "障害者に関わる法律　障害者基本法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "12",
+            "content": "障害者に関わる法律　身体障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "13",
+            "content": "障害者に関わる法律　知的障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "14",
+            "content": "障害者に関わる法律　精神障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

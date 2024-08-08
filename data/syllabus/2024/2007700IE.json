@@ -1,0 +1,122 @@
+{
+    "_fetched_at": "2024-08-07T16:14:32Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700IE",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙藤　大介",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼定式化された課題を解決するアルゴリズムを設計できる。\n▼設計したアルゴリズムを計算機上にプログラミングできる。\n▼適切な計算機シミュレーションにより、アルゴリズムを評価できる。",
+    "overview": "まず、定式化された課題を解くアルゴリズムを設計する。定式化された課題に指定はなく、学生自身が興味を持った課題、やってみたい課題を優先する。\n設計したアルゴリズムを計算機上にプログラミングする。使用するプログラミング言語はC言語またはC++言語の使用を想定している。\n高精度な計算機サーバを使用してシミュレーションを行う場合もある。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "アルゴリズム",
+            "プログラミング基礎",
+            "プログラミング演習"
+        ],
+        "brings": "ノートパソコン、筆記用具、ノート",
+        "other": ""
+    },
+    "evaluation_criteria": "課題解決に取り組む姿勢や貢献度、また習得した知識によって評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "試行錯誤を繰り返し、継続して課題解決・勉強を続けてください。\nこのゼミを通して問題解決能力とコミュニケーション能力を身に付けてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ゼミの進め方、アルゴリズムとプログラミングについて復習",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "2-5",
+            "content": "アルゴリズムとプログラミングの復習",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "6-21",
+            "content": "卒業研究、進捗状況報告",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "22-25",
+            "content": "卒業研究のまとめ、進捗状況報告",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "26-29",
+            "content": "卒業研究発表の準備、卒業研究のまとめ",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高藤大介"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業研究発表",
+            "methods": [],
+            "teachers": [
+                "高藤大介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

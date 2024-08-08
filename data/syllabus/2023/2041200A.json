@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-08T01:21:36Z",
+    "name_ja": "保育士特別セミナーⅡ",
+    "name_en": "Studying for Examination of Early Childhood Education and Care Ⅱ",
+    "syllabus_number": "2041200A",
+    "course_number": "05HS212",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "金子　幸",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "保育士試験では、子どもの育ちに関する基礎知識、子どもを取り巻く現代社会の状況、等、様々な内容が出題されます。本授業では、保育士試験の過去問題等を解答しながら、保育の基礎的な知識を身に付けることを目的とします。\n\n【到達目標】\n①保育士試験に合格するための基礎知識を修得する\n②保育士試験の過去問において、目標点数に達する",
+    "overview": "講義と演習を織り交ぜて授業を進めていきます。実際に出題された保育士試験の問題や予想問題を解答し、適宜、解説を行います。保育士特別セミナーⅠで学んだことを復習したうえで、授業には臨んでください。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "保育士特別セミナーⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "筆記用具、保育士特別セミナーⅠで指定した教科書",
+        "other": ""
+    },
+    "evaluation_criteria": "①保育士試験予想問題での得点、②学習計画に基づく学習の進捗状況",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 50,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 50,
+        "その他": 0
+    },
+    "message_from_teachers": "保育士特別セミナーⅡでは、保育士特別セミナーⅠで学んだ内容に関する実践問題を中心に授業を進めていきます。そのため、保育士特別セミナーⅠで学んだ内容を復習してから授業に臨むことが必須です。また、授業内で解答する問題だけでは十分に知識が定着するとは言い切れません。授業後は、問題集を活用するなどして、知識の定着に努めてください。\n\n【予習・復習について】\n予習…保育士特別セミナーⅠで学んだ内容の復習に加え、教科書の該当箇所を熟読しておくことを予習とします。\n復習…各自で準備した問題を解答し、知識の定着に努めることを復習とします。\n※予習・復習合わせて120分程度行ってください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "保育士試験の傾向について",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "過去問題解答と解説「保育原理」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "予想問題解答と解説「保育原理」\n過去問題解答と解説「教育原理」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "予想問題解答と解説「教育原理」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "過去問題解答と解説「子ども家庭福祉」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "予想問題解答と解説「子ども家庭福祉」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "過去問題解答と解説「社会福祉」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "予想問題解答と解説「社会福祉」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "過去問題解答と解説「社会的養護」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "予想問題解答と解説「社会的養護」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "過去・予想問題解答と解説「保育の心理学」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "過去・予想問題解答と解説「子どもの保健」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "過去・予想問題解答と解説「子どもの食と栄養」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "過去・予想問題解答と解説「保育実習理論」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ「保育士試験実力テスト」",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

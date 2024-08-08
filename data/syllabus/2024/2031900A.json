@@ -1,0 +1,218 @@
+{
+    "_fetched_at": "2024-08-07T17:02:36Z",
+    "name_ja": "グローバル企業分析",
+    "name_en": "",
+    "syllabus_number": "2031900A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【授業テーマ】本授業では，グローバル企業の経営戦略に関する基本理論を学びます。今日，市場や経済のグローバル化はたしかに進展する一方で，各国・各地域の相違も根強く存在します。このような経営環境において，グローバル企業にはいかなる戦略が必要なのか。この問題に関して，理論的・実践的に分析するための基本概念を学ぶことを目的とします。\n\n【到達目標】\n（１）グローバル企業の戦略に関する基本理論を理解し，活用できる。\n（２）グローバル企業の戦略を論理的かつ実証的に分析できる。",
+    "overview": "本講義は経営学の理論とモデルを活用して世界的競争力をもつグローバル企業に対するケーススタディを行う実践的な講義である。企業分析の際に必要な基礎理論、フレームワーク、分析のノウハウは教員が提供し、対象企業の選定、企業情報の調査、分析は受講者たちがディスカッションをしながらチームワークで行う。最後に各グループは分析結果について発表し、教員およびクラスメートの講評を受ける手続きを経て、成果物としてのレポートを提出する。このようにして、受講者は戦略、組織、マーケティング知識の応用・戦略的立案ができるようになるだけでなく、グローバリゼーションがどのように社会とビジネスに影響を与えるのかの説明もできるようになる。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "基本グループ発表を中心に行う。適宜発表テーマを変更することがある。"
+    },
+    "evaluation_criteria": "到達目標である：\n1．グローバル企業の戦略に関する基本理論を理解し，活用できる。\n2．授業で学んだ知識をもとに，グローバル企業の戦略を論理的かつ実証的に分析できる。 \n　上記１．～2．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "本授業の準備学習・復習時間は、各2時間を標準とします。\n特に，プレゼンテーションを担当する回は入念な準備が必要です。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "国際マーケットの展開",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "海外生産と経営資源の移転",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "国際研究開発のネットワーク",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "国際人的資源管理の変革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "現地化プロセス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "多様性のビズネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "M&Aと国際ビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "プロフェッショナル・サービスと国際ビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ツーリズムと国際ビジネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "EコーマスとEビズネス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "物流による小売業の変革",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "新興国企業の成長とグローバル化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "グローバル競争と新興国企業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

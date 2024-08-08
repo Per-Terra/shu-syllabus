@@ -1,0 +1,219 @@
+{
+    "_fetched_at": "2024-08-08T01:13:45Z",
+    "name_ja": "福祉行財政と福祉計画",
+    "name_en": "Administration and Planning of social welfare",
+    "syllabus_number": "2014500A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１）福祉の行財政の実施体制（国・都道府県・市町村の役割、国と地方の関係、財源、組織及び団体、専門職の役割を含む。）について説明できる。\n２）福祉行財政の実際について説明できる。\n３）福祉計画の意義や目的、主体、方法、留意点について説明できる。",
+    "overview": "本科目は社会福祉に関する行財政や様々な福祉計画について学ぶ科目である。福祉ソーシャルワークの実践に必要となる福祉の行財政の実施体制をはじめ福祉行財政の実際や福祉計画の意義や目的、主体、方法等を学修内容とする。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "よくわかる福祉行財政と福祉計画",
+            "year": 2018,
+            "author": "永田佑・岡田忠克編",
+            "publisher": "ミネルヴァ書房",
+            "price": 2860,
+            "isbn": "9784623066254",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "試験（100％）",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習・30分程度)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（授業計画と授業にあたっての留意事項）　\nソーシャルワーカーを目指す上で福祉行財政と福祉計画を学修する意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "福祉行政の実施体制 \n（国の役割 都道府県の役割 市町村の役割）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "福祉行政の実施体制 （国と地方の関係）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "福祉の財源（ 国の財源、地方の財源、保険料財源、民間の財源）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "福祉行政の組織及び団体の役割（福祉事務所）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "福祉行政の組織及び団体の役割（児童相談所）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "福祉行政の組織及び団体の役割（身体障害者更生相談所、知的障害者更生相談所、婦人相談所、地域包括支援センターなど）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "福祉行政における専門職の役割（福祉事務所の現業員、査察指導員、児童福祉司）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "福祉行政における専門職の役割（身体障害者福祉司、知的障害者福祉司等）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "福祉行財政の動向",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "福祉計画の意義と目的、福祉計画における住民参加の意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "福祉行財政と福祉計画の関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "福祉計画の主体と方法（福祉計画の主体と種類、計画過程、策定方法と留意点）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "福祉計画の実際①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "福祉計画の実際②\nまとめ、確認テスト",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

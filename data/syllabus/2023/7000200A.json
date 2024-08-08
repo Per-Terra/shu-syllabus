@@ -1,0 +1,218 @@
+{
+    "_fetched_at": "2024-08-08T01:22:57Z",
+    "name_ja": "教育原理",
+    "name_en": "Principles of Pedagogy",
+    "syllabus_number": "7000200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "教職科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "（１）「教育の理念並びに教育に関する歴史および思想」に関する基本的な知識を身につけることができた。\n（２）教育の意義と課題について思索できるようになった。",
+    "overview": "「教育の理念並びに教育に関する歴史および思想」について教授する。そして、現代の学校教育が抱える諸問題や実践例をめぐり、その背景にある社会状況及び教育の意義と課題を検討する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "『哲学する教育原理』",
+            "year": 2019,
+            "author": "伊藤潔志編著",
+            "publisher": "教育情報出版",
+            "price": 2497,
+            "isbn": "9784909378118",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "本講義の主要テーマである「教育理念や教育史の基礎的な知識の習得」、「教育の意義や課題についての考察力」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "教育の理念・歴史・思想について学んでいきましょう、また、現代の教育課題を視野に入れながら教育について考えていきましょう。授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション\n教育を基礎から考える（１）\nあらためて「教育とは何か」を考える（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "教育を基礎から考える（２）\nあらためて「教育とは何か」を考える（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "教育を基礎から考える（３）\nあらためて「子どもとは何か」を考える",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "教育を基礎から考える（４）\nあらためて「学校とは何か」を考える",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "教育の基礎となる、思想と歴史を学ぶ（１）\n西洋の教育思想（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "教育の基礎となる、思想と歴史を学ぶ（２）\n西洋の教育思想（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "教育の基礎となる、思想と歴史を学ぶ（３）\n日本の教育思想（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "教育の基礎となる、思想と歴史を学ぶ（４）\n日本の教育思想（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "哲学的思考の基本を学ぶ（１）\n「哲学する」とはどういうことなのか",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "哲学的思考の基本を学ぶ（２）\n教育と教師を哲学する",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "教育の現在を哲学する（１）\n教育課題を哲学する（アクティブ・ラーニング、道徳の教科化など）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "教育の現在を哲学する（２）\nグループ活動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "教育の現在を哲学する（３）\n現場と理論を結ぶ哲学（幼児教育・初等教育）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "教育の現在を哲学する（４）\n現場と理論を結ぶ哲学（中等教育）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "教育原理のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

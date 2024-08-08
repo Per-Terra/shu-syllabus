@@ -1,0 +1,216 @@
+{
+    "_fetched_at": "2024-08-07T17:10:36Z",
+    "name_ja": "福祉科教育法Ⅰ",
+    "name_en": "Educational Method for Welfare I",
+    "syllabus_number": "7001800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "藤田　久美",
+            "main": false
+        }
+    ],
+    "term": "集中",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n(i) 「福祉科」設立の歴史的背景、教科の目標と構成・内容を説明することができる。\n(ii) 教材研究の方法や、社会資源及び福祉施設との連携の方法について説明することができる。\n(iii)「福祉科」に限らず、高校生対象の福祉教育の意義と必要性を理解し、各教科や特別活動等、学校教育で取り組む福祉教育について理解を深め、他者に説明することができる。\n(iv)福祉科教諭に求められる資質について理解し、考察することができる。",
+    "overview": "福祉科教育法の意義を、福祉科成立の歴史的背景、教科の目標と内容構成の特質から探求し、福祉科教諭に求められる資質について考察する。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノート",
+        "other": "講義だけではなく、グループワークや事例検討などの演習も取り入れます。"
+    },
+    "evaluation_criteria": "到達目標に掲げた内容についての理解度等を、レポート60％、発表・実技20％、ポートフォリオ10％、その他10％によって評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 60,
+        "発表・実技": 20,
+        "ポートフォリオ": 10,
+        "その他": 10
+    },
+    "message_from_teachers": "生徒に福祉を「教える」「伝える」ことの意義を考察し、自らの福祉観と向き合ってみましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション：受講動機の確認、福祉を教える人のイメージ化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "学ぶ高校生の理解：学習対象者である高校生の理解を深める。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "福祉科教育の意義①：福祉教育の歩みと「福祉科」設置について理解する。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "福祉科教育の意義②：教科「福祉」の構成と教育内容について学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "福祉科の学習指導①：学習指導要領の内容を理解と学習指導案（例）を通して学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "福祉科の学習指導②：学習指導と能力育成について学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "福祉科の学習指導③：学習指導事例を通して考察する（演習）。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "福祉科の教育課程①：福祉科の教育課程の編成を学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "福祉科の教育課程②：福祉科の組織や科目の編成、指導計画の作成と内容。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "福祉科の教材研究①：学習教材の研究について学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "福祉科の教材研究②：社会福祉協議会や福祉施設と連携、地域の人的資源の活用について学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "福祉科の評価：福祉科の評価について学ぶ。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "福祉科授業の方法：福祉科授業の方法について演習を通して学ぶ。",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "高校生と福祉教育：現代社会を生きる高校生と福祉教育の意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "学びの総括：福祉科教諭に求められる資質について考察する。",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤田　久美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

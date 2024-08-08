@@ -1,0 +1,201 @@
+{
+    "_fetched_at": "2024-08-07T17:11:55Z",
+    "name_ja": "学校保健",
+    "name_en": "School Health",
+    "syllabus_number": "7004900A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "川﨑　裕美",
+            "main": false
+        }
+    ],
+    "term": "集中",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "学校における児童生徒、教職員の健康の保持増進に係る考え方、根拠、方略、教員の役割について教授する。\n教員として、教育を推進するための基盤としての健康を理解し、保持増進のための制度と役割が理解できる。",
+    "overview": "学校教員として必要な児童生徒の健康管理、学校安全の法的根拠、知識、技術、子どもの実態を教授する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めます。"
+    },
+    "evaluation_criteria": "小テスト、レポートの記述内容が講義の内容を反映し、学生の考えが表現されていること",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 70,
+        "レポート": 20,
+        "発表・実技": 10,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "集中講義ですので、一日の欠席が単位取得に係ることがあります。しっかり体調管理してください。\n毎回、学習内容に関する予習・復習にを合計60分程度実施すること。",
+    "schedule": [
+        {
+            "session": "１回",
+            "content": "学校教育と学校保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "２回",
+            "content": "学校保健と学校安全",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "３回",
+            "content": "教育とヘルスプロモーションの考え方",
+            "methods": [],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "４回",
+            "content": "子どもの発育・発達",
+            "methods": [],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "５回",
+            "content": "子どもの行動特性と発達上の課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "６回",
+            "content": "子どもの疾病と予防",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "７回",
+            "content": "健康診断の意義と方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "８回",
+            "content": "健康相談の方法と役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "９回",
+            "content": "保健教育の役割、保健指導との関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１０回",
+            "content": "保健指導の方法と役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１１回",
+            "content": "心の健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１２回",
+            "content": "特別な配慮を必要とする児童生徒、医療的ケアへの対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１３回",
+            "content": "子どもの生活習慣と自律",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１４回",
+            "content": "学校保健における養護教諭の役割と教員連携",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        },
+        {
+            "session": "１５回",
+            "content": "学校保健経営の在り方、多職種連携",
+            "methods": [],
+            "teachers": [
+                "川﨑　裕美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

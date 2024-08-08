@@ -1,0 +1,379 @@
+{
+    "_fetched_at": "2024-08-07T16:12:30Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600SE",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1．論文を読解できる\n2．研究遂行に求められる動作解析の方法を身につける\n3．研究計画を立案できる",
+    "overview": "おもに運動・スポーツ関連の論文抄読を行い，専門分野への理解を深める．また，実験器具の扱いを学び，実際の測定から分析，考察を通して．研究のすすめ方を理解する．その後，自ら運動・スポーツに関する課題を設定し，課題解決に向けた計画を立案する．",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP1"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "研究の育て方ーゴールとプロセスの「見える化」",
+            "year": 2018,
+            "author": "近藤克則",
+            "publisher": "医学書院",
+            "price": 2750,
+            "isbn": "978-4-260-03674-0",
+            "available_on_campus": false
+        },
+        {
+            "title": "論文の教室　レポートから卒論まで",
+            "year": 2012,
+            "author": "戸田山和久",
+            "publisher": "NHK出版",
+            "price": 1320,
+            "isbn": "978-4-14-091194-5",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "授業内で課されるレポートや発表をもとに評価する",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 70,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "専門分野への知識を深め，自らが興味関心のある内容をさらに追及していきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "研究のゴールと研究プロセス",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "よい研究の条件",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "研究の種類と選択",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "研究テーマの育て方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "研究構想・デザイン・計画",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "文献を収集する①オンライン",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "文献を収集する②図書館",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "文献を読む①事例研究",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "文献を読む②原著論文",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "文献を読む③総説論文",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "文献を読む④学術書",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "問いを立てる",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "問いについて討議する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "問いを決定する",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "動作解析の実践①撮影方法の理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "動作解析の実践②撮影の実践",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "動作解析の実践③デジタイズ方法の理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "動作解析の実践④デジタイズの実践",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "動作解析の実践⑤結果の解釈",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "動作解析の実践⑥結果の考察",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "研究テーマの立案",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "研究テーマに関する討議",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "研究テーマの決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "研究計画書の作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究計画書の推敲",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究計画書の完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究計画発表の準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "研究計画発表のリハーサル",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "研究計画発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

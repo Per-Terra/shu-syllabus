@@ -1,0 +1,207 @@
+{
+    "_fetched_at": "2024-08-08T00:59:43Z",
+    "name_ja": "地域ゼミⅡ",
+    "name_en": "",
+    "syllabus_number": "1011800I",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "「地域ゼミ」では、地域の課題を取り上げその解決を目的とした課題解決型実習（PBL）に取り組む。高齢者支援、デジタルデバイド解消をテーマとしているが、実習の過程において自由に課題設定することも可とする。",
+    "overview": "久米地区社会福祉協議会、徳山高専と共催するタブレット講習会に参加する。また、講習会参加を通して高齢者の方々との交流を深め、高齢者支援に関する問題点を自分たちで見つけ出し、その解決策を考える。授業時間外の活動を含むため、具体的なスケジュールは参加者と相談して決定する。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "下記の項目を、レポート(20%)、発表・実技(40%)、出席(40%)を総じて評価し、概ね6割以上達成している者を合格とする。\n(i) 必要とされている実習ができ、高齢者と触れ合うことができた。\n(ii) 高齢者と触れ合うことで、地域の課題を発見した。\n(iii) 発見した課題に対して、解決策を提言することができた。\n(iv) 解決策を実施できた。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "15回分のシラバスを作成していますが、実際は授業時間外の活動がメインとなり、全15回に相当する実習計画を立ててもらいます。徳山高専の学生、久米地区社会福祉協議会の方々と具体的なスケジュールを行うことから実習が始まります。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "実習計画作成①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "実習計画作成②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "実習①活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "実習②活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "実習③活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "実習④活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "実習⑤活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "実習⑥活動報告と活動の検討",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "実習経験をもとにした課題発見",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "課題解決方法の議論",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "発表準備①",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "発表準備②",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "発表準備③",
+            "methods": [],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "他ゼミと共同の成果報告会",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

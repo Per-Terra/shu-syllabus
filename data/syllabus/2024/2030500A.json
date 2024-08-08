@@ -1,0 +1,218 @@
+{
+    "_fetched_at": "2024-08-07T17:02:05Z",
+    "name_ja": "アジアビジネス論",
+    "name_en": "",
+    "syllabus_number": "2030500A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【授業のテーマ】\nつい最近までは、国際的な競争力を持ったアジアの製造業企業といえば日本企業のみであった。しかしながら現在では台湾、韓国といった日本以外のアジア企業の国際的な活躍が目覚しい。\nこの授業では、日本・アジアNIEsと中国に焦点を当て講義する。現在、他のアジア企業は、日本企業のライバル、あるいはパートナーとして無視できない存在となっている。こうした意味から、アジア企業の特徴を把握し、アジアビジネス展開する際の直面する課題を理解しておくことは非常に重要である。\n【到達目標】\n（１）アジアビジネスについて基本的な知識を学ぶ。\n（２）アジア企業成長の要因について理解する。\n（３）アジアの政治・経済・文化的環境を知るうえ、企業の海外進出をする際に、アジアの市場を分析できる。",
+    "overview": "本講義は、アジアのリーディング企業の競争力を構成する諸要因について、国ごと産業ごとの違いを知るとともに共通性や普遍的なロジックがあることを理解することを目標としている。具体的には、日本、中国、韓国、台湾の４カ国・地域が強い国際競争力をもつ７つの産業を取り出し、主として２０００年代前半における国際分業の構造の変動の事実関係とその担い手である主要企業の競争優位の諸要因について学ぶ。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "テキストはなし。毎回レジュメを配布する。適宜内容を変更することがある。"
+    },
+    "evaluation_criteria": "到達目標である：\n１．アジアビジネスについて基本的な知識を理解できる。\n２．アジア企業成長の要因について理解できる。\n３．企業の海外進出をする際に、アジアの市場を分析できる。\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "【準備学習】段階的に講義を進めていくので、毎回、前回のレジュメやノートを参照に復習をしてから講義に臨むこと。（約2時間）\n【事後学習】各回の終了後に講義の要点を整理・要約しておくこと。 （約２時間）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "イントロダクション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "アジアとは：生産するアジアと消費するアジア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "日本企業の直接投資の歴史と現況",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "日本型生産システム1：概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "日本型生産システム2：サプライヤー関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "台湾系企業の構造",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "台湾系中小企業分業ネットワーク論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "台湾企業の海外進出",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "韓国財閥1",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "韓国財閥2",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "中国企業の発展：キャッチダウン戦略",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "中国デジタルイノベーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "中国企業の強みと弱み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "BOP市場とアジア企業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,228 @@
+{
+    "_fetched_at": "2024-08-08T01:18:14Z",
+    "name_ja": "地域福祉と包括的支援体制Ⅱ",
+    "name_en": "Community　Welfare  and  Inclusive Support  System",
+    "syllabus_number": "2027900A",
+    "course_number": "05SW305",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "福祉情報学部",
+    "requirements": "選択科目",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本科目では、地域福祉計画をはじめとした福祉計画の意義・目的及び展開について解説する。また、包括的支援体制の考え方と、多職種及び多機関協働の意義と実際について説明する。さらに、地域生活課題の変化と現状を踏まえ、包括的支援体制における社会福祉士の役割を提示する。到達目標は以下の通りである。\n①包括的支援体制の考え方を説明することができる。\n②多職種及び多機関協働の意義と実際について説明することができる。\n③地域生活課題の変化と現状を踏まえ、包括的支援体制における社会風刺詩の役割を説明することができる。",
+    "overview": "本科目では、複雑化・多様化する福祉課題に向き合うために、包括的支援体制と地域福祉の考え方を学ぶとともに、それらを推進する上で欠かせない福祉行財政と福祉計画を理解する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [
+        {
+            "title": "地域福祉と包括的支援体制",
+            "year": 2021,
+            "author": "日本ソーシャルワーク教育学校連盟",
+            "publisher": "中央法規出版",
+            "price": null,
+            "isbn": "978-4-8058-8236-8",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "地域福祉と包括的支援体制Ⅰ"
+        ],
+        "brings": "教科書",
+        "other": ""
+    },
+    "evaluation_criteria": "①包括的支援体制の理解\n②多職種及び多機関の協働の理解\n③福祉行財政と福祉計画の理解\n④社会福祉士の役割の理解",
+    "evaluation_ratio": {
+        "試験": 80,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "地域共生社会の実現に向けて、地域社会で暮らしたり、働いたり、学んだりしている多様な人たちとともに、ソーシャルワーカーは何をすべきかを考えてください。授業にさんかするにあたっては次回の授業内容を参照し、教科書の該当箇所を通読しておくこと（予習30分程度A)。授業後は専門用語の整理をしておくこと（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "第１回",
+            "content": "オリエンテーション：授業の進め方\n包括的支援体制の考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第2回",
+            "content": "地域包括ケアシステムの考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第3階",
+            "content": "地域包括ケアシステムの実際",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第4回",
+            "content": "生活困窮者自立支援制度と理念",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第5回",
+            "content": "伴走型の支援と対象者横断支援的な包括的相談支援",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第6回",
+            "content": "子育てや障害領域を対象とする包括的な相談支援体制",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第7回",
+            "content": "地域福祉ガバナンスの考え方",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第8回",
+            "content": "地域福祉ガバナンスを進める協議の場の形成と運営",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第9回",
+            "content": "多機関協働を促進する仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第10回",
+            "content": "多機関協働の実際",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第11回",
+            "content": "非常時や災害時における法制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第12回",
+            "content": "非常時や災害時における総合的かつ包括的な支援",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第13回",
+            "content": "地域共生社会の構築",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第14回",
+            "content": "地域共生社会の実現に向けた各種施策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "session": "第15回",
+            "content": "地域共生社会の実現に向けた取り組みの実際",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

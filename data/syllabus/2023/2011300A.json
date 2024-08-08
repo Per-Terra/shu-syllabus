@@ -1,0 +1,220 @@
+{
+    "_fetched_at": "2024-08-08T01:05:55Z",
+    "name_ja": "スポーツ医学",
+    "name_en": "Sports Medicine",
+    "syllabus_number": "2011300A",
+    "course_number": "04BM205、05LS212",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "小野　高志",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①スポーツ医学に関する基礎的な知識を理解できる。\n②知識を理解するだけでなく、傷害や疾病の予防、対策のために実践的に応用できる。",
+    "overview": "競技者あるいはスポーツの指導者として、場合によっては健康づくりの仕事に従事する者に必要となる、スポーツ医学の基本的な知識を習得する。",
+    "corresponding_diploma_policies": [
+        "知識及び技能の習得",
+        "思考力・判断力・表現力等の養成",
+        "主体性・多様性・協調性の養成",
+        "地域貢献に関する意識の醸成"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "解剖学",
+            "生理学"
+        ],
+        "recommended_courses": [
+            "体力トレーニング論",
+            "救急処置法"
+        ],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 10,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "スポーツ医学の知識は、競技者あるいはスポーツ指導者、健康づくりの仕事に従事する者にとって必須となります。日常生活や競技場面とリンクさせて考え、実践的に応用できるようになってください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "スポーツ医学概論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "アンチドーピング（ドーピング・コントロールを含む）①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "アンチドーピング（ドーピング・コントロールを含む）②",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "スポーツ外傷・障害①　急性外傷",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "スポーツ外傷・障害②　慢性障害",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "アスレティックトレーニング計画",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "発育発達期に多いケガや病気",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "テーピングの原理と必要性",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "熱中症予防のための運動指針について",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "アスリートの内科的障害と対策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "アスリートの精神的障害と対策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "特殊環境下での対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "コンディショニングの手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アスリートの健康管理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "スポーツ指導上の安全対策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　高志"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "これまでの教育研究機関や競技スポーツ現場（サッカー、水泳、アイスホッケー、スキー・スノーボード等）における教育者・研究者・指導者としての経験を通し、科学と実践との相互フィードバックがどのようにして成されているかについて、実例を交えて解説する。"
+}

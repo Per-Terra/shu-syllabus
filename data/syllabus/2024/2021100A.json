@@ -1,0 +1,245 @@
+{
+    "_fetched_at": "2024-08-07T16:32:40Z",
+    "name_ja": "マルチメディア論",
+    "name_en": "Lecture of Multimedia",
+    "syllabus_number": "2021100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "本学の教育目標における［２］世界的視野と広く豊かな教養を有する人材の育成を意図した授業です。マルチメディアの理解を深め、さらに実践によりマルチメディア技術を使って自分が何を表現できるのかを体験を通じて学ぶことが出来ます。\n（ⅰ）講義の理解\n（ⅱ）実習結果",
+    "overview": "マルチメディアとは何か、その発展の歴史と定義の変遷を学びます。\nまた、マルチメディア技術で何が出来るのかを紹介します。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "経営コースDP2",
+        "経営コースDP3",
+        "知財開発コースDP2",
+        "知財開発コースDP3",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "入門マルチメディア[改訂新版]",
+            "year": 2018,
+            "author": "入門マルチメディア［改訂新版］編集委員会",
+            "publisher": "公益財団法人画像情報教育振興協会",
+            "price": 2970,
+            "isbn": "978-4-9034-7460-1",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "（ⅰ）講義の理解　（ⅱ）実習結果\n上記、（ⅰ）および（ⅱ）に関する理解度を試験50％、実技30％、課題20％で評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "マルチメディア技術を使った様々な表現方法を体験してみましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "マルチメディアとは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "マルチメディアの歴史と定義の変遷",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "デジタルとは",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "様々なマルチメディア表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "2D画像基礎",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "2D画像の表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ビットマップ画像編集ソフトとは",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "ビットマップ画像編集ソフトによるフォトレタッチ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ベクターイメージ編集ソフトとは",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ベクターイメージ編集ソフトによるデザインとレイアウト",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "文字と書体",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "色の基礎知識とデジタル配色ツール",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "3D画像基礎",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "3D画像の表現",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

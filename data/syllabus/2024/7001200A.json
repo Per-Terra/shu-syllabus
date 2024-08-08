@@ -1,0 +1,256 @@
+{
+    "_fetched_at": "2024-08-07T17:10:19Z",
+    "name_ja": "商業科教育法Ⅰ",
+    "name_en": "Educational Method for Commercial Course I",
+    "syllabus_number": "7001200A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "福原　道照",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）商業教育の必要性・意義・歴史について説明できる。\n（２）学習指導要領（商業）の内容について説明できる。\n（３）商業科の教育課程の編成と実施について説明できる。\n（４）商業教育とキャリア教育・生徒指導の関連性が説明できる。",
+    "overview": "高等学校教諭免許状「商業」取得のために、商業教育に必要な基礎的資質を身につけることを目的として理論的・実践的学修を行う。講義内容は、①商業教育の必要性・意義・歴史　②学習指導要領（商業）の内容　③商業科の教育課程の編成と実施　④商業教育とキャリア教育・生徒指導である。本講義の学修を通して、商業教育に関する理解を深め、高等学校学習指導要領教科商業に基づく学習指導や、高等学校生徒の資質・能力の育成に係る知識を身につけるとともに、ビジネスの諸活動に主体的に取り組むために必要なコミュニケーション能力を身につけることができる。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "高等学校学習指導要領（平成30年告示）解説　商業編",
+            "year": 2019,
+            "author": "文部科学省",
+            "publisher": "実教出版",
+            "price": 818,
+            "isbn": "978-4-407-34863-7",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "教職必修　最新商業科教育法　新訂版　平成25年度実施カリキュラム対応",
+            "year": 2016,
+            "author": "日本商業教育学会　編著",
+            "publisher": "実教出版",
+            "price": 2420,
+            "isbn": "978-4-407-32265-1",
+            "available_on_campus": false
+        },
+        {
+            "title": "商業科教育論　21世紀の商業教育を創造する",
+            "year": 2019,
+            "author": "日本商業教育学会　編",
+            "publisher": "実教出版",
+            "price": 2640,
+            "isbn": "978-4-407-34457-8",
+            "available_on_campus": false
+        },
+        {
+            "title": "商業科教育法 ―理論と実践―",
+            "year": 2021,
+            "author": "笠木秀樹　編著",
+            "publisher": "東京法令出版",
+            "price": 2640,
+            "isbn": "978-4-8090-6404-3",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "教科書、ノートパソコン",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "(ⅰ)商業教育の必要性・意義・歴史についての理解\n(ⅱ)学習指導要領（商業）の内容についての理解\n(ⅲ)商業科の教育課程の編成と実施についての理解\n(ⅳ)商業教育とキャリア教育・生徒指導についての理解",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "教員は、やり甲斐のある魅力的な職業です。教壇に立つために意欲的に取り組みましょう。\n【予習・復習について】\n　予習：授業回の１・３・５・７・９・１１・１２・１４は、授業の内容について事前に調べておく。（120分程度）\n　復習：授業回の２・４・６・８・１０・１３・１５は、授業の内容についてまとめる。（120分程度）",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "商業教育の必要性・意義（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "商業教育の必要性・意義（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "商業教育の歴史（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "商業教育の歴史（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "学習指導要領（商業）の変遷（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "学習指導要領（商業）の変遷（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "学習指導要領（商業）の内容）[商業科の目標、商業科の内容構成]（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "学習指導要領（商業）の内容）[商業科の目標、商業科の内容構成]（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "学習指導要領（商業）の内容）[商業科の各科目の目標、商業科の各科目の内容とその取扱い]（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "学習指導要領（商業）の内容）[商業科の各科目の目標、商業科の各科目の内容とその取扱い]（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "商業科の教育課程の編成と実施",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "商業教育とキャリア教育（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "商業教育とキャリア教育（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "商業教育と生徒指導（１）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "商業教育と生徒指導（２）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福原　道照"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

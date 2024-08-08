@@ -1,0 +1,377 @@
+{
+    "_fetched_at": "2024-08-07T15:55:41Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600EM",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n①コーポレートファイナンスに関する基本的な考え方について理解できる。\n②基礎的な統計解析をできるようにする。",
+    "overview": "本ゼミでは、企業の資金調達や投資活動などのコーポレートファイナンス領域について学習する。また、自ら課題を設定し、論文作成に向けた研究計画書を作成する。なお、コーポレートファイナンスの学習においては、基礎的な計量経済学の知識を習得する必要があるため、基礎的な計量経学も併せて学習する。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "新・企業価値評価",
+            "year": 2017,
+            "author": "伊藤邦雄",
+            "publisher": "日本経済新聞社",
+            "price": 4400,
+            "isbn": "978-4532915186",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "ファイナンス論",
+            "ミクロ経済学Ⅰ",
+            "ミクロ経済学Ⅱ",
+            "金融論",
+            "マクロ経済学Ⅰ",
+            "マクロ経済学Ⅱ"
+        ],
+        "brings": "電卓、パソコン、筆記具",
+        "other": "なし"
+    },
+    "evaluation_criteria": "文献講読においてのレジュメの作成・発表：50％\n研究計画書の作成：50％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "コーポレートファイナンスの知識の習得は、金融機関や一般企業の財務部などの就職を希望する学生諸君にとって、就職活動中および就職後において極めて有益である。なお、履修の際には、教員の指示に従って、効率的に学習するための計画を立てることが重要である。本講義を受ける前と後においては、テキストを熟読すること（1～2時間程度）。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション\n　（本授業の進め方について）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "文献講読（コーポレートファイナンス）①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "文献講読（コーポレートファイナンス）②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "文献講読（コーポレートファイナンス）③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "文献講読（コーポレートファイナンス）④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "文献講読（コーポレートファイナンス）⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "文献講読（コーポレートファイナンス）⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "文献講読（コーポレートファイナンス）⑦",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "文献講読（コーポレートファイナンス）⑧",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "文献講読（コーポレートファイナンス）⑨",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "文献講読（コーポレートファイナンス）⑩",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "研究計画書の作成の準備　①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "研究計画書の作成の準備　②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "研究計画書の作成の準備　③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "研究計画書の作成の準備　④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "文献講読（統計・計量経済学）①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "文献講読（統計・計量経済学）②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "文献講読（統計・計量経済学）③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "文献講読（統計・計量経済学）④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "文献講読（統計・計量経済学）⑤",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "文献講読（統計・計量経済学）⑥",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "文献講読（統計・計量経済学）⑦",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "文献講読（統計・計量経済学）⑧",
+            "methods": [],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "文献講読（統計・計量経済学）⑨",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "文献講読（統計・計量経済学）⑩",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "研究計画書の作成　①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "研究計画書の作成　②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "研究計画書の作成　③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "研究計画書の作成　④",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "本授業のまとめ・次年度に向けた準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。\n・授業は職務経験を踏まえ行う。"
+}

@@ -1,0 +1,208 @@
+{
+    "_fetched_at": "2024-08-08T01:00:09Z",
+    "name_ja": "地域ゼミⅡ",
+    "name_en": "",
+    "syllabus_number": "1011800S",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①活動する地域の現状やニーズを理解し説明することができる\n②ゼミ活動を通じて解決すべき課題について説明することができる\n③課題解決へ向けて計画を立て、協力して行動することができる\n④活動を総括し、活動の成果・意義を発信することができる",
+    "overview": "「地域ゼミ」は、学生が主体となって地域の身近な問題を見つけその解決に向けて取り組むことで「課題対応力」の向上をめざす課題解決型学習（PBL）です。このゼミでは学校における運動部活動のパフォーマンス向上を目ざして、練習プログラムを考案し、実際に部活動のなかでの指導まで行います。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "活動への貢献や報告内容をもとに評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "どうすればスポーツを通じて社会に貢献できるでしょうか？一緒に考えていきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "プロジェクトの説明",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "地域課題の発見",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "課題解決方法の計画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "課題解決方法の試行",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "課題解決方法の修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "プログラムの実施①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "活動の評価と修正①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "プログラムの実施②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "活動の評価と修正②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "プログラムの実施③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "活動の評価と修正③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "活動の振り返り",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "活動報告の作成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "活動報告の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

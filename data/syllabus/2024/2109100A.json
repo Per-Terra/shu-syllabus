@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2024-08-07T17:08:16Z",
+    "name_ja": "法律学Ⅰ（2023年度以前入学者：法律学概論Ⅰ）",
+    "name_en": "",
+    "syllabus_number": "2109100A",
+    "course_number": "1",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "type": "総合科目、専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "※設定中",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "水野　陽一",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n（１）法学（公法分野）に関する基本知識が身についた。\n（２）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（３）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "overview": "本講義では、法学の基礎について簡単に説明した上で、主に公的分野においてどのように法律が適用されているかを見ていく。犯罪が起こった、容疑者が逮捕された、有罪になったというニュースをよく見るが、犯罪とはなにか、裁判とは何か、有罪ってなんなのか、ということを本講義では説明する。また、就職後に重要となる労働法についても扱う。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "図録 法学入門",
+            "year": 2024,
+            "author": "著者 \t堀口　悟郎 編著 斎藤　一久 編著",
+            "publisher": "弘文堂",
+            "price": 2750,
+            "isbn": "978-4-335-35961-3",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "※2023（令和5）年度入学生までにおける「法律学概論Ⅰ」の読替科目です。"
+    },
+    "evaluation_criteria": "（i）法学（公法分野）に関する基本知識が身についた。\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "主体性をもって講義に参加することを望みます。\n　法律は主専攻ではないので、予習よりも復習を心がけましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法の種類：公法と私法、実体法と手続法、成文法と不文法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "法の適用、法の解釈",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "憲法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "労働法１－－－法定労働時間－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "労働法２―労働条件",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "刑法総論１――構成要件該当性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "刑法総論２――違法性、有責性",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "刑法総論３――未遂犯、共犯",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "刑法各論１――犯罪の種類：身体に対する罪－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "刑法各論２－－－犯罪の種類：財産犯－－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "刑事訴訟法１－－－刑事手続の目的－－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "刑事訴訟法２－－－裁判官・弁護人・検察官－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "刑事訴訟法３－－－犯罪捜査－－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "刑事訴訟法４－－－刑事裁判－－－",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水野陽一"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

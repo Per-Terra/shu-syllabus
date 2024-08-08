@@ -1,0 +1,212 @@
+{
+    "_fetched_at": "2024-08-08T00:58:42Z",
+    "name_ja": "地域ゼミⅠ",
+    "name_en": "Seminar for Community Revitalization Ⅰ",
+    "syllabus_number": "1011700I",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "鏡　裕行",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "「地域ゼミ」は、学生が主体となって地域の身近な問題を見つけ、その解決に向けて取り組む課題解決型学習（PBL）である。本ゼミでは、周南市の地域の方々のご協力のもと、周南市の魅力を再考しその発信に向けて活動する。\n周南市には温泉資源、自然環境といった観光資源が多くある一方、その魅力が十分周知されていないと思われる側面がありそうである。\n本ゼミでは、湯野、金峰、四熊などの観光資源の魅力を再発見し、さらに魅力的なものにしていきつつ魅力を周知していく方法について、実践を通じて考察していく。",
+    "overview": "周南市の地域の方々とともに、周南市の観光資源について調査し、魅力を再発見し、さらに魅力的なものにしていきつつ、魅力を周知していく方法について議論していく。\n湯野温泉、金峰の里、四熊のあじさい園をフィールドとし、主に土日等の休日の半日～1日を使って、各フィールドでの活動を行う。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "教養ゼミ",
+            "EQトレーニングＩ"
+        ],
+        "brings": "筆記用具、PC",
+        "other": ""
+    },
+    "evaluation_criteria": "(i) 周南市の魅力ある観光資源について説明でき、魅力を再発見し、さらに魅力的なものにしていきつつ、魅力を周知していく課題を考えることができる、(ii)周南市の観光資源の魅力の向上、発信のために提案し、その実現に向けて行動することができる、(iii) 問題発見・解決のための一連の活動を他者に報告・説明できることについて、「学生に対する評価」の内容で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "地域の方々から学びながら、周南市の温泉資源について考察し、魅力ある提案をしていきましょう。各フィールドでの活動前に事前調査を実施し、活動後には活動内容をまとめること（それぞれ1時間程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、自己紹介",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "金峰の里での実地調査(1)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "金峰の里での実地調査(2)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "金峰の里での実地調査(3)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "四熊あじさい園での実地調査(1)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "四熊あじさい園での実地調査(2)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "四熊あじさい園での実地調査(3)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "湯野温泉での実地調査(1)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "湯野温泉での実地調査(2)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "湯野温泉での実地調査(3)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "金峰の里での実地調査(4)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "金峰の里での実地調査(5)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "金峰の里での実地調査(6)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "課題解決の取り組みの成果のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "発表会、まとめ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "鏡　裕行"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

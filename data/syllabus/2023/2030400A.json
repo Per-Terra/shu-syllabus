@@ -1,0 +1,229 @@
+{
+    "_fetched_at": "2024-08-08T01:19:10Z",
+    "name_ja": "CG入門Ⅱ(a)(b)",
+    "name_en": "",
+    "syllabus_number": "2030400A",
+    "course_number": "03CG102、05HS104",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "選択科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "久保　俊介",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "本学の教育目標のうち、とりわけ[1]「主体性を持った意欲ある人材を育成する」こと、および[3]「現実的な\n知識と手法を備え、問題解決能力を持った人材を育成する」ことに寄与する授業科目である。積極的に授業に\n参加し、実習を行うことによって、積極性を持った意欲ある人材に育成し、CGに関する知識と技能を身につ\nけ、問題の発見と解決の能力を持った人材の育成に関する授業である。",
+    "overview": "現在の商業デザイン、アニメーション、マンガは、その制作のほとんどがコンピュータに依存している。この\n講義では現在グラフィックコンピュータのベーシックといわれているソフトを使用しながら、実践で通用する\nCGの基礎知識を学びます。同時にデザイン感覚、アニメーションの制作の基本を学びながら、作品と制作して\nいきます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "CG入門Ⅰ"
+        ],
+        "recommended_courses": [],
+        "brings": "USBフラッシュメモリ（データ保存用）",
+        "other": ""
+    },
+    "evaluation_criteria": "コンピュータグラフィックスの基礎を身につける\nデジタルコンテンツの制作スキルを身につけアウトプットが出来る",
+    "evaluation_ratio": {
+        "試験": 40,
+        "小テスト": 30,
+        "レポート": 0,
+        "発表・実技": 30,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "２年時以降のCG関連の講義を受講する前にはこの講義が必修になります。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "デジタル制作が尾用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "写真合成演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "合成演習課題",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "画像加工と八埋込",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "タイポグラフィ",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "グラフィックデザイン",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "イラスト制作",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "イラスト制作実践",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "構成演習",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "ペンを使った描き文字",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "ロゴタイプデザイン",
+            "methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "複合制作①",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "複合制作②",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "試験課題",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "講評",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "久保　俊介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+}

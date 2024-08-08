@@ -1,0 +1,208 @@
+{
+    "_fetched_at": "2024-08-08T00:57:02Z",
+    "name_ja": "情報リテラシーⅠ",
+    "name_en": "Information Literacy I",
+    "syllabus_number": "1006100A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "必修科目",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "中嶋　克成",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "当授業科目の目標は、本学が掲げている３つの教育目標（教養教育の目標）すべての達成に寄与することにあります。特に現代の行動に発達した情報化社会において必要不可欠となるICTの基礎スキルの習得を目指します。",
+    "overview": "情報化社会に代表される現代社会では、ICTスキルは必須のものとなります。すなわち、ICTを活用した情報の受信・発信、あるいは情報の取捨選択などです。\n\n周南公立大学では、2009年度からサイバーキャンパスを構築に着手し、キャリア形成支援カルテ（CASK）、e-ラーニングシステムの完備（WebClass）、学内無線LANの整備、個人用PCの配布、などに取り組んできました。\n\nこのような教育・学習環境にあって、本学必修科目「情報リテラシーⅠ」はICTを活用し電子資料を作成するということにねらいを置きます。具体的にはWordとPowerPointを活用し、前者は文書作成、後者は発表資料の作成です。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "(i) ノートPC、教務システム（CASK）、LMS（WebClass）、の基本操作ができる。\n\n(ii) Wordを活用して基本的な文書を作成できる。\n\n(iii) PowerPointを使用して、発表資料を作成でき、プレゼンを行うことができる。",
+    "evaluation_ratio": {
+        "試験": 30,
+        "小テスト": 0,
+        "レポート": 20,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "本授業は反転授業形式を採用します。すなわち、1週間前には事前学習用ビデオを配信しそれを視聴してから、その知識を前提に教室では確認学習と応用学習を行います。これを反転授業といいます。事前学習（ビデオ視聴）を行わないと教室授業での理解が低下するので注意してください。\n\nなお、教室授業では配布したノートPCを毎回必ず持参してください。加えてPCは毎回フル充電しておくことを要します。\n\n※授業の内容については受講生の進度や興味にしたがって変更する場合があります。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション。WindowsノートPCの配布。無線LANの設定および、LMSとCASKのログオン。各利用方法説明。出席管理と、授業での学習の進め方の説明",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "Windows10とPCの利用法全般。タイピング練習ソフトのダウンロード。\n\nタッチタイピング基本とローマ字かな入力。\n\n達成度のLMSへの報告。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "E-メールの文作成と基本操作。\n\nメーラーおよびWEBメールの設定と機能。\n\n送受信確認と、メール文作成演習。スマホアプリ設定。情報倫理とセキュリティ①。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "文書整形①（日本語変換と文書の入力、音節区切り、ファンクションキーの利用、フォントとフォントサイズの変更、文字の配置、インデント、タブとリーダー）\n\n→練習問題1",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "文書整形②（箇条書き、段組み、図と写真の挿入、縦書きと横書きとテキストボックス）\n\n→練習問題2",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "文書整形③図形の活用と編集。ワードアート。地図の作成。\n\n→練習問題3",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "文書整形④地図の作成の続き。\n\n個人情報取り扱いについて。\n\n→練習問題4",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "プレゼンテーションソフトの活用①\n\nPPTソフトの基本操作、スライド作成基礎。\n\n→練習問題5",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "プレゼンテーションソフトの活用②\n\nスライドマスター、スライド作成。\n\n→練習問題6",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "プレゼンテーションソフトの活用③\n\nスライド作成続き→完成\n\n（テーマ：自己紹介）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "プレゼンテーション実行\n\nグループ内及びクラスで発表。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "ネットワーク基礎\n\nネットワークの設定とプリンタ設定。\n\n作成物の印刷練習。\n\n情報倫理とセキュリティ②。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "文書整形④\n\n差し込み印刷と名刺作成。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "文書作成⑤\n\n作成した名刺の印刷。名刺交換ゲームとビジネスマナー。\n\nテンプレートの活用とチラシの作成。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "授業の総括とまとめ\n\nWordを使用したレポート作成。",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}
