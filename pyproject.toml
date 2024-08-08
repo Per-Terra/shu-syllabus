@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shu_syllabus"
+version = "0.1.0"
+authors = [{ name = "per-terra" }]
+description = "This is a package for scraping the syllabus of Shunan University."
+readme = "README.md"
+requires-python = ">=3.10" # union types as X | Y is used (PEP 604)
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["beautifulsoup4", "requests"]
+
+[project.urls]
+Homepage = "https://github.com/Per-Terra/shu-syllabus"
+
+[tool.setuptools]
+include-package-data = true
