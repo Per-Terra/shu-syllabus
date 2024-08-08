@@ -17,7 +17,9 @@ def main(nendo: str) -> None:
 
             json_data.append(json_content)
 
-    file_path = os.path.join(os.path.dirname(__file__), f"syllabus/{nendo}.json")
+    file_path = os.path.join(
+        os.path.dirname(__file__), f"../src/shu_syllabus/data/syllabus/{nendo}.json"
+    )
 
     with open(file_path, "w") as file:
         json.dump(json_data, file, ensure_ascii=False)
