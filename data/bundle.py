@@ -6,23 +6,25 @@ from typing import Any
 
 def main(nendo: str) -> None:
     directory = os.path.join(os.path.dirname(__file__), f"syllabus/{nendo}")
-    json_data: list[Any] = []
+    syllabuses: list[Any] = []
 
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
             file_path = os.path.join(directory, filename)
 
             with open(file_path, "r") as file:
-                json_content = json.load(file)
+                syllabus_data = json.load(file)
 
-            json_data.append(json_content)
+            syllabuses.append(syllabus_data)
+
+    syllabuses.sort(key=lambda syllabus: syllabus["syllabus_number"])
 
     file_path = os.path.join(
         os.path.dirname(__file__), f"../src/shu_syllabus/data/syllabus/{nendo}.json"
     )
 
     with open(file_path, "w") as file:
-        json.dump(json_data, file, ensure_ascii=False)
+        json.dump(syllabuses, file, ensure_ascii=False)
 
 
 if __name__ == "__main__":
