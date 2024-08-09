@@ -89,10 +89,6 @@ class SyllabusSearch(AAA):
             ValueError: If the server redirects to an error page.
         """
 
-        # response = requests.post(
-        #     self.SYLLABUS_SEARCH_URL,
-        #     data={**self.aspnet_fields, **self.search_params},
-        # )
         response = (
             self.session.post(
                 self.SYLLABUS_SEARCH_URL,
