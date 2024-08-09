@@ -125,15 +125,14 @@ class SyllabusSearch(AAA):
             assert self._html is not None  # Ensure that the HTML content is not None
         return self._html
 
-    def parse(self):
+    def parse(self) -> list[tuple[str, str, str]]:
         """Parses the HTML content to extract syllabus codes.
 
         Uses a regular expression to find and return all matches for syllabus codes.
 
-        Yields:
-            tuple[str, str, str]: A tuple containing the extracted syllabus codes.
+        Returns:
+            list[tuple[str, str, str]]: A list containing the extracted syllabus codes.
         """
 
         parser = re.compile(r"Syllabus_Data\('([^']*)','([^']*)','([^']*)'\)")
-        for match in parser.finditer(self.html):
-            yield match.groups()
+        return parser.findall(self.html)
