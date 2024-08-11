@@ -40,8 +40,8 @@ def get_aspnet_hidden_fields(url: str) -> dict[str, str]:
     # Loop through each of the predefined ASP.NET hidden field keys
     for key in ASPNET_HIDDEN_FIELD_KEYS:
         tag = soup.find("input", id=key)  # Find the input element with the specific ID
-        if tag and isinstance(tag, Tag):
-            # If the element is found and is a valid Tag, get its value
+        if isinstance(tag, Tag):
+            # If the element is a Tag (not NavigableString), get its value
             fields[key] = str(tag.get("value", ""))
 
     return fields
