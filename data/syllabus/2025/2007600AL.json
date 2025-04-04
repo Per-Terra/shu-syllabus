@@ -1,0 +1,362 @@
+{
+    "_fetched_at": "2025-04-04T05:58:14Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600AL",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. 人間とコンピュータの相互作用（HCI）の基本概念を理解し、適用する能力の獲得。\n2. ユーザビリティ評価やインタラクションデザインの理論を学び、研究に活用するスキルを習得。\n3. 実社会におけるHCIの応用事例を分析し、最適な設計・評価手法を導き出す能力の獲得。",
+    "overview": "本ゼミでは、コンピュータと人との相互作用（HCI）に関する研究をテーマとし、文献検索、論文・専門書の輪読、および実験・調査を通じてHCIの理解を深める。受講生は、HCIに関連する論文を読解し、ディスカッションを行うことで、研究計画立案の基礎を習得する。また、実社会におけるインターフェース設計やユーザビリティ評価の事例を分析し、自身の研究テーマに応用する力を身につける。本ゼミの活動を通じて、卒業論文に向けた研究スキルの向上を目指す。",
+    "corresponding_diploma_policies": [
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "必携パソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "各回の報告の内容（論文の要約・考察）: 40%\nディスカッションへの参加: 30%\nHCIに関する研究テーマの企画・発表: 30%",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 60,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "大学での学びの集大成である卒業論文の執筆に向けて、自らの興味・関心・問題意識に基づいてテーマを設定し研究計画を立案します。主体的・自律的な取組みを期待します。\n\n\n【予復習】\n予習: 事前に指定されたHCI関連の論文を読み、要点をまとめる（約2時間）\n復習: ディスカッションの内容を整理し、次回の報告の準備を行う（約2時間）\n\n【オフィスアワー】\n水曜日3時限目　 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "前期、文献研究テーマの設定、文献検索",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "共通の文献1の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "共通の文献1の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "共通の文献1の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "共通の文献1の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "共通の文献1の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "共通の文献１のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "共通の文献2の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "共通の文献2の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "共通の文献2の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "共通の文献2の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "共通の文献2の輪読",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "共通の文献2のまとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "後期オリエンテーション、個別テーマ設定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "個別の文献１の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "個別の文献１の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "個別の文献１の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "個別の文献2の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "個別の文献2の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "個別の文献2の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "後期前半のまとめ、後半個別のテーマ設定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "個別の文献3の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "個別の文献3の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "個別の文献3の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "個別の文献4の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "個別の文献4の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "個別の文献4の報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "総括：　1年間のまとめと振り返り",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,223 @@
+{
+    "_fetched_at": "2025-04-04T06:04:31Z",
+    "name_ja": "経営と数理モデル",
+    "name_en": "Mathematical Modelling for Management",
+    "syllabus_number": "2104800A",
+    "course_number": "30-2-51-33-05、31-2-24-33-04",
+    "target_departments_and_courses": [
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "小柳　淳二",
+            "main": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "本講義では，オペレーションズ・リサーチの手法を学び，下記到達目標を設定する．\n１．線形計画法により、問題を定式化できる。\n２．シンプレックス法、二段階法を用いて線形計画問題の最適解を求められる。\n３．PERT、CPM に必要な工程をグラフにより表示できる。\n４．PERT、CPM を使って合理的な計画を作成できる。",
+    "overview": "経営に用いられる数理モデルとしては様々なものがあるが、本講義では多様な応用例のある線形計画法と PERT、CPM について説明する。線形計画問題は、いくつかの生産物を生産するとき、費用が材料の量に比例して発生し、利益は各生産物の量に比例して発生するような場合に用いられる。代表的な解法として、シンプレックス法を説明し、二段階法や双対問題、表計算ソフトの機能を使った解法についても説明する。PERT、CPM は決められた期限内にプロジェクトを終了させるために用いられる手法で、作業をグラフ表示して、それをもとに各作業の最早開始時刻などを求め、合理的な計画立案に役立てる。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "生産管理 理論と実践 オペレーションズ・リサーチ",
+            "year": 2024,
+            "author": "中川覃夫、三道弘明",
+            "publisher": "日刊工業社",
+            "price": 3300,
+            "isbn": "978-4526038037",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "中間演習 50 点 程度、期末演習 50 点 程度の合計 100 点で評価する。\nおおむね、中間演習は 1-7 回の内容、期末演習は 9-13 回の内容で出題する。\n補助的に追試、レポートなどを課し 10% 程度評価に含めることもある。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 100,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "応用上重要な線形計画問題や PERT、CPM などの合理性を理解し、これらの方法の考え方を他の分野にも使用することで役立ててほしい。 \n\n事前学習、事後学習の時間：あわせて90分程度。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "講義に必要な行列、グラフの基本的知識",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "2",
+            "content": "線形計画問題による定式化、図的解法（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "3",
+            "content": "標準形と基底解、基底形式（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "4",
+            "content": "基底変数と実行可能解（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "5",
+            "content": "シンプレックス法（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "6",
+            "content": "タブロー計算、ソルバーの使い方（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "7",
+            "content": "二段階法（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "8",
+            "content": "中間演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "9",
+            "content": "双対問題（線形計画法分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "10",
+            "content": "アローダイアグラムによる工程表示（PERT、CPM 分野",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "11",
+            "content": "作業時刻計算（PERT、CPM 分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "12",
+            "content": "作業余裕とクリティカルパス（PERT、CPM 分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "13",
+            "content": "CPM（PERT、CPM 分野）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "14",
+            "content": "期末演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本講義のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

@@ -1,0 +1,238 @@
+{
+    "_fetched_at": "2025-04-04T05:56:45Z",
+    "name_ja": "総合英語初級Ⅳ（再履修）",
+    "name_en": "Comprehensive English Beginners IV (Retakers)",
+    "syllabus_number": "1013800A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "西村　浩子",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①平易な短い英語を繰り返しや言い換えがあれば理解できる\n②平易な英語で書かれた短いEメールなどの英文を読んで大意を理解できる\n③基礎レベルの語彙・構文で、日常生活について短い英文を話したり書いたりできる",
+    "overview": "『English Contrasts』に沿ってモデル会話を聞いたり話したりしながら日常で使用できる表現に触れます。次に、ターゲットになる文法事項を学び、それを含む短い英文を読んだり書いたりしながら練習します。各ユニットの一連の学習は、私たちが日常生活の中でよく出合うような場面・トピックに関連する内容になっています。４技能を使用し定着を図り、使える表現を増やしていきます。また、自然な英語に楽しく触れる機会も取り入れながら進めます。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "English Contrasts イングリッシュ・ガイド~基本文法で学ぶ英語の使い方~",
+            "year": 2022,
+            "author": "Robert Hickling",
+            "publisher": "金星堂",
+            "price": 2200,
+            "isbn": "9784764741430",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "教科書、筆記用具、スマートフォン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含みます。小テストは、最終授業内で行うテスト（40%）と各授業で行うQuiz (40%）を含みます。通常の授業時間内に行う活動を基にする評価が半分を占めますので、遅刻・欠席をしないよう注意しましょう。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 80,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "予習は原則として必要ありません。表現の定着を図り、英語の音声に慣れ親しむために復習はしっかり行ってください。毎日30分は英語の音声に触れたり英語を読んだりするようにしましょう。復習の学習方法は授業内で説明しますが、音読やシャドーイングを中心に行うことを推奨します。\n教科書は、『English Contrasts』は必ず書き込みのないものを持参してください。授業計画は進捗などにより変更する場合があります。\n（事前事後学修時間の目安 60～90分）\n\n【オフィスアワー】\n・原則として木曜日2限（学期中／事前にメール等で連絡）\n・事前にメール等で連絡をくれれば個別に対応可",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、授業の進め方、評価について\nUnit 8: Yui's Cooking Class\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Unit 8: Yui's Cooking Class\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Unit 9: Where's Sandy?\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Unit 9: Where's Sandy?\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Unit 10: Let's Take a Hike\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Unit 10: Let's Take a Hike\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Unit 11: Time for a Tour\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Unit 11: Time for a Tour\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Unit 12: Photos from Hakone\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Unit 12: Photos from Hakone\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Unit 13: Sho's Barbecue Party\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Unit 13: Sho's Barbecue Party\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Unit 14: On the Go\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Unit 14: On the Go\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "授業内テスト\n解説・総復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

@@ -1,0 +1,246 @@
+{
+    "_fetched_at": "2025-04-04T05:56:20Z",
+    "name_ja": "総合英語初級Ⅰ（再履修）",
+    "name_en": "Comprehensive English Beginners I (Retakers)",
+    "syllabus_number": "1013100Z",
+    "course_number": "11-1-14-21-06、21-1-14-21-05、22-1-14-21-04、23-1-14-21-05",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部",
+        "人間健康科学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "西村　浩子",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①平易な短い英語を繰り返しや言い換えがあれば理解できる\n②平易な英語で書かれた短いEメールなどの英文を読んで大意を理解できる\n③基礎レベルの語彙・構文で、日常生活について短い英文を話したり書いたりできる",
+    "overview": "語彙・聴解・読解・文法の総合的な英語運用能力の基礎を固める。\nリスニングでは、連結、同化、脱落などの音声変化を理解して、自然なスピードで話されるあいさつや簡単な問いかけを聞き取る訓練をし、身近な話題についての易しい会話を聞いて話の主旨がある程度理解できるようになる。また、日常のコミュニケーションでよく使用される依頼や提案など基礎的な会話表現を学ぶ。リーディングでは、英語の語順（文型）と語の働き（品詞）を学んで、簡単な語彙、よく使用される句で書かれた短い英文を読んで理解したり書いたりできるようになる。",
+    "corresponding_diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "English Booster!",
+            "year": 2021,
+            "author": "Robert Hickling",
+            "publisher": "金星堂",
+            "price": 2100,
+            "isbn": "9784764741133",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "教科書、筆記用具、スマートフォン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含みます。小テストは、最終授業内で行うテスト（40%）と各授業で行うQuiz (40%）を含みます。通常の授業時間内に行う活動を基にする評価が半分を占めますので、遅刻・欠席をしないよう注意しましょう。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 80,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "予習は原則として必要ありません。表現の定着を図り、英語の音声に慣れ親しむために復習はしっかり行ってください。毎日30分は英語の音声に触れたり英語を読んだりするようにしましょう。復習の学習方法は授業内で説明しますが、音読やシャドーイングを中心に行うことを推奨します。\n教科書は、『English Booster!』は必ず書き込みのないものを持参してください。授業計画は進捗などにより変更する場合があります。\n（事前事後学修時間の目安 60～90分）\n\n【オフィスアワー】\n・原則として木曜日2限（学期中／事前にメール等で連絡）\n・事前にメール等で連絡をくれれば個別に対応可",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション、授業の進め方、評価について\nUnit 1: On My Way to Silicon Valley\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Unit 1: On My Way to Silicon Valley\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Unit 2: Welcome to San Fransisco\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Unit 2: Welcome to San Fransisco\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Unit 3: First Day of Internship\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Unit 3: First Day of Internship\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Unit 4: Fun Times, but...\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Unit 4: Fun Times, but...\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Unit 5: They Look Good on You\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Unit 5: They Look Good on You\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Unit 6: Tech Talk\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Unit 6: Tech Talk\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Unit 7: You're Sitting on It...\nListening (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Unit 7: You're Sitting on It...\nReading & Writing (& Speaking)",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "授業内テスト\n解説・総復習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

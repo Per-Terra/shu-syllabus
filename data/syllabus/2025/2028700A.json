@@ -1,0 +1,227 @@
+{
+    "_fetched_at": "2025-04-04T06:01:52Z",
+    "name_ja": "権利擁護を支える法制度",
+    "name_en": "Advocacy and adult guardianship system",
+    "syllabus_number": "2028700A",
+    "course_number": "23-2-21-21-02",
+    "target_departments_and_courses": [
+        "人間健康科学部 福祉学科",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "脇野　幸太郎",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "①憲法、民法、行政法の基礎について説明することができる。\n②権利擁護の意義と支える仕組みについて説明することができる。\n③成年後見制度について説明することができる。",
+    "overview": "本科目では、福祉サービス利用者（高齢者、障害者、児童等）における権利擁護の考え方や意義について学修するとともに、権利擁護を実践するための法制度について、成年後見制度の仕組みや内容を中心に学修する。また、利用者本人の権利擁護や意思決定支援に関わる法律の各分野（日本国憲法、行政法、民法等）の基礎について学修し、「法的なものの考え方（リーガル・マインド）」の基礎を涵養するとともに、それを踏まえた権利擁護実践の視点を獲得することを目指す。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP2",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "権利擁護を支える法制度（第2版）",
+            "year": 2025,
+            "author": "一般社団法人　日本ソーシャルワーク教育学校連盟　編集",
+            "publisher": "中央法規",
+            "price": 2970,
+            "isbn": "978-4-8058-8239-9",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "",
+        "other": "なし"
+    },
+    "evaluation_criteria": "定期試験と毎回の授業後の課題により評価します。また、受講態度を重視します。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "ソーシャルワーク支援は法の下で行われます。その法はサービスを規定している法ですが、根底には憲法があり、民法があります。社会福祉サービスを提供する側に立ったとき、こうした憲法や民法に関する知識は最低限押さえておく必要があるのです。積極的な学習を期待します。 \n\n【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。 \n\n【オフィスアワー】 \n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "法と規範／法の体系、種類、機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "法律の基礎知識／法の解釈、裁判制度、判例を学ぶ意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "裁判制度／判例を学ぶ意義",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "憲法／民法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "行政法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "権利擁護の意義／福祉サービスの適切な利用、苦情解決の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "虐待防止法の概要／差別禁止法の概要／意思決定ガイドライン",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "インフォームド・コンセント／秘密・プライバシー・個人情報",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "権利擁護活動と社会の安全",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "権利擁護に関わる組織・団体の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "成年後見の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "後見の概要／保佐の概要／補助の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "任意後見の概要／成年後見制度の最近の動向",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "成年後見制度利用支援制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "日常生活自立支援事業の動向と専門員及び生活支援員の役割",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

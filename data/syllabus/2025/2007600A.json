@@ -1,0 +1,169 @@
+{
+    "_fetched_at": "2025-04-04T05:58:01Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "従来の中国ビジネスモデルは経済性に重きを置いていましたが、近年では次世代テクノロジーの導入により、ビジネスモデルが大きく変換してきました。\nこのゼミを通じて、\n①経済性と社会性の統合、\n②テクノロジーとイノベーション、\n③キャッシュレス社会の構築、\nという3つの面から、中国の次世代ビジネスモデルを理解することが目標とします。",
+    "overview": "中国の次世代ビジネスモデルについての深い理解を目指します。具体的には、デジタル経済、AI、フィンテック、グリーンテクノロジーなどの分野に焦点を当てます。また、中国のビジネス環境や政策の最新動向を常に追跡し、ゼミの内容に反映させます。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP3",
+        "経営コースDP4",
+        "知財開発コースDP3",
+        "知財開発コースDP4",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "中国デジタルイノベーション",
+            "year": 2020,
+            "author": "岡野寿彦",
+            "publisher": "日本経済新聞出版社",
+            "price": 2500,
+            "isbn": "9784532323585",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": ""
+    },
+    "evaluation_criteria": "以下の３点に基づいて、評価を行う。\n①文献を精読し、発表を行っているかについての評価\n②グループ内での協力についての評価\n③最終成果物としての発表・レポートについての評価",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 40,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "レジメの作り方・レポートの書き方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "発表の仕方",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "4～12",
+            "content": "文献輪読・発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "13～14",
+            "content": "チームによる研究発表準備",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "進捗状況報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "16～20",
+            "content": "チームによる研究発表：ディスカッション・改良\n（他大学学生とのゼミ合同発表会に向けて）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "21～29",
+            "content": "各自の研究テーマの選定・準備\n卒論に向けて研究テーマの調整・発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "ゼミ総括",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

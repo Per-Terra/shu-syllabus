@@ -1,0 +1,213 @@
+{
+    "_fetched_at": "2025-04-04T06:04:10Z",
+    "name_ja": "実践英語(数学)",
+    "name_en": "Academic English (Mathematical Methods)",
+    "syllabus_number": "2101700A",
+    "course_number": "31-2-21-34-07",
+    "target_departments_and_courses": [
+        "情報科学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "橋本　喜代太",
+            "main": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．数学で用いる単語の英語表現を覚える。\n２．英語の講義を通してデータサイエンスに必要な数学の知識を俯瞰して理解できる。\n３．簡単なレポート課題を英語で提出することができる。",
+    "overview": "グローバルな視野をもった人材を目指すために、英語への苦手意識を取り除くことが本講義の主眼で\nある。そのために、既習事項であるデータサイエンスに必要な数学（微分積分・線形代数・確率統計\n等）を英語で解説する。大学数学と英語の教科横断的な視点に立って授業を行い、英語を手段として\n使い数学の教養を深める訓練を行う。主に講義形式で授業を進めていくが、学生との議論も重視した\nい。受講者数次第では学生に英語での発言の機会も提供する。レポート課題を中心に成績を評価する\nが、レポートも全て英語で提出することを前提としている。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "線形代数基礎",
+            "微分積分基礎",
+            "確率統計基礎"
+        ],
+        "brings": "筆記具・ノート、ノートPC",
+        "other": ""
+    },
+    "evaluation_criteria": "1. Linear Algebra（線形代数）、2. Probability（確率）、3. Calculus（微積分）に関する理解度を\n章末レポート（英語）で評価する。期末レポートとして授業全体の理解度を評価する。また、英語の\n理解度を毎回授業毎に単語テスト（主に英語の数学用語）を実施して評価する。\n評価基準は下記の通り\n出席・単語テスト（30%）、章末レポート（40%）、期末レポート（30%）",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 30,
+        "レポート": 70,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "この講義は、英語での講義を体験してもらうことが最も重要です。そのため、数学は非常に基礎的な部分のみを扱い、数式を用いた厳密な説明等は省略します。データサイエンスに必要な数学を俯瞰するための時間として活用しても良いと思います。講義についてこられなくなった場合は「英語がわからないのか」「数学がわからないのか」を自身で評価し、弱点を見つけてください。復習や課題のため、2～3時間またはそれ以上のかなりの授業外学習が必須となる点注意してください。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。\n授",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "Mathematics for Data Science",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "Vocabulary of mathematics",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "Linear Algebra (Elements of Linear Algebra)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "Linear Algebra (Linear Regression)",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "Linear Algebra（Principal Component Analysis）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "Probability（Probability Distribution）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "Probability（Independent Variables and Random Samples）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "Probability（Maximum Likelihood Estimation）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "Calculus and Optimization（Continuity and Differentiation）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "Calculus and Optimization（Unconstrained Optimization）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "Calculus and Optimization（Logistic Regression）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "Network Analysis",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "Example for PM2.5 Concentration",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "Example for COVID-19",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "Summary",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,238 @@
+{
+    "_fetched_at": "2025-04-04T06:00:51Z",
+    "name_ja": "情報システム論",
+    "name_en": "Information Systems",
+    "syllabus_number": "2022700A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 3,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "(i) 情報システムとは何か、情報システムと社会活動の関わりが理解できる。\n(ii) 情報システムの開発・分析・テストの手法が理解できる。\n(iii) 情報システムの運用・評価の方法が理解できる。",
+    "overview": "現在、社会活動や企業活動などの様々な場面に、情報システムが組み込まれ、情報の処理や多くの問題解決を行っています。\n本講義では、情報処理や問題解決手順、問題解決と情報との関わり、コンピュータの特性、コンピュータによる情報処理の特徴あるいは社会で利用されている代表的な情報システムの種類と特徴などを学修します。その上で、世の中の様々な場面で利用される情報システムの開発、運用、保守の方法について、基礎的な知識・技術を身につけていきます。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP3",
+        "経営コースDP1",
+        "経営コースDP3",
+        "知財開発コースDP1",
+        "知財開発コースDP3",
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP3",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "コンピュータ概論: 情報システム入門 第9版",
+            "year": 2023,
+            "author": "魚田 勝臣他",
+            "publisher": "共立出版",
+            "price": 3080,
+            "isbn": "4320124987",
+            "available_on_campus": false
+        },
+        {
+            "title": "経営情報システム入門【第2版】",
+            "year": 2024,
+            "author": "柴 直樹、水上 祐治",
+            "publisher": "日科技連出版社",
+            "price": 3080,
+            "isbn": "978-4-8171-9791-7",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "パソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "期末テスト及び講義に関する小テストとレポートを課題として提出してもらい解答内容を評価する。",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 20,
+        "レポート": 20,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 10
+    },
+    "message_from_teachers": "情報システムは今やどこでも利用されているものであり概要程度は知っておかなければならないものです。この科目ではその必須知識を身につけます。様々な事例に触れ、情報システムというものがどういったものなのかに触れてみましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "・ガイダンス−情報システムとは何か−",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "・情報システムの変遷",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "・社会を支える情報システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "・組織を支える情報システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "・組織の情報化戦略−CIOの役割−",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "・情報システム開発の概要",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "・情報システム開発の体制・作業管理の手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "・情報システム開発の手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "・情報システム分析の手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "・情報システムのテスト手法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "・情報システムの運用方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "・情報システムの評価方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "・情報システムの開発環境",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "・情報システムの開発支援ツール",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "・本講義のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

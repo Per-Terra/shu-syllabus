@@ -1,0 +1,363 @@
+{
+    "_fetched_at": "2025-04-04T05:59:24Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700D",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "岡本　次郎",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "専門ゼミⅡでは、専門ゼミⅠで修得した知識と論文執筆のためのスキルを基礎として、卒業論文のテーマや仮説の設定、アウトラインの構築などを進め、自ら調査を行って仮説の検証を行い、論理的かつ外形が整った卒業論文を完成させる。",
+    "overview": "毎回の授業の時間は、基本的には個人で行った調査研究過程を発表する場になる。したがって、卒業論文完成に至るまでの主な作業は、各自が授業時間以外にこつこつと行うことになる。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミⅠ"
+        ],
+        "recommended_courses": [],
+        "brings": "筆記用具、パソコンまたはタブレット",
+        "other": ""
+    },
+    "evaluation_criteria": "到達目標で示したように、卒業論文完成へのプロセスと卒業論文の内容を評価する。進捗状況の発表が20％、その他（卒業論文の内容を含む）が80％のウェイトとする。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 20,
+        "ポートフォリオ": 0,
+        "その他": 80
+    },
+    "message_from_teachers": "論理に破綻のない、また外形が整った卒業論文の完成に向けて、一歩一歩進んでいきましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "卒業論文プロポーザルの改訂",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "卒業論文プロポーザルの完成（仮）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "先行研究の収集と理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "先行研究の収集と理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "先行研究の収集と理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "先行研究の収集と理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "先行研究の収集と理解",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "卒業論文プロポーザルの完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "調査内容の発表",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "卒業論文執筆作業",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "卒業論文完成",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

@@ -1,0 +1,141 @@
+{
+    "_fetched_at": "2025-04-04T05:59:15Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AL",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "内田　善彦",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "themes_and_goals": "暗号資産を題材として、貨幣とは何か、取引とは何か、について理解する。\nブロックチェーンを自分で設計・実装できる。",
+    "overview": "より良いと考える暗号資産（ブロックチェーン）を自ら設計し、実装する。\nブロックチェーンを運用し、特徴を評価する。\n上記の過程で、暗号資産を活用したビジネス、関連する法律・制度などについても調査する。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "イニングやNFTを無料で本格運用できるブロックチェーンを作る！",
+            "year": 2023,
+            "author": "安田恒",
+            "publisher": "秀和システム",
+            "price": 2420,
+            "isbn": "4798070270",
+            "available_on_campus": false
+        },
+        {
+            "title": "プログラミング・ビットコイン ―ゼロからビットコインをプログラムする方法",
+            "year": 2020,
+            "author": "Jimmy Song",
+            "publisher": "オライリージャパン",
+            "price": 3960,
+            "isbn": "4873119022",
+            "available_on_campus": false
+        },
+        {
+            "title": "詳解 ビットコイン ―ゼロから設計する過程で学ぶデジタル通貨システム",
+            "year": 2020,
+            "author": "Kalle Rosenbaum",
+            "publisher": "オライリージャパン",
+            "price": 4180,
+            "isbn": "4873119081",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "専門ゼミI"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": "基礎的な線形代数と解析学の知識と、300行程度のプログラミング経験があること。ブロックチェーンに関する基礎的な知識があること。"
+    },
+    "evaluation_criteria": "ブロックチェーンの詳細に関する理解について、⑪に示す形で評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 50,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "暗号理論等を扱うため、線形代数と解析学の基礎を理解している必要があります。数学を味方にすることは、将来の可能性を飛躍的に拡大させるので、これを機会に線形代数と解析学いついてしっかりと学のは良い機会かもしれません。また、資本市場の基本を理解することは、独学が容易ではない分野でもあります。ガッツのある学生の参加を期待します。\n学ぶことは苦行ではなくて、楽しい行為です。楽しみながら学びます。",
+    "schedule": [
+        {
+            "session": "1-10",
+            "content": "ブロックチェーンを設計する。",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "内田　善彦"
+            ]
+        },
+        {
+            "session": "11-20",
+            "content": "ブロックチェーンを実装する。",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "内田　善彦"
+            ]
+        },
+        {
+            "session": "21−25",
+            "content": "ブロックチェーンを運用し、評価する。",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "内田　善彦"
+            ]
+        },
+        {
+            "session": "26-30",
+            "content": "論文に纏める。",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "内田　善彦"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

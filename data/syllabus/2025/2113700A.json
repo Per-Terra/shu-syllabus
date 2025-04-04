@@ -1,0 +1,237 @@
+{
+    "_fetched_at": "2025-04-04T06:05:21Z",
+    "name_ja": "ゴール型球技",
+    "name_en": "Goal type ball game",
+    "syllabus_number": "2113700A",
+    "course_number": "21-2-27-21-02",
+    "target_departments_and_courses": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "main": true
+        },
+        {
+            "name": "武藤　克宏",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1.技能や連携した動きを用いてゲームを展開できる\n2.ゴール型球技に関する 基礎知識を理解できる",
+    "overview": "ゴール型球技の特性やルールの理解、対象の発育・発達段階に応じた指導法の理解を通じた実践的な指導法の学習を目指す。また、スポーツの本質ともいえる「楽しさ」への認識も深めることを目標とする。バスケットボールやサッカーといった球技を通じて、ドリブルやパス、シュートといった基本的なボールスキルの獲得、数的有意な状況での判断力の育成や状況に応じた戦術の理解を深める。また、リスクマネジメントへの理解も深め、現場に求められる安全面に配慮した指導法の習得も目指す。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "バスケットボール指導教本　上巻 [改訂版]",
+            "year": 2002,
+            "author": "公益財団法人　日本バスケットボール協会",
+            "publisher": "大修館書店",
+            "price": 2100,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "バスケットボール指導教本　下巻 [改訂版]",
+            "year": 2002,
+            "author": "公益財団法人　日本バスケットボール協会",
+            "publisher": "大修館書店",
+            "price": 2600,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "(i)技能や連携した動きを用いてゲームを展開できる（技能）\n(ii)主体的に取り組める（態度）\n(iii)基礎知識を理解できる（知識）\n上記ⅰ～ⅲについて評価を行う．\n(i)60％，(ii)30％，(iii)10％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 60,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "運動に適した服装（Tシャツ、ジャージ等）と室内専用シューズを着用してください。授業当日、ウエアやシューズを忘れた場合は、怪我防止のため見学とします。安全のため、時計、アクセサリー等は外して受講してください。\n体調管理をして授業に臨み、体調に違和感を覚えた場合や怪我が発生した場合は、すみやかに申し出てください。\n\n\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（本講義の目的と概要）ルール",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅",
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "コーディネーション、ボール保持、ボールハンドリング",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ドリブル、パス",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "シュート（レイアップ，セットシュート，ジャンプシュート）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "数的優位時の状況判断 (2-1，3-2，4-3)",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "ディフェンスとオフェンスの基本、リバウンディング",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "ミニゲーム（スクリメージ、ゲームプランを立てる）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "ミニゲーム（チーム戦術を立てる）",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "（サッカー)ルール、ドリブルに着眼点を置いたゲーム",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "（サッカー)パスに着眼点を置いたゲーム",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "（サッカー)トラップに着眼点を置いたゲーム",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "（サッカー)シュートに着眼点を置いたゲーム",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "（サッカー)攻撃、守備の基本",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "（サッカー)攻守の切り替え",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "（サッカー)ゲーム、まとめ",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

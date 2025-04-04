@@ -1,0 +1,258 @@
+{
+    "_fetched_at": "2025-04-04T06:05:12Z",
+    "name_ja": "スポーツ傷害論Ⅰ（体幹、重篤外傷）",
+    "name_en": "Sports Injuries I",
+    "syllabus_number": "2110700A",
+    "course_number": "21-2-24-21-01",
+    "target_departments_and_courses": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "小笠　博義",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. スポーツ外傷・障害の概要を理解し、説明できる。\n2. 体幹に起こるスポーツ外傷・障害および重篤な外傷の病態、発生機序、治療法および予防のためのスポーツ整形外科的メディカルチェックなどを理解し、説明できる。\n3. スポーツ外傷・障害の基礎知識を基に、リコンディショニングやコンディショニング、救急対応、傷害予防などに役立てることができる。",
+    "overview": "運動・スポーツの実践者に対する安全・健康管理および傷害・疾病予防のために必要なスポーツ外傷・障害の基礎知識を身に付けることを目標とする。運動・スポーツの実践者を医科学的側面からサポートする際に欠かすことのできないスポーツ外傷・障害の基礎知識について、主に体幹に起こる外傷・障害と重篤な外傷の病態、発生機序、治療法および予防のためのスポーツ整形外科的メディカルチェックなどについて解説する。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "公認アスレティックトレーナー専門科目テキスト 2 巻 安全・健康管理およびスポ ーツ外傷・障害の予防(2022 年カリキュラム対応)",
+            "year": 0,
+            "author": "",
+            "publisher": "日本スポーツ協会",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "新版 スポーツ整形外科学",
+            "year": 2011,
+            "author": "中嶋寛之（監修）、福林徹／史野根生（編集）",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": "978-4524262656",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツ外傷・障害の理学診断・理学療法ガイド",
+            "year": 2015,
+            "author": "臨床スポーツ医学編集委員会（編集）",
+            "publisher": "文光堂",
+            "price": 7700,
+            "isbn": "978-4830651823",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "解剖学",
+            "スポーツ医学"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "特になし",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "筆記試験 50%、課題レポート 30%、授業への参加意欲 20%",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 20
+    },
+    "message_from_teachers": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション（授業の進め方の確認）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "スポーツ外傷・障害総論",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "頸部の外傷・障害①（頸椎捻挫、バーナー症候群）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "頸部の外傷・障害②（頸椎椎間板ヘルニア、その他の傷害）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "胸部・腹部の外傷・障害（肋骨・肋軟骨・付着する筋の外傷）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "肩甲帯の外傷・障害（鎖骨・肩甲骨・胸鎖関節・肩鎖関節の外傷）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "腰部・背部・骨盤帯の外傷・障害①（腰椎椎間板ヘルニア、筋・筋膜性腰痛）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "腰部・背部・骨盤帯の外傷・障害②（鼠径部痛症候群）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "腰部・背部・骨盤帯の外傷・障害③（その他の傷害）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "股関節の外傷・障害（関節唇損傷、臼蓋形成不全、インピンジメント症候群）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "重篤な外傷①（頭蓋骨骨折、脳震盪）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "重篤な外傷②（脊髄損傷、大出血）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "重篤な外傷③（その他の外傷）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "スポーツ整形外科的メディカルチェック",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "まとめと解説",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "日本スポーツ協会公認スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

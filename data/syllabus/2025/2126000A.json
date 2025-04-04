@@ -1,0 +1,224 @@
+{
+    "_fetched_at": "2025-04-04T06:06:50Z",
+    "name_ja": "政策評価",
+    "name_en": "Policy evaluation",
+    "syllabus_number": "2126000A",
+    "course_number": "23-2-25-22-05",
+    "target_departments_and_courses": [
+        "人間健康科学部 福祉学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伊藤　敏安",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "●政策評価に関する基本概念について説明することができる。 \n●報道などの関連情報の評価について説明することができる。",
+    "overview": "●国・都道府県・市町村においては政策の効果を検証したうえで、政策の見直しや計画立案に反映させていくことが求められているため、特に地域福祉政策に重点を置いて、身近な事例を交えながら、政策の点検・評価のための手法を学修する。 \n●EBPM（Evidence Beased Polcy Making）、PDCA（Plan, Do, Check, Action）、KPI（Key Performance Indicators）、OutputとOutcomeの違いなどの基本概念を理解するとともに、効率性、有効性、経済性などの観点から、事務・事業や施策を点検・評価するための手法と課題について学ぶ。 \n●何らかの地域福祉事業を見たり聞いたり関係したりしたとき、その効果や課題を自ら点検・評価し、よりよい成果を実現するための考え方や基本的スキルを修得する。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "経済効果入門",
+            "year": 2014,
+            "author": "小長谷一之ほか",
+            "publisher": "日本評論社",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "筆記具、ノート、授業のスライド（各自プリント）",
+        "other": "なし"
+    },
+    "evaluation_criteria": "●毎回の確認テストで基本用語や考え方についての理解を確認します。\n●最終試験でこれらを総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "【授業中】90分\n●「授業のスライド」を事前に印刷して授業に臨むこと。\n●事前・事後学習を含めて「自分のノート」をつくること。積極的な質問を歓迎します。\n\n【事前・事後学習】合計240分●各回の前日までに「授業のスライド」「キーワードと関連サイト」「確認テスト結果」をC-learningに掲載します。授業前には、これらの材料を参考にして実際の状況や事例を自分で調べてみること。授業後には「自分のノート」を中心に復習し、新たな気づきを適宜追補すること。\n●「確認テスト」は前半・後半の2回に分けて返却します。最終試験前には「自分のノート」と「確認テスト結果」を中心に復習すること。\n\n※オフィスアワー　講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の概要、進め方、注意事項、政策評価における基本用語の理解",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "政策評価とEBPMの背景",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "住民アンケートの実施・分析方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "公共事業に関する費用便益分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "公共事業に関する仮想市場評価法とヘドニックアプローチ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "行政サービスに関する包絡分析",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "有意差検定",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "相関と疑似相関",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "相関と因果関係",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "バランススコアカードとKPI",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "RESAS（地域経済分析システム）の基礎",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "RESAS（地域経済分析システム）の応用",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "事例研究1（まち・ひと・しごと創生総合戦略の点検、県）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "事例研究2（まち・ひと・しごと創生総合戦略の点検、市町村）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "事例研究3（事業見直し、市町村）",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
+}

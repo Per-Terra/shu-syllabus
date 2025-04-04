@@ -1,0 +1,226 @@
+{
+    "_fetched_at": "2025-04-04T06:05:28Z",
+    "name_ja": "社会福祉学",
+    "name_en": "Social Welfare",
+    "syllabus_number": "2114800A",
+    "course_number": "22-2-21-22-09",
+    "target_departments_and_courses": [
+        "人間健康科学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "永野　典詞",
+            "main": true
+        },
+        {
+            "name": "大平　光子",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "１．保健医療専門職として必要とされる社会保障制度について概説できる。\n２．わが国の社会福祉制度の仕組みについて概説できる。\n３．わが国の社会福祉制度の内容について概説できる。",
+    "overview": "現代社会における社会福祉の意義と社会制度の実施体系（高齢者、障害者、児童・家庭、人権等）ついて学び、現代社会の諸情勢（高齢者、障害者、児童・家庭、人権等）の動向や医療及び介護保障、福祉施策の基本を理解する。また、利用者が社会福祉サービスを利活用するにあたっての多職種・他機関の連携協働の在り方を考察する。本授業を通して、看護の対象者である生活者が利活用する社会保障制度の基礎的知識及び社会福祉サービスを提供における多職種・他機関の連携協働の方法に関する知識を身につける。",
+    "corresponding_diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎分野　健康支援と社会保障制度３　社会保障・社会福祉　最新刊",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン、授業資料",
+        "other": "１．既習科目と関連付けて学修してください。　２．授業内容を授業資料及び教科書の該当箇所を復習し、授業目には教科書の次回単元関連個所を予習して、授業に参加してください。（事前学習45分、事後学修45分）"
+    },
+    "evaluation_criteria": "定期試験にて評価（100％）する。",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "社会保障の理念、社会福祉制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "社会福祉の歴史、福祉の思想と哲学",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "社会保険の理念、社会の変化と社会保障・社会福祉の動向",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "医療保障（医療保障制度、健康保険と国民健康保険）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "介護保障",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "社会福祉制度の体系",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "所得保障、公的扶助",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "社会福祉制度と社会福祉に関わる機関、民間活動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "高齢者福祉施策、老人保健事業",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "障害者福祉の理念と新たな法体系整備と関連施策",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "児童家庭福祉",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "社会福祉サービスと援助活動",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "社会福祉サービスの提供と多職種・他機関の連携協働",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "社会福祉施策の国際比較",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "総括",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "永野　典詞"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "社会福祉、障害児者福祉、児童福祉分野での実務経験がある教員が講義を行う。"
+}

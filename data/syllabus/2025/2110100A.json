@@ -1,0 +1,252 @@
+{
+    "_fetched_at": "2025-04-04T06:05:10Z",
+    "name_ja": "障がいに対する理解",
+    "name_en": "Disability studies",
+    "syllabus_number": "2110100A",
+    "course_number": "21-2-23-22-02",
+    "target_departments_and_courses": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "加地　信幸",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンデマンド"
+    ],
+    "themes_and_goals": "１．障がい者スポーツ指導員資格に関わる内容を理解できる。\n２．障がい者の特性や状況、スポーツ実施時の留意点を理解し、指導者としての専門的な知識を身につける。",
+    "overview": "障害者基本法に定められた三障がい（身体障がい、知的障がい、精神障がい）について学習する。特に近年の障がい層の変化や障がい者の高齢化、障がいの重度化など、障がい、障がい者の状況について理解を深める。また、それぞれの障がいの特性や判定（診断）基準、または生活面やスポーツ実施時の留意点など、障がいに関して専門的（医学的）な知識を学ぶ。さらに補装具の種類や特徴を理解し、用具の点検や持ち運び時の留意点について学ぶ。この講義によって、各障がいについて理解を深めることを目指す。",
+    "corresponding_diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "障がいのある人のスポーツ指導教本（初級・中級）2020年改訂カリキュラム対応",
+            "year": 2023,
+            "author": "（公財）日本パラスポーツ協会",
+            "publisher": "ぎょうせい",
+            "price": 2970,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "2004 アダプテッド・スポーツの科学",
+            "year": 2004,
+            "author": "矢部京之助・草野勝彦・中田英雄",
+            "publisher": "市村出版",
+            "price": 4180,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "2014 障害者スポーツ論",
+            "year": 2022,
+            "author": "森川洋・金子元彦・和秀俊",
+            "publisher": "大学図書出版",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "2022 全国障害者スポーツ大会競技規則集",
+            "year": 2024,
+            "author": "（公財）日本パラスポーツ協会",
+            "publisher": "（公財）日本パラスポーツ協会",
+            "price": 1000,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "解剖学",
+            "生理学"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "なし",
+        "other": "なし"
+    },
+    "evaluation_criteria": "授業中に指示したレポート、毎時間の振り返りレポート、授業への積極的な出席、試験により総合的に評価する。\nレポート（50％）、課題（50％）",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "日頃から障害者に関するテレビや新聞等を注意深く観察し、障害の理解を深めてください。講義では、特に、障害者が実施しやすいようにルール、用具、指導法などが工夫された「アダプテッド・スポーツ」に興味をもって学習を進めてください。また、関連した配布プリント等を用いて予習・復習を行ってください。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "障がいのある人との交流",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "各障がいの理解①肢体不自由、視覚障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "各障がいの理解②聴覚・音声言語障がい、内部障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "各障がいの理解③知的障がい（発達障がいを含む）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "各障がいの理解④精神障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "障がい各論①肢体不自由（脊髄損傷、脳性麻痺）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "障がい各論②肢体不自由（脳血管障がい、切断、欠損）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "障がい各論③視覚障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "障がい各論④聴覚・音声言語障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "障がい各論⑤内部障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "障がい各論⑥知的障がい（発達障害を含む）：知的障がいの具体像",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "障がい各論⑦知的障がい（発達障害を含む）：その他の発達障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "障がい各論⑧精神障がい",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "補装具の理解",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加地　信幸"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

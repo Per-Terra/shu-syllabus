@@ -1,0 +1,233 @@
+{
+    "_fetched_at": "2025-04-04T06:04:16Z",
+    "name_ja": "生体情報システム",
+    "name_en": "Biological Information System",
+    "syllabus_number": "2102700A",
+    "course_number": "31-2-22-34-04",
+    "target_departments_and_courses": [
+        "情報科学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "日置　智子",
+            "main": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(1) 脳やニューロン、感覚器、運動器の構造と機能を理解し説明できる。\n(2) 生体の感覚情報処理・運動制御の基本的な仕組みを理解し説明できる。\n(3) 生体データの計測方法や得られたデータの分析方法を理解し説明できる。",
+    "overview": "生体をシステムとして捉え、外部情報の入力に対して生体内でどのように処理が行われ、どのように出力がなされるのかという生体情報処理のメカニズムを理解するために必要な基礎知識を身につけることを目的とする。具体的には、生体が様々な感覚器で取得した情報を処理し、適切な運動や行動を実現する仕組みを学ぶ。また、その仕組みからヒントを得て開発された機械学習の手法について理解する。さらに、生体データを計測し、得られたデータを分析・評価する方法についても学ぶ。\n授業は主に講義形式で行うが、必要に応じてディスカッションや演習も取り入れて進めていく。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "歩行と走行の脳・神経科学‐その基礎から臨床まで‐",
+            "year": 2013,
+            "author": "大築立志ほか編著",
+            "publisher": "市村出版",
+            "price": 3520,
+            "isbn": "978-4902109313",
+            "available_on_campus": false
+        },
+        {
+            "title": "カンデル神経科学 第 2版",
+            "year": 2022,
+            "author": "Eric R. Kandelほか編, 宮下保司 (監修)",
+            "publisher": "メディカルサイエンスインターナショナル",
+            "price": 15950,
+            "isbn": "978-4815730550",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "１．脳やニューロン、感覚器、運動器の構造と機能、２．生体の感覚情報処理の基本的な仕組み、３．生体の運動制御の基本的な仕組み、４．生体データの計測および分析方法\n上記１．～４．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "「生体情報分析」の受講予定者は、本授業を履修してください。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、参考書等の該当箇所をよく読み(予習・45 分程度)、授業終了後には、授業時に配布した資料の重要箇所の再確認を行い、知識を定着させてください(復習・45分程度)。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、脳の構造と機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "ニューロンの構造と機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "ニューラルネットワーク",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "感覚情報処理①：視覚",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "感覚情報処理②：聴覚",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "運動器の構造と機能",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "運動制御の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "随意運動の学習と制御",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "周期的な運動の学習と制御：反射と CPG",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "さまざまな生体データの計測方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "生体データの処理方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "データ分析のための数学①：統計",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "データ分析のための数学②：微分・積分",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "生体データの分析方法",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "本講義のまとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

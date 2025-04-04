@@ -1,0 +1,226 @@
+{
+    "_fetched_at": "2025-04-04T06:05:27Z",
+    "name_ja": "公衆衛生",
+    "name_en": "Public Health",
+    "syllabus_number": "2114700A",
+    "course_number": "23-2-30-22-04、22-2-21-22-08",
+    "target_departments_and_courses": [
+        "人間健康科学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "長谷　亮佑",
+            "main": true
+        },
+        {
+            "name": "大平　光子",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．公衆衛生の概念を説明できる。\n２．集団の健康を捉える主な保健統計調査及び疾病の疫学について概説できる。\n３．地域における公衆衛生の実践（地域保健）について概説できる。\n４．学校・職場の保健・健康について概説できる。\n５．環境と健康の関わりについて説明できる。\n６．感染症と予防対策について説明できる。\n７．健康危機管理の体制及び危機管理の実際について説明できる。",
+    "overview": "公衆衛生は集団の中の健康状態や発生する疾病の原因について、生活環境から関連する要因を考察し、疾病予防や健康増進など、集団の健康を衛ることを目指す。本授業では、集団の健康を捉えるための手法や指標、環境と健康、地域、学校・職場における健康、医療制度やシステム、健康危機管理、集団を対象とした活動や対策に関する基礎的知識を理解する。本授業を通して、集団の健康を捉える基礎的知識、集団の健康を維持・増進・改善し、疾病を予防するための制度や施策に関する基礎的知識を身につける。",
+    "corresponding_diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "標準保健師講座　別巻２　疫学・保健統計学",
+            "year": 0,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [],
+        "brings": "ノートパソコン",
+        "other": "なし"
+    },
+    "evaluation_criteria": "筆記試験100％",
+    "evaluation_ratio": {
+        "試験": 100,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "積極的な学習姿勢を期待しています。\n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス、公衆衛生とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "集団の健康を捉える手法①人口統計",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "集団の健康を捉える手法②保健統計",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "集団の健康を捉える手法③疫学（がん、心疾患、脳血管疾患、糖尿病、難病、精神疾患、生活習慣病等の疫学）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "集団の健康を捉える手法④（周産期、母子・小児疾患、事故、学校・産業の疫学）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "感染症の疫学、感染症発生動向調査\nアウトブレイク時の疫学調査",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "疾病予防と健康管理、公共政策、疾病の予防とスクリーニング\n国際疾病分類、国際生活機能分類、疾病登録",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "環境と健康、健康の社会決定因子",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "予防医学・健康管理①　生活習慣病早期発見・予防と管理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "予防医学・健康管理②　がんの早期発見・診断・管理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "地域保健①：母子保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "地域保健②：成人保健、高齢者保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "地域保健③：精神保健、障害者保健",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "学校・職場と健康",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "健康危機管理・まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長谷　亮佑"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "公衆衛生に関わる業務に従事している教員が講義する。"
+}

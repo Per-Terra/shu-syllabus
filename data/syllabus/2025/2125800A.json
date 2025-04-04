@@ -1,0 +1,231 @@
+{
+    "_fetched_at": "2025-04-04T06:06:47Z",
+    "name_ja": "地域公共政策論",
+    "name_en": "Studies on local public policies",
+    "syllabus_number": "2125800A",
+    "course_number": "20-1-41-22-04、23-1-25-22-05",
+    "target_departments_and_courses": [
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 1,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "伊藤　敏安",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "●地域公共政策に関する基本用語を理解し、身近な問題として考えることができる。\n●地域公共政策に関連する情報などに接したとき、自分で考え自分で評価できる。",
+    "overview": "●地域のWell-being向上のために、公共的に対応すべき地域課題の解決に向けた考え方や政策手段について、事例を交えながら学修する。 \n●「市場の失敗」があるからこそ政府介入が必要である半面、「政府の失敗」も起こることを認識したうえで、集合的意思決定の方法と課題、地域経済の維持・振興方策、地域経済活性化による税収の安定化の課題などについて学ぶとともに、人口減少局面での地域公共政策の方向について検討する。 \n●地域公共政策にかかわる基本概念と用語を理解し、身近な問題としてとらえるようになるとともに、報道などで関連情報に接したとき、自分で考え、自分で評価できる能力の増進をめざす。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "ゼロから学ぶ経済政策",
+            "year": 2010,
+            "author": "飯田泰之",
+            "publisher": "角川書店",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        },
+        {
+            "title": "地域政策の経済学",
+            "year": 2018,
+            "author": "林宜嗣ほか",
+            "publisher": "日本評論社",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "特になし。"
+        ],
+        "recommended_courses": [],
+        "brings": "筆記具、ノート、「授業のスライド」（各自印刷）",
+        "other": "特になし。"
+    },
+    "evaluation_criteria": "●毎回の確認テストで基本用語や考え方についての理解を確認します。\n●最終試験でこれらを総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 40,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "【授業中】\n●事前・事後学習を含めて「自分のノート」をつくること。積極的な質問を歓迎します。\n●「授業のスライド」を事前に印刷して授業に臨むこと。\n\n【事前・事後学習】合計240分\n●各回の前日までに「授業のスライド」「キーワードと関連サイト」「確認テスト結果」をC-learningに掲載します。授業前には、これらを参考にして実際の状況や事例を自分で調べてみること。授業後の復習では、新たな気づきを「自分のノート」に適宜追補すること。\n●「確認テスト」は前半・後半の2回に分けて返却します。最終試験前には「自分のノート」と「確認テスト結果」を中心に復習すること。\n\n※オフィスアワー　講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の概要、進め方、注意事項、基本用語",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "政府部門と民間（市場）部門の役割分担",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "外部経済・不経済の問題と政策的対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "情報の非対称の問題と政策的対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "競争の不完全の問題と政策的対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "公共財供給の問題と政策的対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "政府部門の失敗への対応",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "中央政府と地方政府の役割分担",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "集合的意思決定と合意形成の仕組み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "地方政府の議会と選挙制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "地方政府の組織",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "地方分権改革の動向と課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "市町村への権限移譲と都道府県への広域化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "官民協働の意義と課題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "地域公共政策にかかわる新たな動向",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
+}

@@ -1,0 +1,230 @@
+{
+    "_fetched_at": "2025-04-04T06:04:56Z",
+    "name_ja": "簿記中級Ⅰ",
+    "name_en": "Intermediate Bookkeeping Ⅰ",
+    "syllabus_number": "2108300A",
+    "course_number": "11-2-27-21-02",
+    "target_departments_and_courses": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "中谷　滋",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "(1)企業会計の意味や役割、財務会計の機能について企業会計制度や会計基準を習得する。\n(2)財務諸表のデータから経営内容を把握できる。\n(3)企業会計制度に沿った会計処理の方法を具体的な取引に基づいて行うことができる。\n(4)日本商工会議所主催簿記検定2級の商業簿記分野に合格できる知識と技術を身に付ける。",
+    "overview": "本講義では、株式会社の高度な経済活動とその結果に関する認識・測定・記録するシステムの理論について扱う。具体的には、本講義を通じて銀行勘定調整表の作成、債権の譲渡に関する取引、有価証券の取得・売却などに関する取引、債務保証に関する取引、契約資産・契約負債に関する取引、無形固定資産の取得・売却などに関する取引、引当金に関する取引などの理論について理解し、適切に会計処理できるようになる。また、経理担当者に必要な取引の本質を理解する力、適切に会計処理ができる力を身につけることができる。",
+    "corresponding_diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "2025年度版 スッキリわかる 日商簿記2級 商業簿記",
+            "year": 2025,
+            "author": "滝澤　ななみ",
+            "publisher": "TAC出版",
+            "price": 1650,
+            "isbn": "9784300115725",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "簿記初級Ⅰ",
+            "簿記初級Ⅱ"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "テキスト、ノート、電卓、筆記用具",
+        "other": "履修の条件として、日本商工会議所主催簿記検定３級受験経験者に限る。"
+    },
+    "evaluation_criteria": "①会計法規に基づいた仕訳の理解度。\n上記に関する理解度を以下の「学生による評価」により評価する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 70,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 30
+    },
+    "message_from_teachers": "本科目を理解するために、①復習としてテキストを見返しながら、知識の定着を図ること。②毎授業の最後に示される次回予告の部分を予習しておくこと等１．５時間程度費やす必要がある。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ガイダンス：授業の進め方、成績評価、授業方針、企業会計制度",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "株式の発行、剰余金の配当と処分、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "合併と無形固定資産、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "法人税等と消費税、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "商品売買等（売上原価対立法、クレジット払い等）、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "手形と電子記録債権（債務）、その他の債権譲渡、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "銀行勘定調整表、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "これまでの確認テスト：仕訳、銀行勘定調整表",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "①有形固定資産（割賦購入、減価償却等）、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "②有形固定資産（売却、買い替え、除却等）、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "③有形固定資産（圧縮記帳、リース取引）、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "無形固定資産（研究開発とソフトウェア）、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "①有価証券（当座資産）、分類、購入、売却等、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "②有価証券（当座資産）、決算時・利払い日以外、確認問題",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "前期講義確認テスト：仕訳",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

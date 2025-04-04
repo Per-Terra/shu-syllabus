@@ -1,0 +1,210 @@
+{
+    "_fetched_at": "2025-04-04T06:06:32Z",
+    "name_ja": "子どもの遊びと造形",
+    "name_en": "children'　modeling　play",
+    "syllabus_number": "2124600A",
+    "course_number": "23-2-23-21-02",
+    "target_departments_and_courses": [
+        "人間健康科学部 福祉学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "弘中　順一",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．子どもの造形活動で用いられる多様な造形技法を身に付ける\n２．子どもの発達と造形技法の関係について説明することができる\n３．造形遊びの展開方法を身に付ける",
+    "overview": "本授業の目的は、子どもとかかわる際に必要な援助技術のうち、造形遊びを中心に学ぶことである。そのために授業では、保育活動で用いられる多様な造形技法について学び、子どもの発達と造形技法の関係性について理解し、発達に応じた造形遊びの展開方法を身に付けていく。\nこの授業を通して、①多様な造形技法、②子どもの発達と造形技法の関係、③造形遊びの展開、について学び、造形遊びを通した援助技術を身に付ける。\n主に実技形式で授業を進めていく。子どもの目線に立って造形技法を経験することで保育士としてふさわしい援助の視点を考察できるようにする。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "スケッチブック(学修したことをファイルイングします）",
+        "other": "プリントを配布し適宜案内する適宜案内する。機材の数に限りがあるため、履修者数の上限を20名とします。"
+    },
+    "evaluation_criteria": "１．保育活動における多様な造形技法、２．造形表現と発達過程、３．造形活動の展開方法\n　上記１～３に関する理解度を以下の「学生に対する評価」により評価する。\n　筆記試験50%、課題制作50%",
+    "evaluation_ratio": {
+        "試験": 50,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 50
+    },
+    "message_from_teachers": "【オフィスアワー】\n講義の前後に受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "造形遊びの基本",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "造形表現の発達過程",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "色彩の知識",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "造形技法遊び①：クレヨンを使った技法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "造形技法遊び②：絵の具を使った技法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "造形技法遊び③：様々な素材を使った技法",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "造形技法遊び④：粘土遊び",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "造形技法遊び⑤：折り紙遊び",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "造形技法遊び⑥：工作遊び",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "形態と構成の理解①：平面と立体",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "形態と構成の理解②：立体構造の仕組み",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "子どもの発達と造形遊び①：2歳児",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "子どもの発達と造形遊び②：3歳児",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "子どもの発達と造形遊び③：4歳児",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "子どもの発達と造形遊び④：5歳児・まとめ",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "弘中　順一"
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": ""
+}

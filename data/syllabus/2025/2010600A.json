@@ -1,0 +1,254 @@
+{
+    "_fetched_at": "2025-04-04T06:00:03Z",
+    "name_ja": "スポーツ運動学",
+    "name_en": "Sports Movement and Behaviour",
+    "syllabus_number": "2010600A",
+    "course_number": "21-2-22-21-05",
+    "target_departments_and_courses": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "",
+    "teachers": [
+        {
+            "name": "成績認定用教員",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "オンライン"
+    ],
+    "themes_and_goals": "1.運動学の基礎的知識を理解し、自分の意見を述べることができる。\n2.運動学の視点から運動を理解し、自分の意見を述べることができる。\n3.運動学の知見を運動指導に応用する方法を述べることができる。",
+    "overview": "運動学は指導者が運動動作を把握し、効果的な指導を行う際の拠り所となる理論を提供することを目的とする。本授業を通して、運動の技術とは何か、運動の良否をどう判断するか、運動を学習するときにどのような過程をたどるのか、成長に伴ってどのように運動技能が発達していくのかといった、運動学の基本的な問題について自分の意見を述べることができるようになることを目指す。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "スポーツ運動学",
+            "year": 2009,
+            "author": "金子明友",
+            "publisher": "明和出版",
+            "price": 3400,
+            "isbn": "9784901933209",
+            "available_on_campus": false
+        },
+        {
+            "title": "身体知の形成（上）",
+            "year": 2005,
+            "author": "金子明友",
+            "publisher": "明和出版",
+            "price": 4180,
+            "isbn": "9784901933087",
+            "available_on_campus": false
+        },
+        {
+            "title": "身体知の形成（下）",
+            "year": 2005,
+            "author": "金子明友",
+            "publisher": "明和出版",
+            "price": 3300,
+            "isbn": "9784901933087",
+            "available_on_campus": false
+        },
+        {
+            "title": "身体知の構造",
+            "year": 2007,
+            "author": "金子明友",
+            "publisher": "明和出版",
+            "price": 4620,
+            "isbn": "9784901933155",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "適宜資料を配布する。",
+        "other": "特になし"
+    },
+    "evaluation_criteria": "小テスト50％\nレポート50％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 50,
+        "レポート": 50,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "この授業を通して、運動に対する理解を深めるとともに、運動指導者のあるべき姿について自分なりにじっくり考えてみましょう\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション スポーツ運動学の概念と目的：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "運動の観察と分析 スポーツ運動学の研究方法：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "実験：他者観察の能力 私には何が見えているのか（器械運動VTR）：対面",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "動感自己観察と他者観察 運動共感能力による観察：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "運動記憶と運動学習 動感アナロゴンによる学習転移：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "実習：ジャグリング コツとカンの相互隠蔽原理 ：対面",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "創発能力と促発能力 付帯伸長能力と徒手伸長能力：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "達成力としての運動技能 逆上がりの動感構造分析：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "実習：スキップ跳び スキップを言葉で説明する ：対面",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "運動発生と習熟位相 スキップの段階的接近法：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "能動的構成と受動的構成 後転とびの段階的接近法：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "実習：ストループ体操 反逆身体を知る ：対面",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "技術の運動学的認識 け上がりの握りなおし技術：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "促発分析能力 <観察><交信><代行><処方>：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "学校体育必修の基礎付け 身体性の概念：Online",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野田　智洋"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

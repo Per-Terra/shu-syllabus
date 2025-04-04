@@ -1,0 +1,216 @@
+{
+    "_fetched_at": "2025-04-04T06:04:13Z",
+    "name_ja": "IoTとAI",
+    "name_en": "IoT and Al",
+    "syllabus_number": "2102500A",
+    "course_number": "31-2-22-31-02",
+    "target_departments_and_courses": [
+        "情報科学部 情報科学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "河村　拓実",
+            "main": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. IoTの基本を理解できる\n2. さまざまなセンサーテクノロジーの概観を身に付けることができる\n3. IoTとAIを相互活用することでどのようなサービスが実現できるかを理解できる\n4. 今後のビジネスにIoTとAIをどのように活用すべきかの方向性をつかむことができる",
+    "overview": "モノをインターネットの接続することでそこから得られるデータを効果的に処理したりモノを制御するフレームワークがIoT (Internet of Things) であるが、単純制御を超えて環境データなどに応じた動的な制御処理を行うことが意図されている点でAIとIoTは表裏一体であり、スマートソサエティなどの実現に欠かせない。本講義ではIoTの目や耳を担うセンサーテクノロジー、複数のモノからのデータを集約し処理する基本的なデータ処理技術、それに基づくアウトプットとしての警告発出やモノの制御について基礎的なレベルを概観し、それがどのように今後のビジネス、社会の向上につなげられるのかをケースステディとして学習することで、AIとIoTの協調で今後のビジネス社会がどのように発展していくかを知り、それを利用・活用する知識・技術の基盤を身に付ける。\n　授業では講義形式が中心となるが、実際の活用例をもとにした議論、初歩的なIoT の実装演習を含む。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "筆記具、ノート、ノートPC",
+        "other": "教科書　PDFでダウンロード　参考図書　授業時に指示する"
+    },
+    "evaluation_criteria": "1.IoTとAIの概要、2.センサーテクノロジーの基本、3.IoTの入出力とその制御についての理解・修得度を以下の「学生に対する評価」により評価する。\n筆記試験 60% 課題演習 40% (授業期間後半に提示される5間のうちから2問を選択して提出する)",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 40,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "IoTとAIは今後の「スマートな」社会の実現に欠くことができないものであり、だからこそ大きなビジネスチャンスの種でもある。そうしたIoTとAIの基本を理解する上では概念知識の習得とともに実際に活用するためのスキルの習得も重要となる。このため、合計で3時間程度を想定される予習復習においては授業時に提示するさまざまなオンラインコンテンツを利用して習得度を高めるよう工夫する。\n【オフィスアワー】 講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "ITとAIの全体像",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "スマートホーム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "スマートファクトリー",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "スマートソサエティ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "センサーテクノロジー入門",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "センサーテクノロジー実践",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "センサー+インターネット",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "複数のセンサーの情報を集約する",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "IoTに必要なAlを使った決定論的意思決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "IoTに必要なAIを使った機械学習的意思決定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "リアルタイム処理",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "エッジAIとIoT",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "複数デバイスの組み合わせとしてのIoT",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "アウトプットから見たIoT",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "IoTとAIの今後",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

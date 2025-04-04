@@ -1,0 +1,415 @@
+{
+    "_fetched_at": "2025-04-04T06:05:59Z",
+    "name_ja": "高齢者看護方法",
+    "name_en": "Gerontological Nursing",
+    "syllabus_number": "2118100A",
+    "course_number": "22-2-23-22-07",
+    "target_departments_and_courses": [
+        "人間健康科学部 看護学科"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "田淵　啓二",
+            "main": true
+        },
+        {
+            "name": "加茂　尚子",
+            "main": false
+        },
+        {
+            "name": "辻　麻由美",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "1. 高齢者に特有な問題を身体的・心理精神的・社会的な観点で包括的にアセスメントできる\n2. 高齢者の健康障害リスクについてアセスメントし、予防する看護を説明できる \n3. 高齢者の多様な健康レベルに応じ、多職種連携が必要であることが理解できる \n4. 高齢者の個別性、価値観、家族、社会背景を踏まえた人生の最終段階における看護について考察できる \n5. 高齢者のリハビリテーションの重要性を理解し、フレイル、サルコペニア、ロコモティブ・シンドロームについて説明できる \n6. 認知症の高齢者の特性や必要な看護ケアについて説明できる \n7. 高齢者虐待の特徴や種類を理解し、看護職に求められる役割について理解できる \n8. 介護保険のしくみや対象者、提供するサービスについて説明できる \n9. 高齢者の尊厳と生活の質（Quality Of Life）を支える看護について考察できる",
+    "overview": "高齢者特有の健康問題を理解する。正常な範囲内の加齢変化の過程を踏まえたうえで、健康に障害がある状態を総合的にアセスメントする必要性について学修する。アセスメントの方法や考え方、それに基づく高齢者へのケアの基本的な方法を学習する。",
+    "corresponding_diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座 老年看護学",
+            "year": 2025,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        },
+        {
+            "title": "系統看護学講座 老年看護 病態・疾患論",
+            "year": 2025,
+            "author": "",
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "根拠と事故防止からみた 老年看護技術",
+            "year": 2020,
+            "author": "亀井 智子",
+            "publisher": "医学書院",
+            "price": 4400,
+            "isbn": "4260043269",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "高齢者看護学概論"
+        ],
+        "recommended_courses": [
+            "well-being実習Ⅰ",
+            "高齢期疾病治療論"
+        ],
+        "brings": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する。",
+        "other": "後期を通して２コマ続きの講義と演習。この科目は「高齢者看護実践」、「高齢者看護実習」の先修条件科目である。"
+    },
+    "evaluation_criteria": "期末試験: 60%（100点満点で60点以上取得すること）\n課題提出物 20％（講義開始時に前回の講義内容を中心とした小テストを行う）\n演習態度 20％（演習後の提出物評価も含む）",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 20,
+        "レポート": 0,
+        "発表・実技": 20,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "超高齢社会においては高齢者を対象とした看護は避けて通れません。高齢者と向き合ったときに必要な看護職に必要な知識と看護ケアの方法を学んでいきましょう。（事前学習45分、事後学習45分） \n \n【オフィスアワー】 \n講義のある曜日。 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "高齢者看護方法オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "身体の加齢変化とアセスメント（視聴覚とそのほかの感覚）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "高齢者体験①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "",
+                "辻麻由美",
+                "",
+                "",
+                "加茂尚子"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "高齢者体験②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "",
+                "辻麻由美",
+                "",
+                "",
+                "加茂尚子"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "高齢者のヘルスアセスメントの基本、バイタル測定",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "高齢者のヘルスアセスメント（循環器、呼吸器、消化器など）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "高齢者とのコミュニケーション・精神的安寧を保つためのケア",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "高齢者の皮膚、掻痒、浮腫",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "高齢者の皮膚のアセスメント、褥瘡、スキンテア",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "皮膚の清潔（入浴やシャワー浴の介助、洗髪、清拭）",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "高齢者が快適なベッド周りの臥床環境整備、整容",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "施設や自宅における看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "対象者の家族への看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "高齢者の様々な症状のアセスメントと回復を促す看護①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "高齢者の様々な症状のアセスメントと回復を促す看護②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "身体疾患のある高齢者の看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "認知機能障害のある高齢者の看護①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "認知機能障害のある高齢者の看護②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "不眠、高齢者の活動と休息、生活リズム",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "薬物療法・検査を受ける高齢者の看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "入院・手術を受ける高齢者の看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "高齢者のセクシャリティ、高齢者の社会参加",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "基本姿勢、運動系のアセスメント、転倒、廃用症候群",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "高齢者の骨折、骨粗しょう症",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "リハビリテーションを受ける高齢者への援助",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "在宅復帰を目指してリハビリテーションに励む高齢者への看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "リハビリテーションを受ける高齢者の看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "摂食・嚥下障害がある人への看護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "高齢者の権利擁護",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "エンドオブライフケア",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "高齢者看護の実務を経験している教員が、高齢者との関わり方や看護ケア、地域連携、社会資源の活用方法について実例を交えて教育・指導する。"
+}

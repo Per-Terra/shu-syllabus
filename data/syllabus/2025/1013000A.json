@@ -1,0 +1,247 @@
+{
+    "_fetched_at": "2025-04-04T05:56:02Z",
+    "name_ja": "健康産業施設実習",
+    "name_en": "Health Promotion Facilites Workshop",
+    "syllabus_number": "1013000A",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "複数",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "main": true
+        },
+        {
+            "name": "松生　香里",
+            "main": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "【到達目標】\n1.運動指導の実際について理解できる。\n2.健康産業施設に適した対応・コミュニケーションができる",
+    "overview": "本実習は、健康産業施設において、実際の運動指導現場に触れ、健康運動指導を体験する科目である。現場実習を通じて、これまで学んできた事を実践し、将来の指導に生かせるような知識と技術を養うとともに、現場での実務等への理解を深める。また、実践を通じて知識と技術を身につけると共に社会性、コミュニケーション能力、前向きに対応する力、応用力、課題解決力を養う。",
+    "corresponding_diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "『健康運動指導士養成講習会テキスト上・下』",
+            "year": 0,
+            "author": "",
+            "publisher": "公益財団法人健康・体力づくり事業財団",
+            "price": null,
+            "isbn": "",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "解剖学",
+            "生理学"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "特になし",
+        "other": "授業中に適時、資料を配布する。"
+    },
+    "evaluation_criteria": "実習に取り込む姿勢（参加態度）70％、課題レポート30％",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 70
+    },
+    "message_from_teachers": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "オリエンテーション",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "実習施設事前視察研修",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "現場指導実習①実習ガイダンス",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "現場指導実習②接客業務について",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "現場指導実習③施設管理業務について",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "現場指導実習④フィトネス業務\n～マシン・フロアメンテナンスについて～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "現場指導実習⑤フィトネス業務\n～有酸素マシーンについて～",
+            "methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "現場指導実習⑥フィットネス業務\n～レジスタンスマシーンについて～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "現場指導実習⑦フィットネス業務\n～グループエクササイズについて～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "現場指導実習⑧フィットネス業務\n～イベント企画について～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "現場指導実習⑨スイミング業務\n～プール環境管理について～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "現場指導実習⑩スイミング業務\n～成人スクールの水泳指導法について～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "現場指導実習⑪スイミング業務\n～レッスンプログラム指導法について～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "現場指導実習⑫スイミング業務\n～ジュニアコース指導法について～",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "現場指導実習⑬スイミング業務\n～イベント企画について～\n実習終了後、レポート作成",
+            "methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

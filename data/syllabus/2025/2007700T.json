@@ -1,0 +1,370 @@
+{
+    "_fetched_at": "2025-04-04T05:59:41Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700T",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "経済学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行った。その間に学生の興味関心の変化もあろうかと考えられるが、引き続きデータ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいて、卒業論文を作成することを到達目標とする。\n\n1. 設定したテーマに関する知識と理解ができていること。\n2. 意味のある課題設定と明らかにしたい目標に対する計画が立てられること。\n3. 報告において、論点を整理しわかりやすく要点を伝えることができること。",
+    "overview": "フィールドワークを中心にするか、文献データによる分析を中心にするかは、各人の関心と関心のある分野の特性を鑑みて話し合いながら決定する。必要に応じて相談を行いますが、テーマ設定や必要な文献の知識は各人で異なるでしょうから教員はあくまでサポートです。ゼミ内のプレゼンテーションで練習を行いながら、卒業論文執筆に向けての問題点の洗い出しや添削をしていきます。",
+    "corresponding_diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "ミクロ経済学Ⅰ・Ⅱ",
+            "意思決定科学",
+            "経済学",
+            "心理学",
+            "データサイエンス入門",
+            "経済政策"
+        ],
+        "brings": "パソコンは必要になると考える。",
+        "other": ""
+    },
+    "evaluation_criteria": "最終的には卒業論文で判断する。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "モチベーションがないと良い卒業論文は完成しないでしょう。興味・関心のあるテーマを探しながら成果が上がるように互いに注力できるように努力したいと考えています。\n\n予習・復習時間を90分程度確保しておいてください。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "オリエンテーション",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "文献サーベイ・調査計画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "文献サーベイ・調査計画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "文献サーベイ・調査計画",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "文献調査ないしはフィールドワーク",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "文献調査ないしはフィールドワーク",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "文献調査ないしはフィールドワーク",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "データ分析と論点整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "データ分析と論点整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "データ分析と論点整理",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "論文の骨子案の作成と見直し",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "論文の骨子案の作成と見直し",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "論文の骨子案の作成と見直し",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "中間報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "中間報告",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "16",
+            "content": "論文作成のフォーマットの確認(参考文献の書き方、剽窃などの注意など)",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "17",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "18",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "19",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "20",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "21",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "22",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "23",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "24",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "25",
+            "content": "進捗状況の報告と修正",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "26",
+            "content": "論文ドラフト発表の準備①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "27",
+            "content": "論文ドラフト発表の準備②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "28",
+            "content": "論文ドラフト発表の準備③",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "論文発表①",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "論文発表②",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田島正士"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}

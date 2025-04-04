@@ -1,0 +1,180 @@
+{
+    "_fetched_at": "2025-04-04T05:59:01Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AA",
+    "course_number": "",
+    "target_departments_and_courses": [
+        "福祉情報学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 4,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "クラス分け",
+    "teachers": [
+        {
+            "name": "伊藤　敏安",
+            "main": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "●地域公共政策に関係する課題を各自で取り上げて、文献やデータをもとに実証的に整理・分析する基礎的な手法を修得します。\n●整理・分析結果を分かりやすくプレゼンテーションするスキルと文章にする力を身につけます。\n●これらの成果を卒業研究としてまとめます。",
+    "overview": "●各自が取り上げた課題について自分で調べたことを発表します。発表について参加者相互で議論し、次回の発表で改善するとともに、内容の深化と発展を図ります。\n●地域公共政策にかかわる分野として、地方行政、地方財政、地方税制、国・地方関係、地方分権、地方議会・選挙制度、地域福祉、都市経営、まちづくり、産業振興、地域経済、住民参加、関係主体の協働などを想定しています。",
+    "corresponding_diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [],
+        "brings": "",
+        "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
+    },
+    "evaluation_criteria": "●発表の内容や熟度、指摘への対応、質問や意見によるゼミへの参加状況から総合的に評価します。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 100,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "●このゼミでは、自分自身の問題意識を明確にすること、文献やデータの整理・分析に自発的に取り組むこと、参加者との討論に積極的に参画すること、ゼミを通じて自分自身の成長を実感できることをめざします。\n●データについては、だれかの論文やレポートの「2次資料」を利用するのではなく、元々の統計などの「1次資料」にあたるよう心がけましょう。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "授業の進め方、注意事項",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "2-4",
+            "content": "地方行政",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "5-7",
+            "content": "地方財政",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "8-10",
+            "content": "国・地方関係、地方分権",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "11-13",
+            "content": "地選挙制度選挙制度",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "14-16",
+            "content": "地域福祉",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "17-19",
+            "content": "まちづくり、地域振興、都市経営",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "20-22",
+            "content": "産業振興、地域経済",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "23-25",
+            "content": "住民参加、協働",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "26-28",
+            "content": "文章化",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "29",
+            "content": "総合プレゼンテーションと相互評価",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "session": "30",
+            "content": "まとめ、振り返り",
+            "methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
+}

@@ -1,0 +1,232 @@
+{
+    "_fetched_at": "2025-04-04T06:04:25Z",
+    "name_ja": "組み込みシステム",
+    "name_en": "Embedded Systems",
+    "syllabus_number": "2104100A",
+    "course_number": "31-2-23-34-07",
+    "target_departments_and_courses": [
+        "情報科学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "髙藤　大介",
+            "main": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．組み込みシステムの特徴、基礎知識を習得できる。\n２．論理設計の基礎知識を習得できる。\n３．さまざまな計算を行う回路の設計法を習得できる。\n４．コンピュータが動く仕組みを理解できる。",
+    "overview": "組み込みシステムは家電、ゲーム機器、スマートフォン、自動車などの広く利用されており、生活に欠かせないものであり、組み込みシステムのエンジニアは重要視されている。この講義の目的は、さまざまな計算を行う回路の設計法を習得し、組み込みシステムのエンジニアに必要な基礎知識を修得することである。組み込みシステムの特徴、割り込みの基礎を学び、リアルタイム処理と割り込みの仕組みについて学習する。この講義を受講することにより、コンピュータが動く仕組みを理解し、コンピュータとプログラミングの関係性を理解できる。\n講義形式で進める。毎回演習問題をおこない、学生自身が理解度を確認できるようにする。また、小テストをおこなうことで、さらなる理解度の向上と知識の定着を促進できるようにする。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "reference_books": [
+        {
+            "title": "デジタル回路設計 -FPGA時代の論理回路設計-",
+            "year": 2021,
+            "author": "中野 浩嗣、伊藤 靖朗著",
+            "publisher": "コロナ社",
+            "price": 2750,
+            "isbn": "9784339009439",
+            "available_on_campus": false
+        },
+        {
+            "title": "組込みシステム概論",
+            "year": 2008,
+            "author": "情報処理学会組込みシステム研究会 監修、戸川 編著",
+            "publisher": "CQ出版社",
+            "price": 2860,
+            "isbn": "978-4789845502",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "なし"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "ノートパソコン、筆記用具、ノート",
+        "other": "なし"
+    },
+    "evaluation_criteria": "論理設計の基礎、組み込みシステムの基礎に関する理解度を以下の「学生に対する評価」に従い評価する。",
+    "evaluation_ratio": {
+        "試験": 70,
+        "小テスト": 0,
+        "レポート": 30,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "組み込みシステムは家電、ゲーム機器、スマートフォン、自動車などの広く利用されており、組み込みシステムのエンジニアは重要視されている。この講義では基礎知識の習得を目指すが、組み込みシステムの特徴と魅力を伝えますので、興味を持って授業に望んでください。また、演習問題は自ら積極的に取組み、解決能力を身に付けてください。\n\n授業に参加する前に、次回の「授業の内容」を参照し、講義資料をください（予習・30分）。また授業終了後には、講義資料と演習問題を見直し、課題レポートにより理解を深めてください（復習・30分）。\n\nオフィスアワーは授業中にお知らせします。",
+    "schedule": [
+        {
+            "session": "1",
+            "content": "論理式、基本ゲート回路",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "2",
+            "content": "論理式の簡単化",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "3",
+            "content": "カルノー図",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "4",
+            "content": "符号付き2進数、加算回路",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "5",
+            "content": "フリップフロップ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "6",
+            "content": "非同期カウンタ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "7",
+            "content": "カウンタ回路、完全同期式順序回路",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "8",
+            "content": "メモリ回路、数取器回路",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "9",
+            "content": "組み込みシステムと汎用システム",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "10",
+            "content": "組み込みシステムの構成要素（バス、メモリなど）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "11",
+            "content": "組み込みシステムの構成要素（カウンタ、インターフェースなど）",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "12",
+            "content": "割り込みについて",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "13",
+            "content": "リアルタイム処理と割り込み",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "14",
+            "content": "組み込みシステムの基本ソフトウェア",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        },
+        {
+            "session": "15",
+            "content": "マルチプロセッサ、組み込みシステムの製品",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙藤　大介"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": "なし"
+}

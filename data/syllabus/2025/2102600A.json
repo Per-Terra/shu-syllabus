@@ -1,0 +1,250 @@
+{
+    "_fetched_at": "2025-04-04T06:04:14Z",
+    "name_ja": "多変量解析",
+    "name_en": "Multivariate analysis technique",
+    "syllabus_number": "2102600A",
+    "course_number": "33-2-54-33-06、31-2-22-33-03",
+    "target_departments_and_courses": [
+        "経済経営学部",
+        "情報科学部"
+    ],
+    "type": "専門科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "大島　和裕",
+            "main": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "１．様々な多変量解析手法に関する知識を取得する。\n２．多変量解析の数学的根拠を理解する。\n３．簡単な多変量解析をプログラミングを用いて実施することができる。",
+    "overview": "多変量解析とは、多くの情報（複数のデータ）の関連性を分析し、「要約・予測」するための分析手法であり、情報化社会において必須のスキルのひとつである。本講義では、線形代数・微分積分・数理統計等の知識を前提とし、多変量解析の方法を学ぶ。数式を用いた多変量解析の厳密な記述ではなく、多変量解析の本質的な考え方を理解することが主眼となる。また、様々な多変量解析の種類と選択方法を解説し、RやPythonを用いた実践的な手段も紹介する。重回帰分析、判別分析、主成分分析等の代表的な手法の数学的根拠を理解し、実践的な課題に取り組む能力を身につける。主に講義形式で授業を進めていくが、プログラミングを用いた演習等も必要に応じて実施する。",
+    "corresponding_diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "多変量解析がわかる",
+            "year": 2011,
+            "author": "涌井良幸、涌井貞美",
+            "publisher": "技術評論社",
+            "price": 2068,
+            "isbn": "978-4-7741-4639-3",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [
+        {
+            "title": "多変量解析法入門",
+            "year": 2001,
+            "author": "永田 靖、棟近雅彦",
+            "publisher": "サイエンス社",
+            "price": 2420,
+            "isbn": "978-4-7819-0980-6",
+            "available_on_campus": false
+        },
+        {
+            "title": "多変量解析のはなし【改訂版】",
+            "year": 2006,
+            "author": "大村 平",
+            "publisher": "日科技連出版社",
+            "price": 2200,
+            "isbn": "978-4-8171-8027-8",
+            "available_on_campus": false
+        }
+    ],
+    "notes_on_enrollment": {
+        "required_courses": [],
+        "recommended_courses": [
+            "線形代数基礎",
+            "微分積分学基礎",
+            "確率統計基礎"
+        ],
+        "brings": "ノートパソコン",
+        "other": ""
+    },
+    "evaluation_criteria": "1.回帰分析、2.主成分分析、3.因子分析、4.SEM、5.判別分析、6.質的データの多変量解析の6つの項目に関する理解度を以下によって評価する。\n課題別レポート60%、期末レポート40%\n課題別レポートとして、6つの項目それぞれに対して簡単なレポートを2回の講義毎に実施する。\n期末レポートとして応用的な問題に取り組み、提出してもらう。",
+    "evaluation_ratio": {
+        "試験": 0,
+        "小テスト": 0,
+        "レポート": 100,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 0
+    },
+    "message_from_teachers": "多変量解析で学ぶ解析手法は、卒業研究等で役に立ちます。また、データサイエンティストとして就職した際は、必要不可欠なスキルです。社会人向けの多変量解析のセミナー等もたくさん開催されていますが、どれも高額です。大学生の間に身につけておいて損はありません。多変量解析は古くから発展してきた分野であるため、様々な教科書がありますが、数学的な記述が難解で自主学習を諦めてしまう人も多くいます。講義では難解な数式の本質的な意味を解説することで、数学的根拠を理解した上で実践的な技術も習得できるように工夫します。教科書に沿って授業しますので、事前に該当箇所に目を通しておくと理解度が増すと思います。復習として１時間程度で解答できるレポートを単元毎に実施します。成績評価においても重要ですので、必ず提出してください。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "ガイダンス、多変量解析とは",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "２",
+            "content": "多変量解析の準備",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "３",
+            "content": "回帰分析①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "４",
+            "content": "回帰分析②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "５",
+            "content": "主成分分析①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "６",
+            "content": "主成分分析②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "７",
+            "content": "因子分析①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "８",
+            "content": "因子分析②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "９",
+            "content": "構造方程式モデル（SEM）①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "構造方程式モデル（SEM）②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "判別分析①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "判別分析②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "質的データの多変量解析①",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "質的データの多変量解析②",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                ""
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "まとめ",
+            "methods": [
+                "講義"
+            ],
+            "teachers": [
+                ""
+            ]
+        }
+    ],
+    "open_to_non_students": true,
+    "practitioner": "なし"
+}

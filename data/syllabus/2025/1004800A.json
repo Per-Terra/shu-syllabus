@@ -1,0 +1,406 @@
+{
+    "_fetched_at": "2025-04-04T05:55:24Z",
+    "name_ja": "ドイツ語Ⅱ",
+    "name_en": "German II",
+    "syllabus_number": "1004800A",
+    "course_number": "11-2-13-21-01、21-2-13-21-01、23-2-13-21-01、31-2-13-21-01",
+    "target_departments_and_courses": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "type": "総合科目",
+    "main_department": "",
+    "requirements": "",
+    "year": 2,
+    "period": "",
+    "required_or_elective": "",
+    "course_category": "",
+    "class_type": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "main": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "class_forms": [
+        "対面"
+    ],
+    "themes_and_goals": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。\n自分の表現したい内容を作文し、発表できる。また、他の学生の発表内容を聞いて理解できるようになることを目指す。",
+    "overview": "ドイツ語 Iに引き続き、初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。基本文法を体系的に学びながら語彙力・表現力を増し、辞書を使いながら平易な文を読んだり書いたり話したりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n＊ドイツ語Ⅰで使用したテキストと辞書は必ず持ってくること。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "corresponding_diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "ミニマムドイツ語・フェアシュテーン",
+            "year": 2025,
+            "author": "熊谷　哲哉、大喜　祐太",
+            "publisher": "朝日出版社",
+            "price": 2530,
+            "isbn": "9784255254852",
+            "available_on_campus": true
+        }
+    ],
+    "reference_books": [],
+    "notes_on_enrollment": {
+        "required_courses": [
+            "ドイツ語Ⅰ"
+        ],
+        "recommended_courses": [
+            "なし"
+        ],
+        "brings": "テキスト（ドイツ語Ⅰで使用したテキストを含む）、ノート、独和・和独辞書",
+        "other": "なし"
+    },
+    "evaluation_criteria": "「試験」60％、「その他」40％で評価する。「その他」は授業中に指定した課題、小テスト、ワークシートや参加態度・意欲などに対する評価とする。",
+    "evaluation_ratio": {
+        "試験": 60,
+        "小テスト": 0,
+        "レポート": 0,
+        "発表・実技": 0,
+        "ポートフォリオ": 0,
+        "その他": 40
+    },
+    "message_from_teachers": "「ドイツ語Ⅰ」での既習文法の復習をしながら、使えるドイツ語を目指して頑張りましょう！\n\n毎時間「ドイツ語Ⅰ」で使用したテキストと辞書を持参してください。\n\n授業前後に３０分～１時間は単語調べなどの予習、習った表現の言いかえなどの復習をしましょう。\n＊皆さんの理解度に応じて、授業計画の内容に変更があることを承知しておいてください。また、変更の際には、皆さんにはきちんと説明します。",
+    "schedule": [
+        {
+            "session": "１",
+            "content": "授業の進め方についてのオリエンテーション\n発音練習・あいさつのおさらい",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２",
+            "content": "Lektion１人称代名詞と動詞の人称変化、語順\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３",
+            "content": "Thema１自己紹介\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "４",
+            "content": "Thema１自己紹介\nTeil2 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "５",
+            "content": "Lektion２ドイツ語の名詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "６",
+            "content": "Thema２ドイツ語圏の地理\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "７",
+            "content": "Thema２ドイツ語圏の地理\nTeil2,3読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "８",
+            "content": "Lektion３不規則動詞の人称変化、命令形、人称代名詞の格変化\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "９",
+            "content": "Thema３食べ物・スイーツ\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１０",
+            "content": "Thema３食べ物・スイーツ\nTeil2,3読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１１",
+            "content": "Lektion４冠詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１２",
+            "content": "Thema４産業\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１３",
+            "content": "Thema４産業\nTeil2,3 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１４",
+            "content": "Lektion５前置詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１５",
+            "content": "Thema５音楽\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１６",
+            "content": "Thema５音楽\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１７",
+            "content": "Lektion６話法の助動詞、接続詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１８",
+            "content": "Thema６旅行\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "１９",
+            "content": "Thema６旅行\nTeil2,3 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２０",
+            "content": "Lektion７分離動詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２１",
+            "content": "Thema７多文化共生\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２２",
+            "content": "Thema７多文化共生\nTeil2,3 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２３",
+            "content": "Lektion８zu不定詞、再帰代名詞\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２４",
+            "content": "Thema８教育制度\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２５",
+            "content": "Thema８教育制度\nTeil2,3 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２６",
+            "content": "Lektion９過去形、現在完了形\n文法演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２７",
+            "content": "Thema９歴史\nTeil1 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２８",
+            "content": "Thema９歴史\nTeil2,3 読解演習",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "２９",
+            "content": "自分で決めたテーマについて発表してみよう",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "session": "３０",
+            "content": "試験対策",
+            "methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "open_to_non_students": false,
+    "practitioner": ""
+}
