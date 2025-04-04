@@ -366,7 +366,9 @@ class SyllabusData(AAA):
             # 英文科目名称
             "name_en": self.get_text_by_id(f"{PREFIX_KIHON}EibunName"),
             # シラバス番号
-            "syllabus_number": self.get_text_by_id(f"{PREFIX_KIHON}SyllabusNo"),
+            "syllabus_number": (
+                self.get_text_by_id(f"{PREFIX_KIHON}SyllabusNo") or self.syllabusNo
+            ),
             # 科目ナンバー
             "course_number": self.get_text_by_id(f"{PREFIX_KIHON}KAMOKU_NO"),
             # 対象学科・コース
