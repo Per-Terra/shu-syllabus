@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-07T17:06:57Z",
+    "_fetched_at": "2025-04-07T11:05:50Z",
     "name_ja": "情報科学概論",
     "name_en": "Introduction to Information Science",
     "syllabus_number": "2100100A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "オムニバス",
+    "class_type": "",
     "teachers": [
         {
-            "name": "羽渕　由子",
-            "main": false
+            "name": "野村　典文",
+            "main": true
         },
         {
             "name": "酒井　徹也",
@@ -26,6 +26,10 @@
         },
         {
             "name": "立部　文崇",
+            "main": false
+        },
+        {
+            "name": "羽渕　由子",
             "main": false
         },
         {
@@ -57,10 +61,6 @@
             "main": false
         },
         {
-            "name": "野村　典文",
-            "main": true
-        },
-        {
             "name": "内田　善彦",
             "main": false
         },
@@ -69,11 +69,7 @@
             "main": false
         },
         {
-            "name": "矢島",
-            "main": false
-        },
-        {
-            "name": "安敏",
+            "name": "矢島　安敏",
             "main": false
         },
         {
@@ -85,7 +81,7 @@
             "main": false
         }
     ],
-    "term": "1Q",
+    "term": "第１クォーター",
     "credits": 2,
     "teaching_methods": [
         "講義"

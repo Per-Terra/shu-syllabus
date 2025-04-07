@@ -1,20 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T17:03:16Z",
+    "_fetched_at": "2025-04-07T11:03:23Z",
     "name_ja": "ミクロ経済学Ⅱ",
     "name_en": "MicroeconomicsⅡ",
     "syllabus_number": "2034100A",
-    "course_number": "1",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "田島　正士",
@@ -22,7 +22,7 @@
         },
         {
             "name": "伏木　貞文",
-            "main": true
+            "main": false
         }
     ],
     "term": "後期",

@@ -1,20 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T17:08:54Z",
+    "_fetched_at": "2025-04-07T11:07:08Z",
     "name_ja": "地域・在宅看護概論",
     "name_en": "Introduction to Community Health and　Home　Care　Nursing",
     "syllabus_number": "2118300A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "人間健康学部 看護学科"
+        "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
             "name": "家根　明子",
@@ -91,8 +91,8 @@
             "特になし"
         ],
         "recommended_courses": [],
-        "brings": "ノートパソコンまたはタブレット端",
-        "other": ".既習科目の学修内容を関連づけて学修してください。 2.出席確認と授業の参考にするためのリアクションペーパーは、期限までに提出してください。"
+        "brings": "ノートパソコンまたはタブレット端末",
+        "other": ".既習科目の学修内容を関連づけて学修してください。 2.出席確認と授業の参考にするためのリアクションペーパーは、期限までに提出してください。3. この科目は2年次の「地域・在宅支援論」、3年次の「地域包括支援論」、 「地域・在宅看護実践」、「地域・在宅看護実習」の先修条件科目である。"
     },
     "evaluation_criteria": "筆記試験(70%)、課題(30%)",
     "evaluation_ratio": {
@@ -167,7 +167,7 @@
         },
         {
             "session": "7",
-            "content": "域における看護実践の変遷",
+            "content": "地域における看護実践の変遷",
             "methods": [
                 "講義"
             ],

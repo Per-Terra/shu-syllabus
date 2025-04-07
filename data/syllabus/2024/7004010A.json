@@ -1,27 +1,27 @@
 {
-    "_fetched_at": "2024-08-07T17:11:33Z",
+    "_fetched_at": "2025-04-07T11:08:53Z",
     "name_ja": "剣道Ⅰ",
     "name_en": "Kendo I",
     "syllabus_number": "7004010A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "経済学部　ビジネス戦略学科　スポーツマネジメントコース"
+        "経済学部"
     ],
-    "type": "教職科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
-    "year": 3,
+    "year": 2,
     "period": "",
     "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
             "name": "香田　郡秀",
             "main": false
         }
     ],
-    "term": "前期",
+    "term": "通年",
     "credits": 1,
     "teaching_methods": [
         "講義",

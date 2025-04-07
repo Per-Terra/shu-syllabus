@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2024-08-07T17:09:32Z",
+    "_fetched_at": "2025-04-07T11:07:33Z",
     "name_ja": "こころとからだのしくみ",
     "name_en": "Mechanism of mind and body",
     "syllabus_number": "2125000A",
-    "course_number": "1",
+    "course_number": "",
     "target_departments_and_courses": [
-        "人間健康学部 福祉学科"
+        "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
-            "name": "原田　昌範",
-            "main": false
+            "name": "北村　光子",
+            "main": true
         },
         {
             "name": "大谷　道明",
             "main": false
         },
         {
-            "name": "北村　光子",
-            "main": true
+            "name": "原田　昌範",
+            "main": false
         }
     ],
     "term": "後期",

@@ -1,31 +1,31 @@
 {
-    "_fetched_at": "2024-08-07T17:07:24Z",
+    "_fetched_at": "2025-04-07T11:06:09Z",
     "name_ja": "地方創生とDX",
     "name_en": "",
     "syllabus_number": "2101100A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "経済経営学部 経済経営学科",
-        "人間健康学部 福祉学科",
-        "情報科学部 情報科学科",
         "経済学部",
-        "福祉情報学部"
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
             "name": "立部　文崇",
             "main": false
         }
     ],
-    "term": "3Q",
+    "term": "第３クォーター",
     "credits": 2,
     "teaching_methods": [
         "講義"

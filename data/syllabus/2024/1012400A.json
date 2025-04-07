@@ -1,21 +1,21 @@
 {
-    "_fetched_at": "2024-08-07T15:41:52Z",
+    "_fetched_at": "2025-04-07T10:54:23Z",
     "name_ja": "ワークショップデザインⅠ",
     "name_en": "Workshop Design 1",
     "syllabus_number": "1012400A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "赤木　真由",
@@ -32,13 +32,9 @@
         {
             "name": "岡井　理香",
             "main": false
-        },
-        {
-            "name": "水﨑　佑毅",
-            "main": false
         }
     ],
-    "term": "前期",
+    "term": "通年",
     "credits": 2,
     "teaching_methods": [
         "講義",

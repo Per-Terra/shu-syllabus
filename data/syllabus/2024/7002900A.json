@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T17:11:06Z",
+    "_fetched_at": "2025-04-07T11:08:36Z",
     "name_ja": "教育実習基礎講座Ⅰ",
     "name_en": "Seminar for Prepare for Teaching Practice I",
     "syllabus_number": "7002900A",
@@ -13,9 +13,9 @@
     "requirements": "",
     "year": 3,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "大坂　遊",
@@ -41,7 +41,7 @@
     "textbooks": [],
     "reference_books": [
         {
-            "title": "教育実習完璧(パーフェクト)ガイド 実習生・受け入れ校必携",
+            "title": "教育実習完璧(パーフェクト)ガイド　実習生・受け入れ校必携",
             "year": 2015,
             "author": "宮崎猛, 小泉博明 編著",
             "publisher": "小学館",
@@ -50,12 +50,12 @@
             "available_on_campus": false
         },
         {
-            "title": "単元指導計画＆学習指導案で学ぶ教育実習のよりよい授業づくり",
-            "year": 2019,
+            "title": "新版　単元指導計画＆学習指導案で学ぶ　教育実習のよりよい授業づくり",
+            "year": 2023,
             "author": "明星大学教職センター 編",
             "publisher": "学事出版",
-            "price": 1200,
-            "isbn": "9784761925499",
+            "price": 1650,
+            "isbn": "9784761929206",
             "available_on_campus": false
         }
     ],

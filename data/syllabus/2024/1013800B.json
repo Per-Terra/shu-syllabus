@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-07T15:53:34Z",
+    "_fetched_at": "2025-04-07T10:55:14Z",
     "name_ja": "総合英語初級Ⅳ（2～6）",
     "name_en": "Comprehensive English Beginners IV (2~6)",
     "syllabus_number": "1013800B",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "田中　数恵",
-            "main": false
+            "main": true
         },
         {
             "name": "新枝　美帆",
@@ -31,6 +31,10 @@
         },
         {
             "name": "原田　浩子",
+            "main": false
+        },
+        {
+            "name": "丹羽　仁美",
             "main": false
         }
     ],

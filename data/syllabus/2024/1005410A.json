@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-07T15:31:45Z",
+    "_fetched_at": "2025-04-07T10:52:22Z",
     "name_ja": "陸上運動Ⅰ",
     "name_en": "Track and Field I",
     "syllabus_number": "1005410A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "松田　亮",
-            "main": false
-        },
         {
             "name": "西山　健太",
             "main": true
+        },
+        {
+            "name": "松田　亮",
+            "main": false
         }
     ],
     "term": "後期",

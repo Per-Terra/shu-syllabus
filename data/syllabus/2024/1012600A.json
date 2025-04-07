@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-07T15:43:33Z",
+    "_fetched_at": "2025-04-07T10:54:27Z",
     "name_ja": "ワークショップデザインⅢ",
     "name_en": "Workshop Design 3",
     "syllabus_number": "1012600A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 3,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "寺田　篤史",
-            "main": false
-        },
         {
             "name": "赤木　真由",
             "main": true
+        },
+        {
+            "name": "寺田　篤史",
+            "main": false
         }
     ],
     "term": "後期",

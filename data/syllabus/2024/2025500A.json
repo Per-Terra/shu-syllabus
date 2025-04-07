@@ -1,24 +1,28 @@
 {
-    "_fetched_at": "2024-08-07T16:44:33Z",
+    "_fetched_at": "2025-04-07T11:01:05Z",
     "name_ja": "社会福祉士特別セミナーⅡ",
     "name_en": "Studying for Examination of Certified Social Worker II",
     "syllabus_number": "2025500A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 3,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "守本　友美",
             "main": true
+        },
+        {
+            "name": "牛島　豊広",
+            "main": false
         },
         {
             "name": "輪倉　一広",

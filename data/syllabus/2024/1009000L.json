@@ -1,18 +1,19 @@
 {
-    "_fetched_at": "2024-08-07T15:33:41Z",
+    "_fetched_at": "2025-04-07T10:53:41Z",
     "name_ja": "教養スポーツ実習Ⅱ（マリン）",
     "name_en": "Sports Ⅱ",
     "syllabus_number": "1009000L",
     "course_number": "",
     "target_departments_and_courses": [
-        ""
+        "経済学部",
+        "福祉情報学部"
     ],
     "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
     "class_type": "",
     "teachers": [
@@ -21,7 +22,7 @@
             "main": false
         }
     ],
-    "term": "後期",
+    "term": "通年",
     "credits": 1,
     "teaching_methods": [
         "実験・実習・実技"

@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2024-08-07T16:32:01Z",
+    "_fetched_at": "2025-04-07T10:59:41Z",
     "name_ja": "認知症の理解Ⅰ",
     "name_en": "Understanding of Dementia I",
     "syllabus_number": "2017400A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "オムニバス",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "佐々木　好子",
-            "main": false
-        },
         {
             "name": "山岡　幸子",
             "main": true
+        },
+        {
+            "name": "佐々木　好子",
+            "main": false
         }
     ],
     "term": "後期",

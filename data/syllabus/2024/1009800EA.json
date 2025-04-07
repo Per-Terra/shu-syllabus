@@ -1,31 +1,31 @@
 {
-    "_fetched_at": "2024-08-07T15:33:58Z",
+    "_fetched_at": "2025-04-07T10:53:52Z",
     "name_ja": "教養ゼミ（EB-1～12）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800EA",
-    "course_number": "1",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "岡本　次郎",
-            "main": true
-        },
         {
             "name": "寺田　篤史",
             "main": false
         },
         {
             "name": "山本　晋也",
+            "main": false
+        },
+        {
+            "name": "岡本　次郎",
             "main": false
         },
         {
@@ -61,11 +61,7 @@
             "main": false
         },
         {
-            "name": "WEI",
-            "main": false
-        },
-        {
-            "name": "DI",
+            "name": "WEI　DI",
             "main": false
         }
     ],

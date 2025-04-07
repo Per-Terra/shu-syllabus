@@ -1,22 +1,29 @@
 {
-    "_fetched_at": "2024-08-07T15:53:08Z",
+    "_fetched_at": "2025-04-07T10:54:58Z",
     "name_ja": "英会話初級Ⅱ（EB-1,N-1）",
     "name_en": "Basic Conversation II (EB-1, N-1)",
     "syllabus_number": "1013400A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "経済経営学部　経済経営学科",
-        "人間健康科学部　看護学科"
+        "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
+        {
+            "name": "ダーシー",
+            "main": false
+        },
+        {
+            "name": "ドワイヤー",
+            "main": false
+        },
         {
             "name": "ホール",
             "main": false
@@ -27,14 +34,6 @@
         },
         {
             "name": "ローン",
-            "main": false
-        },
-        {
-            "name": "ダーシー",
-            "main": false
-        },
-        {
-            "name": "ドワイヤー",
             "main": false
         }
     ],

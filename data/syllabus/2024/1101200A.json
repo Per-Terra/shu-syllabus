@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T15:54:07Z",
+    "_fetched_at": "2025-04-07T10:55:35Z",
     "name_ja": "コミュニケーション英語Ⅰ",
     "name_en": "English Communication Ⅰ",
     "syllabus_number": "1101200A",
@@ -12,20 +12,16 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
-            "name": "Richard",
-            "main": false
-        },
-        {
-            "name": "Sugg",
+            "name": "リチャード　サーグ",
             "main": false
         }
     ],
-    "term": "集中",
+    "term": "前期",
     "credits": 1,
     "teaching_methods": [
         "演習"

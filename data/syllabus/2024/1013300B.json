@@ -1,23 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T15:44:13Z",
+    "_fetched_at": "2025-04-07T10:54:52Z",
     "name_ja": "英会話初級Ⅰ（EB-2～5,HS,SW,N-2～3）",
     "name_en": "Basic Conversation I  (EB-2~5, HS, SW, N-2~3)",
     "syllabus_number": "1013300B",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "経済経営学部　経済経営学科",
-        "人間健康科学部　スポーツ健康科学科",
-        "福祉学科",
-        "看護学科"
+        "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "ポーリーン",
@@ -25,6 +22,14 @@
         },
         {
             "name": "ボールドウィン",
+            "main": false
+        },
+        {
+            "name": "ダーシー",
+            "main": false
+        },
+        {
+            "name": "ドワイヤー",
             "main": false
         },
         {
@@ -53,14 +58,6 @@
         },
         {
             "name": "スコット",
-            "main": false
-        },
-        {
-            "name": "ダーシー",
-            "main": false
-        },
-        {
-            "name": "ドワイヤー",
             "main": false
         }
     ],

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-07T15:53:37Z",
+    "_fetched_at": "2025-04-07T10:55:16Z",
     "name_ja": "総合英語初級Ⅳ（7～11）",
     "name_en": "Comprehensive English Beginners IV (7~11)",
     "syllabus_number": "1013800C",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 2,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "西村　浩子",
-            "main": false
+            "main": true
         },
         {
             "name": "岡部　仁美",
@@ -27,6 +27,10 @@
         },
         {
             "name": "原田　浩子",
+            "main": false
+        },
+        {
+            "name": "丹羽　仁美",
             "main": false
         }
     ],

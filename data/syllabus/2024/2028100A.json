@@ -1,39 +1,39 @@
 {
-    "_fetched_at": "2024-08-07T16:45:43Z",
+    "_fetched_at": "2025-04-07T11:01:53Z",
     "name_ja": "ソーシャルワーク実習指導Ⅱ",
     "name_en": "Guidance of Social Work Practice Ⅱ",
     "syllabus_number": "2028100A",
-    "course_number": "999",
+    "course_number": "",
     "target_departments_and_courses": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 3,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "井上　浩",
-            "main": false
-        },
         {
             "name": "小林　武生",
             "main": true
+        },
+        {
+            "name": "井上　浩",
+            "main": false
         },
         {
             "name": "竹下　徹",
             "main": false
         },
         {
-            "name": "守本　友美",
+            "name": "牛島　豊広",
             "main": false
         },
         {
-            "name": "牛島　豊広",
+            "name": "守本　友美",
             "main": false
         }
     ],

@@ -1,38 +1,27 @@
 {
-    "_fetched_at": "2024-08-07T15:33:32Z",
+    "_fetched_at": "2025-04-07T10:53:34Z",
     "name_ja": "教養スポーツ実習Ⅰ（1-16）",
     "name_en": "Sports Ⅰ",
     "syllabus_number": "1008900A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
-        "人間健康学部 スポーツ健康科学科"
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
-            "name": "水﨑　佑毅",
-            "main": true
-        },
-        {
             "name": "江﨑　和希",
-            "main": false
-        },
-        {
-            "name": "清原　泰治",
-            "main": false
-        },
-        {
-            "name": "東恩納　玲代",
             "main": false
         },
         {
@@ -40,15 +29,27 @@
             "main": false
         },
         {
-            "name": "宇野　直士",
-            "main": false
-        },
-        {
-            "name": "岡崎　祐介",
+            "name": "水﨑　佑毅",
             "main": false
         },
         {
             "name": "坪井　恭紀",
+            "main": false
+        },
+        {
+            "name": "宇野　直士",
+            "main": false
+        },
+        {
+            "name": "東恩納　玲代",
+            "main": false
+        },
+        {
+            "name": "清原　泰治",
+            "main": false
+        },
+        {
+            "name": "岡崎　祐介",
             "main": false
         },
         {

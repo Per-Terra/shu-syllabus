@@ -1,12 +1,12 @@
 {
-    "_fetched_at": "2024-08-07T15:54:01Z",
+    "_fetched_at": "2025-04-07T10:55:32Z",
     "name_ja": "生活と経済経営",
     "name_en": "Economics and Business for Living",
     "syllabus_number": "1100900A",
     "course_number": "",
     "target_departments_and_courses": [
-        "人間健康学部 看護学科",
-        "人間健康学部 福祉学科",
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
     "type": "",
@@ -14,20 +14,20 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
-            "name": "赤木　真由",
+            "name": "田尾　真一",
             "main": true
         },
         {
-            "name": "田尾　真一",
+            "name": "長澤　賢一",
             "main": false
         },
         {
-            "name": "長澤　賢一",
+            "name": "赤木　真由",
             "main": false
         },
         {

@@ -1,55 +1,27 @@
 {
-    "_fetched_at": "2024-08-07T15:41:15Z",
+    "_fetched_at": "2025-04-07T10:53:59Z",
     "name_ja": "教養ゼミ（HS-1～6）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800SA",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "人間健康学部 スポーツ健康科学科"
+        "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
-            "name": "中嶋　健",
+            "name": "江﨑　和希",
             "main": true
         },
         {
-            "name": "瀬尾　賢一郎",
-            "main": false
-        },
-        {
-            "name": "清原　泰治",
-            "main": false
-        },
-        {
-            "name": "江﨑　和希",
-            "main": false
-        },
-        {
-            "name": "尾形　聡",
-            "main": false
-        },
-        {
-            "name": "西山　健太",
-            "main": false
-        },
-        {
-            "name": "東恩納　玲代",
-            "main": false
-        },
-        {
-            "name": "佐野村　学",
-            "main": false
-        },
-        {
-            "name": "小野　高志",
+            "name": "中嶋　健",
             "main": false
         },
         {
@@ -57,7 +29,39 @@
             "main": false
         },
         {
+            "name": "東恩納　玲代",
+            "main": false
+        },
+        {
+            "name": "清原　泰治",
+            "main": false
+        },
+        {
+            "name": "佐野村　学",
+            "main": false
+        },
+        {
+            "name": "瀬尾　賢一郎",
+            "main": false
+        },
+        {
+            "name": "西山　健太",
+            "main": false
+        },
+        {
             "name": "水﨑　佑毅",
+            "main": false
+        },
+        {
+            "name": "小野　高志",
+            "main": false
+        },
+        {
+            "name": "小笠　博義",
+            "main": false
+        },
+        {
+            "name": "尾形　聡",
             "main": false
         }
     ],

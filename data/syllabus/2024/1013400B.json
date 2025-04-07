@@ -1,23 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T15:53:11Z",
+    "_fetched_at": "2025-04-07T10:55:00Z",
     "name_ja": "英会話初級Ⅱ（EB-2～5,HS,SW,N-2～3）",
     "name_en": "Basic Conversation II (EB-2~5, HS, SW, N-2~3)",
     "syllabus_number": "1013400B",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "経済経営学部経済経営学科",
-        "人間健康科学部スポーツ健康科学科",
-        "人間健康科学部看護学科",
-        "人間健康学部福祉学科"
+        "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "ポーリーン",
@@ -28,11 +25,11 @@
             "main": false
         },
         {
-            "name": "トラバス",
+            "name": "ダーシー",
             "main": false
         },
         {
-            "name": "キャンベル",
+            "name": "ドワイヤー",
             "main": false
         },
         {
@@ -48,19 +45,19 @@
             "main": false
         },
         {
+            "name": "トラバス",
+            "main": false
+        },
+        {
+            "name": "キャンベル",
+            "main": false
+        },
+        {
             "name": "トレーシー",
             "main": false
         },
         {
             "name": "スコット",
-            "main": false
-        },
-        {
-            "name": "ダーシー",
-            "main": false
-        },
-        {
-            "name": "ドワイヤー",
             "main": false
         }
     ],

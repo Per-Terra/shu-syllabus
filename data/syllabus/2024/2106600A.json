@@ -1,20 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T17:07:38Z",
+    "_fetched_at": "2025-04-07T11:06:19Z",
     "name_ja": "経済学・経営学の視点を学ぶ",
     "name_en": "Perspectives of Economics and Management",
     "syllabus_number": "2106600A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "小林　啓祐",
@@ -25,11 +25,11 @@
             "main": false
         },
         {
-            "name": "田尾　真一",
+            "name": "長澤　雅彦",
             "main": false
         },
         {
-            "name": "長澤　雅彦",
+            "name": "村岡　浩次",
             "main": false
         },
         {
@@ -53,6 +53,10 @@
             "main": false
         },
         {
+            "name": "髙橋　真実",
+            "main": false
+        },
+        {
             "name": "田島　正士",
             "main": false
         },
@@ -61,11 +65,11 @@
             "main": false
         },
         {
-            "name": "伏木　貞文WEI　DI",
+            "name": "伏木　貞文",
             "main": false
         },
         {
-            "name": "髙橋　真実",
+            "name": "WEI　DI",
             "main": false
         }
     ],

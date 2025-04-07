@@ -1,44 +1,28 @@
 {
-    "_fetched_at": "2024-08-07T15:33:55Z",
+    "_fetched_at": "2025-04-07T10:53:50Z",
     "name_ja": "教養ゼミ（再履修）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
     "required_or_elective": "",
     "course_category": "",
-    "class_type": "オムニバス",
+    "class_type": "",
     "teachers": [
         {
             "name": "大坂　遊",
             "main": true
         },
         {
-            "name": "渡部　明",
-            "main": false
-        },
-        {
-            "name": "喜入　暁",
-            "main": false
-        },
-        {
             "name": "田中　数恵",
-            "main": false
-        },
-        {
-            "name": "山本　晋也",
-            "main": false
-        },
-        {
-            "name": "西村　浩子",
             "main": false
         },
         {
@@ -46,7 +30,23 @@
             "main": false
         },
         {
+            "name": "山本　晋也",
+            "main": false
+        },
+        {
+            "name": "渡部　明",
+            "main": false
+        },
+        {
             "name": "中嶋　克成",
+            "main": false
+        },
+        {
+            "name": "西村　浩子",
+            "main": false
+        },
+        {
+            "name": "喜入　暁",
             "main": false
         }
     ],

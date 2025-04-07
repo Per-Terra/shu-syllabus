@@ -1,24 +1,28 @@
 {
-    "_fetched_at": "2024-08-07T15:41:10Z",
+    "_fetched_at": "2025-04-07T10:53:55Z",
     "name_ja": "教養ゼミ（IS-1～8）",
     "name_en": "Academic Skills Education",
     "syllabus_number": "1009800IB",
-    "course_number": "1",
+    "course_number": "",
     "target_departments_and_courses": [
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "酒井　徹也",
             "main": true
+        },
+        {
+            "name": "立部　文崇",
+            "main": false
         },
         {
             "name": "児玉　満",
@@ -29,7 +33,7 @@
             "main": false
         },
         {
-            "name": "内田　善彦",
+            "name": "道山　知成",
             "main": false
         },
         {
@@ -37,15 +41,15 @@
             "main": false
         },
         {
+            "name": "内田　善彦",
+            "main": false
+        },
+        {
             "name": "橋本　喜代太",
             "main": false
         },
         {
-            "name": "立部　文崇",
-            "main": false
-        },
-        {
-            "name": "道山　知成",
+            "name": "大島　和裕",
             "main": false
         }
     ],

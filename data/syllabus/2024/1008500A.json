@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T15:33:29Z",
+    "_fetched_at": "2025-04-07T10:53:32Z",
     "name_ja": "情報リテラシー",
     "name_en": "Information literacy",
     "syllabus_number": "1008500A",
@@ -8,9 +8,9 @@
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
-        "人間健康学部 スポーツ健康科学科",
-        "人間健康学部 看護学科",
-        "人間健康学部 福祉学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
     "type": "",
@@ -18,12 +18,16 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
             "name": "日置　智子",
+            "main": true
+        },
+        {
+            "name": "道山　知成",
             "main": false
         }
     ],

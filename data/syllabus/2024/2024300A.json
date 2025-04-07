@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2024-08-07T16:44:10Z",
+    "_fetched_at": "2025-04-07T11:00:50Z",
     "name_ja": "異文化コミュニケーション",
     "name_en": "Intercultural Communication",
     "syllabus_number": "2024300A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
-        "人間健康学部 福祉学科",
+        "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "オムニバス",
+    "class_type": "",
     "teachers": [
         {
             "name": "立部　文崇",
-            "main": false
+            "main": true
         },
         {
             "name": "田中　数恵",
-            "main": true
+            "main": false
         },
         {
             "name": "山本　晋也",

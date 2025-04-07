@@ -1,24 +1,34 @@
 {
-    "_fetched_at": "2024-08-07T15:33:35Z",
+    "_fetched_at": "2025-04-07T10:53:35Z",
     "name_ja": "教養スポーツ実習Ⅱ（1-10）",
     "name_en": "Sports Ⅱ",
     "syllabus_number": "1009000A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部",
-        "人間健康学部 スポーツ健康科学科",
-        "人間健康学部 看護学科"
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 看護学科",
+        "情報科学部"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
+        {
+            "name": "坪井　恭紀",
+            "main": false
+        },
+        {
+            "name": "宇野　直士",
+            "main": false
+        },
         {
             "name": "東恩納　玲代",
             "main": false
@@ -28,19 +38,7 @@
             "main": false
         },
         {
-            "name": "水﨑　佑毅",
-            "main": true
-        },
-        {
-            "name": "宇野　直士",
-            "main": false
-        },
-        {
-            "name": "大庭　尚子",
-            "main": false
-        },
-        {
-            "name": "西　博史",
+            "name": "古賀　五月",
             "main": false
         }
     ],

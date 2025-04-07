@@ -1,31 +1,31 @@
 {
-    "_fetched_at": "2024-08-07T16:45:08Z",
+    "_fetched_at": "2025-04-07T11:01:29Z",
     "name_ja": "社会福祉の原理と政策Ⅰ",
     "name_en": "Theory and Policy of Social Welfare",
     "syllabus_number": "2026900A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "福祉情報学部",
         "経済経営学部 経済経営学科",
-        "人間健康学部 スポーツ健康科学科",
-        "人間健康学部 福祉学科"
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "オムニバス",
+    "class_type": "",
     "teachers": [
-        {
-            "name": "難波　利光",
-            "main": false
-        },
         {
             "name": "輪倉　一広",
             "main": true
+        },
+        {
+            "name": "難波　利光",
+            "main": false
         }
     ],
     "term": "前期",

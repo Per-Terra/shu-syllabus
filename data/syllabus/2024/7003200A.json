@@ -1,21 +1,21 @@
 {
-    "_fetched_at": "2024-08-07T17:11:14Z",
+    "_fetched_at": "2025-04-07T11:08:41Z",
     "name_ja": "教育実習Ⅱ",
     "name_en": "Teaching Practice II",
     "syllabus_number": "7003200A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 4,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "大坂　遊",
@@ -26,7 +26,7 @@
             "main": false
         }
     ],
-    "term": "後期",
+    "term": "通年",
     "credits": 2,
     "teaching_methods": [
         "講義",

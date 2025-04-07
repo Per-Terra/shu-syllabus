@@ -1,20 +1,20 @@
 {
-    "_fetched_at": "2024-08-07T17:08:57Z",
+    "_fetched_at": "2025-04-07T11:07:09Z",
     "name_ja": "well-being実習Ⅰ（地域の成人・高齢者）",
     "name_en": "Well ‐ being Experiment Ⅰ (adult to old age)",
     "syllabus_number": "2119800A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
-        "人間健康学部 看護学科"
+        "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "大平　光子",
@@ -38,6 +38,10 @@
         },
         {
             "name": "大達　亮",
+            "main": false
+        },
+        {
+            "name": "磯濱　真理子",
             "main": false
         },
         {
@@ -66,10 +70,6 @@
         },
         {
             "name": "福森　絢子",
-            "main": false
-        },
-        {
-            "name": "磯濱　真理子",
             "main": false
         }
     ],

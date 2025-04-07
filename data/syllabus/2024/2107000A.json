@@ -1,21 +1,21 @@
 {
-    "_fetched_at": "2024-08-07T17:07:49Z",
+    "_fetched_at": "2025-04-07T11:06:25Z",
     "name_ja": "経営学入門Ⅱ",
     "name_en": "Introduction to Business Administration Ⅱ",
     "syllabus_number": "2107000A",
-    "course_number": "1",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "クラス分け",
+    "class_type": "",
     "teachers": [
         {
             "name": "石谷　康人",
@@ -23,7 +23,7 @@
         },
         {
             "name": "木全　晃",
-            "main": true
+            "main": false
         }
     ],
     "term": "後期",

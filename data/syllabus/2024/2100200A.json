@@ -1,12 +1,12 @@
 {
-    "_fetched_at": "2024-08-07T17:06:59Z",
+    "_fetched_at": "2025-04-07T11:05:53Z",
     "name_ja": "実社会とデータ分析",
     "name_en": "",
     "syllabus_number": "2100200A",
     "course_number": "",
     "target_departments_and_courses": [
         "経済経営学部 経済経営学科",
-        "人間健康学部 福祉学科",
+        "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
     "type": "",
@@ -14,20 +14,16 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
-            "name": "矢島",
-            "main": false
-        },
-        {
-            "name": "安敏",
+            "name": "矢島　安敏",
             "main": false
         }
     ],
-    "term": "1Q",
+    "term": "第１クォーター",
     "credits": 2,
     "teaching_methods": [
         "講義"

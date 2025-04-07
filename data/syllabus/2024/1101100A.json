@@ -1,22 +1,22 @@
 {
-    "_fetched_at": "2024-08-07T15:54:04Z",
+    "_fetched_at": "2025-04-07T10:55:34Z",
     "name_ja": "留学英語",
     "name_en": "Preparation for Study Abroad",
     "syllabus_number": "1101100A",
-    "course_number": "a",
+    "course_number": "",
     "target_departments_and_courses": [
         "経済経営学部 経済経営学科",
-        "人間健康学部 看護学科",
+        "人間健康科学部 看護学科",
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
+    "type": "",
     "main_department": "",
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "西村　浩子",
@@ -27,7 +27,7 @@
             "main": false
         }
     ],
-    "term": "集中",
+    "term": "通年",
     "credits": 1,
     "teaching_methods": [
         "講義",

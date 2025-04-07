@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T17:07:32Z",
+    "_fetched_at": "2025-04-07T11:06:14Z",
     "name_ja": "ビジネスアナリティクス概論",
     "name_en": "Introduction to Business Analytics",
     "syllabus_number": "2104400A",
@@ -12,16 +12,28 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
+        {
+            "name": "小柳　淳二",
+            "main": true
+        },
         {
             "name": "木島　正明",
             "main": false
+        },
+        {
+            "name": "橋本　喜代太",
+            "main": false
+        },
+        {
+            "name": "大島　和裕",
+            "main": false
         }
     ],
-    "term": "4Q",
+    "term": "第４クォーター",
     "credits": 2,
     "teaching_methods": [
         "講義",

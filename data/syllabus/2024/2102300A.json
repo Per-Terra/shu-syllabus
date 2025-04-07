@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T17:07:26Z",
+    "_fetched_at": "2025-04-07T11:06:11Z",
     "name_ja": "データサイエンス概論",
     "name_en": "",
     "syllabus_number": "2102300A",
@@ -12,20 +12,16 @@
     "requirements": "",
     "year": 1,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "単独",
+    "class_type": "",
     "teachers": [
         {
-            "name": "矢島",
-            "main": false
-        },
-        {
-            "name": "安敏",
+            "name": "矢島　安敏",
             "main": false
         }
     ],
-    "term": "4Q",
+    "term": "第４クォーター",
     "credits": 2,
     "teaching_methods": [
         "講義"

@@ -1,5 +1,5 @@
 {
-    "_fetched_at": "2024-08-07T17:11:09Z",
+    "_fetched_at": "2025-04-07T11:08:38Z",
     "name_ja": "教育実習基礎講座Ⅱ",
     "name_en": "Seminar for Prepare for Teaching Practice II",
     "syllabus_number": "7003000A",
@@ -13,9 +13,9 @@
     "requirements": "",
     "year": 4,
     "period": "",
-    "required_or_elective": "※設定中",
+    "required_or_elective": "",
     "course_category": "",
-    "class_type": "複数",
+    "class_type": "",
     "teachers": [
         {
             "name": "大坂　遊",
@@ -26,7 +26,7 @@
             "main": false
         }
     ],
-    "term": "前期",
+    "term": "通年",
     "credits": 2,
     "teaching_methods": [
         "講義",
@@ -40,12 +40,12 @@
     "corresponding_diploma_policies": [],
     "textbooks": [
         {
-            "title": "単元指導計画＆学習指導案で学ぶ教育実習のよりよい授業づくり",
-            "year": 2019,
+            "title": "新版　単元指導計画＆学習指導案で学ぶ　教育実習のよりよい授業づくり",
+            "year": 2023,
             "author": "明星大学教職センター 編",
             "publisher": "学事出版",
-            "price": 1200,
-            "isbn": "9784761925499",
+            "price": 1650,
+            "isbn": "9784761929206",
             "available_on_campus": true
         }
     ],
