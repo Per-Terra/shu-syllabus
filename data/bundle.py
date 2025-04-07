@@ -4,6 +4,13 @@ import os
 from typing import Any
 
 
+def letter_to_number(s: str) -> int:
+    result = 0
+    for char in s:
+        result = result * 26 + (ord(char) - ord("A") + 1)
+    return result
+
+
 def main(nendo: str) -> None:
     directory = os.path.join(os.path.dirname(__file__), f"syllabus/{nendo}")
     syllabuses: list[Any] = []
@@ -17,7 +24,12 @@ def main(nendo: str) -> None:
 
             syllabuses.append(syllabus_data)
 
-    syllabuses.sort(key=lambda syllabus: syllabus["syllabus_number"])
+    syllabuses.sort(
+        key=lambda syllabus: (
+            int(syllabus["syllabus_number"][:7]),
+            letter_to_number(syllabus["syllabus_number"][7:]),
+        )
+    )
 
     file_path = os.path.join(
         os.path.dirname(__file__), f"../src/shu_syllabus/data/syllabus/{nendo}.json"
