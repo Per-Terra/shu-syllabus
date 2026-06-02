@@ -16,8 +16,8 @@ def main() -> None:
     parser.add_argument(
         "--delay",
         type=float,
-        default=0.5,
-        help="Seconds between requests (default: 0.5)",
+        default=0.2,
+        help="Seconds between requests (default: 0.2)",
     )
     parser.add_argument(
         "--data-dir",

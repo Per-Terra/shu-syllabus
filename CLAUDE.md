@@ -9,20 +9,21 @@
 ## コマンド
 
 ```shell
-# 開発モードでインストール
-pip install -e ".[dev]"
+# 依存関係のインストール
+uv sync
 
 # テスト実行
-pytest
+uv run pytest
 
-# AAAサーバーからシラバスデータを更新（約20分、リクエスト間隔0.5秒）
-shu-syllabus-update <年度>    # 例: shu-syllabus-update 2025
+# リント・フォーマット
+uv run ruff check src/ tests/
+uv run ruff format src/ tests/
+
+# AAAサーバーからシラバスデータを更新（リクエスト間隔0.2秒）
+uv run shu-syllabus-update <年度>    # 例: uv run shu-syllabus-update 2025
 
 # 個別JSONファイルをパッケージ用に1ファイルにバンドル
-shu-syllabus-bundle <年度>    # 例: shu-syllabus-bundle 2025
-
-# パッケージをビルド
-python -m build
+uv run shu-syllabus-bundle <年度>    # 例: uv run shu-syllabus-bundle 2025
 ```
 
 ## アーキテクチャ
@@ -55,8 +56,8 @@ src/shu_syllabus/
     _aspnet.py       # ASP.NET ViewState抽出
     _urls.py         # URL定数
     _utils.py        # make_soup, letter_to_number 等
-    _cli/            # CLIエントリポイント（update, bundle, migrate）
-    data/syllabus/   # バンドル済みJSON（2023-2025）
+    _cli/            # CLIエントリポイント（update, bundle）
+    data/syllabus/   # バンドル済みJSON
 ```
 
 ### 設計原則

@@ -56,7 +56,7 @@ with shu_syllabus.Scraper() as scraper:
 ## データ更新
 
 ```shell
-# AAAサーバーから取得（約20分）
+# AAAサーバーから取得
 shu-syllabus-update 2025
 
 # パッケージ用にバンドル
