@@ -1,133 +1,77 @@
 # shu-syllabus
 
-A collection of datasets and utility scripts for managing and analyzing Shunan University syllabuses.
+周南公立大学の [Active Academy Advance (AAA)](https://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0010.aspx?me=EU&opi=mt0010) からシラバスデータをスクレイピング・ロードする Python ライブラリ。2023年度以降のシラバスデータを同梱しており、インストール後すぐに分析を開始できる。
 
-## Overview
+このライブラリは周南公立大学の2024年度開講科目「Python応用」の最終課題として作成されました。提出時点のコードは [v0.1.0](https://github.com/Per-Terra/shu-syllabus/releases/tag/v0.1.0) を参照してください。v1.0.0 で API の全面的な見直しと型安全なデータモデルの導入を行っています。
 
-### English
-
-This library was created as the final project for the 2024 course “Applied Python Programming” at Shunan University. The syllabus data is based on [Shunan University](https://www.shunan-u.ac.jp/) and its [Active Academy Advance (AAA)](https://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0010.aspx?me=EU&opi=mt0010) system. The library includes pre-processed syllabus data, allowing you to start analysis immediately.
-
-### 日本語
-
-このライブラリは周南公立大学の2024年度開講科目「Python応用」の最終課題として作成されました。シラバスデータは[周南公立大学](https://www.shunan-u.ac.jp/)の[Active Academy Advance (AAA)](https://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0010.aspx?me=EU&opi=mt0010)に基づきます。このライブラリには事前に取得されたシラバスデータが含まれているため、すぐに分析を始めることができます。
-
-## Features
-
-- Pre-processed syllabus data (only for data from 2023 onwards)
-- Fetch syllabus data from Shunan University's Active Academy Advance (AAA) system
-- Parse syllabus data (only for data from 2023 onwards)
-- Save syllabus data as a JSON file
-
-## Usage
-
-### Install
+## インストール
 
 ```shell
 pip install git+https://github.com/Per-Terra/shu-syllabus.git
 ```
 
-### Load syllabuses
+## 使い方
 
-You can load pre-processed syllabus data using the `load_syllabuses` function.
-
-```python
->>> from shu_syllabus import load_syllabuses
->>> syllabuses = load_syllabuses("2024")
->>> type(syllabuses)
-list
->>> syllabus = syllabuses[0]
->>> type(syllabus)
-dict
->>> syllabus["name_ja"]
-'問題発見と解決'
-```
-
-### Search syllabuses
-
-You can search for syllabuses by keyword like this.
+### バンドル済みデータの読み込み
 
 ```python
->>> from shu_syllabus import load_syllabuses
->>> syllabuses = load_syllabuses("2024")
->>> results = [s for s in syllabuses if "Python" in s["name_ja"]]
->>> len(results)
-3
->>> results[2]["name_ja"]
-'Python応用'
+import shu_syllabus
+
+syllabuses = shu_syllabus.load("2025")  # list[Syllabus]
+
+s = syllabuses[0]
+s.name_ja           # '意思決定科学'
+s.credits           # 2
+s.teachers          # [Teacher(name='喜入　暁', is_primary=False)]
+s.evaluation_ratio  # EvaluationRatio(exam=0, quiz=0, report=70, ...)
 ```
 
-## Advanced Usage
-
-If you don't want to use the pre-processed data, you can use the following functions to fetch and process the syllabus data.
-
-### Fetch syllabuses list
-
-You can fetch the list of syllabuses from Shunan University's Active Academy Advance (AAA) system using the `SyllabusSearch` class.
+### 絞り込み
 
 ```python
->>> from shu_syllabus import SyllabusSearch
->>> syllabuses_list = SyllabusSearch("2024").parse()
->>> type(syllabuses_list)
-list
->>> syllabus_code = syllabuses_list[0]
->>> type(syllabus_code)
-tuple
->>> syllabus_code
-('2024', '2', '1000500A')
+# Python の標準的なリスト操作で絞り込む
+python_courses = [s for s in syllabuses if "Python" in (s.name_ja or "")]
+first_year = [s for s in syllabuses if s.target_year == 1]
 ```
 
-### Fetch syllabus details
-
-You can fetch the details of a syllabus from Shunan University's Active Academy Advance (AAA) system using the `SyllabusData` class.
+### AAAサーバーからの直接取得
 
 ```python
->>> from shu_syllabus import SyllabusData, SyllabusSearch
->>> syllabuses_list = SyllabusSearch("2024").parse()
->>> syllabus_code = syllabuses_list[0]
->>> syllabus_data = SyllabusData(*syllabus_code)
->>> syllabus = syllabus_data.parse()
->>> type(syllabus)
-dict
->>> syllabus["name_ja"]
-'問題発見と解決'
+with shu_syllabus.Scraper() as scraper:
+    codes = scraper.search("2025")                  # list[str]
+    syllabus = scraper.fetch("2025", codes[0])      # Syllabus
 ```
 
-### Save syllabus data
+## データモデル
 
-You can save the syllabus data as a JSON file using the `save_as_json` method.
+すべてのフィールドは dataclass で定義されており、IDE の補完と型チェックが有効。各フィールドの docstring に日本語元名を記載。
 
-```python
->>> from shu_syllabus import SyllabusData, SyllabusSearch
->>> syllabuses_list = SyllabusSearch("2024").parse()
->>> syllabus_code = syllabuses_list[0]
->>> syllabus_data = SyllabusData(*syllabus_code)
->>> syllabus_data.save_as_json("syllabus.json")
-```
+- `Syllabus` — シラバス本体（30+フィールド）
+- `Teacher` — 担当教員（name, is_primary）
+- `Book` — 教科書・参考図書
+- `ScheduleEntry` — 授業計画の各回
+- `EvaluationRatio` — 評価比率（exam, quiz, report, presentation, portfolio, other）
+- `EnrollmentInfo` — 履修上の注意（prerequisites, recommended, required_materials, other）
 
-## Build
-
-Before you build, you should update the syllabus data.
-
-> [!NOTE]
-> To avoid overloading the server, it takes a long time to fetch the syllabus data (about 20 minutes). Please be patient.
+## データ更新
 
 ```shell
-python data/update.py 2024
+# AAAサーバーから取得（約20分）
+shu-syllabus-update 2025
+
+# パッケージ用にバンドル
+shu-syllabus-bundle 2025
 ```
 
-Then, you should bundle the syllabus data. Bundled data is included in the package.
+GitHub Actions で毎週自動チェックし、変更があれば PR を作成する。
+
+## 開発
 
 ```shell
-python data/bundle.py 2024
+pip install -e ".[dev]"
+pytest
 ```
 
-Finally, you can build the package.
+## ライセンス
 
-```shell
-python -m build
-```
-
-## License
-
-See [LICENSE](LICENSE), except for the syllabus data.
+[LICENSE](LICENSE) を参照（シラバスデータを除く）。

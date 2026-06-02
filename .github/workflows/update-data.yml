@@ -1,0 +1,67 @@
+name: Check for syllabus data updates
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 毎週月曜 00:00 UTC (09:00 JST)
+  workflow_dispatch:
+    inputs:
+      nendo:
+        description: 'Academic year to check (defaults to current)'
+        required: false
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install package
+        run: pip install -e .
+
+      - name: Determine academic year
+        id: nendo
+        run: |
+          NENDO="${{ github.event.inputs.nendo }}"
+          if [ -z "$NENDO" ]; then
+            MONTH=$(date +%-m)
+            YEAR=$(date +%Y)
+            if [ "$MONTH" -lt 4 ]; then
+              NENDO=$((YEAR - 1))
+            else
+              NENDO=$YEAR
+            fi
+          fi
+          echo "nendo=$NENDO" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch latest syllabus data
+        run: shu-syllabus-update ${{ steps.nendo.outputs.nendo }}
+
+      - name: Bundle data
+        run: shu-syllabus-bundle ${{ steps.nendo.outputs.nendo }}
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "## Changes detected" >> "$GITHUB_STEP_SUMMARY"
+            git diff --stat >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Create pull request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Update ${{ steps.nendo.outputs.nendo }} syllabus data"
+          title: "Update ${{ steps.nendo.outputs.nendo }} syllabus data"
+          body: |
+            Automated syllabus data update for ${{ steps.nendo.outputs.nendo }}.
+          branch: "auto/update-data-${{ steps.nendo.outputs.nendo }}"
