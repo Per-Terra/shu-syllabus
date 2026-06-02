@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:14Z",
+    "fetched_at": "2026-06-02T13:54:33Z",
     "name_ja": "社会政策",
     "name_en": "Social Policy",
     "syllabus_number": "2044000A",
@@ -77,6 +77,10 @@
         ],
         "required_materials": "特定の教科書は指定せず、授業中に使用する資料を中心に進める（授業後に適宜配布する）",
         "other": "PCを持参してください。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "授業のリフレクション（振り返り）ペーパー、授業内小テスト（2回程度を予定）、および授業中の参加姿勢で評価する。",
     "evaluation_ratio": {

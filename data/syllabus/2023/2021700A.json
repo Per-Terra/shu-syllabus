@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:12Z",
+    "fetched_at": "2026-06-02T13:53:39Z",
     "name_ja": "コンピュータ概論",
     "name_en": "Introduction to Computer Science",
     "syllabus_number": "2021700A",
@@ -44,6 +44,7 @@
         "required_materials": "ノート、筆記具、ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "- 講義内容をどれだけ理解したか\n- 講義内容に基づく初歩的な応用ができるか\n- コンピュータに関する社会的側面も含めた諸問題を考えるに当たって、どれだけ講義内容を活用できるか",
     "evaluation_ratio": {
         "exam": 60,

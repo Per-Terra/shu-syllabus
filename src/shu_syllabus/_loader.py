@@ -11,6 +11,7 @@ from ._models import (
     ScheduleEntry,
     Syllabus,
     Teacher,
+    TeachingCertificate,
 )
 
 
@@ -60,6 +61,9 @@ def _dict_to_syllabus(d: dict[str, Any]) -> Syllabus:
         textbooks=[_dict_to_book(b) for b in d.get("textbooks", [])],
         references=[_dict_to_book(b) for b in d.get("references", [])],
         enrollment_info=_dict_to_enrollment_info(d.get("enrollment_info", {})),
+        teaching_certificate=_dict_to_teaching_certificate(
+            d.get("teaching_certificate")
+        ),
         grading_criteria=d.get("grading_criteria") or None,
         evaluation_ratio=_dict_to_evaluation_ratio(d.get("evaluation_ratio", {})),
         teacher_message=d.get("teacher_message") or None,
@@ -87,6 +91,17 @@ def _dict_to_enrollment_info(d: dict[str, Any]) -> EnrollmentInfo:
         recommended=d.get("recommended", []),
         required_materials=d.get("required_materials") or None,
         other=d.get("other") or None,
+    )
+
+
+def _dict_to_teaching_certificate(
+    d: dict[str, Any] | None,
+) -> TeachingCertificate | None:
+    if not d:
+        return None
+    return TeachingCertificate(
+        subject=d.get("subject") or None,
+        enforcement=d.get("enforcement") or None,
     )
 
 

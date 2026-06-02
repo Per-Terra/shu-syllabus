@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:00Z",
+    "fetched_at": "2026-06-02T13:54:20Z",
     "name_ja": "簿記上級Ⅰ",
     "name_en": "Advanced Bookkeeping 1",
     "syllabus_number": "2041800A",
@@ -98,6 +98,10 @@
         ],
         "required_materials": "ノート、電卓、筆記用具",
         "other": "経済学部2021年度以前入学の学生は、「簿記上級Ⅰ」及び「簿記上級Ⅱ」の単位を修得することで、「簿記上級（４単位）」の単位が修得できます。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "(1)個別論点の会計の基本理論の理解\n(2)個別論点の会計処理の理解\n上記(1)、(2)関する理解度を以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {

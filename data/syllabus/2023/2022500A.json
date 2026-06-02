@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:17Z",
+    "fetched_at": "2026-06-02T13:53:44Z",
     "name_ja": "プログラミング演習",
     "name_en": "Exercise in Computer Programming",
     "syllabus_number": "2022500A",
@@ -67,6 +67,7 @@
         "required_materials": "ノートパソコン",
         "other": "なし"
     },
+    "teaching_certificate": null,
     "grading_criteria": "（ⅰ）メソッドの考え方　（ⅱ）オブジェクトの考え方　（ⅲ）継承の考え方　（ⅳ）プログラミング\n上記（ⅰ）～（ⅳ）に関する理解度を実技40％、課題30％、レポート15％、小テスト15％で評価する。",
     "evaluation_ratio": {
         "exam": 0,

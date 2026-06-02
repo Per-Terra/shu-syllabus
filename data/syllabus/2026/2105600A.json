@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:59Z",
+    "fetched_at": "2026-06-02T13:55:19Z",
     "name_ja": "生体情報分析",
     "name_en": "Biological Information Analysis",
     "syllabus_number": "2105600A",
@@ -46,6 +46,7 @@
         "required_materials": "ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "１．生体信号計測の基本的な手法、２．生体信号データの処理方法、３．生体信号データの分析\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
         "exam": 0,

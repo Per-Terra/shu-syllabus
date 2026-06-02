@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:39Z",
+    "fetched_at": "2026-06-02T13:58:14Z",
     "name_ja": "教職ボランティア実習",
     "name_en": "Seminar for Nursing Care Practice",
     "syllabus_number": "7005100A",
@@ -89,6 +89,10 @@
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "大学が独自に設定する科目",
+        "enforcement": "介護等実習"
     },
     "grading_criteria": "到達目標のうち、①介護等の体験の制度的・社会的・教育的意義の理解、②介護等の体験に関連する用語や概念の理解および体験で求められる基礎的な技能の習得、③社会福祉の意義と社会福祉を支える人の役割の理解、の3点については、授業中の演習やレポート課題を通して評価する。④介護等の体験への主体的・意欲的な参加については、体験後の最終レポートおよび体験日誌の記述を通して評価する。",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:21Z",
+    "fetched_at": "2026-06-02T13:57:55Z",
     "name_ja": "商業科教育法Ⅱ",
     "name_en": "Educational Method for Commercial Course Ⅱ",
     "syllabus_number": "7001300A",
@@ -102,6 +102,10 @@
         ],
         "required_materials": "教科書、ノートパソコン",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "各教科の指導法（情報通信技術の活用を含む。）"
     },
     "grading_criteria": "(ⅰ) 学習評価についての理解\n(ⅱ) 年間学習指導計画と学習指導案の作成\n(ⅲ) 模擬授業（ＩＣＴの活用を含む）の実施と研究協議\n(ⅳ) 魅力ある商業教育についての理解",
     "evaluation_ratio": {

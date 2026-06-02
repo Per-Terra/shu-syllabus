@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:52Z",
+    "fetched_at": "2026-06-02T13:54:10Z",
     "name_ja": "証券投資論",
     "name_en": "Securities Investment",
     "syllabus_number": "2039300A",
@@ -56,6 +56,10 @@
         "recommended": [],
         "required_materials": "必要に応じて電卓およびパソコン",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "証券投資に関する基礎的な知識を評価する（最終テスト70%、中間テスト30%）。",
     "evaluation_ratio": {

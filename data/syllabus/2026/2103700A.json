@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:46Z",
+    "fetched_at": "2026-06-02T13:55:06Z",
     "name_ja": "プログラミング",
     "name_en": "Programming",
     "syllabus_number": "2103700A",
@@ -76,6 +76,10 @@
         ],
         "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": "ノートパソコンが軽快に動作するよう準備し、授業に臨むこと。アルゴリズムとデータ構造を同時に履修していることが望ましい。  計算機概論を履修していることが望ましい。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "コンピュータ・情報処理"
     },
     "grading_criteria": "C言語の文法、アルゴリズムとプログラムの関係性に関する理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {

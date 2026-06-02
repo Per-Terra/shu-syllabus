@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:16Z",
+    "fetched_at": "2026-06-02T13:55:35Z",
     "name_ja": "データ分析基礎",
     "name_en": "Basics of Data Analyses",
     "syllabus_number": "2100500A",
@@ -62,6 +62,7 @@
         "required_materials": null,
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "１．データ分析手法および分析結果をまとめる能力の修得\n２．機械学習の方法\n３．R言語とPythonによるデータ分析手法の実装と評価方法\n４．オープンデータを用いた現状と課題の分析および考察",
     "evaluation_ratio": {
         "exam": 0,

@@ -11,6 +11,7 @@ from ._models import (
     ScheduleEntry,
     Syllabus,
     Teacher,
+    TeachingCertificate,
 )
 from ._utils import make_soup
 
@@ -67,6 +68,7 @@ def parse_syllabus(
         textbooks=_parse_books(soup, "06"),
         references=_parse_books(soup, "07"),
         enrollment_info=_parse_enrollment_info(soup),
+        teaching_certificate=_parse_teaching_certificate(soup),
         grading_criteria=_get_text(soup, f"{_PREFIX_DETAIL}10_ctlNaiyou00_lblNaiyou"),
         evaluation_ratio=_parse_evaluation_ratio(soup),
         teacher_message=_get_text(soup, f"{_PREFIX_DETAIL}12_ctlNaiyou00_lblNaiyou"),
@@ -219,6 +221,19 @@ def _parse_enrollment_info(soup: BeautifulSoup) -> EnrollmentInfo:
         required_materials=_get_text(soup, f"{prefix}BRING"),
         other=_get_text(soup, f"{prefix}OTHER"),
     )
+
+
+def _parse_teaching_certificate(soup: BeautifulSoup) -> TeachingCertificate | None:
+    prefix = f"{_PREFIX_DETAIL}09_ctlNaiyou_Teaching_lbl"
+    subject = _get_text(soup, f"{prefix}SUBJECT")
+    enforcement = _get_text(soup, f"{prefix}ENFORCEMENT")
+    # QUALIFICATION は見出し「教員免許状取得の為の」に対応する欄だが、
+    # 全科目で常に空のため未使用。復活させる場合は次行を有効化し、
+    # TeachingCertificate に qualification フィールドを追加する。
+    # qualification = _get_text(soup, f"{prefix}QUALIFICATION")
+    if subject is None and enforcement is None:
+        return None
+    return TeachingCertificate(subject=subject, enforcement=enforcement)
 
 
 def _parse_evaluation_ratio(soup: BeautifulSoup) -> EvaluationRatio:

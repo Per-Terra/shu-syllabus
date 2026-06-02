@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:37Z",
+    "fetched_at": "2026-06-02T13:58:12Z",
     "name_ja": "体つくり運動",
     "name_en": "Exercise for health promotion",
     "syllabus_number": "7004800A",
@@ -46,6 +46,10 @@
         ],
         "required_materials": "特になし",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】体育実技"
     },
     "grading_criteria": "実技試験60%、レポート・課題40%",
     "evaluation_ratio": {

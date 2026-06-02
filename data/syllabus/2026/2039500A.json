@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:53Z",
+    "fetched_at": "2026-06-02T13:54:12Z",
     "name_ja": "生理学",
     "name_en": "Physiology",
     "syllabus_number": "2039500A",
@@ -67,6 +67,10 @@
         ],
         "required_materials": "筆記用具",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種免（保健体育）】【高一種（保健体育）】生理学（運動生理学を含む。）"
     },
     "grading_criteria": "筆記試験（100％）",
     "evaluation_ratio": {

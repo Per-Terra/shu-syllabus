@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:29Z",
+    "fetched_at": "2026-06-02T13:52:45Z",
     "name_ja": "スポーツ運動学",
     "name_en": "Sports Movement and Behaviour",
     "syllabus_number": "2010600A",
@@ -87,6 +87,10 @@
         ],
         "required_materials": "適宜資料を配布する。",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種（保健体育）】【高一種免（保健体育）】「体育原理、体育心理学、体育経営管理学、体育社会学、体育史」・運動学（運動方法学を含む。）"
     },
     "grading_criteria": "対面4回、オンライン11回の講義に出席し、課題を提出して下さい。特にオンライン講義では、いつ行われるか分からない小テストへの回答が成績に反映されますので、集中して受講して下さい。",
     "evaluation_ratio": {

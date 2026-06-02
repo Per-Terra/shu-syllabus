@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:58Z",
+    "fetched_at": "2026-06-02T13:54:16Z",
     "name_ja": "地域経済論Ⅱ",
     "name_en": "Regional Economics Ⅱ",
     "syllabus_number": "2040500A",
@@ -66,6 +66,10 @@
         ],
         "required_materials": "なし",
         "other": "経済学部2021年度以前入学の学生は、「地域経済論Ⅰ」及び「地域経済論Ⅱ」の両方の単位を修得することで、「地域経済論（４単位）」の単位が修得できます。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（地理歴史）】人文地理学・自然地理学"
     },
     "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:27Z",
+    "fetched_at": "2026-06-02T13:53:42Z",
     "name_ja": "福祉医療情報システム",
     "name_en": "Welfare medical information system",
     "syllabus_number": "2022900A",
@@ -76,6 +76,7 @@
         "required_materials": "ノートパソコン",
         "other": "なし"
     },
+    "teaching_certificate": null,
     "grading_criteria": "（ⅰ）医療情報システムの特徴　（ⅱ）データ活用の方法　（ⅲ）システムの導入・運用・保守・セキュリティ\n上記（ⅰ）～（ⅲ）に関する理解度を試験50％、課題20％、レポート15％、小テスト15％で評価する。",
     "evaluation_ratio": {
         "exam": 50,

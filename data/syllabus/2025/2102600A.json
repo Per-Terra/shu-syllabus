@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:27Z",
+    "fetched_at": "2026-06-02T13:55:46Z",
     "name_ja": "多変量解析",
     "name_en": "Multivariate analysis technique",
     "syllabus_number": "2102600A",
@@ -77,6 +77,7 @@
         "required_materials": "ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "1.回帰分析、2.主成分分析、3.因子分析、4.SEM、5.判別分析、6.質的データの多変量解析の6つの項目に関する理解度を以下によって評価する。\n課題別レポート60%、期末レポート40%\n課題別レポートとして、6つの項目それぞれに対して簡単なレポートを2回の講義毎に実施する。\n期末レポートとして応用的な問題に取り組み、提出してもらう。",
     "evaluation_ratio": {
         "exam": 0,

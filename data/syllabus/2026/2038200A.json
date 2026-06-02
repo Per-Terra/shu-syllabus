@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:49Z",
+    "fetched_at": "2026-06-02T13:54:06Z",
     "name_ja": "国際経済学Ⅱ",
     "name_en": "International　Economics Ⅱ",
     "syllabus_number": "2038200A",
@@ -66,6 +66,10 @@
         ],
         "required_materials": "授業中に配布するレジュメや問題を用いて授業を行います。",
         "other": "経済学部2021年度以前入学の学生は、「国際経済学Ⅰ」及び「国際経済学Ⅱ」の両方の単位を修得することで、「国際経済学（４単位）」の単位が修得できます。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {

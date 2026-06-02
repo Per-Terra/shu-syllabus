@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:02Z",
+    "fetched_at": "2026-06-02T13:52:15Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600SJ",
@@ -42,6 +42,7 @@
         "required_materials": "ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "(1) 課題を設定し、その解決方法について論理的に考え、自らの言葉で適切に表現することができる。\n(2) 研究遂行に必要となる情報を収集し整理することができる。\n(3) 実験機器や情報機器を利用してデータの取得、処理・分析を適切に行うことができる。\n上記の項目について、発表及び実験等への取り組みにより評価する。",
     "evaluation_ratio": {
         "exam": 0,

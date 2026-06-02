@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:46Z",
+    "fetched_at": "2026-06-02T13:53:01Z",
     "name_ja": "情報社会論",
     "name_en": "Introduction to Information Society",
     "syllabus_number": "2021200A",
@@ -68,6 +68,10 @@
         "recommended": [],
         "required_materials": null,
         "other": "特定の教科書は指定せず、資料などを配布する。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "情報社会（職業に関する内容を含む。）・情報倫理"
     },
     "grading_criteria": "本講義の主要テーマである「メディア社会の展開」、「情報化社会の現実」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
     "evaluation_ratio": {

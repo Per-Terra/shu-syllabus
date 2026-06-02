@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:46Z",
+    "fetched_at": "2026-06-02T13:53:01Z",
     "name_ja": "情報社会と職業",
     "name_en": "IT Society and Profession",
     "syllabus_number": "2021500A",
@@ -57,6 +57,10 @@
         ],
         "required_materials": "授業時に案内します",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "情報社会（職業に関する内容を含む。）・情報倫理"
     },
     "grading_criteria": "「④授業のテーマ及び到達目標」に掲げた到達目標への習熟度を、試験40％、小テスト30％、レポート30％の割合で評価する。",
     "evaluation_ratio": {

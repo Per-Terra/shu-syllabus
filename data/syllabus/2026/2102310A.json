@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:35Z",
+    "fetched_at": "2026-06-02T13:54:54Z",
     "name_ja": "オブジェクト指向プログラミング",
     "name_en": "Object-Oriented Programming",
     "syllabus_number": "2102310A",
@@ -56,6 +56,7 @@
         "required_materials": "ノートパソコン",
         "other": "授業内容に関するプリントを配布します。この授業は演習を含みます。"
     },
+    "teaching_certificate": null,
     "grading_criteria": "オブジェクト指向に基づくプログラムの設計、実装に関する学生の理解度を以下で評価する。",
     "evaluation_ratio": {
         "exam": 0,

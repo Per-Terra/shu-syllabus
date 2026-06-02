@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:07Z",
+    "fetched_at": "2026-06-02T13:55:28Z",
     "name_ja": "経済史Ⅰ",
     "name_en": "Economic History Ⅰ",
     "syllabus_number": "2107100A",
@@ -122,6 +122,10 @@
         ],
         "required_materials": "なし",
         "other": "経済学部の学生は、「経済史Ⅰ」及び「経済史Ⅱ」の両方の単位を修得することで、「経済史（４単位）」の単位が修得できます。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（地理歴史）】外国史"
     },
     "grading_criteria": "毎回の課題と学期末試験を総合して単位認定する。そのため毎回の課題にしっかりと取り組むことが必要となる。",
     "evaluation_ratio": {

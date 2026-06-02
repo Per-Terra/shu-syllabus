@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:16Z",
+    "fetched_at": "2026-06-02T13:54:34Z",
     "name_ja": "経営管理論",
     "name_en": "Business Administration",
     "syllabus_number": "2044300A",
@@ -56,6 +56,10 @@
         "recommended": [],
         "required_materials": "教科書、パソコン又はタブレット",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "期末試験（60％）、授業内のワーク等（40％）で評価する。\nなお、受講生が少ない場合には期末レポートになる場合がある。",
     "evaluation_ratio": {

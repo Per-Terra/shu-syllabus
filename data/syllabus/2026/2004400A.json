@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:33Z",
+    "fetched_at": "2026-06-02T13:51:52Z",
     "name_ja": "中小企業論",
     "name_en": "Theory of Small Businesses",
     "syllabus_number": "2004400A",
@@ -62,6 +62,10 @@
         ],
         "required_materials": "なし",
         "other": "学生が講義に主体的に参加する「アクティブラーニング」形式を採用するので、履修学生には様々なアクティビティへの積極的な参加が求められる。授業の内容は、学生の発表内容によって前後・変更することがあり得る。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "期末テスト・期末レポートは課さない。\n毎回課される課題（レポート）の評価と、アクティブラーニングへの参加度（発表）を数値化して評価する。",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:27Z",
+    "fetched_at": "2026-06-02T13:51:47Z",
     "name_ja": "ミクロ・マクロ経済学演習",
     "name_en": "Exercises in Micro&Macro Economics",
     "syllabus_number": "2000300A",
@@ -50,6 +50,10 @@
         ],
         "required_materials": "経済学で使用した教科書",
         "other": "授業中に配布するレジュメや問題を用いて授業を行います。経済学で使用したテキストがあれば持参してください。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {

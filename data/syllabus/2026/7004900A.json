@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:38Z",
+    "fetched_at": "2026-06-02T13:58:12Z",
     "name_ja": "学校保健",
     "name_en": "School Health",
     "syllabus_number": "7004900A",
@@ -56,6 +56,10 @@
         "recommended": [],
         "required_materials": null,
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種免（保健体育）】【高一種免（保健体育）】学校保健（小児保健、精神保健、学校安全及び救急処置を含む。）"
     },
     "grading_criteria": "授業内容の理解、指導技術、考え方の修得を中心に総合的に評価します。",
     "evaluation_ratio": {

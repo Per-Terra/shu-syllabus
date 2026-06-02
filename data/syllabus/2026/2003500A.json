@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:32Z",
+    "fetched_at": "2026-06-02T13:51:51Z",
     "name_ja": "経済統計",
     "name_en": "Economic Statistics",
     "syllabus_number": "2003500A",
@@ -55,6 +55,10 @@
         "recommended": [],
         "required_materials": "ノートPC(必要な時は別途指示する)",
         "other": "特定の教科書は使用せず、授業中に配布する資料等に基づき進めていきます。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "① 経済データの意味の理解　② マクロ経済統計の作成方法の理解　③ 日本経済の現状理解　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内外の演習の状況を、課題提出を通して評価します。",
     "evaluation_ratio": {

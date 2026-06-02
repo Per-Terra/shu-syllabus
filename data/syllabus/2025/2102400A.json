@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:26Z",
+    "fetched_at": "2026-06-02T13:55:44Z",
     "name_ja": "ニューラルネットワーク",
     "name_en": "Neural Network",
     "syllabus_number": "2102400A",
@@ -65,6 +65,7 @@
         "required_materials": "ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "到達目標に挙げる 1. ニューラルネットワークの基礎知識についての理解　2. 誤差逆伝播法についての理解　3. 深層学習の基礎知識および関連技術についての理解　を以下により評価する。",
     "evaluation_ratio": {
         "exam": 40,

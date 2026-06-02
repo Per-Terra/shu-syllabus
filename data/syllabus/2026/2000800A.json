@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:28Z",
+    "fetched_at": "2026-06-02T13:51:47Z",
     "name_ja": "日本経済史",
     "name_en": "Japanese Economic History",
     "syllabus_number": "2000800A",
@@ -61,6 +61,10 @@
         ],
         "required_materials": "なし",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】日本史"
     },
     "grading_criteria": "講義内レポート、講義時間外レポートで評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
     "evaluation_ratio": {

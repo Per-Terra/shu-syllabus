@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:14Z",
+    "fetched_at": "2026-06-02T13:55:36Z",
     "name_ja": "簿記初級Ⅱ",
     "name_en": "Introductory Bookkeeping Ⅱ",
     "syllabus_number": "2108200A",
@@ -59,6 +59,10 @@
         ],
         "required_materials": "教科書・電卓・ノート・筆記用具",
         "other": "経済学部及び福祉情報学部の学生は、「簿記初級Ⅰ」及び「簿記初級Ⅱ」の両方の単位を修得することで、「簿記初級（４単位）」の単位が修得できます。（2021年度以前入学の学生は「簿記会計Ⅰ」の単位が修得できます。）"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "毎回授業の最後に小テストを行い、その回の内容の理解度を問う（28％）。\n期末試験では到達目標①～③の習得度を問う（72％）。",
     "evaluation_ratio": {

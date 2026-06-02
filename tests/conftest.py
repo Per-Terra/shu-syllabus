@@ -18,5 +18,11 @@ def syllabus_html_complex() -> str:
 
 
 @pytest.fixture(scope="module")
+def syllabus_html_teaching() -> str:
+    """学校保健 (7004900A, 2026) — 教職関連・複数教員・実務家教員・小テスト評価。"""
+    return (FIXTURES_DIR / "syllabus_page_7004900A.html").read_text()
+
+
+@pytest.fixture(scope="module")
 def search_html() -> str:
     return (FIXTURES_DIR / "search_results.html").read_text()

@@ -79,6 +79,19 @@ class EvaluationRatio:
 
 
 @dataclass(frozen=True)
+class TeachingCertificate:
+    """教職関連
+
+    Attributes:
+        subject: 大区分
+        enforcement: 免許法施行規則に定める科目区分
+    """
+
+    subject: str | None = None
+    enforcement: str | None = None
+
+
+@dataclass(frozen=True)
 class EnrollmentInfo:
     """履修上の注意。
 
@@ -125,6 +138,7 @@ class Syllabus:
         textbooks: 教科書
         references: 参考図書
         enrollment_info: 履修上の注意
+        teaching_certificate: 教職関連
         grading_criteria: 評価基準
         evaluation_ratio: 学生に対する評価（比率）
         teacher_message: 担当教員からのメッセージ
@@ -158,6 +172,7 @@ class Syllabus:
     textbooks: list[Book] = field(default_factory=list)
     references: list[Book] = field(default_factory=list)
     enrollment_info: EnrollmentInfo = field(default_factory=EnrollmentInfo)
+    teaching_certificate: TeachingCertificate | None = None
     grading_criteria: str | None = None
     evaluation_ratio: EvaluationRatio = field(default_factory=EvaluationRatio)
     teacher_message: str | None = None

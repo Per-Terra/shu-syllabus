@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:21Z",
+    "fetched_at": "2026-06-02T13:54:39Z",
     "name_ja": "計算機概論",
     "name_en": "Introduction to computers",
     "syllabus_number": "2100300A",
@@ -60,6 +60,10 @@
         "recommended": [],
         "required_materials": "PC、教科書、ノート、筆記具",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "コンピュータ・情報処理"
     },
     "grading_criteria": "講義内容を振り返り理解を深めるために3回ほどの小レポート（又は小テスト）(担当教員ごと)を課します。\nまた、全体講義終了後に全体の理解度を確認するための試験(60分)を行います。\n成績評価の割合：小レポート(又は小テスト)60％、試験40%",
     "evaluation_ratio": {

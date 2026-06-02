@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:59:57Z",
+    "fetched_at": "2026-06-02T13:57:23Z",
     "name_ja": "線形代数演習",
     "name_en": "Linear Algebra: Exercises",
     "syllabus_number": "2126800A",
@@ -67,6 +67,7 @@
         "required_materials": "筆記用具",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "演習問題（レポートまたは小テスト）と期末テストを用いて内容の理解度を評価する。評価基準は下記とする。\n演習問題(50%)、期末テスト(50%)\nこれらを総合して概ね6割程度の理解度を達成している者を合格とする。",
     "evaluation_ratio": {
         "exam": 50,

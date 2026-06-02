@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:50Z",
+    "fetched_at": "2026-06-02T13:56:15Z",
     "name_ja": "ゴール型球技",
     "name_en": "Goal type ball game",
     "syllabus_number": "2113700A",
@@ -68,6 +68,10 @@
         ],
         "required_materials": "なし",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】体育実技"
     },
     "grading_criteria": "(i)技能や連携した動きを用いてゲームを展開できる（技能）\n(ii)主体的に取り組める（態度）\n(iii)基礎知識を理解できる（知識）\n上記ⅰ～ⅲについて評価を行う．\n(i)60％，(ii)30％，(iii)10％",
     "evaluation_ratio": {

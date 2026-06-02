@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:32Z",
+    "fetched_at": "2026-06-02T13:52:47Z",
     "name_ja": "スポーツバイオメカニクス",
     "name_en": "Sports Biomechanics",
     "syllabus_number": "2011400A",
@@ -73,6 +73,10 @@
         ],
         "required_materials": "なし",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "「体育原理、体育心理学、体育経営管理学、体育社会学、体育史」・運動学（運動方法学を含む。）"
     },
     "grading_criteria": "筆記試験 100％",
     "evaluation_ratio": {

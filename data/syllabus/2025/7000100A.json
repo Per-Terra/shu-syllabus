@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:59:58Z",
+    "fetched_at": "2026-06-02T13:57:25Z",
     "name_ja": "教師論",
     "name_en": "Teaching profession",
     "syllabus_number": "7000100A",
@@ -114,6 +114,7 @@
         "required_materials": "ノートパソコン、筆記用具",
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
+    "teaching_certificate": null,
     "grading_criteria": "本講義の主要テーマである「教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」について，以下の「学生に対する評価」の基づいて評価を行う。\n（課題レポート70%，その他30%）\n※「その他」は、授業中のディスカッション等への参加態度や振り返り課題の記入状況によって評価する。",
     "evaluation_ratio": {
         "exam": 0,

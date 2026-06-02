@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:33Z",
+    "fetched_at": "2026-06-02T13:55:53Z",
     "name_ja": "組み込みシステム",
     "name_en": "Embedded Systems",
     "syllabus_number": "2104100A",
@@ -65,6 +65,7 @@
         "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": "なし"
     },
+    "teaching_certificate": null,
     "grading_criteria": "論理設計の基礎、組み込みシステムの基礎に関する理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {
         "exam": 70,

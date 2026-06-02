@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:23Z",
+    "fetched_at": "2026-06-02T13:54:42Z",
     "name_ja": "VBAプログラミング",
     "name_en": "VBA Programming",
     "syllabus_number": "2100700A",
@@ -43,6 +43,10 @@
         "recommended": [],
         "required_materials": "PC必携",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "マルチメディア表現・マルチメディア技術"
     },
     "grading_criteria": "授業への取り組み30%、宿題50%、期末課題20%",
     "evaluation_ratio": {

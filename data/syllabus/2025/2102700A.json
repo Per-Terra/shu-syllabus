@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:27Z",
+    "fetched_at": "2026-06-02T13:55:47Z",
     "name_ja": "生体情報システム",
     "name_en": "Biological Information System",
     "syllabus_number": "2102700A",
@@ -66,6 +66,7 @@
         "required_materials": "ノートパソコン",
         "other": "なし"
     },
+    "teaching_certificate": null,
     "grading_criteria": "１．脳やニューロン、感覚器、運動器の構造と機能、２．生体の感覚情報処理の基本的な仕組み、３．生体の運動制御の基本的な仕組み、４．生体データの計測および分析方法\n上記１．～４．に関する理解度を以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
         "exam": 60,

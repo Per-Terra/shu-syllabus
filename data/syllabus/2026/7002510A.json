@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:28Z",
+    "fetched_at": "2026-06-02T13:58:02Z",
     "name_ja": "特別活動および総合的な学習の時間",
     "name_en": "Special Activities the Period for Integrated Studies",
     "syllabus_number": "7002510A",
@@ -99,6 +99,10 @@
         "recommended": [],
         "required_materials": "教科書、ノート、筆記用具",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教育の基礎的理解に関する科目等",
+        "enforcement": "道徳、総合的な学習の時間等の指導法及び生徒指導、教育相談等に関する科目"
     },
     "grading_criteria": "(１) 特別活動の意義、目標及び内容の理解、(２) 特別活動の指導の在り方の理解、(３) 総合的な学習の時間の意義、目標及び内容の理解、(４)総合的な学習の時間の指導のあり方の理解、基礎的な能力の養成、(５)総合的な学習の時間の指導、評価、実践上の留意点の理解 の五点を⑪に示す方法で評価する。",
     "evaluation_ratio": {

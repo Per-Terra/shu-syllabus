@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:39Z",
+    "fetched_at": "2026-06-02T13:53:58Z",
     "name_ja": "運動生理学",
     "name_en": "Exercise Physiology",
     "syllabus_number": "2034500A",
@@ -72,6 +72,10 @@
         ],
         "required_materials": "なし",
         "other": "参考資料は、授業中に適時配布する。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種免（保健体育）】【高一種免（保健体育）】生理学（運動生理学を含む。）"
     },
     "grading_criteria": "筆記試験50％、小テスト40％、学習状況10％をもとに総合的に評価する。",
     "evaluation_ratio": {

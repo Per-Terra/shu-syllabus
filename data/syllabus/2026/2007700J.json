@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:14Z",
+    "fetched_at": "2026-06-02T13:52:30Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700J",
@@ -50,6 +50,7 @@
         "required_materials": "個人用PC",
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
     },
+    "teaching_certificate": null,
     "grading_criteria": "本ゼミでは、最終的に提出した卒業論文を主な評価の対象とします。また、それ以外に講義中に出た課題や、各自の調査・発表に用いた資料などと合わせ、総合的な評価を行います。",
     "evaluation_ratio": {
         "exam": 0,

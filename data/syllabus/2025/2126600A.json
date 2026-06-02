@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:59:56Z",
+    "fetched_at": "2026-06-02T13:57:23Z",
     "name_ja": "パターン認識",
     "name_en": "Pattern Recognition",
     "syllabus_number": "2126600A",
@@ -75,6 +75,7 @@
         "required_materials": "ノートパソコン",
         "other": "教科書　指定せず、資料を配布します。　参考図書・参考資料　その他、適宜講義資料で紹介します。"
     },
+    "teaching_certificate": null,
     "grading_criteria": "1.パターン認識についての理解、2.手法と適用場面についての理解、3.手法を実装するツールについての理解、を以下により評価します。\n\n演習課題60％、期末試験・レポート40％",
     "evaluation_ratio": {
         "exam": 20,

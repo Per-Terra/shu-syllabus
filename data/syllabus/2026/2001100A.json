@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:28Z",
+    "fetched_at": "2026-06-02T13:51:48Z",
     "name_ja": "日本経済概論",
     "name_en": "Introduction to Japanese Economy",
     "syllabus_number": "2001100A",
@@ -46,6 +46,10 @@
         ],
         "required_materials": "なし",
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】「社会学、経済学（国際経済を含む。）」"
     },
     "grading_criteria": "・戦中から現在までの日本経済の推移、諸課題について理解できる。\n上記の基準を⑪によって評価する。⑪の「その他」については、授業に積極的に参加する姿勢を評価対象とする。",
     "evaluation_ratio": {

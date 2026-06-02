@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:53:07Z",
+    "fetched_at": "2026-06-02T13:50:31Z",
     "name_ja": "データサイエンス入門(a)(b)",
     "name_en": "Introduction to data science",
     "syllabus_number": "1008300A",
@@ -49,6 +49,7 @@
         "required_materials": null,
         "other": "関連科目:統計学基礎、統計学、福祉統計学、心理統計学、数学"
     },
+    "teaching_certificate": null,
     "grading_criteria": "下記の3つの項目において、試験、レポート、発表・実技の評価点をもとに、概ね6割以上到達している者を合格とする。\n(ⅰ) データサイエンスが、社会でどのように活用され新たな価値を生んでいるかを理解することができるようになった。\n(ⅱ) 社会の実データ・実課題を適切に読み解き、判断できるようになった。\n(ⅲ) 基礎的な分析の手法を、表計算ソフトを用いて実行できるようになった。",
     "evaluation_ratio": {
         "exam": 40,

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:28Z",
+    "fetched_at": "2026-06-02T13:54:47Z",
     "name_ja": "Javaプログラミング",
     "name_en": "Java Programming",
     "syllabus_number": "2101400A",
@@ -52,6 +52,10 @@
         "recommended": [],
         "required_materials": "ノートパソコン",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "コンピュータ・情報処理"
     },
     "grading_criteria": "（ⅰ）Javaの特徴　（ⅱ）プログラミングの基本　（ⅲ）プログラムの作成\n上記（ⅰ）～（ⅲ）に関する理解度を課題50％、レポート25％、小テスト25％で評価する。",
     "evaluation_ratio": {

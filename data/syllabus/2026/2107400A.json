@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:09Z",
+    "fetched_at": "2026-06-02T13:55:31Z",
     "name_ja": "企業概論Ⅰ",
     "name_en": "Introduction to Business EnterprisesⅠ",
     "syllabus_number": "2107400A",
@@ -70,6 +70,10 @@
         ],
         "required_materials": "教科書、パソコン又はタブレット",
         "other": "経済学部の学生は、「企業概論Ⅰ」及び「企業概論Ⅱ」の両方の単位を修得することで、「企業概論（４単位）」の単位が修得できる。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "期末試験60％、授業内のワーク40％で成績を評価する。\n※受講者数が少ない場合は、期末レポートを実施することがある。\nなお、授業への参加態度により加点または減点する場合がある。",
     "evaluation_ratio": {

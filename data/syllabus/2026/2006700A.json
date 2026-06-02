@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:35Z",
+    "fetched_at": "2026-06-02T13:51:54Z",
     "name_ja": "原価計算論",
     "name_en": "Cost Accounting",
     "syllabus_number": "2006700A",
@@ -78,6 +78,10 @@
         ],
         "required_materials": "教科書、電卓",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "(ⅰ)工業簿記の基礎と原価の費目別計算についての理解\n(ⅱ)個別原価計算、部門別個別原価計算についての理解\n(ⅲ)総合原価計算についての理解\n(ⅳ)標準原価計算についての理解\n(ⅴ)直接原価計算についての理解",
     "evaluation_ratio": {

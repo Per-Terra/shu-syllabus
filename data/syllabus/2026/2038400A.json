@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:49Z",
+    "fetched_at": "2026-06-02T13:54:08Z",
     "name_ja": "財務会計論",
     "name_en": "Financial Accounting",
     "syllabus_number": "2038400A",
@@ -60,6 +60,10 @@
         ],
         "required_materials": "教科書・電卓・筆記用具",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "商業の関係科目"
     },
     "grading_criteria": "毎回授業の最後に小テストを行い、その回の内容の理解度を問う（30％）。\n期末のレポート課題では、到達目標①～③の習得度を問う（70％）。",
     "evaluation_ratio": {

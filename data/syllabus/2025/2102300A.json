@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:24Z",
+    "fetched_at": "2026-06-02T13:55:44Z",
     "name_ja": "データサイエンス概論",
     "name_en": "Introduction to Data Science",
     "syllabus_number": "2102300A",
@@ -46,6 +46,7 @@
         "required_materials": "パソコン",
         "other": "講義の際には資料を提供する"
     },
+    "teaching_certificate": null,
     "grading_criteria": "「データマネジメント」および「データマイニング」に関する理解度を、以下の方法で評価する。 \n\n授業の際に出される課題レポート（小テスト）の評価（40％） \n\n中間課題の点数（30％） \n\n期末課題の点数（30％）",
     "evaluation_ratio": {
         "exam": 0,

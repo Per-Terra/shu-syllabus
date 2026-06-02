@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:26Z",
+    "fetched_at": "2026-06-02T13:55:46Z",
     "name_ja": "IoTとAI",
     "name_en": "IoT and Al",
     "syllabus_number": "2102500A",
@@ -49,6 +49,7 @@
         "required_materials": "筆記具、ノート、ノートPC",
         "other": "教科書　PDFでダウンロード　参考図書　授業時に指示する"
     },
+    "teaching_certificate": null,
     "grading_criteria": "1.IoTとAIの概要、2.センサーテクノロジーの基本、3.IoTの入出力とその制御についての理解・修得度を以下の「学生に対する評価」により評価する。\n筆記試験 60% 課題演習 40% (授業期間後半に提示される5間のうちから2問を選択して提出する)",
     "evaluation_ratio": {
         "exam": 60,

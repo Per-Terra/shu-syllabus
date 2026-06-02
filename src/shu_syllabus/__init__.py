@@ -6,6 +6,7 @@ from ._models import (
     ScheduleEntry,
     Syllabus,
     Teacher,
+    TeachingCertificate,
 )
 from ._scraper import Scraper
 
@@ -17,5 +18,6 @@ __all__ = [
     "Scraper",
     "Syllabus",
     "Teacher",
+    "TeachingCertificate",
     "load",
 ]

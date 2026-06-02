@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:39Z",
+    "fetched_at": "2026-06-02T13:53:58Z",
     "name_ja": "解剖学",
     "name_en": "Human Anatomy",
     "syllabus_number": "2034700A",
@@ -65,6 +65,10 @@
         ],
         "required_materials": "特になし",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "生理学（運動生理学を含む。）"
     },
     "grading_criteria": "筆記試験 50%、課題レポート 30%、授業への参加意欲 20%",
     "evaluation_ratio": {

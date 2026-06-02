@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:54:00Z",
+    "fetched_at": "2026-06-02T13:51:20Z",
     "name_ja": "心理学Ⅱ",
     "name_en": "General Psychology Ⅱ",
     "syllabus_number": "1102100A",
@@ -82,6 +82,10 @@
         ],
         "required_materials": "ノートPC、筆記用具、ノート・ルーズリーフなど",
         "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅱ」の読替科目です。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "「哲学、倫理学、宗教学、心理学」"
     },
     "grading_criteria": "期末試験と積極的参加点によって評価します。",
     "evaluation_ratio": {

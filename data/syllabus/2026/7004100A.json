@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:35Z",
+    "fetched_at": "2026-06-02T13:58:11Z",
     "name_ja": "ダンス",
     "name_en": "Dancing",
     "syllabus_number": "7004100A",
@@ -52,6 +52,10 @@
         "recommended": [],
         "required_materials": null,
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】体育実技"
     },
     "grading_criteria": "ダンス発表　50％\n受講態度・グループワーク　50％",
     "evaluation_ratio": {

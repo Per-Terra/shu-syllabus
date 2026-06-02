@@ -7,6 +7,7 @@ from shu_syllabus._models import (
     ScheduleEntry,
     Syllabus,
     Teacher,
+    TeachingCertificate,
 )
 from shu_syllabus._parser import parse_syllabus
 
@@ -225,3 +226,47 @@ def test_parse_schedule_with_multiple_teachers(syllabus_html_complex: str) -> No
     has_multi = any(len(e.teachers) > 1 for e in result.schedule)
     has_single = any(len(e.teachers) == 1 for e in result.schedule)
     assert has_multi or has_single
+
+
+def test_teaching_certificate_none_for_non_teaching(syllabus_html: str) -> None:
+    # 教職課程対象外の科目では「教職関連」欄が空 → None
+    result = parse_syllabus(syllabus_html)
+    assert result.teaching_certificate is None
+
+
+# ---------------------------------------------------------------------------
+# Teaching-certificate fixture (7004900A: 学校保健, 2026)
+# 教職関連あり・複数教員・実務家教員・小テスト/実技による評価
+# ---------------------------------------------------------------------------
+
+
+def test_parse_teaching_certificate(syllabus_html_teaching: str) -> None:
+    result = parse_syllabus(syllabus_html_teaching, syllabus_no="7004900A")
+    tc = result.teaching_certificate
+    assert isinstance(tc, TeachingCertificate)
+    assert tc.subject == "教科及び教科の指導法に関する科目"
+    assert tc.enforcement is not None
+    # 対応免許状ごとに改行区切りで複数記載される
+    assert "\n" in tc.enforcement
+    assert tc.enforcement.startswith("【小二種免】")
+    assert "【高一種免（保健体育）】" in tc.enforcement
+
+
+def test_parse_teaching_evaluation_ratio(syllabus_html_teaching: str) -> None:
+    # 小テスト・実技発表の比率が入る数少ない例
+    ratio = parse_syllabus(syllabus_html_teaching).evaluation_ratio
+    assert ratio.quiz == 30
+    assert ratio.report == 40
+    assert ratio.presentation == 20
+    assert ratio.other == 10
+    assert ratio.exam == 0
+    assert ratio.portfolio == 0
+
+
+def test_parse_teaching_teachers_and_practitioner(syllabus_html_teaching: str) -> None:
+    result = parse_syllabus(syllabus_html_teaching)
+    assert len(result.teachers) == 2
+    assert [t.is_primary for t in result.teachers] == [True, False]
+    assert result.practitioner_info is not None
+    assert "村瀬" in result.practitioner_info
+    assert result.credit_auditing is False

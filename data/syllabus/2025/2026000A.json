@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:43Z",
+    "fetched_at": "2026-06-02T13:53:59Z",
     "name_ja": "Python入門",
     "name_en": "Introduction to Python programming",
     "syllabus_number": "2026000A",
@@ -54,6 +54,7 @@
         "required_materials": "必携パソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "到達目標1および2について、各回の小テスト・小レポートによって評価し、到達目標1～3について最終課題をまとめた期末レポートによって評価する。\n期末レポートは授業時に開示するルーブリックに基づいて採点する。\n成績評価の配点\n小テスト、小レポート40％\n期末レポート60%",
     "evaluation_ratio": {
         "exam": 0,

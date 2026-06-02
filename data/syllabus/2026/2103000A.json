@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:41Z",
+    "fetched_at": "2026-06-02T13:55:00Z",
     "name_ja": "AI・自然言語処理",
     "name_en": "AI・Natural Language Processing",
     "syllabus_number": "2103000A",
@@ -44,6 +44,7 @@
         "required_materials": "筆記具・ノート、ノートPC",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "１．自然言語処理技術の基本、２．さまざまな自然言語処理タスク、３．初歩的な自然言語処理技術\nを実装するスキル、について、以下の「学生に対する評価」により評価する。\n授業内の試験50％、課題演習50％（授業期間内に提示される10 の課題のうち5 つ以上を選択する）",
     "evaluation_ratio": {
         "exam": 0,

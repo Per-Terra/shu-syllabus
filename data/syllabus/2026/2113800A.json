@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:51Z",
+    "fetched_at": "2026-06-02T13:56:16Z",
     "name_ja": "ネット型球技",
     "name_en": "Net type ball game",
     "syllabus_number": "2113800A",
@@ -45,6 +45,10 @@
         "recommended": [],
         "required_materials": "運動できる服装と体育館シューズは必須（私服での参加は認めない）",
         "other": null
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】体育実技"
     },
     "grading_criteria": "実技試験60%、レポート・課題40%",
     "evaluation_ratio": {

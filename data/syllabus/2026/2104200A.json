@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:49Z",
+    "fetched_at": "2026-06-02T13:55:09Z",
     "name_ja": "ヒューマンコンピュータインタラクション",
     "name_en": "Human Computer Interaction",
     "syllabus_number": "2104200A",
@@ -70,6 +70,10 @@
         "recommended": [],
         "required_materials": "ノートパソコン",
         "other": "特になし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "情報社会（職業に関する内容を含む。）・情報倫理"
     },
     "grading_criteria": "１．ヒューマンコンピュータインタラクションの概念\n２．人間の認知特性とデバイスの関係\n３．センサーによるハードウェアインタフェースの設計手法\n４．プロトタイピング・ソフトウェアによるインタフェースの設計手法\n１〜４について、以下の方法で評価する。\n毎回の小テスト（40%）、課題レポート（40%）、プレゼンテーション（20％）",
     "evaluation_ratio": {

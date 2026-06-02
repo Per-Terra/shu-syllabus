@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:52:55Z",
+    "fetched_at": "2026-06-02T13:50:15Z",
     "name_ja": "水泳",
     "name_en": "Swimming",
     "syllabus_number": "1005500A",
@@ -78,6 +78,10 @@
         "recommended": [],
         "required_materials": "水着、スイミングキャップ、ゴーグル、タオルなど。水着はフィットネス用や競泳用を準備すること。海水パンツやビキニは不可。",
         "other": "学外施設を使用する。日時や場所、費用など別途連絡を確認すること。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】体育実技"
     },
     "grading_criteria": "技能テスト(60%)、授業への取り組む姿勢(20%)、レポート(20%）から総合的に評価する。",
     "evaluation_ratio": {

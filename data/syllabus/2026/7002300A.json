@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:25Z",
+    "fetched_at": "2026-06-02T13:58:00Z",
     "name_ja": "教育方法論Ⅰ（ICT活用の理論及び実践を含む。）",
     "name_en": "Educational Methodology with Utilization of ICT I",
     "syllabus_number": "7002300A",
@@ -87,6 +87,10 @@
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
         "other": "特定の教科書は指定せず、必要な資料は授業中に適宜配布する。"
+    },
+    "teaching_certificate": {
+        "subject": "教育の基礎的理解に関する科目等",
+        "enforcement": "道徳、総合的な学習の時間等の指導法及び生徒指導、教育相談等に関する科目"
     },
     "grading_criteria": "教育方法および技術について、およびICTを活用した授業づくりの理論と方法について、授業中の演習課題やプレゼンテーション、課題レポート、授業プランの作成を通して理解度を評価する。",
     "evaluation_ratio": {

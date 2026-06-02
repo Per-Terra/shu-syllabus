@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:46Z",
+    "fetched_at": "2026-06-02T13:54:02Z",
     "name_ja": "機械学習入門",
     "name_en": "Introduction to Machine Learning",
     "syllabus_number": "2026600A",
@@ -60,6 +60,7 @@
         "required_materials": "ノートPC（毎回持参するようにしてください）",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "到達目標に挙げる ①機械学習ついての理解　②回帰、分類、クラスタリング手法についての理解　③機械学習モデルの性能評価方法についての理解　を「学生に対する評価」の内容により評価する。",
     "evaluation_ratio": {
         "exam": 50,

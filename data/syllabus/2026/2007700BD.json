@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:07Z",
+    "fetched_at": "2026-06-02T13:52:23Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700BD",
@@ -45,6 +45,7 @@
         "required_materials": "ノートPC",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "到達目標に挙げる　1．プログラミング能力（および各種ライブラリの活用能力）の修得　2．サーベイ能力（文献・技術調査）の修得　3．プレゼンテーション能力の修得　を「学生に対する評価」の内容により評価する。",
     "evaluation_ratio": {
         "exam": 0,

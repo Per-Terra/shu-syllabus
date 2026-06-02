@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:58:27Z",
+    "fetched_at": "2026-06-02T13:55:41Z",
     "name_ja": "情報エンジニアリング概論",
     "name_en": "Introduction to Information Engineering",
     "syllabus_number": "2103400A",
@@ -64,6 +64,7 @@
         "required_materials": "ノートパソコン、教科書、ノート、筆記具",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "情報システム概論に関する学生の理解度を以下で評価する。\n100点満点：試験40点、課題レポート20点、演習40点",
     "evaluation_ratio": {
         "exam": 40,

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:25Z",
+    "fetched_at": "2026-06-02T13:53:40Z",
     "name_ja": "プログラミング演習",
     "name_en": "Exercise in Computer Programming",
     "syllabus_number": "2022500A",
@@ -68,6 +68,7 @@
         "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": "ノートパソコンが軽快に動作するよう準備し、授業に臨むこと。"
     },
+    "teaching_certificate": null,
     "grading_criteria": "プログラミングの理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {
         "exam": 50,

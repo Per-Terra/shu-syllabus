@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:32Z",
+    "fetched_at": "2026-06-02T13:53:42Z",
     "name_ja": "言語情報学",
     "name_en": "Linguistic Informatics",
     "syllabus_number": "2025900A",
@@ -82,6 +82,7 @@
         "required_materials": "毎回必要とはしないが、指示によりPCの持参を必要とする場合がある",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "1.\t自然言語の分析に関わる用語や仕組みに関する基本的な知識\n2.\t自然言語の分析結果の活用事例\n3.\t自然言語の分析方法の基本的な知識\n4.\t自然言語の分析\n\nこれら４つの視点についての理解度を以下の「学生に対する評価」により評価する。\n\n課題レポート　40%、授業ごとの小課題30％、２回の小レポート30％",
     "evaluation_ratio": {
         "exam": 0,

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:28Z",
+    "fetched_at": "2026-06-02T13:52:44Z",
     "name_ja": "スポーツ心理学",
     "name_en": "Sports Psychology",
     "syllabus_number": "2009900A",
@@ -79,6 +79,10 @@
         ],
         "required_materials": "ノート、筆記用具",
         "other": "なし"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【小二種免】教科に関する専門的事項 体育\n【中一種（保健体育）】【高一種免（保健体育）】「体育原理、体育心理学、体育経営管理学、体育社会学、体育史」・運動学（運動方法学を含む。）"
     },
     "grading_criteria": "筆記試験80%，課題レポート20%",
     "evaluation_ratio": {

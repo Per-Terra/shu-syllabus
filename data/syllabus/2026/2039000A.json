@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:56:50Z",
+    "fetched_at": "2026-06-02T13:54:09Z",
     "name_ja": "商法Ⅰ",
     "name_en": "commercial law Ⅰ",
     "syllabus_number": "2039000A",
@@ -57,6 +57,10 @@
         ],
         "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
         "other": "教科書は講義開始時の最新版とします。"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "【中一種免（社会）】「法律学、政治学」\n【高一種免（公民）】「法律学（国際法を含む。）、政治学（国際政治を含む。）」"
     },
     "grading_criteria": "１．解説した商法Ⅰの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
     "evaluation_ratio": {

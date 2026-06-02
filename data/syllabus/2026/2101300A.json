@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:57:28Z",
+    "fetched_at": "2026-06-02T13:54:46Z",
     "name_ja": "AI・機械学習基礎",
     "name_en": "AI/Machine Learning Fundamentals",
     "syllabus_number": "2101300A",
@@ -74,6 +74,7 @@
         "required_materials": "ノートパソコン",
         "other": null
     },
+    "teaching_certificate": null,
     "grading_criteria": "到達目標に挙げる 1. 機械学習ついての理解　2. 回帰、分類、クラスタリング手法についての理解　3. 機械学習モデルの性能評価方法についての理解　を以下により評価する。",
     "evaluation_ratio": {
         "exam": 50,

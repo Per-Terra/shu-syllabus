@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T12:00:17Z",
+    "fetched_at": "2026-06-02T13:57:51Z",
     "name_ja": "地理歴史科教育法Ⅰ",
     "name_en": "Educational Method for Geography and History I",
     "syllabus_number": "7000800A",
@@ -72,6 +72,10 @@
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
         "other": "地理歴史科に関わる地理学・歴史学の関連科目をなるべく多く履修していることを推奨"
+    },
+    "teaching_certificate": {
+        "subject": "教科及び教科の指導法に関する科目",
+        "enforcement": "各教科の指導法（情報通信技術の活用を含む。）"
     },
     "grading_criteria": "到達目標のうち、①学習指導要領に示された高等学校地理歴史科の目標・内容の理解、②地理歴史教育における基礎的な学習指導理論の理解、の2点については、レポート及びLMSへのコメントの記入によって評価する。③地理歴史教育における学習指導理論をふまえた地理歴史科の学習指導計画の構想については、学習指導案の作成を通して評価する。\n※「その他」評価：授業への参加態度やLMSへのコメント等による。",
     "evaluation_ratio": {

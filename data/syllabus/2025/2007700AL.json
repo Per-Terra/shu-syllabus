@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T11:55:24Z",
+    "fetched_at": "2026-06-02T13:52:42Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AL",
@@ -80,6 +80,7 @@
         "required_materials": "ノートパソコン",
         "other": "基礎的な線形代数と解析学の知識と、300行程度のプログラミング経験があること。ブロックチェーンに関する基礎的な知識があること。"
     },
+    "teaching_certificate": null,
     "grading_criteria": "ブロックチェーンの詳細に関する理解について、⑪に示す形で評価する。",
     "evaluation_ratio": {
         "exam": 0,

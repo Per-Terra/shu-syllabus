@@ -8,6 +8,7 @@ from shu_syllabus._models import (
     ScheduleEntry,
     Syllabus,
     Teacher,
+    TeachingCertificate,
 )
 
 
@@ -45,6 +46,16 @@ def test_load_sorted_by_syllabus_number() -> None:
         if s.syllabus_number
     ]
     assert keys == sorted(keys)
+
+
+def test_load_teaching_certificate_roundtrip() -> None:
+    # 教職関連データは 2026 年度のみ実在する
+    syllabuses = load("2026")
+    populated = [s for s in syllabuses if s.teaching_certificate is not None]
+    assert populated, "2026 に teaching_certificate を持つ科目が存在するはず"
+    tc = populated[0].teaching_certificate
+    assert isinstance(tc, TeachingCertificate)
+    assert tc.subject or tc.enforcement
 
 
 def test_load_invalid_year() -> None:
