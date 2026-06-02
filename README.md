@@ -57,10 +57,10 @@ with shu_syllabus.Scraper() as scraper:
 
 ```shell
 # AAAサーバーから取得
-shu-syllabus-update 2025
+uv run shu-syllabus-update 2025
 
 # パッケージ用にバンドル
-shu-syllabus-bundle 2025
+uv run shu-syllabus-bundle 2025
 ```
 
 GitHub Actions で毎週自動チェックし、変更があれば PR を作成します。
@@ -68,8 +68,15 @@ GitHub Actions で毎週自動チェックし、変更があれば PR を作成�
 ## 開発
 
 ```shell
-pip install -e ".[dev]"
-pytest
+# 依存関係のインストール
+uv sync
+
+# テスト実行
+uv run pytest
+
+# リント・フォーマット
+uv run ruff check src/ tests/
+uv run ruff format src/ tests/
 ```
 
 ## ライセンス
