@@ -123,9 +123,7 @@ class Syllabus:
         home_department: 主学科
         requirements: 要件
         target_year: 配当年
-        time_slot: 時限
         required_or_elective: 必選
-        course_division: 科目区分
         instruction_format: 担当形態（単独・複数・オムニバス等）
         teachers: 担当教員
         term: 開講期間
@@ -157,10 +155,10 @@ class Syllabus:
     home_department: str | None = None
     requirements: str | None = None
     target_year: int | None = None
-    time_slot: str | None = None
     required_or_elective: str | None = None
-    course_division: str | None = None
     instruction_format: str | None = None
+    # time_slot: str | None = None
+    # course_division: str | None = None
     teachers: list[Teacher] = field(default_factory=list)
     term: str | None = None
     credits: int | None = None

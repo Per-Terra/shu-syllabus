@@ -47,10 +47,12 @@ def parse_syllabus(
         home_department=_get_text(soup, f"{_PREFIX_KIHON}SUBJECT"),
         requirements=_get_text(soup, f"{_PREFIX_KIHON}REQUIREMENT"),
         target_year=_first_char_int(_get_text(soup, f"{_PREFIX_KIHON}HaitouNen")),
-        time_slot=_get_text(soup, f"{_PREFIX_KIHON}Free1"),
         required_or_elective=_get_text(soup, f"{_PREFIX_KIHON}Hissen"),
-        course_division=_get_text(soup, f"{_PREFIX_KIHON}Free2"),
         instruction_format=_get_text(soup, f"{_PREFIX_KIHON}FORM_CODE"),
+        # Free1/Free2 は 2022 年度以前のみ使用の欄。
+        # 2023 年度以降は常に空のため出力に含めない。
+        # time_slot=_get_text(soup, f"{_PREFIX_KIHON}Free1"),
+        # course_division=_get_text(soup, f"{_PREFIX_KIHON}Free2"),
         teachers=_parse_teachers(_get_text(soup, f"{_PREFIX_KIHON}Kyoin")),
         term=_get_text(soup, f"{_PREFIX_KIHON}KaikouKikan"),
         credits=_first_char_int(_get_text(soup, f"{_PREFIX_KIHON}Tanisu")),

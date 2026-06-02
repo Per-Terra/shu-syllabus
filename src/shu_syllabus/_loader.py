@@ -43,10 +43,10 @@ def _dict_to_syllabus(d: dict[str, Any]) -> Syllabus:
         home_department=d.get("home_department") or None,
         requirements=d.get("requirements") or None,
         target_year=d.get("target_year"),
-        time_slot=d.get("time_slot") or None,
         required_or_elective=d.get("required_or_elective") or None,
-        course_division=d.get("course_division") or None,
         instruction_format=d.get("instruction_format") or None,
+        # time_slot=d.get("time_slot") or None,
+        # course_division=d.get("course_division") or None,
         teachers=[
             Teacher(name=t["name"], is_primary=t["is_primary"])
             for t in d.get("teachers", [])
