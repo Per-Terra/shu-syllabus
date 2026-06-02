@@ -1,14 +1,10 @@
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "shu_syllabus"
-version = "0.1.0"
+version = "1.0.0"
 authors = [{ name = "per-terra" }]
-description = "This is a package for scraping the syllabus of Shunan University."
+description = "Scrape and load Shunan University syllabus data from Active Academy Advance."
 readme = "README.md"
-requires-python = ">=3.10" # union types as X | Y is used (PEP 604)
+requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -16,8 +12,45 @@ classifiers = [
 ]
 dependencies = ["beautifulsoup4", "requests"]
 
+[project.scripts]
+shu-syllabus-update = "shu_syllabus._cli.update:main"
+shu-syllabus-bundle = "shu_syllabus._cli.bundle:main"
+shu-syllabus-migrate = "shu_syllabus._cli.migrate:main"
+
 [project.urls]
 Homepage = "https://github.com/Per-Terra/shu-syllabus"
 
-[tool.setuptools]
-include-package-data = true
+[dependency-groups]
+dev = ["pytest", "ruff"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/shu_syllabus"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+    "F",     # pyflakes
+    "E",     # pycodestyle errors
+    "W",     # pycodestyle warnings
+    "I",     # isort
+    "UP",    # pyupgrade
+    "B",     # flake8-bugbear
+    "SIM",   # flake8-simplify
+    "TC",    # flake8-type-checking
+    "RUF",   # ruff-specific
+]
+ignore = [
+    "RUF001", # 文字列中の全角文字を許可（日本語データ処理）
+    "RUF002", # docstring 中の全角括弧を許可（日本語ドキュメント）
+    "TC001",  # ランタイムでも使用する内部インポートを許可
+]
