@@ -1,0 +1,169 @@
+{
+    "fetched_at": "2026-06-02T11:54:47Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600M",
+    "course_number": "11-3-31-11-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "従来の中国ビジネスモデルは経済性に重きを置いていましたが、近年では次世代テクノロジーの導入により、ビジネスモデルが大きく変換してきました。\nこのゼミを通じて、\n①経済性と社会性の統合、\n②テクノロジーとイノベーション、\n③キャッシュレス社会の構築、\nという3つの面から、中国の次世代ビジネスモデルを理解することが目標とします。",
+    "overview": "中国の次世代ビジネスモデルについての深い理解を目指します。具体的には、デジタル経済、AI、フィンテック、グリーンテクノロジーなどの分野に焦点を当てます。また、中国のビジネス環境や政策の最新動向を常に追跡し、ゼミの内容に反映させます。",
+    "diploma_policies": [
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "数字中国 デジタル・チャイナ-コロナ後の「新経済」",
+            "publication_year": 2022,
+            "author": "西村 友作",
+            "publisher": "中公新書",
+            "price": 990,
+            "isbn": "978-4-12-150757-0",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "教養ゼミ",
+            "経済学・経営学の視点を学ぶ",
+            "経済学入門Ⅰ",
+            "経済学入門Ⅱ",
+            "経営学入門Ⅰ",
+            "経営学入門Ⅱ"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "以下の３点に基づいて、評価を行う。\n①文献を精読し、発表を行っているかについての評価\n②グループ内での協力についての評価\n③最終成果物としての発表・レポートについての評価",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "レジメの作り方・レポートの書き方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "発表の仕方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "4～12",
+            "content": "文献輪読・発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "13～14",
+            "content": "チームによる研究発表準備",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "進捗状況報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "16～20",
+            "content": "チームによる研究発表：ディスカッション・改良\n（他大学学生とのゼミ合同発表会に向けて）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "21～29",
+            "content": "各自の研究テーマの選定・準備\n卒論に向けて研究テーマの調整・発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "ゼミ総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

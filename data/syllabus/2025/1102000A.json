@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:57:06Z",
+    "fetched_at": "2026-06-02T11:53:59Z",
     "name_ja": "心理学Ⅰ",
     "name_en": "General Psychology Ⅰ",
     "syllabus_number": "1102000A",
@@ -12,12 +12,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -64,7 +64,7 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅰ」の読替科目です。"
     },
     "grading_criteria": "授業への積極的な姿勢、講義後のレポート(小テスト)、学期末のレポート提出で総合的に評価をします。",
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

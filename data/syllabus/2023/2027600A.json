@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:07Z",
+    "fetched_at": "2026-06-02T11:56:46Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅱ",
     "name_en": "Social Work Theory and Practice Ⅱ",
     "syllabus_number": "2027600A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,8 +51,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本科目は知識や概念が問われるので、テストにて評価する。授業中に行う小テストと期末テストで評価する。小テストの割合が40％、期末テストの割合が60％である。",
     "evaluation_ratio": {
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

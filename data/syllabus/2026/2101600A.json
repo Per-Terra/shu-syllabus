@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:57:29Z",
+    "name_ja": "実践英語(AI)",
+    "name_en": "Academic English (AI)",
+    "syllabus_number": "2101600A",
+    "course_number": "31-2-21-33-06",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "橋本　喜代太",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．正確で通用可能な基礎的な英語力を身に付ける\n２．特にAI に関する文献を理解する読解力を身に付ける\n３．基礎的な議論のための会話表現を身に付ける\n４．英語による発信力としてアカデミックイングリッシュのライティング力の基本を身に付ける",
+    "overview": "先端的な研究・技術を理解するためには英語で発信された情報へのアクセスがきわめて重要である。\nこの視点から、本講義では、AI をトピックとして実践的な英語力を身に付けるための解説と演習を行\nう。具体的には、AI の解説記事・論文を素材として正確に読むことを基盤として、通じる発音、議論\nのための会話表現、基本的なアカデミックイングリッシュのライティング力を向上することを目的と\nする。前半は基礎的な解説も多く含むため日本語で行うが、後半は原則として英語で授業がなされる。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記具、ノート、辞書(電子版も可)、回によりノートPC",
+        "other": null
+    },
+    "grading_criteria": "４つの到達目標に対し、以下の「学生に対する評価」により評価する\n各回冒頭に行う小テスト(14 回) 50%、後半の課題提出評価 50%（5 回）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "担当教員は20 年以上の英語教育歴、8 年の海外大学における英語による専門科目教育、多数の英語講\n演歴を持ち、その経験を生かして授業を行う。予習復習においては最低3 時間程度（主に復習）が想\n定され、反復練習を多く含むが、その素材・練習方法も詳細に説明する。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "実践的な英語力とその習得方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "文法に基づいた読解力(1): 文・節、英語発音の基礎(1): 母音",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "文法に基づいた読解力(2): 句構造、英語発音の基礎(2): 子音",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "文法に基づいた読解力(3): 文構造、英語発音の基礎(3): 強勢",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "文法に基づいた読解力(4): 総合、英語発音の基礎(4):音調",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "パラグラフ:その一貫性と結束性、英語発音の基礎(5):変化",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "文章構造",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "国際会議論文とその発表(1): 国際会議論文を読み、理解する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "国際会議論文とその発表(2): 発表を聞き、理解する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "国際会議論文とその発表(3): 発表と議論を聞き、理解する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "短い英語（パラグラフレベル）を書く",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "短い英語レポートを書く",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "説得力のある文章・議論の構成を学ぶ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "生産的な議論と質疑を学ぶ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ\nアカデミックイングリッシュとジェネラルイングリッシュ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本　喜代太"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

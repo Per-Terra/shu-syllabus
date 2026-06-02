@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:22:41Z",
+    "fetched_at": "2026-06-02T11:57:57Z",
     "name_ja": "コンテンツビジネス入門",
     "name_en": "Introduction to Contents Business",
     "syllabus_number": "2044400A",
@@ -9,12 +9,12 @@
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

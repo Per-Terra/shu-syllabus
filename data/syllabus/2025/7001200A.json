@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:07:14Z",
+    "fetched_at": "2026-06-02T12:00:06Z",
     "name_ja": "商業科教育法Ⅰ",
     "name_en": "Educational Method for Commercial Course I",
     "syllabus_number": "7001200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -252,5 +252,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:17:26Z",
+    "fetched_at": "2026-06-02T11:56:36Z",
     "name_ja": "Python演習",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2026100B",
     "course_number": "10ES202、05WI201",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         ],
         "recommended": [],
         "required_materials": "PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標1および2について、各回の小テスト・小レポートによって評価し、到達目標1～3について最終課題をまとめた期末レポート\nによって評価する。\n期末レポートは授業時に開示するルーブリックに基づいて採点する。\n\n成績評価の配点\n小テスト、小レポート40％\n期末レポート60%",
     "evaluation_ratio": {
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

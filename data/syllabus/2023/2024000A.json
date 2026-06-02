@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:37Z",
+    "fetched_at": "2026-06-02T11:56:24Z",
     "name_ja": "心理学研究法Ⅱ",
     "name_en": "Methods of Psychological Research",
     "syllabus_number": "2024000A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -79,7 +79,7 @@
             "心理学実験実習Ⅱ"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "以下の２つの観点に基づき，「学生に対する評価」の内容で評価する。\n(i) 観察法の考え方を理解し、研究内容に応じた観察項目を設定することができる\n(ii) 面接法の考え方を理解し、他の方法との違いを説明することができる\n\n(iii) 心理学における研究法の重要さと特徴を説明することができる",
     "evaluation_ratio": {
@@ -257,5 +257,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

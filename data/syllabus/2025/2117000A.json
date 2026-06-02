@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:50Z",
+    "fetched_at": "2026-06-02T11:59:23Z",
     "name_ja": "セクシュアルリプロダクティブ看護学概論",
     "name_en": "Introduction to Sexual and Reproductive Health?Nursing",
     "syllabus_number": "2117000A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,10 +42,10 @@
         {
             "title": "看護学テキストNiCE 母性看護学Ⅰ 概論・ライフサイクル　改訂第3版",
             "publication_year": 2022,
-            "author": "",
+            "author": null,
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -56,7 +56,7 @@
             "author": "大平光子、井上尚美、大月恵理子、佐々木くみ子、林ひろみ編著",
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -86,7 +86,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/2　大平光子"
             ]
         },
         {
@@ -96,7 +96,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/9　大平光子"
             ]
         },
         {
@@ -106,7 +106,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/16　大平光子"
             ]
         },
         {
@@ -116,7 +116,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/23　大平光子"
             ]
         },
         {
@@ -126,7 +126,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/6　大平光子"
             ]
         },
         {
@@ -136,7 +136,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/13　大平光子"
             ]
         },
         {
@@ -146,7 +146,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/20　大平光子"
             ]
         },
         {
@@ -156,7 +156,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/27　大平光子"
             ]
         }
     ],

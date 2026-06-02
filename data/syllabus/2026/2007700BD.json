@@ -1,0 +1,142 @@
+{
+    "fetched_at": "2026-06-02T11:55:07Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700BD",
+    "course_number": "2007700",
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "専門ゼミⅡでは、各自が設定したテーマの下、卒業研究を実施する。\n卒業研究を通じて　1．プログラミング能力（および各種ライブラリの活用能力）　2．サーベイ能力（文献・技術調査）　3．プレゼンテーション能力　を修得することを目標とする。",
+    "overview": "週1回のゼミは、文献紹介もしくは進捗報告とそれに基づいた議論によって展開します。ゼミの時間帯以外で各自、研究活動に取り組みます。最終成果物として卒業論文を執筆します。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC",
+        "other": null
+    },
+    "grading_criteria": "到達目標に挙げる　1．プログラミング能力（および各種ライブラリの活用能力）の修得　2．サーベイ能力（文献・技術調査）の修得　3．プレゼンテーション能力の修得　を「学生に対する評価」の内容により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ゼミにおける評価は、自らの主体性と意欲に大きく影響されます。能動性と自己探求を欠かさず、積極的に取り組んでいきましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、テーマ確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "2～14",
+            "content": "進捗報告、文献紹介ゼミ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "中間報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "16～26",
+            "content": "進捗報告、文献紹介ゼミ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "最終成果報告会に向けたアブストラクト作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "最終成果報告会に向けた発表準備",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "最終発表会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文提出",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

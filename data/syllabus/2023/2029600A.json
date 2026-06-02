@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:18:52Z",
+    "fetched_at": "2026-06-02T11:56:57Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅰ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2029600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -50,8 +50,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "試験（100％）",
     "evaluation_ratio": {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

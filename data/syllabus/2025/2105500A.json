@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:36Z",
+    "fetched_at": "2026-06-02T11:58:39Z",
     "name_ja": "大規模・オープンデータ分析",
     "name_en": "Big Data and Open Data Analysis",
     "syllabus_number": "2105500A",
@@ -8,12 +8,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -25,7 +25,7 @@
             "is_primary": false
         },
         {
-            "name": "小柳　淳二",
+            "name": "小栁　淳二",
             "is_primary": false
         }
     ],
@@ -48,10 +48,10 @@
         {
             "title": "自作教材",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -60,7 +60,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標に挙げる 1. 大規模・オープンデータについての理解　2. 大規模・オープンデータの活用、分析方法についての理解　3. 大規模・オープンデータの活用、分析の実践　を以下により評価する。",
     "evaluation_ratio": {
@@ -231,5 +231,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

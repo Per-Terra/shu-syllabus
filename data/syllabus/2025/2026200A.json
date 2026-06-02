@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:21Z",
+    "fetched_at": "2026-06-02T11:56:44Z",
     "name_ja": "国際マーケティング論",
     "name_en": "International Marketing",
     "syllabus_number": "2026200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -88,9 +88,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -98,9 +96,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -108,9 +104,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -118,9 +112,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -128,9 +120,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -138,9 +128,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -148,9 +136,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -158,9 +144,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -168,9 +152,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -178,9 +160,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -188,9 +168,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -198,9 +176,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -208,9 +184,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -218,9 +192,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -228,11 +200,9 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

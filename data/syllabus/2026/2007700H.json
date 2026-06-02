@@ -1,0 +1,366 @@
+{
+    "fetched_at": "2026-06-02T11:55:12Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700H",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "健康づくりやスポーツの運動技術に関する知見を高めるために，様々な運動技術の科学的知見を理解することに主眼を置き，専門的資質を高める。\n\n【到達目標】\n①研究論文の内容を理解できる。\n②研究方法を理解できる。\n③卒業論文を作成することができる。",
+    "overview": "卒業論文執筆のための実験・分析・解析作業を中心に行う。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具、ノートPC",
+        "other": "特になし"
+    },
+    "grading_criteria": "卒論発表３０％、卒業論文作成７０％をもとに総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "卒業論文は、大学生として求められる様々なスキルすべてを駆使し、自ら設定した課題に向かって主体的に取り組むものです。苦しく、大変なこともありますが、それを乗り越えることで「学ぶ」ことの楽しさも味わうことができると思います。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "専門ゼミⅠの成果報告①内容紹介",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "専門ゼミⅠの成果報告②今後の課題",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "研究計画の立案①文献的検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "研究計画の立案②測定項目の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "研究計画の立案③対象者の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "研究計画の立案④研究期間の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "予備実験①測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "予備実験②測定値の再現性の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "予備実験③測定の改善",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "データ解析①統計処理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "データ解析②グラフ作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "データ解析③スライド作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "プレゼンテーション①スライド確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "プレゼンテーション②発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１６",
+            "content": "本実験①測定準備",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１７",
+            "content": "本実験②測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１８",
+            "content": "本実験③測定値確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１９",
+            "content": "データ解析①データ整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２０",
+            "content": "データ解析②統計解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２１",
+            "content": "データ解析③表作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２２",
+            "content": "データ解析④グラフ作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２３",
+            "content": "データ解析⑤グラフ修正",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２４",
+            "content": "執筆作業①研究背景",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２５",
+            "content": "執筆作業②研究目的",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２６",
+            "content": "執筆作業③研究方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２７",
+            "content": "執筆作業④研究結果",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２８",
+            "content": "執筆作業⑤結論、引用文献、PowerPoint作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２９",
+            "content": "PowerPoint確認、発表練習会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "３０",
+            "content": "研究成果発表会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

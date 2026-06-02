@@ -1,0 +1,451 @@
+{
+    "fetched_at": "2026-06-02T11:59:23Z",
+    "name_ja": "地域・在宅看護実践",
+    "name_en": "Community Health and Home Care Nursing Practice",
+    "syllabus_number": "2118600A",
+    "course_number": "22-3-24-21-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "家根　明子",
+            "is_primary": true
+        },
+        {
+            "name": "久乗　エミ",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.療養者や家族との援助関係を築く必要性と具体的な方法を説明できる。\n2.療養者の状態に応じた生活支援と医療ケアを理解し、説明できる。\n3.療養者の状態に応じた必要な補助具・福祉用具の活用や環境整備の方法を説明できる。\n4.療養者とその家族の価値観や強みを踏まえた療養計画を展開できる。\n5.療養者が暮らす地域での新たな看護活動を創造する必要性と基本的な方法を説明できる。\n6.在宅療養支援における看護職の役割を説明できる。",
+    "overview": "本授業は、生活の場における主体的な療養生活を支えるために必要な知識や技術を用いた看護実践の理解と、療養者が暮らす地域に目を向け、健康課題への予防的関わりにつながる看護活動の創造の基本を学ぶことを目的とする。本授業では、療養上の多様な課題を持ちながら在宅生活をおくる事例を通して「生活者」である療養者とその家族の価値観や強み、多様な社会資源を活用した支援方法を学ぶ。また、多職種と協働しながら療養者への早期支援と予防的な関わりにつながる地域での看護活動を創造する過程を学ぶ。本授業を通して、療養者が住み慣れた地域での生活を継続できるように、具体的な支援方法と地域の課題を踏まえた看護活動を創造するために必要な基礎的知識を身に付ける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門分野　地域・在宅看護論[1]  地域・在宅看護の基盤",
+            "publication_year": 2022,
+            "author": "河原加代子ほか",
+            "publisher": "医学書院",
+            "price": 2200,
+            "isbn": "978-4-260-04689-3",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門分野　地域・在宅看護論[2]  地域・在宅看護の実践",
+            "publication_year": 2025,
+            "author": "河原加代子ほか",
+            "publisher": "医学書院",
+            "price": 2750,
+            "isbn": "978-4-260-04714-2",
+            "available_on_campus": false
+        },
+        {
+            "title": "※関連する資料はその都度配布する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "よくわかる在宅看護",
+            "publication_year": 2020,
+            "author": "角田直枝",
+            "publisher": "医学書院",
+            "price": 3080,
+            "isbn": "978-4-780-91396-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "新訂版 写真でわかる訪問看護",
+            "publication_year": 2023,
+            "author": "押川真喜子ほか",
+            "publisher": "アドバンス インターメディカ",
+            "price": 3630,
+            "isbn": "978-4-899-96479-7",
+            "available_on_campus": false
+        },
+        {
+            "title": "※ほか適宜紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "地域・在宅看護概論",
+            "地域・在宅支援論"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "1.既習科目の学修内容を関連づけて学修してください。2.出席確認と授業の参考にするためのリアクションペーパーは、期限までに提出してください。3．この科目は、3年次の「地域・在宅看護実習」の専修条件科目である。"
+    },
+    "grading_criteria": "筆記試験(60%)、プレゼンテーションを含む課題(40%)",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "授業の内容に関連する教科書などを熟読の上、出席してください。療養者とその家族の生活をイメージしながら学ぶことが大切です。そのために療養者が暮らす地域に目を向け、身近な地域での出来事や療養者への様々なサービスを知ることができる広報誌・行政機関のホームページ・ニュース・新聞などを意識的に見てみましょう。（事前学習 45 分、事後学習 45 分）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス\n療養者の特徴を踏まえた在宅看護-訪問することの意味と配慮",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "支援チームによるコミュニケーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "在宅への訪問時の留意点と行動",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "在宅への訪問時の留意点と行動(グループワーク・まとめ)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "福祉用具を活用した運動機能障害を持つ療養者への移動の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "福祉用具を活用した運動機能障害を持つ療養者への移乗の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "運動機能障害を持つ療養者への清潔の援助-臥床状態での洗髪",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "運動機能障害を持つ療養者への清潔の援助-入浴",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "摂食嚥下障害を有する療養者への食の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "摂食嚥下障害を有する療養者への食の援助-在宅中心静脈栄養法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "長期臥床状態にある高齢者への排泄の援助-摘便",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "長期臥床状態にある高齢者への排泄への援助:摘便",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "呼吸機能障害を持つ療養者への援助-人工呼吸療法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "神経難病による呼吸機能障害を持つ療養者への援助-気管切開下陽圧換気",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "慢性閉塞性肺疾患を持つ療養者の生活への支援",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "慢性閉塞性肺疾患を持つ療養者の生活への支援:在宅酸素療法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "がんによる排泄機能障害を持つ療養者への支援-ストーマケア",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "がんによる排泄機能障害を持つ療養者への支援：ストーマケア",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "「生活者」である療養者や家族の捉え方",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "在宅療養者への看護過程の展開方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "在宅療養者への効果的な保健指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "価値観や強みを踏まえた療養計画の立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "QOL向上とセルフケア実践を目指した療養計画の実施･評価･修正",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "在宅療養者が暮らす地域での新たな看護活動を創造する意義",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "在宅療養者が暮らす地域での看護活動の展開①：地域の健康課題",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "在宅療養者が暮らす地域での看護活動の展開②：看護活動の創造",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "在宅療養者が暮らす地域での看護活動の創造(発表)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "在宅療養者が暮らす地域での看護活動の創造(発表、まとめ)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "在宅療養者の強みを活かした在宅看護(グループワーク)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "生活の場で提供される支援の特徴と看護職の役割、まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "家根明子",
+                "久乗エミ"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月5日(水)13:00～14:00\nS1304",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "看護師および保健師としての地域・在宅看護の経験を活かして、家族を含む対象の療養生活の援助方法について講義と演習を行う。"
+}

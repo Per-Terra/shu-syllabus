@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:05Z",
+    "fetched_at": "2026-06-02T11:54:53Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600IG",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "土屋　敏夫",
@@ -52,8 +52,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "毎回のプレゼンテーションと質疑応答の内容により評価する。定期試験は実施しません。",
     "evaluation_ratio": {
@@ -64,7 +64,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -368,5 +368,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

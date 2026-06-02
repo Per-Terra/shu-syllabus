@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:02:36Z",
+    "fetched_at": "2026-06-02T11:54:32Z",
     "name_ja": "外国書講読",
     "name_en": "Reading of Foreign References",
     "syllabus_number": "2007500A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

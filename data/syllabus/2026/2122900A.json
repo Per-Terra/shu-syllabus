@@ -1,0 +1,228 @@
+{
+    "fetched_at": "2026-06-02T11:59:41Z",
+    "name_ja": "NPO・ボランティア論",
+    "name_en": null,
+    "syllabus_number": "2122900A",
+    "course_number": "32-3-21-22-06",
+    "departments": [
+        "人間健康科学部　福祉学科",
+        "スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "牛島　豊広",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①社会問題や地域の生活課題に対し、ＮＰＯやボランティアが担う役割について説明することができる。\n②自分が地域に貢献できることについて整理し、ＮＰＯやボランティア活動の立場から説明することができる。\n③地域の生活課題に対応するための方策について説明することができる。",
+    "overview": "本科目は、市民セクターであるNPOやボランティア団体が、地域共生社会の構築にどのようにかかわっているのかを学び、その課題を考察する科目である。また社会福祉士として地域の福祉問題の解決のための市民セクターとの連携・協働の方法を理解することも目指す。\n　授業では、ボランティア活動とNPOの概念及び現状を説明する。また、行政とNPOの協働のあり方について解説する。さらに、市民活動の組織化・事業化について説明する。\n　授業を通して学生が身に付ける力は以下のとおりである。\n①社会問題や地域の生活課題について我が事として捉える力\n②自分が地域に貢献できることは何かを考え、実践に移すことができる力\n③地域の生活課題に対応するための方策を企画する力",
+    "diploma_policies": [
+        "福祉学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "ボランティア活動論",
+            "publication_year": 2023,
+            "author": "杉本敏夫 監修　田中康雄・小口将典・ 竹下徹 編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623096251",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "特になし"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "①社会問題や地域の生活課題に対し、ＮＰＯやボランティアが担う役割\n②ＮＰＯやボランティア活動の立場から自分が地域に貢献できること\n③地域の生活課題に対応するための方策\n上記①～③に関する理解度を以下の割合により評価する。\n\n評価の割合：筆記試験100%",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "国内外や地域で行われているボランティア活動に関する記事、データに関心をもち、豊かなボランティア観を育んでほしい。授業に参加するにあたっては、次回の授業内容を参照し、事前に提示する資料を読み込んでおくこと(予習2時間程度)。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ボランティアの概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ボランティア活動の基本的性格と活動の原則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ボランティア活動の意義・役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ボランティアの歴史的な変遷",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "福祉分野におけるボランティア活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "災害分野おけるボランティア活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "環境分野におけるボランティア活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "まちづくりの推進におけるボランティア活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ボランティア活動に関する情報収集と参加計画",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "NPOの現状とボランティア活動の推進",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ボランティアコーディネーターの役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ボランティアグループの設立と計画①（グループワーク）\nボランティア活動の内容の検討",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ボランティアグループの設立と計画②（グループワーク）\nボランティア活動への参加への呼びかけ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ボランティアグループの設立と計画③（グループワーク）\n各グループによる発表",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ボランティア活動の課題と今後の方向性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "7月　日（木）10：40-11：40\nS1303／S1304",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

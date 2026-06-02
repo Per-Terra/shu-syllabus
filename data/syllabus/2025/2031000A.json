@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:02:15Z",
+    "fetched_at": "2026-06-02T11:57:16Z",
     "name_ja": "アントレプレナーシップ入門",
     "name_en": "Introduction to Entrepreneurship",
     "syllabus_number": "2031000A",
@@ -11,12 +11,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -110,7 +110,7 @@
             "経営学入門Ⅱ"
         ],
         "required_materials": "教科書と筆記用具など。ノートパソコンやタブレットなどのある程度の画面サイズを有するインターネット端末を持参することが好ましい。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "教科書の内容に対する理解度を「学生に対する評価」の方針に基づいて評価する。",
     "evaluation_ratio": {
@@ -275,5 +275,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

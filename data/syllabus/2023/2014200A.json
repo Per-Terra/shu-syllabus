@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:13:42Z",
+    "fetched_at": "2026-06-02T11:55:38Z",
     "name_ja": "相談援助の理論と方法Ⅳ",
     "name_en": "Social Work Theory and Practice IV",
     "syllabus_number": "2014200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -44,7 +44,7 @@
             "author": "社会福祉士養成講座編集委員会",
             "publisher": "中央法規出版",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -55,8 +55,8 @@
             "相談援助の基盤と専門職Ⅰ・Ⅱ",
             "相談援助の理論と方法Ⅰ～Ⅲ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "到達目標に関して、確実な知識を得ているかどうかを期末試験で評価する。",
     "evaluation_ratio": {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

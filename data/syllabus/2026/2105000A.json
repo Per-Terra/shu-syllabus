@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:57:54Z",
+    "name_ja": "シミュレーション",
+    "name_en": "Simulation",
+    "syllabus_number": "2105000A",
+    "course_number": "29-2-50-34-08、31-2-24-34-06",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢敷　達朗",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "１．シミュレーションの基本概念と考え方を理解できる。\n２．数理モデルの特性に応じたシミュレーション技法を適切に選択し、必要に応じてプログラミングを行い、シミュレーションを実行できる。\n３．シミュレーション結果を正しく評価、考察し、数理モデルの解に還元できる。",
+    "overview": "数理モデルは、解析的な解が得られない場合が多いため、その数値シミュレーションを実行して解を求めることが多い。授業では、まず、微分方程式の数値シミュレーションを行うための理論の解説と演習、誤差の評価を行い、代表的な微分方程式で記述された数理モデルをいくつか取り上げ、その代表的解法の解説とプログラミングの演習を行う。さらに、モンテカルロ法、確率モデル、待ち行列問題等のシミュレーションを行うための理論の解説と演習を行う。\nこの授業を通じて、受講者は、様々なシミュレーションを遂行できる力を涵養することができ、数理モデルによる研究の基礎を身に付けることができる。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "コンピュータシミュレーション（改訂2版）",
+            "publication_year": 2019,
+            "author": "伊藤俊秀、草薙信照",
+            "publisher": "オーム社",
+            "price": 2970,
+            "isbn": "978-4-274-22323-5",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "微分積分基礎",
+            "線形代数基礎",
+            "確率統計基礎"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": "参考図書は適宜案内する。"
+    },
+    "grading_criteria": "課題レポート100%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "シミュレーション(または数値シミュレーション)とは、自然科学、工学、経済、経営に関する現象、問題をコンピュータを使って解くための手法です。シミュレーションの応用範囲は極めて広く、企業の実務でも幅広く用いられています。この講義では、いくつかの問題を例題としてとりあげて、これらの問題をシミュレーションを使って解くためのアプローチを体験しながら、シミュレーションの基礎を学んでもらいます。\n講義に加え、予習では講義で使う数学の事前学習、復習では講義で学んだ内容の整理・振り返りをしてみてください。予習・復習はそれぞれ30分以上を目安とします。                                                                                   【オフィスアワー】講義のある曜日はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ガイダンス、簡単なシミュレーションの例",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "常微分方程式のシミュレーション1：オイラー法と数値誤差",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "常微分方程式のシミュレーション2：ルンゲクッタ法と数値誤差",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "高階の常微分方程式のシミュレーション：RLC回路等",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "シミュレーション実践1：湖の汚染の数理モデル",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "シミュレーション実践2：Duffing方程式",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "シミュレーション実践3：惑星の運動",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "シミュレーション実践4-1：伝染病の数理モデル-1",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "シミュレーション実践4-2：伝染病の数理モデル-2",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "特定の確率分布をとる乱数の作成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "モンテカルロ法とシミュレーション：静的モンテカルロ法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "決定問題のシミュレーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "在庫問題のシミュレーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "待ち行列問題のシミュレーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "まとめ：シミュレーションの総復習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

@@ -1,0 +1,249 @@
+{
+    "fetched_at": "2026-06-02T11:55:57Z",
+    "name_ja": "政治制度論",
+    "name_en": "Theory of Political System",
+    "syllabus_number": "2024900A",
+    "course_number": "11-2-28-21-01",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "水谷　利亮",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）「政治」現象に関わる基本的な制度や概念を理解し､具体的に説明できる｡\n（２）現代の「政治」に関わる出来事について､自身の考えを合理的に構成し、批判的に考察することができる。",
+    "overview": "本講義は、現代社会､日々の暮らしに関わる「政治」とその基本的な概念や制度（政治体制、政治団体、政治過程、政治哲学、政治思想、政治理論、欧米政治史、日本政治史、国際政治史、国際関係理論、国際組織、国際法等）について具体的に理解できるよう､理論に現実の出来事を織り込みながら進めていく｡これにより､現代社会の把握を深める｡本講義を受講することにより、政治現象を構成する基本的な要素や概念を理解し､具体例をもって説明できるようになり、現代政治に関わる出来事について､自身の考えを合理的に構成することができるようになる｡",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "ポリティカル・サイエンス入門",
+            "publication_year": 2020,
+            "author": "坂本治也、 石橋章市朗編",
+            "publisher": "法律文化社",
+            "price": 2640,
+            "isbn": "978-4-589-04100-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "政治学　第2版",
+            "publication_year": 2022,
+            "author": "川出良枝、谷口将紀 編",
+            "publisher": "東京大学出版会",
+            "price": 2420,
+            "isbn": "978-4-13-032235-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "はじめて出会う政治学　第3版－構造改革の向こうに",
+            "publication_year": 2010,
+            "author": "北山俊哉、真渕勝、久米郁男",
+            "publisher": "有斐閣",
+            "price": 1980,
+            "isbn": "978-4-641-12368-7",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具",
+        "other": "特になし"
+    },
+    "grading_criteria": "（ⅰ）基本的概念の理解、（ⅱ）現代政治の出来事について合理的に分析・考察できること、の２点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "講義内容などに関する積極的な質問や意見を歓迎します｡\n\n本講は配付資料を中心として板書により進めるが､授業計画を参考にして参考図書などで該当部分に関して予習に努めてください。\n講義に臨んでは必ずメモを取り､配付資料とメモをもとにしっかりと復習してください（各回60分程度）｡\nまた､マスコミなどで報道される政治的・経済的・社会的なできごとには毎日しっかりと目配りしてください｡",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "講義ガイダンス\nプロローグ：政治と政治学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "民主政治の基礎と理論①\n第1章　国家と権力：支配と服従",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "民主政治の基礎と理論②\n第2章 民主政治の起源と展開：自由主義・民主主義と国民・大衆",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "民主政治の基礎と理論③\n第3章 民主主義と集団：利益団体と多元主義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "政治と経済・社会①\n第4章 政治と経済：官と民の関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "政治と経済・社会②\n第5章 政治と福祉：福祉国家をめぐる論争",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "政治と経済・社会③\n第6章 世論とメディア・SNS：プロパガンダと国民",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "政治と経済・社会④\n第7章 選挙と政党：政党政治と投票行動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "政治と経済・社会⑤\n第8章　戦後日本政治の歴史と現代：「55年体制」とその変容",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "政治のしくみ①\n第9章　国会と立法過程：議会と政策過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "政治のしくみ②\n第10章　民主政治の執政部：議院内閣制と大統領制",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "政治のしくみ③\n第11章　行政と政治：行政官僚制と国家公務員",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "政治のしくみ④\n第12章　官僚制論：官僚と第一線公務員",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "重層的な政治①\n第13章　地方自治と地方分権：国と地方の政府間関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "重層的な政治②\n第14章　グローバル化と国際政治：大国主義と主権国家のゆらぎ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水谷　利亮"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "８月４日（火曜日）１時限",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

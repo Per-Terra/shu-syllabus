@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:21:36Z",
+    "fetched_at": "2026-06-02T11:57:39Z",
     "name_ja": "保育士特別セミナーⅡ",
     "name_en": "Studying for Examination of Early Childhood Education and Care Ⅱ",
     "syllabus_number": "2041200A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         ],
         "recommended": [],
         "required_materials": "筆記用具、保育士特別セミナーⅠで指定した教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①保育士試験予想問題での得点、②学習計画に基づく学習の進捗状況",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

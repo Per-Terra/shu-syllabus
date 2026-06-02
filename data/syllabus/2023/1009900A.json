@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:54Z",
+    "fetched_at": "2026-06-02T11:53:16Z",
     "name_ja": "AI・データサイエンス基礎",
     "name_en": "Introduction to AI and Data Science",
     "syllabus_number": "1009900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,7 +51,7 @@
         ],
         "recommended": [],
         "required_materials": "PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標の４点の理解度を中間試験と期末試験で評価します．",
     "evaluation_ratio": {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

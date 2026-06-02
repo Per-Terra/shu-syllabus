@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:27Z",
+    "fetched_at": "2026-06-02T11:53:19Z",
     "name_ja": "地域ゼミ-2",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000Z",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "原田　一記",
@@ -46,8 +46,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) 地域の情報を収集、特色を理解することが出来た。\n(ii) ゲーム企画立案のノウハウを理解できた。\n(iii) プロジェクトチームを組むことにより、共同制作への理解ができた。\n(iv) プロモーション計画立案の考え方が理解できた。",
     "evaluation_ratio": {
@@ -66,9 +66,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -77,9 +75,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -88,9 +84,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -98,9 +92,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -108,9 +100,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -118,9 +108,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -128,9 +116,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -138,9 +124,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -148,9 +132,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -158,9 +140,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -168,9 +148,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -178,9 +156,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -188,9 +164,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -198,9 +172,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -208,9 +180,7 @@
             "teaching_methods": [
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": true,

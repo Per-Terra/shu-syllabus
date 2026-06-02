@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:52:44Z",
+    "name_ja": "外国史Ⅱ",
+    "name_en": "Foreign History II",
+    "syllabus_number": "1001500A",
+    "course_number": "11-2-13-22-07、21-2-13-22-06",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "藤村　泰夫",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "overview": "世界の歴史の流れを我が国の歴史と関係深いものを中心に取り上げ講義していく。また、世界史の転換点と言われる事象に焦点を当て、それぞれの事象について、為政者の立場、民衆の立場から講義を進める。本科目では、外国史の中でも、ヨーロッパ、北米、アジアの歴史に注目し、近代国家の形成から植民地・帝国主義、2つの世界大戦と戦後世界の形成に至る現代までの歴史を取り扱う。本科目を通して、世界史における政治、社会経済、思想・文化発展のダイナミズムの中で現代社会をもトータルで把握できる能力を身につける事を目的とする。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "つなぐ世界史　２",
+            "publication_year": 2023,
+            "author": "岩下　哲典・岡　美穂子",
+            "publisher": "清水書院",
+            "price": 2530,
+            "isbn": "978-4-389-22602-2",
+            "available_on_campus": false
+        },
+        {
+            "title": "教養のグローバル・ヒストリー",
+            "publication_year": 2018,
+            "author": "北村　厚",
+            "publisher": "ミネルヴァ書房",
+            "price": 2750,
+            "isbn": "978-4-623-08288-9",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "筆記用具　ノート",
+        "other": "参考図書は、講義内で適時案内します。外国史Ⅰの先修を望みます。"
+    },
+    "grading_criteria": "①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "授業は主に講義形式で行いますが、グループ学習やプレゼンテーションも行うので、社会科・地理歴史科の免許を取得希望の学生は主体的に資料収集し発表をしてください。また教員の指示する学習資料を各自参照し予習・復習してください。\n\n・毎週、筆記用具を持参してください。\n\n・資料配布や出欠確認は、C-learningで実施します。\n\n・毎回、合計3時間以上の予習・復習を行って下さい。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（講義内容（「全概説講義資料」にて講義）、「世界史」を学ぶ意義、評価等について説明）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "都市国家から領域国家へシュメール都市国家時代からバビロン第一王朝の終焉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "紀元前２千年紀の国際社会領域国家の展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "紀元前２千年紀の国際社会政治と外交：「大王」たちのコミュニティの展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "紀元前２千年紀の国際社会王国間の交易について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "紀元前２千年紀の国際社会：「文明」の崩壊と「海の民」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "紀元前１千年紀の世界：「暗黒時代」と帝国の時代",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "世界史の中の「国際化」世界システム論について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "前近代の国際化モンゴル帝国について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "大航海時代以降の世界① 大航海時代〜産業革命・市民命",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "大航海時代以降の世界② 帝国主義の代",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "現代① 第一次世界大戦〜世界慌",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "現代② 第二次世界戦",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "現代③ 第二次世界大戦後の界",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

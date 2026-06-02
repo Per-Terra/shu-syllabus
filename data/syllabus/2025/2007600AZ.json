@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:29Z",
+    "fetched_at": "2026-06-02T11:54:55Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AZ",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部 人間ｺﾐｭﾆｹｰｼｮﾝ学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "事前にこちらのリンクから動画を見ておいてください。https://youtube.com/playlist?list=PLAN0wyvsOhV8O3uDS0E6Bh3-bVsTyC43Y&si=vF9f-FZKTsgcEOFy"
     },
     "grading_criteria": "(i) 取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n(ii) 計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n(iii)活動の成果を総括し、他者に向けて分かりやすく報告することができる。\n(iv) 課題発見・解決へ向けて、マネジメント力・協調性等を発揮し他者と協働して活動することができる。",
@@ -137,5 +137,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

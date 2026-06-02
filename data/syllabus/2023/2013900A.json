@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:13:38Z",
+    "fetched_at": "2026-06-02T11:55:37Z",
     "name_ja": "公衆衛生学",
     "name_en": "Public Health",
     "syllabus_number": "2013900A",
@@ -9,12 +9,12 @@
         "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "厚生労働省のHPを参照すること。→https://www.mhlw.go.jp/index.html"
     },
     "grading_criteria": "(ⅰ)社会・生活と健康の関連の理解、(ⅱ)疫学・保健統計の理解、(ⅲ)法律・社会制度の理解の三点について、⑪に示す方法で評価する。",

@@ -1,0 +1,222 @@
+{
+    "fetched_at": "2026-06-02T11:59:56Z",
+    "name_ja": "子どもの遊びと言葉",
+    "name_en": "child's play on words",
+    "syllabus_number": "2124700A",
+    "course_number": "23-3-23-22-04",
+    "departments": [
+        "人間健康科学部福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "金子　幸",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①乳幼児の言葉の発達過程について説明することができる\n②保育所保育指針における領域「言葉」について説明することができる\n③子どものことば遊びにおける教材の工夫ができる",
+    "overview": "本授業の目的は、子どもとかかわる際に必要な援助技術のうち、ことば遊びを中心に学ぶことである。そのために授業では、言葉の獲得が著しい乳幼児期にふさわしいことば遊びについて学び、子どもをひきつける方法や技術について身に付ける。また、子どもの興味関心に沿った教材の制作を行い、模擬保育等を通して具体的な援助技術の修得を目指す。\n主に演習形式で授業を進めていく。子どものことばに関する発達過程の理解をもとに、教材研究を行い、保育場面を想定した模擬保育を行うことで、子どもへの支援の方法を身に付けることができるようにする。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "保育所保育指針解説",
+            "publication_year": 2018,
+            "author": "厚生労働省",
+            "publisher": "フレーベル館",
+            "price": 352,
+            "isbn": "9784577814482",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "特になし"
+        ],
+        "recommended": [],
+        "required_materials": "筆記用具",
+        "other": "特になし"
+    },
+    "grading_criteria": "①言葉の発達過程②保育所保育指針の領域「言葉」について③効果的な教材の活用方法\n上記①～③に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "子どもの発達に応じた言葉遊びについて理解し、言葉遊びをより豊かにする教材の工夫を一緒に考えていきましょう。\n受講にあたっては、各回の授業内容に関連する事柄について資料を収集することを予習とします（2時間程度）。また、授業内で取り扱った内容を振り返り、内容の定着に努めることを復習とします（２時間程度）。\nオフィスアワー：講義のある曜日",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "保育所保育指針における領域「言葉」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "ことばの発達過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "オノマトペの理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "読み聞かせ①：乳児",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "読み聞かせ②：1・2歳児",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "読み聞かせ③：3歳以上児",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "紙芝居について",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ペープサート制作①：題材設定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ペープサート制作②：制作活動",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "模擬保育①：ペープサートを活用して",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "パネルシアター制作①：題材設定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "パネルシアター制作②：制作活動",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "模擬保育②：パネルシアターを活用して",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ストーリーテリング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ことば遊びの実際・まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "特になし"
+}

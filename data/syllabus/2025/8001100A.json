@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:07:51Z",
+    "fetched_at": "2026-06-02T12:00:33Z",
     "name_ja": "中級日本語",
     "name_en": "Intermediate Japanese",
     "syllabus_number": "8001100A",
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -56,7 +56,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "評価は、テキストを中心とした授業の内容理解、および、授業内容を踏まえての言語活動(調査発表等)の過程と成果を中心に行います。前者は学期中の小課題やレポートから、後者は同じく学期中に行うインタビューやアンケート、プレゼンテーションへの取り組みから判断します。",

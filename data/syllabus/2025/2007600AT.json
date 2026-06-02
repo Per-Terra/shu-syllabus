@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:24Z",
+    "fetched_at": "2026-06-02T11:54:50Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AT",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -69,7 +69,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、電卓",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①基礎的な財務分析手法について理解できている。\n②財務分析手法を用いて企業の現状と課題について具体的に述べることができる。\n③財務分析手法について列挙することができる。\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
@@ -234,5 +234,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

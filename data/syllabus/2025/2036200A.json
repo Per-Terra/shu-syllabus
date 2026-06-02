@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:02:50Z",
+    "fetched_at": "2026-06-02T11:57:36Z",
     "name_ja": "経営組織論Ⅰ",
     "name_en": "Organization Theory Ⅰ",
     "syllabus_number": "2036200A",
@@ -9,12 +9,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -57,7 +57,7 @@
         "required_materials": "テキスト、ノート、筆記用具",
         "other": "経済学部2021年度以前入学の学生は、「経営組織論Ⅰ」及び「経営組織論Ⅱ」の両方の単位を修得することで、「経営組織論（４単位）」の単位が修得できます。"
     },
-    "grading_criteria": "小テスト（100％）で評価する。集中講義のため、小テストは第15回講義終了後の８月２２日（金）に実施する。",
+    "grading_criteria": "小テスト（100％）で評価する。",
     "evaluation_ratio": {
         "exam": 0,
         "quiz": 100,
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

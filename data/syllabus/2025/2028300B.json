@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:46Z",
+    "fetched_at": "2026-06-02T11:56:59Z",
     "name_ja": "ソーシャルワーク実習Ⅰ",
     "name_en": "Social Work Practicum Ⅰ",
     "syllabus_number": "2028300B",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -63,10 +63,10 @@
         {
             "title": "ソーシャルワーク実習の手引き",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "周南公立大学人間健康科学部福祉学科",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -77,7 +77,7 @@
             "ソーシャルワーク演習Ⅱ"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "実習先の評価と学内評価により、総合的に判断する。\n\n評価の割合：学内評価50％、学外評価50％",

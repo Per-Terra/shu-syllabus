@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:52Z",
+    "fetched_at": "2026-06-02T11:59:54Z",
     "name_ja": "社会福祉法人会計",
     "name_en": "Accounting for social welfare corporation",
     "syllabus_number": "2126200A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -60,7 +60,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、電卓",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①社会福祉法人会計基準の意義について理解できている。\n②会計基準に従った会計処理方法について理解できている。\n③会計基準に従って作成した計算書類について理解できている。\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

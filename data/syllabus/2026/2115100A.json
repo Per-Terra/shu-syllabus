@@ -1,0 +1,231 @@
+{
+    "fetched_at": "2026-06-02T11:58:59Z",
+    "name_ja": "栄養代謝学",
+    "name_en": "Nutrition and Metabolism",
+    "syllabus_number": "2115100A",
+    "course_number": "22-2-21-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "八木　香里",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．栄養学の基本的事項を説明できる。 \n２．健康の保持・増進や健康障害の予防に栄養がどのように関わっているかを説明できる。 \n３．生命維持に必要な各種栄養素と代謝について説明できる。 \n４．成長発達あるいは加齢による栄養状態の変化と食事・栄養管理について説明できる。",
+    "overview": "生体の生命活動や生体内で生じる種々の反応やその反応系に異常を来たして生じた疾患について代謝栄養学的に学ぶ．本授業では、栄養素の生理的役割を理解し、身体状況や栄養状態に応じた栄養管理の考え方を理解する。授業を通して、各ライフステージにおける人体の構造や機能の変化および疾患や栄養状態の評価の考え方に関する基礎知識を修得する。",
+    "diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎　栄養学",
+            "publication_year": 2025,
+            "author": "中村丁次",
+            "publisher": "医学書院",
+            "price": 2420,
+            "isbn": "978-4-260-05684-7",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "適宜、参考資料を配付する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "筆記試験：100％",
+    "evaluation_ratio": {
+        "exam": 85,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 15
+    },
+    "teacher_message": "授業を通してライフステージ別の栄養について考察します。自分自身の生活の中の栄養にも関心をもってください。 \n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "栄養の概念、栄養の意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "栄養素の機能、摂食行動、食欲など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "消化と吸収と栄養素の体内動態",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "消化器系の構造と機能、消化酵素、膜消化など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "糖質、脂質、たんぱく質の栄養",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ビタミンの種類と栄養的役割など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ミネラルの種類と栄養学的役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "栄養ケア・マネジメントの基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "栄養状態の評価方法（栄養アセスメント）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "妊娠期・授乳期・乳児の栄養と食生活",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "青年期の栄養と食生活",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "成人期の栄養と食生活",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "老年期の栄養と食生活",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "栄養補給方法、病院食、経腸栄養製品など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "栄養サポートチームについての活動と取り組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "八木　香里"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "管理栄養士としての実務経験がある教員が担当する。"
+}

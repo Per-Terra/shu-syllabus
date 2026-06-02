@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:51:32Z",
+    "fetched_at": "2026-06-02T11:52:34Z",
     "name_ja": "問題発見と解決",
     "name_en": "Problem Finding and Problem Solving",
     "syllabus_number": "1000500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "羽渕　由子",
@@ -70,7 +70,7 @@
             "EQトレーニングⅠ"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(i) 多面的に物事を理解できる\n(ii)本質を見極めることができる\n(iii)目標を具体的な行動に結び付けられる",
     "evaluation_ratio": {
@@ -250,5 +250,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

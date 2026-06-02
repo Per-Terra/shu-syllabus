@@ -1,0 +1,213 @@
+{
+    "fetched_at": "2026-06-02T11:58:20Z",
+    "name_ja": "デジタルファブリケーション演習",
+    "name_en": "Digital Fabrication Practice",
+    "syllabus_number": "2109000A",
+    "course_number": "11-3-29-22-03",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "亀ヶ谷　友佑",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】 \n1. デジタル工作機械の原理理解と、設計から出力までの一連のワークフローの実践\n設計データ作成から、機材の特性・素材の制約を踏まえた出力までを安全かつ自律的に遂行できる。\n2. プロトタイプ解像度の戦略的選択と反復的改善\nユーザー中心設計のフェーズ（共感→定義→創造→試作→テスト）に応じて、ローファイ／ハイファイのプロトタイプ解像度を意図的に使い分け、チームで反復的に改善できる。\n3. プロセス・ドキュメンテーションによる学習の可視化\n自身の設計・製作プロセスを体系的に記録・言語化し、ウェブポートフォリオとして公開・共有できる。",
+    "overview": "本講義では、ユーザー中心のデザインプロセスにおいて、デザインを具現化するために不可欠なプロトタイピングについて、ものづくりの演習を通じて実践的に学ぶ。デザインプロセスにおけるプロトタイプとは、単にテストを目的とした物理的な試作だけでなく、課題の視覚化による共感やイノベーティブなアイデアを発想する創造にも有効であり、デザインプロセスの早い段階から求められる行為である。本講義では特に、デジタル工作機械の小型化・低廉化やインターネット上でのオープンなデザインによって、ラピッドなプロトタイピングにおいても精度の高い表現が可能となった、デジタルファブリケーションの技術習得を目的とする。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC",
+        "other": null
+    },
+    "grading_criteria": "・プロセス・ドキュメント（Google Sites ポートフォリオ）50%\n　各回の記録の継続性・言語化の質・メタ認知の深さ。失敗も適切に記録・考察されていれば高評価\n・最終プロジェクト30%\n　ユーザー課題との整合性・技術的実現度・反復改善の痕跡。チーム内の役割分担と貢献も評価対象\n・授業内演習への参加・貢献20%\n　各回の課題提出・ピアレビューへの貢献・他チームへのフィードバックの質",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 100
+    },
+    "teacher_message": "授業外での予習・復習時間は各２時間程度を求められる。自分自身で制作を行い、試行錯誤して前に進む覚悟のある人、待っています。授業の性質上、履修制限をかける可能性があります。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション、デジタルファブリケーションとは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "デザイン思考とプロトタイピングの位置づけ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "3D CAD基礎：Autodesk Fusionによる３Dモデリング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "レーザーカッター演習①：平面加工の基礎",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "レーザーカッター演習②：立体構造の設計と製作",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "3D CAD応用：Autodesk Fusionによる高度なモデリング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "3Dプリント出力確認＋中間ドキュメンテーションレビュー",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "プロトタイプの解像度と検証手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "最終プロジェクト始動：ニーズファインディング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "アイデア発散とラピッドプロトタイピング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "プロジェクト制作①：設計とデータ作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "プロジェクト制作②：出力と反復改善",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "プロジェクト制作③：最終調整とドキュメント完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "最終発表・ポートフォリオレビュー・総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "最終発表・ポートフォリオレビュー・総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷　友佑"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

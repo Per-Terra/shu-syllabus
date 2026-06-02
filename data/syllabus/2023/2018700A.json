@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:14:49Z",
+    "fetched_at": "2026-06-02T11:55:57Z",
     "name_ja": "コミュニケーション技術Ⅰ",
     "name_en": "Methodology of Communication I",
     "syllabus_number": "2018700A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,8 +52,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①介護におけるコミュニケーションの基本、②コミュニケーションの基本技術、③家族とのコミュニケーション、について「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {

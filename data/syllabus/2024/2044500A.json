@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:05:39Z",
+    "fetched_at": "2026-06-02T11:58:14Z",
     "name_ja": "原価計算論",
     "name_en": "Cost Accounting",
     "syllabus_number": "2044500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "福原　道照",
@@ -242,5 +242,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

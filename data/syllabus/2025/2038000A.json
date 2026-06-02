@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:02:58Z",
+    "fetched_at": "2026-06-02T11:57:42Z",
     "name_ja": "国際ビジネス特論Ⅱ",
     "name_en": "Advanced Lectures on International Business II",
     "syllabus_number": "2038000A",
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -92,7 +92,7 @@
         },
         {
             "number": "3",
-            "content": "【4月28日】\nアジア・環太平洋地域の災害と緊急支援、医療事業CivicForce　根木佳織事務局長",
+            "content": "【4月28日】\nアジア・環太平洋地域の災害と緊急支援、医療事業\n　CivicForce　根木佳織 事務局長",
             "teaching_methods": [
                 "講義"
             ],
@@ -102,7 +102,7 @@
         },
         {
             "number": "4",
-            "content": "【5月12日】\n世界に通用する日本一のアントレプレナー2015年アスカネット社社長　福田幸雄",
+            "content": "【5月12日】\n日本のEVのパイオニアからアジアで活躍するFINTECH事業家へ\n　中島徳至GMS 社長",
             "teaching_methods": [
                 "講義"
             ],
@@ -112,7 +112,7 @@
         },
         {
             "number": "5",
-            "content": "【5月19日】\n日本のEVのパイオニアからアジアで活躍するFINTECH事業家へ中島徳至GMS社長",
+            "content": "【5月19日】\n世界に通用する日本一のアントレプレナー\n　元アスカネット社　社長 福田幸雄",
             "teaching_methods": [
                 "講義"
             ],
@@ -122,7 +122,7 @@
         },
         {
             "number": "6",
-            "content": "【5月26日】\n地方の針製造から世界に通用するセキュリティ企業へ（株）三宅社長　三宅正光",
+            "content": "【5月26日】\n地方の針製造から世界に通用するセキュリティ企業へ\n（株）三宅社長　三宅正光",
             "teaching_methods": [
                 "講義"
             ],
@@ -132,7 +132,7 @@
         },
         {
             "number": "7",
-            "content": "【6月2日】\nこれからの国際ビジネスと第4次産業革命とプロジェクトマネジメント",
+            "content": "【6月2日】\nまとめ\n　これからの国際ビジネスと第4次産業革命と企業、人の目指す方向",
             "teaching_methods": [
                 "講義"
             ],

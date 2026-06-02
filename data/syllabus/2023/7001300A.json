@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:23:30Z",
+    "fetched_at": "2026-06-02T11:58:09Z",
     "name_ja": "商業科教育法Ⅱ",
     "name_en": "Educational Method for Commercial Course II",
     "syllabus_number": "7001300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -102,7 +102,7 @@
             "簿記会計Ⅰ"
         ],
         "required_materials": "教科書、ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ) 学習評価についての理解\n(ⅱ) 年間学習指導計画と学習指導案の作成\n(ⅲ) 模擬授業（ＩＣＴの活用を含む）の実施と研究協議\n(ⅳ) 魅力ある商業教育についての理解",
     "evaluation_ratio": {
@@ -282,5 +282,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

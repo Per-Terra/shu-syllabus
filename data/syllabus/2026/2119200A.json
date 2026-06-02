@@ -1,0 +1,258 @@
+{
+    "fetched_at": "2026-06-02T11:59:26Z",
+    "name_ja": "多職種連携",
+    "name_en": "Interprofessional Education",
+    "syllabus_number": "2119200A",
+    "course_number": "22-3-25-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "大平　光子",
+            "is_primary": true
+        },
+        {
+            "name": "半田　浩美",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．保健・医療・福祉の場面における多職種連携の必要性と各専門職の役割について説明することができる。\n2．多職種連携に必要な知識とスキルを活用し、保健・医療・福祉の場面において対象とそれぞれの専門職を尊重した連携が実践できる。",
+    "overview": "本授業は、保健・医療・福祉における対象者を中心とした多職種連携を実践するための基礎的知識とスキルの習得を目的とする。本授業では、多職種連携の概要と実際、多職種連携に関わる専門職の役割、看護専門職として多職種連携に必要なスキルを学ぶ。本授業を通して、保健・医療・福祉それぞれの場面において、対象の意思および他の専門職を尊重し合いながら連携するための基礎的能力を身につける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP5"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "リハベーシック コミュニケーション論・多職種連携論（医歯薬出版）",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        },
+        {
+            "title": "多職種連携を高める チームマネジメントの知識とスキル（医学書院）",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートPCまたはタブレット、授業で配布した資料、教科書",
+        "other": "参考資料や参考文献は必要に応じて授業で紹介します。"
+    },
+    "grading_criteria": "筆記試験は60点以上で合格とします。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "予習については、テキスト該当頁、参考図書の該当頁を熟読するとともに、理解できない個所を明確にする。復習においてはテキスト、講義資料、参考文献などを用いて、学習した内容を整理し、理解を深めましょう。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日 不在時はメールで受け付けます。\n\n※この科目は前期後半から開始します。初回授業は6月９日（火）2時限です。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "多職種連携の概要",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "保健・医療・福祉チームの各専門職の役割と成長過程",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "多職種連携の実際",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "チームアプローチの構造と対応",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "多職種連携に必要なコミュニケーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "多職種連携の実践",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "多職種連携の実践 1：入院時の連携",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "多職種連携の実践 1：入院時の連携のシミュレーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "多職種連携の実践 2：院内急変時の連携",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "多職種連携の実践 2：院内急変時の連携のシミュレーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "多職種連携の実践 3：退院調整時の連携",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "多職種連携の実践 3：退院調整時の連携のシミュレーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "多職種連携の実践 4：地域医療における連携",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "多職種連携の実践 4：地域医療における連携のシミュレーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "多職種連携の実践 5：災害時の連携のシミュレーション、総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大平光子",
+                "半田浩美",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月4日（火）2時限\n試験実施方法は第1回授業で周知します。\n授業開始日は在学生ガイダンスで周知します。",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "多職種連携に関する実務経験または専門看護師としての実務経験がある教員が講義を担当する。\nその他学士課程教育における多職種連携教育の企画運営実施経験を持つ看護師資格を有する教員が担当する。"
+}

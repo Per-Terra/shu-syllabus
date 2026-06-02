@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:59Z",
+    "fetched_at": "2026-06-02T11:59:28Z",
     "name_ja": "高齢者看護方法",
     "name_en": "Gerontological Nursing",
     "syllabus_number": "2118100A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -50,19 +50,19 @@
         {
             "title": "系統看護学講座 老年看護学",
             "publication_year": 2025,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         },
         {
             "title": "系統看護学講座 老年看護 病態・疾患論",
             "publication_year": 2025,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -127,10 +127,7 @@
             ],
             "teachers": [
                 "田淵啓二",
-                "",
                 "辻麻由美",
-                "",
-                "",
                 "加茂尚子"
             ]
         },
@@ -142,10 +139,7 @@
             ],
             "teachers": [
                 "田淵啓二",
-                "",
                 "辻麻由美",
-                "",
-                "",
                 "加茂尚子"
             ]
         },

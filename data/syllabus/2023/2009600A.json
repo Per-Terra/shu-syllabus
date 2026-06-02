@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:31Z",
+    "fetched_at": "2026-06-02T11:55:22Z",
     "name_ja": "映画制作実習",
     "name_en": "Movie Production Training",
     "syllabus_number": "2009600A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "カメラ、ノート、パソコン等 撮影に必要となる機材",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）映画制作のスキームの理解、（ⅱ）マネジメントスキル、（ⅲ）参画意識とその姿勢 の三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {

@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:56:00Z",
+    "name_ja": "介護福祉士特別セミナー",
+    "name_en": "Special Seminar for Certified Care Workers",
+    "syllabus_number": "2025800",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "玉木　真佐江",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "介護福祉士国家試験に合格する。\n介護福祉士国家試験を受験することをきっかけに、知識量を増やす。\n探求する重要性を理解する。",
+    "overview": "介護福祉士国家試験に合格するために必要な知識の構築を図る。\n試験問題の回答方法を習得する。",
+    "diploma_policies": [
+        "福祉学科DP1",
+        "福祉学科DP2",
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具　各種参考書",
+        "other": "各自知識習得するために使用している物"
+    },
+    "grading_criteria": "介護福祉士国家試験に合格するにあたって、授業や課題への取り組む姿勢や結果をもとに判断する。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 10,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 10,
+        "other": 10
+    },
+    "teacher_message": "介護福祉士国家試験に合格するため、常日頃の学習時間や内容を確保・充実するための真剣な取り組みが必要です。\n計画性ある行動を心がけましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス\n介護福祉士国家試験試験科目出題基準の確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "過去問題・模擬問題　解説　\n領域：人間と社会",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "過去問題・模擬問題　解説\n領域：介護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "過去問題・模擬問題　解説\n領域：こころとからだのしくみ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "過去問題・模擬問題　解説\n介護過程、総合問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "模擬試験①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "模擬試験②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "模擬問題③",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "模擬問題④",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "模擬問題⑤",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "過去問題①　第37回（令和6年度）介護福祉士国家試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "過去問題②　第36回（令和5年度）介護福祉士国家試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "過去問題③　第35回（令和4年度）介護福祉士国家試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "まとめ①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "玉木真佐江"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

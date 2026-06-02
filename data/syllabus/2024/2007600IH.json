@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:06Z",
+    "fetched_at": "2026-06-02T11:54:54Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600IH",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "道山　知成",
@@ -45,7 +45,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得上記、（ⅰ）～（ⅲ）に関する理解度をレポート40％、実技40％、ポートフォリオ20％で評価する。",
     "evaluation_ratio": {
@@ -288,5 +288,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

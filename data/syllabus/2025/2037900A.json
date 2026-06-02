@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:02:56Z",
+    "fetched_at": "2026-06-02T11:57:41Z",
     "name_ja": "国際ビジネス特論Ⅰ",
     "name_en": "Advanced Lectures on International Business I",
     "syllabus_number": "2037900A",
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -74,7 +74,17 @@
     "schedule": [
         {
             "number": "1",
-            "content": "【10月6日】\nオリエンテーション：国際ビジネス特論の狙い\n担当教員2名の対談（進行：赤木）",
+            "content": "【10月6日】\n自分のアントレプレナーシップを知る",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "赤木真由"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "【10月13日】\nオリエンテーション:国際ビジネス特論の狙い\n川村先生と小佐古先生の対談",
             "teaching_methods": [
                 "講義"
             ],
@@ -85,18 +95,8 @@
             ]
         },
         {
-            "number": "2",
-            "content": "【10月13日】\n自分のアントレプレナーシップを知る",
-            "teaching_methods": [
-                "講義"
-            ],
-            "teachers": [
-                "赤木真由"
-            ]
-        },
-        {
             "number": "3",
-            "content": "【10月20日】\nグローバルビジネスへの関心を広げる",
+            "content": "【10月20日】\n問題意識の発散",
             "teaching_methods": [
                 "講義"
             ],
@@ -126,12 +126,12 @@
         },
         {
             "number": "6",
-            "content": "【11月10日】\n各国の基礎情報 3　最大の貿易国　中国",
+            "content": "【11月10日】\n後期の講義を語る　Thank you＆Good-byeの社会ビジネスを考える",
             "teaching_methods": [
                 "講義"
             ],
             "teachers": [
-                "小佐古敏荘"
+                "川村健一"
             ]
         },
         {
@@ -146,7 +146,7 @@
         },
         {
             "number": "8",
-            "content": "【11月24日】\nTOYOTAは、生き延びられるか？これからの企業に必要な視点は？",
+            "content": "【11月24日】\n女性活躍とガバナンス目指すサスティナブルな社会\n元消費者庁長官　伊藤明子",
             "teaching_methods": [
                 "講義"
             ],
@@ -156,7 +156,7 @@
         },
         {
             "number": "9",
-            "content": "【12月1日】\n高齢化の進む中で介護ビジネスのリーダー　湖山医療福祉法人　理事　門田晃",
+            "content": "【12月1日】\n高齢化の進む中で介護ビジネス\n湖山医療福祉法人　経営担当理事　門田　晃",
             "teaching_methods": [
                 "講義"
             ],
@@ -166,7 +166,7 @@
         },
         {
             "number": "10",
-            "content": "【12月8日】\n世界を見据えた地域づくりと食産業等を考える\nインスマート社長　奥原誠次郎",
+            "content": "【12月8日】\nスナック産業の国際戦略\nカルビー(株)アジア・オセアニア社長　森岡貞一郎",
             "teaching_methods": [
                 "講義"
             ],
@@ -176,7 +176,7 @@
         },
         {
             "number": "11",
-            "content": "【12月15日】\n世界一の住宅産業は、今、何を目指しているのか\n積水ハウス総務部　楠　正吉",
+            "content": "【12月15日】\nまちの片隅の小さな古着屋がユニクロに成長したWhy？\n広島VC　社長　西岡　翼",
             "teaching_methods": [
                 "講義"
             ],
@@ -186,7 +186,7 @@
         },
         {
             "number": "12",
-            "content": "【12月22日】\nスナック産業日本一の世界戦略とは\nカルビー（株）国際事業本部長　笙啓英",
+            "content": "【12月22日】\n世界の街づくりそしてサーキュラーエコノミー　豊かさを考える\nグローカル（株）CEO 奥原誠次郎",
             "teaching_methods": [
                 "講義"
             ],
@@ -196,7 +196,7 @@
         },
         {
             "number": "13",
-            "content": "【1月5日】\n各国の基礎情報4　国際をリードする欧州　英独仏、国際機関",
+            "content": "【1月5日】\n各国の基礎情報3　最大の貿易国　中国",
             "teaching_methods": [
                 "講義"
             ],
@@ -206,14 +206,12 @@
         },
         {
             "number": "14",
-            "content": "【1月19日】\n国際ビジネス特論Ⅰの総括",
+            "content": "【1月19日】\n各国の基礎情報4　国際をリードする欧州　英独仏、国際機関",
             "teaching_methods": [
                 "講義"
             ],
             "teachers": [
-                "川村健一",
-                "小佐古敏荘",
-                "赤木真由"
+                "小佐古敏荘"
             ]
         },
         {

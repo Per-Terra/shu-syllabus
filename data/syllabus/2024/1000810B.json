@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-07T10:51:37Z",
+    "fetched_at": "2026-06-02T11:52:36Z",
     "name_ja": "日本語表現法Ⅰ",
     "name_en": "Japanese Writing I",
     "syllabus_number": "1000810B",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -203,5 +203,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

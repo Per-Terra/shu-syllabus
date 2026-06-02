@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:35Z",
+    "fetched_at": "2026-06-02T11:53:12Z",
     "name_ja": "教養スポーツ実習Ⅱ（マリンスポーツ）",
     "name_en": "Cultural Sports Practice (Marine)",
     "syllabus_number": "1009000K",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -45,7 +45,7 @@
         ],
         "recommended": [],
         "required_materials": "水着、ハーフパンツ、帽子、ラッシュガード、アクアシューズ、日焼け止め、ゴーグル、バスタオル",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業への積極的な貢献度、授業内に行う小レポート(30%)や実習参加状況(40%)、終了後の課題レポート(30%)などから総合的に判断する。",
     "evaluation_ratio": {
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

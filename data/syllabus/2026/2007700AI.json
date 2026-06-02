@@ -1,0 +1,366 @@
+{
+    "fetched_at": "2026-06-02T11:54:57Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AI",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1　文献を精読し、その内容を要約し報告できる。\n2　科学的方法、特に社会学的方法を理解し、実践できる。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文の執筆を行うことができる。",
+    "overview": "人々の健康といった広いテーマについて、社会・文化現象・吟味・批判的に検討し、文献の精読や科学的手法を用いた調査などを通じて、各自の課題研究（卒業論文の執筆）を行なっていきます。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "必要な教材は適宜配付します",
+        "other": "なし"
+    },
+    "grading_criteria": "1　文献を精読し、その内容を要約し報告できた。\n2　科学的方法、特に社会学的方法を理解し、実践できた。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文の執筆を行うことができた。\n上記３つの点を踏まえ、⑪に記載の方法から総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 10,
+        "other": 50
+    },
+    "teacher_message": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（卒業論文とは）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "専門ゼミⅠにおける研究計画の報告、討議",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "研究計画の再考①文献的検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "研究計画の再考②研究目的の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "研究計画の再考③研究課題の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "研究計画の再考④仮説の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "研究計画の再考⑤研究方法の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "研究計画の再考⑥先行研究の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "研究計画の再考⑦研究資料の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "研究計画の再考⑧実験計画の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "研究計画の再考⑨研究期間の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "研究計画の再考⑩考察方法の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "研究計画の再考⑪Plot及び論理性の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "研究計画の再考⑫研究倫理の検証",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "研究計画の確定：発表・討議",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "予備的実験・資料調査",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "予備的実験・資料調査の改善",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "予備的実験・資料データの解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "予備的実験・資料データの考察　発表・討議",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "本実験・資料収集の実施",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "本実験・資料の解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "本実験・資料の考察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "論述①序章：目的、仮説、課題、方法、先行研究の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "論述②解析・分析結果",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "論述③考察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "論述④結論",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "論述⑤注及び引用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "研究発表原稿作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業研究報告会準備作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業研究報告会の実施：発表・討議",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

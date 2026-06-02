@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T12:00:29Z",
+    "name_ja": "教育相談Ⅰ",
+    "name_en": "Educational Consultation I",
+    "syllabus_number": "7002700A",
+    "course_number": "11-2-92-21-04、21-2-92-21-04、31-2-92-21-03",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "前田　美穂",
+            "is_primary": true
+        },
+        {
+            "name": "本田　真",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①学校における教育相談の意義と理論を理解する。\n②教育相談を進める際に必要な基礎的知識（カウンセリングに関する基礎的事柄を含む）を理解する。\n③小・中学校における教育相談の具体的な進め方やそのポイント、組織的な取り組みや連携の必要性を理解する。",
+    "overview": "教育相談は、生徒が自己理解を深めたり好ましい人間関係を築いたりしながら、集団の中で適応的に生活する力を育み、個性の伸長や人格の成長を支援する教育活動である。「教育相談Ⅰ」では、中学生（児童期後期から青年期前期）の発達の状況に即しつつ、個々の心理的特質や教育的課題を適切に捉え、支援するために必要な基礎的知識（カウンセリングの意義、理論や技法に関する基礎的知識を含む）を学ぶことが主眼となる。また、それらを基本とした事例検討を通して、中学校におけるアセスメント及び対応策についても理解し、その応用についても学ぶ。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "スポーツ健康科学科DP2",
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "教育相談の理論と実際　三訂版",
+            "publication_year": 2025,
+            "author": "河村茂雄　編著",
+            "publisher": "図書文化",
+            "price": 2420,
+            "isbn": "978-4810057904",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "①学校における教育相談の意義と理論を理解するとともに、②教育相談を進める際に必要な基礎的知識、具体的な進め方、連携の方法について説明できれば合格。\n\n※小テストは１５回目の講義終了直後に実施する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 50,
+        "other": 0
+    },
+    "teacher_message": "講義に加え、ディスカッションや演習を中心に実施するため、学生には主体的な参加を求める。\nまた、学生には、単に受動的に講義を受けるのではなく、常に教育的課題に意識を向け、疑問をもって講義に臨んでもらいたい。その事前準備として、テキストを一読することが望まれる。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "【6月4日木曜日】オンライン\n教育相談の意義と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "【6月11日木曜日】オンライン\n児童期から青年期前期（思春期）の心理と発達課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "日程注意【8月20日木曜日】対面授業\nカウンセリングの基礎知識とカウンセリングマインド",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "日程注意【8月20日木曜日】対面授業\n小・中学生を対象としたカウンセリングの基本技法とアセスメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "【6月18日木曜日】オンライン\n校内体制と組織的な教育相談",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "日程注意【8月20日木曜日】対面授業\n学級集団づくりとともに進める教育相談",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "【7月2日木曜日】オンライン\n教育活動とともに進める教育相談",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "【6月25日木曜日】オンライン\n配慮が必要な子どもの理解と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "本田　真"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "【7月9日木曜日】オンライン\n障害のある子どもの理解と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "本田　真"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "【8月20日木曜日】対面\n不登校の理解と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "【8月20日木曜日】対面\nいじめの理解と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "【7月16日木曜日】オンライン\n非行の理解と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "本田　真"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "【7月23日木曜日】オンライン\n中学校におけるキャリア教育の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "本田　真"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "日程注意【8月21日金曜日】対面授業\n保護者との連携",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "日程注意【8月21日金曜日】対面授業\n専門機関と連携",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　美穂"
+            ]
+        },
+        {
+            "number": "最終試験",
+            "content": null,
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "担当教員（前田）は、小学校教諭として５年間、小学校養護教諭として５年間、公認心理師として２年間、教育に携わった経験があり、それを生かした授業となっている。\n担当教員（本田）は、高等学校教諭として２９年間、教育に携わった経験があり、それを生かした授業となっている。"
+}

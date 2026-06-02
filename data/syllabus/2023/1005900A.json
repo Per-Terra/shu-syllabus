@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:57:00Z",
+    "fetched_at": "2026-06-02T11:53:02Z",
     "name_ja": "トレーニング科学Ⅱ",
     "name_en": "Training Science II",
     "syllabus_number": "1005900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "author": "日本語版総監修　篠田邦彦",
             "publisher": "ブックハウスHD",
             "price": 13200,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -51,7 +51,7 @@
             "author": "NPO法人日本トレーニング指導者協会",
             "publisher": "大修館書店",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -60,7 +60,7 @@
             "author": "NPO法人日本トレーニング指導者協会",
             "publisher": "大修館書店",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -69,7 +69,7 @@
             "author": "健康・体力づくり事業財団",
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -78,7 +78,7 @@
             "author": "健康・体力づくり事業財団",
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -90,8 +90,8 @@
             "機能解剖学Ⅰ",
             "機能解剖学Ⅱ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {

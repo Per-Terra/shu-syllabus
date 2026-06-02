@@ -1,0 +1,255 @@
+{
+    "fetched_at": "2026-06-02T11:55:28Z",
+    "name_ja": "スポーツ心理学",
+    "name_en": "Sports Psychology",
+    "syllabus_number": "2009900A",
+    "course_number": "21-2-22-21-04",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.スポーツ心理学に関する基礎的知識を理解できる\n2.競技や指導の現場におけるスポーツ心理学の応用方法について理解できる",
+    "overview": "運動・スポーツに関わる行動や諸問題，また実践の中で感じる疑問について着目し，それらの現象をスポーツ心理学の知見から深く理解することを目指す．さらに，学習した知識や知見を，競技者・指導者という視点に立って実践現場で活かすことを目指す．学習内容の展開についてはスポーツ心理学の小史と学問領域について学び，その後，学問領域ごとに講義を展開する．主として「スポーツと動機づけ」「スポーツの社会心理」「健康スポーツ心理」「競技スポーツの心理」「スポーツの運動学習」について講義する．",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "やわらかアカデミズム・＜わかる＞シリーズ　よくわかるスポーツ心理学",
+            "publication_year": 2012,
+            "author": "中込四郎・伊藤豊彦・山本裕二　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2400,
+            "isbn": "978-4623061792",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツ心理学の世界",
+            "publication_year": 2000,
+            "author": "杉原隆・船越正康・工藤孝幾・中込四郎　編著",
+            "publisher": "福村出版",
+            "price": 2600,
+            "isbn": "9784571250330",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツメンタルトレーニング教本 三訂版",
+            "publication_year": 2016,
+            "author": "日本スポーツ心理学会 編",
+            "publisher": "大修館書店",
+            "price": 2200,
+            "isbn": "978-4469268065",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "心理学Ⅰ",
+            "心理学Ⅱ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノート、筆記用具",
+        "other": "なし"
+    },
+    "grading_criteria": "筆記試験80%，課題レポート20%",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "スポーツ心理学は、スポーツで生じる諸現象を心理的アプローチ方法から理解する学問です．社会心理学や動機づけ心理学といった基礎となる心理学関連の書籍を読んでおくと学習がスムーズになります．また，スポーツに対してさまざまな視点から疑問を持つことも望みます．授業中の内容をノートにまとめるだけでなく，理解が深まるまで繰り返し復讐することを期待します．\n\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（スポーツ心理学小史）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "スポーツにおける動機づけ①～動機づけ，原因帰属，行動変容の理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "スポーツにおける動機づけ②～自己効力感",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "スポーツにおける動機づけ③～自己決定理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "スポーツの社会心理①～集団規範",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "スポーツの社会心理②～リーダーシップ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スポーツの社会心理③～指導者の社会的勢力",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "運動による健康の増進➀～運動の心理的効果，ストレスの考え方と評価法，ストレスマネジメントとカウンセリング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "運動による健康の増進②～トランスセオレティカルモデル，運動の健康行動（禁煙など）への影響",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "競技スポーツの心理①～パーソナリティ研究",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "競技スポーツの心理②～アスリートの心性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "競技スポーツの心理③～心理サポート",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "運動学習①～運動学習とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "運動学習②～指導への応用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "スポーツメンタルトレーニング指導士の資格と、多くのアスリートへのメンタルトレーニングや心理サポートの経験を活かし、スポーツ心理学の理論と実践を結びつけた教育を行っている。"
+}

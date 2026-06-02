@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:19:59Z",
+    "fetched_at": "2026-06-02T11:57:14Z",
     "name_ja": "マーケティングリサーチ",
     "name_en": "Marketing Research",
     "syllabus_number": "2033600A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "パソコン（特に演習時においてはPC必須）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "下記の内容について、「⑪ 学生に対する評価」に記載の内容で評価する\n(ⅰ) リサーチの目的\n(ⅱ) 定量調査の実務\n(ⅲ) 企画と設計\n(ⅳ) その他の手法",
     "evaluation_ratio": {

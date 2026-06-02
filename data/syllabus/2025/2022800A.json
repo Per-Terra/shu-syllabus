@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:00:52Z",
+    "fetched_at": "2026-06-02T11:56:26Z",
     "name_ja": "データベース論",
     "name_en": "Database Theory",
     "syllabus_number": "2022800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -22,7 +22,7 @@
             "is_primary": false
         }
     ],
-    "term": "通年",
+    "term": "前期",
     "credits": 2,
     "teaching_methods": [
         "講義",
@@ -55,7 +55,7 @@
         ],
         "recommended": [],
         "required_materials": "PC、教科書、ノート、講義資料（事前配布）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。\n三点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:52Z",
+    "fetched_at": "2026-06-02T11:53:09Z",
     "name_ja": "周南地域文化講座",
     "name_en": "Culture in Shunan area",
     "syllabus_number": "1012100A",
@@ -13,12 +13,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -56,7 +56,7 @@
             "なし"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定しませんが、講義中に提示するファイルや配布する資料をもとに学びを深めてください。"
     },
     "grading_criteria": "毎回の講義内容に関した課題を課します。すべて提出するようにしてください。提出されたレポート課題をもって評価します。",
@@ -237,5 +237,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

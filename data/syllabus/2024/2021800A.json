@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:17Z",
+    "fetched_at": "2026-06-02T11:56:12Z",
     "name_ja": "福祉情報インターフェース",
     "name_en": "Welfare Interface of Infomation & Communication Technology",
     "syllabus_number": "2021800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "土屋　敏夫",
@@ -65,7 +65,7 @@
             "情報システム論"
         ],
         "required_materials": "パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "試験は行いません。毎回、講義に関連する小レポートを提出してもらいます。レポートの内容や講義内でのプレゼンテーションなどで評価します。",
     "evaluation_ratio": {
@@ -76,7 +76,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

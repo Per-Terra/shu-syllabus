@@ -1,0 +1,126 @@
+{
+    "fetched_at": "2026-06-02T11:59:30Z",
+    "name_ja": "地域・在宅看護実習",
+    "name_en": "Community (Health) and Home Care　Nursing Practice",
+    "syllabus_number": "2120300A",
+    "course_number": "22-3-26-22-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "家根　明子",
+            "is_primary": true
+        },
+        {
+            "name": "鶴田　来美",
+            "is_primary": false
+        },
+        {
+            "name": "木倉　悠子",
+            "is_primary": false
+        },
+        {
+            "name": "久乗　エミ",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.訪問看護ステーション・地域包括支援センター・地域連携室の活動と役割を説明できる。\n2.保健医療福祉チームの一員として、在宅療養者の生命と健康の維持向上のために看護職が果たす役割について説明できる。\n3.在宅でその人らしく療養生活を継続するために必要な、在宅ケアシステム及び社会資源の活用方法を理解し、説明できる。\n4.疾病・障害による健康課題が療養生活上の及ぼす影響を理解し、療養者と家族の価値観や希望を踏まえたQOLを高める療養計画を展開できる。\n5.在宅療養者の看護の必要性を明らかにした看護計画が立案し、看護師の指導のもとでケアを実際に提供できる。\n6.同職種および他職種の実践や協働・調整場面を通して看護職の役割を説明できる。\n7.対象との信頼関係の構築につながる関わり方を実践し、誠実で責任ある態度・行動をとることができる。",
+    "overview": "本授業は、療養者と家族が暮らす地域や生活の場で行われる看護の実際を通して、在宅療養者のwell-beingを考えると共に、地域・在宅看護の特徴と看護職が果たす役割の理解を目的とする。本授業では、訪問看護ステーション・地域包括支援センター・地域連携室にて実習を行う。訪問看護ステーションでは受持ち療養者への訪問を通して療養計画の展開と基礎的な看護技術を修得する。地域包括支援センターや地域連携室では看護師や他の専門職に同行し、相談・訪問・事業を通して、対象の様々なニーズを踏まえた看護職等の支援を学ぶ。本授業を通して、療養者と家族が暮らす地域や生活の場で行われる看護の実際から、地域・在宅看護の特徴と看護職の役割を理解し、地域・在宅看護実践における基礎的能力を身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門分野　地域・在宅看護論[1]  地域・在宅看護の基盤",
+            "publication_year": 2022,
+            "author": "河原加代子ほか",
+            "publisher": "医学書院",
+            "price": 2200,
+            "isbn": "978-4-260-04689-3",
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座　専門分野　地域・在宅看護論[2]  地域・在宅看護の実践",
+            "publication_year": 2025,
+            "author": "河原加代子ほか",
+            "publisher": "医学書院",
+            "price": 2750,
+            "isbn": "978-4-260-04714-2",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "よくわかる在宅看護",
+            "publication_year": 2020,
+            "author": "角田直枝",
+            "publisher": "学研メディカル秀潤社",
+            "price": 3080,
+            "isbn": "978-4-780-91396-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "新訂版 写真でわかる訪問看護",
+            "publication_year": 2023,
+            "author": "押川真喜子ほか",
+            "publisher": "アドバンス インターメディカ",
+            "price": 3630,
+            "isbn": "978-4-899-96479-7",
+            "available_on_campus": false
+        },
+        {
+            "title": "※ほか適宜参考文献を紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "地域・在宅看護概論",
+            "地域・在宅支援論",
+            "地域包括支援論",
+            "地域・在宅看護実践"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末、そのほかの実習に必要な物品は事前に案内する。",
+        "other": "実習前に事前オリエンテーションを受け、実習に取り組む準備を行う。"
+    },
+    "grading_criteria": "事前課題・実習記録の内容・実習後レポート・実習態度・実習目標の項目ごとの到達度により総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 100
+    },
+    "teacher_message": "既習科目の学修内容と関連づけることが大切です。受持ち療養者への療養計画の展開を通して、論理的思考力や看護技術の原理を理解した上での介護力や環境に合せて応用する力を身に着けてください。看護職等による療養者や家族の価値観を尊重した支援や多職種連携場面の見学を通して、関係構築の基本も学びましょう（事前学習 45 分、事後学習 45 分）。",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": "看護師・保健師としての地域・在宅看護の経験を活かして、地域で様々なニーズを持ち地域で暮らす人々のニーズを踏まえた支援を伝える。"
+}

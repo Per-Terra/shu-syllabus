@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:03:37Z",
+    "fetched_at": "2026-06-02T11:54:50Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600R",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本ゼミでは、年度末に各自が提出予定の研究計画書を評価の対象とします。また、それ以外に講義中に出た課題や、各自の調査・発表に用いた資料などと合わせ、総合的な評価を行います。",
     "evaluation_ratio": {
@@ -389,5 +389,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

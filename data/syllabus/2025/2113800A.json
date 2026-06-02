@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:22Z",
+    "fetched_at": "2026-06-02T11:59:06Z",
     "name_ja": "ネット型球技",
     "name_en": "Net type ball game",
     "syllabus_number": "2113800A",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -44,7 +44,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "運動できる服装と体育館シューズは必須（私服での参加は認めない）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "実技試験60%、レポート・課題40%",
     "evaluation_ratio": {

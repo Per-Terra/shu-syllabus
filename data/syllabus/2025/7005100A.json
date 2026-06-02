@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:07:42Z",
+    "fetched_at": "2026-06-02T12:00:28Z",
     "name_ja": "教職ボランティア実習",
     "name_en": "Seminar for Nursing Care Practice",
     "syllabus_number": "7005100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -26,7 +26,7 @@
             "is_primary": false
         }
     ],
-    "term": "前期",
+    "term": "通年",
     "credits": 2,
     "teaching_methods": [
         "講義",
@@ -71,7 +71,7 @@
         },
         {
             "title": "改訂 特別の教育的ニーズがある子どもの理解 介護等体験でも役立つ知識と技能",
-            "publication_year": 2018,
+            "publication_year": 2024,
             "author": "中瀬浩一, 井上智義 著",
             "publisher": "樹村房",
             "price": 2200,
@@ -80,7 +80,9 @@
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
+        "prerequisites": [
+            "なし"
+        ],
         "recommended": [
             "教育課程論",
             "教師論",
@@ -99,7 +101,7 @@
         "portfolio": 50,
         "other": 0
     },
-    "teacher_message": "本学は介護等の体験に力を入れる大学であると自負しています。本学で教員を目指す学生は、介護等の体験への参加を通して，学校に本格的に入って子どもたちや教職員の方々と接することになります。そのような体験にふさわしい学生としての資質・態度を身に着けるべく、この事前指導ではしっかりと指導をしますので、熱意と覚悟をもって授業に臨んでください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "本学は介護等の体験に力を入れる大学であると自負しています。本学で教員を目指す学生は、介護等の体験への参加を通して，学校に本格的に入って子どもたちや教職員の方々と接することになります。そのような体験にふさわしい学生としての資質・態度を身に着けるべく、この事前指導ではしっかりと指導をしますので、熱意と覚悟をもって授業に臨んでください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -286,5 +288,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

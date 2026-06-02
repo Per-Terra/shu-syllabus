@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:39Z",
+    "fetched_at": "2026-06-02T11:55:42Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700R",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -47,8 +47,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "基本的に発表での卒論に向けたテーマの深化とその成果物である卒論・卒制を評価基準の最大の割合のものとします。",
     "evaluation_ratio": {
@@ -77,9 +77,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -87,9 +85,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7〜10",
@@ -98,9 +94,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -109,9 +103,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12〜15",
@@ -120,9 +112,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "16〜26",
@@ -131,9 +121,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "27",
@@ -142,9 +130,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "28",
@@ -153,9 +139,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "29",
@@ -164,9 +148,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "30",
@@ -174,9 +156,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,

@@ -1,31 +1,35 @@
 {
-    "fetched_at": "2025-04-04T06:01:47Z",
+    "fetched_at": "2026-06-02T11:57:00Z",
     "name_ja": "ソーシャルワーク実習Ⅱ",
     "name_en": "Social Work Practicum Ⅱ",
     "syllabus_number": "2028400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
-        "福祉情報学部"
+        "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
-            "name": "井上　浩",
+            "name": "小林　武生",
             "is_primary": true
         },
         {
-            "name": "小林　武生",
+            "name": "井上　浩",
             "is_primary": false
         },
         {
             "name": "竹下　徹",
+            "is_primary": false
+        },
+        {
+            "name": "牛島　豊広",
             "is_primary": false
         },
         {
@@ -34,6 +38,10 @@
         },
         {
             "name": "北村　光子",
+            "is_primary": false
+        },
+        {
+            "name": "脇野　幸太郎",
             "is_primary": false
         }
     ],
@@ -73,5 +81,5 @@
     "teacher_message": "ソーシャルワーク実習Ⅰの学習目標を鑑み、厚生労働省から提示されている「教育に含むべき10項目」で学習が十分でないところを優先的に学習するようにしてください。\n\n自己学習：実習で体験したことを実習日誌に記録すること　90分程度",
     "schedule": [],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

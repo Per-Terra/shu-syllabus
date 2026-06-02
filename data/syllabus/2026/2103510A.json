@@ -1,0 +1,224 @@
+{
+    "fetched_at": "2026-06-02T11:57:45Z",
+    "name_ja": "応用数値解析",
+    "name_en": "Applied Numerical Analysis",
+    "syllabus_number": "2103510A",
+    "course_number": null,
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢敷　達朗",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "１． 固有値計算の数値解法を理解できる。\n２． フーリエ解析の数値解法を理解できる。\n３． 数値最適化の解法を理解できる。\n４． 偏微分方程式の数値解法を理解できる。\n５． 数値解析手法を実問題に応用するための基本的なアプローチを理解できる。",
+    "overview": "情報技術の発展により、誰もが手軽にコンピュータを活用できるようになり、コンピュータシミュレーションは自然科学、工学、社会科学、医療分野に至るまで幅広く応用されている。これにより、実験を伴わずに現象を深く理解し、新たな洞察を得る機会が増えている。\n本授業では、現象を記述する上で重要な数学問題に対し、数値解析の基本的な手法と技術を習得することを目的とする。Q1 開講の「数値解析」の学習を基盤として、より実践的な問題として固有値計算、フーリエ解析、数値最適化、偏微分方程式の数値解析手法を扱う。\n各単元の学習後には、理論を実践に結びつけるために、コンピュータプログラムを作成し、入力と出力の関係を具体的な事例を通じて検証する。これにより、数値解析の理論を深く理解し、実際の応用に活かす力を養う。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "数値計算法基礎",
+            "publication_year": 2006,
+            "author": "田中 敏幸",
+            "publisher": "コロナ社",
+            "price": 2640,
+            "isbn": "978-4-339-06078-2",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "数値解析"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "課題レポート100%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "IT エンジニアの仕事は、必ずしも数値計算の知識がなくてもこなせます。しかし、数値計算が必要な場面もあり、それを知っていることで、より良い設計や効率的な解決策を考えられるようになります。\n授業の予習は必要ありませんが、授業で学んだことをしっかり復習すると、より理解が深まります。\nまた、好奇心を持って「こんなことを学びたい」「こういうことに使えそうだ」と考えながら講義に参加すると、学びの効果がさらに高まります。\n【オフィスアワー】講義のある曜日はメールで受け付けます",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション・数値解析の重要性と応用範囲",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "固有値計算(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "固有値計算(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "固有値計算(3)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "フーリエ解析(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "フーリエ解析(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "フーリエ解析(3)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "数値最適化(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "数値最適化(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "数値最適化(3)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "偏微分方程式(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "偏微分方程式(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "偏微分方程式(3)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "偏微分方程式(4)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "最新の話題と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷　達朗"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "担当教員は、企業において発電・産業プラント向けのシミュレーション技術の開発に携わり、これを設計、制御、保守・メンテナンスの分野で活用してきた。講義では、その実務経験を生かし、業務での数値解析やシミュレーションの具体的な応用事例を紹介しながら、実践的なスキルを習得できるよう指導する。"
+}

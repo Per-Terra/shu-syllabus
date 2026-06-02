@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:52:14Z",
+    "fetched_at": "2026-06-02T11:52:51Z",
     "name_ja": "韓国語Ⅰ",
     "name_en": "Korean Language I",
     "syllabus_number": "1004300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -12,14 +12,14 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "李　萬善",
@@ -379,5 +379,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,219 @@
+{
+    "fetched_at": "2026-06-02T11:59:51Z",
+    "name_ja": "社会的養護",
+    "name_en": "social protection for children",
+    "syllabus_number": "2124000A",
+    "course_number": "2124000",
+    "departments": [
+        "福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "川村　宏司",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①社会的養護の概念とその理念について説明することができる。\n②社会的養護における子どもの自立支援に求められる支援原則について説明することができる。\n③社会的養護におけるソーシャルワーク専門職の役割について説明することができる。",
+    "overview": "本科目は社会的養護の理念と制度について学び、児童の利益に資する支援について実践場面を想定しながら理解を深める。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "図解で学ぶ保育　社会的養護1",
+            "publication_year": 2018,
+            "author": "原田旬哉(著)、杉山宗尚(著)",
+            "publisher": "萌文書林",
+            "price": 2200,
+            "isbn": "978-4-89347-411-7",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "①社会的養護の概念と理念②社会的養護における子どもの自立支援に求められる支援原則③社会的養護におけるソーシャルワーク専門職の役割\n上記①～③に関する理解度を以下の「学生に対する評価」により評価する。\n筆記試験100%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "社会的養護を必要とする子どもたちの暮らしやその支援制度を学び、専門職をはじめとする支援者の関わりについて考えていきましょう。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習30分程度）。授業後は、専門用語の整理をしておくこと（復習30分程度）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "子どもを取り巻く社会的養護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "社会的養護の理念と概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "社会的養護の歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "子どもの権利擁護とその変遷",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "社会的養護の基本原則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "社会的養護の制度と法体系",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "社会的養護の実施体系",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "社会的養護に関わる専門職の資質と職業倫理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "施設養護と家庭養護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "家庭的養護と家庭養護の推進",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "施設養護の機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "施設養護の基本原理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "児童福祉施設の運営、管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "被措置児童等の虐待防止",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "社会的養護と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川村　宏司"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

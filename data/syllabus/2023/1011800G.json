@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:59:37Z",
+    "fetched_at": "2026-06-02T11:53:43Z",
     "name_ja": "地域ゼミⅡ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "1011800G",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "経営学概論"
         ],
         "required_materials": "パソコン又はタブレット。（学外授業の時はデジタルカメラ又はビデオカメラ又はスマートフォン）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業計画に記載している内容に基づき成績を評価をします（その他は取材の状況、マップの完成度で決まります）。\nなお、授業への参加態度により加点又は減点する場合があります。",
     "evaluation_ratio": {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

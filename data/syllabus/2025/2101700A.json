@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:10Z",
+    "fetched_at": "2026-06-02T11:58:24Z",
     "name_ja": "実践英語(数学)",
     "name_en": "Academic English (Mathematical Methods)",
     "syllabus_number": "2101700A",
@@ -8,12 +8,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -44,7 +44,7 @@
             "確率統計基礎"
         ],
         "required_materials": "筆記具・ノート、ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1. Linear Algebra（線形代数）、2. Probability（確率）、3. Calculus（微積分）に関する理解度を\n章末レポート（英語）で評価する。期末レポートとして授業全体の理解度を評価する。また、英語の\n理解度を毎回授業毎に単語テスト（主に英語の数学用語）を実施して評価する。\n評価基準は下記の通り\n出席・単語テスト（30%）、章末レポート（40%）、期末レポート（30%）",
     "evaluation_ratio": {
@@ -209,5 +209,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:53Z",
+    "fetched_at": "2026-06-02T11:59:24Z",
     "name_ja": "小児看護学概論",
     "name_en": "Introduction to child health nursin",
     "syllabus_number": "2117300A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "パソコン（配布資料）、教科書、",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "期末試験、事前学習課題（レポート）、講義での参加度（講義内でも質疑応答対）",
     "evaluation_ratio": {

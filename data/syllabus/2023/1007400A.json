@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:57:10Z",
+    "fetched_at": "2026-06-02T11:53:05Z",
     "name_ja": "キャリアプランニングⅢ",
     "name_en": "Career Planning III",
     "syllabus_number": "1007400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -44,8 +44,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "・志望業界、職種、企業等の選択、レポートの作成能力、志望する業界の面接への対応、履歴書、エントリーシート等の作成、就活イベントへの参加。",
     "evaluation_ratio": {
@@ -381,5 +381,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

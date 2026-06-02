@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:08Z",
+    "fetched_at": "2026-06-02T11:52:44Z",
     "name_ja": "日本国憲法",
     "name_en": "The Constitution of Japan",
     "syllabus_number": "1001900A",
@@ -14,12 +14,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

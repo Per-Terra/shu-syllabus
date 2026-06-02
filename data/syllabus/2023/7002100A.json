@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:23:51Z",
+    "fetched_at": "2026-06-02T11:58:15Z",
     "name_ja": "情報科教育法Ⅱ",
     "name_en": "Educational Method for Information II",
     "syllabus_number": "7002100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "情報科に関する指導計画や評価計画について正確に理解しているか小テストやレポート，ポートフォリオで評価します。情報科の指導計画や評価計画，模擬授業を効果的にできるかどうか発表で評価します。",
     "evaluation_ratio": {
@@ -50,7 +50,7 @@
         "portfolio": 10,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -58,9 +58,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -69,9 +67,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -79,9 +75,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -90,9 +84,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -100,9 +92,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -111,9 +101,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -122,9 +110,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -133,9 +119,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -144,9 +128,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -155,9 +137,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -166,9 +146,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -177,9 +155,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -188,9 +164,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -199,9 +173,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -209,11 +181,9 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

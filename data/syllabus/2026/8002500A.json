@@ -1,0 +1,247 @@
+{
+    "fetched_at": "2026-06-02T12:00:51Z",
+    "name_ja": "上級日本語Ⅲ",
+    "name_en": "Advanced JapaneseⅢ",
+    "syllabus_number": "8002500A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "佐野　千亜紀",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本講義では、日本語能力試験N1レベルの「読解力」を身につけることを目標とします。\n【到達目標】\n①文章の仕組みを理解し、文章全体の意味を捉えることができる \n②問いを解く技術を身につけ、文章の細かい部分を正確に読みとることができる\n③「説明文」「論説文」「エッセイ」「小説」の読み方を理解することができる",
+    "overview": "大学卒業後、日本企業で働くためには、日本語能力試験N１級レベルの日本語が必要だとされる。本講義では、このうち読解能力に焦点をあてる。日本語能力N1級レベルの読解能力では、抽象度の高い文章を読み取る能力が求められている。本講義では、抽象度の高い文章を選択し、講義内で内容理解を進める。また内容理解と同時に内容に用いられる表現、語彙を学ぶ機会を設ける。これらにより、抽象度の高い文章表現の理解とそれに応じた表現を身につける。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4",
+        "知財開発コースDP2",
+        "知財開発コースDP3",
+        "知財開発コースDP4",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "中級日本語",
+            "中上級日本語Ⅰ",
+            "中上級日本語Ⅱ",
+            "中上級日本語Ⅲ"
+        ],
+        "required_materials": "筆記用具",
+        "other": "プリントを配布し、参考図書は適宜案内する"
+    },
+    "grading_criteria": "①毎回の授業内に行う小テスト　②14回目、15回目の授業内に行う課題\n上記２つの観点から評価する。\n①→小テスト　②→発表・実技",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 60,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "N1の読解問題は、さまざまな幅広い話題を扱っていて、論理的に複雑な文章や抽象度の高い文章を読み、構成や内容を理解できる、また、内容に深みのある文章を読み、話の流れや詳細な表現意図が理解できるなどの能力が求められています。この授業では、興味のわく文章をみなさんと一緒に楽しく読んでいきたいと思っています。\n\n事前学習：１つの文章を読み、図に表す（30分程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス\n文章の仕組みを理解する【対比】【言い換え】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "文章の仕組みを理解する【比喩】【疑問提示文】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "問いを解く技術を身につける【指示語】【だれが・何を】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "問いを解く技術を身につける【穴埋め】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "問いを解く技術を身につける【下線部の意味】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "問いを解く技術を身につける【下線部の理由】",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "日本語能力試験形式の問題を解く　説明文（中文）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "日本語能力試験形式の問題を解く　説明文（長文）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "日本語能力試験形式の問題を解く　論説文（中文、長文）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "日本語能力試験形式の問題を解く　随筆（中文）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "日本語能力試験形式の問題を解く　随筆（長文）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "日本語能力試験形式の問題を解く　小説（中文、長文）、統合理解",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "説明文を読む\n図読法を理解する",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "論説文を読む\n図読法を使って文章をまとめる",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "論説文を読む\n図読法を使って文章を説明する",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "佐野　千亜紀"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

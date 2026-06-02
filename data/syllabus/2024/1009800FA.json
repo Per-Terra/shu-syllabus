@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:53:54Z",
+    "fetched_at": "2026-06-02T11:53:29Z",
     "name_ja": "教養ゼミ（SW-1～4）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800FA",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "井上　浩",
@@ -53,7 +53,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教員が授業の際に適宜参考文献を提示するので、それらを参照しながら授業に臨むこと"
     },
     "grading_criteria": "①本学の建学の精神、パーパス、ミッション、ビジョン、歴史\n②アカデミックスキルに基づくレポートの書き方\n③レポートやプレゼンで使用するパソコンのスキルについて説明することができる\n④プレゼンテーション方法\n上記①～④に関する理解度を次の割合により評価する\nレポート40％　授業内課題（提出物含む）40％　プレゼンテーション20％",
@@ -276,5 +276,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

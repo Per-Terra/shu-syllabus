@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:20:04Z",
+    "fetched_at": "2026-06-02T11:57:16Z",
     "name_ja": "マーケティング論Ⅱ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2033900A",
     "course_number": "02MS203",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,8 +52,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "マーケティングの知識、戦略、および、論理的思考能力の習得、実践状況に関して「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

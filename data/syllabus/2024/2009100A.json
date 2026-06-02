@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:58:33Z",
+    "fetched_at": "2026-06-02T11:55:29Z",
     "name_ja": "3DCG制作演習",
     "name_en": "Practice of 3D",
     "syllabus_number": "2009100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "久保　俊介",
@@ -47,7 +47,7 @@
         ],
         "recommended": [],
         "required_materials": "USBフラッシュメモリ（データ保存用）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①制作工程の理解②3次元的な動きの理解③CGアニメーション制作課題",
     "evaluation_ratio": {
@@ -58,7 +58,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",

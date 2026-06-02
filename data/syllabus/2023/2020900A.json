@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:35Z",
+    "fetched_at": "2026-06-02T11:56:09Z",
     "name_ja": "情報倫理とセキュリティ",
     "name_en": "Information Ethics and Security",
     "syllabus_number": "2020900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,8 +41,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本講義の主要テーマである「情報化社会における基本的人権であるプライバシーとそれをめぐる倫理的問題」、「情報化社会における情報流通の基本ルールである知的財産権とそれをめぐる倫理的問題」および「セキュリティー問題」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
     "evaluation_ratio": {
@@ -207,5 +207,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

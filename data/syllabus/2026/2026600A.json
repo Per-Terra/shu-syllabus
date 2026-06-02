@@ -1,0 +1,229 @@
+{
+    "fetched_at": "2026-06-02T11:56:03Z",
+    "name_ja": "機械学習入門",
+    "name_en": "Introduction to Machine Learning",
+    "syllabus_number": "2026600A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本授業では機械学習入門として、機械学習の概要を学び、回帰、分類、クラスタリングアルゴリズムについて概観し、これらを修得する。上記アルゴリズムを具体的な題材を通じて学び、どのような場面で有効活用できるのか理解することを目標とする。さらに機械学習モデルの性能評価方法や評価指標についても学習する。授業では、座学だけでなくプログラミング演習も導入することで理解を深めると同時に、各機械学習手法の実装を通じて、実装力の向上および実践力を養う。単に機械学習ツールの使い方を学ぶという科目ではなく、機械学習の数学的理論の解説がメインとなるため、これが理解できる相応の数学力を求める。\n\n【到達目標】\n①機械学習がどのようなものか理解できる。\n②回帰、分類、クラスタリングについて理解できる。\n③機械学習モデルの性能評価方法について理解できる。",
+    "overview": "授業は講義形式で進行します。配布資料は全て英語となるため、英語に自信のない学生は単位取得に相当の努力を要することになります。また、演習も取り入れており、機械学習手法の実装と実践に取り組んでもらいます。演習ではプログラミングが必須となりますので注意してください。「Python入門」「Python演習」「プログラミング」を履修していることが必須となります。また、微積や線形代数、確率統計の知識が必要となるため、「数学」「応用数学」「心理統計学」の履修が必須です。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "見て試してわかる機械学習アルゴリズムの仕組み  機械学習図鑑",
+            "publication_year": 2019,
+            "author": "秋庭 伸也，杉山 阿聖，寺田 学",
+            "publisher": "翔泳社",
+            "price": 2948,
+            "isbn": "978-4798155654",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "Python入門",
+            "Python演習",
+            "プログラミング",
+            "数学",
+            "応用数学",
+            "心理統計学"
+        ],
+        "recommended": [],
+        "required_materials": "ノートPC（毎回持参するようにしてください）",
+        "other": null
+    },
+    "grading_criteria": "到達目標に挙げる ①機械学習ついての理解　②回帰、分類、クラスタリング手法についての理解　③機械学習モデルの性能評価方法についての理解　を「学生に対する評価」の内容により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "受講にあたり、次回の「授業の内容」を参考に、教科書該当ページの通読やこちらが提示するキーワードについて調査し (予習・30分程度)、授業終了後には、学んだ箇所の再読および提供資料の再確認を行い、知識を定着させてください(復習・30分程度)。授業の進捗状況や受講学生の理解度などを考慮して、適宜順序の変更や内容の一部省略・追加を行うことがあります。その場合には事前に告知します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "Overview of Machine Learning:\nWhat is machine learning; history of machine learning; AI and machine learning; machine learning and pattern recognition",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Exercise 1:\nPreparing the programming environment; Python programming exercises",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Regression Analysis and the Least Squares Method; Multiple Regression Analysis",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Exercise 2:\nRegression analysis, least squares method, and multiple regression analysis",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Classification using the Perceptron",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Exercise 3:\nClassification using the perceptron",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Classification using Logistic Regression",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Exercise 4:\nClassification using logistic regression",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Clustering using k-means",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Exercise 5:\nClustering using k-means",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Bayesian Decision Rule; Classification using the Naive Bayes Classifier",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Exercise 6:\nClassification using the Naive Bayes classifier",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Evaluation Methods:\nMean squared error, precision, recall, F-measure, cross-validation",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Learning Curves:\nUnderfitting and overfitting",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Exercise 7:\nEvaluation of machine learning models",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

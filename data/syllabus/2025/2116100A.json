@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:41Z",
+    "fetched_at": "2026-06-02T11:59:17Z",
     "name_ja": "健康まちづくり論",
     "name_en": "health Community Development",
     "syllabus_number": "2116100A",
@@ -10,12 +10,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,10 +40,10 @@
         {
             "title": "（初回講義時にお知らせします）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -51,10 +51,10 @@
         {
             "title": "（適宜案内します）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -63,7 +63,7 @@
         "recommended": [
             "地域観光まちづくり論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は、初回講義時にお知らせします。 参考図書は、適宜案内します。"
     },
     "grading_criteria": "①健康とまちづくりの概要について理解できている。 \n②健康まちづくりと福祉の関係性について理解できている。 \n③健康まちづくりによる人材育成の意義と役割について理解できている。",
@@ -229,5 +229,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

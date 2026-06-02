@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:58:49Z",
+    "fetched_at": "2026-06-02T11:55:35Z",
     "name_ja": "体育原理",
     "name_en": "Principles of physical Education",
     "syllabus_number": "2010200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　健",
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "適宜案内する。"
     },
     "grading_criteria": "体育の理解、スポーツの理解、体育・スポーツの倫理的問題の三点について⑪示す方法で評価する",
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:05Z",
+    "fetched_at": "2026-06-02T11:52:48Z",
     "name_ja": "数学",
     "name_en": "Elementary Mathematics",
     "syllabus_number": "1002700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,8 +39,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 中学・高校レベルの数学の理解　② 大学レベルの数学の入門の理解　③ 単純化した現実諸問題の解決　について、「学生に対する評価」の内容で評価します。\n「その他」は問題演習の状況を、復習問題を通して評価します。",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

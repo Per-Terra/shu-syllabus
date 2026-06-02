@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:52Z",
+    "fetched_at": "2026-06-02T11:53:06Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000H",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "水﨑　佑毅",
@@ -44,7 +44,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "適宜配布します。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "小学校での活動のための準備から実際の活動までを評価します。また活動後にはレポートを課し、その内容を評価します。",
     "evaluation_ratio": {
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

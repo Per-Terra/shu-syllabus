@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:02:31Z",
+    "fetched_at": "2026-06-02T11:57:02Z",
     "name_ja": "3D表現手法Ⅱ",
     "name_en": "3D expression method",
     "syllabus_number": "2030200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "久保　俊介",
@@ -46,7 +46,7 @@
         ],
         "recommended": [],
         "required_materials": "USBフラッシュメモリ（データ保存用）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①制作工程の理解②立体構成力③３DCGモデル制作課題",
     "evaluation_ratio": {
@@ -57,7 +57,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",

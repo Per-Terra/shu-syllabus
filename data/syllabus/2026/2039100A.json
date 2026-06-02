@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:56:51Z",
+    "name_ja": "商法Ⅱ",
+    "name_en": "commercial law Ⅱ",
+    "syllabus_number": "2039100A",
+    "course_number": "11-2-30-22-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、商法中の会社法の基本的な知識を習得することを目的としています。\n　会社法は、一般的に①コーポレート・ガバナンス（企業統治）、②コーポレート・ファイナンス（企業金融）、③リオーガニゼーション（組織再編）の3分野に分類されており、これらを学習することになります。商法ⅠIでは、このうちの②③を扱いますが、必要に応じて商法Iの内容にも言及します。\n　会社法の学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１． 商法ⅠIの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "本講義では、株式会社の法律的な仕組みを理解できるようにし、履修者が社会人として就職する際に必要最低限の法的知識が身につくようにする。時には経済記事や講師の経験等の実例を示しながら講義する。本講義では、民法、会社法、手形小切手法、金融関係法等を取り上げ、契約、抵当権、資金調達、組織変更、精算・破産、約束手形・小切手、融資、債権回収方法等について説明する。到達目標は、株式会社の具体像を把握することであり、本講義を通じて新聞報道等による一般的な経済記事を理解、説明できるようになる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "基礎から学べる会社法第5版",
+            "publication_year": 2021,
+            "author": "近藤光男他",
+            "publisher": "弘文堂",
+            "price": 2750,
+            "isbn": "978-4-335-35853-1",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
+        "other": "教科書は講義開始時の最新版とします。"
+    },
+    "grading_criteria": "１．解説した商法ⅠIの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】資金調達【内容】会社の資金調達の方法【範囲】教科書P185～P188",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "【テーマ】株式発行【内容】株式発行の種類【範囲】教科書P188～P200",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "【テーマ】新株予約権【内容】株式と新株予約権の相違【範囲】教科書P200～P210",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "【テーマ】社債【内容】株式と社債の相違【範囲】教科書P210～P218",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "【テーマ】社債権者集会【内容】株主総会との社債権者集会の相違【範囲】教科書P219～P227",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "【テーマ】計算【内容】計算の必要性【範囲】教科書P227～P233",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "【テーマ】計算書類【内容】計算書類の種類【範囲】教科書P233～P241",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "【テーマ】資本金・法定準備金【内容】資本金制度の趣旨【範囲】教科書P241～P251\n＊中間テスト実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "【テーマ】組織再編【内容】組織再編の種類【範囲】教科書P251～P260",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】事業譲渡【内容】事業譲渡の方法【範囲】教科書P260～P266",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】合併【内容】合併の種類や具体例【範囲】教科書P267～P274",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "【テーマ】会社分割【内容】会社分割の種類や具体例【範囲】教科書P274～P281",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "【テーマ】株式交換・株式移転【内容】完全親子会社関係の創設【範囲】教科書P281～P292",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "【テーマ】株式交付【内容】自社の株式を対価とする子会社化【範囲】教科書P292～P303",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "【テーマ】講義のまとめ【内容】第1回～第14回のまとめや補足説明等【範囲】教科書P185～P303",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

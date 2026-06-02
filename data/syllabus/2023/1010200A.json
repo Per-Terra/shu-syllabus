@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:02Z",
+    "fetched_at": "2026-06-02T11:53:19Z",
     "name_ja": "総合英語入門B（再履修）",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "1010200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -58,8 +58,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "評価割合は「試験」60％、「小テスト」30％、「その他」10％です。「試験」は定期試験期間に実施される期末試験です。「小テスト」は授業中に行う語彙・文法等のクイズやワークシート、課題提出に対する評価、「その他」は学習意欲、取り組みを含む評価となります。",
     "evaluation_ratio": {
@@ -404,5 +404,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

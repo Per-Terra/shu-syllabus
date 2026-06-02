@@ -1,0 +1,237 @@
+{
+    "fetched_at": "2026-06-02T11:58:50Z",
+    "name_ja": "ゴール型球技",
+    "name_en": "Goal type ball game",
+    "syllabus_number": "2113700A",
+    "course_number": "21-2-27-21-02",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": true
+        },
+        {
+            "name": "武藤　克宏",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.技能や連携した動きを用いてゲームを展開できる\n2.ゴール型球技に関する 基礎知識を理解できる",
+    "overview": "ゴール型球技の特性やルールの理解、対象の発育・発達段階に応じた指導法の理解を通じた実践的な指導法の学習を目指す。また、スポーツの本質ともいえる「楽しさ」への認識も深めることを目標とする。バスケットボールやサッカーといった球技を通じて、ドリブルやパス、シュートといった基本的なボールスキルの獲得、数的有意な状況での判断力の育成や状況に応じた戦術の理解を深める。また、リスクマネジメントへの理解も深め、現場に求められる安全面に配慮した指導法の習得も目指す。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "バスケットボール指導教本　上巻 [改訂版]",
+            "publication_year": 2002,
+            "author": "公益財団法人　日本バスケットボール協会",
+            "publisher": "大修館書店",
+            "price": 2100,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "バスケットボール指導教本　下巻 [改訂版]",
+            "publication_year": 2002,
+            "author": "公益財団法人　日本バスケットボール協会",
+            "publisher": "大修館書店",
+            "price": 2600,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "(i)技能や連携した動きを用いてゲームを展開できる（技能）\n(ii)主体的に取り組める（態度）\n(iii)基礎知識を理解できる（知識）\n上記ⅰ～ⅲについて評価を行う．\n(i)60％，(ii)30％，(iii)10％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "運動に適した服装（Tシャツ、ジャージ等）と室内専用シューズを着用してください。授業当日、ウエアやシューズを忘れた場合は、怪我防止のため見学とします。安全のため、時計、アクセサリー等は外して受講してください。\n体調管理をして授業に臨み、体調に違和感を覚えた場合や怪我が発生した場合は、すみやかに申し出てください。\n\n〈１回目の授業について〉\n１回目はオリエンテーションになります。\n教室については別途周知します。\n\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（本講義の目的と概要）ルール",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅",
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "コーディネーション、ボール保持、ボールハンドリング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ドリブル、パス",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "シュート（レイアップ，セットシュート，ジャンプシュート）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "数的優位時の状況判断 (2-1，3-2，4-3)",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ディフェンスとオフェンスの基本、リバウンディング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ミニゲーム（スクリメージ、ゲームプランを立てる）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ミニゲーム（チーム戦術を立てる）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑佑毅"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "（サッカー)ルール、ドリブルに着眼点を置いたゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "（サッカー)パスに着眼点を置いたゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "（サッカー)トラップに着眼点を置いたゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "（サッカー)シュートに着眼点を置いたゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "（サッカー)攻撃、守備の基本",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "（サッカー)攻守の切り替え",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "（サッカー)ゲーム、まとめ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "武藤克宏"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:56:50Z",
+    "name_ja": "商法Ⅰ",
+    "name_en": "commercial law Ⅰ",
+    "syllabus_number": "2039000A",
+    "course_number": "11-2-30-21-02",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、商法中の会社法の基本的な知識を習得することを目的としています。\n　会社法は、一般的に①コーポレート・ガバナンス（企業統治）、②コーポレート・ファイナンス（企業金融）、③リオーガニゼーション（組織再編）の3分野に分類されており、これらを学習することになります。商法Ⅰでは、このうちの①を扱いますが、必要に応じて商法Ⅱの内容にも言及します。\n　会社法の学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１． 商法Ⅰの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "本講義では、株式会社の法律的な仕組みを理解できるようにし、履修者が社会人として就職する際に必要最低限の法的知識が身につくようにする。時には経済記事や講師の経験等の実例を示しながら講義する。本講義では、会社法、労働法、税法を取り上げ、株主、株主総会、取締役会、監査役、代表取締役の役割、労働条件、労災、労働組合、所得税、法人税等について説明する。到達目標は、株式会社の具体像を把握することであり、本講義を通じて新聞報道等による一般的な経済記事を理解、説明できるようになる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "基礎から学べる会社法第5版",
+            "publication_year": 2021,
+            "author": "近藤光男他",
+            "publisher": "弘文堂",
+            "price": 2750,
+            "isbn": "978-4-335-35853-1",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
+        "other": "教科書は講義開始時の最新版とします。"
+    },
+    "grading_criteria": "１．解説した商法Ⅰの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】会社の意義【内容】会社の種類等【範囲】教科書P1～P9",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "【テーマ】株式会社の意義【内容】法人格否認の法理等【範囲】教科書P9～P20",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "【テーマ】会社法とコーポレート・ガバナンス【内容】コーポレート・ガバナンスとは？【範囲】教科書P20～P28",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "【テーマ】設立①【内容】会社の設立手続き【範囲】教科書P29～P40",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "【テーマ】設立②【内容】設立の瑕疵等【範囲】教科書P40～P54",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "【テーマ】株主と株式【内容】株主平等原則等【範囲】教科書P55～P66",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "【テーマ】株式の譲渡【内容】株式譲渡自由の原則等【範囲】教科書P66～P84",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "【テーマ】株式の併合・分割【内容】単元株等【範囲】教科書P84～P98",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "【テーマ】自己株式【内容】自己株式とは？／自己株式の使い道【範囲】教科書P98～P112\n＊中間テスト実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】機関①【内容】株主総会【範囲】教科書P113～P128",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】機関②【内容】取締役・代表取締役・取締役会【範囲】教科書P128～148",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "【テーマ】機関③【内容】監査役・監査役会【範囲】教科書P148～P162",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "【テーマ】機関④【内容】監査等委員会設置会社・指名委員会等設置会社【範囲】教科書P162～P176",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "【テーマ】役員等の損害賠償責任【内容】取締役の会社に対する責任／第三者に対する責任【範囲】教科書P176～P184",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "【テーマ】講義のまとめ【内容】第1回～第14回のまとめや補足説明等【範囲】教科書P1～P184",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

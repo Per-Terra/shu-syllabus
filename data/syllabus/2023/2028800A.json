@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:38Z",
+    "fetched_at": "2026-06-02T11:56:54Z",
     "name_ja": "刑事司法と福祉",
     "name_en": "Criminal Justice and Welfare",
     "syllabus_number": "2028800A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書及び事前配付資料",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①刑事司法の近年の動向と制度の基本的な仕組み、②刑事司法における社会福祉士及び精神保健福祉士の役割、③刑事司法の制度に関わる関係機関等の役割について小テスト、レポートの提出により評価する。",
     "evaluation_ratio": {

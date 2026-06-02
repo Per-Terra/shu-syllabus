@@ -1,0 +1,221 @@
+{
+    "fetched_at": "2026-06-02T11:55:35Z",
+    "name_ja": "レクリエーション実習",
+    "name_en": "Recreation training",
+    "syllabus_number": "2011795A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "中嶋　克成",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "講義や実技で学んだ知識や技術をベースに、老若男女・様々な世代のレクリエーション事業に参加し、支援技術等の深化を図ることを目標とする。また、現場への実習に行くことにより、地域でのレクリエーション事業の現状や、参加者に合わせたアレンジ力を身につける機会とする。",
+    "overview": "本授業は、地域で展開されているレクリエーション事業についての情報収集を行い、活動事業体に参加をする。また、レクリエーション事業の内容・コミュニケーション・安全管理等について事前に学習し、自己の目標を明確にして参加をする。実習終了後は記録の提出と報告を課す。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "楽しさをとおした心の元気づくり～レクリエーション支援の理論と方法～",
+            "publication_year": 2021,
+            "author": "日本レクリエーション協会",
+            "publisher": "日本レクリエーション協会",
+            "price": 1980,
+            "isbn": "978-4-931180-95-6",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "なし"
+    },
+    "grading_criteria": "(i) レクリエーション事業についての理解\n(ii) 学外実習・事業参加によって基礎的な技術を習得している\n(ⅲ) 学外実習・事業参加の成果や課題を発表できる",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 50,
+        "portfolio": 20,
+        "other": 0
+    },
+    "teacher_message": "社会教育（体育）施設におけるスタッフとしての「学外実習」と、レクリエーション協会などが企画する事業への参加「事業参加」が求められる。この授業では、実習に赴くために必要な情報を伝え確認するとともに、実習によって得られた経験を事後発表という形で振り返ってもらう。\n\n※授業外の学習課題（予習復習等）については授業計画を参照してください。\n　なお、その他授業外学習として各種レクリエーションイベントの参加をする場合があります。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "レクリエーション実習の目的と進め方　\n\n〇授業外の学習課題(予習復習等)(240分)\nテキストを基に予習・復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "対象事業の情報収集と概要の把握\n\n〇授業外の学習課題(予習復習等)(240分)\nテキストを基に予習・復習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "「学外実習」と「事業参加」の実習計画立案　\n\n〇授業外の学習課題(予習復習等)(240分)\n実習計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "実習参加の準備と心構えおよび安全管理\n\n〇授業外の学習課題(予習復習等)(240分)\n実習計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "「事業参加」の事前指導\n\n〇授業外の学習課題(予習復習等)(240分)\n実習計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "レクリエーション協会主催事業への参加①\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "レクリエーション協会主催事業への参加②\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "レクリエーション協会主催事業への参加③　\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "「事業参加」の事後発表\n\n〇授業外の学習課題(予習復習等)(240分)\n発表資料の作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "「学外実習」の事前指導\n\n〇授業外の学習課題(予習復習等)(240分)\n実習計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "社会教育施設・企画行事への「学外実習」①\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "社会教育施設・企画行事への「学外実習」②\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "社会教育施設・企画行事への「学外実習」③\n\n〇授業外の学習課題(予習復習等)(240分)\n体験レポート作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "「学外実習」の事後発表　\n\n〇授業外の学習課題(予習復習等)(240分)\n発表資料の作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "資格申請のための手続きについて　\n\n〇授業外の学習課題(予習復習等)(240分)\n申請書類の作成",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　克成"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

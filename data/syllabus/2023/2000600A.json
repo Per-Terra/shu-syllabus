@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:41Z",
+    "fetched_at": "2026-06-02T11:54:16Z",
     "name_ja": "計量経済学",
     "name_en": "Econometrics",
     "syllabus_number": "2000600A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -78,7 +78,7 @@
             "マクロ経済学"
         ],
         "required_materials": "テキスト、ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①計量経済学の方法論を理解、②ソフトを用いた分析、③結果の適切な解釈　について、「学生に対する評価」の内容で評価します。",
     "evaluation_ratio": {
@@ -422,5 +422,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

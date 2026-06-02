@@ -1,0 +1,229 @@
+{
+    "fetched_at": "2026-06-02T11:56:24Z",
+    "name_ja": "社会福祉調査の基礎",
+    "name_en": "Introduction to social welfare survey",
+    "syllabus_number": "2029100A",
+    "course_number": "23-3-21-21-03",
+    "departments": [
+        "人間健康科学部 福祉学科",
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "牛島　豊広",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "社会福祉実践における課題を科学的・倫理的に把握し、根拠に基づく支援と評価につなげるための社会福祉調査の基礎を理解する。\n到達目標は以下のとおりである。\n①社会福祉調査の意義と目的について説明することができる。\n②社会福祉に関する調査の歴史について説明することができる。\n③社会福祉調査における倫理と個人情報保護について説明することができる。\n④社会福祉調査のデザインについて説明することができる。\n⑤量的調査の方法について説明することができる。\n⑥質的調査の方法について説明することができる。\n⑦ソーシャルワークの評価について説明することができる。",
+    "overview": "多職種協働で問題解決を行う社会福祉の現場では、多職種と共通理解を図るためデータでの情報共有が必要になってきている。本科目では、ソーシャルワーク実践におけるEBP（Evidence Based Practice）の前提となる調査方法及び調査結果の解釈方法を理解する。",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "最新 社会福祉士養成講座 精神保健福祉士養成講座5 社会福祉調査の基礎",
+            "publication_year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟 編",
+            "publisher": "中央法規",
+            "price": 2750,
+            "isbn": "978-4-8058-8235-1",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "①社会福祉調査の意義と目的\n②社会福祉に関する調査の歴史\n③社会福祉調査における倫理と個人情報保護\n④社会福祉調査のデザイン\n⑤量的調査の方法\n⑥質的調査の方法\n⑦ソーシャルワークの評価\n上記①～⑦に関する理解度を以下の割合により評価する。\n筆記試験100%",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "福祉現場における調査研究の方法や福祉実践の科学化の重要性について学んでいく。授業に参加するにあたっては、次回の授業内容を参照し、教科書の該当ページを通読しておくこと(予習2時間程度)。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "社会調査の意義と目的①ソーシャルワーク実践の可視化と理論化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "社会調査の意義と目的②社会福祉調査と社会福祉の歴史的関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "社会福祉調査における倫理と個人情報保護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "社会福祉調査のデザイン①調査における考え方・論理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "社会福祉調査のデザイン②社会福祉調査の目的と対象",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "社会福祉調査のデザイン③社会福祉調査でのデータ収集・分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "量的調査の方法①量的調査の概要、種類と方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "量的調査の方法②質問紙の作成方法と留意点及び配布と回収",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "量的調査の方法③量的調査の集計と分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "質的調査の方法①質的調査の概要、観察法、面接法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "質的調査の方法②質的調査における記録の方法と留意点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "質的調査の方法③質的調査のデータの分析方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ソーシャルワークにおける評価①ソーシャルワークにおける評価の意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ソーシャルワークにおける評価②ソーシャルワークにおける評価対象",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ソーシャルワークにおける評価③ソーシャルワークにおける評価方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "7月　日（金）10：40-11：40",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

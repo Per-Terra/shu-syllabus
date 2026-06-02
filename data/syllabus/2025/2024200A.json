@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:03Z",
+    "fetched_at": "2026-06-02T11:56:32Z",
     "name_ja": "心理学実験実習Ⅱ",
     "name_en": "Psychological experiment trainingⅡ",
     "syllabus_number": "2024200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -402,5 +402,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

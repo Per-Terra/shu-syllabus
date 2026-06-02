@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:07:33Z",
+    "fetched_at": "2026-06-02T12:00:18Z",
     "name_ja": "教職実践演習",
     "name_en": "Seminar of Practice in Education (Junior high school/Senior high school)",
     "syllabus_number": "7003300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -59,7 +59,9 @@
         "prerequisites": [
             "教育実習を含む全ての教職関連科目"
         ],
-        "recommended": [],
+        "recommended": [
+            "なし"
+        ],
         "required_materials": "ノートパソコン、筆記用具、教育実習日誌",
         "other": "特定の教科書は指定せず、必要な資料は授業中に適宜配布する。"
     },
@@ -72,7 +74,7 @@
         "portfolio": 30,
         "other": 0
     },
-    "teacher_message": "教員としての習熟度に対する評価が中心となる授業です。教員として最小限必要な資質能力が身についているかを確認し、不足している側面を洗い出し、課題解決実践を行います。教員になるための集大成となる科目として、最後まで全力で取り組んでください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料や参考図書などを参照して復習に取り組むこと。\n・授業外での課題解決活動に自主的に取り組むこと。\n　※予習・復習・課題解決活動をあわせて240分以上取り組むこと。",
+    "teacher_message": "教員としての習熟度に対する評価が中心となる授業です。教員として最小限必要な資質能力が身についているかを確認し、不足している側面を洗い出し、課題解決実践を行います。教員になるための集大成となる科目として、最後まで全力で取り組んでください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料や参考図書などを参照して復習に取り組むこと。\n・授業外での課題解決活動に自主的に取り組むこと。\n　※予習・復習・課題解決活動をあわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -256,5 +258,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

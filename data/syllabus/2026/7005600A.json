@@ -1,0 +1,369 @@
+{
+    "fetched_at": "2026-06-02T12:00:40Z",
+    "name_ja": "学校体験活動",
+    "name_en": "School experience activity",
+    "syllabus_number": "7005600A",
+    "course_number": "11-2-92-11-01、31-2-92-11-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 学校教育現場についての理解できる。\n2. 教育界が求める能力・人物像を理解できる。\n3. 教育者として必要な基本的マナーを習得できる。",
+    "overview": "中学校、高等学校の教諭を目指す学生が、学校で生活する児童生徒の姿や教職員の業務活動を観察するとともに、実務に対する補助的な役割を担うことを通して、児童生徒の実態と学校教育活動の特色を理解することを目的としている。学校教育現場での授業、特別活動、学校行事、部活動など教員の日常業務を観察・体験し、教育活動の実際的、具体的理解を深めるとともに、各々が各学校で経験したことや学んだことを、中間及び活動終了後の報告会にて発表を行う。これらの体験により、自己の適性を把握するとともに将来の職業生活への見通しを立てることへと繋げることが出来る。さらには児童生徒および教職員との関係構築の中で、人間的成長や社会意識の向上を目指す。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "情報科学科DP1",
+        "スポーツ健康科学科DP1"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "教師論"
+        ],
+        "required_materials": "必要な教材は授業内で適宜配付します",
+        "other": "なし"
+    },
+    "grading_criteria": "1　学校教育現場についての理解を深める。\n2　自分の適性を確認する。\n3　教育界が求める能力・人物像を理解する。\n4　教育者として必要な基本的マナーを習得する。\n以上の４点を踏まえ、⑪に示す方法で総合的に評価を行う。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 40
+    },
+    "teacher_message": "学校体験活動は小学校や中学校の現場に実際に入り、現職教諭の仕事に触れたり児童生徒とコミュニケーションを図る機会が多いことから、学校の先生という仕事への理解や自分自身の仕事に対する適性を知る機会にしてほしい。また学校での活動が中心となる授業であるため、意欲ある受講態度と高い倫理観を求める。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（インターンシップの目的及び概要説明）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "事前指導（学校支援、学校運営、地域貢献の理解）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "事前指導（実施校の決定、活動計画書の作成）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "担当校での活動①",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "担当校での活動②",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "担当校での活動③",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "担当校での活動④",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "担当校での活動⑤",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "担当校での活動に関する中間報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "担当校での活動⑥",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "担当校での活動⑦",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "担当校での活動⑧",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "担当校での活動⑨",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "担当校での活動⑩",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "担当校での活動に関する報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "事前指導（注意すべき事項の確認）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "事前指導（振り返り作業の確認）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "担当校での活動⑪",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "担当校での活動⑫",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "担当校での活動⑬",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "担当校での活動⑭",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "担当校での活動⑮",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "担当校での活動に関する中間報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "担当校での活動⑯",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "担当校での活動⑰",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "担当校での活動⑱",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "担当校での活動⑲",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "担当校での活動⑳",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "事後指導（活動報告会に向けた準備）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "担当校での活動に関する報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

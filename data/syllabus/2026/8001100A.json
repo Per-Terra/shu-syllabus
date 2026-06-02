@@ -1,0 +1,750 @@
+{
+    "fetched_at": "2026-06-02T12:00:46Z",
+    "name_ja": "中級日本語",
+    "name_en": "Intermediate Japanese",
+    "syllabus_number": "8001100A",
+    "course_number": "11-1-20-21-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "山本　晋也",
+            "is_primary": true
+        },
+        {
+            "name": "石井　和江",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本講義のテーマは、1）大学で学ぶための土台となる日本語の習得、2）日本語による様々な言語活動への習熟の2点です。まずは1）に関して、教員の指定したテキストをもとに日本語学習を進めます。大体日本語能力試験N2レベルの文章読解や語彙理解などが可能となることを目標とします。次に2）に関しては、1）の学びをふまえて、ディスカッションやインタビュー、プレゼンテーション等の活動を行います。それぞれの表現形式に応じた適切な日本語を学び、それらを用いて円滑な言語活動ができるようになることをめざします。",
+    "overview": "本講義では、日本語能力試験Ｎ２レベルの総合的日本語能力を育成し、専門科目への理解へとつなげていくことを目指す。そのために、テキストを中心とした日本語に関する知識理解に加え、課題を設定し、その解決へ向けて取り組む。また、その成果をレポートやプレゼン等の形で発表する。上記の活動を通じて、専門的な語彙・文法表現の習得と、それらを応用した表現能力の獲得を目指す。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "改定版　トピックによる日本語総合演習　テーマ探しから発表へ(中級後期)",
+            "publication_year": 2017,
+            "author": "安藤節子・佐々木薫・赤木浩文・田口典子・鈴木孝恵",
+            "publisher": "スリーエーネットワーク",
+            "price": 1500,
+            "isbn": "978-4-88319-505-3",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "なし"
+    },
+    "grading_criteria": "評価は、テキストを中心とした授業の内容理解、および、授業内容を踏まえての言語活動(調査発表等)の過程と成果を中心に行います。前者は学期中の小課題やレポートから、後者は同じく学期中に行うインタビューやアンケート、プレゼンテーションへの取り組みから判断します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "この授業は、大学生活や将来設計の土台となる日本語でのコミュニケーションを経験するための授業です。座って勉強するだけではなく、教員・クラスメイトを中心とする多くの人々とのコミュニケーションの機会を作っていきたいと思います。毎回の授業の前と後で、60分程度の予習・復習を行ってください。その他、調査や発表などで合計20時間程度の準備を必要とする場合があります。疑問点などは授業後、またはオフィスアワーに受け付けます。\n\n本講義は、基本的にテキストを使用しながら、各課の学習項目について教員-学生の対話を中心に学習を進めます。毎回の授業では、1）教科書の内容理解、2）内容理解をふまえた言語活動(ディスカッション・インタビュー・プレゼンテーション)の順に行います。なお、使用テキストについては、受講生の日本語レベルやニーズに基づき、初回ガイダンスの際に決定します。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "授業ガイダンス・テキストの扱いと調査発表について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "テキスト１課「教育」はじめに・情報Ⅰの読み取り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "テキスト１課「教育」情報Ⅱの読み取り・内容理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "テキスト１課「教育」アンケート調査とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "テキスト１課「教育」調査計画作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "テキスト１課「教育」調査紙作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "テキスト１課「教育」調査データの取りまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "テキスト１課「教育」発表資料作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "テキスト１課「教育」発表資料作成・発表練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "テキスト１課「教育」に関する調査発表会",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "テキスト２課「言葉」はじめに・情報Ⅰ読解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "テキスト２課「言葉」各国のことわざについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "テキスト２課「言葉」情報Ⅱの読み取り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "テキスト２課「言葉」文献調査について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "テキスト２課「言葉」調査テーマの検討",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１６",
+            "content": "テキスト２課「言葉」調査テーマの発表・調査方法について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１７",
+            "content": "テキスト２課「言葉」文献調査の実施",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１８",
+            "content": "テキスト２課「言葉」文献調査の実施・取りまとめについて",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "１９",
+            "content": "テキスト２課「言葉」レジュメの作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２０",
+            "content": "テキスト２課「言葉」レジュメの作成・修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２１",
+            "content": "テキスト２課「言葉」文献調査結果の発表会",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２２",
+            "content": "テキスト３課「コミュニケーション」はじめに・情報Ⅰのグラフ読み取り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２３",
+            "content": "テキスト３課「コミュニケーション」情報Ⅱの読解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２４",
+            "content": "テキスト３課「コミュニケーション」アンケートについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２５",
+            "content": "テキスト３課「コミュニケーション」調査計画の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２６",
+            "content": "テキスト３課「コミュニケーション」調査紙の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２７",
+            "content": "テキスト３課「コミュニケーション」調査実施",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２８",
+            "content": "テキスト３課「コミュニケーション」調査結果の取りまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "２９",
+            "content": "テキスト３課「コミュニケーション」発表資料作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３０",
+            "content": "テキスト３課「コミュニケーション」発表資料作成・修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３１",
+            "content": "テキスト３課「コミュニケーション」調査発表会の実施",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３２",
+            "content": "テキスト４課「昔話」はじめに・情報Ⅰの読解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３３",
+            "content": "テキスト４課「昔話」情報Ⅱ・資料の読み取り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３４",
+            "content": "テキスト４課「昔話」各国の昔話について共有",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３５",
+            "content": "テキスト４課「昔話」プロフィールシートの作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３６",
+            "content": "テキスト４課「昔話」プロフィールシートの作成と修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３７",
+            "content": "テキスト４課「昔話」文集用の原稿作成(テーマ)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３８",
+            "content": "テキスト４課「昔話」文集用の原稿作成(ストーリー)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "３９",
+            "content": "テキスト４課「昔話」文集用の原稿作成(分析・考察)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４０",
+            "content": "テキスト４課「昔話」作成原稿の取りまとめと修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４１",
+            "content": "テキスト４課「昔話」編集作業(表紙・目次・カット)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４２",
+            "content": "テキスト４課「昔話」編集作業(ページ内容)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４３",
+            "content": "テキスト４課「昔話」文集の完成と公開",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４４",
+            "content": "テキスト５課「住宅」はじめに・情報Ⅰグラフの読み取り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４５",
+            "content": "テキスト５課「住宅」情報Ⅱの読解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４６",
+            "content": "テキスト５課「住宅」インタビュー調査について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４７",
+            "content": "テキスト５課「住宅」調査計画作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４８",
+            "content": "テキスト５課「住宅」展示場見学",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "４９",
+            "content": "テキスト５課「住宅」調査計画の発表と修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５０",
+            "content": "テキスト５課「住宅」調査実施",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５１",
+            "content": "テキスト５課「住宅」調査結果の取りまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５２",
+            "content": "テキスト５課「住宅」データの分析について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５３",
+            "content": "テキスト５課「住宅」発表資料作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５４",
+            "content": "テキスト５課「住宅」発表資料作成・修正",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５５",
+            "content": "テキスト５課「住宅」発表リハーサル",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５６",
+            "content": "テキスト５課「住宅」調査結果発表会",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５７",
+            "content": "最終レポート①(テーマ決め)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５８",
+            "content": "最終レポート②(表記・表現)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "５９",
+            "content": "最終レポート③(構成)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        },
+        {
+            "number": "６０",
+            "content": "最終レポート④(執筆準備)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石井和江",
+                "山本晋也"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

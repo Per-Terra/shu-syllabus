@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:17:28Z",
+    "fetched_at": "2026-06-02T11:56:36Z",
     "name_ja": "国際マーケティング論",
     "name_en": "International marketing theory",
     "syllabus_number": "2026200A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "title": "グローバル・マーケティング戦略",
             "publication_year": 2017,
             "author": "三浦俊彦、丸谷雄一郎、犬飼知徳",
-            "publisher": "",
+            "publisher": null,
             "price": 2420,
             "isbn": "978-4-641-22087-4",
             "available_on_campus": false
@@ -53,7 +53,7 @@
             "title": "1からのグローバル・マーケティング",
             "publication_year": 2017,
             "author": "小田部正明、栗木契、太田一樹",
-            "publisher": "",
+            "publisher": null,
             "price": 2640,
             "isbn": "978-4-502-21851-4",
             "available_on_campus": false
@@ -62,7 +62,7 @@
             "title": "実践的グローバル・マーケティング",
             "publication_year": 2017,
             "author": "大石芳裕",
-            "publisher": "",
+            "publisher": null,
             "price": 2200,
             "isbn": "978-4-623-07833-2",
             "available_on_campus": false
@@ -71,8 +71,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "国際マーケティングの知識、戦略、および、論理的思考能力の習得に関して「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -91,9 +91,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -101,9 +99,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -111,9 +107,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -121,9 +115,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -131,9 +123,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -141,9 +131,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -151,9 +139,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -161,9 +147,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -171,9 +155,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -181,9 +163,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -191,9 +171,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -201,9 +179,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -211,9 +187,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -222,9 +196,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -233,11 +205,9 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

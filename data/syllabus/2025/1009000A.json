@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:34Z",
+    "fetched_at": "2026-06-02T11:52:58Z",
     "name_ja": "教養スポーツ実習Ⅱ（1-10）",
     "name_en": "Sports Ⅱ",
     "syllabus_number": "1009000A",
@@ -11,24 +11,24 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
-            "name": "宇野　直士",
+            "name": "瀬尾　賢一郎",
             "is_primary": true
         },
         {
-            "name": "岡崎　祐介",
+            "name": "宇野　直士",
             "is_primary": false
         },
         {
-            "name": "古賀　五月",
+            "name": "岡崎　祐介",
             "is_primary": false
         },
         {
@@ -36,7 +36,7 @@
             "is_primary": false
         },
         {
-            "name": "成績認定用教員",
+            "name": "永山　寛",
             "is_primary": false
         },
         {
@@ -70,7 +70,7 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、適宜資料を配布する。"
     },
     "grading_criteria": "実技試験100%",
@@ -311,5 +311,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

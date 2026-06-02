@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:54:30Z",
+    "name_ja": "地域政策論",
+    "name_en": "Regional Policy",
+    "syllabus_number": "2002700A",
+    "course_number": "11-3-26-21-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "地域活性化の推進、持続可能社会の構築には、地域産業の活性化の推進が重要である。本授業では地域活性化を推進する上で必要不可欠な地域産業の活性化に関する政策及び地域産業の活性化に関する様々な取組みについて解説する。\n\n【到達目標】\n①地域産業の活性化を推進する具体的方法について理解できる。",
+    "overview": "講義形式で授業を進めていく。学生には受動的に講義を受けるのではなく、地域の疲弊状況、経済情勢等に広く関心を持って授業に臨んでもらいたい。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "grading_criteria": "・地域産業の活性化を推進する具体的方法について理解できる。\n上記の基準を⑪によって評価する。⑪の「その他」については、授業に積極的に参加する姿勢を評価対象とする。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "地域産業政策の概要１/終戦時までの日本の経済情勢の推移",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "地域産業政策の概要２/高度成長期の日本の経済情勢と地域産業に関する地域政策の推移、産炭地域振興政策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "地域産業政策の概要３/安定成長期以降の地域産業に関する地域政策の推移",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "今後の地域産業活性化の方向性１（事業経営１）/日本の人口と財政に関する課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "今後の地域産業活性化の方向性２（事業経営２）/ベンチャー精神、企業家精神",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "今後の地域産業活性化の方向性３（地域経営１）/長寿化社会の人生戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "今後の地域産業活性化の方向性４（地域経営２）/今後の地域経営の方向性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "新ビジネス創出の方法１/新事業創出の必要性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "新ビジネス創出の方法２/地域資源活用政策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "新ビジネス創出の方法３/中小店舗の事業努力の方向性、日本の生産性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例紹介１/地域商社の取組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "事例紹介２/行政等の取組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "事例紹介３/ローカルベンチャー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "今後の地域産業政策の方向性/近年の産業等の動向、総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岩本　直"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}

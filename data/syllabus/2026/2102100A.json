@@ -1,0 +1,250 @@
+{
+    "fetched_at": "2026-06-02T11:57:33Z",
+    "name_ja": "コーパス言語学",
+    "name_en": "corpus linguistics",
+    "syllabus_number": "2102100A",
+    "course_number": "31-3-21-33-04",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "立部　文崇",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.\tコーパスとは何か、その特徴、またその位置づけについて理解できる\n2.\tコーパス通して、自然言語の分析方法が理解できる\n3.\tコーパスを活用した分析と、情報科学、また他分野との関わりが理解できる",
+    "overview": "コンピュータが理解し、処理を実行するための命令にプログラミング言語が用いられるのに対し、我々人間がコミュニケーションに用いる言語は自然言語と呼ばれている。自然言語について知ることは、プログラミング言語や母国以外の言語を学ぶことに大きく貢献する。本講義は、自然言語における用語のあり方、文法の成り立ちなど、自然言語の分析に関わる基礎的な概念、研究手法について学ぶ、更に講義で取り上げる自然言語の要素とプログラミング言語との共通点や連続性などについても議論していく。15回の講義は、主に講義形式で授業を進めていくが、実際のコーパスを用いた演習などを行い、分析にも触れる機会を設け、言語学の知見が情報学に関わることを知ってもらえるようにする。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "『ベーシックコーパス言語学』第２版",
+            "publication_year": 2021,
+            "author": "石川慎一郎",
+            "publisher": "ひつじ書房",
+            "price": 1870,
+            "isbn": "978-4-8234-1093-2",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "『言語研究の世界：生成文法からのアプローチ』",
+            "publication_year": 2022,
+            "author": "大津由紀雄",
+            "publisher": "研究社",
+            "price": 3360,
+            "isbn": "978-4327401771",
+            "available_on_campus": false
+        },
+        {
+            "title": "『英語コーパスと言語教育』",
+            "publication_year": 2008,
+            "author": "石川慎一郎",
+            "publisher": "大修館書店",
+            "price": 2860,
+            "isbn": "978-4469213218",
+            "available_on_campus": false
+        },
+        {
+            "title": "『認知言語学研究の方法　内省・コーパス・実験』",
+            "publication_year": 2011,
+            "author": "辻幸夫 監修",
+            "publisher": "ひつじ書房",
+            "price": 3080,
+            "isbn": "78-4-89476-520-7",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "言語情報学"
+        ],
+        "recommended": [],
+        "required_materials": "毎回必要とはしないが、指示によりPCの持参を必要とする場合がある",
+        "other": null
+    },
+    "grading_criteria": "1.\tコーパスとは何か\n2.\tコーパスの種類と特徴\n3.\tコーパスの作成方法\n4.\tコーパスの活用\nこれら４つの視点についての理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 30,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "コーパス言語学は、それだけで完結する分野というよりは、さまざまな分野と緩やかに連関する学際的な学問分野です。言語学にはさまざまな分野がありますが、比較的大規模な言語データの観察を基盤に、他の研究分野との自由な連携を志向するコーパス言語学は、言語学とその他の学問分野との連携を考える上で大きな役割を果たすものです。授業に参加するにあたっては、授業内容にとどまらず、その内容が他分野とどのように連関可能かをも考えるようにしてください。そのためにも授業前に、該当ページを通読してください（予習・30分程度）。授業終了後、毎回の小課題に取り組んでください。このとき、授業で提供したPPTなどを参考にしてください（復習・60分程度）。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "Introduction コーパス言語学とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "コーパスの種類とそれぞれのコーパスの限界",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "日本語テキストマイニング１　解析ソフトの紹介・使い方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "日本語テキストマイニング２　データの分析と考察方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "日本語テキストマイニング３　テーマごとに収集したデータの分析・考察",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "コーパスと語彙　日本語語彙の分析実例（一部英語実例含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "コーパスと語法　日本語語法の分析実例（一部英語実例含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "コーパスと文法　日本語文法の分析実例（一部英語実例含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "コーパスと学習者　日本語学習者の分析実例（一部英語実例含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "コーパスの作成方法　データの収集、電子化、アノテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "コーパス検索の技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "コーパス頻度の処理　頻度差の検証、共起を測る指標",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "専門コーパス（特殊コーパス）を作成してみよう",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "作成した専門コーパス（特殊コーパス）で分析してみよう",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "まとめ　専門コーパス（特殊コーパス）の評価、他の学問との連関を考える",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

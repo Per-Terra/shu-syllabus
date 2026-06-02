@@ -1,0 +1,77 @@
+{
+    "fetched_at": "2026-06-02T11:56:16Z",
+    "name_ja": "ソーシャルワーク実習Ⅱ",
+    "name_en": "Social Work Practicum Ⅱ",
+    "syllabus_number": "2028400A",
+    "course_number": "2028400",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "is_primary": true
+        },
+        {
+            "name": "小林　武生",
+            "is_primary": false
+        },
+        {
+            "name": "守本　友美",
+            "is_primary": false
+        },
+        {
+            "name": "脇野　幸太郎",
+            "is_primary": false
+        },
+        {
+            "name": "牛島　豊広",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "ソーシャルワーク実習Ⅱは、ソーシャルワーク実習Ⅰとは異なる実習施設・機関で、ソーシャルワークを各自で展開できる力を身に付ける（完成させる）ことを目的とする科目である。具体的には、厚生労働省から提示されている「教育に含むべき事項」10項目（利用者やその関係者との関係構築・援助関係の形成など）のうち、ソーシャルワーク実習Ⅰで体験・学修できなかった部分を中心に実習プログラムが組まれる。\n\n【到達目標】\n①厚生労働省シラバス「教育に含むべき事項」10項目のいくつかを達成することができる",
+    "overview": "社会福祉士養成指定科目「ソーシャルワーク実習」のうち、3年生春期休暇に45時間行う実習科目である。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "ソーシャルワーク実習Ⅰ"
+        ],
+        "recommended": [],
+        "required_materials": "周南公立大学福祉情報学部　ソーシャルワーク実習の手引き、ソーシャルワーク実習ワークシート集",
+        "other": "なし"
+    },
+    "grading_criteria": "実習先の評価と学内評価により、総合的に判断する。\n評価の割合：学内評価50％、実習施設評価50％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 30,
+        "other": 50
+    },
+    "teacher_message": "ソーシャルワーク実習Ⅰの学習目標を鑑み、厚生労働省から提示されている「教育に含むべき10項目」で学習が十分でないところを優先的に学習するようにしてください。\n\n自己学習：実習で体験したことを実習日誌に記録すること　90分程度",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

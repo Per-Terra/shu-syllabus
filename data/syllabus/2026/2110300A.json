@@ -1,0 +1,220 @@
+{
+    "fetched_at": "2026-06-02T11:58:29Z",
+    "name_ja": "運動生理学演習",
+    "name_en": "Seminar of Exercise Physiology",
+    "syllabus_number": "2110300A",
+    "course_number": "21-3-23-22-05",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "is_primary": true
+        },
+        {
+            "name": "奥本　正",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．運動生理学的測定手法による身体変化の測定法を理解できる。 \n2．環境の違いが身体へ及ぼす影響を理解できる。 \n3．得られた検査測定結果を他者へ伝え、活用できる。 \n4．安全に配慮して実習を行うことができる。",
+    "overview": "運動生理学やスポーツ生化学で学んだ知識について、運動生理学的手法を用い安静時や運動時の身体の生理学的変化の観察を通じて、理解を深める。この講義では、心拍計、血圧計、呼気ガス分析器など多くの測定機器の正しい使い方や得られた結果の意味や内容を理解し、他者へ伝える能力を身につける。また、運動指導やトレーニング、コンディショニングづくりにおいて測定機器で得られたデータを活用できる能力を身につける。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "運動生理学",
+            "スポーツ生化学"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "プレゼンテーション50%、課題レポート40％、学習状況（積極的な授業参画や発言など）10％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "運動による生体の変化を物質レベルから理解することや、実験の考え方を理解することにより論理的な考え方や生が身につきます。 \n授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書の該当ページや資料を通読しておくこと(予習・30分程度)、授業終了後には、授業で行った箇所の復習や練習問題を行い、知識を定着させてください(復習・60分程度)。 \n\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "呼吸器と運動（肺の構造・呼吸発生メカニズムと肺機能）、肺活量の測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "呼吸調節と運動（運動時の呼吸調節機能）、呼気ガス分析器による代謝測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "循環器と運動（中心循環）、超音波法による心臓の観察、心電計を用いた心機能の評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "循環器と運動（末梢循環）、血中酸素飽和度・血圧の測定、筋酸素モニターを用いた筋酸素動態の評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "骨格筋系と運動（筋力）：筋力・筋持久力の測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "骨格筋系と運動（筋形態）：超音波による筋収縮の観察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "骨格筋系と運動（筋活動）：筋電図計による筋電図の測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "無酸素性パワーの測定：自転車エルゴメーターによる無酸素性パワーの測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "運動と代謝：運動による血糖値と血中乳酸濃度の測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "運動とストレス：唾液コルチゾール、アミラーゼの測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "課題決定・測定方法の立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正",
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "実験・測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正",
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "データ解析・発表スライド作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正",
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "奥本　正",
+                "江﨑和希"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

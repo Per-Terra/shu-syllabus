@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:06:04Z",
+    "fetched_at": "2026-06-02T11:55:31Z",
     "name_ja": "レクリエーション論",
     "name_en": "Recreation theory",
     "syllabus_number": "2011780A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,8 +51,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) レクリエーション支援者としての基礎的知識の習得\n(ii)レクリエーション事業について理解を深め生きる喜びにつながることを知る\n(ⅲ)ポートフォリオを用いて、学習内容を振り返ることができる。",
     "evaluation_ratio": {
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

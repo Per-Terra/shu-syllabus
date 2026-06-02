@@ -1,0 +1,213 @@
+{
+    "fetched_at": "2026-06-02T11:57:07Z",
+    "name_ja": "自治体の業務を学ぶ",
+    "name_en": "Learning about the work of local government",
+    "syllabus_number": "2042700A",
+    "course_number": "11-3-26-22-13",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）周南市の業務内容を理解することができる。\n（２）行政事務一般について理解することできる。",
+    "overview": "私たちの生活には、公共サービスは欠かせないものとなっている。身の回りの公共サービスを担っているのが基礎的自治体である市町村である。近年では「地方分権」という言葉に代表されるように、国から地方への権限移譲など基礎的自治体へ求められる役割は大きくなっている。このような中で、私たちは市町村の役割や、担っている事務事業についてどれほど知っているだろうか。本講義では、周南市役所の協力を得て、周南市の行財政の実態の理解を通じて自治体運営の実際について学習を深める。具体的には、周南市役所の多様な部署の職員を迎え、実業務について幅広く解説する。基礎的自治体の行政運営を理解し、基礎的自治体か抱える問題点を指摘し、自分の意見を持って他人とディスカッションすることができるようになることを目標とする。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具",
+        "other": "授業は,授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "・周南市における業務の内容および行政が抱える問題の理解（レポート：50％、グループワーク・発表：50％）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "周南市の自治体運営や実態について知る良い機会です。積極的に質問やコメントをしてください。\n（シラバス内容は一部変更になる可能性があります。）\n\n【予習】事前に資料がアップされる場合には、その資料を熟読すること。（１時間程度）\n【復習】各回の講義終了後、講義内容の要点を整理すること。（２時間程度）",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "周南市役所の組織について（オリエンテーション）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "周南市のまちづくりについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "周南市の財政について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "周南市の防災対策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "周南市のこども政策について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "周南市の一般廃棄物（ごみ）処理について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "“読む”から“支える”へ ― 知の拠点の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "周南市の社会保険制度と市民病院の役割について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "移住交流推進課の業務について\n～ふるさと納税で応援される税金の使い方を考えよう～",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "周南市の水産振興について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "中心市街地の道路整備について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "周南市の上下水道事業について\n～安全で安心な水循環の維持～",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "周南地域における救急医療について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "認知症と共に自分らしく暮らせる地域へ\n～「新しい認知症観」に立った　周南市の認知症施策～",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "これまでの振返り、まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

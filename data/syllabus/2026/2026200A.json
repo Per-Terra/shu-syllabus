@@ -1,0 +1,195 @@
+{
+    "fetched_at": "2026-06-02T11:56:03Z",
+    "name_ja": "国際マーケティング論",
+    "name_en": "International Marketing",
+    "syllabus_number": "2026200A",
+    "course_number": "11-3-28-21-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": null,
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "成績認定用教員",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）国際マーケティングの基本的な知識・戦略を理解できる。\n（２）学んだ知識・戦略を活用して、事例を考察できる。\n（３）自ら国際マーケティング戦略が策定できる。",
+    "overview": "現代社会において、製造業をはじめ、小売業やサービス業などの国際化が急速に進展している。しかし、企業間競争は激化の一途をたどっており、国際事業に係わる意思決定問題もますます複雑になってきた。そのような状況下で、海外市場を開拓するため、どのような国際マーケティング戦略が要求されるのか。本講義では、国際マーケティング論の基礎知識と戦略の理解を目指し、企業の海外展開において最も重要な意思決定問題ともいえる標準化と適応化戦略を深く理解する。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "1からのグローバル・マーケティング",
+            "publication_year": 2017,
+            "author": "小田部正明、栗木契、太田一樹",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": "978-4-502-21851-4",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、パソコン又はタブレット",
+        "other": null
+    },
+    "grading_criteria": "期末試験（60％）、授業内のワーク等（40％）で評価する。\nなお、受講者が少ない場合には期末レポートにする場合がある。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "マーケティング論の基礎知識を復習しながら、国際マーケティング論の全体像、戦略課題を一緒に考えていきましょう。\n予習：次回実施内容を確認の上、該当箇所の通読をお願いします。（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成し、知識・論理的思考を定着させてください。（60～90分）\n※オンライン・オンデマンドで授業をする回がある場合があります。\n\n【オフィスアワー】\n月・火　12:20～12：50",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、イントロダクション／授業計画・授業内容・成績評価・到達目標説明、グローバル化・国際マーケティングとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "2",
+            "content": "グローバル・マーケティングの発展",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "3",
+            "content": "グローバル文化環境",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "4",
+            "content": "グローバル市場調査",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "5",
+            "content": "グローバル市場規模推定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "6",
+            "content": "グローバル市場セグメンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "7",
+            "content": "グローバル・マーケティング戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "8",
+            "content": "グローバル市場参入戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "9",
+            "content": "グローバル製品戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "10",
+            "content": "グローバル・ブランド戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "11",
+            "content": "グローバル価格戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "12",
+            "content": "グローバル・コミュニケーション戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "13",
+            "content": "グローバル営業戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "14",
+            "content": "グローバル小売の店舗戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "15",
+            "content": "全体のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

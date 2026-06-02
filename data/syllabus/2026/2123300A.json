@@ -1,0 +1,327 @@
+{
+    "fetched_at": "2026-06-02T11:59:44Z",
+    "name_ja": "地域福祉キャリア形成活動Ⅱ",
+    "name_en": "Community Welfare Career Development Activity Ⅱ",
+    "syllabus_number": "2123300A",
+    "course_number": "23-2-21-21-07",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "小林　武生",
+            "is_primary": true
+        },
+        {
+            "name": "牛島　豊広",
+            "is_primary": false
+        },
+        {
+            "name": "金子　幸",
+            "is_primary": false
+        },
+        {
+            "name": "北村　光子",
+            "is_primary": false
+        },
+        {
+            "name": "伊藤　敏安",
+            "is_primary": false
+        },
+        {
+            "name": "梅田　勝利",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①子どもや保護者、高齢者や障害のある方個々に合わせたコミュニケーションを実践し関係を構築する力\n②子どもや保護者、高齢者や障害のある方の理解に基づいて、個々の福祉ニーズを捉える力",
+    "overview": "本科目は、2年次夏期休暇中に90時間（10日間程度）の日程で、圏域の社会福祉施設（保育所、高齢者施設、障害者施設を中心とする）で実施する。授業では、子どもや保護者、高齢者や障害のある方と個別的な関わりから、福祉ニーズを捉える力を身に付けることを学習目標として、活動を行う施設の職員、学生、担当教員の三者で協議したプログラムを実施・体験していく。",
+    "diploma_policies": [
+        "福祉学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "適宜、必要な資料を配布、もしくは紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "適宜、必要な資料を配布、もしくは紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "地域福祉キャリア形成活動指導Ⅱ",
+            "地域福祉キャリア形成活動Ⅰ"
+        ],
+        "recommended": [],
+        "required_materials": "必要に応じ適宜案内する",
+        "other": "特になし"
+    },
+    "grading_criteria": "①子どもや利用者個々に合わせた関係構築\n②子どもや保護者、高齢者や障害のある方の理解に基づいて、個々の福祉ニーズを捉える\n上記①～②に関する理解度を以下の割合により評価する。\n\n実習施設からの評価50％、レポート25%、授業内課題25％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 25,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 75
+    },
+    "teacher_message": "実習種別において職業人としての考えや行動を経験しながら、学内で学んだ知識や技術の活かし方、\n職業人としてのあり方について考える機会を大事にしていく。また、子どもや保護者、高齢者や障害のある方との関わりから深く利用者理解を大事にしてほしい。活動に参加するにあたっては、実習施設から指示される課題に加え、その周辺領域の学びもしておくこと。\n\n【オフィスアワー】\n学外実習のため、学生は緊急事態に備えて学内実習担当者と必ず連絡がとれる体制を作る。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "実習先での活動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林武生",
+                "北村光子",
+                "牛島豊広",
+                "金子幸",
+                "梅田勝利",
+                "伊藤敏安"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

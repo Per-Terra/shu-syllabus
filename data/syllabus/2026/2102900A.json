@@ -1,0 +1,237 @@
+{
+    "fetched_at": "2026-06-02T11:57:39Z",
+    "name_ja": "数値解析",
+    "name_en": "Numerical Analysis",
+    "syllabus_number": "2102900A",
+    "course_number": "31-3-22-31-02",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "矢敷　達朗",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "1.関数の数値的な補間法，合成法を理解できる。\n2.関数の数値的な積分法を理解できる。\n3.連立1 次方程式の数値的解放を理解できる。\n4.微分方程式の数値的解放を理解できる。\n5.数値解析手法を実問題に応用するための基本的手法を理解できる。",
+    "overview": "情報技術の発展により誰もが手軽にコンピュータを活用できるようになり、コンピュータシミュレーションが、自然科学や工学、社会科学から医療に至るまで様々な分野で用いられ、実験によらず深い洞察が得られることが多くなってきた。授業では、コンピュータシミュレーションを行う際に、現象を記述するために重要な種々の数学的主題に対する数値解析の基本的な手法と技術の習得を目的としている。具体的には、関数の近似、関数の合成、微分方程式を含む様々な求解問題を扱う。\nなお、一つの単元が終わるごとに、実際にコンピュータプログラムを作成し、入力と出力の関係を具体的な事例を用いて概観する。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Python による数値計算法の基礎",
+            "publication_year": 2021,
+            "author": "橋本 修ほか",
+            "publisher": "森北出版",
+            "price": 2640,
+            "isbn": "978-4-627-74431-8",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット",
+        "other": null
+    },
+    "grading_criteria": "課題提出50%、授業への貢献20%、筆記試験30%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。原則として、欠席3 回以上のものには単位を与えない。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "IT エンジニアの仕事は、必ずしも数値計算の知識がなくてもこなせます。しかし、数値計算が必要な場面もあり、それを知っていることで、より良い設計や効率的な解決策を考えられるようになります。\n授業の予習は必要ありませんが、授業で学んだことをしっかり復習すると、より理解が深まります。\nまた、好奇心を持って「こんなことを学びたい」「こういうことに使えそうだ」と考えながら講義に参加すると、学びの効果がさらに高まります。\n【オフィスアワー】講義のある曜日はメールで受け付けます",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション・数値解析の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "方程式の根",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "曲線の推定(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "曲線の推定(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "関数の合成(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "関数の合成(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "数値積分",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "連立一次方程式(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "連立一次方程式(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "常微分方程式(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "常微分方程式(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "偏微分方程式(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "偏微分方程式(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "確率微分方程式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "最新の話題と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢敷",
+                "達朗"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "担当教員は、企業において発電・産業プラント向けのシミュレーション技術の開発に携わり、これを設計、制御、保守・メンテナンスの分野で活用してきた。講義では、その実務経験を生かし、業務での数値解析やシミュレーションの具体的な応用事例を紹介しながら、実践的なスキルを習得できるよう指導する。"
+}

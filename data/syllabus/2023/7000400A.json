@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:23:03Z",
+    "fetched_at": "2026-06-02T11:58:02Z",
     "name_ja": "教育行政論",
     "name_en": "Theory of Educational Administration",
     "syllabus_number": "7000400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -61,7 +61,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(i) 教育行政の社会的、制度的、経営的知識の習得、(ii) 学校と地域との連携の知識の修得、(ⅲ)学校安全の知識の修得 以上三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
@@ -241,5 +241,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

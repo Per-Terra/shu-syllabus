@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:31Z",
+    "fetched_at": "2026-06-02T11:59:11Z",
     "name_ja": "栄養代謝学",
     "name_en": "Nutrition and Metabolism",
     "syllabus_number": "2115100A",
@@ -8,20 +8,16 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
             "name": "八木　香里",
-            "is_primary": true
-        },
-        {
-            "name": "大平　光子",
             "is_primary": false
         }
     ],
@@ -53,10 +49,10 @@
         {
             "title": "適宜、参考資料を配付する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -66,7 +62,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "筆記試験：100％",
     "evaluation_ratio": {

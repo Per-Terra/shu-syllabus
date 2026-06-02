@@ -1,0 +1,236 @@
+{
+    "fetched_at": "2026-06-02T11:58:15Z",
+    "name_ja": "簿記中級Ⅱ",
+    "name_en": "Intermediate　BookkeepingⅡ",
+    "syllabus_number": "2108400A",
+    "course_number": "11-2-27-22-09",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢野　沙織",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n中規模株式会社の簿記技術の習得を目標とする。\n①日本の会計基準や会社法、会社計算規則等に従った会計処理ができるようになる。\n②株式会社の財務諸表を作成できるようになる。\n③企業の経営活動をイメージできるようになる。",
+    "overview": "簿記中級Ⅰの講義の継続として、グローバル事業を展開し、子会社有する株式会社の経済活動とその結果について、認識・測定・記録するシステムについて本講義では扱う。具体的には、本講義を通じて①外貨建取引、税効果会計など意義と本質について理解でき、②本支店会計、連結会計の構造について理解でき、③企業集団の経済取引がどのように連結貸借対照表と連結損益計算書に集約していくかについて理解できるようになる。また、経理担当者として必要な高度な取引の本質が理解し、適切に会計処理ができる力を身につけることができ、ビジネスマンとして必要な企業集団の連結財務諸表を読み解く力を身につけることができる。簿記中級Ⅰと簿記中級Ⅱの講義の学修を通し、日商簿記検定2級の商業簿記の合格に必要な知識を身につけることができる。",
+    "diploma_policies": [
+        "経営コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "2026年度版 スッキリわかる 日商簿記2級 商業簿記",
+            "publication_year": 2026,
+            "author": "滝澤ななみ",
+            "publisher": "TAC出版",
+            "price": 1650,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "簿記初級Ⅰ",
+            "簿記初級Ⅱ",
+            "簿記中級Ⅰ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書・電卓・ノート・筆記用具",
+        "other": null
+    },
+    "grading_criteria": "毎回授業の最後に小テストを行い、その回の内容の理解度を問う（28％）。\n期末試験では到達目標①～③の習得度を問う（72％）。",
+    "evaluation_ratio": {
+        "exam": 72,
+        "quiz": 28,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前学習・事後学習】\n毎回必ず授業中に取り上げた問題や小テスト、追加問題等の解き直しをすること。\n解き直しは繰り返し行い、合計90分程度行うことが望ましい。\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付ける。\n\nなお、授業計画は、受講生の習得度に合わせて若干変更することがある。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "外貨換算会計",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "税効果会計",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "収益認識の基準",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "決算手続と財務諸表(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "決算手続と財務諸表(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "株主資本等変動計算書の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "帳簿の締め切り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "本支店会計",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "連結会計(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "連結会計(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "連結会計(3)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "連結会計(4)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "連結会計の総合問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "製造業会計",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

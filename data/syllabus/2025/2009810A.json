@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:58Z",
+    "fetched_at": "2026-06-02T11:55:54Z",
     "name_ja": "シナリオ論Ⅰ",
     "name_en": "Scenario Planning I",
     "syllabus_number": "2009810A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -44,7 +44,7 @@
             "映像文化論"
         ],
         "required_materials": "パソコン（必須です。WordとPowerPointが使用できること）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "・シナリオの構成とは何かを理解する・・・・・・30点\n・物語を、構成をしっかりと意識して作る・・・・40点\n※その他は、受講態度（課題をちゃんと出しているかなど）・・・30点",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:20:41Z",
+    "fetched_at": "2026-06-02T11:57:25Z",
     "name_ja": "経営組織論Ⅰ",
     "name_en": "Management Organization　Ⅰ",
     "syllabus_number": "2036200A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
             "経営戦略論"
         ],
         "required_materials": "パソコン、タブレットなど電子資料の閲覧、オンライン課題ができる端末、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①\t組織の概念、基本理論、②諸理論の使い分け、③具体的な組織問題の分析について「学生に対する評価」の内容で評価する\n※「その他」は授業中の課題と宿題、履修人数が多い場合、発表の20％をレポートに変更する",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

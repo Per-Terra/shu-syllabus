@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:21:11Z",
+    "fetched_at": "2026-06-02T11:57:33Z",
     "name_ja": "社会福祉士特別セミナーⅤ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2038800A",
     "course_number": "05HS403",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -54,7 +54,7 @@
             "社会福祉士特別セミナーⅣ"
         ],
         "required_materials": "ファイルノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①基礎知識の習得\n②学習計画の管理",
     "evaluation_ratio": {
@@ -234,5 +234,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

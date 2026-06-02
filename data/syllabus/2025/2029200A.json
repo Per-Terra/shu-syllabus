@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:58Z",
+    "fetched_at": "2026-06-02T11:57:07Z",
     "name_ja": "高齢者福祉Ⅰ",
     "name_en": "Social work for the Elderly Ⅰ",
     "syllabus_number": "2029200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

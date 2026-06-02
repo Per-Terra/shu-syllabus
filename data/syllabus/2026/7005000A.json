@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T12:00:38Z",
+    "name_ja": "精神保健",
+    "name_en": "Mental Health",
+    "syllabus_number": "7005000A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "末次　絵里子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "精神保健の基礎を理解した上で、学校教育場面で想定される様々な問題への心理的支援について適切な対処方\n法を探究していく力を身に付けることを目標とする。",
+    "overview": "精神保健の基礎的な問題について体系的に説明する。さらに、心理臨床的な対人援助の基本について、知識と\n技術を学んでもらうことができるよう、具体的事例をもとに考えていく時間や、自己と他者を見つめるための\nスキルを身に付ける実践的体験も取り入れていく。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [
+        {
+            "title": "子どもの精神保健テキスト　改訂第3版",
+            "publication_year": 2023,
+            "author": "古庄純一編",
+            "publisher": "診断と治療社",
+            "price": 3300,
+            "isbn": "9784787826138",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": null,
+        "other": "なし"
+    },
+    "grading_criteria": "毎回のレポート提出、授業内での発表、小テストなどから、総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 15,
+        "report": 70,
+        "presentation": 15,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "毎回の授業の終わりに、復習用のテーマを提示します。そのテーマをもとに復習をしてレポート作成をし、指定の期日までにご提出ください（所要時間約60分程度）。次回授業時には、フィードバックの時間を設けます。また、授業の終了時には、次回授業時の主要テーマのお知らせをしますので、教科書の所定部分をよく読み、下調べをしておくようにしてください（所要時間約60分）。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "精神保健総論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "精神保健の歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "ライフサイクルと精神保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "現代社会と精神保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "臨床心理学視点と精神保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "発達心理学視点における心の到達課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "学校教育場面における今日的課題と精神保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "地域精神保健活動について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "精神保健事例研究１（児童虐待）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "精神保健事例研究２（発達障害）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "精神保健事例研究３（不登校）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "精神保健事例研究４（いじめ）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "精神保健事例研究５（非行等）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "自己と他者のための心の健康つくりとは",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "精神保健における今後の展望",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:01:24Z",
+    "fetched_at": "2026-06-02T11:56:36Z",
     "name_ja": "機械学習入門",
     "name_en": "Introduction to Machine Learning",
     "syllabus_number": "2026600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "松村　遼",
@@ -58,7 +58,7 @@
             "応用数学"
         ],
         "required_materials": "ノートPC（毎回持参するようにしてください）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標に挙げる ①機械学習ついての理解　②回帰、分類、クラスタリング手法についての理解　③機械学習モデルの性能評価方法についての理解　を「学生に対する評価」の内容により評価する。",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

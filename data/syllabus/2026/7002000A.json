@@ -1,0 +1,214 @@
+{
+    "fetched_at": "2026-06-02T12:00:24Z",
+    "name_ja": "情報科教育法Ⅰ",
+    "name_en": "Educational Method for Information I",
+    "syllabus_number": "7002000A",
+    "course_number": "31-3-91-21-02",
+    "departments": [
+        "福祉情報学部",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "阿濱　茂樹",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "情報科の目標や内容を理解するとともに，基礎的な学習理論を理解し，教材開発や授業設計を行う方法，設計された授業を実践する技能を身に付ける。\n【到達目標】\n情報科の目標や内容について理解し，情報科の授業設計や教材開発ができる。\n情報科の授業を構想し，具体的な学習指導を実践する基礎的な力を身につける。",
+    "overview": "情報科の意義や学習指導要領に示された教科の内容について座学で学びます。また，情報科の学習デザインや学習評価，教材開発の方法について座学に演習を交えて実践的に学びます。さらに，演習として授業を構想して実際に模擬授業を行い，省察と再考を試みます。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "情報科の目標や内容について正確に理解しているか小テストやレポート，ポートフォリオで評価します。情報科の授業設計や教材開発を効果的にできるかどうか発表で評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 50,
+        "presentation": 20,
+        "portfolio": 10,
+        "other": 0
+    },
+    "teacher_message": "指導案や教材を作成する課題は授業時間外に取り組んでいただくことになるかもしれませんが、教育実習などでは役に立つものだと思います。積極的に取り組むようにしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業オリエンテーション：情報科の学習指導に必要な基礎知識の確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "教科の内容と目的：情報科の内容と学習する目的についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "学習指導要領の解説①：情報Ⅰについての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "学習指導要領の解説②：情報Ⅱについての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "情報科の学習デザイン：情報科の学習デザインについての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "情報科の評価：情報科の評価方法についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "情報科の教材：情報科の教材開発方法についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "情報科の教材開発演習：情報科の教材開発の演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "開発した教材の発表と省察：開発した教材の発表と自己評価・他者評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "情報科の授業設計：情報科の授業設計についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "情報科の授業検討：情報科の学習指導案の試作",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "情報科の授業検討の発表：試作した学習指導案の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "情報科の授業の省察と再考：指導案の省察と再考",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "情報科の歴史：情報科および関連教科等の歴史についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "情報科についての国際比較：諸外国における情報教育科目についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:07:28Z",
+    "fetched_at": "2026-06-02T12:00:16Z",
     "name_ja": "教育実習基礎講座Ⅰ",
     "name_en": "Seminar for Prepare for Teaching Practice I",
     "syllabus_number": "7002900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -85,7 +85,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "本授業では、教育実習に向けて必要な準備を行います。4年生の先輩と協力しながら、学習指導案作りやマイクロティーチングに取り組み、実践的な力量を形成していきましょう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "本授業では、教育実習に向けて必要な準備を行います。4年生の先輩と協力しながら、学習指導案作りやマイクロティーチングに取り組み、実践的な力量を形成していきましょう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -269,5 +269,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

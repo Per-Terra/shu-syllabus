@@ -1,0 +1,416 @@
+{
+    "fetched_at": "2026-06-02T11:52:54Z",
+    "name_ja": "ドイツ語Ⅱ",
+    "name_en": "German II",
+    "syllabus_number": "1004800A",
+    "course_number": "11-2-13-21-01、21-2-13-21-01、23-2-13-21-01、31-2-13-21-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科",
+        "人間健康科学部 看護学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "ドイツ語Ⅰ既修者を対象とするクラスであることから、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。\nドイツ語圏の生活で実際に使用頻度の高いパターンをマスターし、語句の入れ替えによって、より多くのことが伝えられるようになる。",
+    "overview": "ドイツ語 Iに引き続き、初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。基本文法を体系的に学びながら語彙力・表現力を増し、辞書を使いながら平易な文を読んだり書いたり話したりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n＊ドイツ語Ⅰで使用したテキストと辞書は必ず持ってくること。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "ドイツ語会話５５の鉄則表現",
+            "publication_year": 2013,
+            "author": "前田　俊秀",
+            "publisher": "三修社",
+            "price": 1980,
+            "isbn": "9784384042917",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "ドイツ語Ⅰ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "テキスト（ドイツ語Ⅰで使用したテキストを含む）、ノート、独和・和独辞書",
+        "other": "なし"
+    },
+    "grading_criteria": "「試験」60％、「その他」40％で評価する。「その他」は授業中に指定した課題、小テスト、ワークシートや参加態度・意欲などに対する評価とする。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "「ドイツ語Ⅰ」での既習文法の復習をしながら、使えるドイツ語を目指して頑張りましょう！\n\n毎時間「ドイツ語Ⅰ」で使用したテキストと辞書を持参してください。\n\n授業前後に３０分～１時間は単語調べなどの予習、習った表現の言いかえなどの復習をしましょう。\n＊皆さんの理解度に応じて、授業計画の内容に変更があることを承知しておいてください。また、変更の際には、皆さんにはきちんと説明します。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "授業の進め方についてのオリエンテーション\n発音練習・文法のおさらい",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "Lektion1\n文法のおさらい\n基本単語の確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "Lektion1\n文法のおさらい\n基本単語の確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "Lektion1\n文法のおさらい\n基本単語の確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "Lektion２\n「私は～です。」「私は～ではありません。」「あなたは～ですか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "Lektion２\n「私は～の状態です。」「～をお願いします。」「～してください。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "Lektion２\n「～がほしいです。」「～をください。」「～がしたいです。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "Lektion２\n「～したいですか？」「～したくない。」「～するつもりだ。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "Lektion２\n「私は～だろう。」「私は～を持っている。」「～はありますか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "Lektion２\n「～ありますか？」「～してもいいですか？」「～してもらえますか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "Lektion２\n「～していただけますか？」「私は～できます。」「私は～できますか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "Lektion２\n「～できますか？」「私は～しなければなりません。」「～しなければなりませんか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "Lektion２\n「～する必要はありません。」「～しました。」「～しました。」「～したことがあります。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "Lektion２\n「～しましたか？」「～したことがありますか？」「～しませんでした。」「～はどこですか？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "Lektion２\n「何をしますか？」「いくらですか？」「どうやって？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１６",
+            "content": "Lektion２\n「どのくらい？」「どのくらい多く？」「どんな種類の？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１７",
+            "content": "Lektion２\n「誰が？」「誰のもの？」「いつ？」「なぜ？」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１８",
+            "content": "Lektion２\n形式主語のes　「これは～です。」「これは～ではありません。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "１９",
+            "content": "Lektion２\n「これは／あれは～ですか？」「これは～すぎる。」「私は～するのが好きです。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２０",
+            "content": "Lektion２\n「～が好きですか？」「一緒に～しましょうか？」「～より～のほうが好き。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２１",
+            "content": "Lektion２\n症状や体の具合を表す　「これが～です。」「私は～を探しています。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２２",
+            "content": "Lektion２\n「～時～分です。」「私は～にします。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２３",
+            "content": "Lektion２\n「～をなくしました。」「私は～だと思います。」",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２４",
+            "content": "Lektion３\n日常生活の基本ショートフレーズ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２５",
+            "content": "Lektion３\n日常生活の基本ショートフレーズ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２６",
+            "content": "Lektion３\n日常生活の基本ショートフレーズ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２７",
+            "content": "Lektion３\n日常生活の基本ショートフレーズ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２８",
+            "content": "Lektion４\n入れ替えて使えるドイツ語単語",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "２９",
+            "content": "Lektion４\n入れ替えて使えるドイツ語単語",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "３０",
+            "content": "試験対策",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "３１",
+            "content": "期末試験（教室、時限についてはゲット通知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

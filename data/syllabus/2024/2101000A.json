@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:07Z",
+    "fetched_at": "2026-06-02T11:58:26Z",
     "name_ja": "微分積分基礎",
     "name_en": "Basics of Calculus",
     "syllabus_number": "2101000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "道山　知成",
@@ -56,8 +56,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "中間試験，期末試験，小テストの総合評価",
     "evaluation_ratio": {
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

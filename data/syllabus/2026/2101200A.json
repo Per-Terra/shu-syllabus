@@ -1,0 +1,243 @@
+{
+    "fetched_at": "2026-06-02T11:57:26Z",
+    "name_ja": "確率統計基礎",
+    "name_en": "Introduction to Probability and Statistics",
+    "syllabus_number": "2101200A",
+    "course_number": "31-2-21-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．確率論の基本概念を理解し、全確率の公式を利用して確率の計算ができる。\n２．統計学の基本的な考え方を理解し、基本的な統計量の計算および統計モデルを実データに適用することができる。",
+    "overview": "本講義では、データ分析や確率モデルの学習のための基礎である確率と統計の基本的な事項について説明する。前半は確率の考え方を公理的確率論の枠組みで説明し、客観確率と主観確率が存在することを理解する。特に、確率計算の際に重要な道具となる全確率の公式の導出および利用について学ぶ。また、統計的推定や検定において中心的な枠割を演じる大数の法則と中心極限定理について説明する。後半は統計学の考え方として頻度主義の解釈とベイズ的解釈が存在することを説明し、問題に応じて使い分けることを理解したうえで、頻度主義に基づく推定と検定方法を説明する。また、説明変数と被説明変数を理解し、この枠組みで回帰モデルやファクターモデルを説明し実データに適用する際の手順を理解する。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Excel & VBAで学ぶファイナンスの数理",
+            "publication_year": 2003,
+            "author": "木島 正明, 青沼 君明",
+            "publisher": "金融財政事情研究会",
+            "price": 2970,
+            "isbn": "978-4322104073",
+            "available_on_campus": false
+        },
+        {
+            "title": "金融数学・確率統計 (EXCELで学ぶファイナンス)",
+            "publication_year": 1995,
+            "author": "木島 正明",
+            "publisher": "金融財政事情研究会",
+            "price": 2456,
+            "isbn": "978-4322222111",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "微分積分基礎"
+        ],
+        "required_materials": "ノートPC，タブレット等",
+        "other": "特になし"
+    },
+    "grading_criteria": "講義中の中間試験（40点 程度），期末試験（40点程度）その他 講義中のアンケート参加などで 20 点程度の評価とする．",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "不確実性の時代と言われるように、我々の身の回りには多くの確率現象が存在します．また、ICT の発達によりビッグデータが簡単に入手できるようになり、政府はデータ駆動型社会を目指しています。『統計学が最強の学問である：データ社会を生き抜くための武器と教養』という本がベストセラーになったように、現在および未来の社会では確率統計の素養が求められています。\n事前学習、事後学習の時間：あわせて90分程度。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、生活の中の確率、確率の捉え方、ラプラスの悪魔、不確実性とリスク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "確率基礎：事象、確率測度、確率変数、独立、全確率の公式、ベイズの定理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "確率分布：離散分布と連続分布、密度関数と分布関数、多変量分布、平均、分散、標準偏差、相関係数",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "積率母関数と特性関数、大数の法則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "離散分布：ベルヌーイ試行、二項分布、幾何分布、ポアソン分布、小数の法則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "連続分布：正規分布、一様分布、指数分布、ｔ分布、逆関数法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "正規分布と中心極限定理、多変量正規分布、コレスキー分解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "中間試験：確率基礎の復習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "統計学の考え方：調査と標本、データ可視化、統計量、標本平均、標本分散、バイアス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "推定と検定：点推定、区間推定、大数の法則と中心極限定理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "回帰モデル：説明変数と被説明変数、残差、最小二乗法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "自己回帰モデル：相関関係と因果関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ファクターモデルと因子分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "回帰と分類：偽陽性と偽陰性、数量化モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "判別分析とクラスタリング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小柳　淳二"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

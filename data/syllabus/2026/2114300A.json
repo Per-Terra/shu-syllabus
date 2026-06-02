@@ -1,0 +1,276 @@
+{
+    "fetched_at": "2026-06-02T11:58:54Z",
+    "name_ja": "野外実習（組織キャンプ）",
+    "name_en": "Outdoor Activity (organized camp)",
+    "syllabus_number": "2114300A",
+    "course_number": "21-3-27-11-02",
+    "departments": [
+        "スポーツ健康科学"
+    ],
+    "category": "専門科目",
+    "home_department": "スポーツ健康科学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "櫻木　規美子",
+            "is_primary": false
+        },
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        },
+        {
+            "name": "永山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.社会における組織キャンプの役割を理解できる。\n2.キャンプのマネジメント（企画・運営・評価・改善）を理解できる。\n3.集団行動の重要性を理解し、組織における役割責任を果たすことができる。",
+    "overview": "自然環境の中での共同生活や様々な自然に親しむ活動を通して、好ましい人間関係や自然を愛する心を育むといった特性について理解したうえで、実施計画の作成、テントの設営や生活の仕方、野外料理、キャンプクラフト、キャンプファイヤー、自然観察、野外レクリエーションについて学ぶ。また、実施計画における、キャンプ地の選定、プログラムの作成、食糧や装備の計画と準備、組織の編成と役割分担、健康チェック、自然環境の変化への対応などについて学修する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "キャンプ指導者入門　第5版（キャンプインストラクター養成用）",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "ロープスコースガイドブック",
+            "publication_year": null,
+            "author": null,
+            "publisher": "プロジェクトアドベンチャージャパン",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "みんなのPA系ゲーム　243",
+            "publication_year": null,
+            "author": null,
+            "publisher": "杏林書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題レポート100%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "日常生活の場から離れて、大自然の中での生活や自炊生活など自然の諸条件に対処しながら、さまざまな体験を通して様々なことを学ぶ実習である。本実習の受講に際し、野外教育論を受講しておくことが望ましい。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業の概要　野外活動の意義と現状",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "野外活動の安全",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "登山の計画と安全",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "野外調理の方法と計画",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "野外ゲームおよびキャンプファイヤーの意義と計画",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "野外ゲーム（1）：アイスブレイキングの方法と実践",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "野外ゲーム（2）：イニシアティブゲーム（課題解決型の野外活動）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "野外調理（1）： 食材準備と用具確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "野外調理（2）：用具の取り扱い方法と火起こし",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "野外調理（3）：炊飯と調理",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "野外調理（4）：火の始末と後片付け",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "キャンプファイヤーの意義と実践",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "登山の実践（1）：登山計画と装備の確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "登山の実践（2）：集団登山の方法と指導上の注意点",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "登山の実践（3）：登山のルールとマナー",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎",
+                "櫻木　規美子",
+                "永山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

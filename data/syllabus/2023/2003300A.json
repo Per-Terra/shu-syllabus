@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:02:06Z",
+    "fetched_at": "2026-06-02T11:54:23Z",
     "name_ja": "地域づくり論",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2003300A",
     "course_number": "00TP201",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "（ⅰ）「地域づくり」に取り組むにあたって必要となる基本的な知識・手法を習得する\n（ⅱ）「地域づくり」について、具体的な取り組み事例を理解する\n各基準を⑪によって評価する",
     "evaluation_ratio": {

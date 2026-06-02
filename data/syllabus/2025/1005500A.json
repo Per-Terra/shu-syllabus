@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:25Z",
+    "fetched_at": "2026-06-02T11:52:53Z",
     "name_ja": "水泳",
     "name_en": "Swimming",
     "syllabus_number": "1005500A",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "author": "（財）日本水泳連盟",
             "publisher": "大修館書店",
             "price": 5500,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -51,7 +51,7 @@
             "author": "合屋十四秋",
             "publisher": "インプレスR&G",
             "price": 2000,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -60,7 +60,7 @@
             "author": "⽂部科学省",
             "publisher": "アイフィス",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -69,7 +69,7 @@
             "author": "健康・体力づくり事業財団",
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -242,5 +242,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

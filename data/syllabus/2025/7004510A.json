@@ -1,0 +1,210 @@
+{
+    "fetched_at": "2026-06-02T12:00:23Z",
+    "name_ja": "バスケットボールⅠ",
+    "name_en": "Basketball I",
+    "syllabus_number": "7004510A",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "バスケットボールにおける基本的なルールや特性を理解し，作戦や状況に応じた技能や仲間と連携した動きを高めてゲームが展開できるようになることを目指す。また、指導に必要なスキルや態度も学ぶ。\n 到達目標は以下の3つである。\n(i)技能や連携した動きを用いてゲームを展開できる（技能）\n(ii)主体的に取り組める（態度）\n(iii)基礎知識を理解できる（知識）",
+    "overview": "バスケットボールにおける基本的なルールや特性について解説する．その後，ボールハンドリングやゲームを実施する．また、模擬授業を実施させる。受講に際しては，充分に運動実施が可能な体調であること，運動に適した服装であることを求める．\n\n※運動ができる服装で、室内シューズを着用すること。\n\n※更衣場所を守り、ドリンクはふたのできるものを持参する。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "参考資料は適宜配布します。"
+    },
+    "grading_criteria": "授業中の取り組みや態度、レポート課題などを含め総合的に評価を行います。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "運動に適した服装（Tシャツ、ジャージ等）と室内専用シューズを着用してください。授業当日、ウエアやシューズを忘れた場合は、怪我防止のため見学とします。安全のため、時計、アクセサリー等は外して受講してください。体調管理をして授業に臨み、体調に違和感を覚えた場合や怪我が発生した場合は、すみやかに申し出てください。体育館は他の授業がない限り、授業開始前から使用可能です。技術の向上を目指した自主練習を60分程度取り組むことを期待しています。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（本講義の目的と概要）\nウォーミングアップ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "コーディネーション、シュート",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ボール保持、基本姿勢、トリプルスレッド、ボールハンドリング、ドリブル",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ボールハンドリング、パス、2人でのコンビネーション",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "数的優位の時の状況判断（2対1、3対2、1対1）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "2対2、3対3、ディフェンスの基本形、ボールマンディフェンス",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ディフェンスの基本\n（オフボールマン、4人でのディフェンスポジショニング）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ディフェンスの基本\n（4人でのディフェンスポジショニング及びローテーション、リバウンディング、タイミング）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "リバウンディング\n（タイミング、ボックスアウト、基本的なミニゲーム、３対３）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "オフェンス（３対０から４対０、５対０）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ディフェンス（エンドからのスローイン、サイドからのスローイン）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ミニゲーム（７分から１０分程度のスクリメージ、ゲームプランを立ててのスクリメージ）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ミニゲーム（ゲームプランを立ててのスクリメージ、メンバーチェンジ等をするチーム戦術を立てる、タイムアウトを取ったケースでのチーム戦術を立てる）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ゲーム（ゲームプランを立てゲームをする）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ（反省や今後に生かすことを考えてディスカッションを行う）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

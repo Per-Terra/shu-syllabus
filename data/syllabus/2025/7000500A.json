@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:07:05Z",
+    "fetched_at": "2026-06-02T12:00:01Z",
     "name_ja": "教育課程論",
     "name_en": "Theory of Curriculum",
     "syllabus_number": "7000500A",
@@ -12,12 +12,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -77,7 +77,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標である①教育課程の役割や意義、②教育課程編成の原理と方法、③学校における教育課程の分析、④今日的な教育課程編成の理論をふまえた教育課程の構想、の4点全てをレポートにおいて70％分の評価を行う。残り30％分は各回のコメントシートやミニレポート等の講義内の提出物によって評価を行う。",
     "evaluation_ratio": {
@@ -242,5 +242,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

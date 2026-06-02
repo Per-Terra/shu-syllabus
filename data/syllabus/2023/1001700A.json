@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:38Z",
+    "fetched_at": "2026-06-02T11:52:41Z",
     "name_ja": "人文地理学Ⅱ",
     "name_en": "Human Geography II",
     "syllabus_number": "1001700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
         "recommended": [
             "人文地理学Ⅰ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は使用せず毎時プリントを配布します。遅刻、途中退出、私語は厳禁です。"
     },
     "grading_criteria": "1）試験は、立地論を中心とした人文地理学の知識（1回目から11回目の内容）を理解しているかどうか、2）発表・実技は、12回目から14回目授業時のディスカッションで分かりやすく自分の考えを説明できているかどうか、で評価します。また、3）その他は、授業への積極的な参加度（地図や統計データの読み取り、ディスカッションでの積極的な発言など）で評価します。",
@@ -210,5 +210,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

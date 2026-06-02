@@ -1,0 +1,224 @@
+{
+    "fetched_at": "2026-06-02T11:57:52Z",
+    "name_ja": "会計情報と経営",
+    "name_en": "Accounting and Management",
+    "syllabus_number": "2104700A",
+    "course_number": "27-2-29-32-01、31-2-24-32-03",
+    "departments": [
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "会計は投資家への情報開示を目的とした、法律などによって定められた財務会計と、企業などが内部の費用管理や生産計画管理に使用する管理会計に分けられる。会社の円滑な経営のためには、 これらの情報について知っておかなければならない。 本講義では、財務会計で基本的な内容の、 貸借対照表、損益計算書、キャッシュフロー計算書、複式簿記について説明し、管理会計で基本的な内容の損益分岐点、固定費用、変動費用による売り上げ目標の立て方、回収期間法、ROI 法、NPV 法などの投資評価などについて説明する。",
+    "overview": "１．簡単な貸借対照表、損益計算書、キャッシュフロー計算書の作成ができる。\n２．損益分岐点や固定費、変動費の計算ができる。\n３．様々な投資評価の方法で投資評価ができる。",
+    "diploma_policies": [
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "「管理会計の基本」がすべてわかる本 第2版",
+            "publication_year": 2017,
+            "author": "金子智朗",
+            "publisher": "秀和システム",
+            "price": 1650,
+            "isbn": "4798052175",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "特に無し"
+        ],
+        "recommended": [
+            "特に無し"
+        ],
+        "required_materials": "特に無し",
+        "other": "特に無し"
+    },
+    "grading_criteria": "中間演習 50点 程度、期末演習 50点 程度の合計 100 点で評価する。 おおむね、 中間演習は 1-7 回の内容、期末演習は 9-13 回の内容で出題する。補助的に追試、レポートなどを課し 10% 程度評価に含めることもある。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 90,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "会計の考えは経営上大事な知識である。経営者でなくとも会社の状況分析に必要である。事前学習、事後学習の時間：あわせて90分程度。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "財務会計について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "貸借対照表の概略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "貸借対照表の詳細",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "損益計算書の概略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "損益計算書の詳細",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "キャッシュフロー計算書",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "複式簿記",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "中間演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "管理会計について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "損益分岐点、固定費用、変動費用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "固定費用、変動費用の計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "投資の評価（回収期間法、ROI 法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "投資の評価（NPV 法、IRR 法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "期末演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "本講義のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁　淳二"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,0 +1,227 @@
+{
+    "fetched_at": "2026-06-02T11:52:58Z",
+    "name_ja": "情報リテラシー",
+    "name_en": "Information literacy",
+    "syllabus_number": "1008500A",
+    "course_number": "11-1-14-21-05、21-1-14-21-04、22-1-14-21-03、23-1-14-21-04、31-1-14-21-05",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "日置　智子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "１．ノートPC の携行を常とし、学内外のネット上にある情報資源を有効に活用するための基本的な知識と技術を備えている。\n２．ワープロ（文書処理）や表計算の概念、プレゼンテーションの基礎技能を習得し、3 級レベルの検定試験に合格する実力を備えている。\n３．LMS 等へのアクセスが慣習となり、学内システム上に挙げられている情報や教材を活用し、自らが能動的に学んでいく学修姿勢（アクティブラーニング）と生活態度を身につけている。",
+    "overview": "現代の情報化社会ではICT 活用能力は必須である。情報ネットワークに接続しそこにある有用な情報を余すことなく活用して生きていくための基本的な技術と習慣を身につけておく必要がある。情報教育システム活用への導入編となる講義科目が「情報リテラシー」である。現代の情報化社会において不可欠となるICT基礎技術や手法の習得を目指す。本授業はオンデマンド型の授業として実施する。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP3",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートPC",
+        "other": "LMS で提示された e-learning 教材に、ノートパソコンでアクセスして進めていく授業です。したがって、LMS 上で提示された e-learning 教材が教科書になります。"
+    },
+    "grading_criteria": "１．情報資源の有効活用、２．ワープロ＆表計算＆プレゼンテーションの基礎技能、３．LMS 等を活用したアクティブラーニング\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 15,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ノートPC を常時携行し、学内クラウド上の資源をフルに活用しながら、有意義な学修生活を送っていきましょう。この情報リテラシーは、そのための入り口となる科目です。\n授業に参加するにあたっては、次回の「授業の内容」に含まれるキーワードを参考にインターネットや書籍で情報収集し(予習・45分程度)、授業終了後には、授業時に提示した e-learning 教材の重要箇所の再確認を行い、知識を定着させてください(復習・45分程度)。\n【オンデマンドのオフィスアワー】オンデマンド教材の配信日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Windowsの基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "情報倫理とセキュリティ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "情報端末とネットワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "情報の検索",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "IoT技術とスマートシティ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "プログラミング的思考とチャート図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "オンラインサービスとeコマース",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "文書作成ソフトの活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "プレゼンテーションソフトの活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "表計算ソフトの基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "表計算ソフトによる図表の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "表計算ソフトによる関数の活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "アンケート調査の基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

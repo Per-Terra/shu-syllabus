@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:21Z",
+    "fetched_at": "2026-06-02T11:59:05Z",
     "name_ja": "ゴール型球技",
     "name_en": "Goal type ball game",
     "syllabus_number": "2113700A",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -46,7 +46,7 @@
             "author": "公益財団法人　日本バスケットボール協会",
             "publisher": "大修館書店",
             "price": 2100,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -55,7 +55,7 @@
             "author": "公益財団法人　日本バスケットボール協会",
             "publisher": "大修館書店",
             "price": 2600,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:03:56Z",
+    "fetched_at": "2026-06-02T11:58:16Z",
     "name_ja": "線形代数基礎",
     "name_en": "Linear Algebra",
     "syllabus_number": "2100600A",
@@ -10,12 +10,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "主に、中間テストと期末テストを用いて各講義の内容の理解度を評価する。毎週小レポートを課し、各単元の理解度も確認する。授業への取り組み姿勢も評価対象となるため、出席点も加点する。評価基準は下記とする。\n中間テスト(40%)、期末テスト(40%)、小レポート(10%)、その他（10%）\nこれらを総合して概ね6割程度の理解度を達成している者を合格とする。",
     "evaluation_ratio": {
@@ -63,7 +63,7 @@
         "portfolio": 0,
         "other": 10
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

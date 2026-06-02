@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:22Z",
+    "fetched_at": "2026-06-02T11:59:39Z",
     "name_ja": "地域福祉キャリア形成活動指導Ⅰ",
     "name_en": "Field Instruction in Community Welfare Career Development ActivityⅠ",
     "syllabus_number": "2123000A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -79,7 +79,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "①学外である保育所、社会福祉施設で実習を行う意義の理解 \n②社会人としての態度・行動の理解 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性の理解 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とのコミュニケーション方法の理解\n\nその他は、各分野での学習成果物や学習態度など総合的に勘案し、評価する。",
@@ -320,5 +320,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

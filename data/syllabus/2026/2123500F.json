@@ -1,0 +1,210 @@
+{
+    "fetched_at": "2026-06-02T11:59:47Z",
+    "name_ja": "卒業研究Ⅰ",
+    "name_en": null,
+    "syllabus_number": "2123500F",
+    "course_number": "2123500",
+    "departments": [
+        "福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "北村　光子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n本科目は、学生が主体的に取り組む研究過程を通じて、卒業研究における研究課題の明確化、科学的アプローチの方法の理解、論理的思考、研究的な視点や態度を修得することにある\n【到達目標】\n①社会福祉領域で解決すべき課題について説明することができる。\n②研究課題に関し文献を収集し、内容について説明することができる。\n③科学的根拠を導くための調査方法について説明することができる。\n④研究計画の文章化し、内容についてすることができる。\n⑤研究活動における倫理について説明することができる。",
+    "overview": "授業では、研究テーマを決定するために必要な文献収集の方法、研究課題の設定の方法、調査方法、データ分析の方法について解説し、研究計画書を作成する。また、研究倫理についても説明し、責任ある学術研究活動に取り組む。",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "資料を適宜配付する。",
+        "other": null
+    },
+    "grading_criteria": "①社会福祉領域で解決すべき課題\n②研究課題に関し文献を収集\n③科学的根拠を導くための調査方法\n④研究計画の文章化\n⑤研究活動における倫理\n上記①～⑤に関する理解度を以下の割合により評価する。\n\n授業内課題（提出物含む）100％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 100,
+        "other": 0
+    },
+    "teacher_message": "卒業論文は、福祉を「制度」だけでなく「文化」として捉え直し、自分の視点で社会に問いを投げかける機会です。また、世代を超えた関わりには、社会を柔らかくし、人の生き方を豊かにする力があります。\n本ゼミでは、人・地域・歴史に丁寧に向き合いながら、あなた自身の言葉で福祉の意味を探究する姿勢を大切にします。迷ったときは一緒に立ち止まり、考えを深めていきましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "卒業研究の意義と目的",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "卒業研究の進め方と執筆スケジュール",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "卒業研究テーマの検討①テーマの探索",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "卒業研究テーマの検討②文献収集の方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "卒業研究テーマの検討③文献収集",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "卒業研究テーマの検討④先行研究の整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "卒業研究テーマの検討⑤研究テーマの発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "研究方法の検討①研究方法の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "研究方法の検討②研究テーマに沿った研究方法の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "研究方法の検討③研究方法の決定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "研究活動における倫理の理解と倫理申請の方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "研究計画の作成①研究計画を作成する目的",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "研究計画の作成②研究計画書の作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "研究計画の発表①パワーポイントを作成し発表準備",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "研究計画の発表②研究計画の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北村　光子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "介護福祉士やSW、保育士としての実務経験、また、短大・大学などの教授経歴。\nそれに加え、長崎県介護福祉士会理事、副会長（現在に至る）また、福岡市の１保育園の理事を務めていたことから、福祉文化を基にSWに通じる学びなどを構築していきたいと思います。"
+}

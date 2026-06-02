@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:03:30Z",
+    "fetched_at": "2026-06-02T11:57:25Z",
     "name_ja": "運動生理学",
     "name_en": "Exercise Physiology",
     "syllabus_number": "2034500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "江﨑　和希",
@@ -47,14 +47,14 @@
             "author": "公益財団法人健康・体力づくり事業財団",
             "publisher": "株式会社　南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考資料は、授業中に適時配布する。"
     },
     "grading_criteria": "筆記試験70％、小テスト30％をもとに総合的に評価する。",
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

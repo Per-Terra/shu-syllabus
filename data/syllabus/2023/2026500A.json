@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:17:36Z",
+    "fetched_at": "2026-06-02T11:56:39Z",
     "name_ja": "アルゴリズム",
     "name_en": "Fundamental Algorithms",
     "syllabus_number": "2026500A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -62,7 +62,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具、ノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "アルゴリズムの設計と解析、アルゴリズムとプログラムの関係性に関する理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

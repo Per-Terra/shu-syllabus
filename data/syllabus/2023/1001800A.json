@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:41Z",
+    "fetched_at": "2026-06-02T11:52:41Z",
     "name_ja": "経済学(a)",
     "name_en": "Economics",
     "syllabus_number": "1001800A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -47,7 +47,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
     "grading_criteria": "期末に実施する「試験」、授業の中で実施する「小テスト」を評価対象とする。",

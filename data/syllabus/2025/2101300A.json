@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:05Z",
+    "fetched_at": "2026-06-02T11:58:21Z",
     "name_ja": "AI・機械学習基礎",
     "name_en": "AI/Machine Learning Fundamentals",
     "syllabus_number": "2101300A",
@@ -10,12 +10,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -72,7 +72,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標に挙げる 1. 機械学習ついての理解　2. 回帰、分類、クラスタリング手法についての理解　3. 機械学習モデルの性能評価方法についての理解　を以下により評価する。",
     "evaluation_ratio": {
@@ -237,5 +237,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

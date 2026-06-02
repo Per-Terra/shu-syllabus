@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:02:14Z",
+    "fetched_at": "2026-06-02T11:54:25Z",
     "name_ja": "経営学総論",
     "name_en": "Introduction to Management",
     "syllabus_number": "2004000A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -61,7 +61,7 @@
             "企業概論"
         ],
         "required_materials": "教科書、パソコン又はタブレット。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業計画に記載している内容に基づいた試験で成績を評価をします。\nなお、授業への参加態度により加点又は減点する場合があります。",
     "evaluation_ratio": {
@@ -376,5 +376,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

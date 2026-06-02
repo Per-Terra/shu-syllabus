@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:11Z",
+    "fetched_at": "2026-06-02T11:59:00Z",
     "name_ja": "アスレティックトレーニング概論",
     "name_en": "Introduction to Athletic Training",
     "syllabus_number": "2110600A",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "author": "公益財団法人 日本スポーツ協会",
             "publisher": "公益財団法人 日本スポーツ協会",
             "price": 4400,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -52,7 +52,7 @@
             "author": "公益財団法人 日本スポーツ協会",
             "publisher": "公益財団法人 日本スポーツ協会",
             "price": 4840,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:56:57Z",
+    "fetched_at": "2026-06-02T11:54:49Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600IB",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "立部　文崇",
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定しませんが、授業中に配布する資料等を中心に進めます。"
     },
     "grading_criteria": "・課題の解決にあたって、幅広い視野から考えられたかどうか\n・課題の解決にあたって、他者と協働できたかどうか\n・課題の解決にあたって、根拠をもった取り組みができたかどうか\n\nこの３点を前期、後期、それぞれのレポート、そして、日常の取り組みによって評価する。",
@@ -357,5 +357,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:58:35Z",
+    "name_ja": "検査測定評価演習",
+    "name_en": "Measurement and Assessment Practice",
+    "syllabus_number": "2111100A",
+    "course_number": "21-2-24-22-06",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "佐野村　学",
+            "is_primary": true
+        },
+        {
+            "name": "辰見　康剛",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．アスリートをサポートするうえで必要とされる評価の目的や意義を理解できる。\n２．形態・関節可動域・関節動揺性・筋力・筋パワー・持久力・敏捷性・バランス機能の評価の目的と意義を理解し、実践できる。\n３．一般的な体力測定および心理アセスメントに関する目的と意義を理解し、実践できる。",
+    "overview": "アスリートをサポートするうえで必要とされる検査・測定・評価について、その目的と意義を学び、具体的な評価プロセスを理解し実践できる能力を習得することを目標とする。また、形態・関節可動域・関節動揺性・筋力・筋パワー・持久力・敏捷性・バランス機能の評価および一般的な体力測定および心理アセスメントに関する目的と意義を理解し、その実践方法を学ぶ。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト6巻 検査・測定と評価(2022年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 3300,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。\nなお、授業への参加状況についても考慮する（その他 20%）。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "総論（JSPO-ATが行う検査・測定・評価の概要）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "形態の評価（身体計測、姿勢・身体アライメント）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "関節可動性の評価（関節可動域、筋タイトネス）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "関節弛緩性・動揺性・不安定性の評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "筋力の評価①（徒手筋力検査）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "筋力の評価②（等速性筋力測定装置）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "未定"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "筋力の評価③（ウェイトマシーン、フリーウェイト）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "筋パワーの評価①（メディシンボール、脚伸展）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "筋パワーの評価②（無酸素性パワー）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "未定"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "持久力の評価（フィールドテスト）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "敏捷性の評価（フィールドテスト、反応時間）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "バランス機能の評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "一般的な体力測定（新体力テスト、運動適性テスト）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "心理アセスメントの指標",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辰見　康剛"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "定期試験",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

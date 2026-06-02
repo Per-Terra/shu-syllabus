@@ -1,0 +1,248 @@
+{
+    "fetched_at": "2026-06-02T12:00:10Z",
+    "name_ja": "線形代数演習",
+    "name_en": "Linear Algebra: Exercises",
+    "syllabus_number": "2126800A",
+    "course_number": "31-2-21-33-08",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "授業を通じて、線形代数の理論的理解と実践的スキルの両方を身につけ、将来的な研究や実務に活かせる力を培うことを目指す。具体的な到達目標は以下の通りである。\n１．ベクトル空間の概念を理解し、具体的な問題に適用できる。\n２．固有値・固有ベクトルの計算ができ、行列の対角化や線形変換への応用ができる。\n３．演習問題を通じて、数式の扱いに慣れ、論理的に問題を解決する力を身につける。",
+    "overview": "線形代数は、情報科学に関連する多くの分野で応用される重要な学問分野である。本授業では、1年次の「線形代数基礎」で学んだ知識の定着と、より深い理解を目指す。行列計算、ベクトル空間、一次変換、内積空間、固有値・固有ベクトルといった主要なトピックに関する具体的な問題に取り組む。授業は演習形式を中心とし、学生が自ら手を動かして考えることを重視する。演習問題を通じて計算や問題解決のプロセスを体験し、必要に応じて講義形式で重要なポイントを解説する。また、データサイエンスや機械学習における線形代数の応用にも触れ、実践的な課題を通じて応用力を養成する。",
+    "diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "明解演習 線形代数",
+            "publication_year": 1982,
+            "author": "小寺 平治",
+            "publisher": "共立出版",
+            "price": 2420,
+            "isbn": "978-4320010789",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "データサイエンスのための数学",
+            "publication_year": 2019,
+            "author": "椎名洋 (著), 姫野哲人 (著), 保科架風 (著), 清水昌平 (編集)",
+            "publisher": "講談社",
+            "price": 3080,
+            "isbn": "978-4-06-516998-8",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "線形代数基礎"
+        ],
+        "recommended": [
+            "微分積分基礎"
+        ],
+        "required_materials": "筆記用具",
+        "other": null
+    },
+    "grading_criteria": "演習問題（レポート）と期末試験を用いて内容の理解度を評価する。評価基準は下記とする。\n演習問題(60%)、期末試験(40%)\nこれらを総合して概ね6割程度の理解度を達成している者を合格とする。",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "本授業では、線形代数の演習問題を数多く解いてもらいます。数式をただ眺めるのではなく、自ら手を動かして計算することで初めて理解が深まります。そのため、徹底した予習と復習が求められます。授業時間内だけでは十分な学びは得られません。必ず事前に指定された教科書の範囲を読み、授業に臨んでください（予習1時間）。また、授業後には解いた問題を復習し、理解を定着させてください（復習1時間）。本授業で扱う課題の計算量は、1年次の「線形代数基礎」とは比べ物になりません。しかし、その分、真剣に取り組んだ学生には、確実に力が身につきます。特に、大学院進学を目指す学生には、本授業の履修を強く推奨します。情報科学をはじめとする多くの分野や職種で、線形代数の深い理解が求められる場面は多々あります。学部時代に数学力を養うことは、今後のキャリアにおいて大きな武器となります。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、ベクトル",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "行列の演算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "特殊な行列と逆行列",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "行列の基本変形と連立一次方程式",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ベクトル空間",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "一次独立性と基底・次元",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "線形写像とその行列表現",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "内積空間と計量変換",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "行列式の計算と応用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "固有値・固有ベクトルと標準化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ジョルダン標準形とその応用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "二次形式とエルミート形式",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "総合演習 I",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "総合演習 II",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと期末試験対策",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

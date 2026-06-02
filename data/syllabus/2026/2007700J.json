@@ -1,0 +1,397 @@
+{
+    "fetched_at": "2026-06-02T11:55:14Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700J",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "山本　晋也",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本ゼミでは、「ことば・文化・社会」をテーマにした卒業論文の作成を目標とする。1年間の活動を通じて、以下2点の目標達成をめざす。\n1）自身の選択したテーマに関する卒業論文を作成する\n2）卒業論文の内容をまとめ、適切な形で報告する",
+    "overview": "専門ゼミⅡでは、各自の作成した研究計画に基づき、論文の作成を進めます。前期の目標として、先行研究をまとめたレビュー論文を作成します。後期には、これまでの内容を取りまとめ、卒業論文の完成をめざします。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経済経営学科DP1",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": "個人用PC",
+        "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
+    },
+    "grading_criteria": "本ゼミでは、最終的に提出した卒業論文を主な評価の対象とします。また、それ以外に講義中に出た課題や、各自の調査・発表に用いた資料などと合わせ、総合的な評価を行います。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 50,
+        "other": 0
+    },
+    "teacher_message": "専門ゼミでは、参加学生の興味・関心に従って授業内容を決めていきます。また、教員が何かを指示したり説明したりということはなく、基本的に皆さんが事前に調べてきたこと・考えたことを基に授業を進めます。授業外での学習としては、報告用のレジュメ作成(8ｈ×1人計6回)のほか、論文作成に向けて毎週4h程度の時間を確保してください。また、毎回の授業に臨む際には、資料の読み込みに60分以上の時間を確保してください。疑問点などは授業後、またはオフィスアワーに受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "前期オリエンテーション　今後の授業計画について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "研究計画書の確認と見直し",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "研究活動①　計画書に基づく文献調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "研究活動②　計画書に基づく文献調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "進捗報告会①　現時点の進捗について報告",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "研究活動③　計画書に基づく文献調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "研究活動④　計画書に基づく文献調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "進捗報告会②　現時点の進捗について報告",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "レビュー論文作成①　個人作業",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "レビュー論文作成②　個人作業・確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "レビュー論文作成③　グループディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "レビュー論文作成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "プレゼン資料作成①",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "プレゼン資料作成②",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "研究プレゼン大会　「ことば・文化・社会」をめぐる課題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１６",
+            "content": "後期オリエンテーション　今後の授業計画について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１７",
+            "content": "卒業論文作成①　はじめに(動機・目的・課題)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１８",
+            "content": "卒業論文作成②　調査の実施と取りまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "１９",
+            "content": "卒業論文作成③　調査結果のまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２０",
+            "content": "卒業論文作成④　分析・考察-個人",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２１",
+            "content": "卒業論文作成⑤　分析・考察-グループディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２２",
+            "content": "卒業論文作成⑥　中間報告会　準備",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２３",
+            "content": "卒業論文作成⑦　中間報告会　本番",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２４",
+            "content": "卒業論文作成⑧　論文の見直し・修正",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２５",
+            "content": "卒業論文作成⑨　論文の見直し・修正",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２６",
+            "content": "卒業論文作成⑩　ピア・レビューの実施(初回)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２７",
+            "content": "卒業論文作成⑪　ピア・レビューの実施(2回目)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２８",
+            "content": "卒論概要集　原稿作成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "２９",
+            "content": "卒業論文プレゼン　準備",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "３０",
+            "content": "卒業論文プレゼン　発表",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

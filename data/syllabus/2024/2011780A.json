@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:02Z",
+    "fetched_at": "2026-06-02T11:55:42Z",
     "name_ja": "レクリエーション論",
     "name_en": "Recreation theory",
     "syllabus_number": "2011780A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　克成",
@@ -51,7 +51,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "(i) レクリエーション支援者としての基礎的知識の習得\n(ii)レクリエーション事業について理解を深め生きる喜びにつながることを知る\n(ⅲ)ポートフォリオを用いて、学習内容を振り返ることができる。",
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

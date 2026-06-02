@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:03:38Z",
+    "fetched_at": "2026-06-02T11:57:28Z",
     "name_ja": "機能解剖学Ⅱ",
     "name_en": "Functional Anatomy Ⅱ",
     "syllabus_number": "2035100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小笠　博義",
@@ -46,7 +46,7 @@
             "author": "監訳　福林 徹、他",
             "publisher": "ジャパンライム",
             "price": 220000,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

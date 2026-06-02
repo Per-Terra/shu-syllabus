@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:04:54Z",
+    "fetched_at": "2026-06-02T11:55:12Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700U",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,8 +47,8 @@
             "経済史",
             "日本経済史"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "卒業論文提出でもって評価します",
     "evaluation_ratio": {
@@ -363,5 +363,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

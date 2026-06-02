@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:13:22Z",
+    "fetched_at": "2026-06-02T11:55:33Z",
     "name_ja": "運動処方",
     "name_en": "Exercise testing and prescription",
     "syllabus_number": "2012000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,8 +46,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "レポート５０％、実習積極的な参加５０％を総合的に評価します。",
     "evaluation_ratio": {

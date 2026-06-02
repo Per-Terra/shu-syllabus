@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:59Z",
+    "fetched_at": "2026-06-02T11:53:13Z",
     "name_ja": "人の健康生活",
     "name_en": "Human health",
     "syllabus_number": "1012700A",
@@ -11,12 +11,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -60,10 +60,10 @@
         {
             "title": "授業において適宜紹介、資料等を提示する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -93,7 +93,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/1　大平光子"
             ]
         },
         {
@@ -103,7 +103,8 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "10/8　大平光子",
+                "（ゲストスピーカー）"
             ]
         },
         {
@@ -113,7 +114,7 @@
                 "講義"
             ],
             "teachers": [
-                "井上みゆき"
+                "10/15　井上みゆき"
             ]
         },
         {
@@ -123,7 +124,7 @@
                 "講義"
             ],
             "teachers": [
-                "井上みゆき"
+                "10/22　井上みゆき"
             ]
         },
         {
@@ -133,7 +134,7 @@
                 "講義"
             ],
             "teachers": [
-                "岡田純也"
+                "10/29　岡田純也"
             ]
         },
         {
@@ -143,7 +144,7 @@
                 "講義"
             ],
             "teachers": [
-                "大達亮"
+                "11/5　大達亮"
             ]
         },
         {
@@ -153,7 +154,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/12　大平光子"
             ]
         },
         {
@@ -163,7 +164,7 @@
                 "講義"
             ],
             "teachers": [
-                "大平光子"
+                "11/19　大平光子"
             ]
         }
     ],

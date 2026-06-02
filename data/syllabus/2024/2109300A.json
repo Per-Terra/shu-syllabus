@@ -1,22 +1,22 @@
 {
-    "fetched_at": "2025-04-07T11:06:47Z",
+    "fetched_at": "2026-06-02T11:58:41Z",
     "name_ja": "人間と健康",
     "name_en": "Human health",
     "syllabus_number": "2109300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 看護学科",
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　健",
@@ -77,7 +77,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考文献等は、講義中に適宜案内する。"
     },
     "grading_criteria": "課題レポート100%",

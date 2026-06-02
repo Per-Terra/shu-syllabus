@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:03:05Z",
+    "fetched_at": "2026-06-02T11:57:14Z",
     "name_ja": "スポーツマネジメントⅠ",
     "name_en": "Sport Management　Ⅰ",
     "syllabus_number": "2032600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　健",
@@ -44,7 +44,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考文献等は、講義中に適宜案内する。"
     },
     "grading_criteria": "到達目標に関して⑪に示した方法で評価する。",
@@ -210,5 +210,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

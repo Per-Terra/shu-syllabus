@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:07Z",
+    "fetched_at": "2026-06-02T11:52:34Z",
     "name_ja": "日本語表現法Ⅰ",
     "name_en": "Japanese I",
     "syllabus_number": "1000810A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本講義における成績評価は、①期末レポート、②小課題、③ポートフォリオの3点で行う。①は、学期中に仮原稿の提出・推敲を行い、完成したものを最終版として提出する。②は、講義に関する小レポートや練習問題などである。③は、関連する提出物である。",
     "evaluation_ratio": {
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

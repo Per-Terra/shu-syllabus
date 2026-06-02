@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:02:20Z",
+    "fetched_at": "2026-06-02T11:54:27Z",
     "name_ja": "中小企業論",
     "name_en": "Theory of Small Businesses",
     "syllabus_number": "2004400A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
             "企業概論"
         ],
         "required_materials": "教科書、パソコン又はタブレット。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業計画に記載している内容に基づいた期末試験、授業内で行った議論で成績評価をします。\nなお、授業への参加態度により加点又は減点する場合があります。",
     "evaluation_ratio": {
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

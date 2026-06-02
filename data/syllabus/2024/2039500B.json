@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-07T17:04:49Z",
+    "fetched_at": "2026-06-02T11:57:46Z",
     "name_ja": "生理学（経済・福祉情報学部）",
     "name_en": "Physiology",
     "syllabus_number": "2039500B",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,14 +46,14 @@
             "author": "公益財団法人健康・体力づくり事業財団",
             "publisher": "株式会社　南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "経済学部・福祉情報学部の「生理学」となります。2024年4月開設の新学部学科の学生は履修出来ません。"
     },
     "grading_criteria": "筆記試験70％、小テスト30％をもとに総合的に評価する。",
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

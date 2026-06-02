@@ -1,0 +1,273 @@
+{
+    "fetched_at": "2026-06-02T12:00:09Z",
+    "name_ja": "保健体育科教育法Ⅲ",
+    "name_en": "Teaching Methods in Health and Physical Education Ⅲ",
+    "syllabus_number": "7001600A",
+    "course_number": null,
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "前田　一篤",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(ⅰ)学習内容をおさえたうえで、授業を計画・設計（学習指導案立案）することができる。\n(ⅱ)学習指導案に沿った模擬授業実践をすることができる。\n(ⅲ)ポートフォリオを用いて、学習内容を振り返ることができる。",
+    "overview": "本授業は、中学校・高等学校における保健体育科教員としてよりよい授業を実践するのに必要とされる、基本的な知識や技能、および実践力を養うことを目的とする。そのため、講義による知識の補完と模擬授業による実践とを交えて進める。また、学習指導案の立案、模擬授業の実践の他、作成したポートフォリオによって総合的に評価していく。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "中学校学習指導要領解説　保健体育編",
+            "publication_year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 496,
+            "isbn": "978-4-8278-1576-4",
+            "available_on_campus": false
+        },
+        {
+            "title": "高等学校学習指導要領解説　保健体育編 体育編",
+            "publication_year": 2020,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 552,
+            "isbn": "978-4-8278-1568-9",
+            "available_on_campus": false
+        },
+        {
+            "title": "「指導と評価の一体化」のための学習評価に関する参考資料 中学校 保健体育",
+            "publication_year": 2020,
+            "author": "国立教育政策研究所教育課程研究センター (著)",
+            "publisher": "東洋館出版社",
+            "price": 1100,
+            "isbn": "978-4491041384",
+            "available_on_campus": false
+        },
+        {
+            "title": "「指導と評価の一体化」のための学習評価に関する参考資料 高等学校 保健体育",
+            "publication_year": 2021,
+            "author": "国立教育政策研究所教育課程研究センター (著)",
+            "publisher": "東洋館出版社",
+            "price": 1925,
+            "isbn": "978-4491047058",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "参考図書、ポートフォリオ",
+        "other": "参考図書に加え、授業中に配付する参考資料を中心に進めていきます。"
+    },
+    "grading_criteria": "到達目標に示している\n(ⅰ)学習内容をおさえたうえで、授業を計画・設計（学習指導案立案）することができる。\n(ⅱ)学習指導案に沿った模擬授業実践をすることができる。\n(ⅲ)ポートフォリオを用いて、学習内容を振り返ることができる。\nの3点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 30,
+        "portfolio": 30,
+        "other": 20
+    },
+    "teacher_message": "【予習・復習について】\n各回学習内容の復習、指導案の作成（各回90分程度）\n\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（授業の概要、模擬授業、授業評価について）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "科目保健、科目体育（含体育理論）の指導方法や授業の在り方について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "授業を設計する（授業設計能力の育成：本時学習指導案の作成方法と教材研究）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "授業を実践する（授業実践力の育成：教授技術と評価活動について）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "模擬授業実践および振り返り活動（1）\n基礎的な教授技術について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "模擬授業実践および振り返り活動（2）\n学習指導案と授業実践との関係について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "模擬授業実践および振り返り活動（3）\n授業目標と教育材について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "模擬授業実践および振り返り活動（4）\n学習規律について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "模擬授業実践および振り返り活動（5）\n教員の発問と教員の位置取りの工夫について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "模擬授業実践および振り返り活動（6）\nグループワークに関するメリットデメリットについて",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "模擬授業実践および振り返り活動（7）\n応用的な教授技術について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "模擬授業実践および振り返り活動（8）\n応用的な教材研究について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "模擬授業実践および振り返り活動（9）\n指導と評価の一体化について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "模擬授業実践および振り返り活動（10）\n指導と評価の一体化について",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめとポートフォリオ・プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

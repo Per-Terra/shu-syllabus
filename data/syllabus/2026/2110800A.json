@@ -1,0 +1,266 @@
+{
+    "fetched_at": "2026-06-02T11:58:33Z",
+    "name_ja": "スポーツ傷害論Ⅱ（下肢、上肢）",
+    "name_en": "Sports Injuries Ⅱ",
+    "syllabus_number": "2110800A",
+    "course_number": "21-2-24-22-04",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小笠　博義",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. スポーツ外傷・障害の概要を理解し、説明できる。\n2. 下肢および上肢に起こるスポーツ外傷・障害の病態、発生機序、治療法などを理解し、説明できる。\n3. スポーツ外傷・障害の基礎知識を基に、リコンディショニングやコンディショニング、救急対応、傷害予防などに役立てることができる。",
+    "overview": "運動・スポーツの実践者に対する安全・健康管理および傷害・疾病予防のために必要なスポーツ外傷・障害の基礎知識を身に付けることを目標とする。運動・スポーツの実践者を医科学的側面からサポートする際に欠かすことのできないスポーツ外傷・障害の基礎知識について、主に下肢および上肢に起こる外傷・障害の病態、発生機序、治療法および予防のためのスポーツ整形外科的メディカルチェックなどについて解説する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "公認アスレティックトレーナー専門科目テキスト 2 巻 安全・健康管理およびスポ ーツ外傷・障害の予防(2022 年カリキュラム対応)",
+            "publication_year": null,
+            "author": null,
+            "publisher": "日本スポーツ協会",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "新版 スポーツ整形外科学",
+            "publication_year": 2011,
+            "author": "中嶋寛之（監修）、福林徹／史野根生（編集）",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": "978-4524262656",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツ外傷・障害の理学診断・理学療法ガイド",
+            "publication_year": 2015,
+            "author": "臨床スポーツ医学編集委員会（編集）",
+            "publisher": "文光堂",
+            "price": 7700,
+            "isbn": "978-4830651823",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "スポーツ傷害論Ⅰ（体幹、重篤外傷）"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "筆記試験 50%、課題レポート 30%、授業への参加意欲 20%",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（授業の進め方の確認）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "大腿部の外傷・障害①（肉離れ、筋挫傷）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "大腿部の外傷・障害②（疲労骨折、その他の傷害）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "膝関節の外傷・障害①（靭帯損傷、軟部組織損傷）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "膝関節の外傷・障害②（慢性障害）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "下腿部の外傷・障害①（肉離れ、アキレス腱断裂）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "下腿部の外傷・障害②（疲労骨折、シンスプリント、コンパートメント症候群）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "足関節・足部の外傷・障害①（足関節捻挫、離断性骨軟骨炎）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "足関節・足部の外傷・障害②（疲労骨折、過剰骨・種子骨障害）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "肩関節の外傷・障害（肩関節前方脱臼、腱板損傷）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "肘関節の外傷・障害①（MCL 損傷、離断性骨軟骨炎）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "肘関節の外傷・障害②（テニス肘、肘関節脱臼）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "手関節・手部の外傷・障害①（手関節捻挫、TFCC 損傷）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "手関節・手部の外傷・障害②（手指捻挫、舟状骨・有鉤骨骨折）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "小笠",
+                "博義"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "日本スポーツ協会公認スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:52Z",
+    "fetched_at": "2026-06-02T11:52:45Z",
     "name_ja": "法律学概論Ⅰ",
     "name_en": "Introduction to Jurisprudence I",
     "syllabus_number": "1002000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "（i）法学（公法分野）に関する基本知識が身についた。\n\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
     "evaluation_ratio": {
@@ -174,5 +174,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:14Z",
+    "fetched_at": "2026-06-02T11:55:18Z",
     "name_ja": "アニメーション制作演習",
     "name_en": "Practice of Animation",
     "syllabus_number": "2008900A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) 制作管理\n(ii) アニメーション作品制作",
     "evaluation_ratio": {

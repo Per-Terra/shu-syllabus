@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:16Z",
+    "fetched_at": "2026-06-02T11:56:41Z",
     "name_ja": "言語情報学",
     "name_en": "Linguistic Informatics",
     "syllabus_number": "2025900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "情報科学部 情報科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -79,7 +79,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "毎回必要とはしないが、指示によりPCの持参を必要とする場合がある",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1.\t自然言語の分析に関わる用語や仕組みに関する基本的な知識\n2.\t自然言語の分析結果の活用事例\n3.\t自然言語の分析方法の基本的な知識\n4.\t自然言語の分析\n\nこれら４つの視点についての理解度を以下の「学生に対する評価」により評価する。\n\n課題レポート　40%、授業ごとの小課題30％、２回の小レポート30％",
     "evaluation_ratio": {

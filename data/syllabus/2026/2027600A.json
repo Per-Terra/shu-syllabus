@@ -1,0 +1,230 @@
+{
+    "fetched_at": "2026-06-02T11:56:10Z",
+    "name_ja": "ソーシャルワークの理論と方法Ⅱ",
+    "name_en": "Theory and Method of Social WorkⅡ",
+    "syllabus_number": "2027600A",
+    "course_number": "23-2-22-22-04",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "授業のテーマ：\nソーシャルワーク支援技術の基本を学ぶ\n到達目標：\nⅰ）面接についてその意義や方法について説明できる。\nⅱ）記録の意義と方法について説明できる。\nⅲ）ケアマネジメントについて基本的な概念を説明できる。\nⅳ）グループを用いた技法について説明できる。\nⅴ）コミュニティワークの基本的な概念を説明できる。\nⅵ）ソーシャルアドミニストレーションについて基本的な概念を説明できる。\nⅶソーシャルアクションについて基本的な考え方を説明できる。\nⅷ）スーパービジョン・コンサルテーションについて基本的な概念を説明できる。",
+    "overview": "本科目はソーシャルワークの実践の基本として、面接の方法や記録について学び、特にメゾからマクロ支援の考え方としてコミュニティワーク、アドミニストレーション、ソーシャルアクションの考え方を学ぶ。またグループを用いた技法と、新人職員においては支援者が支援の進め方について戸惑いを感じることがあることから、スーパービジョンやコンサルテーションの必要性についても論じていく。学生は、人間のウエルビーイング実現のために、人や集団・地域社会が持っている課題解決力に気づき、個人から地域に働きかけていくための知識と知識に裏付けされた技術を身に付ける力を養う。",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "ソーシャルワークの理論と方法[共通科目]",
+            "publication_year": 2021,
+            "author": "日本ソーシャルワーク教育学校連盟（編）",
+            "publisher": "中央法規出版",
+            "price": 3190,
+            "isbn": "978-4-8058-8242-9",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書",
+        "other": "なし"
+    },
+    "grading_criteria": "本科目は知識や概念が問われるので、テストにて評価する。授業中に行う小テストと期末テストで評価する。小テストの割合が40％、期末テストの割合が60％である。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "各回、盛り沢山の概念が出てきます。これらの概念は、今後学生が一つひとつ掘り下げていくことになりますが、本授業ではその基礎となる概念整理を行います。したがって、必ず復習するようにしてください。さらに、教科書を指定しています。次回授業の範囲を伝えますので、該当する部分をよく読み込んでおいてください。復習に120分、予習に120分必要です。\n\nオフィスアワー：講義のある日、不在時はメールやチャットで受け付ける。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ソーシャルワークの面接①　面接の意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "ソーシャルワークの面接②　面接の方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "ソーシャルワークの記録①　記録の意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "ソーシャルワークの記録②　記録の内容とフォーマット",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "ケアマネジメント　原則と方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "グループを用いた支援①　意義と目的／セルフヘルプグループ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "グループを用いた支援②　展開過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "コミュニティワーク①　意義と展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "コミュニティワーク②　理論的系譜とモデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ソーシャルアドミニストレーション①　意義と概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ソーシャルアドミニストレーション②　組織介入と財源",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ソーシャルアクション①　概念と意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ソーシャルアクション②　コミュニティ・オーガナイジング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "スーパービジョン　目的・方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "コンサルテーション　目的と方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2月 9日(火)　10:40～11:40\nS1302教室",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:20Z",
+    "fetched_at": "2026-06-02T11:56:14Z",
     "name_ja": "CAD演習",
     "name_en": "CAD Exercises",
     "syllabus_number": "2022000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "児玉　満",
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

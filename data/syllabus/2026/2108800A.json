@@ -1,0 +1,266 @@
+{
+    "fetched_at": "2026-06-02T11:58:18Z",
+    "name_ja": "アントレプレナーシップ実践",
+    "name_en": null,
+    "syllabus_number": "2108800A",
+    "course_number": "11-3-29-21-01",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "亀ヶ谷　友佑",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）ファクトを集め、課題を発見することができる\n（２）問題を特定し、解決策を提案できる\n（３）課題発見、問題定義、解決策の提案まで自発的、積極的に行動できる",
+    "overview": "本講義では、アントレプレナーシップの考え方をフィールドワークの中で実践することを目的とする。周南地域と広島市内をフィールドにそれぞれの地域の魅力を発見し、その表現方法の実践までを行う。地域の魅力を捉え直すために、デザイン思考、システム思考のインプットを得ることで、実際に起きていることを俯瞰的に捉え、自分たちが伝えるべきポイントを特定する。制作したものに対して多視点からフィードバックを得ることで改善していき、講義の中で完成度を高めていく。\n※本講義は集中講義形式で行い、一部広島県立叡啓大学にて実施します。周南公立大学からのバスを出す予定ですが、個人で行き来する場合の交通費は自己負担となります。\n\n【アクティブラーニングについて】\nほぼすべての授業にアクティブラーニング（グループワーク、フィールドワーク）を含む",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "アントレプレナーシップ",
+            "publication_year": 2022,
+            "author": "清水洋",
+            "publisher": "有斐閣",
+            "price": 3080,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "1からのアントレプレナーシップ",
+            "publication_year": 2017,
+            "author": "山田幸三、江島由裕",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "アントレプレナーシップ教科書",
+            "publication_year": 2016,
+            "author": "松重和美、三枝省三、竹本拓治",
+            "publisher": "中央経済社",
+            "price": 3300,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "デザインシンキング",
+            "地域ゼミ",
+            "アントレプレナーシップ入門"
+        ],
+        "required_materials": "筆記用具、ノートPC",
+        "other": "交通費がかかる場合があります。"
+    },
+    "grading_criteria": "自ら設定したテーマに対して提案する内容（ポートフォリオ40%）と、そのプレゼンテーション（発表40%）を評価します。また、積極的な姿勢、リーダーシップの発揮など授業に対する取り組み姿勢（その他20%）を評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 40,
+        "other": 20
+    },
+    "teacher_message": "アントレプレナーシップは、起業家だけでなく様々な職業で発揮することが求められます。知識として得たアントレプレナーシップを発揮する機会として、本授業を活用してもらいたいと思います。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション\n授業の目的や必要となる基礎知識について説明",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "デザイン思考　基礎編①　共感",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "デザイン思考　基礎編②　問題定義",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "デザイン思考　基礎編③　アイデア創造",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "アイデアの表現方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "デザイン思考　実践編　＆　システム思考\n叡啓大学ソーシャルシステムデザイン学部 保井学部長をゲスト講師に迎えた講義",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "デザイン思考　実践編　＆　フィールドワークの方法\n叡啓大学ソーシャルシステムデザイン学部 川瀬真紀教授をゲスト講師に迎えた講義",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "フィールドワークのリフレクション\nフィールドワークで集めた動画をチームで振り返り、プレゼンテーションにいかにまとめるか検討する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "プレゼンテーションの準備\nこれまでの取り組みから解決策をブラッシュアップし、プレゼンテーションとして効果的にまとめる",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "プレゼンテーションの準備\nこれまでの取り組みから解決策をブラッシュアップし、プレゼンテーションとして効果的にまとめる",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "最終発表会\n自身のアイデアをプレゼンテーションしフィードバックを得る",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "亀ヶ谷",
+                "友佑",
+                "長澤　雅彦"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

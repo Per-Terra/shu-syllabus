@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:58Z",
+    "fetched_at": "2026-06-02T11:59:58Z",
     "name_ja": "教師論",
     "name_en": "Teaching profession",
     "syllabus_number": "7000100A",
@@ -12,12 +12,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -105,21 +105,25 @@
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
-        "recommended": [],
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
         "required_materials": "ノートパソコン、筆記用具",
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
-    "grading_criteria": "本講義の主要テーマである「教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」について，以下の「学生に対する評価」の基づいて評価を行う。\n（課題レポート40%，発表・実技30%，その他30%）\n※「その他」は、授業中のディスカッション等への参加態度や振り返り課題の記入状況によって評価する。",
+    "grading_criteria": "本講義の主要テーマである「教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」について，以下の「学生に対する評価」の基づいて評価を行う。\n（課題レポート70%，その他30%）\n※「その他」は、授業中のディスカッション等への参加態度や振り返り課題の記入状況によって評価する。",
     "evaluation_ratio": {
         "exam": 0,
         "quiz": 0,
-        "report": 40,
-        "presentation": 30,
+        "report": 70,
+        "presentation": 0,
         "portfolio": 0,
         "other": 30
     },
-    "teacher_message": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -127,9 +131,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -137,9 +139,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -147,9 +147,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -157,9 +155,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -167,9 +163,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -177,9 +171,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -187,9 +179,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -197,9 +187,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -207,9 +195,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -217,9 +203,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -227,9 +211,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -237,9 +219,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -247,9 +227,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -257,9 +235,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -267,11 +243,9 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

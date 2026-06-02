@@ -1,0 +1,232 @@
+{
+    "fetched_at": "2026-06-02T11:59:54Z",
+    "name_ja": "幼児体育",
+    "name_en": "Early Childhood Physical Education",
+    "syllabus_number": "2124400A",
+    "course_number": "2124400",
+    "departments": [
+        "福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①保育・幼児教育における運動遊びの実践に必要な知識や技能を身につけて、活用することができる。\n②体育活動に使用する教材・教具について、適切な取り扱い方法を身につけて、指導を行うことができる。\n③身体を動かすことを楽しみ、仲間と協力しながら主体的に取り組むことができる。",
+    "overview": "本科目は、子どもの健康な心と体を育てるための知識・技能を学び、子どもの発達過程に応じた運動遊びについて理解を深める科目である。授業では、健康的で安全な生活をつくりだす基本となる保育について理解を深め、運動遊びを中心とした指導案を作成し、模擬保育等にも取り組む。\nこの授業を通して、①子どもの心と体の関連性、②発達過程に応じた運動遊び、③保育計画の立案、について学び、子どもの健康と安全について遊びを通した支援のあり方を身につける。",
+    "diploma_policies": [
+        "福祉学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "幼児の健康と運動あそび",
+            "publication_year": 2026,
+            "author": "西島大祐",
+            "publisher": "大学図書出版",
+            "price": 2970,
+            "isbn": "978-4911673027",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "運動できる服装、運動靴（内・外）",
+        "other": null
+    },
+    "grading_criteria": "課題（レポート）、指導案、模擬指導",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "1.身体を動かすことが多い授業内容のため、不安なことがある場合（既往症など）は、第1回目の授業で必ず教員へ相談すること。\n2.運動着や運動靴を忘れた者は、安全管理上、身体を動かす授業への参加は認められない（見学扱い）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "じゃんけんを取り入れた運動遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "まねっこ遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "用具を使った運動遊び①：フープや縄",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "用具を使った運動遊び②：ボールを使った運動遊び（個人）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "用具を使った運動遊び③：ボールを使った運動遊び（集団）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "器具を使った運動遊び①：マットに慣れる、親しむ遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "器具を使った運動遊び②：マットで色々な動きや転がり方に挑戦する遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "器具を使った運動遊び③：マットと跳び箱を組み合わせた遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "身近なものを使った運動遊び①：新聞紙を使った遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "身近なものを使った運動遊び②：ダンボールを使った遊び",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "鬼遊び①：交代鬼、増やし鬼、手繋ぎ鬼　等",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "鬼遊び②：チーム対応の鬼遊びでルールや作戦を工夫する",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "運動遊びの指導案作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "模擬運動遊びの発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

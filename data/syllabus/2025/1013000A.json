@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:56:02Z",
+    "fetched_at": "2026-06-02T11:53:16Z",
     "name_ja": "健康産業施設実習",
     "name_en": "Health Promotion Facilites Workshop",
     "syllabus_number": "1013000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,10 +46,10 @@
         {
             "title": "『健康運動指導士養成講習会テキスト上・下』",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "公益財団法人健康・体力づくり事業財団",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

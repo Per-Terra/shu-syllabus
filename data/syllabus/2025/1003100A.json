@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:14Z",
+    "fetched_at": "2026-06-02T11:52:46Z",
     "name_ja": "自然地理学Ⅰ",
     "name_en": "Physical Geography I",
     "syllabus_number": "1003100A",
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:39Z",
+    "fetched_at": "2026-06-02T11:59:16Z",
     "name_ja": "安全な患者介助",
     "name_en": "Safe Patient Handling & Mobility",
     "syllabus_number": "2115800A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -22,7 +22,7 @@
         }
     ],
     "term": "後期",
-    "credits": 2,
+    "credits": 1,
     "teaching_methods": [
         "講義",
         "実験・実習・実技"
@@ -36,17 +36,7 @@
         "看護学科DP2",
         "看護学科DP4"
     ],
-    "textbooks": [
-        {
-            "title": "セーフティケアの介護・看護　　ヒューマン・ヘルスケア・システム",
-            "publication_year": 2020,
-            "author": "上田喜敏",
-            "publisher": "ヒューマン・ヘルスケア・システム",
-            "price": 2200,
-            "isbn": "978-4902884265",
-            "available_on_campus": true
-        }
-    ],
+    "textbooks": [],
     "references": [
         {
             "title": "腰痛借金　痛みは消える！",
@@ -55,6 +45,15 @@
             "publisher": "辰巳出版",
             "price": 1430,
             "isbn": "978-4777817740",
+            "available_on_campus": false
+        },
+        {
+            "title": "セーフティケアの介護・看護　　ヒューマン・ヘルスケア・システム",
+            "publication_year": 2020,
+            "author": "上田喜敏",
+            "publisher": "ヒューマン・ヘルスケア・システム",
+            "price": 2200,
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -77,7 +76,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "この授業を受けて、日常生活の中でも実施できる腰痛予防対策を考えましょう。また、看護実践においても腰痛予防に心がけるようにしましょう。\n授業の予習復習の時間は1時間程度必要です。\n授業の進行については、多少の変更がある可能性があります。特に実技の体験については、日時の変更がある可能性があります。授業オリエンテーションのときに説明します。\n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "この授業を受けて、日常生活の中でも実施できる腰痛予防対策を考えましょう。また、看護実践においても腰痛予防に心がけるようにしましょう。\n授業の予習復習の時間は1時間程度必要です。\n授業の進行については、多少の変更がある可能性があります。特に実技の体験については、日時の変更がある可能性があります。授業オリエンテーションのときに説明します。\n◎10月7日（火）5時限、10月16日（木）3・4時限、11月1日（土）2・3時限、11月11日（火）5時限、11月25日（火）5時限、12月2日（火）5時限で授業を行います。\n\n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
             "number": "1",

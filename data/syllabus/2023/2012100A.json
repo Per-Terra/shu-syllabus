@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:13:25Z",
+    "fetched_at": "2026-06-02T11:55:34Z",
     "name_ja": "健康医学",
     "name_en": "Health medicine",
     "syllabus_number": "2012100A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,9 +51,9 @@
             "title": "健康運動指導士養成講習会テキスト上・下",
             "publication_year": null,
             "author": "公益財団法人健康・体力づくり事業財団",
-            "publisher": "",
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:59:06Z",
+    "fetched_at": "2026-06-02T11:53:35Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700R",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "アーリー・エクスポージャー型インターンシップ"
         ],
         "required_materials": "筆記用具、PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "平素の地域課題解決活動および成果物を総合的に評価する。成果物は授業内で作成したもの、学期末の発表・ポスターを対象とする。これらについて、課題対応能力を6割程度、ゼミ内外での協働を4割程度の割合で評価する。",
     "evaluation_ratio": {
@@ -128,5 +128,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

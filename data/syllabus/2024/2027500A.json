@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:42Z",
+    "fetched_at": "2026-06-02T11:56:44Z",
     "name_ja": "ソーシャルワーク実習指導Ⅰ",
     "name_en": "Guidance of Social Work Practice Ⅰ",
     "syllabus_number": "2027500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　武生",
@@ -45,10 +45,10 @@
         {
             "title": "周南公立大学ソーシャルワーク実習の手引き",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -246,5 +246,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:42Z",
+    "fetched_at": "2026-06-02T11:53:29Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700I",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "EQトレーニングＩ"
         ],
         "required_materials": "筆記用具、PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(i) 周南市の魅力ある観光資源について説明でき、魅力を再発見し、さらに魅力的なものにしていきつつ、魅力を周知していく課題を考えることができる、(ii)周南市の観光資源の魅力の向上、発信のために提案し、その実現に向けて行動することができる、(iii) 問題発見・解決のための一連の活動を他者に報告・説明できることについて、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -208,5 +208,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

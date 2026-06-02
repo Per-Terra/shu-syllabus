@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:23:19Z",
+    "fetched_at": "2026-06-02T11:58:07Z",
     "name_ja": "地理歴史科教育法Ⅱ",
     "name_en": "Methods of Instruction for High School Geography and History II",
     "syllabus_number": "7000900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -79,7 +79,7 @@
             "外国史"
         ],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①学習指導要領に示された高等学校地理歴史科の目標・内容の理解、②地理歴史教育における基礎的な学習指導理論の理解、の2点については、レポート及びLMSへのコメントの記入によって評価する。③地理歴史科授業の実践と改善については、学習指導案の構想と模擬授業の実践を通して評価する。",
     "evaluation_ratio": {
@@ -259,5 +259,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

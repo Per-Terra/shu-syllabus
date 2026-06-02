@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:23:08Z",
+    "fetched_at": "2026-06-02T11:58:03Z",
     "name_ja": "教育課程論(b)",
     "name_en": "Theory of Curriculum",
     "syllabus_number": "7000500B",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -80,7 +80,7 @@
         "recommended": [
             "教師論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "図書館の教職資料コーナーにも関連書籍を設置しています。【関連科目】教師論（教育課程編成の理解には学校の実態や，教師の資質や態度についての理解が不可欠です）、教育方法論（教育課程編成のあり方を考える際は授業実践に関わる知識・技能の習得が不可欠です）、教養ゼミ（ディスカッションやプレゼンテーションの方法論を活用します）、情報リテラシー（レポートやプレゼンテーションスライドの作成にOfficeソフトを活用します）"
     },
     "grading_criteria": "(ⅰ) 教育課程の役割・機能・意義についての理解、(ⅱ)教育課程編成の基本原理と編成方法の理解、(ⅲ)カリキュラム・マネジメントについての理解、(ⅳ)カリキュラム・マネジメントの方法論の習得・活用 の四点について、⑪に示す方法で評価する。",
@@ -277,5 +277,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

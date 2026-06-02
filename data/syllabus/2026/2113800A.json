@@ -1,0 +1,214 @@
+{
+    "fetched_at": "2026-06-02T11:58:51Z",
+    "name_ja": "ネット型球技",
+    "name_en": "Net type ball game",
+    "syllabus_number": "2113800A",
+    "course_number": "21-2-27-22-05",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "山﨑　将幸",
+            "is_primary": true
+        },
+        {
+            "name": "熊谷　哲",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. ネット型競技（バドミントン・バレーボール）の基本的知識・技能を習得し、状況に応じてこれらの基本的知識・技能を活用することができる。\n2. ネット型競技の特性を踏まえた授業計画を作成することができる。\n3. 自他の課題を発見し、他者と協同しながら課題解決に向けて授業に取り組むことができる。",
+    "overview": "ネット型球技はコート上でネットを挟んで相対し、身体や用具を操作してボールを開いている場所に返球し、一定の得点に早く到達することを競い合うゲームである。本授業では様々なネット型球技のうちバドミントンならびにバレーボールの２種目を実施し、ネット型球技及び各種目の特性に触れるとともに、基本的な実技能力の修得を目指す。またルールや審判法を学び、さらに各種目のゲーム構造や教育効果を学ぶことによって、実践的な指導に役立つ知識・技能を身につけることができる。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "運動できる服装と体育館シューズは必須（私服での参加は認めない）",
+        "other": null
+    },
+    "grading_criteria": "実技試験60%、レポート・課題40%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【山﨑将幸】バドミントンは老若男女が行うことのできる生涯スポーツです。バドミントンを指導する際の準備段階での注意点、ストロークの打つ位置における指導方法、ルールの理解を深めて、バドミントンスキルの上達と試合運営ができ、バドミントンの楽しさを学びましょう。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日時限。非常勤講師のため、授業への質問等はメール（m.yamazaki@toua-u.ac.jp）にて受け付ける。\n\n\n\n\n【熊谷哲】バレーボールは幅広い年代においてプレーされている生涯スポーツです。本授業でバレーボールのレシーブ、トス，スパイクなどの基礎技術，ルール，フォーメーション等についての理解を深めていくと同時に、バレーボールの楽しさを知ってください。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ネット型球技（バドミントン・バレーボール）ガイダンス",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸",
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "バレーボール①\nボールコントロール①：直上パス、対人パス、簡易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "バレーボール②\nボールコントロール②：様々な状況でのパス、3 人レシーブ、簡\n易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "バレーボール③\nスパイクとブロック①：ステップ、手投げでのスパイク、ブロッ\nクの形、簡易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "バレーボール④\nスパイクとブロック②：様々なポジションからのスパイク、ブロ\nックのステップ、簡易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "バレーボール⑤\n戦術練習①：速攻、コンビネーション攻撃、簡易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "バレーボール⑥\n戦術練習②：スパイクレシーブに対する守備隊系、簡易ゲーム",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "バレーボール⑦\nリーグ戦",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "熊谷哲"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "バドミントン①\nネットの立て方、準備時の危険性（リスクマネジメント）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "バドミントン②\nオーバーヘッドストロークの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "バドミントン③\nドライブの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "バドミントン④\nアンダーハンドストロークの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "バドミントン⑤\nサーブの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "バドミントン⑥\n審判法の理解（シングルス・ダブルス）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "バドミントン⑦\nゲーム運営（団体戦）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山﨑将幸"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "【山﨑将幸】トップ選手の指導経験あり"
+}

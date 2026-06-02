@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:00:21Z",
+    "fetched_at": "2026-06-02T11:56:07Z",
     "name_ja": "社会保障Ⅰ",
     "name_en": "Social Security I",
     "syllabus_number": "2016200A",
@@ -11,12 +11,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

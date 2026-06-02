@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:22:22Z",
+    "fetched_at": "2026-06-02T11:57:52Z",
     "name_ja": "発育・発達論",
     "name_en": "Growth and Development of Human",
     "syllabus_number": "2043200A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -63,7 +63,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "モバイル端末",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1．発育発達、加齢にともなう身体変化　2．発育発達と生活習慣との関わり　3．ライフステージに応じたよりよい発育発達のための課題と解決\n上記、1～3に関する知識・技能、思考力・判断力、主体的に授業に取り組む態度を以下により評価する。",
     "evaluation_ratio": {
@@ -240,5 +240,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

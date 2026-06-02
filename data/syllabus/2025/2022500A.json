@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:00:50Z",
+    "fetched_at": "2026-06-02T11:56:25Z",
     "name_ja": "プログラミング演習",
     "name_en": "Exercise in Computer Programming",
     "syllabus_number": "2022500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -29,7 +29,7 @@
         "演習"
     ],
     "delivery_modes": [
-        "対面"
+        "オンライン"
     ],
     "objectives": "１．C言語の基礎（データ型、演算処理、制御処理）知識を習得できる。\n２．フローチャートからCプログラムに書き換えることができる。\n３．どんなプログラミング言語においても必要となるプログラミング技術を身に付けることができる。",
     "overview": "この講義の目的は、自分自身でCプログラムを書ける能力を身に付け、どんなプログラミング言語でも必要となるプログラミング技術を習得することである。パソコンを使用したプログラミング演習に重点をおく。まず、データ型、演算処理、制御処理、文字処理、ファイル処理などC言語の基礎知識を習得し、ライブラリ関数の利用方法を学ぶ。フローチャートの書き方を学習し、基本的な逐次アルゴリズムからフローチャートを作成する方法を学ぶ。パソコンを使用した演習を通して、フローチャートからCプログラムに書き換える方法を学ぶ。",

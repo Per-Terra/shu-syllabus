@@ -1,0 +1,257 @@
+{
+    "fetched_at": "2026-06-02T11:57:31Z",
+    "name_ja": "実践英語(情報)",
+    "name_en": "English (Information technology)",
+    "syllabus_number": "2101800A",
+    "course_number": "31-3-21-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "内田　善彦",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.英語でブロックチェーンとは何かを理解し説明できる。\n2.英語でブロックチェーンに必要な暗号技術を理解し説明できる。\n3.金融業におけるブロックチェーンの活用を考察するために必要な基礎的事項を英語で理解し説明できる。",
+    "overview": "先端的な研究・技術を理解するためには英語で発信された情報へのアクセスがきわめて重要である。この視点から、本講義では、ブロックチェーンの金融業への活用を題材に実践的な英語力を身に付ける。具体的には、実在のプロジェクトのWhite paper や新聞記事を用いて、正確さを犠牲にすることなく、速読できることを目指すほか、YouTube に掲載されたカンファレンスの講演記録やインタビュー映像を字幕なしで視聴し、リスニング力を鍛える。さらに、実在のコミュニティが議論を戦わせているTelegram やDiscord 等へアクセスし、文章による実践的コミュニケーション力を向上させることを目標とする。\nなお、これらを実現するために必要な金融や情報科学の基礎知識は既知のものとして扱うが、授業の進行に合わせた予習用教材を提供するほか、ブロックチェーンや暗号に関する知識は適宜解説しながら授業を進める。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "The Currency Cold War: Cash and Cryptography, Hash Rates and Hegemony",
+            "publication_year": 2020,
+            "author": "David Birch",
+            "publisher": "London Publishing Partnership",
+            "price": 5427,
+            "isbn": "978-1913019099",
+            "available_on_campus": false
+        },
+        {
+            "title": "The Blocksize War: The battle over who controls Bitcoin’s protocol rules",
+            "publication_year": 2021,
+            "author": "Jonathan Bier",
+            "publisher": "Independently published",
+            "price": 3630,
+            "isbn": "979-8721895609",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット",
+        "other": "特になし"
+    },
+    "grading_criteria": "授業内小テスト30%、授業への貢献30%、筆記試験40%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。原則として、欠席3 回以上のものには単位を与えない。",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "ブロックチェーンの発明により、金融業は大きな変革期に入ってきています。これを支える要素技術を理解するためには英語力が必須です。授業ではブロックチェーンを扱いますが、授業で学ぶことは、すべての学問領域に通用する英語の活用法です。授業にあたっては、予習は不要ですが、丁寧な復習が望ましいです。また、好奇心を持って自ら学習の課題を持って講義に参加することで学習効果はより高くなります。 事前学習、事後学習の時間：あわせて90分程度。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション・暗号資産市場の現状と課題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Basics of block chain(1)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Basics of block chain(2)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Current topics on Bitcoin(1)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Current topics on Bitcoin(2)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Ethereum",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Debates on Bitcoin v.s. Ethereum",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Financial risks and regulations",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Onter native L1 Chains",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Distributed ID",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Second layer technology",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Stable coins",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Defi (1)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Defi (2)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Current topics and issues",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "Exam.",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

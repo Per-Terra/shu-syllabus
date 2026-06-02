@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:54Z",
+    "fetched_at": "2026-06-02T11:58:44Z",
     "name_ja": "生涯発達論",
     "name_en": "Lifespan Development",
     "syllabus_number": "2114600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 看護学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "梅村　比丘",
@@ -38,10 +38,10 @@
         {
             "title": "使用しない。適宜、資料を配布する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -49,10 +49,10 @@
         {
             "title": "適宜、紹介・配布する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -62,7 +62,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートPCなど",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "筆記試験：100％",
     "evaluation_ratio": {
@@ -73,7 +73,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -157,5 +157,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

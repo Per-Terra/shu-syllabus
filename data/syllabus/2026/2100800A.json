@@ -1,0 +1,248 @@
+{
+    "fetched_at": "2026-06-02T11:57:23Z",
+    "name_ja": "データの可視化",
+    "name_en": "Data Visualization",
+    "syllabus_number": "2100800A",
+    "course_number": "31-1-21-33-08",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "１． データの可視化における基本的な知識を理解している。\n２． Pythonを用いて基礎的な可視化が可能である。\n３． 授業で学んだ知識を元に、応用した可視化が可能である。",
+    "overview": "この授業は大量のデータ・情報を視覚的に表現することでその特徴や意議を直感的に把握しやすくするための知識と技術を修得することを目的とする。データの可視化のために、それを視覚によって捉える人間の諸特性や視覚的多様性への配慮、情報の種類に適した表現方法の選択、可視化を実現する手法などについて理解することが必要である。授業ではこれらの知識について理解し、加えてプログラミング言語 Python のライブラリ Matplotlib や Plotly を用いて可視化を実践できるようになることを目標とする。\n\nこの授業はPython入門を先修条件としている。Python入門を履修済みでない学生は履修できないので注意すること。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "情報可視化入門",
+            "publication_year": 2021,
+            "author": "三末和男",
+            "publisher": "森北出版",
+            "price": 3520,
+            "isbn": "978-4-627-85591-5",
+            "available_on_campus": false
+        },
+        {
+            "title": "データ分析者のためのPythonデータビジュアライゼーション入門",
+            "publication_year": 2020,
+            "author": "小久保奈都弥",
+            "publisher": "翔泳社",
+            "price": 2640,
+            "isbn": "9784798163970",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "Python入門"
+        ],
+        "recommended": [],
+        "required_materials": "必携パソコン",
+        "other": null
+    },
+    "grading_criteria": "到達目標 1 及び 2 について、各回の小テスト・小レポートによって評価し、到達目標 1～3 について\n期末レポートによって評価する。\n成績評価の配点 小テスト、小レポート 40％、期末レポート 60%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "データの可視化は世界にあふれる情報を整理し効果的に把握・検討するために有用な知識・技能を学びます。この技能修得のためには、Pythonを用いた実践も大変重要です。各回の課題にしっかりと取り組んで、小テスト・小レポートによって自身の理解を振り返って下さい。\n\n事前学習、事後学習の時間：あわせて90分程度（プログラミング課題含む）。\n\n【オフィスアワー】\n水曜日3時限目　 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、情報可視化、プログラミング環境の確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "視覚の性質と可視化の基本的考え方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "データの種類、Pythonでのデータの取り扱い",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "基本データからの可視化1：ヒストグラム、ボックスプロット",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "基本データからの可視化2：散布図、バブルチャート",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "複数のグラフを組み合わせた可視化1：散布図行列、ジョイントプロット",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "複数のグラフを組み合わせた可視化2：質的変数のプロット、並行座標プロット",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "基礎的な統計量の可視化1：縦棒グラフ、横棒グラフ、折れ線グラフ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "基礎的な統計量の可視化2：円グラフ、ドーナツグラフ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "データの構造の可視化 1:ヒートマップ、ウォーターフォールチャート、ツリーマップ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "データの構造の可視化 2:サンバーストチャート、レーダーチャート",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "位置情報の可視化：色分けマップ、地図上でのチャート表現",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "文字情報の可視化：ワードクラウド",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "インフォグラフィックによる可視化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "期末レポートについてとまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

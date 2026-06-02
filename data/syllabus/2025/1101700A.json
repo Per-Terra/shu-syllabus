@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-07T10:24:29Z",
+    "fetched_at": "2026-06-02T11:53:56Z",
     "name_ja": "コミュニケーション英語Ⅳ",
     "name_en": "English CommunicationⅣ",
     "syllabus_number": "1101700A",
@@ -8,12 +8,12 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,10 +38,10 @@
         {
             "title": "E-learning教材を提供する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:29Z",
+    "fetched_at": "2026-06-02T11:52:55Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000B",
@@ -12,12 +12,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -67,10 +67,10 @@
         {
             "title": "適宜指示する",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -318,5 +318,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

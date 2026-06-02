@@ -1,0 +1,212 @@
+{
+    "fetched_at": "2026-06-02T11:55:33Z",
+    "name_ja": "スポーツマネジメント",
+    "name_en": "Sport Management",
+    "syllabus_number": "2011500A",
+    "course_number": "21-3-25-22-06",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. スポーツマネジメントの定義を理解できる。\n2. スポーツマネジメント手法であるスポーツスポンサーシップの構造について理解できる。\n3. 日本のスポーツ政策と行財政制度の基本を理解した上で、公共スポーツ施設管理運営方法の基礎理論を理解できる。\n4. スポーツ企業のブランディング戦略について理解できる。",
+    "overview": "スポーツマネジメントは、スポーツ関連事業の促進又はその組織化に関与する人、活動、業務等の研究と実践に関わる理論である。本講義では、スポーツマネジメントの定義と理論を理解した上で、グローバルビッグスポーツイベントとしての近代オリンピック大会マネジメントの歴史的変容とこれがスポーツ界に及ぼした影響について理解する。また、日本のスポーツ政策及び行財政制度を理解した上で、地域スポーツの振興に密接な公共スポーツ施設マネジメントの個別事例を理解する。さらに、世界的なスポーツ企業である NIKE、アディダス、プーマ、コンバース社などの経営史からスポーツ関連企業マネジメントに関する理解を深める。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題レポート 60％、講義のまとめ 40％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "自らのスポーツ経験や実践、部活動のマネジメントに関わる課題や問題を意識しながら、講義内容の理解を深めてもらいたい。\n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "スポーツマネジメント研究の成立及び定義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "グローバルビッグスポーツイベントのマネジメント 1－ピエール・ド・クーベルタンの教育・スポーツ思想と近代オリンピック大会の開催－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "グローバルビッグスポーツイベントのマネジメント 2－1984年ロス五輪におけるスポーツスポンサーシップ構造－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "グローバルビッグスポーツイベントのマネジメント 3－1984年ロス五輪におけるメディエーテッドスポーツマネジメントの構造－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "2020 年東京オリンピック大会マネジメントの検証－JOC各種報告の収集－（学生グループワーク）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "2020 年東京オリンピック大会マネジメントの検証－JOC各種報告の分析－（学生グループワーク）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "公共スポーツ施設マネジメント1－日本のスポーツ政策及び地方スポーツ行財政の理解－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "公共スポーツ施設マネジメント 2－PFI、指定管理者制度－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "公共スポーツ施設マネジメント 3－地方における個別事例の理解、特に周南市公園緑地公園の管理運営について－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "スポーツ企業マネジメント 1－NIKE の経営史とブランディング戦略－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "スポーツ企業マネジメント 2－Adidas と Pumaの経営史とブランド戦略について－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "スポーツ企業マネジメント 3－Converse社の経営史からみるフットウエアマネジメント戦略－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "国内スポーツメーカの経営－個別企業の事例研究－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,0 +1,225 @@
+{
+    "fetched_at": "2026-06-02T11:55:46Z",
+    "name_ja": "情報社会と職業",
+    "name_en": "IT Society and Profession",
+    "syllabus_number": "2021500A",
+    "course_number": "31-3-91-21-01",
+    "departments": [
+        "福祉情報学部",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "阿濱　志保里",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n職業において情報社会に接するために必要な知識や技術の習得を中心とし、情報通信技術(ICT)の現状やICTを利用する際の心得，現状や問題点と最近の労働のあり方について考える。\n\n【到達目標】\n①情報倫理（マナー・個人情報保護）について学び、生活に応用できる。\n②メディアについて正しく理解でき、説明できる。\n③情報を巡る問題について、論理的・多角的に分析し解決するスキルを身につける。",
+    "overview": "情報社会の進展に伴い、私たちの身の回りのことは大きな変化が見られる。これからの情報社会に生きる社会人として情報社会の光と影、知的財産について理解し、必要な知識と技能を習得します。 さらに、情報社会における職業に関しての知識を学ぶとともに、社会生活に必要な態度を学びます。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "情報社会の光と影ver7",
+            "publication_year": 2025,
+            "author": "情報教育学研究会（IEC） 編／情報倫理教育研究グループ 編",
+            "publisher": "北大路書房",
+            "price": 2420,
+            "isbn": "9784762832796",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "授業時に案内します",
+        "other": "なし"
+    },
+    "grading_criteria": "「④授業のテーマ及び到達目標」に掲げた到達目標への習熟度を、試験40％、小テスト30％、レポート30％の割合で評価する。",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 30,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【オフィスアワー】\n授業開始前・開始後，またはメール等を使い，質問等に対応します。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ガイダンス及び情報社会の特徴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "情報倫理（１）個人情報・プライバシーについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "情報倫理（２）インターネット社会の光の部分の事例紹介",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "情報倫理（３）インターネット社会の影の部分の事例紹介",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "知的財産（１）知的財産全般について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "知的財産（２）知的財産（著作権）について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "知的財産（３）ビジネス場面を想定した知的財産の事例についての職業指導の解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "知的財産（４）学校教育に関連した知的財産の事例について解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "メディアリテラシー（１）メディアの特徴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "メディアリテラシー（２）メディアの特徴、各メメディアから得られる情報の違いについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "メディアリテラシー（３）実際に掲載されている記をもとに情報の特性の比較",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "メディアリテラシー（４）実際に掲載されている記事をもとに情報の特性の分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "職業理解（１）日本の雇用制度について解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "職業理解（２）情報社会に関連した職業について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "本講義まとめ及び振り返り（情報社会関連事項について、課題や問題点を指摘する）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　志保里"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

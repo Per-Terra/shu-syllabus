@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:03:00Z",
+    "fetched_at": "2026-06-02T11:57:12Z",
     "name_ja": "コンディショニング論",
     "name_en": "Conditioning theory",
     "syllabus_number": "2032200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "佐野村　学",
@@ -52,7 +52,7 @@
             "author": "公益財団法人 日本スポーツ協会",
             "publisher": "文光堂",
             "price": 4400,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -66,8 +66,8 @@
         "recommended": [
             "スポーツ医学"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {

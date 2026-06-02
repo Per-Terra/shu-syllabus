@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:30Z",
+    "fetched_at": "2026-06-02T11:56:52Z",
     "name_ja": "ソーシャルワーク演習Ⅱ",
     "name_en": "Social Work Practice Ⅱ",
     "syllabus_number": "2028500A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,10 +42,10 @@
         {
             "title": "配布資料にて授業を展開する",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -63,7 +63,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "ソーシャルワーク実習Ⅰ・Ⅱを履修する学生は、必ずこの科目を履修すること"
     },
     "grading_criteria": "①関連科目で学習したソーシャルワークの価値・知識・技術を、具体的な事例において説明できる。\n②事例検討の目的を理解し、事例検討の方法を習得する。\nこの2項目を下記の「学生に対する評価」に沿って評価する。「その他」は演習におけるソーシャルワーカーとしての態度で臨んでいるかどうかを評価する。",
@@ -248,5 +248,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

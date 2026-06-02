@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:06Z",
+    "fetched_at": "2026-06-02T11:55:43Z",
     "name_ja": "レクリエーション実習",
     "name_en": "Recreation training",
     "syllabus_number": "2011795A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　克成",
@@ -51,7 +51,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "(i) レクリエーション事業についての理解\n(ii) 学外実習・事業参加によって基礎的な技術を習得している\n(ⅲ) 学外実習・事業参加の成果や課題を発表できる",
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

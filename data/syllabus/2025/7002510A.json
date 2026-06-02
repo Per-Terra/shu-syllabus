@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:07:24Z",
+    "fetched_at": "2026-06-02T12:00:13Z",
     "name_ja": "特別活動および総合的な学習の時間",
     "name_en": "Special Activities the Period for Integrated Studies",
     "syllabus_number": "7002510A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -276,5 +276,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

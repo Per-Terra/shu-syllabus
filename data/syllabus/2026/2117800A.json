@@ -1,0 +1,268 @@
+{
+    "fetched_at": "2026-06-02T11:59:17Z",
+    "name_ja": "成人急性期看護実践",
+    "name_en": "Adult Acute Care Nursing Practice",
+    "syllabus_number": "2117800A",
+    "course_number": "22-3-23-21-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "松浦　純平",
+            "is_primary": true
+        },
+        {
+            "name": "多田　めぐみ",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 周手術期にある対象の生体反応や治療・回復過程の特徴をふまえた看護が展開できる。\n2. 周手術期・急性変化によって起こる対象の苦痛緩和、合併症予防、回復への援助が実践できる。 \n3. 治療による身体機能・自己イメージの変化とともに生きていく患者援助が実践できる。\n4. 周手術期にある対象に対する倫理的側面を考慮した看護援助が実践できる。",
+    "overview": "本授業は、周術期にある対象に対する看護過程の展開と的確な看護援助の習得を目的とする。本授業では、周術期にある対象の心身の特徴、治療、看護の役割、主要概念や理論に基づいた看護実践を学ぶ。本授業を通して、周術期の健康障害に関する対象の情報を多角的に分析、判断し、最新のevidenceをもとに的確な看護過程を展開する基礎的能力を身につける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [
+        {
+            "title": "看護学テキストNICE　成人看護学 急性期看護Ⅰ 概論・周術期看護【改定第4版】",
+            "publication_year": 2023,
+            "author": "林直子、佐藤まゆみ編集",
+            "publisher": "南江堂",
+            "price": 3520,
+            "isbn": "978-4-524-23231-4",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護学テキストNICE　成人看護学　急性期看護Ⅱ　クリティカルケア【改定第4版】",
+            "publication_year": 2023,
+            "author": "佐藤まゆみ、林直子編集",
+            "publisher": "南江堂",
+            "price": 3300,
+            "isbn": "978-4-524-23288-8",
+            "available_on_campus": true
+        },
+        {
+            "title": "基礎看護学で使用した看護技術テキスト",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "エビデンスに基づく呼吸器/循環器/消化器/脳神経/運動器/疾患別　看護ケア関連図",
+            "publication_year": null,
+            "author": null,
+            "publisher": "中央法規出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "筆記試験90％（60％以上の得点で可とする）、授業の振り返りレポート10％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 100,
+        "other": 0
+    },
+    "teacher_message": "予習については、テキスト該当頁、参考図書の該当頁を熟読するとともに、理解できない個所を明確にする。また、関連動画がある場合は視聴する。復習においてはテキスト、講義資料、参考文献などを用いて、学習した内容を整理し、理解を深める。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "講義ガイダンス、周術期にある患者の看護1：看護過程の展開の概要、事例紹介",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "周術期にある患者の看護2：情報収集・アセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "周術期にある患者の看3：情報収集・アセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "周術期にある患者の看護3：関連図",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "周術期にある患者の看護4：看護問題抽出・看護診断",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "周術期にある患者の看護5：看護計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "周術期にある患者の看護6：看護計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "周術期にある患者の看護実践1：術前の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "周術期にある患者の看護実践2：術前の援助・看護記録",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "周術期にある患者の看護実践3：手術直後の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "周術期にある患者の看護実践4：手術直後の援助・看護記録・看護計画評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "周術期にある患者の看護実践5：術後1日目の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "周術期にある患者の看護実践6：術後１日目の援助・看護記録・看護計画評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "周術期にある患者の看護実践7：術後回復期の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "周術期にある患者の看護実践8：術後回復期の援助・看護記録・看護計画評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松浦純平",
+                "多田めぐみ"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "本科目は臨床看護師としての十分な実務経験のある実務家教員による科目である。"
+}

@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:02:01Z",
+    "fetched_at": "2026-06-02T11:57:08Z",
     "name_ja": "障害者福祉Ⅰ",
     "name_en": "Social Services for the Disabled Ⅰ",
     "syllabus_number": "2029400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,7 +49,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "定期試験を50％、単元ごとの小テストを50％で評価する。単元ごとというのは、授業計画にある例えば「障害概念と特性」や、「障害者福祉の理念」などである。",
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

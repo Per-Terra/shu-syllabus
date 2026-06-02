@@ -1,0 +1,231 @@
+{
+    "fetched_at": "2026-06-02T11:58:39Z",
+    "name_ja": "リコンディショニング論",
+    "name_en": "Reconditioning",
+    "syllabus_number": "2111900A",
+    "course_number": "21-3-24-21-06",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "久保　誠司",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．JSPO-ATの役割としてのリコンディショニングについて説明できる。\n２．リコンディショニングで活用される方法と理論について説明できる。\n３．身体的状態やスポーツ動作に応じたリコンディショニング計画と対応方法について説明できる。",
+    "overview": "日本スポーツ協会アスレティックトレーナー（JSPO-AT）の役割としてのリコンディショニングの位置づけと必要な知識、技能や態度について説明できることを目指す。リコンディショニングで用いられる代表的な手法（各種エクササイズや補装具、物理的刺激および徒手的アプローチ）の基礎理論と方法について、対象者や対象部位に対する対応方法と実践について理解する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト4巻 リコンディショニング(2022年カリキュラム対応)",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "授業への参加意欲20%、発表20%、課題レポート30%、試験30%",
+    "evaluation_ratio": {
+        "exam": 30,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "JSPO-ATの役割におけるリコンディショニング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "リコンディショニングの過程と内容",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "リコンディショニングで用いるエクササイズの手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "リコンディショニングで用いるテーピング・装具の手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "リコンディショニングで用いる物理的刺激・徒手的アプローチの手法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "リコンディショニングにおける評価と活用方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "リコンディショニングにおけるプログラミングの実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "スポーツ外傷・障害の特性を踏まえたプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "競技特性を踏まえたプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "リスク管理・再発予防への配慮とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "スポーツ外傷・障害に応じたプログラミングの発表",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "競技特性や対象者に応じたプログラミングの発表",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "対象者に応じたプログラミングの発表",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "リコンディショニングに必要な組織修復・治癒過程の知識",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "競技特性や対象者の問題に応じたリコンディショニングと実践例",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験",
+            "teaching_methods": [],
+            "teachers": [
+                "久保　誠司"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "（久保誠司）これまでのスポーツ医科学の研究者および教育者、競技スポーツの現場におけるコンディショニング指導の経験を踏まえ、運動やスポーツの実践的な理解に繋がる教育を行っている。"
+}

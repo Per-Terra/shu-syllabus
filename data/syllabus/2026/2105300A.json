@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:57:56Z",
+    "name_ja": "金融データ解析",
+    "name_en": "Financial Data Analysis",
+    "syllabus_number": "2105300A",
+    "course_number": "31-3-24-34-04、28-3-49-34-06",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "中山　季之",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "テーマ：金融市場への理解と金融データに対するデータ解析の基礎\n\n到達目標：\n1. 証券の価格形成メカニズムの背景を理解し、価格データの特性について説明できる。 \n2. 金融データ分析の目的に沿った分析手法を選択できる。 \n3. 分析結果を正しく評価し社会や企業における金融・財務の諸問題に対して応用できる。",
+    "overview": "金融取引および金融市場について説明したのち、証券（株式、債券、デリバティブなど）の価格形成について経済理論の概略を交えて説明する。次に、金融データの取得・作成方法、証券価格変動の特性、などの金融データ分析における基礎的な事項を説明し、データの特性に合った分析手法を紹介する。いくつかの事例に対してデータ分析の目的を設定し、目的に沿った分析手法を選択、分析結果の検討・展開、という一連のプロセスを経験する。具体的な事例としては、ポートフォリオ理論に基づく投資戦略の策定、モンテカルロシミュレーションによるポートフォリオ将来価値の予測、金融資産のリスク計量化、などである。",
+    "diploma_policies": [
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Excel＆VBAで学ぶファイナンスの数理",
+            "publication_year": 2003,
+            "author": "木島正明・青沼君明",
+            "publisher": "金融財政事情研究会",
+            "price": 2970,
+            "isbn": "978-4322104073",
+            "available_on_campus": true
+        },
+        {
+            "title": "信用リスク評価の数理モデル",
+            "publication_year": 1999,
+            "author": "木島正明・小守林克哉",
+            "publisher": "朝倉書店",
+            "price": 3960,
+            "isbn": "978-4254275087",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "確率統計基礎",
+            "多変量解析"
+        ],
+        "recommended": [],
+        "required_materials": "筆記具、パソコン（Excelも含む）",
+        "other": null
+    },
+    "grading_criteria": "事例分析はチーム（１チーム５名以内）で実施し、進捗に合わせてプレゼンテーションを行い結果報告のレポートを提出する。評価基準は、分析手法が目的に合致しているか、分析結果の検討・展開が適切であるか、などである。成績評価は、講義中の議論への参加（30％）、プレゼンテーション（30％）、レポート（40％）とする。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "金融リテラシーが叫ばれて久しいですが、金融はしばしば「経済の血液」とも表現され、企業活動だけでなく、社会生活を送るうえで個人にとっても必要不可欠な分野です。金融に関するデータは、公的データを含めて大量かつ正確に取得することができ、本講義ではそれらのデータを用いて、金融市場や証券価格の動きを分析するための基礎的な考え方と手法を学びます。講義で扱う理論や分析手法を、実際のデータに適用する経験を通じて、社会や企業における金融・財務上の課題をデータに基づいて考察できる力を身につけることを期待しています。\n\n授業後の復習や演習問題への取り組みとして、おおむね1時間程度の学習時間を想定しています。継続的に復習を行うことで、講義内容の定着と応用力の向上につながります。\n\n【オフィスアワー】講義のある曜日に対応します。不在の場合は、メールで受け付けます。\n\n【オフィスアワー】講義のある曜日に対応します。不在の場合は、メールにてご連絡ください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、確率統計基礎の復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "金融の仕組みと役割、金融商品とリスク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "金融市場と金融取引、新しい金融ビジネス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "収益率と対数収益率、データの取得・整理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "証券の価格形成メカニズム、金融データの特性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ポートフォリオ理論と回帰モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "代表的な統計モデル（因子分析、主成分分析、など）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "事例分析１：投資戦略の策定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "事例分析１：結果報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "定常時系列モデル、確率微分方程式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "事例分析２：ポートフォリオ価値の予測",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例分析２：結果報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "機械学習、ロジットモデル、判別分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "事例分析３：信用格付けの推定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "事例分析３：結果報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "担当教員は、これまでの実務経験においても金融データ解析に長年携わっており、その経験も踏まえて本講義を担当する。本講義では、学術的な内容を中心に据えつつ、理解を深めるために、金融分野における実務上の適用例を適宜紹介する。"
+}

@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:27Z",
+    "fetched_at": "2026-06-02T11:52:56Z",
     "name_ja": "レクリエーション",
     "name_en": "Recreation",
     "syllabus_number": "1005700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "水﨑　佑毅",
@@ -53,7 +53,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "授業中の取り組みやレポートによる評価に加え、レクリエーションの基礎知識＋αを問うために最終回に振り返りとしての小テストを実施します。また、実技中の取り組み態度や興味・関心についても評価を行います。",
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

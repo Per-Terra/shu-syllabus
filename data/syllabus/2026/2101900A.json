@@ -1,0 +1,231 @@
+{
+    "fetched_at": "2026-06-02T11:57:32Z",
+    "name_ja": "社会調査法",
+    "name_en": null,
+    "syllabus_number": "2101900A",
+    "course_number": "31-3-21-31-02",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "綿村　英一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "（１）\t社会調査に関して基本的な概念やロジックを説明できるようになる。\n（２）\t実際に自らのアイデアに基づき社会調査を行えるようになる。",
+    "overview": "本講義は、以下の３部から構成される。（1）社会科学や調査に関する基本的な概念と、専門用語の解説（第1回～第4回）、（2）定性調査（観察調査、インタビュー調査）の解説（第5回～第9回）、（3）定量調査（質問紙調査）の解説（第10回～第15回）。各調査については、調査研究計画書の作成から、調査の実施、データの分析、報告書や発表資料の作成まで解説をおこなう。本講義を通して、一貫した調査スキルを身につけることを目的とする。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC（Excelインストール済み）",
+        "other": null
+    },
+    "grading_criteria": "平常点（授業参加姿勢，発表内容など）：50点\n期末レポート：50点",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "ただ講義を受けるだけでなく，手を動かすことで社会調査の奥深さを実感してほしいと思っています。授業計画から多少変更があるかもしれません。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "社会調査の目的・重要な概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "調査の基本（１）先行研究から学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "調査の基本（２）問いを立てる",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "インタビュー調査の方法論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "インタビュー調査の分析法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "観察調査の方法論および分析法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "インタビュー調査・観察調査の実践（１）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "インタビュー調査・観察調査の実践（２）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "定量調査の基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "質問紙調査の方法論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "質問紙調査の分析法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "第8回の報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "結果の解釈",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ，社会調査の意義再考",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "綿村",
+                "英一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

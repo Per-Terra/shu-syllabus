@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:52Z",
+    "fetched_at": "2026-06-02T11:58:43Z",
     "name_ja": "アスレティックトレーニング概論",
     "name_en": "Introduction to Athletic Training",
     "syllabus_number": "2110600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "佐野村　学",
@@ -38,10 +38,10 @@
         {
             "title": "公認アスレティックトレーナー専門科目　第1巻アスレティックトレーナーの役割",
             "publication_year": 2022,
-            "author": "",
+            "author": null,
             "publisher": "日本スポーツ協会",
             "price": 3410,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -49,18 +49,18 @@
         {
             "title": "公認スポーツ指導者資格　共通科目リファレンスブック",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "日本スポーツ協会",
             "price": 4840,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "筆記試験30％、課題レポート30％、発表30％、授業への参加意欲10％",
     "evaluation_ratio": {
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

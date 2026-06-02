@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:17:58Z",
+    "fetched_at": "2026-06-02T11:56:44Z",
     "name_ja": "児童・家庭福祉",
     "name_en": "Social Work Theory for the Child and Family",
     "syllabus_number": "2027300A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -62,7 +62,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①児童・家庭及び妊産婦の生活とそれを取り巻く社会環境②児童の育ちとそれに影響を及ぼす諸問題③児童福祉の歴史と児童観の変遷や制度の発展過程④児童や家庭福祉に係る法制度⑤児童や家庭福祉領域における支援の仕組みと方法⑥児童・家庭福祉における関係機関と専門職の役割について以下の割合で評価します。\n「試験」は、全授業後の試験期間に実施します。",
     "evaluation_ratio": {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

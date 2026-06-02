@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:03:19Z",
+    "fetched_at": "2026-06-02T11:57:54Z",
     "name_ja": "保育士特別セミナーⅤ",
     "name_en": "Studying for Examination of Early Childhood Education and Care Ⅴ",
     "syllabus_number": "2041500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -44,10 +44,10 @@
         {
             "title": "教科書は、保育士特別セミナーⅠで指定した教科書を使用します。また、授業中に資料する資料を用いて進めていきます。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -55,10 +55,10 @@
         {
             "title": "参考図書は授業内で適宜案内します。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -278,5 +278,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:39Z",
+    "fetched_at": "2026-06-02T11:55:01Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600H",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -46,8 +46,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i)テーマ\n(ii)作品・論文\n(iii)プレゼンテーション",
     "evaluation_ratio": {

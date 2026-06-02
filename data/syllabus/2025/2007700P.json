@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:38Z",
+    "fetched_at": "2026-06-02T11:55:40Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700P",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -59,7 +59,7 @@
             "地域経済論",
             "国際経済学"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "毎回の研究報告や卒業論文に基づいて評価します。",
@@ -375,5 +375,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

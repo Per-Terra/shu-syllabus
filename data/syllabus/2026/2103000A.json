@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:57:41Z",
+    "name_ja": "AI・自然言語処理",
+    "name_en": "AI・Natural Language Processing",
+    "syllabus_number": "2103000A",
+    "course_number": "31-3-22-31-03",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "橋本　喜代太",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．人間の言語の特徴・困難点を理解した上で、それらを克服するための自然言語処理技術の基本を理解できる\n２．自然言語処理のさまざまなタスクについてそれぞれの基本を理解できる\n３．Python を用いた初歩的な自然言語処理技術の実装方法を身に付ける\n４．近年の大規模言語モデル等の構造を理解し、その改善の方向性を検討できる",
+    "overview": "人間の言語（自然言語）をコンピュータで扱う自然言語処理はAIの大きな一分野として長い歴史を持つ。自然言語の扱いにはさまざまな困難点があるが、近年の大規模言語モデルの急速な発展により、自然言語処理という学問分野は大きく変貌を遂げつつある。本講義では、基本的な自然言語処理の対象と技術、そしてタスクを概観した上で、機械学習、特にTransformerを用いた深層学習を中心として、その数理・構造を理解することを目的とする。その際、Pythonを用いた部分実装等を含むことで、実践的なスキルを身に付ける。なお、以上のように本科目は自然言語処理という技術的テーマを扱う科目であって、生成AIのプロンプトエンジニアリングなど、ユーザとしての使い方を講じるものではない点、履修申請時に十分留意すること。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記具・ノート、ノートPC",
+        "other": null
+    },
+    "grading_criteria": "１．自然言語処理技術の基本、２．さまざまな自然言語処理タスク、３．初歩的な自然言語処理技術\nを実装するスキル、について、以下の「学生に対する評価」により評価する。\n授業内の試験50％、課題演習50％（授業期間内に提示される10 の課題のうち5 つ以上を選択する）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "人間の言語は人間の知性の象徴であり、それを計算機でどのように処理するかはAI の中心課題の一\nつであった。特に近年は深層学習の活用による発展が著しい。その基本の習得のため、合計で3 時間\n程度を想定される予習復習においては授業時に提示するさまざまなオンラインコンテンツを利用し\nて習得度を高めるように工夫する。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "自然言語処理とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "人間の言語(自然言語)の特徴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "単語の表現(1)　人間の視点から",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "単語の表現(2)　計算機の視点から",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "自然言語のための機械学習の基礎",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "系列のためのニューラルネットワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "言語モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "アテンションとTransformer",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "大規模言語モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "大規模言語モデルのチューニング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "「意味」の処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "大規模言語モデルの改善",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "推論モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "自然言語処理の近年の動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本喜代太"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

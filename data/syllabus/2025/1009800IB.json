@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:41Z",
+    "fetched_at": "2026-06-02T11:53:02Z",
     "name_ja": "教養ゼミ（IS-1～10）",
     "name_en": "Academic Skills Education",
     "syllabus_number": "1009800IB",
@@ -8,17 +8,17 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "酒井　徹也",
-            "is_primary": false
+            "is_primary": true
         },
         {
             "name": "羽渕　由子",
@@ -45,7 +45,7 @@
             "is_primary": false
         },
         {
-            "name": "小柳　淳二",
+            "name": "小栁　淳二",
             "is_primary": false
         },
         {
@@ -54,6 +54,14 @@
         },
         {
             "name": "河村　拓実",
+            "is_primary": false
+        },
+        {
+            "name": "田中　輝明",
+            "is_primary": false
+        },
+        {
+            "name": "中山　季之",
             "is_primary": false
         }
     ],
@@ -386,5 +394,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

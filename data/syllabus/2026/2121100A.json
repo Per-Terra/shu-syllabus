@@ -1,0 +1,174 @@
+{
+    "fetched_at": "2026-06-02T11:59:35Z",
+    "name_ja": "公衆衛生看護学概論",
+    "name_en": "Introduction to Public Health Nursing",
+    "syllabus_number": "2121100A",
+    "course_number": "22-2-27-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "鶴田　来美",
+            "is_primary": true
+        },
+        {
+            "name": "木倉　悠子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．公衆衛生看護の基本理念と目的を理解し、説明できる。\n２．公衆衛生看護の対象と活動の場を理解し、説明できる。\n３．人々の健康生活を支える社会資源や制度についての基礎的事項を理解し、説明できる。",
+    "overview": "本授業は、地域で生活する人々の生命と暮らしをまもる公衆衛生看護の基本理念、活動の対象及び活動の場、活動の特性について学ぶ。本授業では、公衆衛生看護活動の対象と人々の健康生活の保持増進、疾病予防、健康の回復のために必要な社会資源や制度について理解する。本授業を通して、保健・医療・福祉チームの一員としての看護職の役割と地域住民との協働に関する基礎的知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP3",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "標準保健師講座１　公衆衛生看護学概論",
+            "publication_year": 2022,
+            "author": "標　美奈子他著",
+            "publisher": "医学書院",
+            "price": 3520,
+            "isbn": "978-4-260-04707-4",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "厚生の指標　国民衛生の動向",
+            "publication_year": 2024,
+            "author": "厚生労働統計協会",
+            "publisher": "厚生労働統計協会",
+            "price": 2970,
+            "isbn": "03854-08",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "この科目は、公衆衛生看護活動Ⅰ、公衆衛生看護活動Ⅱの先修条件科目である。"
+    },
+    "grading_criteria": "筆記試験95％、課題レポート５％",
+    "evaluation_ratio": {
+        "exam": 95,
+        "quiz": 0,
+        "report": 5,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "公衆衛生看護学概論は、保健師課程の履修を希望する学生のみならず、看護師免許取得希望者においても必要な内容を含む科目です。ただし、保健師課程の履修を希望する学生は、選抜に係る科目であることを念頭においてください。（事前学習45分、事後学習45分）",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "公衆衛生看護の理念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "公衆衛生看護の対象",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "公衆衛生看護活動の場（行政機関）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "公衆衛生看護活動の場（職域・学校・その他）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "公衆衛生看護活動の展開の基盤",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "公衆衛生看護活動の展開方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "公衆衛生看護の歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "公衆衛生看護管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "期末試験（60分）S1401",
+            "teaching_methods": [],
+            "teachers": [
+                "鶴田　来美",
+                "木倉　悠子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "公衆衛生看護の実務経験のある教員が担当する。"
+}

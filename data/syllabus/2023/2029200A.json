@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:41Z",
+    "fetched_at": "2026-06-02T11:56:54Z",
     "name_ja": "高齢者福祉Ⅰ",
     "name_en": "Welfare for the Elderly I",
     "syllabus_number": "2029200A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,8 +53,8 @@
             "相談援助の基礎と専門職Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "１．高齢者の生活実態及び社会環境、２．高齢者福祉の歴史と理念、３．高齢者に対する介護保険制度をはじめ関連諸制度、４．高齢者と家族等の支援における関係機関と専門職の役割\n　上記１～４に関する理解度を以下の「学生に対する評価」により評価します。",
     "evaluation_ratio": {
@@ -65,7 +65,7 @@
         "portfolio": 0,
         "other": 15
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "１",
@@ -73,9 +73,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "２",
@@ -83,9 +81,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "３",
@@ -93,9 +89,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "４",
@@ -103,9 +97,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "５",
@@ -113,9 +105,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "６",
@@ -123,9 +113,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "７",
@@ -133,9 +121,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "８",
@@ -143,9 +129,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "９",
@@ -153,9 +137,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１０",
@@ -163,9 +145,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１１",
@@ -173,9 +153,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１２",
@@ -183,9 +161,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１３",
@@ -193,9 +169,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１４",
@@ -203,9 +177,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１５",
@@ -213,11 +185,9 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

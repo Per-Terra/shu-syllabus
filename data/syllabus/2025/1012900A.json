@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:56:01Z",
+    "fetched_at": "2026-06-02T11:53:15Z",
     "name_ja": "ビジネス英作文",
     "name_en": "English for Business Writing",
     "syllabus_number": "1012900A",
@@ -11,12 +11,12 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -247,5 +247,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

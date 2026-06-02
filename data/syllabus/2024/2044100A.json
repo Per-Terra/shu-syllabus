@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:05:34Z",
+    "fetched_at": "2026-06-02T11:58:12Z",
     "name_ja": "計量経済学",
     "name_en": "Econometrics",
     "syllabus_number": "2044100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "河田　正樹",
@@ -243,5 +243,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

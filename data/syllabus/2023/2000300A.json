@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:35Z",
+    "fetched_at": "2026-06-02T11:54:15Z",
     "name_ja": "ミクロ・マクロ経済学演習",
     "name_en": "Exercises in Micro&Macro Economics",
     "syllabus_number": "2000300A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

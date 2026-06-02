@@ -1,0 +1,217 @@
+{
+    "fetched_at": "2026-06-02T11:54:26Z",
+    "name_ja": "地方財政論",
+    "name_en": "Local Government Finance",
+    "syllabus_number": "2002400A",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "地方自治体の制度や現状、問題を理解できるようになること。また、地方財政に関する現状や問題について、自分で考える応用力と実践力がつくように、それらの養成を目標とする。",
+    "overview": "本科目の目的はディブロマ・ポリシーに明記されているように，IT化，グローバル化，大競争という激動する経済社会のなかで「ヒト，モノ，カネ，情報」に関わる流通の最適なシステムを構築し，提案するために専門基礎科目及び展開科目の学びを通じて得た知識に加え、さらに幅広い専門知識を習得することにある。\n授業では、地方公共団体の財政活動について説明し、具体的な事象について講義する。\n地方公共団体が提供する公共サービスは、私達の生活に密接に関係していることを具体的に見ていき、同時に少子高齢化が進む中で、各自治体だけで十分な公共サービスの提供が困難な自治体もあることについても講義を行う。そして、介護や医療などの費用の増加が各地方自治体だけでなく、国の財政を圧迫している現状についてもデータ等を見ながら説明し、国と地方公共団体のかかわりについても講義を行う。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "財政学",
+            "租税論"
+        ],
+        "required_materials": "筆記用具、ノート、授業で使用するパワーポイント",
+        "other": null
+    },
+    "grading_criteria": "授業中に行う振り返りシート（レポート）に基づき評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "地方財政論は財政学の一分野ですが、より私たちに身近な地方政府の財政を扱う学問です。地方財政のシステムや分権化に関して の議論は私たちから遠く離れたもののように感じますが、私たちの生活にも直接関わるものだと理解した上で授業に参加し、主体的 に学んで下さい。 \n【予習・復習について】\n地方自治体の問題を自分の問題としてとらえ考えることができるようになることを目指す。そのために新聞やニュースで見聞きしたことを、授業で学んだことと関連付けて自分で考えるために、毎回の授業の予習復習には30分程度必要である。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ガイダンス・地方財政論とは？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "財政3機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "公共財",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "地方自治とは？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "日本の租税体系と税収構造・日本財政の現状",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "地方税①／住民税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "地方税②／固定資産税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "社会保障①／社会保障の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "社会保障②／最低生活の保障",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "社会保障③／年金",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "地方交付税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "地方交付税と国庫支出金",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "地方債",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "地方公営企業と第3セクター",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

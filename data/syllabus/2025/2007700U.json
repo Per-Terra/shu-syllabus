@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:43Z",
+    "fetched_at": "2026-06-02T11:55:44Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700U",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -45,7 +45,7 @@
         ],
         "recommended": [],
         "required_materials": "PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標の１～３については発表を通じての論文の途中経過の報告や、他ゼミ生の報告に対するコメントなどを評価します。\nその他は到達目標の４について完成した卒業論文を評価します。",
     "evaluation_ratio": {
@@ -360,5 +360,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

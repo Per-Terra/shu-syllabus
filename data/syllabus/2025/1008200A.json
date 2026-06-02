@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:55:30Z",
+    "fetched_at": "2026-06-02T11:52:55Z",
     "name_ja": "応用数学",
     "name_en": "Applied mathematics",
     "syllabus_number": "1008200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -22,7 +22,7 @@
             "is_primary": false
         }
     ],
-    "term": "通年",
+    "term": "前期",
     "credits": 2,
     "teaching_methods": [
         "講義",
@@ -243,5 +243,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

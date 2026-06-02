@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:33Z",
+    "fetched_at": "2026-06-02T11:52:57Z",
     "name_ja": "教養スポーツ実習Ⅰ（1-16）",
     "name_en": "Sports Ⅰ",
     "syllabus_number": "1008900A",
@@ -11,12 +11,12 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -48,7 +48,11 @@
             "is_primary": false
         },
         {
-            "name": "成績認定用教員",
+            "name": "青山　翔",
+            "is_primary": false
+        },
+        {
+            "name": "永山　寛",
             "is_primary": false
         },
         {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:08Z",
+    "fetched_at": "2026-06-02T11:56:01Z",
     "name_ja": "医療的ケア",
     "name_en": "Medical care",
     "syllabus_number": "2019800A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         {
             "title": "最新・介護福祉士養成講座15「医療的ケア　第2版」",
             "publication_year": 2022,
-            "author": "",
+            "author": null,
             "publisher": "中央法規出版",
             "price": 2860,
             "isbn": "978-4-8058-8404-1",
@@ -55,7 +55,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "前期は教科書、後期は教科書及び実習着と実習室用シューズ",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "上記の到達目標8項目で評価する。留意すべき点は、36回目の講義修了試験で合格し、基本的な知識を習得していることが確認できたら、37回目からの演習に進む。演習は６項目の修了試験があり、安全に確実に一人でできることが評価基準となる。",
     "evaluation_ratio": {

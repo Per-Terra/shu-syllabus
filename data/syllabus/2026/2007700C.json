@@ -1,0 +1,413 @@
+{
+    "fetched_at": "2026-06-02T11:55:08Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700C",
+    "course_number": "11-4-31-11-01",
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "岡井　理香",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、専門ゼミⅠでの活動内容をさらに深める。達成する目標は以下の3点である。\n\n１）専門ゼミⅠで設定した「学術的問い」に対する研究・調査・実験を行う。\n２）上記の結果を分析し、卒業論文にまとめる。\n３）卒業論文のプレゼンテーションを行う。",
+    "overview": "卒論の提出に向けて、ゼミ生一人ひとりの進捗状況と希望に応じた個別ゼミを基本的な授業形式とする。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "卒論への取り組み状況、および卒業論文を総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス・オリエンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "研究テーマの設定・問題および課題の発見（先行研究）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "研究テーマの設定・問題および課題の発見（調査・データの収集）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "研究テーマの設定・問題および課題の発見（研究上の問い）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "研究テーマの設定・問題および課題の発見（発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "研究方法の確定（研究手法）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "研究方法の確定（研究計画）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "研究方法の確定（発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "データの収集（研究手法）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "データの収集（研究計画）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "データの収集（研究手法と計画の発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "データの収集（予備調査）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "データの収集（本調査）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "データの収集（調査データの発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "データの分析（アンケート）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "データの分析（フィールドワーク）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "データの分析（インタビュー）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "データの分析（分析結果の発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "卒業論文の執筆（アウトライン）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "卒業論文の執筆（目的）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "卒業論文の執筆（方法）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "卒業論文の執筆（結果：図表）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "卒業論文の執筆（考察）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "卒業論文の執筆（結論）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "卒業論文の執筆（先行研究）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "卒業論文の執筆（発表・討議）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "卒業論文の執筆（ブラシュアップ・加筆修正）",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "発表資料の作成",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "発表会リハーサル",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "最終発表会",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
+}

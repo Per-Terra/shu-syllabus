@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:23:33Z",
+    "fetched_at": "2026-06-02T11:58:09Z",
     "name_ja": "保健体育科教育法Ⅰ",
     "name_en": "Educational Method for Health and Physical Education I",
     "syllabus_number": "7001400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -56,8 +56,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "保健体育授業における「目的」「内容」「方法」「評価」の一貫性について理解するとともに、保健体育の授業づくりの仕組みと方法について説明することができるかに関して、以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

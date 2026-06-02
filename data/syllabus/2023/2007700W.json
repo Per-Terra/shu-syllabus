@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:00Z",
+    "fetched_at": "2026-06-02T11:55:15Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700W",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -56,7 +56,7 @@
             "財政学",
             "地方財政論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "輪読の教科書は学生の希望する卒論テーマに合わせて、初回講義時に相談の上決定する"
     },
     "grading_criteria": "(ⅰ) 社会情勢の把握や課題発見、(ⅱ) 卒業論文の作成、(ⅲ) 研究成果の効果的な報告、について「学生に対する評価」の内容で評価する。\n※「その他」は卒業論文の内容を評価する",
@@ -372,5 +372,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

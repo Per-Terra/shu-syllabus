@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:07:07Z",
+    "fetched_at": "2026-06-02T12:00:02Z",
     "name_ja": "社会科教育法Ⅰ",
     "name_en": "Educational Method for Social Studies I",
     "syllabus_number": "7000600A",
@@ -9,12 +9,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -75,7 +75,9 @@
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
+        "prerequisites": [
+            "なし"
+        ],
         "recommended": [
             "日本国憲法",
             "法律学概論",
@@ -95,7 +97,7 @@
         "portfolio": 0,
         "other": 50
     },
-    "teacher_message": "社会科は日本では戦後誕生した教科ですが、世界には社会科がない国もたくさんあります。また、人によって「社会科で子どもにどのような力を身につけさせたいのか」も様々です。この授業を通して、自分ではない「他者」の社会科についての考えや理論を学ぶ中で、自分が社会科の授業を通して実現したいことを深く考えて、カタチにしていきましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "社会科は日本では戦後誕生した教科ですが、世界には社会科がない国もたくさんあります。また、人によって「社会科で子どもにどのような力を身につけさせたいのか」も様々です。この授業を通して、自分ではない「他者」の社会科についての考えや理論を学ぶ中で、自分が社会科の授業を通して実現したいことを深く考えて、カタチにしていきましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -264,5 +266,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

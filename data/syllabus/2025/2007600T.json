@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:52Z",
+    "fetched_at": "2026-06-02T11:55:09Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600T",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -102,7 +102,7 @@
         "recommended": [
             "ミクロ・マクロ経済学演習"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "ゼミの活動について、以下の「学生に対する評価」に基づいて評価します。\n※「その他」はディスカッションにおける発言の内容や参加姿勢を評価します。",
@@ -418,5 +418,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

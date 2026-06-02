@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:55Z",
+    "fetched_at": "2026-06-02T11:55:28Z",
     "name_ja": "スポーツ医学",
     "name_en": "Sports Medicine",
     "syllabus_number": "2011300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -50,8 +50,8 @@
             "体力トレーニング論",
             "救急処置法"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {

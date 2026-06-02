@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:13:35Z",
+    "fetched_at": "2026-06-02T11:55:37Z",
     "name_ja": "福祉情報論Ⅱ",
     "name_en": "Welfare and Information Theory II",
     "syllabus_number": "2013300A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,7 +55,7 @@
             "福祉情報論Ⅰ"
         ],
         "required_materials": "ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①福祉における情報の重要性を理解できる\n②問題解決の考え方を身につける\n③問題解決の思考法と技法を習得し実践できる\nこの3点について、下記の「学生に対する評価」に沿って評価する。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

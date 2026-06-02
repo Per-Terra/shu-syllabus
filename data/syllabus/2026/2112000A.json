@@ -1,0 +1,223 @@
+{
+    "fetched_at": "2026-06-02T11:58:39Z",
+    "name_ja": "リコンディショニング実習Ⅰ",
+    "name_en": "Reconditioning Practice Ⅰ",
+    "syllabus_number": "2112000A",
+    "course_number": "21-3-24-22-08",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "久保　誠司",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．スポーツ外傷・障害における機能的および身体的な状態に応じたリコンディショニングプログラムを作成し、実践することができる。\n２．各競技における代表的なスポーツ動作と不良動作について理解し、状態に応じたリコンディショニングプログラムを計画し、実践できる。",
+    "overview": "スポーツ外傷・障害に伴う機能的、身体的な状態に応じた安全で効果的なリコンディショニングプログラムを計画し、実践するための技能を身に付ける。また、競技種目や競技を代表する特徴的なスポーツ動作を取り上げて、スポーツ外傷や障害リスクとなる動作の問題の抽出と具体的な対応方法を習得し、実践できることを目指す。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト4巻 リコンディショニング(2022年カリキュラム対応)",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "リコンディショニング論"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "授業への参加意欲20%、発表20%、課題レポート30%、試験30%",
+    "evaluation_ratio": {
+        "exam": 30,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "コンディション不良に関係する各種問題への評価と対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "機能的・身体的状態に応じた筋力に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "機能的・身体的状態に応じた関節可動域・柔軟性に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "機能的・身体的状態に応じたバランス機能に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "機能的・身体的状態に応じた全身持久力に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "機能的・身体的状態に応じた姿勢・アライメントに対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スポーツ動作に対するリコンディショニングのポイント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "走動作の問題に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "跳動作と方向転換動作の問題に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "投球動作の問題に対する上肢のリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "投球動作の問題に対する体幹・下肢のリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "打撃動作・泳動作などの問題に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "あたり・滑走動作などの問題に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "競技特性と動作問題に対するリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "対象者の状態に応じたリコンディショニング",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "久保　誠司"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "（久保誠司）これまでのスポーツ医科学の研究者および教育者、競技スポーツの現場におけるコンディショニング指導の経験を踏まえ、運動やスポーツの実践的な理解に繋がる教育を行っている。"
+}

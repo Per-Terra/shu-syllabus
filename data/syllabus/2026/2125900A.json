@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T12:00:03Z",
+    "name_ja": "地域福祉経済論",
+    "name_en": "Studies on community welfare and economy",
+    "syllabus_number": "2125900A",
+    "course_number": "21-2-42-21-02、23-2-25-21-02",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "伊藤　敏安",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "●地域福祉と地域経済に関する基本概念について説明することができる。 \n●報道などの関連情報の評価について説明することができる。",
+    "overview": "●地域経済の成り立ちや構造を確認するとともに、地域経済の一角を担う地域福祉について、Well- being向上に向けた特徴や課題を学修する。\n●地域の人口構成、就業構造・産業構造とその変化、地方財政への影響などを概観したうえで、地域福祉関連の雇用と経済の規模、公共事業と比較した経済効果、地方財政の課題などについて学ぶとともに、生活扶助、公的介護保険制度、国民健康保険などの仕組みと課題について理解する。 \n●地域福祉と地域経済に関する基本概念を理解し、身近な問題としてとらえるようになるとともに、報道などで関連情報に接したとき、自分で考え、自分で評価できる能力の修得をめざす。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "地域政策の経済学",
+            "publication_year": 2018,
+            "author": "林宜嗣ほか",
+            "publisher": "日本評論社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "地域データ分析入門",
+            "publication_year": 2121,
+            "author": "林宜嗣ほか",
+            "publisher": "日本評論社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記具、ノート、授業のスライド（各自プリント）",
+        "other": "なし"
+    },
+    "grading_criteria": "●毎回の確認テストで基本用語や考え方についての理解を確認します。\n●最終試験でこれらを総合的に評価します。（履修者が少ないときには、確認テスト80％、議論や質問への参加状況20％により評価する。）",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【授業中】\n●事前・事後学習を含めて「自分のノート」をつくること。積極的な質問を歓迎します。\n●「授業のスライド」を事前に印刷して授業に臨むこと。\n\n【事前・事後学習】合計240分\n●各回の前日までに「授業のスライド」「キーワードと関連サイト」「確認テスト結果」をC-learningに掲載します。授業前には、これらを参考にして実際の状況や事例を自分で調べてみること。授業後の復習では、新たな気づきを「自分のノート」に適宜追補すること。\n●「確認テスト」は前半・後半の2回に分けて返却します。最終試験前には「自分のノート」と「確認テスト結果」を中心に復習すること。\n\n※オフィスアワー　講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業の概要、進め方、注意事項、地域福祉経済における基本用語の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "人口構造と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "産業構造と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "所得と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "財政状況と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "格差の計測",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "県民経済計算・市町村民経済計算と地域福祉",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "RESAS（地域経済分析システム）の基礎",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "RESAS（地域経済分析システム）の応用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地域福祉の経済効果",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "セイフティネットの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "公的扶助制度の仕組みと財政状況",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "公的介護保険制度の仕組みと財政状況",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "国民健康保険・後期高齢者保険制度の仕組みと財政状況",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "山口県と県内市町村の事例研究",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伊藤敏安"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "最終試験（523教室）\n※履修者少数の場合は確認テスト等で代替。",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
+}

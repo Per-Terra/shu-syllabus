@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:55:57Z",
+    "fetched_at": "2026-06-02T11:53:12Z",
     "name_ja": "ワークショップデザインⅡ",
     "name_en": "Workshop Design 2",
     "syllabus_number": "1012500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,7 +46,7 @@
             "author": "山内祐平、森玲奈、安斎勇樹",
             "publisher": "慶應義塾大学出版会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -253,5 +253,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

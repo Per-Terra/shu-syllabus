@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:41:08Z",
+    "fetched_at": "2026-06-02T11:58:42Z",
     "name_ja": "上級日本語Ⅰ",
     "name_en": "Advanced JapaneseⅠ",
     "syllabus_number": "8002300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,8 +55,8 @@
             "中上級日本語Ⅱ",
             "中上級日本語Ⅲ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "1文法に関する知識　2授業のなかで読解部分で考える文法観察能力　3文法表現にかかわる表現選択\n\n 上記3つの観点から評価する。\n\n※その他・・授業での発言や理解度",
     "evaluation_ratio": {
@@ -251,5 +251,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

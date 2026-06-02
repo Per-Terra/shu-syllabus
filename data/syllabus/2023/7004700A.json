@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:25:01Z",
+    "fetched_at": "2026-06-02T11:58:33Z",
     "name_ja": "野外活動(雪上）",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "7004700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,8 +46,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "運動特性・技能構造・練習法および指導法に関する理解度をレポートから評価する。\nスキー及びスノーボードの技能習熟度を実技から評価する。",
     "evaluation_ratio": {
@@ -194,5 +194,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

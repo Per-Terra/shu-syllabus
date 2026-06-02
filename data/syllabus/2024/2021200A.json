@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:08Z",
+    "fetched_at": "2026-06-02T11:56:09Z",
     "name_ja": "情報社会論",
     "name_en": "Introduction to Information Society",
     "syllabus_number": "2021200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "渡部　明",
@@ -60,7 +60,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
     "grading_criteria": "本講義の主要テーマである「メディア社会の展開」、「情報化社会の現実」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

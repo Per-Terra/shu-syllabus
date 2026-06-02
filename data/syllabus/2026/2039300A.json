@@ -1,0 +1,231 @@
+{
+    "fetched_at": "2026-06-02T11:56:52Z",
+    "name_ja": "証券投資論",
+    "name_en": "Securities Investment",
+    "syllabus_number": "2039300A",
+    "course_number": "11-3-26-21-07",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "【到達目標】\n（１）証券投資に関する基本的な考え方について理解する。\n（２）授業内で扱う計算問題を解答できるようにする。",
+    "overview": "「貯蓄から投資へ」へのシフトが求められる中、証券投資に関する知識の習得は極めて重要となっている。本講義では、証券投資分野における基礎的な概念であるリスクとリターンに加え、ポートフォリオ理論、資本資産評価モデル（CAPM）、株式価格および債券価格の評価などを取り扱うこととする。なお、本講義においては、講義内での計算演習のほか、Excelでの計算実習についても積極的に取り入れ、当該学問分野における深い知識の習得を目指す。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "入門・証券投資論",
+            "publication_year": 2019,
+            "author": "岸本直樹、池田昌幸",
+            "publisher": "有斐閣",
+            "price": 3740,
+            "isbn": "978-4641184473",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "必要に応じて電卓およびパソコン",
+        "other": null
+    },
+    "grading_criteria": "証券投資に関する基礎的な知識を評価する（最終テスト70%、中間テスト30%）。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "「貯蓄から投資へ」の流れが加速する中、証券投資の知識の習得は極めて重要となっています。また、証券投資は実務的な要素が強い科目なので、講師の国家公務員として金融・証券行政に携わった30年間の勤務経験から得た知見についてもお話したいと思います。\n\n【予習】授業は段階的に進めていくので、前回行った授業の内容について復習してから講義に臨むこと。（２時間程度）\n【復習】各回の講義終了後、講義内容の要点を整理すること。（２時間程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス（授業の進め方）\n証券投資論を学ぶ意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "割引現在価値および将来価値について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "企業の資金調達の概要および債券の概要と債券市場",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "債券価格と利回り計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "債券投資のリスク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "株式の概要と株式市場",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "株式の理論価格の計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ポートフォリオ理論やCAPMで使用する統計の基礎",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "証券のリスクとリターン①（株式の投資収益率、ポートフォリオ理論の基礎）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ポートフォリオ理論（最適ポートフォリオの決定）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "市場均衡理論（市場均衡の仮定が成立する前提と市場ポートフォリオ）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "資本資産評価モデル（CAPM）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "投資信託と投資運用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "これまでの復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員（長澤賢一）の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事しており、実務経験を踏まえた講義を行う。"
+}

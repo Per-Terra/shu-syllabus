@@ -1,0 +1,84 @@
+{
+    "fetched_at": "2026-06-02T11:59:34Z",
+    "name_ja": "母性看護実習",
+    "name_en": "Sexual and Reproductive Health Nursing Practicum",
+    "syllabus_number": "2120800A",
+    "course_number": "22-3-26-22-06",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "大平　光子",
+            "is_primary": true
+        },
+        {
+            "name": "渡邊　淳子",
+            "is_primary": false
+        },
+        {
+            "name": "百田　由希子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 妊娠の身体的、心理的・社会的特性および妊娠経過に伴い影響を受ける日常生活につい\nて理解し,娠期,娩期,褥期,生児期の特徴と正常な経過を理解することができる。\n2. 妊娠および分娩が正常に経過するための、妊婦や家族への支援の実際を学ぶ。\n3. 正常経過からの逸脱を予防するための看護援助を理解することができる。\n4. NICU に入院する新生児と家族の特徴および心理・社会的影響について理解し、必要な看護について考えることができる。\n5. 病院・診療所などの医療機関や保健施設との連携の実際を知り、チーム医療について考えることができる。\n6. 妊娠期から育児期までの切れ目のない支援について学び、母子保健の特徴を理解することができる。\n7．産後の支援、子育て支援について学習し、次世代育成に関わる課題を考えることができる。",
+    "overview": "マタニティサイクルにある親子・家族を全人的に捉えウェルネスの視点を中心にした看護実践を学ぶ。本実習では対象者を身体的・心理的よび生活状況から全人的に捉え、社会とのつながりの中で親になっていく過程及び次世代を育てる家族全体の力を引き出す看護実践過程を理解する。また、親・家族とともに次世代の育成をささえる地域社会における資源や地域社会の役割を理解する。本実習を通して、ウェルネスの視点で対象者を捉え、正常な経過を促進し、正常から逸脱することを予防する看護及び親になっていく過程に対する看護を実践する基礎的能力を修得する。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "看護学テキストNiCE 母性看護学Ⅱマタニティサイクル改訂第４版",
+            "publication_year": 2026,
+            "author": "大平光子、井上尚美、大月恵理子、佐々木くみ子、林ひろみ編著",
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "セクシュアルリプロダクティブ看護学概論",
+            "セクシュアルリプロダクティブ看護方法",
+            "セクシュアルリプロダクティブ看護実践"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "実習評価表（100 点）に基づき、実習内容および到達度、実習態度を点数化し評価する。\n評価項目の詳細は、実習評価表に記載している。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 100
+    },
+    "teacher_message": "女性の生涯の健康を支援するための実践を学ぶ科目です。それと同時に自身の次世代育成\n力についても考えられることを期待しています。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】 講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": "看護師・助産師としての病院内での看護や地域での住民への支援の経験を活かして、女性\nとその家族の様々なニーズを踏まえ、健康に過ごすための支援を伝える。"
+}

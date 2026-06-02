@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:07:18Z",
+    "fetched_at": "2026-06-02T12:00:10Z",
     "name_ja": "情報科教育法Ⅰ",
     "name_en": "Educational Method for Information I",
     "syllabus_number": "7002000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
     "grading_criteria": "情報科の目標や内容について正確に理解しているか小テストやレポート，ポートフォリオで評価します。情報科の授業設計や教材開発を効果的にできるかどうか発表で評価します。",
@@ -209,5 +209,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

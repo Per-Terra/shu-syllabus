@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:58:42Z",
+    "fetched_at": "2026-06-02T11:55:33Z",
     "name_ja": "映画制作実習",
     "name_en": "Movie Production Training",
     "syllabus_number": "2009600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "菅原　浩志",
@@ -46,7 +46,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "カメラ、ノート、パソコン等 撮影に必要となる機材",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）映画制作のスキームの理解、（ⅱ）マネジメントスキル、（ⅲ）参画意識とその姿勢 の三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {

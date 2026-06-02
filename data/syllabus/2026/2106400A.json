@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:58:03Z",
+    "name_ja": "スポーツツーリズム論",
+    "name_en": "Sport Tourism",
+    "syllabus_number": "2106400A",
+    "course_number": "21-3-25-22-07",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "小笠原　正志",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.スポーツツーリズム、ヘルスツーリズムがどのようなものなのか、実際にどのような事例があるか理解して説明できる。\n2.現代社会においてスポーツツーリズムが注目される背景や、国や自治体が推進している理由などについて自分なりに考えを述べることができる。\n3.地域資源を活かしたスポーツツーリズムのアイデアをグループでまとめ、発表することができる。",
+    "overview": "今日、スポーツは地域活性化の重要なツールとしてその価値を高めている。スポーツが地域独自の観光資源やそこでの人々の生活・文化と有効に結びつき、社会関係資本を増大させるためには、どの様な方法が必要なのか？本講義では、この問題に対して、スポーツツーリズムということに焦点を当て理解を深める。受講生は、スポーツツーリズムの概念と基礎知識について学修するとともに、スポーツツーリズムを通した地域活性化の個別事例を分析することによって、スポーツによる地域活性化の具体策を作成する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "筆記試験40％、グループ発表40％、レスポンスペーパー20％",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "「スポーツツーリズム論」では、スポーツツーリズムに関する基礎的な知識や先行事例を学んだ後に、周南市を含む周南広域地域における海や山などの自然、スポーツや健康づくりのための施設、地域づくりイベントなどを手がかりに、実際に地域活性化に向けてどのようなスポーツツーリズムが考えられるか、グループごとに提案してもらうことを想定している。観光業だけなく、さまざまな職種に就いても、授業で学ぶ考え方やグループワークは貴重な経験になると思っている。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション―「スポーツ」「レクリエーション」「レジャー」「スポーツツーリズム」の用語の規定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "データで読む日本人のスポーツツーリズムの現在",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "スポーツツーリズムの歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "スポーツツーリズムによる地域の活性化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "自然を観光資源とするスポーツツーリズム①─四万十川と釧路川のカヌーツアー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "自然を観光資源とするスポーツツーリズム②─登山とキャンプ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スポーツツーリズムとしてのスポーツイベント参加",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "スポーツツーリズムとしてのプロ野球観戦①─スタジアムがもたらす経済効果",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "スポーツツーリズムとしてのプロ野球観戦②─キャンプがもたらす経済効果",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "健康づくりを目的とするヘルスツーリズム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "スポーツツーリズムを推進する国や自治体の施策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "地方のスポーツツーリズム振興を担うスポーツコミッション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "スポーツツーリズムに関わる仕事やボランティア",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "周南市及び周南広域地域におけるツーリズムの可能性①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "周南市及び周南広域地域におけるツーリズムの可能性②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小笠原　正志"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

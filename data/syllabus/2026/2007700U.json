@@ -1,0 +1,137 @@
+{
+    "fetched_at": "2026-06-02T11:55:22Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700U",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "従来の中国ビジネスモデルは経済性に重きを置いていましたが、近年では次世代テクノロジーの導入により、ビジネスモデルが大きく変換してきました。\nこのゼミを通じて、\n①経済性と社会性の統合、\n②テクノロジーとイノベーション、\n③キャッシュレス社会の構築、\nという3つの面から、中国の次世代ビジネスモデルを理解することが目標とします。",
+    "overview": "中国の次世代ビジネスモデルについての深い理解を目指します。具体的には、デジタル経済、AI、フィンテック、グリーンテクノロジーなどの分野に焦点を当てます。また、中国のビジネス環境や政策の最新動向を常に追跡し、ゼミの内容に反映させます。",
+    "diploma_policies": [
+        "現代経済学科DP4",
+        "経営コースDP4",
+        "知財開発コースDP4",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "以下の２点に基づいて、評価を行う。\n①卒業論文にめぐって、発表を行っているかについての評価\n②最終成果物としての卒業論文についての評価",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "レジメの作り方・レポートの書き方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "3～14",
+            "content": "卒業研究による発表準備\n各自の研究テーマの選定・準備",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "進捗状況報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "16～20",
+            "content": "卒論に向けて研究報告・調整",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "21～29",
+            "content": "卒業論文の執筆",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "ゼミ総括",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

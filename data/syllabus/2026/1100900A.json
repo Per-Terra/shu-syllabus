@@ -1,0 +1,225 @@
+{
+    "fetched_at": "2026-06-02T11:53:52Z",
+    "name_ja": "生活と経済経営",
+    "name_en": "Economics and Business for Living",
+    "syllabus_number": "1100900A",
+    "course_number": "22-1-13-22-06、23-1-13-22-06、31-1-13-22-06",
+    "departments": [
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "is_primary": true
+        },
+        {
+            "name": "田島　正士",
+            "is_primary": false
+        },
+        {
+            "name": "稲垣　円",
+            "is_primary": false
+        },
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n　・日常生活で必要となる、経済・経営に関する基礎知識を修得することができる\n　・身の回りのことについて、経済・経営に関する知識を基に考察できるようになる\n　・自分自身や地域社会の生活を豊かにする方法を考え、実践できるようになる",
+    "overview": "本講義では、経済学や経営学を専門としていない学生でも日常生活を送るうえで必要となる経済学や経営学に関する知識をオムニバス形式で教授する。また、学んだことを踏まえて、最終的にアウトプットする手法についても学び、今後の生活にも活かせるようにする。",
+    "diploma_policies": [
+        "情報科学科DP4",
+        "看護学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "各回の講義内容についてしっかりと理解し、学習した内容を踏まえて身の回りの経済・社会問題に対して適切に考察できるようになっているのかを総合的に評価する。\n評価は講義後のリアクションペーパーやレポート課題、小テストにて判断する。各回の担当教員の指示をしっかりと聞き対応すること。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "本講義は5人の教員によるオムニバス講義です。経済・経営に関する各教員の専門分野についてわかりやすく講義し、皆さんの大学生活や今後の人生にとって必要な知識を教授いたします。各教員の指示に従って受講するようにしてください。予習・復習については特に学んだことをしっかりと反芻し身に付けることに時間を使っていただければと思います（1時間～2時間程度）。\n大学では自分の専門分野以外のことも積極的に学べる環境があるので、こうした機会を十分に活かしてください。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "イントロダクション\n昨今の金融事情",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "コーポレートガバナンスの基礎",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "金融やコーポレートガバナンスに関する小テストおよび解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "合理的経済人と限定合理性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "ヒューリスティクスとバイアス、アノマリーとパラドックス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "ナッジとスラッジ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "古くて新しい問題「コミュニティ」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "日本特有のコミュニティ～特徴と現在地",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "第7回・8回で解説したコミュニティの概要に関する小テストおよび解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "営利組織と非営利組織",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "企業の社会的役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "社会的企業の発展",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "住民税・固定資産税①\n市町村における税収の多くを占める住民税と固定資産税について2回に渡って学びます。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "住民税と固定資産税②\n市町村における税収の多くを占める住民税と固定資産税について2回に渡って学びます。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "身近な税制度や特徴的な税制度についての発表\nあなたの身近な税制度、あるいはあなたが調べた中で特徴的だと思う税制度について発表をしてもらいます。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

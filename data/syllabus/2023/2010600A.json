@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:47Z",
+    "fetched_at": "2026-06-02T11:55:26Z",
     "name_ja": "スポーツ運動学",
     "name_en": "Sports Movement and Behaviour",
     "syllabus_number": "2010600A",
@@ -8,12 +8,12 @@
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -60,8 +60,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "基礎知識および運動の理解、運動指導への応用を小テストによって評価する。",
     "evaluation_ratio": {
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

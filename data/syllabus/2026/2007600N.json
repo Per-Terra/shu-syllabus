@@ -1,0 +1,393 @@
+{
+    "fetched_at": "2026-06-02T11:54:47Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600N",
+    "course_number": "11-3-31-11-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行った。その間に学生の興味関心の変化もあろうかと考えられるが、引き続きデータ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいて、卒業論文を作成することを到達目標とする。\n\n1. 設定したテーマに関する知識と理解ができていること。\n2. 意味のある課題設定と明らかにしたい目標に対する計画が立てられること。\n3. 報告において、論点を整理しわかりやすく要点を伝えることができること。",
+    "overview": "フィールドワークを中心にするか、文献データによる分析を中心にするかは、各人の関心と関心のある分野の特性を鑑みて話し合いながら決定する。必要に応じて相談を行いますが、テーマ設定や必要な文献の知識は各人で異なるでしょうから教員はあくまでサポートです。ゼミ内のプレゼンテーションで練習を行いながら、卒業論文執筆に向けての問題点の洗い出しや添削をしていきます。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "パソコンは必要になると考える。",
+        "other": null
+    },
+    "grading_criteria": "最終的には卒業論文を書くためのスキルや準備がどの程度できているかという視点で判断する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "卒業論文の興味・関心のあるテーマを探す一方、ゼミで何がしたいかを考えて頂きたい。ゼミ全体で成果が上がるように互いに注力できるように努力していきたいと考えています。積極的な参加・発言を期待したい。\n\n予習・復習時間を90分程度確保しておいてください。\n\n推奨科目：ミクロ経済学Ⅰ・Ⅱ、意思決定科学、経済学、心理学Ⅰ・Ⅱ、データサイエンス入門、経済政策",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "秋学期の方針の話し合い",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "フィールド実験もしくは文献の講読",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "卒業論文に向けてのテーマの考察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業論文に向けてのテーマの考察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文に向けてのテーマの考察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

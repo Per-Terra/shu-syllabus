@@ -1,0 +1,221 @@
+{
+    "fetched_at": "2026-06-02T11:58:23Z",
+    "name_ja": "内科学",
+    "name_en": "Internal Medicine",
+    "syllabus_number": "2109400A",
+    "course_number": "21-1-21-22-04",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "尾形　聡",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "内科領域で扱う各種疾患の原因・主要症状・病態・予防法・治療法が理解できる。",
+    "overview": "内科学とは身体の臓器を原因とする疾患に対し、栄養・運動・薬物療法など外科手術によらない方法\nで診療とその研究を行う医学の一分野である。この授業では健康の維持、病気・ケガからの回復、再発予防を目的として、代表的な各種疾患の原因・病態とその予防・治療法について学修する。おもに講義形式で授業を進めていくが、ICT を利用しリアルタイムに進達度を確かめながら教員と学生の考え方を共有し相互理解を深めていく。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具",
+        "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "筆記試験（100％）",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "世の中には様々な疾患があり内科学では医学分野で最も幅広い疾患をあつかいます。この授業では健\n康・スポーツの分野でもみられる代表的な疾患をピックアップし、その概要について講義します。\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "総論①：臨床症状・臨床検査",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "総論②：治療\n各論①：代謝系疾患（１）糖尿病、高血圧など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "各論②：代謝系疾患（２）脂質異常症など",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "各論③：消化器系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "各論④：循環器系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "各論⑤：腎・泌尿器系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "各論⑥：内分泌系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "各論⑦：神経系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "各論⑧：呼吸器・運動器系疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "各論⑨：悪性新生物（１）肺がんなど",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "各論⑩：悪性新生物（２）胃がんなど",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "各論⑪：血液疾患",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "各論⑫：免疫、アレルギー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "各論⑬：感染症",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "尾形　聡"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時期については別途通知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "尾形　聡"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "日本スポーツ協会スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

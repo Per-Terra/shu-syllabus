@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:29Z",
+    "fetched_at": "2026-06-02T11:53:10Z",
     "name_ja": "教養スポーツ実習Ⅱ(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)",
     "name_en": "Cultural Sports PracticeⅡ(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)",
     "syllabus_number": "1009000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -66,8 +66,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "活動中の取り組み内容や態度、またスポーツ活動に対する興味・関心を評価します。",
     "evaluation_ratio": {
@@ -352,5 +352,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

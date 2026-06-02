@@ -1,0 +1,248 @@
+{
+    "fetched_at": "2026-06-02T11:56:19Z",
+    "name_ja": "ソーシャルワーク演習Ⅲ",
+    "name_en": "Social Work Practice Ⅲ",
+    "syllabus_number": "2028600B",
+    "course_number": "2028600",
+    "departments": [
+        "福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "小林武生",
+            "is_primary": false
+        },
+        {
+            "name": "牛島豊広",
+            "is_primary": false
+        },
+        {
+            "name": "三輪直之",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①事例において地域アセスメントを行い、地域の課題を説明することができる。\n②地域福祉計画立案に向けたプロセスを説明することができる。\n③社会資源開発のために必要な知識および技術について説明することができる。",
+    "overview": "本演習は、ソーシャルワーク演習Ⅱに引き続いて行われる、ソーシャルワーク実習Ⅰに向けた事前指導として行われる演習である。実習事前指導として行われる演習なので、実習中で想定される危機状態にある人々に対する支援事例と、地域課題をいかに解決していくかという地域支援において支援の組み立てを行う。本演習は以上の内容を個別指導並びに集団指導を通して、厚生労働省が示している教育内容に基づき、実技指導（ロールプレーイング等）を中心とする演習形態により行う。学生はこのことにより、①複合化・複雑化する人々の生活課題に対応するために、今ある社会資源を調整したり、新たな社会資源を作り出したりしていくこと力を身に付ける。②自己の省察を通して他者と話し合い、課題解決に向けた協働していく力を身に付ける。",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "本科目は、「ソーシャルワーク演習Ⅱ」に引き続く、「ソーシャルワーク実習Ⅰ」の事前演習となります。"
+    },
+    "grading_criteria": "①地域アセスメント\n②地域福祉計画の立案に向けたプロセス\n③社会資源開発のための知識と技術\n以上の点の理解度について、レポートとグループワークを踏まえた発表で次の割合で評価する。\n\n評価の割合：レポート60％、実技40％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "この演習では、ソーシャルワーク演習Ⅱに引き続き個別事例を取り上げると同時に、地域支援の組み立てについても学びます。今日のソーシャルワーク支援の根幹となる、地域支援にしっかりと取り組んでもらいたいと考えています。\n\n【事前・事後学習について】\nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n\n【オフィスアワー】\n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "危機状態にある人々の生活課題の明確化（権利擁護活動を含む）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "危機状態にある人々へのソーシャルワーク支援（権利擁護活動を含む）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "地域住民に対するアウトリーチ事例から読み取れる課題",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "地域住民に対するアウトリーチの実際とソーシャルワーク支援",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "地域住民のニーズ把握／アセスメント（事例の読み込み）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "事例に基づいた、地域住民のニーズ把握とアセスメント演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "地域福祉計画（事例の読み込み）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "地域福祉計画の立案演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "地域組織化（事例の読み込み）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "地域組織化演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "事例に基づく社会福祉資源の活用と開発",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "社会福祉資源の活用・開発演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "サービス評価（事例の読み込み）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "事例に基づくサービス評価演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "個別支援から地域支援のプロセスのまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林武生",
+                "牛島豊広",
+                "三輪直之"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

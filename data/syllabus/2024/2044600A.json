@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:05:41Z",
+    "fetched_at": "2026-06-02T11:58:15Z",
     "name_ja": "日本経済史",
     "name_en": "Economic History of Japan",
     "syllabus_number": "2044600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　啓祐",
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:48Z",
+    "fetched_at": "2026-06-02T11:53:05Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000F",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "山本　晋也",
@@ -43,7 +43,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は特に使用しません。授業内で必要な資料は都度配布します。"
     },
     "grading_criteria": "イベントの企画・実施・運営のプロセスで、ゼミ生には企画書と振り返りシートの提出を求めます。それらが、小テストに相当するものです。最後に、15週の活動をまとめて、最終レポートを提出してもらいます。発表は、学期末の地域ゼミ合同発表を想定しています。",
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

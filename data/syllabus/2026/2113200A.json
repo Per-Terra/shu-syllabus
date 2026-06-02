@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:58:47Z",
+    "name_ja": "スポーツ教育実践実習",
+    "name_en": "Sports education al practice",
+    "syllabus_number": "2113200A",
+    "course_number": "21-3-26-22-11",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "岡井　理香",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "スポーツ教育実践演習で身につけた知識と実践力に基づき、地域・社会におけるスポーツ振興および教育活動に貢献することができる。",
+    "overview": "本授業は「スポーツ× 教育」をテーマとし、スポーツ教育実践演習で修得した「日本のスポーツ教育\n活動」に関する基礎知識および学内での模擬教育実践経験を基に、地域のスポーツ振興・教育活動 に\n参加する。具体的には、スポーツの価値教育、フェアプレイ、ライフスキル、デュアルキャリアの４\nつのテーマを教育実践の主軸とし、初等・中等教育の各発育発達段階におけるスポーツ教育・研修プ\nログラムの知識・理解を深め、現場のニーズと対象に応じた指導計画を作成する。そして、 この実践\nと リフレクションを通して、スポーツ教育活動 能力 を高める。また、 成果発表 を通じて 個々の成果と\n課題を履修者全員で共有し、本授業の目標に対する取り組みと達成度を確認する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "スポーツ教育実践演習"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": "適宜、資料を配布する。"
+    },
+    "grading_criteria": "課題レポート50%、プレゼンテーションおよびパフォーマンス50%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "地域での教育実践（スポーツの価値教育：担当_グループ①）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "地域での教育実践（スポーツの価値教育：担当_グループ②）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "地域での教育実践（スポーツの価値教育：担当_グループ③）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "地域での教育実践（フェアプレイ：担当_グループ①）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "地域での教育実践（フェアプレイ：担当_グループ②）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "地域での教育実践（フェアプレイ：担当_グループ③）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "リフレクション・中間発表会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "地域での教育実践（ライフスキル：担当_グループ①）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地域での教育実践（ライフスキル：担当_グループ②）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "地域での教育実践（ライフスキル：担当_グループ③））",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "地域での教育実践（デュアルキャリア：担当_グループ①）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "地域での教育実践（デュアルキャリア：担当_グループ②）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "地域での教育実践（デュアルキャリア：担当_グループ③）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ・成果発表会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡井理香"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "本授業は中学校と高等学校における保健体育科教員の実務経験、および日本スポーツ協会のコーチデベロッパー資格を有する実務家教員が担当する。"
+}

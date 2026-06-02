@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:54Z",
+    "fetched_at": "2026-06-02T11:53:01Z",
     "name_ja": "エアロビック運動",
     "name_en": "Aerobic Exercise",
     "syllabus_number": "1005600A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "author": "沢井史穂 編",
             "publisher": "公益社団法人日本フィットネス協会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -53,7 +53,7 @@
             "author": "深代泰子 編",
             "publisher": "公益社団法人日本フィットネス協会",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -62,7 +62,7 @@
             "author": "沢井史穂 編",
             "publisher": "公益社団法人日本フィットネス協会",
             "price": 770,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -71,7 +71,7 @@
             "author": "沢井史穂 編",
             "publisher": "公益社団法人日本フィットネス協会",
             "price": 1650,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -80,7 +80,7 @@
             "author": "沢井史穂 編",
             "publisher": "公益社団法人日本フィットネス協会",
             "price": 1650,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -270,5 +270,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

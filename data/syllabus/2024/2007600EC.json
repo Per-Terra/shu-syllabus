@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:56:19Z",
+    "fetched_at": "2026-06-02T11:54:30Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600EC",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "田島　正士",
@@ -94,7 +94,7 @@
             "データサイエンス入門"
         ],
         "required_materials": "パソコンは必要になると考える。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "参加態度(レジュメ、ディスカッション)などで判断する。",
     "evaluation_ratio": {
@@ -259,7 +259,7 @@
         },
         {
             "number": "16",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -269,7 +269,7 @@
         },
         {
             "number": "17",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -279,7 +279,7 @@
         },
         {
             "number": "18",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -289,7 +289,7 @@
         },
         {
             "number": "19",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -299,7 +299,7 @@
         },
         {
             "number": "20",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -309,7 +309,7 @@
         },
         {
             "number": "21",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -319,7 +319,7 @@
         },
         {
             "number": "22",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -329,7 +329,7 @@
         },
         {
             "number": "23",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -339,7 +339,7 @@
         },
         {
             "number": "24",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -349,7 +349,7 @@
         },
         {
             "number": "25",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -359,7 +359,7 @@
         },
         {
             "number": "26",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -369,7 +369,7 @@
         },
         {
             "number": "27",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -379,7 +379,7 @@
         },
         {
             "number": "28",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -389,7 +389,7 @@
         },
         {
             "number": "29",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -399,7 +399,7 @@
         },
         {
             "number": "30",
-            "content": "",
+            "content": null,
             "teaching_methods": [
                 "演習"
             ],
@@ -409,5 +409,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

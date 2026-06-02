@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:46Z",
+    "fetched_at": "2026-06-02T11:52:58Z",
     "name_ja": "健康とスポーツ科学",
     "name_en": "Health and Sports",
     "syllabus_number": "1005100A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -40,7 +40,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートPC（毎回持参してください）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "事前事後課題、レポート、プレゼンテーション、協同学習への貢献度によって、受講者の「知識・理解」、「思考・判断・表現力」および「主体的に学びに向かう姿勢」を総合的に評価します。",
     "evaluation_ratio": {

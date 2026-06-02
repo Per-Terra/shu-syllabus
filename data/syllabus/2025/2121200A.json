@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:11Z",
+    "fetched_at": "2026-06-02T11:59:34Z",
     "name_ja": "公衆衛生看護活動Ⅰ",
     "name_en": "Public Health Nursing Activity Ⅰ",
     "syllabus_number": "2121200A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -48,7 +48,7 @@
         {
             "title": "標準保健師講座３　対象別公衆衛生看護活動",
             "publication_year": 2018,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": 3740,
             "isbn": "978-4-260-03187-5",

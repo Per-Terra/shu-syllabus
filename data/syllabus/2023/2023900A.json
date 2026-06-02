@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:34Z",
+    "fetched_at": "2026-06-02T11:56:22Z",
     "name_ja": "心理学研究法Ⅰ",
     "name_en": "Methods of Psychological Research",
     "syllabus_number": "2023900A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -56,7 +56,7 @@
             "心理学実験実習I・II",
             "心理統計学"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。※上記の他にも、講義の中で適宜紹介します。"
     },
     "grading_criteria": "到達目標に記載されている内容について「学生に対する評価」で評価する。\n※その他は、授業内における課題への取り組み方や内容の優劣やグループワークへの関与の仕方を評価する。",
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

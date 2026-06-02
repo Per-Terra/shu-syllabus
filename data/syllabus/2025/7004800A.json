@@ -1,0 +1,262 @@
+{
+    "fetched_at": "2026-06-02T12:00:25Z",
+    "name_ja": "体つくり運動",
+    "name_en": "Exercise for health promotion",
+    "syllabus_number": "7004800A",
+    "course_number": null,
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "前田　一篤",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "保健体育科における「体つくり運動」に関する知識、技術を学習し、実際に指導する上での基礎となるものを身につける。また、模擬授業を通して、教職に就く者の資質向上を目指す。授業は、講義として「体つくり運動」に関する歴史と理論、学習指導要領における「体つくり運動」の解説、体つくり運動の教材研究、指導案作りを行う。実技授業として体つくり運動の教材体験、各班の模擬授業を行う。特に模擬授業では、学生が「教員」「生徒」の役に別れ、授業を展開する。その後のディスカッションにおいて、理解を深めていく。\n\n【到達目標】\n(ⅰ) 学習指導要領に示されている「体つくり運動」について理解する。\n(ⅱ) 体つくり運動に関する教材・指導案の作成ができるようになる。",
+    "overview": "講義形式の授業のほか、模擬授業のための指導案の作成を班別に行う。模擬授業については、班ごとで教師役を持ち回り実施する。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "中学校学習指導要領　保健体育編",
+            "publication_year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 496,
+            "isbn": "978-4-8278-1576-4",
+            "available_on_campus": false
+        },
+        {
+            "title": "高等学校学習指導要領　保健体育編 体育編",
+            "publication_year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 552,
+            "isbn": "978-4-8278-1568-9",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "適宜授業内でプリントを配布する"
+    },
+    "grading_criteria": "(ⅰ) 学習指導要領に示されている「体つくり運動」について理解する、(ⅱ) 体つくり運動に関する教材・指導案の作成ができるようになる の二点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "教員養成講座である為、熱意を持って積極的に取り組める学生を強く望みます。新しい学習指導要領から中学校・高等学校において必須となった「体つくり運動」の実際と指導について、体験しながら楽しく学んでいきましょう。\n\n【予習・復習について】\n学習指導要領に示されている目標及び内容の確認、参考図書を中心に各回授業に関わる資料の収集・指導案作成 など（各回30～60分程度）。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（「体つくり運動」とは）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "「体つくり運動」の実際1　（体ほぐしの運動）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "「体つくり運動」の実際2　（体力を高める運動）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "「体つくり運動」の模擬授業に向けて（グループ分け・指導案の作成）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "「体つくり運動」の模擬授業に向けて（指導案の作成）",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "模擬授業とディスカッション1",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "模擬授業とディスカッション2",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "模擬授業とディスカッション3",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "模擬授業とディスカッション4",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "模擬授業とディスカッション5",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "模擬授業とディスカッション6",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "模擬授業とディスカッション7",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "「体つくり運動」に関わる教材研究・教材考案",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "「体つくり運動」に関わる教材研究・教材考案",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "「体つくり運動」に関わる教材の提案",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "前田　一篤"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

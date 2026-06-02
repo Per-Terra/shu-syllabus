@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:40Z",
+    "fetched_at": "2026-06-02T11:56:10Z",
     "name_ja": "マルチメディア論",
     "name_en": "Lecture of Multimedia",
     "syllabus_number": "2021100A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

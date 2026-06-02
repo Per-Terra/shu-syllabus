@@ -1,0 +1,257 @@
+{
+    "fetched_at": "2026-06-02T11:59:25Z",
+    "name_ja": "精神看護実践",
+    "name_en": "Basic Psychiatric Nursing Skills",
+    "syllabus_number": "2118900A",
+    "course_number": "22-3-24-21-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "羽生　貞親",
+            "is_primary": true
+        },
+        {
+            "name": "大達　亮",
+            "is_primary": false
+        },
+        {
+            "name": "岡田　昌也",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．学内演習において、対象の持つ看護上の問題を解決するために必要な援助を実施できる。\n２．精神科領域における他職種の役割を学び、多職種間の連携について説明することができる。",
+    "overview": "本授業では、精神看護学概論および精神看護方法での学びを基に、精神に障害を持つ個人およびその家族を対象として、必要な援助方法の実践について、学内演習を通して学修する。\n本授業では、対象の持つ看護上の問題を解決するために必要な援助の実践について、学内演習を通して理解する。また、精神科領域における多職種間の連携について理解する。\n本授業を通して、さまざまな対象の持つ看護上の問題を解決するために必要な援助方法に関して、シミュレーションを通して身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "精神看護学概論",
+            "精神看護方法"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する。",
+        "other": "必要に応じて、精神看護学概論や精神看護方法で使用した教科書を活用する。それ以外の必要な資料等は適宜紹介する。"
+    },
+    "grading_criteria": "筆記試験および提出物",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "精神看護学概論および精神看護方法を履修し、精神看護実習に繋がっていく授業内容です。精神看護実習をイメージしながら積極的に受講してくれることを期待しております。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日（不在時はメールで受け付けます。）\n\n1回目の授業は、6月15日（月）3限です。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "精神疾患患者への看護援助演習（コミュニケーション）①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "精神疾患患者への看護援助演習（コミュニケーション）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "精神領域における多職種協働①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "精神疾患患者への看護援助演習（生活援助）①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "精神疾患患者への看護援助演習（生活援助）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "精神領域における多職種協働②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "精神疾患患者への看護援助演習（幻覚妄想、拒薬）①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "精神疾患患者への看護援助演習（幻覚妄想、拒薬）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "精神看護で活用する治療技術（SST）①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "精神看護で活用する治療技術（SST）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "自殺の現状と対策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "精神疾患患者への看護援助演習（精神科訪問看護）①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "精神疾患患者への看護援助演習（精神科訪問看護）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "精神科領域において、看護師として勤務経験を持つ教員が授業を担当する。"
+}

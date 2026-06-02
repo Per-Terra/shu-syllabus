@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T11:57:33Z",
+    "name_ja": "AI、コンピュータと人間",
+    "name_en": "AI, Computers and Humans",
+    "syllabus_number": "2102200A",
+    "course_number": "31-3-21-34-05、32-3-53-34-07",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "is_primary": true
+        },
+        {
+            "name": "立部　文崇",
+            "is_primary": false
+        },
+        {
+            "name": "渡部　明",
+            "is_primary": false
+        },
+        {
+            "name": "児玉　満",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．人間の知的活動とコンピュータやAIとの関わりについて理解し、基本的な説明ができる\n２．人間との関わりの中でコンピュータやAIがどのように進化していくことが望ましいか考えることができる\n３．AI、コンピュータと人間の関わりにおける未来について考えたことを適切に表現することができる",
+    "overview": "本講義は人間とコンピュータやAIとの関わりにおける人の知的活動の特性について理解し、使用する人間に配慮した情報システムの設計・開発への理解を修得することを目的とする。授業は複数教員によるオムニバス科目として進行する。各テーマについて概論、演習、プレゼンテーションを通じて理解を深めていく。この授業は、情報社会・Society 5.0と倫理観、コンピュータにおける人間の思考の模倣や人工知能、人間の発話とAIの違い、人間の認知的情報処理とコンピュータの情報処理を主なテーマにする。学生はこれらのテーマについての内容を理解し、社会におけるAI、コンピュータの利活用について考えることができるようになる。",
+    "diploma_policies": [
+        "情報科学科DP2",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "必携PC",
+        "other": null
+    },
+    "grading_criteria": "毎回の小レポートとテーマごとの課題によって評価する。小レポートは、各回の授業内容の理解、振り返り、授業内課題への取り組み状況を測るものとする。テーマごとの課題は、各テーマについて、概論-演習のまとめとしてのプレゼンテーションから評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 60,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "人間とコンピュータやAIとの距離は日々近づいています。Society5.0を人間中心の社会とするためには、人間を知り、コンピュータやAIを知り、その関わりを考えられるようになることが必要です。これからの社会をより心豊かなものにするためにしっかりと学び、考えましょう。\n\n毎回の授業後には振り返りにより理解を深め（復習・45分）、次回のテーマと関連した情報を収集して予習しましょう（45分）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "テーマ１　AI、コンピュータと認知情報処理１：人、コンピュータそれぞれの記憶",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "テーマ１　AI、コンピュータと認知情報処理２：人、コンピュータそれぞれの実行機能",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "テーマ１　AI、コンピュータと認知情報処理３：人、コンピュータそれぞれの入出力機能",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "テーマ１　AI、コンピュータと認知情報処理４：人に優しいコンピュータ、AIについて考える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "テーマ１　AI、コンピュータと認知情報処理５：プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "テーマ２　AI、コンピュータと技術革新１：ゲームAIの擬似思考と人工知能の進化について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉満"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "テーマ２　AI、コンピュータと技術革新２：未来のAI技術について考える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉満"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "テーマ２　AI、コンピュータと技術革新３：プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "児玉満"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "テーマ３　AI、コンピュータと言語１：言葉の聞き取りとおしゃべり",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "テーマ３　AI、コンピュータと言語２：単語の意味、文と文の論理的な関係。話し手の意図を推測すること",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "テーマ３　AI、コンピュータと言語３：ロボットが話せるようになるには？？プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "立部文崇"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "テーマ４　AI、コンピュータと人間のあり方１：これからの社会の倫理を概観する",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部明"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "テーマ４　AI、コンピュータと人間のあり方２：最新のAI、コンピュータ科学と倫理の問題を考える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部明"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "テーマ４　AI、コンピュータと人間のあり方３：プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "渡部明"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

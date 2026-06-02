@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:52:18Z",
+    "fetched_at": "2026-06-02T11:52:52Z",
     "name_ja": "ドイツ語Ⅰ",
     "name_en": "German I",
     "syllabus_number": "1004700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -12,14 +12,14 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "新枝　美帆",
@@ -57,7 +57,7 @@
         {
             "title": "ベーシッククラウン独和・和独辞典　小型版",
             "publication_year": 2022,
-            "author": "",
+            "author": null,
             "publisher": "三省堂",
             "price": 2530,
             "isbn": "978-4-385-11972-4",
@@ -418,5 +418,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

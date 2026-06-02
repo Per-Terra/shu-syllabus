@@ -1,0 +1,256 @@
+{
+    "fetched_at": "2026-06-02T12:00:13Z",
+    "name_ja": "教育心理学",
+    "name_en": "Educational Psychology",
+    "syllabus_number": "7000300A",
+    "course_number": "11-2-92-22-05、21-2-92-22-05、31-2-92-22-07",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "押尾　恵吾",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "幼児，児童及び生徒の心身の発達及び学習の過程について，基礎的な知識を身につけ，各発達段階における心理的特性を踏まえた学習活動を支える指導の基礎となる考え方を理解する。\n【到達目標】\n(1-1)幼児、児童及び生徒の心身の発達に対する外的及び内的要因の相互作用、発達に関する代表的理論を踏まえ、発達の概念及び教育における発達理解の意義を説明することができる。\n(1-2)乳幼児期から青年期の各時期における運動発達・言語発達・認知発達・社会性の発達について、その具体的な内容を説明することができる。\n(2-1)様々な学習の形態や概念及びその過程を説明する代表的理論の基礎を説明することができる。\n(2-2)主体的学習を支える動機づけ・集団づくり・学習評価の在り方について、発達の特徴と関連付けて説明することができる。\n(2-3)幼児、児童及び生徒の心身の発達を踏まえ、主体的な学習活動を支える指導の基礎となる考え方を説明することができる。",
+    "overview": "学校で学ぶ生徒たちは成長途上にあり、教科学習の遂行はもちろん、学級内での人間関係の構築やグループ活動を通した協働など多種多様な課題に取り組みながら、日々発達変化を遂げている存在である。教育対象である生徒たちの心理について、とくに認知（記憶・学習）・発達・社会・臨床など諸側面から解説し、効果的な教育指導の前提となる基礎知識を得ることを目的とする。基礎的事項は講義形式で解説するが、簡単な実験や心理検査など実習的課題も可能な限り採り入れる。履修を通じて受講学生は、学校教育に関わる心理的問題の諸側面について知ることができる。またそれらの知識を様々な教育場面に適用する、具体的な手法について理解することができる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "スポーツ健康科学科DP2",
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "発達と学習の心理学",
+            "publication_year": 2013,
+            "author": "尾形　和男　編著",
+            "publisher": "田研出版",
+            "price": 2640,
+            "isbn": "9784860890407",
+            "available_on_campus": false
+        },
+        {
+            "title": "授業の心理学－認知心理学からみた教育方法論－",
+            "publication_year": 2014,
+            "author": "栗山　和広　編著",
+            "publisher": "福村出版",
+            "price": 2750,
+            "isbn": "9784571210402",
+            "available_on_campus": false
+        },
+        {
+            "title": "大学生と教員のための学校教育心理学",
+            "publication_year": 2024,
+            "author": "沖林　洋平　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623096954",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "講義内容の理解の程度や知識の定着度を確かめるため、試験を行う。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【予習・復習について】\n各回で実施する内容についてまとめることで知識を定着させてください。\n（予習・復習合わせて4時間程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "本授業について（ガイダンス）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "学習理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "動機づけ１（期待価値理論、帰属理論、自己決定理論）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "動機づけ2（認知論）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "記憶の理論１（多重貯蔵モデル）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "記憶の理論２（処理水準モデル）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "記憶の理論３（長期記憶の分類）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "メタ認知（メタ記憶）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "学習方略　学習観",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "学習指導のデザイン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "認知の発達",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "社会性の発達",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "協働力，AL技法，教育と学習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "他者理解・対人葛藤解決力",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "エージェンシー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "押尾　恵吾"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": null,
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

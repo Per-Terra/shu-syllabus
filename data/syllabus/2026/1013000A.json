@@ -1,0 +1,252 @@
+{
+    "fetched_at": "2026-06-02T11:53:16Z",
+    "name_ja": "健康産業施設実習",
+    "name_en": "Health Promotion Facilites Workshop",
+    "syllabus_number": "1013000A",
+    "course_number": "21-3-23-11-01",
+    "departments": [
+        "経済学部",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "松生　香里",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n1.運動指導の実際について理解できる。\n2.健康産業施設に適した対応・コミュニケーションができる",
+    "overview": "本実習は、健康産業施設において、実際の運動指導現場に触れ、健康運動指導を体験する科目である。現場実習を通じて、これまで学んできた事を実践し、将来の指導に生かせるような知識と技術を養うとともに、現場での実務等への理解を深める。また、実践を通じて知識と技術を身につけると共に社会性、コミュニケーション能力、前向きに対応する力、応用力、課題解決力を養う。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "『健康運動指導士養成講習会テキスト上・下』",
+            "publication_year": null,
+            "author": null,
+            "publisher": "公益財団法人健康・体力づくり事業財団",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "解剖学",
+            "生理学"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "特になし",
+        "other": "授業中に適時、資料を配布する。"
+    },
+    "grading_criteria": "実習に取り込む姿勢（参加態度）70％、課題レポート30％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "実習施設事前視察研修",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "現場指導実習①実習ガイダンス",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "現場指導実習②接客業務について",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "現場指導実習③施設管理業務について",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "現場指導実習④フィトネス業務\n～マシン・フロアメンテナンスについて～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "現場指導実習⑤フィトネス業務\n～有酸素マシーンについて～",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "現場指導実習⑥フィットネス業務\n～レジスタンスマシーンについて～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "現場指導実習⑦フィットネス業務\n～グループエクササイズについて～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "現場指導実習⑧フィットネス業務\n～イベント企画について～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "現場指導実習⑨スイミング業務\n～プール環境管理について～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "現場指導実習⑩スイミング業務\n～成人スクールの水泳指導法について～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "現場指導実習⑪スイミング業務\n～レッスンプログラム指導法について～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "現場指導実習⑫スイミング業務\n～ジュニアコース指導法について～",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "現場指導実習⑬スイミング業務\n～イベント企画について～\n実習終了後、レポート作成",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        },
+        {
+            "number": "１６",
+            "content": "試験",
+            "teaching_methods": [],
+            "teachers": [
+                "江﨑和希",
+                "松生香里"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:53:34Z",
+    "fetched_at": "2026-06-02T11:53:22Z",
     "name_ja": "教養スポーツ実習Ⅰ（1-16）",
     "name_en": "Sports Ⅰ",
     "syllabus_number": "1008900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -11,14 +11,14 @@
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "江﨑　和希",
@@ -400,5 +400,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

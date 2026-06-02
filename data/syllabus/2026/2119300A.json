@@ -1,0 +1,237 @@
+{
+    "fetched_at": "2026-06-02T11:59:26Z",
+    "name_ja": "研究方法論",
+    "name_en": "Research Methods",
+    "syllabus_number": "2119300A",
+    "course_number": "22-3-25-22-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "井上　みゆき",
+            "is_primary": true
+        },
+        {
+            "name": "渡邊　淳子",
+            "is_primary": false
+        },
+        {
+            "name": "田淵　啓二",
+            "is_primary": false
+        },
+        {
+            "name": "家根　明子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.看護における研究の定義や意義、研究疑問、研究テーマの絞り込みのプロセス、主な方\n法論的アプローチについて説明できる。\n2.量的なアプローチの研究デザインと研究方法の概要を説明できる。\n3.質的なアプローチの研究デザインと研究方法の概要を説明できる。\n4.文献レビューの目的を説明できる。\n5.文献を検索、整理・分析し、文献検討としてまとめることができる。",
+    "overview": "看護現象を客観的に捉え、その中に存在する疑問あるいは問題を科学的に探求する\n能力を養い、看護現象を探求し、看護の質を向上させるための看護研究方法論の基\n礎を学ぶ。\n本授業を通して、研究の基本的プロセス、量的研究、質的研究、研究課題の明確化\nのプロセス、社会の動向を踏まえた文献検討の方法を理解する。本授業を通して、\n研究論文の文献検討のスキル及び研究的な視点及び態度を身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP6"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "本科目の単位修得が、４年次の卒業研究の履修要件である。"
+    },
+    "grading_criteria": "授業への取り組み20%、文献検討レポート80%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "看護が科学であるために研究的視点で物事を見ることは大事です。（事前学習 45 分、事\n後学習 45 分）\n【オフィスアワー】\n講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "研究の概念と基本的ステップの理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上みゆき"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "質的研究①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊淳子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "質的研究②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊淳子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "質的研究③分析方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邊淳子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "量的研究①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "量的研究②",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "量的研究③分析方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "文献研究、アクションリサーチなどその他の研究方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "研究テーマの絞り込み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "文献レビューとその目的",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "家根明子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "以下４グループに分かれ文献のクリティーク",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき　田淵啓二",
+                "渡邊淳子　家根明子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "文献のクリティーク",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき　田淵啓二",
+                "渡邊淳子　家根明子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "文献のクリティーク",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき　田淵啓二",
+                "渡邊淳子　家根明子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "文献のクリティーク",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき　田淵啓二",
+                "渡邊淳子　家根明子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "文献のクリティーク",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき　田淵啓二",
+                "渡邊淳子　家根明子"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "実務家教員担当科目"
+}

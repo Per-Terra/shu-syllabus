@@ -1,0 +1,241 @@
+{
+    "fetched_at": "2026-06-02T11:58:59Z",
+    "name_ja": "人体の構造と機能Ⅱ",
+    "name_en": "Structure and function of the human body　Ⅱ",
+    "syllabus_number": "2115000A",
+    "course_number": "22-1-21-22-04",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "岸　博子",
+            "is_primary": true
+        },
+        {
+            "name": "大平　光子",
+            "is_primary": false
+        },
+        {
+            "name": "松崎　健太郎",
+            "is_primary": false
+        },
+        {
+            "name": "前嶋　翔",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "1 人体の構造と機能を説明できる。\n2 人体を構成する細胞の構造、それらの集合体である組織や器官の特徴とその構造を説明できる。\n3 骨格系、筋肉系、神経系の構造を説明できる。\n4 感覚器の構造とその働きを説明できる。\n5 神経の機能を説明できる。\n6 運動における神経系と筋の役割・収縮機構を説明できる。\n7 内分泌系の機能を説明できる。\n8 生殖機能、性周期を説明できる。\n9 医の倫理と人間の尊厳について説明できる。",
+    "overview": "人体の正常な構造及び機能に従って系統的に人体の構造と機能を学ぶことは人の日常生活の営みを支える看護職者が人間の身体を理解し、フィジカルアセスメントを行う基盤となる。本授業では人体の構造と機能Ⅰにひきつづき、自立神経系・内分泌系、感覚器、骨格・筋・神経・運動器系の構造と機能、さらに生体防御機構と適応、生殖・発生・老化について、人体の各部位の形態や位置関係と機能を結びつけ、組織や細胞の構造と機能を理解する。\n授業を通して、生活者である人の個々の身体的特徴を理解するための正常な身体の構造と機能に関する基礎的知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎　解剖生理学",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "筆記試験100％\n第7回目終了後に中間試験を実施します。日程は第1回目授業で周知します。\n中間試験と期末試験合計を100点換算し60点以上が合格です。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "看護学を学ぶ上で基盤となる知識です。対象者を全人的に捉える第一歩として、人の身体の構造と機能を理解することが重要です。オンデマンドの授業形態であるため、理解できるまで、何度でも繰り返し動画を視聴し、資料を見直すことができます。また、アナトマージテーブルも積極的に活用して理解を深めてください。\n（予習　45分　復習　45分）\n\n【オフィスアワー】\n非常勤講師のため、質問や疑問は担当講師が提示するメールに連絡すること。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "身体の指示と運動（１）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松崎健太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "身体の指示と運動（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松崎健太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "身体の指示と運動（３）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松崎健太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "情報の受容と処理（１）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "情報の受容と処理（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "情報の受容と処理（３）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "情報の受容と処理（４）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前嶋　翔"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "情報の受容と処理（５）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前嶋　翔"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "情報の受容と処理（６）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "身体機能の防御と適応（１）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岸　博子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "身体機能の防御と適応（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松崎健太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "生殖・発生と老化のしくみ（１）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前嶋　翔"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "生殖・発生と老化のしくみ（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松崎健太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "生殖・発生と老化のしくみ（３）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前嶋　翔"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "体表からみた人体の構造",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "前嶋　翔"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月3日（月）2時限\n試験実施方法は第1回授業で周知します。\n中間試験もあります。中間試験日程は第1回授業及び授業内で周知します。",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

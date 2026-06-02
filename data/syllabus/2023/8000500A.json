@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:25:21Z",
+    "fetched_at": "2026-06-02T11:58:37Z",
     "name_ja": "日本語口頭表現",
     "name_en": "Japanese Oral Presentation",
     "syllabus_number": "8000500A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "毎回の授業において、グループ内で発表をしてもらいます。また授業後、範囲の内容を要約を提出してもらいます。そして、最後に本の内容とおすすめポイントを口頭で録音したものを提出してもらいます。",
     "evaluation_ratio": {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

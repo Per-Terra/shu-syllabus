@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:27Z",
+    "fetched_at": "2026-06-02T11:54:12Z",
     "name_ja": "留学英語IELTS",
     "name_en": "IELTS Preparation",
     "syllabus_number": "1013600B",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -59,7 +59,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書，ノート，英語辞書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "IELTS受験必須の単熟語の習得、基本文法の理解、パート別対策法の理解と実践を、「学生に対する評価」にある通り評価します。評価基準の「小テスト」は、語い・文法・構文の定着を図るための小テストや小課題提出です。「発表・実技」は、授業内で行うWriting・Speaking練習への取り組みです。「その他」は授業内外の学習における自主性・積極性です。原則として、出欠状況は評価に含まれませんが、授業回数の3分の2以上の出席がなければ期末試験受験資格が失効します。十分注意してください。",
     "evaluation_ratio": {
@@ -254,5 +254,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

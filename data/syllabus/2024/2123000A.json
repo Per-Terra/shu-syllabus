@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:07:18Z",
+    "fetched_at": "2026-06-02T11:58:52Z",
     "name_ja": "地域福祉キャリア形成活動指導Ⅰ",
     "name_en": "Field Instruction in Community Welfare Career Development ActivityⅠ",
     "syllabus_number": "2123000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　武生",
@@ -79,7 +79,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "①学外である保育所、社会福祉施設で実習を行う意義の理解 \n②社会人としての態度・行動の理解 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性の理解 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とのコミュニケーション方法の理解",
@@ -320,5 +320,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

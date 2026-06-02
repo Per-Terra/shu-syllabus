@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:55:45Z",
+    "fetched_at": "2026-06-02T11:53:05Z",
     "name_ja": "AI・データサイエンス実践",
     "name_en": "AI and Data Science Practice",
     "syllabus_number": "1010000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,7 +55,7 @@
             "応用数学"
         ],
         "required_materials": "ノートPC（毎回持参するようにしてください）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標に挙げる 1. ディジタル画像の基礎知識および画像処理基礎知識についての理解　2. 種々のHand-crafted特徴量および機械学習法についての理解　3. 畳み込みニューラルネットワークの基礎についての理解　を「学生に対する評価」の内容により評価する。",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

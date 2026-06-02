@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:13Z",
+    "fetched_at": "2026-06-02T11:52:51Z",
     "name_ja": "心理学概論Ⅱ",
     "name_en": "Introduction to Psychology II",
     "syllabus_number": "1003000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "定期試験を実施する。また、各回の授業後に授業内容に関するコメントシートの提出を求める。\n定期試験の成績とコメントシートの内容によって最終成績を算出する。",
     "evaluation_ratio": {
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

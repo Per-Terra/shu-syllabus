@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:44Z",
+    "fetched_at": "2026-06-02T11:59:50Z",
     "name_ja": "ケアマネジメント論",
     "name_en": "Theory of Care management",
     "syllabus_number": "2125500A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①地域自立生活を支える技法としてのケアマネジメントを理解できる\n②ケアマネジメントの支援過程を展開できる\n③コーディネーション、社会資源開発、多職種・多業種連携の方法を理解できる\n上記の①～③を次の方法で評価する。",
     "evaluation_ratio": {
@@ -215,5 +215,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

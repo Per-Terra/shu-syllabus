@@ -1,22 +1,22 @@
 {
-    "fetched_at": "2025-04-07T11:06:16Z",
+    "fetched_at": "2026-06-02T11:58:29Z",
     "name_ja": "地域観光まちづくり論",
     "name_en": "regional Tourism Community Development",
     "syllabus_number": "2106000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "難波　利光",
@@ -40,10 +40,10 @@
         {
             "title": "（最初の講義にお知らせします）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -51,10 +51,10 @@
         {
             "title": "（適宜案内します）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -63,7 +63,7 @@
         "recommended": [
             "健康まちづくり論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は、最初の講義時にお知らせします。　参考図書・参考資料は、適宜案内します。"
     },
     "grading_criteria": "① 観光とまちづくりの概要について理解できている。 \n② 観光まちづくりと福祉の関係性について理解できている。 \n③ 観光まちづくりによる人材育成の意義と役割について理解できている。",
@@ -229,5 +229,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

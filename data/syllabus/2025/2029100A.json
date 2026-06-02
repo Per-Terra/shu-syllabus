@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:57Z",
+    "fetched_at": "2026-06-02T11:57:05Z",
     "name_ja": "社会福祉調査の基礎",
     "name_en": "Introduction to social welfare survey",
     "syllabus_number": "2029100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
             "author": "山口県社会福祉協議会",
             "publisher": "山口県社会福祉協議会",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -52,7 +52,7 @@
             "author": "国立教育政策研究所",
             "publisher": "国立教育政策研究所",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -61,7 +61,7 @@
             "author": "小山弘美",
             "publisher": "自治大学校",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -70,7 +70,7 @@
             "author": "小山弘美",
             "publisher": "自治大学校",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -79,7 +79,7 @@
             "author": "清池良太",
             "publisher": "宇都宮市市政研究センター",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -89,12 +89,12 @@
         "required_materials": "テキスト（各自でダウンロード）、ノート、筆記具",
         "other": "なし"
     },
-    "grading_criteria": "・①授業への取り組み状況（事前・事後学習、発表など）、②グループワークにおける協働、③社会調査計画の完成度から評価する。\n・評価の配分は①40％、②30％、③30％とする。",
+    "grading_criteria": "・①授業への取り組み状況（事前・事後学習、発表など）、②グループワークにおける協働、③最終試験から評価する。\n・評価の配分は①10％、②20％、③70％とする。",
     "evaluation_ratio": {
-        "exam": 0,
+        "exam": 70,
         "quiz": 0,
-        "report": 40,
-        "presentation": 30,
+        "report": 0,
+        "presentation": 0,
         "portfolio": 0,
         "other": 30
     },

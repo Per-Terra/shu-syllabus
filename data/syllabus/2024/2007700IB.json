@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:58:07Z",
+    "fetched_at": "2026-06-02T11:55:18Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700IB",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "児玉　満",
@@ -42,8 +42,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得　（ⅳ）卒業論文の完成\n上記、（ⅰ）～（ⅳ）に関する理解度を卒論50％、レポート20％、実技15％、ポートフォリオ15％で評価する。",
     "evaluation_ratio": {
@@ -190,5 +190,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

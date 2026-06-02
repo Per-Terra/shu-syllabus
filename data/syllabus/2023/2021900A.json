@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:59Z",
+    "fetched_at": "2026-06-02T11:56:15Z",
     "name_ja": "CAD入門",
     "name_en": "Introduction to CAD",
     "syllabus_number": "2021900A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

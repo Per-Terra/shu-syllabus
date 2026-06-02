@@ -1,0 +1,245 @@
+{
+    "fetched_at": "2026-06-02T12:00:50Z",
+    "name_ja": "上級日本語Ⅱ",
+    "name_en": "Advanced Japanese II",
+    "syllabus_number": "8002400A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "山本　晋也",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本講義では，日本語能力試験N1レベルに達するために必要な言語知識のうち「語彙」について学んでいきます。N１レベルの語彙力を身につけるために、以下の３点を目標とします。\n【到達目標】\n①実際にその語彙がどのように使われているかを理解することができる\n②「連語」「意味」「用法」「類義」の各観点で、語彙の特徴を理解することができる\n③基本的な文や文章の中でその語彙を使うことができる",
+    "overview": "大学卒業後、日本企業で働くためには、日本語能力試験N１級レベルの日本語が必要だとされる。本講義では、このうち語彙能力に焦点をあてる。言語知識としての語彙表現レベルと運用能力としての語彙表現レベルには、当然ながら差が生じる。本講義ではこの差を埋めるべく、実際に日本語学習者が言語知識として知っている語彙の運用に15回の講義において取り組む。具体的には、既存の語彙表現知識を活用した文の作成、また作成した文をつかったある程度、まとまった文章の作成などを通じて、運用力の向上に取り組む。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "「日本語能力試験」対策　日本語総まとめN1　語彙",
+            "publication_year": 2022,
+            "author": null,
+            "publisher": "アスク出版",
+            "price": 1320,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "中級日本語",
+            "中上級日本語Ⅰ",
+            "中上級日本語Ⅱ",
+            "中上級日本語Ⅲ"
+        ],
+        "required_materials": "ノート、筆記用具",
+        "other": "履修者のレベル・ニーズに応じて適宜教科書購入を指示する場合がある"
+    },
+    "grading_criteria": "①毎回の授業内に行う小課題　②7回目前後に行う中間課題　③15回目に行う最終課題\n上記３つの観点から評価する。\n①→その他　②→小テスト　③→発表・実技",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "留学生から「N1語彙を使わなくても会話はできる」「日常生活ではあまり聞いたことがない」などの声を聞くことがあります。この授業では、みなさんが社会や自分自身について考え、表現する中で、理解したN1語彙をどのように使うかを学びます。N1語彙に触れる機会を多く作ろうと思っています。\n\n復習：練習問題を解き、語彙知識の定着を図ること（1時間程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス \n人の性格や人柄に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "料理や住居など日常生活に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "医療や健康に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "仕事に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "メディアに関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "少子高齢化などの社会問題に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "科学技術に関する語彙",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "意味が多い言葉（動詞）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "意味が多い言葉（動詞）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "形が似ている言葉（和語）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "形が似ている言葉（和語）、日本語能力試験模擬テスト",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "時間、頻度、強調の副詞",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "後ろに決まった表現が来る副詞",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "オノマトペ（物の様子）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "１〜７回目で学習したテーマについての文章作成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "山本　晋也"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

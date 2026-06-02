@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:57:13Z",
+    "fetched_at": "2026-06-02T11:53:06Z",
     "name_ja": "教職キャリア教育Ⅰ",
     "name_en": "Career Training for Teaching Profession",
     "syllabus_number": "1007900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -435,5 +435,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

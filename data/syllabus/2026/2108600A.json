@@ -1,0 +1,195 @@
+{
+    "fetched_at": "2026-06-02T11:58:16Z",
+    "name_ja": "中国経済論",
+    "name_en": "The Chinese Economy",
+    "syllabus_number": "2108600A",
+    "course_number": "11-3-28-21-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "WEI　DI",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "近年，中国の経済や社会，さまざまな側⾯における成⻑，変化が著しい。それにともない，中国を取り巻く世界の環境も急激に変化してきている。⽇本では，隣の新興⼤国である中国について，さまざまな観点や論調が存在している。そのなかで，近年急成⻑しているハイテクについては，前向きで積極的な評価をする観点や論調が多いが，「中国脅威論」のような，中国の成⻑に対して深い懸念をもったり，脅威としてとらえたり，客観性が⽋けている議論も少なくない。\nでは，中国について，われわれはいかに認識すべきなのか。⽇本にとって，中国の経済と社会における成⻑と変化はチャンスなのか，それとも脅威なのか、を講義に通じて理解していく。\n\n＜到達⽬標＞\n1. 中国経済の発展過程及び抱えている課題についての知識を身につける。\n2. 激変する中国の社会経済システムのさまざまな側⾯について理解することを通じて、グローバル化の実態と中国経済の進路につい\nてより客観的な認識ができる。",
+    "overview": "本講義は，受講⽣が中国をより正しく理解するために，現代中国の経済と社会について，歴史の観点，経済と社会のすざましい成⻑，変化の側⾯，そして依然として存在している多くの根深い社会問題の側⾯，および⼀層複雑になりつつある国際環境の側⾯から総合的・動態的に解説するものである。",
+    "diploma_policies": [
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "現代中国の経済と社会",
+            "publication_year": 2022,
+            "author": "竇 少杰 (編著), 横井 和彦 (編著)",
+            "publisher": "中央経済社",
+            "price": 3300,
+            "isbn": "4502414913",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "テキストはなし。毎回授業後レジュメを公開する。適宜内容を変更することがある。"
+    },
+    "grading_criteria": "上記＜到達⽬標＞．に関する理解度を以下により総合評価する。\n１．期末評価：60％\n２．平常点：40％",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "【準備学習】段階的に講義を進めていくので、毎回、前回のレジュメやノートを参照に復習をしてから講義に臨むこと。（約2時間）\n【事後学習】各回の終了後に講義の要点を整理・要約しておくこと。 （約２時間）",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "はじめに- 中国経済をとらえる視⻆-",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２",
+            "content": "計画経済期の中国経済と社会",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "３",
+            "content": "現代中国の経済と社会の歩み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "４",
+            "content": "「引進来」の政策転換と⽇本企業の対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "５",
+            "content": "「⾛出去」の政策推進と中国企業の世界進出",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "６",
+            "content": "中国の技術移転政策と知的財産権問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "７",
+            "content": "急速に成⻑するキャッシュレス決済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "８",
+            "content": "社会構造の問題で⽣み出された新たな弱者集団",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "９",
+            "content": "「三農問題」とデジタル農村建設",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１０",
+            "content": "中国の新発展戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１１",
+            "content": "新たに誕生するマーケット「下沈市場」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１２",
+            "content": "細分化する消費",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１３",
+            "content": "中国新興ブランドの成長",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１４",
+            "content": "⽶中貿易「戦争」の本質：中国経済の「グローバル化」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１５",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

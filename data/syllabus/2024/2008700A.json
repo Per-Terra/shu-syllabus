@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:58:30Z",
+    "fetched_at": "2026-06-02T11:55:27Z",
     "name_ja": "キャラクターデザイン",
     "name_en": "Character Design",
     "syllabus_number": "2008700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "宮原　ナオ",
@@ -42,7 +42,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "筆記用具(シャープペンシル、消しゴム等の修正可能なもの、ノート、紙類)",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "講義終了時、課題作品を提出する事になるので、その作品を評価が基本になります。\n　さらに講義時の受講態度、出席日数を評価の対象とします。",
     "evaluation_ratio": {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

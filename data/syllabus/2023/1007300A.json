@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:57:08Z",
+    "fetched_at": "2026-06-02T11:53:05Z",
     "name_ja": "キャリアプランニングⅡ",
     "name_en": "Career Planning II",
     "syllabus_number": "1007300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 業界、職種、一般企業の分析、② 就職筆記試験の基本的な問題への対応、③ 時事問題に触れる習慣　について、「学生に対する評価」」の内容で評価します。",
     "evaluation_ratio": {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

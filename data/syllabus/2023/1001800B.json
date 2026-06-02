@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:44Z",
+    "fetched_at": "2026-06-02T11:52:42Z",
     "name_ja": "経済学(b)",
     "name_en": "Economics",
     "syllabus_number": "1001800B",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -57,7 +57,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "ミクロ経済学Ⅰ・Ⅱ、マクロ経済学Ⅰ・Ⅱなどを続けて履修することでより経済学に関する知識を深めてください"
     },
     "grading_criteria": "(ⅰ) 経済学に関する基礎的な知識の習得、(ⅱ) ミクロ経済学の基礎の習得、(ⅲ) マクロ経済学の基礎の習得　について、「学生に対する評価」の内容で評価する。\n※「その他」は講義内における課題への取組状況などを評価する。",
@@ -380,5 +380,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

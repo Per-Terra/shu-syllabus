@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:03:50Z",
+    "fetched_at": "2026-06-02T11:58:14Z",
     "name_ja": "情報科学概論",
     "name_en": "Introduction to Information Science",
     "syllabus_number": "2100100A",
@@ -8,12 +8,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -65,7 +65,7 @@
             "is_primary": false
         },
         {
-            "name": "小柳　淳二",
+            "name": "小栁　淳二",
             "is_primary": false
         },
         {
@@ -100,7 +100,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "必携パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "毎回の授業でその回の講義内容を振り返り理解を深めるための小レポートを課します。成績に直結す\nるものなので真剣に取り組んで下さい。\n成績評価の割合：小レポート 100％",
     "evaluation_ratio": {
@@ -266,5 +266,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

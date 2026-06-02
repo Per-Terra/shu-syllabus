@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:56Z",
+    "fetched_at": "2026-06-02T11:55:12Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600X",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -92,7 +92,7 @@
             "データサイエンス入門"
         ],
         "required_materials": "パソコンは必要になると考える。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "参加態度(レジュメ、ディスカッション)などで判断する。",
     "evaluation_ratio": {
@@ -407,5 +407,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

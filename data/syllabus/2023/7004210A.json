@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:24:47Z",
+    "fetched_at": "2026-06-02T11:58:29Z",
     "name_ja": "ソフトボールⅠ",
     "name_en": "Softball I",
     "syllabus_number": "7004210A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -37,7 +37,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "実技を行うのに相応しい身なりで受講すること。"
     },
     "grading_criteria": "ソフトボールに関する基本的な知識や技術を習得しているかについて、以下の「学生に対する評価」により評価する。",
@@ -203,5 +203,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,171 @@
+{
+    "fetched_at": "2026-06-02T11:58:56Z",
+    "name_ja": "生涯発達論",
+    "name_en": "Lifespan Development",
+    "syllabus_number": "2114600A",
+    "course_number": "22-1-21-22-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "梅村　比丘",
+            "is_primary": true
+        },
+        {
+            "name": "大平　光子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．人の発達段階と発達課題・発達危機について説明できる\n２．親子関係とアタッチメントについて説明できる。\n３．児童期・思春期・青年期・成人期の自己概念の発達危機について説明できる。\n４．自我の発達と関係性（人間関係・社会）について説明できる\n５．成人後期の発達危機と自我の統合について説明できる。",
+    "overview": "本授業では、人間を全人的に捉え、人が生まれてから死ぬまでに経験するさまざまな変化を心理的な発達の視点から考え、人の発達段階における心理的発達やそれを取り巻く課題について学ぶ。本授業では幼児期から高齢期までの発達段階をおいながら、家族や社会といった周囲の環境が心や身体の発達に及ぼす様々な影響に関して，その基本的な考え方・理論や基礎的な知識を理解する。本授業を通して、人間の生涯発達に関する理論、発達段階と発達課題、生涯発達における家族や社会が心身の発達や発達危機に及ぼす影響に関する基礎的知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "使用しない。適宜、資料を配布する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "授業内で適宜、紹介・配布する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "ノートPCなど",
+        "other": null
+    },
+    "grading_criteria": "・小レポート２回（５％×２回）\n・期末試験９０％",
+    "evaluation_ratio": {
+        "exam": 90,
+        "quiz": 0,
+        "report": 10,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "期末試験は授業の内容から多く出題されるため、授業中にノートを取り、復習すると良いでしょう。\n\n授業スケジュール\n１．授業日程：17日（水）1-4時限、18日（木）1-3時限、19日（金）2時限\n２．授業スケジュール：対面\n３．筆記試験日程：19日（金）\n４．試験実施方法：オンライン（ノートPCで受験。スマホ、タブレットの使用不可）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "生涯発達の考え方、発達課題・発達危機の考え方\n2月17日　1時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "乳幼児期の発達\n2月17日　2時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "アタッチメント\n2月17日　3時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "幼児期・学童期の対人関係と社会性\n2月17日　4時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "思春期・青年期の自我の発達と関係性・社会性\n2月18日　1時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "成人前期の成熟期の発達危機\n2月18日　2時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "成人後期の発達危機、自我の統合\n2月18日　3時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "総括　2月19日1時限",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅村　比丘"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2月19日（金）2時限　\nオンライン試験（教室に参集して実施）\n充電したノートPC持参・タブレット及びスマホは使用できません。",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

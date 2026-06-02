@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:04:48Z",
+    "fetched_at": "2026-06-02T11:57:54Z",
     "name_ja": "保育士特別セミナーⅠ",
     "name_en": "Studying for Examination of Early Childhood Education and Care Ⅰ",
     "syllabus_number": "2041100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "金子　幸",
@@ -52,10 +52,10 @@
         {
             "title": "その他の書籍は授業内で指定します。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -261,5 +261,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

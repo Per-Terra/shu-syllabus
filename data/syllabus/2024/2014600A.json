@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:25Z",
+    "fetched_at": "2026-06-02T11:55:52Z",
     "name_ja": "福祉サービスの組織と経営",
     "name_en": "Organization and Management of  Welfare Services",
     "syllabus_number": "2014600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "輪倉　一広",
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

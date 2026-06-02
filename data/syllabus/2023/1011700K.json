@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:47Z",
+    "fetched_at": "2026-06-02T11:53:30Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700K",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,7 +40,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ファイルノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①地域課題の理解度\n②フィールドワークへの参画度\n③フィールドワークの成果レポートの完成度",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

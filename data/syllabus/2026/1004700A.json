@@ -1,0 +1,431 @@
+{
+    "fetched_at": "2026-06-02T11:52:53Z",
+    "name_ja": "ドイツ語Ⅰ",
+    "name_en": "German I",
+    "syllabus_number": "1004700A",
+    "course_number": "11-1-13-22-07、21-1-13-22-06、22-2-13-22-02、23-1-13-22-04、31-1-13-22-04",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科",
+        "人間健康科学部 看護学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "新枝　美帆",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
+    "overview": "初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。日常会話でよく使われるあいさつ表現や文字と音の対応規則を学び、平易な文を聞き取ったり書いたりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、独和、和独辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP4",
+        "スポーツ健康科学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "Wie heißt du?",
+            "publication_year": 2020,
+            "author": "伊藤　直子　能登　慶和",
+            "publisher": "朝日出版社",
+            "price": 2750,
+            "isbn": "9784255253633",
+            "available_on_campus": true
+        },
+        {
+            "title": "初級者に優しい独和辞典　増補改訂版",
+            "publication_year": 2023,
+            "author": "早川　東三",
+            "publisher": "朝日出版社",
+            "price": 3080,
+            "isbn": "9784255013435",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "テキスト、ノート、辞書",
+        "other": "なし"
+    },
+    "grading_criteria": "「試験」60％、「その他」40％で評価する。「その他」は授業中に指定した課題、小テスト、ワークシートや参加態度・意欲などに対する評価とする。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）\n\nその日に学習するページに出てくる単語を予習して、授業に臨み、その日に習った表現を復習する時間を最低３０分～１時間確保しましょう。\n＊皆さんの理解度に応じて、授業計画の内容に変更があることを承知しておいてください。また、変更の際には、皆さんにはきちんと説明します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業の進め方、評価方法などについてのオリエンテーション\nアルファベット\n発音練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ランデスクンデ\nドイツ語圏諸国の名称、、ドイツ周辺国の名称、ドイツの州の名称",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Lektion１\n発音のルール　\n発音練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Lektion１　あいさつ　\n発音練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Lektion１　あいさつ、敬称　\n発音練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Lektion２　人称代名詞（１格）\n発音練習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Lektion２　動詞の不定形\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Lektion２　現在人称変化（規則動詞）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Lektion３　現在人称変化（不規則動詞）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Lektion３　所有冠詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Lektion３　不定詞句と文　\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Lektion４　habenとsein　三人称の動詞の人称変化\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Lektion４　三人称所有冠詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Lektion５　定冠詞、不定冠詞、否定冠詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Lektion５　名詞の複数形　代名詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "Lektion６　人称代名詞（１，４格）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "Lektion６　定冠詞、不定冠詞、否定冠詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "Lektion７　時刻、時刻の前置詞（３格支配）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "Lektion７　分離動詞と非分離動詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "Lektion８　過去分詞　現在完了\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "Lektion８　過去分詞　現在完了\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "Lektion９　話法の助動詞\n　　　　　 \n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "Lektion９　話法の助動詞\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "Lektion１０　命令形\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "Lektion１０　命令形\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "Lektion１１　前置詞（３格支配と４格支配ができる前置詞）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "Lektion１１　前置詞（３格支配と４格支配ができる前置詞）\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "Lektion１２　天気を表す非人称のes\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "Lektion１２　非人称のes\n発音練習と文法演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "試験対策演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        },
+        {
+            "number": "31",
+            "content": "期末試験（教室、時限についてはゲット通知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "新枝　美帆"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

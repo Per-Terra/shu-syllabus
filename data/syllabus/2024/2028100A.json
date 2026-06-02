@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:53Z",
+    "fetched_at": "2026-06-02T11:56:47Z",
     "name_ja": "ソーシャルワーク実習指導Ⅱ",
     "name_en": "Guidance of Social Work Practice Ⅱ",
     "syllabus_number": "2028100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　武生",
@@ -59,10 +59,10 @@
         {
             "title": "周南公立大学　ソーシャルワーク実習の手引",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -73,7 +73,7 @@
             "ソーシャルワーク演習Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "社会福祉士国家試験受験資格取得に必要な35科目のうち、ソーシャルワーク実習指導Ⅰを除く8科目以上を履修済であること。"
     },
     "grading_criteria": "①ソーシャルワーク実習の意義と目的と理解できる\n②実習施設となる社会福祉実践現場で必要となる知識及び技術を習得し展開できる\n③ソーシャルワーク実習Ⅰにおける学習目標を説明できる\n\n以上3点を、下記「学生に対する評価」の内容で評価する。なお「学生に対する評価」の「その他」は授業における取り組み方を評価する。",
@@ -278,5 +278,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

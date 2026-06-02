@@ -1,0 +1,244 @@
+{
+    "fetched_at": "2026-06-02T11:57:35Z",
+    "name_ja": "オブジェクト指向プログラミング",
+    "name_en": "Object-Oriented Programming",
+    "syllabus_number": "2102310A",
+    "course_number": null,
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "田中　輝明",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "1. オブジェクト指向の考え方について説明できる。\n2. オブジェクト指向に基づいた言語文法を用いてプログラムを作成できる\n3. 要求を満足するオブジェクト指向プログラムを作成できる",
+    "overview": "プログラミングパラダイムの一つであるオブジェクト指向に基づくプログラミング手法を学びます。クラスやオブジェクト、継承、多態性、相称性といったオブジェクト指向の基幹的な概念の意味と必要性を理解し、オブジェクト指向の言語文法を活用したプログラムを開発するスキルと知識を、プログラミング演習を通じて習得します。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "オブジェクト指向入門 第2版 原則・コンセプト",
+            "publication_year": 2007,
+            "author": "Bertrand Meyer",
+            "publisher": "翔泳社",
+            "price": 7920,
+            "isbn": "9784798111117",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "Javaプログラミング"
+        ],
+        "required_materials": "ノートパソコン",
+        "other": "授業内容に関するプリントを配布します。この授業は演習を含みます。"
+    },
+    "grading_criteria": "オブジェクト指向に基づくプログラムの設計、実装に関する学生の理解度を以下で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "ソフトウェア開発で発生する多様な問題への対策として、オブジェクト指向というプログラミングパラダイムが考案され、多くのプログラミング言語で活用されています。本授業では、オブジェクト指向プログラミングの基幹的な概念と実践的なスキルを習得し、即戦力として活躍できる人材へと成長することを目指します。\n予習：次回の授業内容を参照し、その単語や内容について調べて確認しておく(予習・30分程度)\n復習：授業内で未完了の作業は完了させ授業内容の再確認をして知識を定着させる(復習・30分程度)。\n\n※先修条件の科目の履修を推奨します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ソフトウェア開発が抱える課題と解決へのアプローチ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "クラスとオブジェクトについて",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "クラスとオブジェクトに関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "継承について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "継承に関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "多態性について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "多態性に関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "総称性について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "総称性に関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "契約による設計について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "契約による設計に関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "例外処理について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "例外処理に関するプログラミング演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと振り返り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中",
+                "輝明"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "企業でのソフトウェア開発の実務経験および大学でのオブジェクト指向設計に関する教育に従事してきた教員が、その経験を活かしてオブジェクト指向によるプログラミングに関する実践的な知識を身に着けさせる"
+}

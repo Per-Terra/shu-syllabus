@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:13Z",
+    "fetched_at": "2026-06-02T11:56:39Z",
     "name_ja": "社会福祉士特別セミナーⅢ",
     "name_en": "Studying for Examination of Certified Social Worker III",
     "syllabus_number": "2025600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -244,5 +244,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

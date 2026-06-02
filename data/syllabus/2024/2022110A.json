@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:00:22Z",
+    "fetched_at": "2026-06-02T11:56:14Z",
     "name_ja": "ソフトウェア演習",
     "name_en": "Software Exercises",
     "syllabus_number": "2022110A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "土屋　敏夫",
@@ -55,7 +55,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "毎回の講義で作成した内容を課題として提出してもらいます。試験は実施しません。",
     "evaluation_ratio": {
@@ -66,7 +66,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

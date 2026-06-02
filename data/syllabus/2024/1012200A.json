@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:54:20Z",
+    "fetched_at": "2026-06-02T11:53:39Z",
     "name_ja": "周南地域と産業",
     "name_en": "Shunan Regions and Industries",
     "syllabus_number": "1012200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -13,14 +13,14 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "百武　仁志",
@@ -57,7 +57,7 @@
             "地域ゼミ"
         ],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業に出席しゲストスピーカーの話を聴き、ワークに取り組むもしくは質疑応答を実施した上で、「お話の中で特に印象に残ったこと」 「新たに発見したこと、気づいたこと」に関する400文字以上のレポートを提出することが求められます。\n基本的には講演を踏まえて書かれたレポートの提出状況と内容によって評価します【レポート70%】。授業における発言やワークに取り組んだ結果の発表は【発表・実技10%】として加点します。【その他20%】は授業に対する能動的な出席によって評価します。",
     "evaluation_ratio": {
@@ -237,5 +237,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

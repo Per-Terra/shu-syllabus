@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:30Z",
+    "fetched_at": "2026-06-02T11:55:03Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600SK",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "羽渕　由子",
@@ -82,7 +82,7 @@
             "心理学概論Ⅱ"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）研究の過程と成果を表現したり評価したりする能力・技能，（ⅱ）研究課題を発見し、適切な研究計画を立案する能力・技能について，「学生に対する評価」の観点から評価する。\n※「その他」は，講義内における発言の質や，参加態度を評価する。",
     "evaluation_ratio": {
@@ -397,5 +397,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

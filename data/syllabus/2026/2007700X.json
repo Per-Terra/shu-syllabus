@@ -1,0 +1,369 @@
+{
+    "fetched_at": "2026-06-02T11:55:23Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700X",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本ゼミでは、専門ゼミⅠで習得したスキルをもとに、学生の興味関心の深いテーマについて、先行研究調査、データ収集・聴き取り・アンケート等、仮説の提示、分析などを行い、得られた結果に基づいて、卒業論文を取りまとめる。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析することができる。\n（ⅱ）課題解決に向けた考え方、分析手法を習得することができる。\n（ⅲ）卒業論文を完成させることができる。",
+    "overview": "本ゼミは、学生の自主的・主体的な参加型授業として各自が設定した卒業論文のテーマについて調査、分析を行い、毎回のゼミでそれを発表・確認し、改善点などの指導を行う。また、中間報告会等を通じて論理や分析の精緻化を図り、最終的に卒業論文を完成させる。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具、ノートパソコン",
+        "other": "参考図書は適宜案内する"
+    },
+    "grading_criteria": "毎回の報告や卒業論文に基づき評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "各自が設定した研究テーマについて、調査・研究を行い、卒業論文を執筆し完成させます。教員は、課題設定、先行研究の照合、分析手法、論理展開など作成の各段階において指導・支援を行います。学習内容や論文の進捗等について教員との十分な情報共有に努めてください。\n【予習・復習等】\n　卒業論文の制作にあたっては、先行研究調査や分析手法の習得など自主的な学習時間を十分に（目安として１日３時間程度）確保することが重要となります。\n【オフィスアワー】\n毎週火曜日昼休み（12:20～12:50）\n出張・会議等で不在の可能性もあるため事前予約をしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション\n論文テーマの確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "進捗状況報告、質疑応答・意見交換（１）\n先行研究の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "進捗状況報告、質疑応答・意見交換（２）\n先行研究の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "進捗状況報告、質疑応答・意見交換（３）\n先行研究の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "進捗状況報告、質疑応答・意見交換（４）\n先行研究の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "進捗状況報告、質疑応答・意見交換（５）\n論旨、構成の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "進捗状況報告、質疑応答・意見交換（６）\n論旨、構成の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "進捗状況報告、質疑応答・意見交換（７）\n論旨、構成の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "進捗状況報告、質疑応答・意見交換（８）\n分析手法の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "進捗状況報告、質疑応答・意見交換（９）\n分析手法の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "進捗状況報告、質疑応答・意見交換（１０）\n分析手法の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "進捗状況報告、質疑応答・意見交換（１１）\n分析手法の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "中間報告会①（研究テーマ、構成、分析手法等の確認）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "中間報告会①（研究テーマ、構成、分析手法等の確認）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "前期まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "休暇中課題の報告、意見交換",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "進捗状況報告、質疑応答・意見交換（１２）\n論文指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "進捗状況報告、質疑応答・意見交換（１３）\n論文指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "進捗状況報告、質疑応答・意見交換（１４）\n論文指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "進捗状況報告、質疑応答・意見交換（１５）\n論文指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "進捗状況報告、質疑応答・意見交換（１６）\n論文指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "中間報告会③（骨子の確認、完成に向けた課題整理等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "中間報告会④（骨子の確認、完成に向けた課題整理等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "進捗状況報告、論文指導（仕上げ段階）（１）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "進捗状況報告、論文指導（仕上げ段階）（２）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "進捗状況報告、論文指導（仕上げ段階）（３）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "進捗状況報告、論文指導（仕上げ段階）（４）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "進捗状況報告、論文指導（仕上げ段階）（５）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業論文最終報告（１）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文最終報告（２）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "地方公共団体での勤務経験を踏まえ、事例を交えて演習を行う。"
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:24:16Z",
+    "fetched_at": "2026-06-02T11:58:21Z",
     "name_ja": "教育実習基礎講座Ⅱ",
     "name_en": "Preliminary Instruction for Student Teaching II",
     "syllabus_number": "7003000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -267,5 +267,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

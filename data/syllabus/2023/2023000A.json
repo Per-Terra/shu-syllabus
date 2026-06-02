@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:20Z",
+    "fetched_at": "2026-06-02T11:56:20Z",
     "name_ja": "ネットワーク論",
     "name_en": "Introduction to Networking",
     "syllabus_number": "2023000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,7 +55,7 @@
             "コンピュータ概論"
         ],
         "required_materials": "PC、教科書、ノート、筆記具、講義資料（事前配布）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）、（ⅱ）、（ⅲ）、（ⅳ）の四点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:56Z",
+    "fetched_at": "2026-06-02T11:59:26Z",
     "name_ja": "成人看護方法",
     "name_en": "Adult nursing",
     "syllabus_number": "2117700A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -171,8 +171,7 @@
     ],
     "enrollment_info": {
         "prerequisites": [
-            "成人看護学概論",
-            "成人疾病治療論"
+            "成人看護学概論"
         ],
         "recommended": [
             "なし。"

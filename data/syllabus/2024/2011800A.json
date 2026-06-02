@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:59:09Z",
+    "fetched_at": "2026-06-02T11:55:44Z",
     "name_ja": "スポーツ産業論",
     "name_en": "Theory of Sports Industry",
     "syllabus_number": "2011800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　健",
@@ -43,7 +43,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考文献等は、講義中に適宜案内する。"
     },
     "grading_criteria": "到達目標について⑪に示す方法で評価する",
@@ -209,5 +209,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

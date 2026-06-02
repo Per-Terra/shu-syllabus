@@ -1,0 +1,237 @@
+{
+    "fetched_at": "2026-06-02T11:55:56Z",
+    "name_ja": "認知心理学Ⅱ",
+    "name_en": "Cognitive Psychology II",
+    "syllabus_number": "2024500A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小野　健太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(ⅰ)人間の知的な情報処理システムについて，基礎的な内容を説明することができる。\n(ⅱ)認知心理学的な研究の方法論について説明することができる。\n(ⅲ)(ⅰ)(ⅱ)の知識に基づき，日常場面における私たちの行動をよりよく理解ことができる。\n(iv) (i)～(iii)を通じて，日常生活の中から疑問を発見し，認知心理学的に検討するセンスを養う。",
+    "overview": "本講義では、人間の心的過程（知覚・注意・記憶・言語・感情・意思決定など）を対象とする「認知心理学」について学びます。各テーマについての歴史的背景や研究手法の特徴、基礎的な理論や実験的知見、そして近年の応用的側面について理解を深めることを目的とします。講義内では、代表的な研究や実験結果も紹介しながら、日常生活や学習場面、社会活動などにおける認知プロセスを考察していきます。前期開講科目「認知心理学Ⅰ」の続きを実施します。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "認知心理学 (New Liberal Arts  Selection)",
+            "publication_year": 2010,
+            "author": "箱田 裕司 (著), 都築 誉史 (著), 川畑 秀明 (著), 萩原 滋 (著)",
+            "publisher": "有斐閣",
+            "price": 3740,
+            "isbn": "978-4641053748",
+            "available_on_campus": false
+        },
+        {
+            "title": "認知心理学 -- 知のアーキテクチャを探る 新版",
+            "publication_year": 2011,
+            "author": "道又 爾 (著), 北崎 充晃 (著), 大久保 街亜 (著), 今井 久登 (著), 山川 恵子 (著), 黒沢 学 (著)",
+            "publisher": "有斐閣",
+            "price": 2310,
+            "isbn": "978-4641124530",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "心理学",
+            "心理学概論Ⅰ",
+            "認知心理学Ⅰ"
+        ],
+        "required_materials": "ノート",
+        "other": "なし"
+    },
+    "grading_criteria": "(ⅰ)基礎知識の獲得、(ⅱ)研究方法の理解、(ⅲ)日常場面への応用、(ⅳ))問題発見 以上四点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 10,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "「認知心理学」は、普段、私たち人間が何気なく行っている活動（行動、心的活動、知的活動）が、どのようなメカニズムで成り立っているのか、なぜそのようなメカニズムが働くのかなどを、科学的手法を用いて明らかにしています。「なぜ」「どのように」を知ると、日々の生活が楽しくなります。認知心理学Ⅱでは、「感情」「脳科学」「顔認知」の話が中心となります。\n基礎的事項は講義形式で解説しますが、簡単な実験や心理検査など実習的課題も含めることで理解を深めます。毎回の講義では、最後に講義内容についての簡単なレポートを書いていただきます。質問などに対しては、次回フィードバックします。\n\n【予習・復習について】\n配付資料をよく読み、知識を定着させるためにまとめる等行ってください（各回60分程度）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション：認知心理学の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "感情心理学１：感情に関する理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "感情心理学２：感情が認知に与える影響と発達",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "感情心理学３：音楽が感情に与える影響と脳内メカニズム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "顔認知１：顔を認識する仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "顔認知２：顔が発信する情報と魅力",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "感情心理学４：笑いがもたらすものとユーモアの理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "感情心理学５：グループディスカッション「お笑いの解説」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "脳機能の計測法１：なぜ脳活動を測るのか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "脳機能の計測法２：MRI（核磁気共鳴画像法）について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "脳機能の計測法３：EEG（脳波）について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "脳構造と機能１：脳の構造と神経細胞の働き",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "脳構造と機能２：視覚系の構造と機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "脳構造と機能３：聴覚系の構造と機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小野　健太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

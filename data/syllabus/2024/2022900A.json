@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:32Z",
+    "fetched_at": "2026-06-02T11:56:17Z",
     "name_ja": "福祉医療情報システム",
     "name_en": "Welfare medical information system",
     "syllabus_number": "2022900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "児玉　満",
@@ -251,5 +251,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

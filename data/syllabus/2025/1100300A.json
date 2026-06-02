@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:56:53Z",
+    "fetched_at": "2026-06-02T11:53:48Z",
     "name_ja": "健康とスポーツ",
     "name_en": "Health and Sports",
     "syllabus_number": "1100300A",
@@ -14,12 +14,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
             "author": "小笠原正志",
             "publisher": "SISビジョン株式会社",
             "price": 2700,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:53Z",
+    "fetched_at": "2026-06-02T11:56:12Z",
     "name_ja": "コンピュータ概論",
     "name_en": "Introduction to Computer Science",
     "syllabus_number": "2021700A",
@@ -9,12 +9,12 @@
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノート、筆記具、ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "- 講義内容をどれだけ理解したか\n- 講義内容に基づく初歩的な応用ができるか\n- コンピュータに関する社会的側面も含めた諸問題を考えるに当たって、どれだけ講義内容を活用できるか",
     "evaluation_ratio": {
@@ -207,5 +207,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

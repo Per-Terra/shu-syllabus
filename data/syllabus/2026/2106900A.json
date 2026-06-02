@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:58:06Z",
+    "name_ja": "経営学入門Ⅰ",
+    "name_en": "Introduction to Business Administration Ⅰ",
+    "syllabus_number": "2106900A",
+    "course_number": "11-1-21-21-03",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "石谷　康人",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）経営学に関心を持ち、会社で働くことの意義を理解できる。\n（２）経営学を学ぶうえで必要となる基本的な知識を適切に理解できる。\n（３）企業運営の事例について、経営学の知識を用いて説明できる。",
+    "overview": "経営学とは、組織的な活動・行為・現象としての「組織の運営」を研究対象とする学問である。経営学では、組織の代表的形態として「企業（会社）」が取り上げられることが多い。本講義では、正社員としての就業経験を持たない大学生であっても基礎から理解できるよう配慮しつつ、「経営」「企業」「コーポレート・ガバナンス」「経営理念と戦略」「組織形態」「組織間関係」「生産管理」などの主要トピックについて体系的に学習する。これらの知識を通じて、受講生が企業運営の事例を適切に分析できるようになることを目標とする。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "経験から学ぶ経営学入門　第３版",
+            "publication_year": 2024,
+            "author": "上林憲雄・奥林康司・團泰雄・開本浩矢・森田雅也・竹林明・中村 志保",
+            "publisher": "有斐閣",
+            "price": 2640,
+            "isbn": "9784641184725",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "ゼミナール経営学入門　新装版",
+            "publication_year": 2022,
+            "author": "伊丹敬之・加護野忠男",
+            "publisher": "日本経済新聞出版",
+            "price": 3850,
+            "isbn": "9784532135263",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書「経験から学ぶ経営学入門　第３版」、筆記用具など。",
+        "other": "経済学部の学生は、「経営学入門Ⅰ」及び「経営学入門Ⅱ」の両方の単位を修得することで、「経営学総論」の単位が修得できます。"
+    },
+    "grading_criteria": "上記④に示した到達目標に対する達成度は、下記「⑪学生に対する評価」の方針に基づいて評価する。",
+    "evaluation_ratio": {
+        "exam": 65,
+        "quiz": 35,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "上記教科書は、大学1・2年生で経営学を初めて学ぶ学生を主な対象として執筆されていますが、今後の経営学に関する専門的な学修や就職活動においても重要となる内容が数多く含まれています。ぜひ本書を通読し、その内容を十分に理解してください。\n\n【予習・復習について】\n各回の授業に先立ち、必ず指定された章を読んでおくこと。その際、当日の授業で理解を深めるため、理解できない箇所をあらかじめ特定しておくことが望ましい（60分）。\n各回の授業では、ワークシートを配布する場合があるため、授業中および授業後に設問へ解答すること（30分）。\nまた、授業後には、学習支援システム（C-learning）等を通じて、小テストを受験すること（30分）。\nオフィスアワーは「在室している時間であれば随時対応可」としています。もっとも、円滑な対応のため、原則として事前にC-learningの「連絡・相談」から予約してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "企業経営入門①：私たちの暮らしと会社、会社とは・経営とは、会社の経営には何が必要か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "企業経営入門②：会社経営の仕組み、さまざまな会社の形",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "企業①：社会に対する会社の役割、市場経済体制と会社の行動、経済体制とモノを所有するということ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "企業②：企業とNPOの違い、現代の企業像",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "コーポレート・ガバナンス①：株式会社という会社形態、株式会社の諸機関、所有と経営の分離",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "コーポレート・ガバナンス②：「物言う株主」へ、コーポレート・ガバナンスの改革、コーポレート・ガバナンスの諸事例",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "経営理念と戦略①：経営理念、経営戦略の種類、事業の選択",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "経営理念と戦略②：他社との競争、競争的地位に応じた戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "組織形態①：会社組織の形、組織形態の基本モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "組織形態②：組織形態のバリエーション、組織形態をめぐる課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "組織間関係①：組織間関係のマネジメント、企業集団、企業グループ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "組織間関係②：系列、戦略的提携、純粋持株会社、変化適応のための組織間関係のマネジメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "生産管理①：モノ造りを見る視点、コスト・ダウン、少品種大量生産方式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "生産管理②：QCサークル、多品種少量生産方式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "組織構造と職務設計①：組織の仕組み、役割分担を決める（分業）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "石谷　康人"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

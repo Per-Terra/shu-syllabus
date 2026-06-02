@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:54:36Z",
+    "name_ja": "税務会計論",
+    "name_en": "Tax Accounting",
+    "syllabus_number": "2006800A",
+    "course_number": "11-3-27-22-08",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢野　沙織",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n会計実務に必要な法人税および消費税に関する体系的・総合的な理解力を得ることを目標とする。\n①法人税および消費税の制度の概要と基本的な仕組みを理解する。\n②法人税の課税所得の計算構造を体系的に理解し、具体的な計算ができる。\n③消費税の計算構造を体系的に理解し、具体的な計算ができる。",
+    "overview": "本講義では企業の法人税法に基づく課税所得の算定構造について理論的に学んでいく。企業利益は、会社計算規則及び企業会計基準等に基づき計算された期間収益と期間費用との差額であり、課税所得は、法人税法等に基づき計算された益金と損金との差額である。課税所得の算定を理解するために、最も重要である「企業利益と課税所得との相違点（①益金算入、②益金不算入、③損金算入、④損金不算入）」の具体的な内容とその理論的背景について本講義を通じて学修でき、会計の専門家にとって必須な知識が修得できる。",
+    "diploma_policies": [
+        "経営コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "Newベーシック税務会計〈企業課税編〉",
+            "publication_year": 2020,
+            "author": "中島茂幸・櫻田譲　編著",
+            "publisher": "五絃舎",
+            "price": 3190,
+            "isbn": "978-4864341172",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "簿記中級Ⅰ",
+            "簿記中級Ⅱ"
+        ],
+        "recommended": [],
+        "required_materials": "教科書・電卓・ノート・筆記用具",
+        "other": "特になし"
+    },
+    "grading_criteria": "毎回授業の最後に小テストを行い、その回の内容の理解度を問う（28％）。\n期末試験では到達目標①～③の習得度を問う（72％）。",
+    "evaluation_ratio": {
+        "exam": 72,
+        "quiz": 28,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前学習・事後学習】\n毎回必ず授業中に取り上げた問題や小テスト、追加問題等の解き直しをすること。\n解き直しは繰り返し行い、合計90分程度行うことが望ましい。\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付ける。\n\nなお、授業計画は、受講生の習得度に合わせて若干変更することがある。\n毎回必ず電卓を持ってくること。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "法人税の基礎概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "法人税額計算の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "益金の概念と計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "損金の概念と計算（棚卸資産）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "損金の概念と計算（減価償却）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "損金の概念と計算（圧縮記帳・繰延資産）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "損金の概念と計算（役員給与・寄付金）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "損金の概念と計算（交際費等）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "損金の概念と計算（貸倒損失と貸倒引当金）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "税額の計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "消費税法の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "課税標準及び税率",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "課税仕入と税額控除",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "納税地と申告・納税・還付",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

@@ -1,0 +1,275 @@
+{
+    "fetched_at": "2026-06-02T11:57:19Z",
+    "name_ja": "情報科学概論",
+    "name_en": "Introduction to Information Science",
+    "syllabus_number": "2100100A",
+    "course_number": "31-1-21-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": true
+        },
+        {
+            "name": "酒井　徹也",
+            "is_primary": false
+        },
+        {
+            "name": "立部　文崇",
+            "is_primary": false
+        },
+        {
+            "name": "羽渕　由子",
+            "is_primary": false
+        },
+        {
+            "name": "児玉　満",
+            "is_primary": false
+        },
+        {
+            "name": "道山　知成",
+            "is_primary": false
+        },
+        {
+            "name": "髙藤　大介",
+            "is_primary": false
+        },
+        {
+            "name": "日置　智子",
+            "is_primary": false
+        },
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        },
+        {
+            "name": "内田　善彦",
+            "is_primary": false
+        },
+        {
+            "name": "矢島　安敏",
+            "is_primary": false
+        },
+        {
+            "name": "呉　靭",
+            "is_primary": false
+        },
+        {
+            "name": "大島　和裕",
+            "is_primary": false
+        },
+        {
+            "name": "河村　拓実",
+            "is_primary": false
+        },
+        {
+            "name": "田中　輝明",
+            "is_primary": false
+        },
+        {
+            "name": "中山　季之",
+            "is_primary": false
+        },
+        {
+            "name": "矢敷　達朗",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．情報科学部での学びについて理解し、必要な知識やスキルを習得することができる。\n２．進路の実現に向けて情報科学部での学びの計画を立てることができる。",
+    "overview": "この講義は、情報科学領域における先端的なトピックを幅広く学習する事を目的とする。授業は情報科学部に所属する全教員によるオムニバス科目として進行する。データサイエンス、情報エンジニアリング、ビジネスアナリティクスの各領域およびその関連領域のトピックについて、各教員が専門分野における基本から最先端までの概要を講義する。この授業を通じて情報科学の動向を知り、情報科学部における4 年間の学びの基礎とし、卒業研究や卒業後の進路を考えるための材料を手に入れることを目標とする。",
+    "diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "必携パソコン",
+        "other": null
+    },
+    "grading_criteria": "毎回の授業でその回の講義内容を振り返り理解を深めるための小レポートを課します。成績に直結す\nるものなので真剣に取り組んで下さい。\n成績評価の割合：小レポート 100％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "Society5.0とは、経済的発展と社会課題の解決を両立し、人々が快適で活力に満ちた質の高い生活を送ることができる人間中心の社会のことで、 これを実現するためには、 情報科学部で学ぶ内容を発展・深化させる必要があります．我が国が進むべき未来をデザインするために、情報科学部での学びの第一歩を踏み出しましょう。\n\n【予復習】\n毎回受講後には振り返りにより理解を深め（復習・30 分）、加えて次回のテーマと関連した情報を収集しましょう（予習・30分）\n\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、情報科学部での学び\n最適化問題と最適化の手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小栁"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "人間に関する研究とコンピュータサイエンスへの応用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "実社会における最適化技術の広がり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ブロックチェーンの仕組みと活用／数理モデルの数値解析による現象の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田",
+                "矢敷"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "機能と感性からみた人とロボットの共生",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "デジタル金融",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "アルゴリズムとは？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高藤"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "人間の視覚と機械の視覚",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "情報科学の東洋医学分野への応用(研究事例の紹介)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "呉"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "データサイエンスとバイオメカニクス／コーパスの活用と事例",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置",
+                "立部"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "天文学とデータサイエンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "情報科学と商品開発～消費者の感性を科学する",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "テキストマイニングとその研究事例",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "環境科学から見た情報科学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "情報システムとプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "児玉"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "矢島　安敏\n企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かして実社会におけるデータ活用の知識を身に着けさせる。\n\n中山　季之\nこれまでの実務経験において、金融工学、数学の応用・活用を広範かつ高度に長年行ってきており、学術的な内容を中心としつつも、現実での適用例などを適宜加えていく。\n\n田中　輝明\n企業でのソフトウェア開発やデータベース運用などの実務経験を持つ教員が、その経験を活かして学生に実践的な知識と技術を指導する。\n\n矢敷　達朗\n企業において発電・産業プラント向けのシミュレーション技術の開発に携わり、これを設計、制御、保守・メンテナンスの分野で活用してきた。講義では、その実務経験を生かし、業務での数値解析やシミュレーションの具体的な応用事例を紹介しながら、実践的なスキルを習得できるよう指導する。"
+}

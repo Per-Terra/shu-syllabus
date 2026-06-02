@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:38Z",
+    "fetched_at": "2026-06-02T11:53:24Z",
     "name_ja": "教養スポーツ実習Ⅱ（スノー）",
     "name_en": "Liberal Arts Sports Practice Ⅱ（Snow Sports)",
     "syllabus_number": "1009000K",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小野　高志",
@@ -47,7 +47,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2970,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -56,7 +56,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2750,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -65,7 +65,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2860,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

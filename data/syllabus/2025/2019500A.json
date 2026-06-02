@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T11:56:16Z",
+    "name_ja": "家政学Ⅱ",
+    "name_en": "Housekeeping II",
+    "syllabus_number": "2019500A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "坂根　ひとみ",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "(ⅰ) 居住環境整備の意義や目的を理解し、利用者の自立に向けた居住環境の整備に必要な援助について考え理解できる。\n\n(ii) 他職種との協働により、安全で住み心地のよい生活の場作りが理解できる。",
+    "overview": "住生活に関して居住環境整備の意義と目的、居室の手入れ、設備や福祉器具類についての基礎的な知識・技術を習得するとともに、住生活をトータルに捉え、多様化する諸条件について対応・判断できる知識・技術の習得を 目指す。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "最新介護福祉士養成講座６生活支援技術Ⅰ　第2版(2年次生活支援技術で使用）",
+            "publication_year": 2022,
+            "author": "介護福祉士養成講座編集委員会",
+            "publisher": "中央法規出版株式会社",
+            "price": 2420,
+            "isbn": "978-4-8058-8395-2",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "家政学Ⅰ"
+        ],
+        "required_materials": "筆記用具・定規",
+        "other": null
+    },
+    "grading_criteria": "(ⅰ)自分のアイデアで空間を設計\n(ⅰ)施設､住まいを構成する要素\n(ii)快適で安全な住まい",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 45,
+        "presentation": 45,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "テキストを使いつつ実際の現場での事例や経験をもとに講義いたします。\n遅刻は授業開始から２０分までを遅刻として認めますが、２０分以降は欠席扱いにします。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "住まいの役割と機能",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "生活空間　人と空間",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "生活空間　加齢と生活空間①　居室編",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "生活空間　加齢と生活空間②　水回り編",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "快適な室内環境　生活環境と室内環境　①熱環境",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "快適な室内環境　生活環境と室内環境　②明るさとと環境",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "快適な室内環境　生活環境と室内環境　③住まいの維持管理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "安全でに暮らすための生活環境　①\n日常生活　バリアフリーとユニバーサルデザイン-1",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "安全でに暮らすための生活環境　②\n日常生活　バリアフリーとユニバーサルデザイン-2\n　　　　　住宅改修と介護保険制度",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "高齢者の住まい・障害者の住まい　①　高齢者の住まい",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "高齢者の住まい・障害者の住まい　②　障害者の住まい",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "居住環境の整備における多種との連携",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ケアプランの作成　①　高齢者",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ケアプランの作成②　障害者",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "作製したケアプラン　発表　意見交換",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "坂根　ひとみ"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

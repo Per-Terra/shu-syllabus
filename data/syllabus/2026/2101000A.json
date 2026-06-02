@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:57:25Z",
+    "name_ja": "微分積分基礎",
+    "name_en": "Basics of Calculus",
+    "syllabus_number": "2101000A",
+    "course_number": "31-1-21-34-11",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "微分積分学はものの量とその変化を扱う学問であり、データサイエンス分野において、統計モデルや数理モデルの構築およびその解を導く際の基礎となるものである。本講義では、解析学の最も基本的な部分である微分法と積分法の基礎を学ぶ。\n１．微分積分学の基本概念を理解し、演算ができる。\n２．自然、社会の諸現象に対し、微分積分学の考え方を応用でき、数理モデルを理解する基礎を身に付けている。",
+    "overview": "1変数関数の微分、テーラー展開、1変数関数の定積分と不定積分、多変数関数の微分、多変数関数の積分について学ぶ。本講義は主に講義形式で授業を進めるが、必要に応じてレポートを課す。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "データサイエンスのための数学",
+            "publication_year": 2019,
+            "author": "椎名洋 (著), 姫野哲人 (著), 保科架風 (著), 清水昌平 (編集)",
+            "publisher": "講談社",
+            "price": 3080,
+            "isbn": "ISBN-13, ‎978-4065169988",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "中間試験，期末試験，小テスト等の総合評価",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 10,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "数学の理解のためには、概念について深く考えた上で、自ら手を動かして計算してみることが重要です。わからないところはその日のうちに質問して解決するようにして下さい。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "様々な関数",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "関数の極限",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "微分とは",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "微分に関する基本的な定理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "微分の応用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "微分法とその応用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "中間試験、原始関数とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "定積分",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "部分積分と置換積分",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "偏微分",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "偏微分の応用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "逐次積分",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "広義重積分と変数変換",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ：微分積分学の総復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

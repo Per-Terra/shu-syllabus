@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:27Z",
+    "fetched_at": "2026-06-02T11:55:32Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700F",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -37,7 +37,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は使用しない。"
     },
     "grading_criteria": "毎回の授業における「発表・実技」及び「その他」を評価対象とする。\n※「発表・実技」に卒業論文の評価を含める。また、「その他」は授業における「授業への参加の意欲」を評価対象とする。",

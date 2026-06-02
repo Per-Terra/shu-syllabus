@@ -1,0 +1,307 @@
+{
+    "fetched_at": "2026-06-02T11:53:41Z",
+    "name_ja": "英会話初級Ⅱ（EB4～6, HS-3. N2･3）",
+    "name_en": "Basic Conversation Ⅱ (EB4～6, HS-3. N2･3)",
+    "syllabus_number": "1013400C",
+    "course_number": "11-1-14-22-10、21-1-14-22-09、22-1-14-22-08、23-1-14-22-07",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "総合科目、教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "ダーシー",
+            "is_primary": false
+        },
+        {
+            "name": "ドワイヤー",
+            "is_primary": false
+        },
+        {
+            "name": "トラバス",
+            "is_primary": false
+        },
+        {
+            "name": "キャンベル",
+            "is_primary": false
+        },
+        {
+            "name": "ムシャイクワ",
+            "is_primary": false
+        },
+        {
+            "name": "ミリアム",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①英語の音声への抵抗感をなくして言葉のリズムに慣れ、短い問いかけを聞き取って理解できる。\n②日常生活に根ざした場面でよく使われる単語や表現を学んで、簡単な短い会話文を理解できる。\n③身近な話題についての質問を大まかに理解し、簡単な語や短い文で返答できる。\n④臆さずに英語で発話できる。",
+    "overview": "英会話初級 Iに引き続き、ネイティブスピーカーと共に英語を用いて自分の考えを表現し、意思疎通が図れるよう訓練する。相手の質問に答えるだけでなく、自ら不明点や疑問点などを問いかけることを意識しながら英語を聞き話す経験を積み、自信をつけることを目的とする。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "English Firsthand 1 (5th Edition) Student Book with MyMobileWorld",
+            "publication_year": 2018,
+            "author": "Marc Helgesen, John Wiltshier, Steven Brown",
+            "publisher": "Pearson",
+            "price": 3817,
+            "isbn": "9789813132771",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "英会話初級Ⅰ"
+        ],
+        "required_materials": "教科書、ノート、筆記用具、辞書",
+        "other": "なし"
+    },
+    "grading_criteria": "簡単な語を使って繰り返しや言い換えをしながら話してもらえれば、身近な話題についての話や質問を理解できるかどうかを評価する。また、簡単な語を使って、身近な話題についての質問に答えられるかどうかを評価する。評価基準の「その他」は、発表、作文、授業活動への参加態度を含む。これについては、第1回目の授業で詳しく説明する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 25,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 25
+    },
+    "teacher_message": "We hope that this class will help you all gain confidence in speaking English with anyone in the world. Even if you are shy, you can still have fun speaking English at your own pace. We recommend studying new words and phrases before class, and reviewing the words and grammar rules you have learned after class. Please note that lesson plans described below are subject to change.\n\n世界中の人々と、自信を持って英語で話せるようになりましょう。たとえ恥ずかしがりやの性格だとしても、自分のペースで英語を話すことを楽しんでください。授業外の学習として、新出の単熟語を予習や、授業で習った語い・表現・文法規則の復習をしてください。なお、以下に示される授業計画は変更する場合があります。\n（事前事後学修時間の目安 60分）\n\n質問・相談は、講義のある日に対応します。事前にTeamsチャットかC-learningメールで連絡してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "UNIT 7\nAbilities and interests - exchanging job skill information",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "UNIT 7\nAbilities and interests - describing jobs",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "UNIT 8\nInvitations and preferences - identifying entertainment information",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "UNIT 8\nPlanning and event and inviting people",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "UNIT 9\nFuture plans and predictions - identifying vacation plans and activities",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "UNIT 9\nFuture plans and predictions - predicting future events",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Review: UNITS 7-9",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "UNIT 10\nShopping - understanding prices and inferring shopping decisions",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "UNIT 10\nShopping - talking about shopping preferences and experiences",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "UNIT 11\nDescribing processes - food and cooking",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "UNIT 11\nDescribing process - following instructions",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "UNIT 12\nMusic - Giving opinions about music",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "UNIT 12\nMusic - talking about one’s music history and preferences",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Review: UNITS 10-12",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Review and mini-test: UNITS 7-12\nReflection/Feedback",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "トラバス",
+                "キャンベル",
+                "ダーシー",
+                "ドワイヤー"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

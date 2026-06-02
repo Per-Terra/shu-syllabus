@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:16Z",
+    "fetched_at": "2026-06-02T11:52:51Z",
     "name_ja": "自然地理学Ⅰ",
     "name_en": "Physical Geography I",
     "syllabus_number": "1003100A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -63,7 +63,7 @@
             "地誌学I（3年生以上）",
             "地誌学II（3年生以上）"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は使用せず、資料を配布して授業を進めます。他の参考図書・文献は講義中に適宜紹介します。"
     },
     "grading_criteria": "授業後にコメントペーパーの提出を求めます。「その他」はコメントペーパーの内容で評価します。\n試験およびコメントの評価基準は以下のとおりです。\n・自然地理学的な事象について、そのメカニズムや地球環境への影響を正しく理解している。\n・自然地理学に関する基礎知識に基づき、地球上の様々な場所に知識を応用させ、自分の言葉で説明できる。\n・講義に対するコメントや質問が、講義内容に興味関心を持ち、理解した上で記述されている。",
@@ -229,5 +229,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

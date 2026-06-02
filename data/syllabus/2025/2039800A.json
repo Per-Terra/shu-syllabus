@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:03:10Z",
+    "fetched_at": "2026-06-02T11:57:49Z",
     "name_ja": "多職種協働演習",
     "name_en": "Practice of multi-colaboration",
     "syllabus_number": "2039800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
         "recommended": [
             "多職種協働論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "必要な資料は適宜配付する。必要な書籍については授業中に指示する。"
     },
     "grading_criteria": "①多職種協働の必要性の背景についての理解度\n②多職種協働に影響を及ぼす要因と課題についての理解度\n③チームアプローチに必要な態度と技術の理解度",
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

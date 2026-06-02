@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:04Z",
+    "fetched_at": "2026-06-02T11:56:45Z",
     "name_ja": "ソーシャルワーク実習指導Ⅰ",
     "name_en": "Guidance of Social Work Practice Ⅰ",
     "syllabus_number": "2027500A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -45,10 +45,10 @@
         {
             "title": "周南公立大学ソーシャルワーク実習の手引き",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -57,7 +57,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ソーシャルワーク実習の手引き",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①ソーシャルワーク実習の意義と目的を説明できる\n②実習を行う施設・機関について他者に説明できる\n③実習前および実習中のソーシャルワーカーとしての学習課題を説明できる\n\n以上3点を、下記「学生に対する評価」の内容で評価する。なお「学生に対する評価」の「その他」は授業における演習での取り組み方を評価する。",
     "evaluation_ratio": {
@@ -244,5 +244,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

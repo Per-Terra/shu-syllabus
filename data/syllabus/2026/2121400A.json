@@ -1,0 +1,417 @@
+{
+    "fetched_at": "2026-06-02T11:59:36Z",
+    "name_ja": "公衆衛生看護方法",
+    "name_en": null,
+    "syllabus_number": "2121400A",
+    "course_number": "22-3-27-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "鶴田　来美",
+            "is_primary": true
+        },
+        {
+            "name": "木倉　悠子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．公衆衛生看護の機能と技術を説明できる。\n２．地域社会での最小単位としての個人/家族について理解し、支援の目的と方法を説明できる。\n３．家庭訪問の意義とプロセスを説明できる。\n４．健康教育指導案を作成できる。\n５．健康相談の意義とプロセスを説明できる。\n６．家庭訪問及び特定保健指導の演習を通して、健康課題のアセスメントができる。\n７．保健師が行う保健指導の方法と意義を説明できる。",
+    "overview": "本授業では、地域で生活する人々の主体的な健康課題解決を支援するために必要となる公衆衛生看護活動の方法を学ぶ。公衆衛生看護を実践する上で必要とされる家庭訪問、健康教育、健康相談等、個人/家族への支援方法・技術を理解する。本授業を通して、地域社会での最小単位としての個人/家族について理解し、個人/家族への支援に必要な基礎的知識と技術を身につける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "標準保健師講座２　公衆衛生看護技術",
+            "publication_year": 2025,
+            "author": "中村裕美子　他",
+            "publisher": "医学書院",
+            "price": 3520,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "公衆衛生看護学概論"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する。",
+        "other": null
+    },
+    "grading_criteria": "健康教育指導案、家庭訪問及び保健指導演習のレポートを20点で評価する。\n定期試験にて基礎的知識を評価する〈80点）。",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "保健師課程を専攻する学生のみ受講できる科目です。（事前学習45分、事後学習45分）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "公衆衛生看護における機能と技術",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "公衆衛生看護の基盤となる理論",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "健康相談・健康診査の意義と方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "特定健康診査の意義と方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "健康度測定と健康診査①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "健康度測定と健康診査②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "特定健康診査結果の読み取りと健康課題のアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "特定保健指導",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "特定保健指導（管理栄養士）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "木倉悠子",
+                "（管理栄養士）"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "特定保健指導の実際",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子",
+                "（保健師）"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "乳幼児健康相談・健康診査①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "乳幼児健康相談・健康診査②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "乳幼児健康相談・健康診査③",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "乳幼児健康相談・健康診査④",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "家庭訪問の意義と方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "家庭訪問の実際①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "家庭訪問の実際②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "家庭訪問の実際③",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "家庭訪問の実際④",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "家庭訪問の評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "健康教育の意義と方法①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "健康教育の意義と方法②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "健康教育指導案の作成の意義と方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "健康教育指導案の作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "健康教育の実際①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "健康教育の実際②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "健康教育の評価①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "健康教育の評価②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "健康教育の評価③",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        },
+        {
+            "number": "31",
+            "content": "期末試験　S1401　60分",
+            "teaching_methods": [],
+            "teachers": [
+                "鶴田来美",
+                "木倉悠子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "公衆衛生看護の実務経験があり、健康教育指導の経験がある教員が担当する"
+}

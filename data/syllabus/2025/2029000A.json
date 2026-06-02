@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:56Z",
+    "fetched_at": "2026-06-02T11:57:05Z",
     "name_ja": "ソーシャルワーク演習Ⅳ",
     "name_en": "Social Work Practice Ⅳ",
     "syllabus_number": "2029000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -53,7 +53,7 @@
             "ソーシャルワーク実習指導Ⅰ～Ⅲ",
             "ソーシャルワーク実習"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "到達目標に関して、レポートと実技（発表）、ポートフォリオで評価する。到達目標ⅰ）についてはポートフォリオで、目標ⅱ）とⅲ）については発表で、ⅳ）についてはポートフォリオで評価を行う。また、全体を通じてレポートを求める。評価割合は別の通りである。",
@@ -242,5 +242,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

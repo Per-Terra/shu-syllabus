@@ -1,0 +1,226 @@
+{
+    "fetched_at": "2026-06-02T11:58:43Z",
+    "name_ja": "スポーツバイオメカニクス演習",
+    "name_en": "Sports Biomechanics Seminar",
+    "syllabus_number": "2112500A",
+    "course_number": "21-3-26-21-02",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.スポーツバイオメカニクス的研究の手法を実施できる\n2.得られたデータを適切に読み取ることができる",
+    "overview": "身体運動の仕組みを力学的に理解するスポーツバイオメカニクス的研究を遂行するためには、目的に応じて実際の身体運動を正確に計測し、測定値を適切に処理したうえで、結果を的確に考察する能力が求められる。本講義ではスポーツ科学の現場で用いられるモーションキャプチャ等の手法を用いて実際の身体運動の解析を行う。これらの実習を通して、スポーツバイオメカニクス的研究に求められる諸能力の獲得を目指す。まずは対象となる身体運動の撮影を実施する。その後、得られた映像データをもとに専用のソフトを用いた座標計算を行う。最後に、得られた座標データから身体運動に関する力学的な考察を行う。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "バイオメカニクスと動作分析の原理",
+            "publication_year": 2008,
+            "author": "IwanW. Griffiths",
+            "publisher": "ナップ",
+            "price": 4180,
+            "isbn": "9784931411708",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツバイオメカニクス20講",
+            "publication_year": 2002,
+            "author": "阿江通良・藤井範久",
+            "publisher": "朝倉書店",
+            "price": 3520,
+            "isbn": "9784254690408",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、筆記用具",
+        "other": null
+    },
+    "grading_criteria": "1.研究手法に関する習熟度を、実技50%で評価する。\n2.データの読み取りに関する習熟度を、発表25%、レポート25%で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 25,
+        "presentation": 75,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "スポーツバイオメカニクスに関する研究活動を遂行するためには、動作解析等の実験手法を身につけることが欠かせません。この授業を通じて、これらの手法を学ぶとともに、データを読み解く能力も身につけてください。\nデータ取得のために実験を実施しますが、あらかじめ実験方法について配布資料を通読しておいてください（予習・30分程度）。データの取得後は、これらを用いた議論を行います。各自でデータから何が読み取れるのか考察をしておいてください（復習・30分程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "2次元動作の撮影",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "2次元動作の手動デジタイズ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "2次元動作のデータのフィルタリングと平滑化",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "2次元動作解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "2次元分析結果の議論",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "3次元動作の撮影",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "3次元動作のデジタイズ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "3次元動作のデータのフィルタリングと平滑化",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "3次元動作解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "3次元分析結果の議論",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "フォースプラットフォーム法を用いた測定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "キネマティクス分析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "キネティクス分析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "キネティクス分析結果の議論",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "西山　健太"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:21:16Z",
+    "fetched_at": "2026-06-02T11:57:35Z",
     "name_ja": "商法Ⅱ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2039100A",
     "course_number": "10ES213",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -72,7 +72,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "講義用レジュメと資料を毎回配布する予定です。"
     },
     "grading_criteria": "(ⅰ)講義全般の理解、(ⅱ)知識修得、新聞記事の読解力 について、⑪に示す方法で評価する。",

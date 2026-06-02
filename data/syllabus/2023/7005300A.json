@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:25:18Z",
+    "fetched_at": "2026-06-02T11:58:37Z",
     "name_ja": "学校インターンシップ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "7005300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "自由科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) 学校教育現場についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii)教育界が求める能力・人物像を理解する。\n(iⅴ) 教育者として必要な基本的マナーを習得する。",
     "evaluation_ratio": {
@@ -359,5 +359,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

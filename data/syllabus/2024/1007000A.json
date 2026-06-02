@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:31Z",
+    "fetched_at": "2026-06-02T11:52:57Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Regional Issues",
     "syllabus_number": "1007000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "伊藤　敏安",
@@ -44,7 +44,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "筆記具、ノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "・①授業への取り組み状況（事前・事後学習、発表など）、②グループワークにおける協働、③個人レポートから評価する。\n・評価の配分は①30％、②30％、③40％とする。",
     "evaluation_ratio": {

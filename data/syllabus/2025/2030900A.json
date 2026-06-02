@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:02:14Z",
+    "fetched_at": "2026-06-02T11:57:14Z",
     "name_ja": "アントレプレナーシップ実習",
     "name_en": "Practical Entrepreneurship",
     "syllabus_number": "2030900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,7 +51,7 @@
             "author": "清水洋",
             "publisher": "有斐閣",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -60,7 +60,7 @@
             "author": "山田幸三、江島由裕",
             "publisher": "碩学舎",
             "price": 2640,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -69,7 +69,7 @@
             "author": "松重和美、三枝省三、竹本拓治",
             "publisher": "中央経済社",
             "price": 3300,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -253,5 +253,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

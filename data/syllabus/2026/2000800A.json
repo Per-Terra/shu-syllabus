@@ -1,0 +1,229 @@
+{
+    "fetched_at": "2026-06-02T11:54:28Z",
+    "name_ja": "日本経済史",
+    "name_en": "Japanese Economic History",
+    "syllabus_number": "2000800A",
+    "course_number": "11-2-26-21-02",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "新鞍　拓生",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）歴史的な視点を持って現在の日本経済を説明することができる\n（２）日本経済の歴史を客観的に説明することができる",
+    "overview": "本講義では、江戸時代から現代の日本経済の歴史を学ぶ。大きく時代を分けて、国内経済が大きく変容する江戸時代、海外とのやり取りがより活発化し、いわゆる「近代化」を果たす明治・大正時代、戦争による混乱ののち、復興を遂げる昭和前期、高度経済成長をする昭和後期、安定成長からバブル経済、そののちの失われた10年に突入する平成時代を学ぶ。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本経済史1600-2015:歴史に読む現代 　増補改訂版",
+            "publication_year": 2017,
+            "author": "浜野潔　他著",
+            "publisher": "慶応義塾大学出版会",
+            "price": 3080,
+            "isbn": "978-4766423358",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "日本史Ⅰ",
+            "日本史Ⅱ"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "講義内レポート、講義時間外レポートで評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "基本的に教科書とワークシートを中心に進めていくが、適宜学生と対話しながら進めていく。毎回課題（講義内課題、講義時間外課題）が出るので、必ず出すこと。5回に1回の頻度で1000字以上の記述を必要とする課題を出すので、全部出す覚悟を持って受けること。\nシラバスを読んで、テキスト等で事前に60分程度予習しておくこと。また、課題を通して60分程度復習をすること。\n基本的に教科書に準じて講義していきますが、教科書すべての内容を網羅できるわけではありません。講義の理解には予復習は欠かせないです。とくに課題については復習も兼ねていますので、しっかり取り組むようにしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンスと今後の授業の説明",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "近世経済の基礎構造",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "近世経済のマクロ的概観",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "近世経済のマクロ的概観",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "近世中後期地方における産業、物流の発展",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "幕末開港とそれが国内産業に与えた影響",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "経済近代化の先駆けとなった明治政府の殖産興業政策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "民間主導の産業革命・工業化の開始：企業の勃興",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "第一次世界大戦と日本経済：重化学工業化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "戦間期の日本経済：ブロック経済化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "戦時統制経済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "戦後復興期の日本経済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "高度経済成長期の日本経済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "安定成長、バブル期の日本経済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "バブル崩壊後の日本経済",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

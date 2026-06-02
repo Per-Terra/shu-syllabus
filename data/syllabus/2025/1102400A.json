@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:57:43Z",
+    "fetched_at": "2026-06-02T11:54:21Z",
     "name_ja": "社会調査法入門",
     "name_en": "Methods of Social Research",
     "syllabus_number": "1102400A",
@@ -11,12 +11,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -95,123 +95,93 @@
             "number": "1",
             "content": "オリエンテーション：社会調査とは何か",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
             "content": "社会調査の歴史",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
             "content": "研究と社会調査",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
             "content": "社会調査の対象と方法",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
             "content": "既存の資料・データの収集と活用",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
             "content": "質的調査(1)質的調査の種類と考え方",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
             "content": "質的調査(2)インタビュー調査",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
             "content": "質的調査(3)参与観察とフィールドワーク",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
             "content": "小テスト①および解説",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
             "content": "量的調査(1)調査の手順、母集団と標本",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
             "content": "量的調査(2)調査票の作成",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
             "content": "量的調査（3）調査票の点検とデータ作成",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
             "content": "量的調査（4）変数間の関係を把握する",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
             "content": "量的調査（5）母集団を推測する",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
             "content": "小テスト②および解説、全体のまとめ",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

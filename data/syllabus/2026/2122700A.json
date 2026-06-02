@@ -1,0 +1,227 @@
+{
+    "fetched_at": "2026-06-02T11:59:40Z",
+    "name_ja": "障害者福祉",
+    "name_en": "Social Services for the Disabled",
+    "syllabus_number": "2122700A",
+    "course_number": null,
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n本科目では、障害者福祉の基礎知識やその背景にある理念や概念を理解することにより、障害者に対する支援を行う際の基本的な考え方や基盤を作ることを学習の目的とする。学生は、障害を持つ人々に対し、一人一人が豊かで、かつ幸福を実感できる生活環境を生み出すために、保健・福祉・医療分野等の多職種連携を図ること、障害を持つ人々の生活課題について考察し、支援ニーズを明確にしていくことができる。\n【到達目標】\n①障害の概念と特性について理解している\n②障害者とその家族の生活実態と社会環境について理解する\n③障害者福祉の歴史について理解する\n④障害による生活課題を踏まえ、社会福祉士及び精神保健福祉士としての適切な支援のあり方を説明することができる",
+    "overview": "到達目標①～④について、教科書を用いながら教員と学生とがディスカッションし、障害者に対する理解を深めていく。",
+    "diploma_policies": [
+        "福祉学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "障害者福祉（第二版）",
+            "publication_year": 2025,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟",
+            "publisher": "中央法規出版",
+            "price": 2970,
+            "isbn": "978-4-8243-0151-2",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "授業の到達目標のうち、①から③については授業内に行う小テストと期末テストで評価を行う。また、到達目標④については、学生が作成したポートフォリオで評価する。評価割合は前者が80％、後者が20％である。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
+    },
+    "teacher_message": "今日、障害という概念は広く社会の中に浸透しているように見えていますが、まだまだ差別的な意味合いが強く残っています。学生の中にも、一度として障害者と接したことがない、という学生も少なからずいます。本科目では、障害者という存在を身近なものとすること、支援を行う上でのさまざまなサービスを歴史的な経緯も交えながら説明していきたいと思います。\n\n【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n\n【オフィスアワー】\n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "国際生活機能分類／障害者の定義と特性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "障害者の生活実態／障害者を取り巻く社会環境",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "障害者福祉の理念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "障害観の変遷",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "障害者処遇の変遷",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "障害者の権利に関する条約／障害者福祉制度の発展過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "障害者総合支援法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "身体障害者福祉法／知的障害者福祉法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "精神保健及び精神障害者福祉に関する法律",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "児童福祉法／発達障害者支援法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "障害者虐待の防止、障害者の養護者に対する支援等に関する法律／障害を理由とする差別の解消の推進に関する法律",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "高齢者、障害者等の移動等の円滑化の促進に関する法律／障害者の雇用の促進等に関する法律／国等による障害者就労施設等からの物品等の調達の推進等に関する法律",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "障害者と家族等の支援における関係機関の役割／関連する専門職等の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "障害領域における社会福祉士及び精神保健福祉士の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "障害者と家族等に対する支援の実際",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上　浩"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月 7日(金)　9:00～10:00\n533教室",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

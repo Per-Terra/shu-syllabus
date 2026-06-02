@@ -1,0 +1,324 @@
+{
+    "fetched_at": "2026-06-02T11:53:45Z",
+    "name_ja": "総合英語中上級Ⅱ",
+    "name_en": "Comprehensive English  Upper-Intermediate II",
+    "syllabus_number": "1014000A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "田中　数恵",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①各種申込・注文などのEメールを読んで理解できる。\n②打ち解けた場面の会話、馴染みのある話題のニュース、公共の場で行われるアナウンスなどを聞いて、概ね理解できる。\n③商品広告のチラシやパンフレット、自分に興味がある内容のホームページ、馴染みのある話題の新聞記事などを読んで、概ね理解できる。\n④TOEIC L&Rに頻出する中上級レベルの語彙と文法を学んで、日常的な事柄について英語で理解できる。\n⑤TOEIC L&Rのパート別攻略法をよく理解して実践できる。",
+    "overview": "語彙・聴解・読解・文法の総合的な英語運用能力を実践的にさらに高める。短い会話でも、応答が婉曲的であったり予想外の内容であったりする場合でも、話の主旨がある程度理解できるようになる。手紙文・Eメール・広告文・記事など様々なジャンルの英文を読んで、それらの内容構成を理解したうえで読むことができるようになる。規則に基づいた文法構造を理解して、文中に難しい語彙が使われていても文法的な構造が理解できるよう訓練する。学期の終わりにTOEIC L&R IPテストを受験して、学習の進捗をはかる。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "経営コースDP1",
+        "知財開発コースDP1",
+        "スポーツマネジメントコースDP1",
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP1",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1",
+        "人間コミュニケーション学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "SCORE BOOSTER FOR THE TOEIC L&R TEST INTERMEDIATE",
+            "publication_year": 2019,
+            "author": "番場直之、小山克明",
+            "publisher": "金星堂",
+            "price": 2310,
+            "isbn": "9784764740907",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "公式TOEIC Listening & Reading 650＋",
+            "publication_year": 2023,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 3300,
+            "isbn": "9784906033706",
+            "available_on_campus": false
+        },
+        {
+            "title": "公式TOEIC Listening & Reading 800＋",
+            "publication_year": 2022,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 3300,
+            "isbn": "9784906033645",
+            "available_on_campus": false
+        },
+        {
+            "title": "キクタンTOEIC L&Rテスト SCORE 600",
+            "publication_year": 2020,
+            "author": "一杉武史",
+            "publisher": "アルク",
+            "price": 1760,
+            "isbn": "9784757436008",
+            "available_on_campus": false
+        },
+        {
+            "title": "キクタンTOEIC L&Rテスト SCORE 800",
+            "publication_year": 2020,
+            "author": "一杉武史",
+            "publisher": "アルク",
+            "price": 1760,
+            "isbn": "9784757436015",
+            "available_on_campus": false
+        },
+        {
+            "title": "公式TOEIC Listening & Reading トレーニングリスニング編２",
+            "publication_year": 2023,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 2200,
+            "isbn": "9784906033720",
+            "available_on_campus": false
+        },
+        {
+            "title": "公式TOEIC Listening & Reading トレーニングリーディング編２",
+            "publication_year": 2023,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 2200,
+            "isbn": "978-4906033737",
+            "available_on_campus": false
+        },
+        {
+            "title": "公式TOEIC Listening & Reading Part 7 速読演習",
+            "publication_year": 2022,
+            "author": "ETS",
+            "publisher": "国際ビジネスコミュニケーション協会",
+            "price": 3300,
+            "isbn": "9784906033690",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "総合英語中上級Ⅰ"
+        ],
+        "required_materials": "教科書、ノート、筆記用具、辞書",
+        "other": "なし"
+    },
+    "grading_criteria": "中上級レベルの語彙力・文法力・聴解力・読解力を「学生に対する評価」にある通り評価する。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・意欲などを含む。詳細については第1回目の授業で説明する。小テストなど授業時間内に行う活動を基にする評価が半分を占めるので、遅刻・欠席をしないよう注意すること。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "この科目は、TOEIC L&Rですでにスコア500前後を取得して600を目指している人を対象としますが、それ以上のスコアを目標にしている人にも「スピード処理能力」（やさしい問題を速く正確に解くTOEICの基礎力）を高める練習ができるという点で有益です。\n自分のレベルにあった目標設定をして、継続的に語彙の学習や聴解・読解の練習をすることが大切です。与えられるのを待つのではなく、「自ら学ぶ」意欲を持って取り組んでください。自律的かつ継続的に学習を積み重ねて、目標スコアを達成しましょう。\n効果的な学習のため教科書は必ず書き込みのないものを準備してください。\n\n【予習・復習について】\n重要単熟語や文法事項の予習と、聴解・読解問題の復習をしてください。教科書と付録の音声教材を使って習った英文の音読をしたり、教科書を離れて図書館の英語絵本を読んだりして、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 60～90分）\n\n【シラバスの内容について】\nシラバスの内容は進捗状況によって変更することがあります。\n\n【オフィスアワー】\n原則として水曜日2時限と3時限、これ以外の曜日・時間帯でも可能であれば対応します。面談希望の人は、事前にTeamsチャット(tanakak@shunan-u.ac.jp)で連絡してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業の進め方・評価について\nUnit 8: Personnel\n人事に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Unit 8: Personnel\n現在分詞・過去分詞を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Unit 9: Advertising\n広告・宣伝に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Unit 9: Advertising\n代名詞を学ぶ（主格・所有格・目的格・所有代名詞・再帰代名詞）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Unit 10: Meetings\n会議に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Unit 10: Meetings\n比較を学ぶ（比較級、最上級、as … as、その他の比較表現）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Unit 11: Finance\n予算・費用に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Unit 11: Finance\n前置詞を学ぶ（理由・譲歩・時・条件、定型表現）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Unit 12: Offices\nオフィスに関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Unit 12: Offices\n接続詞を学ぶ（理由・譲歩・時・条件）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Unit 13: Daily Life\n日常生活に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Unit 13: Daily Life\n前置詞と接続詞の違いを学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Unit 14: Sales & Marketing\n営業・販売促進に関する語句・表現を覚える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Unit 14: Sales & Marketing\n関係代名詞を学ぶ（主格・所有格・目的格・what）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "TOEIC L&R練習テスト、期末試験について、オンライン授業評価",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　数恵"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2月8日（月曜日）2時限",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

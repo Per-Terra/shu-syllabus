@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T11:06:09Z",
+    "fetched_at": "2026-06-02T11:58:26Z",
     "name_ja": "地方創生とDX",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2101100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -11,14 +11,14 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "立部　文崇",
@@ -45,7 +45,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "※2023（令和5）年度入学生までにおける「ICT活用と地域課題解決」の読替科目です。"
     },
     "grading_criteria": "1.\t地方創生とDX推進にあいだにある関連性の理解\n2.\t先行事例ひとつひとつの理解\n3.\t先行事例の基底となっている現象の理解",
@@ -211,5 +211,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

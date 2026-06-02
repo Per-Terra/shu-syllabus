@@ -1,0 +1,302 @@
+{
+    "fetched_at": "2026-06-02T11:55:10Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600U",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "現代社会においてスポーツは、単なる身体運動・競技や教育の域から、ファッション、映画、音楽、文学、アニメ、芸術、建築、観光など人々の生活文化や余暇活動における様々な領域と関係を深め、その経済活動に及ぼす影響に注目されつつある。\n　そこで、本ゼミでは、スポーツを社会を読む解く重要な視点ととらえ、経済学、経営学、社会学、歴史学、教育学、政策学、地域研究などとスポーツ科学の学際的研究を「スポーツ社会科学」とし、この研究を行う。",
+    "overview": "1．ゼミ生各自のスポーツ経験に基づく興味関心から問題を発見し、これに関する基礎文献リストを作成し、報告・討議する。\n　2．1．を踏まえ、仮の研究テーマを設定し、これに関する先行研究リストを作成し、検討内容を報告・討議する。\n　5．研究テーマを確定する。\n　6．研究資料の収集並びに研究計画を作成する。\n【到達目標】\n　本ゼミでは、まず学問とは何か、研究とは何かを学び。その最も基本的な文献検索の方法とレポート及び研究論文の論述の基礎的方法を学ぶ。\n　これらの基礎知識・技術を習得した上で、体育及びスポーツへの各自の興味関心や問題意識に基づいた研究テーマを確定する。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "適宜案内する。"
+    },
+    "grading_criteria": "到達目標を⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "現代及び過去のスポーツ事象について興味関心を深め、スポーツがどのように変容すれば人々の生活が豊かになるのかを考えてもらいたい。\n　そのためにも、日常的に広く、深くスポーツと関わる経験を有していることが望ましいので、大学でのスポーツ部活動はもちろん、社会における様々なスポーツ場面を自発的に経験する意欲を持つ者の入ゼミを期待する。\n　また、予習復習というレベルの指示はしないが、常に自発的な学習計画の立案とそれを着実に実施していく根性を有することが望ましい。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション－ゼミの目的.スケジュール－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２",
+            "content": "自己紹介＋レクリエーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "３",
+            "content": "レポート、卒業論文の書き方１－論文とは何か－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "４",
+            "content": "レポート、卒業論文の書き方１－論文と科学－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "５",
+            "content": "レポート、卒業論文の書き方１－主題と対象－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "６",
+            "content": "レポート、卒業論文の書き方１－調べ方－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "７",
+            "content": "レポート、卒業論文の書き方１－方法論－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "８",
+            "content": "レポート、卒業論文の書き方１－先行研究の検討－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "９",
+            "content": "レポート、卒業論文の書き方１－方法－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１０",
+            "content": "レポート、卒業論文の書き方１－研究計画－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１１",
+            "content": "レポート、卒業論文の書き方１－プレゼンテーション－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１２",
+            "content": "レポート、卒業論文の書き方１－文章化－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１３",
+            "content": "レポート、卒業論文の書き方１－引用の方法１－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１４",
+            "content": "レポート、卒業論文の書き方１－引用の方法２－",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１５",
+            "content": "（仮）研究テーマの報告－合宿－",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１６",
+            "content": "先行研究の検討の発表１",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１７",
+            "content": "先行研究の検討の発表２",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１８",
+            "content": "先行研究の検討の発表３",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "１９",
+            "content": "先行研究の検討の発表４",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２０",
+            "content": "先行研究の検討の発表５",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２１",
+            "content": "卒業研究計画のプレゼン１",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２２",
+            "content": "卒業研究計画のプレゼン２",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２３",
+            "content": "卒業研究計画のプレゼン３",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２４",
+            "content": "卒業研究計画のプレゼン４",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２５",
+            "content": "卒業研究計画のプレゼン５",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２６",
+            "content": "第１回　スポーツ社会科学ゼミ卒業研究報告会１（合宿形式）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２７",
+            "content": "第１回　スポーツ社会科学ゼミ卒業研究報告会１（合宿形式）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２８",
+            "content": "第１回　スポーツ社会科学ゼミ卒業研究報告会１（合宿形式）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "２９",
+            "content": "第１回　スポーツ社会科学ゼミ卒業研究報告会１（合宿形式）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "３０",
+            "content": "第１回　スポーツ社会科学ゼミ卒業研究報告会１（合宿形式）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

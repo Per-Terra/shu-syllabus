@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:22:49Z",
+    "fetched_at": "2026-06-02T11:57:59Z",
     "name_ja": "社会保障論Ⅰ",
     "name_en": "Social Security I",
     "syllabus_number": "2045200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,8 +40,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
     "evaluation_ratio": {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

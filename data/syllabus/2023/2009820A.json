@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:36Z",
+    "fetched_at": "2026-06-02T11:55:24Z",
     "name_ja": "シナリオ論Ⅱ",
     "name_en": "Scenario writing and analysis II",
     "syllabus_number": "2009820A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
             "映像文化論"
         ],
         "required_materials": "パソコン（必須です。WordとPowerPointが使用できること）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "シナリオの基本ルールと構成要素を理解する・・・・30点\nシナリオを執筆する・・・・・・・・・・・・・・40点\n※その他は、出席など受講態度（課題をちゃんと出しているかなど）・・・30点",
     "evaluation_ratio": {

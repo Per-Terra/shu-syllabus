@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:51Z",
+    "fetched_at": "2026-06-02T11:55:49Z",
     "name_ja": "アニメーション制作演習",
     "name_en": "Animation production exercise",
     "syllabus_number": "2008900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,7 +47,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "使用パソコンの関係で19人以上は抽選になります。"
     },
     "grading_criteria": "(i) 制作管理\n(ii) アニメーション作品制作\n(iii)世界観の構築",

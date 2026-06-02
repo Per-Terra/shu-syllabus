@@ -1,0 +1,246 @@
+{
+    "fetched_at": "2026-06-02T11:59:35Z",
+    "name_ja": "公衆衛生看護活動Ⅰ",
+    "name_en": "Public Health Nursing Activity Ⅰ",
+    "syllabus_number": "2121200A",
+    "course_number": "22-2-27-22-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "鶴田　来美",
+            "is_primary": true
+        },
+        {
+            "name": "木倉　悠子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．地域における保健活動の特徴を説明できる。\n２．対象の発達段階に応じた健康課題の特徴を説明できる。\n３．対象の状況に応じ、健康状態を評価できる。\n４．対象の健康課題に応じた支援について理解し、考えることができる。\n５．保健活動に係る施策、社会資源について説明できる。",
+    "overview": "本授業では、地域で生活する人々の健康課題とその支援について学ぶ。併せて、対象者の発達段階や健康レベルに応じた健康状態の評価を行う力も養う。さらに、人々は健康課題を主体的に解決するための施策や社会資源の活用についても理解を深める。本授業を通して、対象者の発達段階に応じた健康課題と保健活動に関する基礎的知識を修得する。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "標準保健師講座３　対象別公衆衛生看護活動",
+            "publication_year": 2018,
+            "author": null,
+            "publisher": "医学書院",
+            "price": 3740,
+            "isbn": "978-4-260-03187-5",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "厚生の指標　国民衛生の動向",
+            "publication_year": 2024,
+            "author": "厚生労働統計協会",
+            "publisher": "厚生労働統計協会",
+            "price": 2970,
+            "isbn": "03854-08",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "公衆衛生看護学概論"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "特になし"
+    },
+    "grading_criteria": "定期試験にて評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "公衆衛生看護活動の基本的な知識を得ることで、地域で生活する対象者の健康課題を理解することにつながります。また、社会の変化が人々に及ぼす影響について考えることも重要です。まずは自分たちの身近な問題に目を向けてみてください。様々な健康問題を理解する助けとなります。（事前学習45分、事後学習45分）",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "保健活動の変遷、対象者理解を含めた活動の特徴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "母子保健福祉医療の動向\n親子の健康課題と支援、女性の健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "子どもの健康課題と支援\n家族の健康課題と支援、虐待防止における保健師の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "成人保健医療福祉の動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "成人期の健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "高齢者の保健医療福祉の動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "高齢者の健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "精神保健医療福祉の動向\n精神保健に関する健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "地域で暮らす精神疾患をもつ対象者の理解と支援\n心の健康づくり対策の動向と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "障がい者（児）の保健医療福祉の動向\n障がい者（児）の健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "難病に関する保健医療福祉の動向\n難病患者の健康課題と支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "感染症保健の動向\n感染症に対する保健師活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "感染症（予防接種を含む）と罹患した人への保健師活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "木倉　悠子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "歯科保健の動向と保健活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "地域保健活動における保健師の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（60分）S1402",
+            "teaching_methods": [],
+            "teachers": [
+                "鶴田　来美",
+                "木倉　悠子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "公衆衛生看護の業務経験のある教員が担当する。"
+}

@@ -1,23 +1,23 @@
 {
-    "fetched_at": "2025-04-07T10:52:04Z",
+    "fetched_at": "2026-06-02T11:52:47Z",
     "name_ja": "数学",
     "name_en": "Elementary Mathematics:Numerical Calculus",
     "syllabus_number": "1002700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "河田　正樹",
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 中学・高校レベルの数学の理解　② 大学レベルの数学の入門の理解　③ 単純化した現実諸問題の解決　について、「学生に対する評価」の内容で評価します。\n「その他」は問題演習の状況を、復習問題を通して評価します。",
     "evaluation_ratio": {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

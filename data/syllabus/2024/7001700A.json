@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:08:14Z",
+    "fetched_at": "2026-06-02T11:59:14Z",
     "name_ja": "保健体育科教育法Ⅳ",
     "name_en": "Teaching Methods in Health and Physical Education Ⅳ",
     "syllabus_number": "7001700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "坪井　恭紀",
@@ -265,5 +265,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

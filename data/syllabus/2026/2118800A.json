@@ -1,0 +1,419 @@
+{
+    "fetched_at": "2026-06-02T11:59:24Z",
+    "name_ja": "精神看護方法",
+    "name_en": "Psychiatric and Mental Health Nursing",
+    "syllabus_number": "2118800A",
+    "course_number": "22-2-24-22-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "羽生　貞親",
+            "is_primary": true
+        },
+        {
+            "name": "大達　亮",
+            "is_primary": false
+        },
+        {
+            "name": "岡田　昌也",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．精神疾患、症状、治療に応じた看護の方法について説明することができる。\n２．精神看護の対象の問題状況への対応について説明することができる。\n３．対象の持つ看護上の問題をアセスメントする視点について説明することができる。\n４．対象の持つ看護上の問題を解決するために必要な援助方法について説明することができる。\n５．対象個人および家族を対象として、セルフケアモデルを用いて看護過程の展開ができる。\n６．精神障害者の地域生活支援について説明することができる。",
+    "overview": "本授業では、精神看護学概論での学びを基に、精神障害を持つ個人とその家族への看護に必要な基礎的知識および技術について学修する。\n本授業では、対象の持つ看護上の問題をアセスメントし問題解決のための必要な援助について、セルフケアモデルを活用し、看護過程の展開に関して、その基本的な考え方および基本的な知識を理解する。\n本授業を通して、精神障害を持つ対象およびその家族への看護の基礎的知識、技術を身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "ナーシング・グラフィカ精神看護学①情緒発達と精神看護の基本",
+            "publication_year": 2022,
+            "author": "出口禎子／鷹野朋実（編集）",
+            "publisher": "メディカ出版",
+            "price": null,
+            "isbn": "978-4-8404-7541-9",
+            "available_on_campus": true
+        },
+        {
+            "title": "ナーシング・グラフィカ　精神看護学②精神障害と看護の実践",
+            "publication_year": 2022,
+            "author": "出口禎子／鷹野朋実（編集）",
+            "publisher": "メディカ出版",
+            "price": null,
+            "isbn": "978-4-8404-7542-6",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "精神看護学概論"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "【持参物】ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する。",
+        "other": "精神看護実践、精神看護実習の先修条件科目である。教科書以外の必要な資料等は適宜紹介する。"
+    },
+    "grading_criteria": "レポート、期末試験、出席状況、演習への参加状況から総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "精神看護学概論を履修した上で、精神看護の方法や実際について、より専門的に学修します。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。\n\n教科書は精神看護学概論で使用したものと同じです。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "精神看護における対象理解とアセスメント①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "精神看護における対象理解とアセスメント②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "種々の問題状況にある患者への対応①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "種々の問題状況にある患者への対応②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "精神看護におけるセルフケア",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "治療を受ける対象への看護（薬物療法）①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "治療を受ける対象への看護（薬物療法）②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "治療を受ける対象への看護（認知行動療法、ECTほか）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "精神障害者を取り巻く法制度",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "統合失調症患者への看護（急性期）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "精神科リハビリテーション（統合失調症慢性期を中心に）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "精神科リハビリテーション（統合失調症回復期を中心に）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "気分障害（感情障害）患者への看護①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "気分障害（感情障害）患者への看護②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "不安障害患者への看護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "アルコール依存症患者への看護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "摂食障害患者への看護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "パーソナリティ障害患者への看護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "てんかん患者への看護",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "精神看護における家族支援①",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "精神看護における家族支援②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "地域精神保健福祉の現状と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "精神科訪問看護",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "事例の分析と発表①　看護過程の展開（統合失調症急性期①）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "事例の分析と発表②　看護過程の展開（統合失調症急性期②）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "事例の分析と発表③　看護過程の展開（統合失調症慢性期）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "事例の分析と発表④　看護過程の展開（統合失調症回復期）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "事例の分析と発表⑤　看護過程の展開（気分障害）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "事例の分析と発表⑥　看護過程の展開（不安障害）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "リエゾン精神看護、まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "31",
+            "content": "試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "精神科領域において、看護師として勤務経験を持つ教員が授業を担当する。"
+}

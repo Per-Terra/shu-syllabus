@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:03:48Z",
+    "fetched_at": "2026-06-02T11:54:55Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600W",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,8 +48,8 @@
         "recommended": [
             "中級統計学"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 主体性　② 知識　③ 考察　について、「学生に対する評価」の内容で評価します。\n「その他」は3年時のまとめとなる研究成果を通して評価します",
     "evaluation_ratio": {
@@ -394,5 +394,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

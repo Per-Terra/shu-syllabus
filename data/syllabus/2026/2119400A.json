@@ -1,0 +1,157 @@
+{
+    "fetched_at": "2026-06-02T11:59:28Z",
+    "name_ja": "家族看護学",
+    "name_en": "family　Nursing",
+    "syllabus_number": "2119400A",
+    "course_number": "22-3-25-21-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "山崎あけみ",
+            "is_primary": false
+        },
+        {
+            "name": "津村明美",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "健康増進の対象である「個人」｢家族｣「集団・コミュニティ」のうち、「家族」に焦点をあて、発達過程に生じるトピックを概観し、発達を促す支援について考える力を修得する．",
+    "overview": "家族看護とは家族の健康を支援することを目標とした看護者による実践である。本授業では、健康な家族のあり方、家族生活に健康的な変化をもたらす実践について、家族看護過程の基礎を理解する。本授業を通して、看護の対象としての家族の捉え方、発達する家族の家族、システムとしての家族、家族像の形成に関する基礎的知識と家族看護過程の展開に必要な考え方や理論の基礎を身につける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "看護学テキストNiCE家族看護学（改訂第3版）",
+            "publication_year": 2022,
+            "author": "山崎あけみ、原　礼子編集",
+            "publisher": "南江堂",
+            "price": 2750,
+            "isbn": "978-4-524-22929-1",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC",
+        "other": "参考資料や参考文献などは必要に応じて授業で紹介します。"
+    },
+    "grading_criteria": "各講義の中で提示する課題レポート・リアクションペーパー　合計100％（内訳は以下のとおり）\n・オンデマンド1－4回は、講義中に演習課題を設けています。10％×4回（その他：40％/70％）\n・オンライン5－7回は、講義後のリアクションペーパーを提出してください。10％×３回（その他：30％/70％）\n・第8回には、講義中に課題レポートを提出してください。30％（レポート）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "家族を看護の対象とするための技法と理論を学びましょう。\n（事前学習 45 分、事後学習 45 分）\n\n【オフィスアワー】\n非常勤講師のため、質問や疑問は担当講師が提示するメールに連絡すること。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "日本の家族の動向と家族看護学を学ぶ意義（オンデマンド）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山崎　あけみ"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "家族看護学における対象理解（オンデマンド）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山崎　あけみ"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "家族看護過程に用いる考え方（理論・モデル）（オンデマンド）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山崎　あけみ"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "家族の健康を引き出す看護過程（オンデマンド）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山崎　あけみ"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "教育期にある脳腫瘍患者と家族への看護（オンライン）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "津村　明美",
+                "5/14"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "小児がん患者と家族への看護（オンライン）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "津村　明美",
+                "5/21"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "生命を脅かす病気の子どもの家族への看護実践（オンライン）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "津村　明美",
+                "5/28"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "総括（オンライン）",
+            "teaching_methods": [],
+            "teachers": [
+                "山崎　あけみ",
+                "6/4"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "看護師及び助産師・保健師の資格をもち、家族看護の実践経験をもつ教員が講義する。"
+}

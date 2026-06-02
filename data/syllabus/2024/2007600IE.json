@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:01Z",
+    "fetched_at": "2026-06-02T11:54:50Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Specialized Seminar 1",
     "syllabus_number": "2007600IE",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "木島　正明",
@@ -46,7 +46,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "必携パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "各回の報告の内容、ディスカッションへの参加\n各回の報告：60％\nディスカッションへの参加：40％",
     "evaluation_ratio": {
@@ -391,5 +391,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,228 @@
+{
+    "fetched_at": "2026-06-02T12:00:12Z",
+    "name_ja": "介護の基本Ⅵ",
+    "name_en": "Basics of the Care VI",
+    "syllabus_number": "2318100A",
+    "course_number": "2018100",
+    "departments": [
+        "福祉情報学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉情報学科",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "末次　絵里子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "１）障害の概念、障害福祉の基本理念、障害者福祉制度などを中心に、介護福祉職が障害のある人と向き合うための基本的な知識を身につける。\n２）障害種別ごとの身体的・心理的側面をふまえた生活と、それに応じた支援の在り方を知る。\n３）障害のある人の自立に向けた生活支援の視点を持ち、基本的な知識として「生活の理解」をする。\n４）障害のある人の地域生活を支えるさまざまな社会資源・関係機関との連携や、関係職種とのチームアプローチの在り方を知る。\n５）障害のある人を支える家族へ焦点を当て、家族支援の在り方を知る。",
+    "overview": "障害種別ごとの身体的・心理的側面をふまえた生活と、それぞれに応じた支援について学ぶ。介護現場において障害のある人の自立に向けた生活支援においては、「生活の理解」という基本的な知識が重要であることを理解する。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "最新介護福祉士養成講座14　障害の理解　第3版２",
+            "publication_year": 2026,
+            "author": "介護福祉士養成講座編集委員会",
+            "publisher": "中央法規出版株式会社",
+            "price": 2640,
+            "isbn": "978-4-8243-0344-8",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "介護の基本Ⅰ",
+            "介護の基本Ⅱ",
+            "介護の基本Ⅲ",
+            "介護の基本Ⅳ",
+            "介護の基本Ⅴ０"
+        ],
+        "required_materials": null,
+        "other": "なし"
+    },
+    "grading_criteria": "１）専門分野における基礎的知識の習得\n２）他者理解のための心理学的知識の習得\n３）ケースを考察するための応用力",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "毎回の授業で取り上げるテーマについては、事前にお知らせします。予習として、そのテーマに関しての教科書の該当箇所をよく読んでおいてください。また、授業後には、授業内で示した課題について調べ学習をし、レポートにまとめて次回授業時に提出してください。詳しくは授業内でお知らせします。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "障害の概念と障害者福祉の基本理念について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "障害者福祉に関連する制度について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "障害別の基礎的理解と特性に応じた支援について①障害のある人の心理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "障害別の基礎的理解と特性に応じた支援について②肢体不自由",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "障害別の基礎的理解と特性に応じた支援について③視覚障害、聴覚・言語障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "障害別の基礎的理解と特性に応じた支援について④重複障害、内部障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑤重症心身障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑥知的障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑦精神障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑧高次脳障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑨発達障害",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "障害別の基礎的理解と特性に応じた支援について⑩難病",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "連携と協働、チームアプローチについて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "家族への支援について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "末次絵里子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

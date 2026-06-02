@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:55:49Z",
+    "fetched_at": "2026-06-02T11:53:07Z",
     "name_ja": "グローバル英語",
     "name_en": "English for Global Citizenship",
     "syllabus_number": "1011200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -243,5 +243,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:02:25Z",
+    "fetched_at": "2026-06-02T11:54:29Z",
     "name_ja": "管理工学",
     "name_en": "Management Engineering",
     "syllabus_number": "2006200A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -57,8 +57,8 @@
             "数学",
             "統計学基礎"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①ORのさまざまな手法のExcelを用いた分析、②OR手法の適用可能性緒理解　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内の演習の状況を、各回の課題提出を通して評価します。",
     "evaluation_ratio": {
@@ -238,5 +238,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

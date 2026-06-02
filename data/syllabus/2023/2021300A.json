@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:15:45Z",
+    "fetched_at": "2026-06-02T11:56:11Z",
     "name_ja": "情報関係法",
     "name_en": "Information-related Law",
     "syllabus_number": "2021300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "（i）法学（情報関係法分野）に関する基本知識が身についた。\n\n（ii）データ保護に関する法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n\n（iii）データ保護と法との関わりに対して、省察を深めることができた。",
     "evaluation_ratio": {
@@ -168,11 +168,9 @@
             "number": "１５",
             "content": "まとめ",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:03:36Z",
+    "fetched_at": "2026-06-02T11:58:04Z",
     "name_ja": "経済統合論",
     "name_en": "Economic Integration",
     "syllabus_number": "2043400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

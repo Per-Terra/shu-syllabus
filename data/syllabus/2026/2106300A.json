@@ -1,0 +1,212 @@
+{
+    "fetched_at": "2026-06-02T11:58:02Z",
+    "name_ja": "スポーツ産業学",
+    "name_en": "Sport Industry",
+    "syllabus_number": "2106300A",
+    "course_number": "21-3-25-21-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．日本のスポーツ産業の歴史について理解できる。\n2．日本のスポーツ産業の現状について理解できる。\n3．日本のスポーツ産業の課題について理解できる。",
+    "overview": "スポーツ産業は、私たちがスポーツを享受するために必要なモノ・場・サービスを提供するビジネスの総体であり、スポーツ用品産業、スポーツ施設・空間産業、スポーツサービス産業とその複合領域によって構成される。本講義では、日本における各スポーツ産業領域の歴史的変遷と現状認識を深めると共に、様々な側面から急速に拡大することを期待されているスポーツのビジネス化が、スポーツ文化にどのように影響し、私たちの豊かな生活の実現に役立つべきなのかについて考える。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "各講義に関するレスポンスペーパーの内容 50％、課題レポート 50％。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 50,
+        "other": 0
+    },
+    "teacher_message": "毎回の講義に集中し、自らのスポーツ経験や実践において、スポーツ用品・用具、スポーツ施設、スポーツサービスなどのスポーツビジネスがどのように関連しているのか、関心を深めておくこと。また、日頃から新しいスポーツビジネスの動向に関する情報収集に努めること。\n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "スポーツ産業の定義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "「日本スポーツ産業学会」の誕生とスポーツ産業学研究史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "スポーツ市場の変容と現状－『レジャー白書』を中心として－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "スポーツ産業規模の変容と現状－『スポーツ産業白書』、『スポーツ産業年鑑』を中心として－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "スポーツ用品産業の歴史1－スポーツ用品メーカー『美満津商店』創業者伊東卓夫について－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スポーツ用品産業の歴史 2－1882 年～1945 年における日本のスポーツ変遷と『美満津商店』経営の関係－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "(株)ミズノ経営史－創業者水野利八の経営理念と戦略－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "日本スポーツ用品産業の戦後復興・成長過程－スポーツ用品流通構造としての三層構造の形成と崩壊について－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "スポーツ施設・空間産業の歴史と現状－学校体育施設からスタジアムアリーナへ－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "(株)ミズノ経営の現状と課題－公共スポーツ施設指定管理業務及びスポーツサービスビジネスへの事業拡大－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "スポーツサービス産業としてのスポーツクラブ経営の歴史と現状－糸満スイミングクラブから健康・医療産業へ－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "複合領域としてのプロフェッショナルスポーツ産業 1－J リーグ、B リーグ、野球独立リーグ－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "複合領域としてのプロフェッショナルスポーツ産業2－ギャンブルスポーツと地方自治体－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと最終課題について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

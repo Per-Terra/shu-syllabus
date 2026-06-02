@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:00:44Z",
+    "fetched_at": "2026-06-02T11:56:21Z",
     "name_ja": "情報社会論",
     "name_en": "Introduction to Information Society",
     "syllabus_number": "2021200A",
@@ -11,12 +11,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -66,7 +66,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
     "grading_criteria": "本講義の主要テーマである「メディア社会の展開」、「情報化社会の現実」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
@@ -232,5 +232,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

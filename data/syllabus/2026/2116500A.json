@@ -1,0 +1,527 @@
+{
+    "fetched_at": "2026-06-02T11:59:08Z",
+    "name_ja": "基礎看護技術Ⅱ（診療に伴う技術）",
+    "name_en": "Nursing Skills Ⅱ",
+    "syllabus_number": "2116500A",
+    "course_number": "22-2-22-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "杉本　吉恵",
+            "is_primary": true
+        },
+        {
+            "name": "磯濱　真理子",
+            "is_primary": false
+        },
+        {
+            "name": "上野　和美",
+            "is_primary": false
+        },
+        {
+            "name": "藤井　宝恵",
+            "is_primary": false
+        },
+        {
+            "name": "福森　絢子",
+            "is_primary": false
+        },
+        {
+            "name": "田中　智子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．診療における看護師の役割を説明できる。\n２．診療の補助技術の目的、方法、留意点を専門知識と根拠に基づき説明できる。\n３．診療の補助技術を安全・安楽に配慮しながら実施できる。",
+    "overview": "本授業では、高度化する治療・検査に対応するための基本的知識や技術を習得する。処置・与薬、検査などに対応した診療における看護師の役割を理解し、診療の補助技術を習得することを目的とする。演習では看護師、患者、観察者の役割体験を通して、対象者とのコミュニケーションの重要性を理解するとともに、対象者を尊重する態度を養い、安全・安楽な診療の補助技術を習得・実践する。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座 専門分野 基礎看護学[３] 基礎看護技術Ⅱ 第19版",
+            "publication_year": 2025,
+            "author": "任　和子",
+            "publisher": "医学書院",
+            "price": 3520,
+            "isbn": "978-4-260-05688-5",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護がみえるvol.１ 基礎看護技術 第２版",
+            "publication_year": 2024,
+            "author": "医療情報科学研究所",
+            "publisher": "メディックメディア",
+            "price": 3300,
+            "isbn": "978-4-89632-948-3",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護がみえるvol.２ 臨床看護技術 第２版",
+            "publication_year": 2026,
+            "author": "医療情報科学研究所",
+            "publisher": "メディックメディア",
+            "price": 3300,
+            "isbn": "978-4-89632-734-2",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "根拠と事故防止からみた基礎・臨床看護技術 第3版",
+            "publication_year": 2021,
+            "author": "任　和子",
+            "publisher": "医学書院",
+            "price": 6050,
+            "isbn": "978-4-260-04790-6",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "看護学概論"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、配布資料、ノートパソコンまたはタブレット端末。演習時の服装は、実習着、ナースシューズとする。",
+        "other": "本科目の単位取得は、基礎看護実習Ⅱの履修要件となる。"
+    },
+    "grading_criteria": "筆記試験40％、実技試験50％、提出物10％で総合的に評価する。筆記試験は得点の60％以上で、実技試験は得点の70％以上で合格とする。実技試験及び筆記試験がいずれも合格することが必要である。\n　成績の総合評価は、100点満点で60点以上を合格とし、60点未満を不合格とする。なお、実技試験及び筆記試験のいずれか、または両方に合格できない場合、総合評価が60点以上でも不合格とする。",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "授業時間以外の予習・復習は、それぞれ１時間費やしてください。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "診療に伴う補助技術　診療における看護師の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "感染防止の技術①　無菌操作",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "感染防止の技術②　滅菌物の取り扱い／滅菌手袋の着用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "感染防止の技術②　滅菌物の取り扱い／滅菌手袋の着用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "排泄援助技術①　自然排泄",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤井宝恵"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "排泄援助技術②　導尿／浣腸",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "排泄援助技術③　便尿器交換・おむつ・陰部洗浄",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "排泄援助技術③　便尿器交換・おむつ・陰部洗浄",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "排泄援助技術④　導尿",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "排泄援助技術④　導尿",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "呼吸・循環を整える技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "上野和美"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "食事援助技術　経管栄養法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中智子",
+                "上野和美"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "技術トレーニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "技術トレーニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "与薬の技術①　与薬の基礎知識／皮下・皮内・筋肉内注射",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉本吉恵"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "与薬の技術②　静脈注射／点滴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤井宝恵"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "実技のまとめ、到達度の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "実技のまとめ、到達度の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "与薬の技術③　皮下注射／筋肉内注射",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "与薬の技術③　皮下注射／筋肉内注射",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "症状・生体機能管理技術①　各検査の検査値・データ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "福森絢子"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "与薬の技術④　静脈注射 ワンショット／点滴",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "与薬の技術④　静脈注射 ワンショット／点滴",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "症状・生体機能管理技術②　静脈血採血",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "症状・生体機能管理技術②　静脈血採血",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "創傷管理技術①　創傷管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "磯濱真理子",
+                "上野和美"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "創傷管理技術②　創処置／包帯法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "診療・検査・処置における技術　診察介助／検査・処置介助",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "上野和美"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "シミュレーション　ルート管理を要する患者の清拭・寝衣交換",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "シミュレーション　ルート管理を要する患者の清拭・寝衣交換",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "杉本吉恵",
+                "上野和美",
+                "藤井宝恵",
+                "福森絢子",
+                "磯濱真理子",
+                "田中智子"
+            ]
+        },
+        {
+            "number": "31",
+            "content": "定期試験",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "看護師として病院での勤務経験のある教員が、その実務経験を生かし、診療の補助技術を教授する。"
+}

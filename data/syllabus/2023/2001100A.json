@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:46Z",
+    "fetched_at": "2026-06-02T11:54:17Z",
     "name_ja": "日本経済概論",
     "name_en": "Introduction to Japanese Economy",
     "syllabus_number": "2001100A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
     "grading_criteria": "期末に実施する「期末レポート」及び「その他」を評価対象とする。\n※「その他」は授業で数回実施する「小レポート」を評価対象とする。",

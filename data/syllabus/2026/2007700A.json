@@ -1,0 +1,370 @@
+{
+    "fetched_at": "2026-06-02T11:54:49Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700A",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "なかはらかぜ",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "カリキュラムポリシーにあるところの、コンテンツビジネス業界の中で実践として使える創造性とスキルを身につけ、プロとしてビジネスの現場で即戦力として活躍できる力を育てます。\n一般企業や会社において必要なクリエイティブな資質を育てます。",
+    "overview": "創作活動・実習中心のゼミです。専門ゼミIからの継続実習です。\nマンガ商業誌の編集部へ作品を持ち込み、直接担当編集者に講評してもらいます。\nイラストコンクールへの参加や絵本制作、ライトノベルズへの投稿など学生の希望するデビューにむけて指導します。\nまた、地域で企画開催されるマンガやイラストなどの中心のイベントに積極的に参加、コラボレーションし、不特定多数の人たちに見られ ることにより実力とスキルアップを目指します。\n実習制作物の何点かは卒業制作となります。\nゼミの時間は各自の作品の進捗状況チェックやアドバイスをうける時間です。ゼミ以外の時間にどれだけ自主的に創作活動できるかがプロ への近道だと考えています。\n前期末・後期末に学びのまとめとして作品のポートフォリオを作成提出します。",
+    "diploma_policies": [
+        "知財開発コースDP1",
+        "知財開発コースDP2",
+        "知財開発コースDP3",
+        "知財開発コースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "作画に必要な教材",
+        "other": null
+    },
+    "grading_criteria": "1.プロの漫画家やイラストレーター、東京の漫画編集部と連携をして企画などに参加します。   \n  そのほかにも地域共創センターと協力して、地域連携プロジェクトに積極的に参加します。\n2.11月の大学祭や、3月の卒業進級制作展に作品展示します。 \n3.その他、新人賞や公募展への投稿、行政や企業との地域連携によるコラボプロジェクトなどに積極的に参加します。 \n4.2月に希望者による東京の漫画編集部への持ち込み研修(実費)を実施します。\n5.年間、漫画やノベルズ作品は2作品、イラスト作品は6点を提出してもらいます。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 20,
+        "other": 20
+    },
+    "teacher_message": "真剣にプロ作家やコンテンツ業界を目指す学生であること。またその熱意と情熱があることが必要です。 専門ゼミIで学んだことを活かしてレベルアップしましょう!\n知財系の先生や授業で学んだことに加えて、自らプロとしてこの業界でやっていくために、講義時間以外でも日頃から作品制作することができるだけの向上心と勉強意欲も必要です。\n下記授業計画は「漫画制作」を例にしてありますが、イラストレーション・ノベルズなど媒体にあわせて、学生と綿密な計画をたてます。\n20分以上の遅刻は欠席とします、気をつけてください。遅刻・欠席が半分以上あると不可となります。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ラバス説明。\n年間のスケジュールを考える。\n完全個別指導なので、全体的な指導計画はありません が、作家養成に絞っての進行となります。",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "前期作品制作\n -ストーリー起",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "前期作品制作\n-ストーリー承",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "前期作品制作\n-ストーリー転",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "前期作品制作\n-ストーリー結",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "前期作品制作\n-ネームへのアプローチの仕方",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "前期作品制作\n-ネームをすすめる",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "前期作品制作\n-ネームをまとめる",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "前期作品制作\n-ネームのチェック・最終確認",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "前期作品制作\n-ペン入れ準備",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "前期作品制作\n-ペン入れ-キャラクター",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "前期作品制作\n-ペン入れ-サブキャラ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "前期作品制作\n-ペン入れ-その他のキャラ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "前期作品制作\n -ペン入れ-背景",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "前期作品制作\n-ペン入れ-仕上げとチェック・修正\n-前期ポートフォリオ完成",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "学内講評会用作品の制作\n-プロ作家による講評会作品の準備",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "学内講評会用作品の制作\n-ストーリー確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "学内講評会用作品の制作\n-作品制作",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "学内講評会用作品の制作\n-作品仕上げ\n   ※前期課題をそのまますすめても良い",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "学祭発表作品制作\n-学祭に提出する学生は、その作品を制作",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "学祭発表作品制作\n-学祭用作品の仕上げ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "卒業制作のコンセプト発表\n-後期ポートフォリオ開始",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "卒業制作\n持ち込み用原稿の制作",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "卒業制作\n持ち込み用原稿の制作 -プロットの確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "卒業制作 持ち込み用原稿の制作\n-ストーリー確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "卒業制作\n持ち込み用原稿の制作 -ネーム確認",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "卒業制作 持ち込み用原稿の制作\n-ペン入れ開始",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "卒業制作\n持ち込み用原稿の制作 -ペン入れチェック",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業制作 持ち込み用原稿の制作\n-持ち込み作品の仕上げ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業進級制作展準備\n-展示作品のチェック",
+            "teaching_methods": [
+                "講義",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "なかはらかぜ"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "プロの漫画家・イラストレーターが教えます。"
+}

@@ -1,0 +1,387 @@
+{
+    "fetched_at": "2026-06-02T11:55:02Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AS",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "小林　武生",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "3年次での専門ゼミⅠでの学習内容を踏まえ、卒業研究に取り組み、卒業論文もしくは卒業研究報告書を作成することを目標とする。\n\n【到達目標】\n①先行研究のレビューを行うことができる\n②研究手法を検討し、研究計画書を作成することができる\n③研究を実施することができる\n④論文もしくは研究報告書を作成することができる\n⑤グループ活動をファシリテートできる",
+    "overview": "学生の個別活動を主体にして行っていく。よって個々の学生の主体性、学生間のコミュニケーションが非常に重要になる。各自、目的意識をもって専門ゼミⅡの活動に取り組んでほしい。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": "ノートPC",
+        "other": null
+    },
+    "grading_criteria": "①先行研究のレビューを行うことができる\n②研究手法を検討し、研究計画書を作成することができる\n③研究を実施することができる\n④論文もしくは研究報告書を作成することができる\n\nこの4つの項目について下記「学生に対する評価」に沿って評価する。なお「その他」は学生ごとのタスクへの取り組み方に応じて評価する",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 80,
+        "other": 20
+    },
+    "teacher_message": "専門ゼミⅡは大学での学びを統合する目的があります。すなわち知識・技術のみならず価値観も重要になってきます。ゼミ内でのコミュニケーションを大切にして、各自が主体性をもってゼミ活動を進めていきましょう。\n各自が行ってくる課題も多くなります。積極的に行動してください。\n\n\n【予習・復習について】\nグループ活動の進捗とタスクに応じた自主活動が多くなります。120分程度に収まるように進捗と分担を考えます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "前期ゼミの進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "卒業研究について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "先行研究の検索方法について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "参考文献の記載方法について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "参考文献収集・読み込み",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "テーマ案の発表",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "文献レビュー報告①",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "文献レビュー報告②",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "文献レビュー報告③",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "テーマ発表\n研究ノートについて",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "文献レビュー報告④",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "文献レビュー報告⑤",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "文献レビュー報告⑥",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "研究計画報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "前期ゼミまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "後期ゼミの進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "論文等指導①",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "論文等指導②",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "論文等指導③",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "論文等指導④",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "論文等指導⑤",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "論文等指導⑥",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "中間報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "論文等指導⑦",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "論文等指導⑧",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "論文等指導⑨",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "論文等指導⑩",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "論文等要旨作成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業研究報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "専門ゼミⅡまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

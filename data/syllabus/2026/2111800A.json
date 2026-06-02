@@ -1,0 +1,222 @@
+{
+    "fetched_at": "2026-06-02T11:58:38Z",
+    "name_ja": "コンディショニング実習Ⅱ",
+    "name_en": "Physical Conditioning Practice Ⅱ",
+    "syllabus_number": "2111800A",
+    "course_number": "21-3-24-21-05",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "西山　侑汰",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 各種体力・運動能力向上のためのコンディショニング計画立案と実践に必要な知識について理解できる。\n２．スポーツ競技者に対する安全で効果的なコンディショニングを実践できる。",
+    "overview": "各種体力・運動能力向上のためのコンディショニング計画立案と実践に必要な知識について理解し、安全で効果的に実践できるようになることを目標とする。各種体力・運動能力向上の背景となる運動連鎖の考え方や解剖学・生理学的知識を理解した上で、対象者の身体的・動作的特徴や体力・運動能力を様々な測定によって評価する方法を身に付ける。また、対象者個々の特徴や問題点に応じたトレーニング・コンディショニングプログラムを適切に計画し、実践できる方法を身に付ける。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 3 巻 コンディショニング(2022 年カリキュラム対応)",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "コンディショニング実習Ⅰ",
+            "コンディショニング論"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題レポート 50％、発表 30％、授業への参加意欲 20％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "毎回、学習内容に関する予習・復習をすること。 \n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "基礎動作・専門動作の習熟（運動連鎖の考え方）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ストレッチングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ストレッチングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ストレングストレーニングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ストレングストレーニングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "スプリントトレーニングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スプリントストレーニングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "アジリティトレーニングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "アジリティトレーニングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "エンデュランストレーニングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "エンデュランストレーニングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "バランストレーニングの理論とプログラミング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "バランストレーニングの実践（測定、不良動作の評価を含む）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "コンディショニングプログラムの立案・設計・発表①",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "コンディショニングプログラムの立案・設計・発表②",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山　侑汰"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

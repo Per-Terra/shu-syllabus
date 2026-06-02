@@ -1,0 +1,215 @@
+{
+    "fetched_at": "2026-06-02T11:57:50Z",
+    "name_ja": "ビジネスアナリティクス概論",
+    "name_en": "Introduction to Business Analytics",
+    "syllabus_number": "2104400A",
+    "course_number": "31-1-24-34-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": true
+        },
+        {
+            "name": "橋本　喜代太",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。\n１．ビジネスアナリティクスが求められている社会的な背景を理解する\n２．ビジネスアナリティクスの代表的な活用事例を理解する\n３．ビジネスアナリティクスに必要な知識や技術の概要を理解する",
+    "overview": "Society 5.0の実現に向けて、デジタル・トランスフォーメーション（DX）への取組が盛んになっています。その中で、データを活用しビジネス上の意思決定を支える技術であるビジネスアナリティクスは、最も重要な要素の一つです。この講義では、ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC，タブレット等",
+        "other": null
+    },
+    "grading_criteria": "レポートの提出状況と内容の出来を総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ビジネスアナリティクスは、データをビジネスで活用する上で欠かすことのできない技術です。普段からビジネスとデータに関する情報に関心を持ち、ビジネスでデータがどのように活用されているかを考えるようにして下さい。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "デジタル社会とその特徴",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "デジタル社会を支える技術とデータ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "メディアリテラシー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "インターネットと集合知１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "インターネットと集合知２",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ビジネスにおけるデータ活用例１：マーケティング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ビジネスにおけるデータ活用例２：製造業",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ビジネスにおけるデータ活用例３：金融",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ビジネスアナリティクスプログラムでの学び",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ビジネスにおける数理モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "AI、機械学習とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "橋本"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "最適化とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "時系列解析とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "シミュレーションとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "本講義のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

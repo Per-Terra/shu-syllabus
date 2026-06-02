@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:58:42Z",
+    "name_ja": "健康運動実習",
+    "name_en": "Health Exercise Practice",
+    "syllabus_number": "2112400A",
+    "course_number": "21-3-26-22-07",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "東恩納　玲代",
+            "is_primary": true
+        },
+        {
+            "name": "奥本　正",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．既存の健康づくり教室を観察し、実践方法を理解できる 。\n2．ケースやニーズに応じた健康づくり教室を企画・立案できる。\n3．対象者の特性に応じて、健康づくり教室を実施できる。\n4．身体活動、食習慣や食行動、睡眠や休養に関する正しい情報を入手し、理解、評価して活用できる。\n5．対象者とコミュニケーションをとり、健康づくり教室を適切に運営することができる。\n6．個別ケース毎に作成したプログラムについて、集団で論議することができる。",
+    "overview": "本授業では、地域において展開される健康増進・介護予防を目指した健康づくり教室を企画・立案・\n実施し、様々なケースに適切に対応できる実践能力を修得する。またそれに伴い、対象者や自己が生\n活習慣を振り返り、身体機能や健康状況を客観的に把握し、生涯にわたって健康を獲得するために、\n身体活動、食習慣や食行動、睡眠や休養に関するヘルスリテラシーの向上を目指すことを目的とする。\n実際に地域に出向き、地域の健康課題を把握し、対象者の特性に応じた健康づくり教室を行い、実践\nへ応用・活用する力を確実に身に付けることができるようにする。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "健康運動指導士養成講習会テキスト　上・下",
+            "publication_year": 2020,
+            "author": null,
+            "publisher": "公益財団法人　健康・体力づくり事業財団",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "健康運動演習"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "活動状況・実習レポート40 ％、 企画・立案レポート 30 ％、実習報告のプレゼンテーション 30 ％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "健康づくり教室を展開するための実践能力を身に付けるための授業です。将来、健康づくり教室に携わりたい学生は、主体的、計画的かつ意欲的に学びを深めてください。また、常日頃から、地域の健康課題を意識し、実習に向けて能動的に取り組んでください。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、地域の健康課題",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "健康づくり教室の企画・立案(1)：ニーズアセスメント",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "健康づくり教室の企画・立案(2)：評価方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "健康づくり教室の企画・立案(3)：企画書作成",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "健康づくり教室の事前学習：接遇、倫理的配慮",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "健康づくり教室実習(1)：健康状態、運動実施前の体調把握、有酸素性運動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "健康づくり教室実習(2)：健康状態、運動実施前の体調把握、筋力増強運動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "健康づくり教室実習(3)：健康状態、運動実施前の体調把握、レクリエーション運動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "健康づくり教室実習(4)：健康状態、運動実施前の体調把握、生活活動を含めた身体活動促進法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "健康づくり教室実習(5)：健康状態、運動実施前の体調把握、介護予防のための運動",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "健康づくり教室実習の振返り(1)：報告書の作成",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "健康づくり教室実習の振返り(2)：プレゼンテーション資料の作成",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "健康づくり教室実習の報告(1)：実習(1)、(2)の発表、討論",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "健康づくり教室実習の報告(2)：実習(3)、(4)の発表、討論",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "健康づくり教室実習の報告(5)：まとめ：実習⑤の発表、討論",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "奥本正",
+                "東恩納玲代"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

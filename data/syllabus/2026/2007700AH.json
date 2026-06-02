@@ -1,0 +1,361 @@
+{
+    "fetched_at": "2026-06-02T11:54:56Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AH",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 卒業研究を実施し、研究の計画・遂行・論文化のプロセスを経験する。\n2. データ収集・分析を行い、適切な方法で考察を行う能力を獲得する。\n3. 論理的な文章構成を学び、卒業論文の執筆・発表を行う。",
+    "overview": "専門ゼミは卒業論文を作成するための準備として位置付けられ、担当教員の指導の下、文献検索や論文・専門書の輪読、実データの分析や必要なプログラミングについて学ぶ。専門ゼミ１では、受講生は興味を持った研究トピックに関連する論文・専門書を読み、ディスカッションを通して卒業論文の執筆につながる基礎知識やスキルを習得する。加えて、実社会での実装例を学びながら、それらの重要性と社会的な必要性を理解する。文献講読では、①要点、②評価、③語句説明等を含めたレジュメを作成し報告を行う。報告者以外の受講生もディスカッションに参加し、質問や意見を述べて理解を深める。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "必携パソコン",
+        "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "各回の進捗報告（文献レビュー・実験・分析）: 40%\nディスカッションへの参加: 20%\n卒業論文の完成度: 40%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "本ゼミでは、研究の遂行能力だけでなく、論理的な思考力やプレゼンテーションスキルの向上も目指す。積極的な参加と議論を期待する。\n\n【予復習】\n予習: 事前に指定された研究関連の論文を読み、要点をまとめる（約2時間）\n復習: 各回の指導内容を整理し、次回の報告準備を行う（約2時間）\n\n【オフィスアワー】\n水曜日3時限目　 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション：卒業研究の進め方",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "研究テーマの最終決定と計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "文献レビューの方法と論文検索",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "研究計画発表とフィードバック",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "データ収集手法の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "データ収集の実施（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "データ収集の実施（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "データ整理と前処理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "データ分析手法の選択と適用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中間報告会（研究進捗発表）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "データ分析結果の整理（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "データ分析結果の整理（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "研究の考察と議論（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "研究の考察と議論（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "卒業論文の構成と執筆方法",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "論文の草稿作成（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "論文の草稿作成（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "論文のブラッシュアップ（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "論文のブラッシュアップ（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "研究成果の発表準備（スライド作成）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "研究成果の発表準備（プレゼン練習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "最終報告会（発表・質疑応答）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "論文の最終チェック（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "論文の最終チェック（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "論文の提出準備（フォーマット確認）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "論文の最終提出",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "卒業研究の振り返りと改善点の整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "学会・論文投稿の可能性を検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "今後の研究・キャリアへの応用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "総括・フィードバック",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

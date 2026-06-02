@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:16Z",
+    "fetched_at": "2026-06-02T11:54:57Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600SD",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "水﨑　佑毅",
@@ -42,7 +42,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考書類や図書は適宜配布、もしくは貸し出します。"
     },
     "grading_criteria": "ゼミ活動中の取り組み内容や態度・興味、関心等から総合的に評価をします。また、随時求める課題の内容も評価します。",
@@ -358,5 +358,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

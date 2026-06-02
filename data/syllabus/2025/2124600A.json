@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:32Z",
+    "fetched_at": "2026-06-02T11:59:45Z",
     "name_ja": "子どもの遊びと造形",
     "name_en": "children'　modeling　play",
     "syllabus_number": "2124600A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

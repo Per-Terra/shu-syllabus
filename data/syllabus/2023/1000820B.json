@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:15Z",
+    "fetched_at": "2026-06-02T11:52:35Z",
     "name_ja": "日本語表現法Ⅱ",
     "name_en": "Japanese II",
     "syllabus_number": "1000820B",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "日本語表現法Ⅰ"
         ],
         "required_materials": "PC、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "・レポートにより評価します。レポートは授業内で配布するチェックリスト（またはルーブリック等）に従って採点します\n・いずれもレポートの形式面90%、内容面10%の割合で評価します\n・レポートは意見文レポートおよび読解要約レポートの二種です。意見文レポートは授業期間内に1度提出し、教員のコメントを最低1回受けることを条件とし、試験期間に提出します。\n\n必須の提出物：(a)読解要約レポート、(b)意見文レポート、(c)最終レポート（bの改善版）\n・(b)意見文レポートは提出後最低1回コメントを受けてください。\n・(c)最終レポートは(b)意見文のコメントを踏まえて作成してください。\n・(a)40%、(b・c)60%、それぞれ形式面90%・内容面10%で評価する。",
     "evaluation_ratio": {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

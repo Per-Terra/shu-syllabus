@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:01Z",
+    "fetched_at": "2026-06-02T11:52:46Z",
     "name_ja": "地誌学Ⅱ",
     "name_en": "Regional Geography II",
     "syllabus_number": "1002500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "佐藤　裕哉",
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

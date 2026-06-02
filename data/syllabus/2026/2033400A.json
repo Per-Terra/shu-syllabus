@@ -1,0 +1,252 @@
+{
+    "fetched_at": "2026-06-02T11:56:32Z",
+    "name_ja": "パラスポーツ論Ⅱ",
+    "name_en": "Theory of Parasports Ⅱ",
+    "syllabus_number": "2033400A",
+    "course_number": "21-3-25-22-08",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "宇野　直士",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．\t障害者スポーツ指導員資格に関わる内容を理解出来る。\n２．\t障害者スポーツを自ら実践しつつ、指導者としての専門的な知識を身につける。",
+    "overview": "パラスポーツ論Ⅱでは、各障害の理解を深め、障がい者スポーツを自ら実践しつつ、指導者としての教授法を学ぶ。講義は、全国障害者スポーツ大会の概要、歴史と目的と意義、実施競技と障害区分について学ぶ。また、全国障害者スポーツ大会選手団編成とスタッフの役割について学ぶ。さらに全国障害者スポーツ大会競技の指導法と競技規則を学ぶ。加えて、最重度障がい者のスポーツについても学習する。身につく能力として、障がい者スポーツの競技規則と指導法について専門的な知識と障がい者に対応する指導技術を得ることが期待できる。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "改正版　障がいのある人のスポーツ指導教本（初級・中級）2020年改訂カリキュラム対応",
+            "publication_year": 2024,
+            "author": "（公財）日本障がい者スポーツ協会",
+            "publisher": "株式会社ぎょうせい",
+            "price": 2970,
+            "isbn": "978-4-324-11250-2",
+            "available_on_campus": true
+        },
+        {
+            "title": "全国障害者スポーツ大会競技規則集",
+            "publication_year": 2025,
+            "author": "（公財）日本パラスポーツ協会編",
+            "publisher": "（公財）日本パラスポーツ協会",
+            "price": 1000,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "アダプテッド・スポーツの科学",
+            "publication_year": 2004,
+            "author": "矢部京之助・草野勝彦・中田英雄編著",
+            "publisher": "市村出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "障害者スポーツ論",
+            "publication_year": 2014,
+            "author": "森川洋・金子元彦・和秀俊編著",
+            "publisher": "大学図書出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "パラスポーツ論Ⅰ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、ノートパソコン",
+        "other": "履修者は障がい者スポーツ資格を取得する者とし、スポーツ資格のコース申請をおこなったものに限り受講を認める。"
+    },
+    "grading_criteria": "１．\t障がい者スポーツ指導員資格に関する内容を理解できた。\n２．\t障がい者スポーツに関する専門的な技術を身につけることができた。\n上記の１～２に関する理解度・技術について以下より評価する。\n毎回、授業内容理解に関する小テスト50％、活動状況50％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "講義だけでなく、障がい者スポーツの選手やコーチの方からも直接指導を受けることが出来る授業です。各障がいについて、理解した上で、障がい者スポーツを体験してもらいます。将来指導者になった時、どのような点に留意し、指導していくか考え、真剣に取り組んで欲しいと思います。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "全国障害者スポーツ大会の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "全国障害者スポーツ大会の歴史と目的と意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "全国障害者スポーツ大会の実施競技と障害区分\n①大会実施競技と競技規則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "全国障害者スポーツ大会の実施競技と障害区分\n②障害区分の意義と目的",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "全国障害者スポーツ大会選手団編成とスタッフの役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n①水泳（初心者を対象とした導入方法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n②水泳（初心者を対象とした留意点）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n③陸上競技（スラローム、ビーン投げ、ジャベリックスロー",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n④陸上競技（走り幅跳び、伴走者使用の競走競技）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n⑤グランドソフトボール（指導法と競技規則について）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n⑥フライングディスク（指導法と競技規則について）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "障がい者のスポーツ指導における留意点\n（身体障がい、知的障がい、精神障がい）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "全国障害者スポーツ大会競技の指導法と競技規則\n⑦車椅子バスケットボール（指導法と競技規則について",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "最重度の障がい者のスポーツの実際（重症心身障がい児・者を含む）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

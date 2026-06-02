@@ -1,0 +1,259 @@
+{
+    "fetched_at": "2026-06-02T11:53:16Z",
+    "name_ja": "ビジネス英作文",
+    "name_en": "English for Business Writing",
+    "syllabus_number": "1012900A",
+    "course_number": "11-2-14-22-05、31-2-14-22-06",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "ポーリーン",
+            "is_primary": false
+        },
+        {
+            "name": "ボールドウィン",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "In this class, students will learn written business communication in English, including covering letters, memorandums, and especially emails.\nThe target is to be able to write short and concise information that communicates without sounding like a translation, and understand the importance (and impact) of professionally written content.",
+    "overview": "Each week, students will be asked to write an email to a prospective client. These emails will be exchanged with other students to practice replying. There will be a focus on written grammar using business proposals and covering letters. \nHomework will be assigned each week to prepare for the following lesson. This homework is important for class participation, with is half of the grade.",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "なし"
+    },
+    "grading_criteria": "(i) Active class participation(asking questions, eliciting answers, class preparation) \n(ii) Expression\n(iii) Content and vocabulary usage\n(iv)Clarity and grammar",
+    "evaluation_ratio": {
+        "exam": 30,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "The most important thing about learning English is to enjoy communicating, whether in person or in writing.\nThe class will mostly be designed based on your ability and interests, so the content below is subject to change.",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "Orientation and discussion about writing styles and interests.\nBasic grammar review.\nWrite a professional introduction of yourself.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Study samples of Japanese and English business letters.\nDiscuss differences.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Writing and responding to an email.\nStudy covering letters and discuss expressions, word choices, and style.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Writing and responding to an email.\nWhat research is necessary to write a better business letter?",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Writing and responding to an email.\nWhat is clear and compelling business communication?",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Writing and responding to an email.\nLook back at cross-cultural differences in business writing.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Writing and responding to an email.\nWriting for your reader.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Writing and responding to an email.\nPractical writing based on data-visualization.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Writing and responding to an email.\nStudy a business news article and look at expressions, word choices, and style.\nDiscuss efficacy.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Writing and responding to an email.\nWrite your own covering letter.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Editing.\nProofread and edit your own writing.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Brainstorming and slimming down. What are the important issues to be communicated?",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Writing outlines.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Finish writing final proposals.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Present your writing on the screen (or using handouts) and explain.",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "Practical Writing Test (16th week)",
+            "teaching_methods": [],
+            "teachers": [
+                "Pauline",
+                "Baldwin"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

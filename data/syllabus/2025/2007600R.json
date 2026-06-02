@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:50Z",
+    "fetched_at": "2026-06-02T11:55:08Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600R",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -84,7 +84,7 @@
             "author": "野村康",
             "publisher": "名古屋大学出版会",
             "price": 3960,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -108,7 +108,7 @@
             "経営戦略論Ⅱ"
         ],
         "required_materials": "上記⑦の教科書3冊、筆記用具、ノートなど。ノートパソコンやタブレットなどのある程度の画面サイズを有するインターネット端末を持参することが好ましい。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "上記④にある到達目標への達成度を下記「⑪学生に対する評価」の方針に基づいて評価する。",
     "evaluation_ratio": {
@@ -421,5 +421,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

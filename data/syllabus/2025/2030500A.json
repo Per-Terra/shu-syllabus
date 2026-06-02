@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:02:10Z",
+    "fetched_at": "2026-06-02T11:57:13Z",
     "name_ja": "アジアビジネス論",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2030500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -211,5 +211,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

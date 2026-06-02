@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:14:17Z",
+    "fetched_at": "2026-06-02T11:55:47Z",
     "name_ja": "人体の構造と機能及び疾病Ⅱ",
     "name_en": "Structure,Function,and Illnesses of the Human Body II",
     "syllabus_number": "2017300A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -61,7 +61,7 @@
         ],
         "recommended": [],
         "required_materials": "筆記用具、教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①ヒトの心理や解剖学的構造と生理学的機能、②ヒトの心身の機能低下や障害と生活支援について「学生に対する評価」の内容にて評価する。",
     "evaluation_ratio": {

@@ -1,0 +1,224 @@
+{
+    "fetched_at": "2026-06-02T11:55:42Z",
+    "name_ja": "介護過程Ⅳ",
+    "name_en": "Care giving process  Ⅳ",
+    "syllabus_number": "2019300",
+    "course_number": "05NW405",
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "藤本　真樹",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "・ケアマネジメントから介護過程につながるプロセスを理解する\n・多様な事業における介護過程（アセスメント・プランニング・評価）の展開を理解する",
+    "overview": "・ケアマネジメントから多様な事業所につながるイメージをつくりつつ、それぞれの事業所における介護過程（アセスメント・プランニング・評価）を学ぶ",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "・ケアマネジメントから介護過程につながるプロセスを言語化できるか\n・多様な事業における介護過程について、言語化できるか",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "１",
+            "content": "・オリエンテーション\n・ケアマネジメントから介護過程につながるプロセスを学ぶ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "・事例➀の通所介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "・事例➀の通所介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "・事例➀の訪問介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "・事例➀の訪問介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "・事例➀の短期入所生活介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "・事例➀の短期入所生活介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "・事例➁の通所介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "・事例➁の通所介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "・事例➁の訪問介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "・事例➁の訪問介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "・事例➁の短期入所生活介護事業所における介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "・事例➁の短期入所生活介護事業所における介護過程の発表（ディスカッション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "・事例➁の特別養護老人ホームにおける介護過程を学ぶ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "・事例➁の特別養護老人ホームにおける介護過程の発表（ディスカッション）\n・総括",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

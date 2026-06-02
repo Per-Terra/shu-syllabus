@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:44Z",
+    "fetched_at": "2026-06-02T11:55:25Z",
     "name_ja": "体力測定と評価",
     "name_en": "Test and Evaluation of Physical Fitness",
     "syllabus_number": "2010300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,10 +43,10 @@
         {
             "title": "健康運動指導士養成講習会テキスト　上・下",
             "publication_year": 2020,
-            "author": "",
+            "author": null,
             "publisher": "公益財団法人　健康・体力づくり事業財団",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -247,11 +247,9 @@
             "number": "16",
             "content": "期末試験",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

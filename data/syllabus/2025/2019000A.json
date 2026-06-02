@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:00:33Z",
+    "fetched_at": "2026-06-02T11:56:15Z",
     "name_ja": "介護過程Ⅰ",
     "name_en": "Nursing care process Ⅰ",
     "syllabus_number": "2019000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,7 +49,7 @@
             "介護福祉実習Ⅰ",
             "介護福祉実習Ⅱ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
     "grading_criteria": "１．介護過程の一連の流れ、利用者主体による展開の理解\n２．介護計画の立案、実施\n３．介護過程における評価の理解\n４．介護過程展開における他科目学習の統合・関連付けの必要性の理解",

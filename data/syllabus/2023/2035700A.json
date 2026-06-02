@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:20:31Z",
+    "fetched_at": "2026-06-02T11:57:22Z",
     "name_ja": "経営史Ⅰ",
     "name_en": "Business　History　Ⅰ",
     "syllabus_number": "2035700A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "パソコン、タブレットなど電子資料の閲覧、オンライン課題ができる端末、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①経営史上の出来事の理解、②経営史基本用語、③経営史の視点から経営現象の説明について「学生に対する評価」の内容で評価する\n※「その他」は授業中の課題と宿題",
     "evaluation_ratio": {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

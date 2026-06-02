@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:01Z",
+    "fetched_at": "2026-06-02T11:56:31Z",
     "name_ja": "心理学研究法Ⅱ",
     "name_en": "Methods of Psychological ResearchⅡ",
     "syllabus_number": "2024000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -255,5 +255,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

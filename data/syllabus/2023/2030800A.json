@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:19:16Z",
+    "fetched_at": "2026-06-02T11:57:03Z",
     "name_ja": "アニメーション制作実習Ⅱ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2030800A",
     "course_number": "03AM202",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) 制作工程の理解\n(ⅱ)専門用語の理解\n(ⅲ)課題制作",
     "evaluation_ratio": {

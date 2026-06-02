@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:33Z",
+    "fetched_at": "2026-06-02T11:54:57Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600C",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -72,9 +72,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2～4",
@@ -82,9 +80,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5～8",
@@ -92,9 +88,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9～12",
@@ -102,9 +96,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -113,9 +105,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -124,9 +114,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -134,9 +122,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "16～18",
@@ -144,9 +130,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "19～21",
@@ -154,17 +138,13 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "22～24",
             "content": "文献講読④",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "25～29",
@@ -173,9 +153,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "30",
@@ -183,11 +161,9 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

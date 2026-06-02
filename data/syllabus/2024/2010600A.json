@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:58:53Z",
+    "fetched_at": "2026-06-02T11:55:37Z",
     "name_ja": "スポーツ運動学",
     "name_en": "Sports Movement and Behaviour",
     "syllabus_number": "2010600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "西山　健太",
@@ -61,8 +61,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "基礎知識および運動の理解、運動指導への応用を小テストによって評価する。",
     "evaluation_ratio": {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

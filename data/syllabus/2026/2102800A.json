@@ -1,0 +1,225 @@
+{
+    "fetched_at": "2026-06-02T11:57:39Z",
+    "name_ja": "モデリングの数理",
+    "name_en": "Mathematics of Modeling",
+    "syllabus_number": "2102800A",
+    "course_number": "31-3-22-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "大島　和裕",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．数理モデルとモデリングの基本概念と考え方を理解できる。\n２．自然、社会の諸現象に対し、数理的なモデリングを行う基礎を身に付けている。",
+    "overview": "「自然は数学の言葉で書かれている」と言われるように、自然現象は数学で記述でき、社会現象の多くも数理的に記述できる。数理的に記述された数理モデルの解は明快であるとともに、我々が予想しなかった結論にもしばしば到達させてくれる。本講義では、このように自然現象や社会現象を理解するのに有用な数理モデルとモデリングについて、具体例を多数挙げながらその数理を解説する。主に微分方程式、確率モデルにより記述される数理モデルを取り上げ、その導出、性質、解析、結果について解説する。\n　この講義により、受講者はモデリングの数理の基礎を修得することができ、以後の研究活動において、自ら数理モデルを構築し、「数値解析」等の科目で学ぶ解析手法と併せ、結果を導く基礎を身に付けることができる。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "データ分析のための数理モデル入門",
+            "publication_year": 2020,
+            "author": "江崎貴裕",
+            "publisher": "ソシム",
+            "price": 2860,
+            "isbn": "978-4-8026-1249-4",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "微分積分基礎",
+            "線形代数基礎",
+            "確率統計基礎"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "筆記試験70％、課題レポート30％",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "数理モデルの理解とモデリングの実践には、現象について深く考え、本質をとらえた上で、それを最適な数式で記述するという一連の流れの修得が必要になります。このようなことの繰り返しを通じて、少しずつ理解が深まっていきますので、講義の前後に内容を確認することが重要です。予習・復習はそれぞれ30分以上を目安とします。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、数理モデルのつくりかた",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "自然、社会現象のモデル化、微分方程式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "微分方程式の解法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "兵力の分析、ランチェスターの法則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "均衡状態の分析、プレデター・プレイモデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ゲーム理論、協力と対立のモデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "非協力ゲーム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ナッシュ均衡、パレート均衡、混合戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "協力ゲーム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ゲームのコア",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "社会現象と確率、待ち行列の分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "待ち時間とサービス時間",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "M/M/1 待ち行列システム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "様々な待ち行列システム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総合演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

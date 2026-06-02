@@ -1,0 +1,228 @@
+{
+    "fetched_at": "2026-06-02T12:00:26Z",
+    "name_ja": "学校保健",
+    "name_en": "School Health",
+    "syllabus_number": "7004900A",
+    "course_number": "21-2-22-22-08",
+    "departments": [
+        "経済学部",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "川崎　裕美",
+            "is_primary": true
+        },
+        {
+            "name": "村瀬　訓生",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.学校保健の意義、構造、法的根拠を理解できる。 \n2.児童生徒における現代の健康課題とその対応を説明できる。 \n3.健康の保持増進に関心を持ち、児童生徒等を想定した保健指導ができる。",
+    "overview": "学校保健は、児童生徒等および教職員の健康の保持増進を図るとともに、集団教育としての学校教育活動に必用な応急手当を含む保健安全的配慮を行い、児童生徒等が自ら健康の保持増進を図ることができるような能力を育成することを目指している。本授業では、学校保健の基礎理論と実際に行われている学校保健活動を学修し、多様化、深刻化する児童生徒の健康課題とその対応に必要な知識と実践力を身に付けることを目的とする。 講義形式で授業を進めていくが、授業内容に応じて演習（グループワークとプレゼンテーション）を行い、実践力を確実に身に付けることができるようにする。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "2020　学校保健概論　第3版",
+            "publication_year": 2020,
+            "author": "渡邉正樹",
+            "publisher": "光生館",
+            "price": 2200,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "授業内容の理解、指導技術、考え方の修得を中心に総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 30,
+        "report": 40,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "心肺停止状態の人には、できるだけ早く救命救急処置を実施することが重要です。\n本講義や実習を通じて救命救急処置の意義を理解し、いざというときには実践できるようにしてください。（村瀬）\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション \n学校保健とは：学校保健の概要と法的根拠、学校保健の担当者 学校における健康教育：ヘルスプロモーション、生きる力",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "学校保健・安全計画と学校保健組織活動：学校保健計画と学校安全計画の意義、内容、具体例、評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "保健教育①：保健教育の構造、目標と内容、学習指導要領、保健教育の指導と評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "児童生徒の発育発達：児童生徒の発育発達の特徴、身体の形態発育と評価、体力・運動能力の発達、保健教育における発育・発達の扱われ方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "健康診断、健康課題と疾病：学校における健康診断の歴史的変遷と目的、保健調査・日常の健康観察、学齢期の疾病・異常等の推移、学校生活において留意すべき子どもの疾病",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "学校で注意すべき感染症：学校における感染症対策、出席停止および出席停止期間",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "保健室の役割と応急手当：保健室の役割と意義、保健室経営と保健室の機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "学校における性教育、喫煙、飲酒、薬物乱用防止教育：性に関する現代的課題、喫煙、飲酒、薬物乱用防止教育の進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "学校給食と食育、保健教育②：児童生徒の食に関する現代的課題、学校における食に関する指導の進め方、対象学年を想定し、性教育、喫煙、飲酒、薬物乱用防止教育、食育に関する教材等を作成（グループワーク）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "学校安全・危機管理、学校の環境衛生：子どもを取り巻く危険の実態、学校安全の意義、学校安全教育、学校における環境衛生の重要性と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "応急手当の意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "村瀬　訓生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "応急手当の実際：胸骨圧迫、AED使用",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "村瀬　訓生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "保健教育③：対象学年を想定し、性教育、喫煙、飲酒、薬物乱用防止教育、食育に関する教材等を作成（グループワーク）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "保健教育④：作成した教材や発表資料の検討（グループワーク）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "保健教育⑤：保健教育の発表、評価",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "川崎　裕美"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "（村瀬訓生）日本スポーツ協会スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

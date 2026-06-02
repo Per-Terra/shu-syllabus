@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:28Z",
+    "fetched_at": "2026-06-02T11:55:22Z",
     "name_ja": "映像編集技法Ⅱ",
     "name_en": "Film Editing Technique Ⅱ",
     "syllabus_number": "2009500A",
@@ -12,9 +12,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -44,7 +44,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "USBメモリ、イヤホン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "編集ソフトの応用的なテクニックの習得（30点）\n編集を撮影にフィードバックさせて撮影が出来、それを編集で証明する（40点）\n※その他は主に出席で、出席は全出席で30点と換算します。",
     "evaluation_ratio": {
@@ -65,9 +65,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2-3",
@@ -77,9 +75,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -89,9 +85,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6-7",
@@ -101,9 +95,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -113,9 +105,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -125,9 +115,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10-12",
@@ -137,9 +125,7 @@
                 "演習",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13-14",
@@ -148,9 +134,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -159,9 +143,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,

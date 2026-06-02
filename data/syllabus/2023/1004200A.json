@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:33Z",
+    "fetched_at": "2026-06-02T11:52:55Z",
     "name_ja": "中国語Ⅱ",
     "name_en": "Chinese II",
     "syllabus_number": "1004200A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -54,7 +54,7 @@
         ],
         "recommended": [],
         "required_materials": "ノート、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "期末テスト６０％、小テスト２０％、授業態度などは２０％として評価",
     "evaluation_ratio": {
@@ -399,5 +399,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

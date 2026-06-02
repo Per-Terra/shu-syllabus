@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:03:31Z",
+    "fetched_at": "2026-06-02T11:54:49Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600O",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
             "映像文化論"
         ],
         "required_materials": "資料などをオンラインで展開するのでパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "主体性をもって自らが追求したい研究テーマを見つけ、研究する・・・・50点\n他のゼミ生とも協調して、対外的活動（イベント）に積極的に参加・成果を上げる・・・30点\n受講態度など・・・・・・・・・・20点\n※その他は出席回数や授業での発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {

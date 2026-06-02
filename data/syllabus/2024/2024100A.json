@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:47Z",
+    "fetched_at": "2026-06-02T11:56:22Z",
     "name_ja": "心理学実験実習Ⅰ",
     "name_en": "Psychological experiment trainingⅠ",
     "syllabus_number": "2024100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "羽渕　由子",
@@ -77,7 +77,7 @@
             "心理学関連科目"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "以下の３つの観点から「学生に対する評価」の内容に基づき評価をおこなう。\n(i) 基本的な心理学実験の手法を身につけることができる\n(ii) 適切な方法でデータを分析し，解釈することが出来る\n(iii) 基本的な科学論文形式のレポートが作成できる",
     "evaluation_ratio": {
@@ -394,5 +394,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:53:59Z",
+    "fetched_at": "2026-06-02T11:53:31Z",
     "name_ja": "教養ゼミ（HS-1～6）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800SA",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "江﨑　和希",
@@ -83,7 +83,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "適宜案内する。"
     },
     "grading_criteria": "課題 30 ％、プレゼンテーション・発表 30 ％、レポート 40 ％",
@@ -399,5 +399,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

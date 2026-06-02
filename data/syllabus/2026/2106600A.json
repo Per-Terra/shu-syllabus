@@ -1,0 +1,265 @@
+{
+    "fetched_at": "2026-06-02T11:58:03Z",
+    "name_ja": "経済学・経営学の視点を学ぶ",
+    "name_en": "Perspectives of Economics and Management",
+    "syllabus_number": "2106600A",
+    "course_number": "11-1-21-21-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "佐藤　裕哉",
+            "is_primary": true
+        },
+        {
+            "name": "河田　正樹",
+            "is_primary": false
+        },
+        {
+            "name": "長澤　雅彦",
+            "is_primary": false
+        },
+        {
+            "name": "長澤　賢一",
+            "is_primary": false
+        },
+        {
+            "name": "岡本　次郎",
+            "is_primary": false
+        },
+        {
+            "name": "髙橋　真実",
+            "is_primary": false
+        },
+        {
+            "name": "田島　正士",
+            "is_primary": false
+        },
+        {
+            "name": "稲垣　円",
+            "is_primary": false
+        },
+        {
+            "name": "伏木　貞文",
+            "is_primary": false
+        },
+        {
+            "name": "WEI　DI",
+            "is_primary": false
+        },
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        },
+        {
+            "name": "渡邉　洋心",
+            "is_primary": false
+        },
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        },
+        {
+            "name": "矢野　沙織",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）基本的な経済学・経営学の考え方について端的に説明することが出来る\n（２）経済学・経営学の最新の研究について端的に説明することが出来る",
+    "overview": "本講義は、本学部学科の教員がオムニバス形式で、経済学・経営学の初学者に対して各分野の概要や最新の研究などについて教授する。受講生にとっては、経済学、経営学にかかわる課題やその分析方法を幅広く理解する導入となる。",
+    "diploma_policies": [
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "なし。ただし、各教員から別途指示される場合があるので、注意すること。",
+        "other": "特定の教科書は指定せず、講義中に適宜資料を提示ないしは配布する。"
+    },
+    "grading_criteria": "各担当者が講義後に課すレポートの合計点で判断する。授業に出席し、内容を把握できているかどうかを評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "シラバスを読み、関係する領域について事前に自習すること（１時間程度）　復習は講義中に提示された資料ないしは配布資料を用いて理解を深めること（１時間程度）\n\n【オフィスアワーについて】\n各担当教員に確認すること（日時、事前予約の必要性の有無など）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "社会や地域の課題解決のために、経済学や経営学の視点が有用であることを学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "現代社会において歴史や文化は、地域の経済や社会にとって有用な資源として活用されることがある。本講義では、歴史･文化を活かした地域づくりの事例を紹介し、その活用のあり方を検討するとともに、文化資源マネジメントの視点を学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡邉　洋心"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "私たちの暮らす地域を「コミュニティ」という視点から、その役割やなぜ地域コミュニティをつくることが必要なのか、地域の構造変容の過程と持続的な地域の在りようについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "日本におけるエンターテインメント・ビジネスの経済の現状について。ネットはエンターテインメント・ビジネスの収益の在り方をどう変えたのか？ユーチューバ−が億万長者になる社会とは？キーワードとなる「価値の考え方と評価経済社会」について言及する。",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "長澤　雅彦"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "株式会社をめぐる理論（法律）と実際の異同について学習する。そして、その異同がどのような問題を発生させるのかを、具体例を用いて学習する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "身近な税制について学習する。例えば、国税では所得税、消費税、地方税では固定資産税・住民税などを紹介する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "都市集中、地域間格差、人口減少問題など、現代の都市・地域が直面する諸課題とメカニズムについて紹介する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "経済学・経営学をデータの面から見る際に、統計学の知識が必要となる。どのような統計的手法を用いればどのような分析が行えるのかを、実際の分析例を通して学んでいく。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河田　正樹"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "企業は、日々の取引を複式簿記という「物差し」を使って貨幣価値に直し、会計情報を作成している。今回は、それぞれの利害関係者の視点から会計情報を読み、会計の役割について学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "金融は情報技術の発展とともに急速に進展している。本講義では金融論の概要を紹介し、日本の金融状況について説明する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤　賢一"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "合理的経済人の想定による標準的な経済学の例を紹介した上で、その単純な想定から外れた人間行動を考える行動経済学の意義を紹介する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例を用いながら「ニーズ」、「ウォンツ」を整理し、ターゲットに刺さるマーケティングについて考察する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "地図や統計データ、フィールドワークの成果を用いながら、経済地理学の視点から山口県や周南地域など身近な地域について概説する。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐藤　裕哉"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "グローバル化は国際政治の論理と国際経済の論理の相克をもたらしている。そこから生じる問題を取り上げて概説し、解決策を考える。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "国際ビジネスの多様性を知るとともに、グローバル企業の成長と世界経済の関係について考える。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "WEI　DI"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

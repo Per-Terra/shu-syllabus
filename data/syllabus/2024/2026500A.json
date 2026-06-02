@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:01:22Z",
+    "fetched_at": "2026-06-02T11:56:36Z",
     "name_ja": "アルゴリズム",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2026500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "髙藤　大介",
@@ -62,7 +62,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具、ノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "アルゴリズムの設計と解析、アルゴリズムとプログラムの関係性に関する理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

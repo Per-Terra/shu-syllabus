@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:07:53Z",
+    "fetched_at": "2026-06-02T12:00:34Z",
     "name_ja": "ビジネス日本語Ⅰ",
     "name_en": "Business Japanese Ⅰ",
     "syllabus_number": "8001800A",
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -45,7 +45,7 @@
             "author": "千駄ヶ谷日本語教育研究所",
             "publisher": "スリーエーネットワーク",
             "price": 2400,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

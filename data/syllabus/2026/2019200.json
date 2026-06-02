@@ -1,0 +1,218 @@
+{
+    "fetched_at": "2026-06-02T11:55:42Z",
+    "name_ja": "介護過程Ⅲ",
+    "name_en": "Care giving process Ⅲ",
+    "syllabus_number": "2019200",
+    "course_number": "05NW402",
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "藤本　真樹",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "・多様なアセスメントの視点を身に付ける\n・多様なアセスメントに基づいた介護計画を作成できる\n・介護計画に基づく介護の展開がイメージできる",
+    "overview": "・事例を活用した介護過程に関する講義と演習",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "・多様な視点でアセスメント（質問力、言語化能力）、プランニング（言語化能力）ができるか\n・介護過程を展開した際の利用者の状況（変化）についてイメージし語ることができるか",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "１",
+            "content": "・オリエンテーション\n・アセスメントの基本",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "・事例➀を活用したアセスメント演習➀",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "・事例➀を活用したアセスメント演習➁",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "・事例➀を活用したアセスメントの発表\n・振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "・プランニングの基本\n・事例➀を活用したプランニング演習➀",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "・事例➀を活用したプランニング演習➁",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "・事例➀の介護計画の発表\n・振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "・事例➁を活用したアセスメント➀",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "・事例➁を活用したアセスメント➁",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "・事例➁を活用したアセスメントの発表\n・振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "・事例➁を活用したプランニング➀",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "・事例➁を活用したプランニング➁",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "・事例➁を活用したプランニングの発表\n・振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "・事例➀・➁の介護過程展開による変化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "・総括",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

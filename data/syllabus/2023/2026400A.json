@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:17:34Z",
+    "fetched_at": "2026-06-02T11:56:38Z",
     "name_ja": "データマイニング",
     "name_en": "Data Mining",
     "syllabus_number": "2026400A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,7 +49,7 @@
         ],
         "recommended": [],
         "required_materials": "パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "小テストを行い成績の評価とする。レポートも課す。",
     "evaluation_ratio": {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

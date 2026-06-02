@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:28Z",
+    "fetched_at": "2026-06-02T11:55:53Z",
     "name_ja": "加齢と障害に関する理解",
     "name_en": "Study of Aged and Hadicapped",
     "syllabus_number": "2015200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "藤本　真樹",
@@ -224,5 +224,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

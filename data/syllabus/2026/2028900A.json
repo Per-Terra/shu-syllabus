@@ -1,0 +1,234 @@
+{
+    "fetched_at": "2026-06-02T11:56:21Z",
+    "name_ja": "ソーシャルワークの理論と方法Ⅳ",
+    "name_en": "Social Work Theory and Practice Ⅳ",
+    "syllabus_number": "2028900A",
+    "course_number": null,
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小林　武生",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "授業のテーマ：\nソーシャルワークの理論と方法Ⅰ～Ⅲで学んだソーシャルワークの価値・知識・技術を踏まえて、本科目では専門職として成長していくための方法論を学ぶ。\n\n到達目標：\n(i) 総合的かつ包括的な支援の考え方ができる\n(ii) ソーシャルワーク支援のモデルについて説明できる\n(iii) 事例研究を深めていくことができる",
+    "overview": "・総合的かつ包括的支援のあり方として、家族支援、地域支援、援助関係について概念的整理を行う\n・ソーシャルワーク支援のモデルについて、モデルが生じた社会文化的背景を明らかにしながら説明する\n・事例研究を進められるように説明を行う",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "ソーシャルワークの理論と方法〔社会専門〕",
+            "publication_year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟",
+            "publisher": "中央法規出版",
+            "price": 3190,
+            "isbn": "978-4-8058-8249-8",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "ソーシャルワークの基盤と専門職Ⅰ・Ⅱ",
+            "ソーシャルワークの理論と方法Ⅰ～Ⅲ"
+        ],
+        "required_materials": null,
+        "other": "授業で必要とする文献を適宜担当教員がコピーし、学生に配布するのでそれを参照すること。"
+    },
+    "grading_criteria": "到達目標に関して、確実な知識を得ているかどうかを期末試験で評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ソーシャルワークの理論と方法は、Ⅰ～Ⅳまであります。取りこぼしがあると、社会福祉士受験資格に直結しますので注意しましょう。国家試験においても、ソーシャルワーク支援モデルは当然のこと、家族支援や援助関係などの一つひとつの概念を整理し、復習するようにしてください。予習・復習それぞれ一回あたり120分程度必要となってきます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション：授業の進め方、本科目で学ぶこと\n事例の読み方について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "総合的かつ包括的な支援におけるソーシャルワークの実際①\n高齢・障害分野における事例を通じて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "総合的かつ包括的な支援におけるソーシャルワークの実際②\n児童分野における事例を通じて",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "対人援助の現場におけるカンファレンス①意義と目的",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "対人援助の現場におけるカンファレンス②展開",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "対人援助の現場におけるカンファレンス③留意点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "ソーシャルワークに関連する技法①個人・小集団に関わる技法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "ソーシャルワークに関連する技法②地域に関わる技法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "ソーシャルワークに関連する技法③社会変革に関する技法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ソーシャルワークに関連する技法④その他、ソーシャルワークに関わる技法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "事例分析、事例検討①意義と目的",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例分析、事例検討②事例分析の進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "事例分析、事例検討③事例分析等の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "事例研究とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "現場におけるソーシャルワークの実際について\nソーシャルワークの理論と方法Ⅳまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "試験",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

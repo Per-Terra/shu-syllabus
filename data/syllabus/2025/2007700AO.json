@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:18Z",
+    "fetched_at": "2026-06-02T11:55:26Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AO",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -43,7 +43,7 @@
             "専門ゼミⅠ"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
     "grading_criteria": "卒業研究成果物（70％）卒業研究の成果発表（30％）",

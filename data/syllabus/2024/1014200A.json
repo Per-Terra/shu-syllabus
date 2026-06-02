@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:55:21Z",
+    "fetched_at": "2026-06-02T11:54:04Z",
     "name_ja": "キャリア形成活動Ⅱ",
     "name_en": "Career development II",
     "syllabus_number": "1014200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         "recommended": [
             "アーリー・エクスポージャー型インターンシップ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は使用しないが、授業で使用するスライド等についてはLMSで配布する"
     },
     "grading_criteria": "就業体験への参加とレポートによって評価します。就業体験への参加は受入企業からの評価票に基づいて、参加状況等を評価します。レポートは内容・形式に関するチェックリストを用いて評価します。レポートでは就業体験に参加する際の目標、体験内容、体験の自己評価等を報告します。",
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

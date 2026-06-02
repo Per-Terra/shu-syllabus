@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:04:16Z",
+    "fetched_at": "2026-06-02T11:55:03Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700F",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,7 +49,7 @@
             "教養ゼミ"
         ],
         "required_materials": "筆記用具、PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "卒業論文またはそれに代わる成果報告書をもとに評価する。後者の場合は平素の地域課題解決活動も加味する。\n論文・報告書はチェックリストないしはルーブリックを作成し評価する。取り扱う問題・対象に対する理解、適切な課題設定、十分な解決行動、適切な意味付け・総括がなされていること等を観点に評価する。",
     "evaluation_ratio": {
@@ -133,5 +133,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

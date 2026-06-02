@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:59:00Z",
+    "name_ja": "臨床薬理学",
+    "name_en": "Clinical Pharmacology",
+    "syllabus_number": "2115300A",
+    "course_number": "22-2-21-21-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "嶋本　顕",
+            "is_primary": true
+        },
+        {
+            "name": "大平　光子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "1 薬とはどのようなものか説明できる。\n2 薬の薬理作用について説明できる。\n3 医薬品の副作用、相互作用について説明できる。\n4 医薬品に関する法律の重要な事項について説明できる。\n5 医療現場で使用する医薬品の特徴と作用機序を説明できる。\n6 物質代謝に作用する薬物（ホルモン、ビタミン）の役割を理解し、それらと関係のある医薬品の特徴と作用機序を説明できる。\n7 患者に正しくかつ効果的に医薬品を用いるために必要な条件を説明できる。",
+    "overview": "臨床の場で遭遇する病態の臨床症状を改善するための薬物療法、薬理作用、治療効果と副作用について学ぶ。本授業では、各種疾患の治療に用いられる代表的な医薬品の薬理学的特徴、薬剤の有効性と安全性について理解する。授業を通して、各疾患の治療に用いられる代表的な医薬品の薬理学的特性、薬剤の有効性と安全性を踏まえた医薬品の使用上の留意事項、副作用に関する知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　専門基礎　薬理学",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "筆記試験100％\n中間試験及び期末試験の合計を100点換算し60点以上を合格とします。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "現代医学の進歩と活用に不可欠な薬について講義しますので、看護と結び付けて理解を深めてください。\n（予習45分　復習45分）\n\n【オフィスアワー】 \n非常勤講師のため、質問や疑問は担当講師が提示するメールに連絡してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "薬理学を学ぶにあたって",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "薬理学の基礎知識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "薬理学の基礎知",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "抗感染症薬（１）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "抗感染症薬（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "抗がん薬",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "抗アレルギー薬・抗炎症薬",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "第1回～7回振り返り・総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "末梢での神経活動に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中枢神経系に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "循環器系に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "循環器系に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "呼吸器・消化器・生殖器・泌尿器系に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "物質代謝に作用する薬物",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "皮膚科用薬・眼科用薬",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月3日（月）3時限\n試験実施方法は第1回授業で周知します。\n中間試験も実施します。中間試験日程は第1回授業及び授業内で周知します。",
+            "teaching_methods": [],
+            "teachers": [
+                "嶋本　顕"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

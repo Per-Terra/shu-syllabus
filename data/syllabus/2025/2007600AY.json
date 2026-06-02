@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:28Z",
+    "fetched_at": "2026-06-02T11:54:54Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AY",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -51,7 +51,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具、ノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "発表内容やその理解度に応じて評価する。",
     "evaluation_ratio": {
@@ -88,5 +88,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

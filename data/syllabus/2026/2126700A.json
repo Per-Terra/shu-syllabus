@@ -1,0 +1,260 @@
+{
+    "fetched_at": "2026-06-02T12:00:10Z",
+    "name_ja": "人間とロボットの共生",
+    "name_en": "Human-Robot Symbiosis",
+    "syllabus_number": "2126700A",
+    "course_number": "31-3-23-32-04",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "河村　拓実",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．\tロボットシステムの基本構成(センサー要素、駆動系要素、知能・制御系要素)および相互の関連が理解できる。\n２．\t人間とロボットシステムとの共生デザインの観点が理解できる。\n３．\t実装にあたり、どのようなツールを使えばよいか理解できる。",
+    "overview": "AI・機械学習などの知能化技術の発展に伴い、真に人間の役に立つロボット応用技術の社会実装の期待が高まる一方で、人間と知能化ロボットとのミスマッチともいえる問題も発生している。本授業ではまず、ロボットを核とするシステムの構築に関連するプラットフォーム技術について、次に人間-ロボットを有機的なひとつの系として捉え、多角的な観点から人間とロボットのより良い関わり合いを追求してゆく観点について、それぞれ解説する。これらを通して、アイデアの具現化と多角的な評価のための技術・知識を学び、ロボット関連技術を応用した次世代のサービスを創造してゆく基礎となる能力を身につける。",
+    "diploma_policies": [
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "人と機械の共生のデザイン",
+            "publication_year": 2012,
+            "author": "稲垣敏之",
+            "publisher": "森北出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "プログラミングROS",
+            "publication_year": 2017,
+            "author": "Morgan Quigley他著、河田卓志監訳",
+            "publisher": "オライリー・ジャパン",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "詳解 OpenCV3",
+            "publication_year": 2018,
+            "author": "Adrian Kaehler他著、松田晃一他訳",
+            "publisher": "オライリー・ジャパン",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "UXデザインの教科書",
+            "publication_year": 2016,
+            "author": "安藤昌也",
+            "publisher": "丸善出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "Fusion360 マスターズガイド",
+            "publication_year": 2019,
+            "author": "小原照記、藤村祐爾",
+            "publisher": "ソーテック社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコン",
+        "other": "【教科書】指定せず、資料を配布します。【参考書】その他、適宜講義資料で紹介します。"
+    },
+    "grading_criteria": "1.ロボットの基本構成についての理解、2.人間との共生デザインについての理解、3.ロボット関連システムを実装するツールについての理解、を以下により評価します。\n\nグループワーク課題(プレゼンテーション)70％(内訳は、グループワーク課題関連をその他として30％、プレゼンテーション関連を発表・実技として40％とします)、期末レポート30％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "既存の様々なハード・ソフトの部品を適切につなぎ合わせてゆくことで、素早いプロトタイピングと評価とが可能となってきています。ロボット関連技術を応用した次世代のサービスを創造してゆくには、便利なツールが有している様々な部品について把握し、アイデアの具現化のための技術的な引き出しを増やすことが重要です。授業の進捗状況や受講学生の理解度などを考慮し、適宜順序や内容の変更等を行うことがあります。その場合には事前に告知します。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。\n【予習・復習】講義では幅広く技術・知識を俯瞰的に解説するため，予習は全体概要について(30分～1時間を想定)，復習は個々について(1～2時間を想定)行い，技術・知識の定着を進めてください．",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ロボットシステムの基本構成と人間との関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "プラットフォームとしてのROS",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "センサー要素・駆動系要素とROS",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "知能・制御系要素とROS",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ユーザーインタフェース",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "OpenCVとの連携",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ゲームエンジンとの連携",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ハードウェアの3Dモデリング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "グループワーク①：プロトタイプの構想設計",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "プレゼンテーション①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ユーザエクスペリエンスと知能化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "人間の情報処理過程と機能配分",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "検証機を用いた評価手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "グループワーク②：人間との共生に向けたプロトタイプの改善",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "河村　拓実"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

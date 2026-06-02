@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2025-04-07T11:02:27Z",
+    "fetched_at": "2026-06-02T11:57:00Z",
     "name_ja": "ICT活用と地域課題解決",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2030000A",
     "course_number": "1",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,8 +42,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "1.\t地方創生とDX推進にあいだにある関連性の理解\n2.\t先行事例ひとつひとつの理解\n3.\t先行事例の基底となっている現象の理解",
     "evaluation_ratio": {
@@ -208,5 +208,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

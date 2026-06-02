@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:21Z",
+    "fetched_at": "2026-06-02T11:52:52Z",
     "name_ja": "発達心理学",
     "name_en": "Developmental Psychology",
     "syllabus_number": "1003300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -59,7 +59,7 @@
             "心理学概論Ⅰ・Ⅱ"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。※上記の他にも、講義の中で適宜紹介します。"
     },
     "grading_criteria": "到達目標に記載されている内容について「学生に対する評価」で評価する。\n※その他は、授業内における発言の質やグループワークへの関与の仕方を評価する。",
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

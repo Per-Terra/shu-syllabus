@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:08:10Z",
+    "fetched_at": "2026-06-02T11:59:13Z",
     "name_ja": "保健体育科教育法Ⅱ",
     "name_en": "Educational Method for Health and Physical Education II",
     "syllabus_number": "7001500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
@@ -43,8 +43,8 @@
             "保健体育科教育法Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "授業運営において求められる知識・技能や実践力を習得しているとともに、学習指導要領の内容・目的に則した保健体育科の学習指導案を作成することができているかに関して、以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
@@ -209,5 +209,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

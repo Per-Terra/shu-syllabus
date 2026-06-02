@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:56:25Z",
+    "name_ja": "保健医療と福祉",
+    "name_en": "Helth and sociall services",
+    "syllabus_number": "2029700A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "is_primary": true
+        },
+        {
+            "name": "山岡　幸子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本科目では、相談援助活動において必要になる医療保険制度や保健医療サービスについて理解するとともに、終末期ケアにおける心理・社会的なケアについての基礎的な知識を習得することを目指す。到達目標は以下の通りである。\n①わが国における医療保険制度の概要について説明することができる。\n②保健医療サービスにおける社会福祉専門職の役割を説明することができる。\n③保健医療サービスにおける多職種協働の意義及び方法について説明することができる。",
+    "overview": "社会福祉・介護福祉の専門職として必要とされる保健医療サービス及び終末期ケアに関する知識を習得することを目指す。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "保健医療と福祉【第2版】",
+            "publication_year": 2025,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟編集",
+            "publisher": "中央法規出版",
+            "price": 2970,
+            "isbn": "978-4-8243-0156-7",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書",
+        "other": "なし"
+    },
+    "grading_criteria": "①医療保険制度の理解度\n②多職種協働についての理解度\n③保健医療領域における支援の実際の理解度",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 20,
+        "report": 10,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "保健医療サービスにおいては、特に医療保険制度が複雑なので、枠組みを理解できるようにしてください。予習は教科書の該当部分を熟読してください（2時間程度）。復習は授業で出てきたキーワードをノートに整理してください（2時間程度）。\nオフィスアワーは講義のある日です。不在時はメールで対応します。",
+    "schedule": [
+        {
+            "number": "第１回",
+            "content": "オリエンテーション：授業の進め方\n人生の最終段階にある人のこころとからだのしくみ①\n終末期における身体的側面の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第2回",
+            "content": "人生の最終段階にある人のこころとからだのしくみ②\n終末期における心理的側面の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第3回",
+            "content": "人生の最終段階にある人のこころとからだのしくみ③\n終末期における社会的側面の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第4回",
+            "content": "人生の最終段階にある人のこころとからだのしくみ④\n終末期にある利用者に対する専門的な支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第5回",
+            "content": "人生の最終段階にある人のこころとからだのしくみ⑤\n終末期ケアにおける各専門職の役割と実際（1）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第6回",
+            "content": "人生の最終段階にある人のこころとからだのしくみ⑤\n終末期ケアにおける各専門職の役割と実際（２）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "山岡　幸子"
+            ]
+        },
+        {
+            "number": "第7回",
+            "content": "医療費の保障",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第8回",
+            "content": "地域包括ケアシステム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第9回",
+            "content": "医療ソーシャルワーカーの歴史と業務の枠組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第10回",
+            "content": "医療ソーシャルワーカーの業務内容",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第11回",
+            "content": "医療保険制度と診療報酬制度の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第12回",
+            "content": "介護保険制度と介護報酬の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第13回",
+            "content": "チームケア実現のための制度や連携機関・団体",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第14回",
+            "content": "保健医療ネットワーク構築のための連携方法と基礎知識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第15回",
+            "content": "地域ケアネットワークの実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "第16回",
+            "content": "期末テスト　8月5日（水）13：00～14：00　S1301 教室",
+            "teaching_methods": [],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

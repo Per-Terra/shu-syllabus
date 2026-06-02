@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:06Z",
+    "fetched_at": "2026-06-02T11:54:38Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AE",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -42,7 +42,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "卒業論文作成に向けて、学生が選択したテーマにしたがった文献を紹介し、精読します。"
     },
     "grading_criteria": "ⅰ）社会福祉領域に関わる問題について、研究テーマを設定することができた。\nⅱ）研究の進め方について理解できた。",
@@ -108,5 +108,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:57:33Z",
+    "fetched_at": "2026-06-02T11:54:15Z",
     "name_ja": "総合英語初中級ⅡHS-1",
     "name_en": "Comprehensive English Low-Intermediate II",
     "syllabus_number": "1102300G",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -270,5 +270,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

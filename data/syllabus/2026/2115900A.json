@@ -1,0 +1,162 @@
+{
+    "fetched_at": "2026-06-02T11:59:04Z",
+    "name_ja": "コミュニケーションスキル",
+    "name_en": "Communication Skill",
+    "syllabus_number": "2115900A",
+    "course_number": "22-3-21-21-01",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "羽生　貞親",
+            "is_primary": true
+        },
+        {
+            "name": "大達　亮",
+            "is_primary": false
+        },
+        {
+            "name": "岡田　昌也",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．自分自身のコミュニケーションスキルの特徴について説明できる。\n２．効果的なコミュニケーションを行うための自分自身の課題について説明できる。\n３．医療場面におけるコミュニケーションエラーの原因と対策について説明できる。",
+    "overview": "本授業では、これまでの生活場面や看護学実習等を通して、自分自身のコミュニケーションの特徴を振り返り、3 年後期からの実習に向けて必要なコミュニケーションスキルについて学修する。\n本授業では、個人ワークおよびグループワークを通して、自分自身のコミュニケーションの特徴を理解し、さらに今後の実習場面で必要となるコミュニケーションスキルを理解する。\n本授業を通して、これからの看護学実習において、必要となるコミュニケーションスキルを身につける。",
+    "diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP5"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "必要な資料や書籍については適宜紹介する"
+    },
+    "grading_criteria": "授業内の課題および期末レポート",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "各看護領域の臨地実習において必要となるコミュニケーションについて学修します。積極的にグループワークに参加してくれることを期待しております。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日（不在時はメールで受け付けます。）\n\n初回の授業は5月13日（水）、以降は5/20、5/27、6/3、6/10、6/17、6/24、7/1に行う。\n全て1限。\n\n3年後期からの実習に向けて、コミュニケーションスキルを高めたいと思っている人は受講してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "対人コミュニケーションの仕組みと技法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "自身のコミュニケーションスキルの状況（個人ワーク）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "自身のコミュニケーションスキルの状況（GW）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "自身のコミュニケーションスキルの状況（グループ別発表）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "効果的なコミュニケーションスキル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大達亮"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "コミュニケーションエラーが引き起こす医療事故",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "コミュニケーションエラーが引き起こす医療事故（GW）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "コミュニケーションエラーが引き起こす倫理的問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽生貞親",
+                "大達亮",
+                "岡田昌也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "看護師としての実務経験を持つ担当教員が、臨床現場で必要となるコミュニケーションスキルについて講義する。"
+}

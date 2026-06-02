@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:28Z",
+    "fetched_at": "2026-06-02T11:59:10Z",
     "name_ja": "社会福祉学",
     "name_en": "Social Welfare",
     "syllabus_number": "2114800A",
@@ -8,20 +8,16 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
             "name": "永野　典詞",
-            "is_primary": true
-        },
-        {
-            "name": "大平　光子",
             "is_primary": false
         }
     ],
@@ -43,10 +39,10 @@
         {
             "title": "系統看護学講座　専門基礎分野　健康支援と社会保障制度３　社会保障・社会福祉　最新刊",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],

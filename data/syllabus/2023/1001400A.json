@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:30Z",
+    "fetched_at": "2026-06-02T11:52:39Z",
     "name_ja": "外国史Ⅰ",
     "name_en": "Foreign History I",
     "syllabus_number": "1001400A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:00:25Z",
+    "fetched_at": "2026-06-02T11:53:55Z",
     "name_ja": "システム思考・デザイン思考（ａ）／デザインシンキング",
     "name_en": "Design Thinking",
     "syllabus_number": "1011900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "author": "デイヴィッド・ケイー、トム・ケリー、千葉敏生（翻訳）",
             "publisher": "日経BP",
             "price": 2090,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -55,7 +55,7 @@
             "アントレプレナーシップ入門"
         ],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "個人およびチーム課題の提出状況によって【レポート（30%）、ポートフォリオ（20%）】を評価します。最終発表の内容と発表に至る取り組み姿勢を【発表・実技（30%）】として評価します。チームワークにおける能動性や主体性などを【その他（20%）】として評価します。",
     "evaluation_ratio": {
@@ -231,5 +231,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

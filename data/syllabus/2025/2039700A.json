@@ -1,0 +1,236 @@
+{
+    "fetched_at": "2026-06-02T11:57:48Z",
+    "name_ja": "租税論",
+    "name_en": "Tax Theory",
+    "syllabus_number": "2039700A",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n新聞やテレビなどで経済問題や財政に関わるニュース等を見聞きし、授業で学んだことと関連付けて自分で考えることができるようになる。",
+    "overview": "租税論では財政を支える財源である租税について、その必要性や理論、また各租税についての制度やその背景となる理論や現状などについて理解・修得することを目標とする。また、今後の租税制度のあり方についても検討・評価できるようになることも目標とする。まず、租税思想や租税原則などについて教授したうえで、所得税・法人税・消費税などの基幹税についてその特徴や租税論上の意義、日本や諸外国における制度などを概観する。また、タックスヘイブンの問題やグローバル課税など近年話題となっている分野についても取り上げる。講義形式での学びを基本とするが、積極的な質問や学生同士の議論なども促し、主体的に学べるように創意工夫を行う。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "財政学",
+            "publication_year": 2025,
+            "author": "石田和之、野村容康",
+            "publisher": "成文堂",
+            "price": 3300,
+            "isbn": "978-4-7923-4270-8",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "【新版】要説：日本の財政・税制",
+            "publication_year": 2022,
+            "author": "井堀利宏",
+            "publisher": "税務経理協会",
+            "price": 4950,
+            "isbn": "978-4-419-06835-6",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "財政学"
+        ],
+        "required_materials": "筆記用具、ノート、授業で使う印刷したパワーポイント",
+        "other": "経済学部2021年度以前入学の学生は、「財政学」及び「租税論」の両方の単位を修得することで、「財政学（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "(ⅰ) 租税の意義・役割への理解、(ⅱ) 各税目の制度・特質への理解、(ⅲ) 税制に関する問題点の把握・議論、について小テストや振り返りシート（レポート）で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 30,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "税について、皆さんはどのような感想を持っているでしょうか？おそらく、ポジティブな感情を持っている人は少なくないのでは ないかと思います。本講義ではそんな「税」について、その意義や役割を理解し、現代における税のあり方について考えるきっかけ を提示します。一方的に「払わされている」と感じている税について、じっくりと本講義を通じて考えてみてください。授業の進行は内容によって適宜調整しますので、シラバスで提示した授業が前後する場合があります。\n【予習・復習について】\n新聞を読むなど毎日30分程度は必要です。また、講義内容について、毎講義後に復習して下さい（60～90分）。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "租税の意義と仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "日本の租税体系と税収構造➀／国税と地方税の体系",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "日本の租税体系と税収構造➁／租税構造の形成過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "所得税①／所得税の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "所得税②／103万円の壁",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "所得税③／所得税の論点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "消費税①／消費税の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "消費税②／インボイス制度",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "法人税①／法人税の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "法人税②／法人税の意義・中立的な法人課税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "国際課税／国際課税原則と二重課税問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "資産課税／ノルウェーの富裕税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "税制改革①／包括的所得税・支出税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "税制改革②／二元的所得税＋小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

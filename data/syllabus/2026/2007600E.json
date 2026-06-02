@@ -1,0 +1,361 @@
+{
+    "fetched_at": "2026-06-02T11:54:40Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600E",
+    "course_number": "11-3-31-11-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本ゼミでは、都市・地域の課題に対して、現状を把握し、その解決方法を探るための基礎的知識や論理的思考、他者とのコミュニケーション等について習得することを目指す。\n【到達目標】\n①経済学的な視点で身の回りの課題をとらえ、データ収集、文献整理、仮説の提示・検証など論文作成に必要なスキルを身につける\n②論理的な思考に基づき、他者と適切にコミュニケーションを図るとともに、自分の考えを文章化し発表することに慣れる",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。専門ゼミⅠでは、講義や文献の輪読等により専門分野の基礎的な知識の修得を行う。また、公的セクターや民間企業等の現場を訪問や、データ収集、文献の整理、仮説の提示・検証の手法の学修を通じ、興味のある分野を探りつつ、各自が興味をもつテーマに関するレポートを取りまとめる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、筆記用具",
+        "other": "参考図書は授業で案内する"
+    },
+    "grading_criteria": "輪読など毎回の発表、訪問調査等における主体的・率先的な学びや取組みの姿勢（20％）、年度末のレポート作成（40％）、発表（40％）により評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "専門ゼミⅠでは、参考文献から基礎となる知識を学習するとともに、公的機関や企業等の「現場」等への訪問調査を行い、自分の興味を持つことできる分野を探ります。また延長線上で、卒業論文として取り組む研究テーマの入り口部分の内容を３年次研究レポートとしてまとめていきます。何事も興味をもって調べたり、データ収集を行いましょう。テーマの絞込みにあたっては十分話し合いをしながら進めることとします。\n　４年次の卒業論文執筆に向けた土台を養成するためには、一定の自習時間（1日２時間を目安に）確保することが重要となります。\n※オフィスアワー\n　毎週火曜日昼休み（12:20～12:50）\n　出張・会議等で不在の可能性もあるため事前予約をしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、年間予定の確認\n研究希望分野についての意見交換",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "参考文献の輪読（１）\n都市・地域の課題等（ア）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "参考文献の輪読（２）\n都市・地域の課題等（イ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "参考文献の輪読（３）\n都市・地域の課題等（ウ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "参考文献の輪読（４）\n訪問調査の準備等（a）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "参考文献の輪読（５）\n訪問調査の準備等（b）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "参考文献の輪読（６）\n訪問調査の準備等（c)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "参考文献の輪読（７）\n訪問調査の準備等（d）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "参考文献の輪読（８）\n訪問調査の準備等（e）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "参考文献の輪読（９）\n訪問調査の準備等（f）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "訪問調査\n（参考文献の輪読、訪問調査の準備またはまとめ等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "訪問調査（予備）\n（参考文献の輪読、訪問調査の準備またはまとめ等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "訪問調査（予備）\n（参考文献の輪読、訪問調査の準備またはまとめ等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "訪問調査（予備）\n（参考文献の輪読、訪問調査の準備またはまとめ等）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "前期のまとめ、夏季休業中の課題等",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "後期オリエンテーション、活動状況報告等",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "参考文献の輪読（１０）\n論文検索・レジュメ作成の方法等①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "参考文献の輪読（１１）\n論文検索・レジュメ作成の方法等②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "参考文献の輪読（１２）\n論文検索・レジュメ作成の方法等③",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "参考文献の輪読（１３）\n分析手法の紹介（Ａ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "参考文献の輪読（１４）\n分析手法の紹介（Ｂ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "参考文献の輪読（１５）\n分析手法の紹介（Ｃ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "参考文献の輪読（１６）\n研究テーマの検討・準備（ⅰ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "参考文献の輪読（１７）\n研究テーマの検討・準備（ⅱ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "参考文献の輪読（１８）\n研究テーマの検討・準備（ⅲ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "参考文献の輪読（１９）\n研究テーマの検討・準備（ⅳ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "参考文献の輪読（２０）\n研究テーマの検討・準備（ⅴ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "レポート発表会 Ⅰ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "レポート発表会 Ⅱ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "レポート発表会 Ⅲ\nまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "地方公共団体での勤務経験を踏まえ、事例を交えて演習を行う。"
+}

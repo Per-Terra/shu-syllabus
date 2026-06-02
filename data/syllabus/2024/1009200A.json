@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:44Z",
+    "fetched_at": "2026-06-02T11:53:25Z",
     "name_ja": "キャリアプランニング基礎",
     "name_en": "Career planning basics",
     "syllabus_number": "1009200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "坂本　勲",
@@ -49,7 +49,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "授業内でアップロードする資料を使用して授業を行います。"
     },
     "grading_criteria": "業界、職種、企業研究を行ったうえでのキャリアプランニング計画が作成できているか。各自が志望する業界、企業の分析ができているか。",
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

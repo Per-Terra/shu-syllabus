@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:01:54Z",
+    "fetched_at": "2026-06-02T11:57:03Z",
     "name_ja": "刑事司法と福祉",
     "name_en": "Forensic Social Work",
     "syllabus_number": "2028800A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -54,7 +54,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書及び事前配付資料",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "定期試験60％、小テスト40％で評価します。",
     "evaluation_ratio": {
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:22:27Z",
+    "fetched_at": "2026-06-02T11:57:53Z",
     "name_ja": "金融論",
     "name_en": "Theory of Monetary Finance",
     "syllabus_number": "2043700A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -66,7 +66,7 @@
             "ファイナンス入門"
         ],
         "required_materials": "必要に応じて電卓",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "試験：60％、小テスト：40％にて評価します。",
     "evaluation_ratio": {

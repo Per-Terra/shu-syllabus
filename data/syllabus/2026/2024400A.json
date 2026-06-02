@@ -1,0 +1,236 @@
+{
+    "fetched_at": "2026-06-02T11:55:56Z",
+    "name_ja": "認知心理学Ⅰ",
+    "name_en": "Cognitive psychology Ⅰ",
+    "syllabus_number": "2024400A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "梨和　ひとみ",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(ⅰ)人間の知的な情報処理システムについて，基礎的な内容を説明することができる。\n(ⅱ)認知心理学的な研究の方法論について説明することができる。\n(ⅲ)(ⅰ)(ⅱ)の知識に基づき，日常場面における私たちの行動をよりよく理解することができる。\n(iv) (i)～(iii)を通じて，日常生活の中から疑問を発見し，認知心理学的に検討するセンスを養う。",
+    "overview": "「認知心理学」は、心理学の中では比較的新しい分野です。1950年代後半以降に「情報科学」の影響を受けて生まれました。人間を一つの「情報処理システム」と捉えることで人間の心的活動を明らかにしています。\n「認知心理学」の研究対象は多岐にわたり、「注意」「記憶」「思考」「表象」「推論」「意思決定」など、人間の高次の知的活動を対象としています。授業では、認知心理学の研究手法や、それによって明らかになった知見を学ぶことを通して、私たちの心的活動を科学的に捉える視点を獲得します。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "グラフィック　認知心理学",
+            "publication_year": 2011,
+            "author": "森　敏明／井上　毅／松井　孝雄　（共著）",
+            "publisher": "サイエンス社",
+            "price": 2640,
+            "isbn": "4-7819-0776-8",
+            "available_on_campus": false
+        },
+        {
+            "title": "認知心理学の冒険ー認知心理学の視点から日常生活を捉える",
+            "publication_year": 2013,
+            "author": "兵藤　宗吉／野内　類（編著）",
+            "publisher": "ナカニシヤ出版",
+            "price": 2970,
+            "isbn": "978-4-7795-0768-7",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "心理学",
+            "心理学概論"
+        ],
+        "required_materials": "PC",
+        "other": "なし"
+    },
+    "grading_criteria": "(ⅰ)基礎知識の獲得、(ⅱ)研究方法の理解、(ⅲ)日常場面への応用、(ⅳ)問題発見 の四点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 10,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "「認知心理学」は、普段私たち人間が何気なく行っている活動（行動、心的活動、知的活動）が、どのようなメカニズムで成り立っているのか、なぜそのようなメカニズムが働くのかなどを、科学的手法を用いて明らかにしています。「なぜ」「どのように」を知ると、日々の生活が楽しくなります。認知心理学Ⅰでは、「注意」と「記憶」の話が中心となります。\n基礎的事項は講義形式で解説しますが、簡単な実験や心理検査など実習的課題を通して、理解を深めます。授業の始めに、前回の復習テストを実施します。ノートをとってください。毎回、コメントカードを書いていただきます。質問などに対しては、次回フィードバックします。\n\n【予習・復習について】\n各回で実施する内容についてまとめることで知識を定着させてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション：認知心理学とはどんな学問か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "記憶の仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "情報の検索と忘却",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "概念と言語",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "知識と表象",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "イメージと空間の情報処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "認知の制御過程",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "文章の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "文章の記憶",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "推理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "問題解決",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "日常世界と認知心理学ー　目撃証言",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "発達の理解に役立つ認知心理学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "精神科臨床と認知心理学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "発達障害と認知心理学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梨和　ひとみ"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

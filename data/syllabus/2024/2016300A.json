@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:32Z",
+    "fetched_at": "2026-06-02T11:55:55Z",
     "name_ja": "社会保障Ⅱ",
     "name_en": "Social Security II",
     "syllabus_number": "2016300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "難波　利光",
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて資料などを配布する。"
     },
     "grading_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
@@ -207,5 +207,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

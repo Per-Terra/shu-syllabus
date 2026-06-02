@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:01:37Z",
+    "fetched_at": "2026-06-02T11:56:53Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅱ",
     "name_en": "Theory and Method of Social WorkⅡ",
     "syllabus_number": "2027600A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

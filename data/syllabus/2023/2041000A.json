@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:21:30Z",
+    "fetched_at": "2026-06-02T11:57:38Z",
     "name_ja": "福祉職協働演習",
     "name_en": "Welfare worker collaboration exercise",
     "syllabus_number": "2041000A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,10 +42,10 @@
         {
             "title": "配布資料にて授業を展開する",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -53,10 +53,10 @@
         {
             "title": "必要に応じて紹介する",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -64,7 +64,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①事例に取り上げた施設・社会福祉事業所の機能を説明できる\n②グループメンバーと協働することができる\n③グループで検討した結果を発表することができる\nこの3項目を下記の「学生に対する評価」に沿って評価する。「その他」は演習における取り組み方を評価する。",
     "evaluation_ratio": {
@@ -245,5 +245,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

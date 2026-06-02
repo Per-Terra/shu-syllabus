@@ -1,0 +1,226 @@
+{
+    "fetched_at": "2026-06-02T11:53:06Z",
+    "name_ja": "AI・データサイエンス実践",
+    "name_en": "AI and Data Science Practice",
+    "syllabus_number": "1010000A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本授業ではAI・データサイエンス実践として、画像認識技術について学ぶ。画像認識技術はAIによる自動運転に代表されるように、様々な分野での応用が進み、主要な技術の一つとなってきている。授業では主に、画像認識技術で必要となる知識であるディジタル画像の基礎、空間フィルタリングなどの各種画像処理手法、画像認識で重要な役割を担う特徴抽出、機械学習について修得する。また、上記のようなHand-crafted特徴量を用いた従来型技術に加えて、特徴抽出過程を自動獲得する深層学習を用いた画像認識の基礎を修得する。画像処理や画像認識の数学的理論にも触れるため、これが理解できる相応の数学力を求める。\n\n【到達目標】\n①ディジタル画像の基礎知識および画像処理基礎知識について理解できる。\n②種々のHand-crafted特徴量および機械学習法について理解できる。\n③畳み込みニューラルネットワークの基礎について理解できる。",
+    "overview": "授業は講義形式で進行します。配布資料は全て英語となるため、英語に自信のない学生は単位取得に相当の努力を要することになります。また、演習も取り入れており、画像処理や画像認識の実践に取り組んでもらいます。演習ではプログラミングが必須となりますので注意してください。「Python入門」「Python演習」「プログラミング」の履修が必須となります。また、微積、線形代数、確率統計の知識が必要となるため、「数学」「応用数学」「心理統計学」の履修も必須です。",
+    "diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "ディジタル画像処理[改訂第二版]",
+            "publication_year": 2020,
+            "author": "ディジタル画像処理編集委員会",
+            "publisher": "画像情報教育振興協会",
+            "price": 4290,
+            "isbn": "978-4-903474-64-9",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "Python入門",
+            "Python演習",
+            "プログラミング",
+            "数学",
+            "応用数学",
+            "心理統計学"
+        ],
+        "recommended": [],
+        "required_materials": "ノートPC（毎回持参するようにしてください）",
+        "other": null
+    },
+    "grading_criteria": "到達目標に挙げる 1. ディジタル画像の基礎知識および画像処理基礎知識についての理解　2. 種々のHand-crafted特徴量および機械学習法についての理解　3. 畳み込みニューラルネットワークの基礎についての理解　を「学生に対する評価」の内容により評価する。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "受講にあたり、次回の「授業の内容」を参照し、教科書該当ページを通読しておく (予習・30分程度)、授業終了後には、学んだ箇所の再読と提供資料の再確認を行い、知識を定着させてください(復習・30分程度)。授業の進捗状況や受講学生の理解度などを考慮して、適宜順序の変更や内容の一部省略・追加を行うことがあります。その場合には事前に告知します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "Image Input/Output Devices and Image Digitization",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Quantities Representing Image Properties; Color Spaces",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Brightness and Contrast Transformations; Color Image Transformations",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Exercise 1:\nVarious image transformations using image-processing software",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Geometric Transformations of Images",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Spatial Filtering",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Exercise 2:\nEdge detection by spatial filtering",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Binary Image Processing",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Motion Image (Video) Processing",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Overview of Image Recognition; General Object Recognition and Specific Object Recognition",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Overview of Feature Extraction; Hand-crafted Features",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Machine Learning (1): Boosting and Support Vector Machines",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Machine Learning (2): Deep Learning — Convolutional Neural Networks",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Exercise 3:\nImage recognition using hand-crafted features (Part 1)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "Exercise 4:\nImage recognition using hand-crafted features (Part 2)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

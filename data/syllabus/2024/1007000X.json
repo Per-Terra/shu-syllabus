@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:21Z",
+    "fetched_at": "2026-06-02T11:53:17Z",
     "name_ja": "地域ゼミ-1",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000X",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "清原　泰治",
@@ -50,7 +50,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定していません。必要に応じて文献やwebサイトの閲覧を指示します。"
     },
     "grading_criteria": "フィールドワークへの参加状況と、その報告となる「記録用紙」への記入内容を重視する。（50％）「記録用紙」の書式や記入方法などについては、第1回目の授業で指示する。\nレポートとして、振り返りシートへの記入内容を評価する。（30％）\n周南市役所での発表について、スライドの内容と発表の内容について評価する。（20％）",
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:59:29Z",
+    "fetched_at": "2026-06-02T11:53:41Z",
     "name_ja": "地域ゼミⅡ",
     "name_en": "Seminar for Community Revitalization Ⅱ",
     "syllabus_number": "1011800D",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "講義内で取り組む個人課題、グループ課題全て提出することで初めて評価対象となります。フリーライドしないいように（他人任せにならないように）主体的に学びを進めてください",
     "evaluation_ratio": {
@@ -50,7 +50,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,222 @@
+{
+    "fetched_at": "2026-06-02T11:57:59Z",
+    "name_ja": "生体情報分析",
+    "name_en": "Biological Information Analysis",
+    "syllabus_number": "2105600A",
+    "course_number": "31-3-25-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "日置　智子",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１． 生体信号計測の基本的な手法を理解し、説明できる。\n２． 得られた生体信号データを適切に処理し、分析することができる。\n３． 生体信号データの分析結果についてまとめ、発表することができる。",
+    "overview": "本授業では、ヒトの生体信号の計測およびデータ処理の手順とデータの分析方法について実践的に学ぶ。ヒトの様々な生体信号を適切に分析し、グループでのディスカッションを通じて分析結果をまとめ、最終的にプレゼンテーションを行うことで、課題解決につなげる能力を身に付けることを目標とする。加えて、実社会での実装例を学びながら、それらの重要性と社会的な必要性を理解する。",
+    "diploma_policies": [
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "生体情報システム"
+        ],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "１．生体信号計測の基本的な手法、２．生体信号データの処理方法、３．生体信号データの分析\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "授業に参加するにあたっては、 「生体情報システム」の内容をよく復習しておいてください。\n授業終了後には、授業時に配布した資料の重要箇所の再確認を行い(復習・30分程度)、次回の「授業の内容」を参照し、参考書等の該当箇所をよく読んでおきましょう(予習・30分程度)。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "運動計測およびデータ分析の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "基本的な運動の計測",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "運動計測データの処理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "運動計測データの分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "データの統計的処理の方法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "分析結果のまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "プレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "非侵襲生体計測装置の測定原理と測定試行",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "諸要因を変化させた条件下での測定実践",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "測定データの分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "分析結果のまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

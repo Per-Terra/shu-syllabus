@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:21Z",
+    "fetched_at": "2026-06-02T11:53:07Z",
     "name_ja": "データサイエンス入門(a)(b)",
     "name_en": "Introduction to data science",
     "syllabus_number": "1008300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         "recommended": [
             "情報リテラシー"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "関連科目:統計学基礎、統計学、福祉統計学、心理統計学、数学"
     },
     "grading_criteria": "下記の3つの項目において、試験、レポート、発表・実技の評価点をもとに、概ね6割以上到達している者を合格とする。\n(ⅰ) データサイエンスが、社会でどのように活用され新たな価値を生んでいるかを理解することができるようになった。\n(ⅱ) 社会の実データ・実課題を適切に読み解き、判断できるようになった。\n(ⅲ) 基礎的な分析の手法を、表計算ソフトを用いて実行できるようになった。",
@@ -242,5 +242,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

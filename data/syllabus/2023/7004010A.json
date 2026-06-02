@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:24:41Z",
+    "fetched_at": "2026-06-02T11:58:27Z",
     "name_ja": "剣道Ⅰ",
     "name_en": "Kendo I",
     "syllabus_number": "7004010A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,7 +39,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "必要に応じて資料を配付する。"
     },
     "grading_criteria": "（ⅰ）知識の習得、（ⅱ）技能の習得、（ⅲ）初心者指導の実践 の三点について、⑪に示す方法で評価する。",
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

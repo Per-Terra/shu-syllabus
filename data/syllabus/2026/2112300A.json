@@ -1,0 +1,221 @@
+{
+    "fetched_at": "2026-06-02T11:58:41Z",
+    "name_ja": "野外教育論",
+    "name_en": "Outdoor Education & Outdoor Activity",
+    "syllabus_number": "2112300A",
+    "course_number": "21-3-25-21-04",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "三原　善伸",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）野外教育及び野外活動や野外生活の意義、教育的効果の知識を身に着ける。\n（２）自然環境の中での危機管理と自然環境保護の知識、野外活動の技術を身に着ける。",
+    "overview": "本授業は、野外教育の概念や意義、教育的価値を学ぶことを目的とし、実際の活動を通した学びである体験学習によって行われる野外教育の特性を理解すること、および野外教育における指導者の資質やリスクマネジメントについて理解することをねらいとしている。授業では体験学習について学ぶとともに、国内外の野外教育に関する理論から野外教育の概念や意義、教育的価値、学校教育における自然体験活動の位置付けについて学修する。また、指導者としてのあり方や自己表現・コミュニケーション、対象理解、リスクマネジメントについても学修する。 到",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "キャンプ指導者入門",
+            "publication_year": null,
+            "author": "公益社団法人日本キャンプ協会",
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "特に無し"
+        ],
+        "recommended": [],
+        "required_materials": "校庭において自然観察を行う場合があるので帽子を準備すること。",
+        "other": "授業にあたり予習・復習を1時間行うこと。課題提出を求める場合がある。"
+    },
+    "grading_criteria": "課題等の提出物20％ 授業態度30％ 定期試験50％",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "人は自然と共存しなければ生きて行けない。自然の素晴らしさを共に探求しましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション 授業のテーマ、目標、進め方、成績評価について説明する。野外教育、野外体験活動の歴史について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "野外教育活動の意義、目的、効果",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "野外活動から学ぶ環境教育",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "自然体験活動（キャンプ）のルールやマナー",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "人間と自然との関係、古代から今日",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "野外教育と人間心理の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "地球規模の自然環境変化と人間の課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "野外教育活動（キャンプ）における指導者の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "指導者に求められるコミュニケーションスキル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "野外教育活動（キャンプ）におけるカウンセリング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "野外活動と安全管理 -Ⅰ 環境の中の危険",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "野外活動と安全管理 -Ⅱ 行動の中の危険",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "野外活動の技術 -Ⅰ 活動機材について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "野外活動の技術 -Ⅱ 自然観察の楽しみ方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "野外活動の技術 -Ⅲ 野外アクティビティ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "三原　善伸"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

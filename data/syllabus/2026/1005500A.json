@@ -1,0 +1,246 @@
+{
+    "fetched_at": "2026-06-02T11:52:55Z",
+    "name_ja": "水泳",
+    "name_en": "Swimming",
+    "syllabus_number": "1005500A",
+    "course_number": "21-2-27-11-01",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "山本　直史",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.水の特性を理解できる。\n2.プールや海で起こりうる安全を理解できる。\n3.水泳の基礎知識と基本四泳法を習得することを通じて、教育機関や施設などで指導できる。",
+    "overview": "水泳は、水の中で浮く、沈む、呼吸動作、潜る等の水中運動に必要な基礎能力を学修し、泳ぎの基本となる４泳法（クロール・背泳ぎ・平泳ぎ・バタフライ）の技術習得・向上を目指すとともに、水泳指導案の作成・実技を学修する。また、水泳の安全に関わる水中運動時の運動強度やそのコントロール法に関する知識や技術を習得する。本授業においては、「水泳」の授業や指導を行う際、4泳法における手と足の動き、呼吸動作、水中姿勢のバランスを保ち、安定したペースで長く泳いだり、速く泳いだり、水中運動と健康増進に関わる指導が出来ることを目指す。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "水泳指導教本",
+            "publication_year": 2022,
+            "author": "（財）日本水泳連盟",
+            "publisher": "大修館書店",
+            "price": 5500,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "水泳水中運動のカラクリとその指導‐科学的エビデンスにもとづくティーチングメソッド‐",
+            "publication_year": 2019,
+            "author": "合屋十四秋",
+            "publisher": "インプレスR&G",
+            "price": 2000,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "学校体育実技指導資料 第4集 ⽔泳指導の⼿引",
+            "publication_year": 2014,
+            "author": "⽂部科学省",
+            "publisher": "アイフィス",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "健康運動実践指導者養成用テキスト",
+            "publication_year": 2024,
+            "author": "健康・体力づくり事業財団",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "水着、スイミングキャップ、ゴーグル、タオルなど。水着はフィットネス用や競泳用を準備すること。海水パンツやビキニは不可。",
+        "other": "学外施設を使用する。日時や場所、費用など別途連絡を確認すること。"
+    },
+    "grading_criteria": "技能テスト(60%)、授業への取り組む姿勢(20%)、レポート(20%）から総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "水泳実技は、他の陸上種目の実技と異なり、水中で行われるため、安全に実技を行うことに留意して臨むこと。特に、睡眠不足や前日の過度な飲酒を避け、体調を整えてるようにしてください。また、持病等により運動制限がある場合や健康面で心配がある場合は、事前に担当教員に相談すること。\n 予習として、次回の内容を参考図書などで事前学習をしてください。また、日ごろから運動・スポーツに取り組み、心身と もに実技に臨む準備をしてください。復習として、授業内容を振り返り、ノートなどにまとめるようにしてください。予習と復習は、1回あたり60分以上行うこと。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "水泳における浮身、け伸び、ストリームラインの理解\n水泳における安全管理（水中運動時の運動強度やそのコントロール）について",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "水中レクリエーション及び水中運動と健康増進の理解（初心者への様々なアプローチ、水中歩行、アクアビクス）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "水中運動と健康増進の理解（水中歩行、水中レジスタンス）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "平泳ぎ基本姿勢の習得、平泳ぎの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "平泳ぎのキック、プル、呼吸法の習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "平泳ぎのコンビネーション、スタート、ターンの習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "クロールの基本姿勢の習得、クロールの指導方法",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "クロールのキック、プル、呼吸法の習得\nクロールのおけるコンビネーション、スタート、ターンの習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "泳法の習熟度確認、中間まとめ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "背泳ぎの基本姿勢の習得、キック、プル、呼吸法の習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "背泳ぎのコンビネーション、スタート、ターンの習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "バタフライの基本姿勢の習得、キック、プル、呼吸法の習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "バタフライのコンビネーション、スタート、ターンの習得",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "個人メドレーへの発展\n個人メドレーのターン習得、泳能力の向上",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "実技テスト（４泳法、個人メドレー）・水泳の模擬授業\n初心者グループ、初級者、クロール、平泳ぎ等の班に分かれ、先生役、補助役、生徒役に分かれて模擬授業を行う",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "山本　直史"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

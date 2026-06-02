@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:14Z",
+    "fetched_at": "2026-06-02T11:54:43Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AL",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "必携パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "各回の報告の内容（論文の要約・考察）: 40%\nディスカッションへの参加: 30%\nHCIに関する研究テーマの企画・発表: 30%",
     "evaluation_ratio": {
@@ -358,5 +358,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

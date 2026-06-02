@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:58Z",
+    "fetched_at": "2026-06-02T11:53:33Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700O",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,8 +42,8 @@
         "recommended": [
             "映像文化論"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "・「しゅうなんシネマ」のイベントの意義を理解し、その中で自分に何が出来るかを考え実践する・・・・30点\n・受講他者および図書館スタッフの方々と協調して活動ができる・・・・・・・・・・・40点\n・このイベント\nがどのように地域貢献にその役割を果たすのかを理解する・・・30点\n※その他は出席回数や授業やイベントでの発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {

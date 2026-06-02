@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:59:59Z",
+    "fetched_at": "2026-06-02T11:53:48Z",
     "name_ja": "地域ゼミⅡ",
     "name_en": "Seminar for Community Revitalization Ⅱ",
     "syllabus_number": "1011800O",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "EQトレーニングＩ"
         ],
         "required_materials": "筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(1)学会の円滑なサポート業務を行うことができる、(2)参加者の立場に立った積極的な支援をすることができる、(3) 問題発見・解決のための一連の活動を他者に報告・説明できることについて、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -212,5 +212,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

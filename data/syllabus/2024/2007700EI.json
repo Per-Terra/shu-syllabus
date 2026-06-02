@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:54Z",
+    "fetched_at": "2026-06-02T11:55:14Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EI",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "長澤　雅彦",
@@ -53,8 +53,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "卒業論文・卒業制作の完成・提出・・・・・・70点\n受講態度など・・・・・・・・・・・・・・30点\n※その他は出席回数や授業での発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {

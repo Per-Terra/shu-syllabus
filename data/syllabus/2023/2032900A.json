@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:19:45Z",
+    "fetched_at": "2026-06-02T11:57:11Z",
     "name_ja": "デザイン入門Ⅰ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2032900A",
     "course_number": "03DG101",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①自分たちの生活環境がすべてデザインされていることが理解できます。\n②デザインの基本的なルールを学びます。\n③色彩の仕組みを理論として学びます。\n④自分の生活スタイル、人生スタイルまでをデザインできるようになれば目標達成です。",
     "evaluation_ratio": {

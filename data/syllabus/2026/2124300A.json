@@ -1,0 +1,220 @@
+{
+    "fetched_at": "2026-06-02T11:59:54Z",
+    "name_ja": "子どもの保健",
+    "name_en": "Child　health",
+    "syllabus_number": "2124300A",
+    "course_number": "25-2-32-21-02、23-2-23-21-01",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "光武　きよみ",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "１．子どもの心身の健康増進を図る保健活動の意義を説明することができる\n２．子どもの身体的な発育・発達と保健について説明することができる\n３．子どもの心身の健康状態とその把握の方法について説明することができる\n４．子どもの疾病とその予防法及び多職種間の連携・協働の下での適切な対応について説明することができる",
+    "overview": "本授業の目的は、子どもの心身の健康増進を図る保健活動について理解し、安心安全な保育環境の下で、子どもの発育・発達を支援する方法を学ぶことである。そのために授業では、子どもの心身の健康と保健活動の意義、子どもの身体的発育・発達と保健、子どもの心身の健康状態とその把握方法、子どもの疾病とその予防法及び適切な対応について理解を深めていく。\n　この授業を通して、子どもの心身の健康増進に向けた①保健活動の意義、②身体的な発育・発達と保健との関連、③心身の健康状態とその把握方法、④疾病とその予防法及び多職種間の連携・協働の下での適切な対応、について学び、保育における保健活動の意義について理解する。\n　主に講義形式で授業を進めていくが、学生の主体的な学びも重視して授業を進めていきたい。これまでの学生自身の経験や自ら調べたこと等を授業内で共有しながら、授業内容の定着が図れるようにしたいと考えている。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "新基本保育シリーズ　子どもの保健",
+            "publication_year": 2019,
+            "author": "公益財団法人　児童育成会協会　監修",
+            "publisher": "中央法規",
+            "price": 2200,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "１．保育における保健活動の意義、２．子どもの発育・発達についての基本、３．子どもの疾病の特徴とその予防・対処法、４．多職種間との連携・協働\n　上記１～４に関する理解度を以下の「学生に対する評価」により評価する。\n　筆記試験50%、小テスト20%、課題レポート30%\n\n【オフィスアワー】\n講義のある曜日　不在時はメール等で受け付けます。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 20,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "当日の復習および次回のシラバス内容を確認して予習を行いましょう。そして、子どもに関連したニュースや番組などを見るように心がけましょう。\n予習復習の学習時間は合わせて240分程度。\n\n【オフィスアワー】\n講義の前後に受付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "生命の保持と情緒の安定に係る保健活動の意義と目的",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "健康の概念と健康指標",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "子どもの健康に関する現状と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "地域における保健活動と子どもの虐待防止",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "身体的発育及び運動機能の発達と保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "生理機能の発達と保健",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "子どもの健康状態の観察および心身の不調等の早期発見",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "発育、発達の把握と健康診断",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "保護者との情報共有",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "子どもの主な疾病の特徴①\n新生児の病気、先天性の病気",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "子どもの主な疾病の特徴②\n循環器、呼吸器、血液、消化器の病気",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "子どもの主な疾病の特徴③\nアレルギー、免疫、腎泌尿器、内分泌の病気",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "子どもの主な疾病の特徴④\n脳の病気、その他の病気",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "子どもの主な疾患の特徴⑤\n感染症、子どもの疾病予防と適切な対応",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "安心安全な保育環境、まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "光武　きよみ"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "子どもの保健　光武きよみ"
+}

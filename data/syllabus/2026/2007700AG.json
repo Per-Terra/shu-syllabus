@@ -1,0 +1,371 @@
+{
+    "fetched_at": "2026-06-02T11:54:55Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AG",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①専門ゼミⅠで実施した調査結果を分析できる。\n②調査結果を踏まえて卒業論文を完成させることができる。",
+    "overview": "本授業では、専門ゼミⅠで実施した調査に基づいて結果を整理し、卒業論文を完成させる。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": "PC",
+        "other": "必要な資料は適宜配付する。必要な書籍については授業中に指示する。"
+    },
+    "grading_criteria": "①研究方法の選択、②研究の実施、③研究結果の整理",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
+    },
+    "teacher_message": "卒業論文は4年間の学習の集大成です。ゼミの日には必ず進捗状況を報告し、確実に進めていってください。報告のためには毎回240分の学習が必要です。\nオフィスアワーは講義のある曜日。不在時はメールで対応します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "本論ンお執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "序論・本論の完成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文の完成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

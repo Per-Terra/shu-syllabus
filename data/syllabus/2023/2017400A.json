@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:14:19Z",
+    "fetched_at": "2026-06-02T11:55:48Z",
     "name_ja": "認知症の理解Ⅰ",
     "name_en": "Understanding of Dementia I",
     "syllabus_number": "2017400A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -68,8 +68,8 @@
             "介護福祉実習Ⅰ・Ⅱに関わる科目ごとの履修条件に準ずる"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①認知症ケアの理念及びケアに関する理解度\n②認知症のある方の心理・身体機能・社会的側面の理解度",
     "evaluation_ratio": {

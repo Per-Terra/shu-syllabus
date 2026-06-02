@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:24Z",
+    "fetched_at": "2026-06-02T11:53:09Z",
     "name_ja": "情報リテラシー(a)(b)",
     "name_en": "Information literacy",
     "syllabus_number": "1008500A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "以下の３つの項目について、試験、レポート、発表・実技の評価点をもとに評価する。\n（ⅰ）ノートPCの携行を常とし、学内外のネット上にある情報資源を有効に活用するための、基本的知識と技術を備えている。\n（ⅱ）ワープロ(文書処理)や表計算の概念、プレゼンテーションの基礎技能を習得し、3級レベルの検定試験に 合格する実力を備えている。\n（ⅲ）LMS等へのアクセスが慣習となり、学内システム上に挙げられている情報や教材を活用し、自らが能動的に学んでいく学修姿勢（アクティブラーニング）と生活態度を身につけている。",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

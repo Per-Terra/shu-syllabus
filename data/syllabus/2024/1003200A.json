@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:07Z",
+    "fetched_at": "2026-06-02T11:52:48Z",
     "name_ja": "自然地理学Ⅱ",
     "name_en": "Physical Geography II",
     "syllabus_number": "1003200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "黒田　圭介",
@@ -228,5 +228,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

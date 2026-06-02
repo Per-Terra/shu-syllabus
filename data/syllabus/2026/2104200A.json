@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T11:57:49Z",
+    "name_ja": "ヒューマンコンピュータインタラクション",
+    "name_en": "Human Computer Interaction",
+    "syllabus_number": "2104200A",
+    "course_number": "31-3-23-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．インタフェースデザインの手法とその重要性が理解できる。\n２．インタフェースデザインの基礎技術が修得できる。\n３．センサーを使ったハードウェアインタフェースおよびプロトタイピングによるインタフェースデザインが修得できる。",
+    "overview": "本講義は、ヒューマンマシンインタラクション（HMI）における、インタフェース評価のためのセンサ等の計測技術を学び、実際に収集したデータを使ってインタフェース評価の手法を理解する。さらに、分析結果を用いてインタフェースデザインの手法を学ぶ。講義では、人間がハードウェアおよびソフトウェアをより快適に使うための、HMIの概念、およびそれらを適用したインタフェース設計の手法を学ぶ。ハードウェア設計では、シミュレータにセンサを装着し、ユーザが操作する際の動作や主観的評価のデータを収集し分析する。ソフトウェア設計では、プロトタイピング手法を用いてUX・UIデザインを修得する。\n講義と演習を併用して授業を進める。講義では理論と手法を学び、演習で実際に手法を適用しインタフェースデザインを修得する。",
+    "diploma_policies": [
+        "情報科学科DP1"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "インタフェースデザインの教科書　第2版",
+            "publication_year": 2019,
+            "author": "井上 勝雄",
+            "publisher": "丸善出版",
+            "price": 3080,
+            "isbn": "4621304674",
+            "available_on_campus": false
+        },
+        {
+            "title": "UIデザインの教科書［新版］ マルチデバイス時代のインターフェース設計",
+            "publication_year": 2019,
+            "author": "原田 秀司",
+            "publisher": "翔泳社",
+            "price": 2618,
+            "isbn": "4798155454",
+            "available_on_campus": false
+        },
+        {
+            "title": "ノンデザイナーでもわかる UX+理論で作るWebデザイン",
+            "publication_year": 2017,
+            "author": "川合 俊輔 (著), 大本 あかね (著), 菊池 崇 (監修)",
+            "publisher": "マイナビ出版",
+            "price": 2739,
+            "isbn": "4839961077",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": "特になし"
+    },
+    "grading_criteria": "１．ヒューマンコンピュータインタラクションの概念\n２．人間の認知特性とデバイスの関係\n３．センサーによるハードウェアインタフェースの設計手法\n４．プロトタイピング・ソフトウェアによるインタフェースの設計手法\n１〜４について、以下の方法で評価する。\n毎回の小テスト（40%）、課題レポート（40%）、プレゼンテーション（20％）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 40,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ヒューマンコンピュータインタラクションはあらゆるデザインに必要が技術であり、商品の使いやすさ（ユーザビリティ）に影響します。売れる商品をデザインするために必要不可欠な学問です。\n事前学習、事後学習の時間：あわせて90分程度。\n\n【オフィスアワー】講義のある曜日　不在時はC-learningで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ヒューマンコンピュータインタラクションとは：誕生とデザインの開発プロセス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "人間の認知と記憶：心理学から見た人間の認知（視覚、聴覚）と記憶のモデル化、コンピュータと人間のちがい",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "人間の認知モデル：人間の情報処理とメンタルモデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "設計の手法：情報のデザイン、対話のデザイン、表現のデザインの手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ユーザビリティとユーティリティ：ユーザビリティの特性と評価の手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ユーザの視点と感性的インタフェース：UX、体制化、直感的インタフェース、使いたくなるデザイン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ハードウェアインタフェース：デバイスとその特性、人間工学的側面",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ハードウェアのプロトタイピング：センサーを用いたプロトタイピングツールの使い方",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "プロトタイピング演習１：プロトタイピングツールによるハードウェアデザインのワークショップ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "プレゼンテーション１：プロトタイプの評価とプレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ソフトウェアインタフェース：階層と構造、デバイスの特性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "インタラクション：インタラクションとはナビゲーションの手法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ソフトウェアプロトタイピング：プロトタイピングツールの使い方",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "プロトタイピング演習２：プロトタイピングツールによるソフトウェアデザインのワークショップ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション２：プロトタイプの評価とプレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "酒井徹也"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

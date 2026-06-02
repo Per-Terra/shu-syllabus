@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:51:42Z",
+    "fetched_at": "2026-06-02T11:52:39Z",
     "name_ja": "日本史Ⅰ",
     "name_en": "Japanese History I",
     "syllabus_number": "1001200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　啓祐",
@@ -54,8 +54,8 @@
         "recommended": [
             "外国史Ⅰ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "講義内課題（小テスト）、講義時間外レポート（レポート）で評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
     "evaluation_ratio": {
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

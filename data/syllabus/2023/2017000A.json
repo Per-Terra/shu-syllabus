@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:14:09Z",
+    "fetched_at": "2026-06-02T11:55:44Z",
     "name_ja": "保健医療サービス",
     "name_en": "Helth and medical services",
     "syllabus_number": "2017000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -57,7 +57,7 @@
             "author": "介護福祉士養成講座編集委員会",
             "publisher": "中央法規出版",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -65,7 +65,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①医療保険制度の理解度\n②多職種協働についての理解度\n③終末期ケアについての理解度",
     "evaluation_ratio": {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

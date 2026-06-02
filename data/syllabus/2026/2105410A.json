@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T11:57:57Z",
+    "name_ja": "金融工学",
+    "name_en": "Financial Engineering",
+    "syllabus_number": "2105410A",
+    "course_number": null,
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "中山　季之",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "テーマ：金融工学の基礎\n\n到達目標：\n1. 金融商品の価値評価やリスクマネジメントにおける経済的なメカニズムを、数理的に理解できるようになる。\n2. モデル構築の仮定と現実との乖離を認識した上で、モデルを活用できるようになる。\n3. 機械学習をはじめとする幅広い情報科学分野にも応用可能な、確率論的な概念を理解できるようになる。",
+    "overview": "ほとんどあらゆる業種や組織にとって、「お金の流れ・投資・資金調達」の分析は重要なテーマです。こうした金融における経済学的なメカニズムを数理的に捉える力は、社会で活躍するための強力なスキルとなります。\n本科目では、「金融とは何か」からはじめ、必要となる数学を基本から解説しながら、特に重要で代表的なトピックを学びます。具体的には、金融商品の価値評価のメカニズム、価格計算のための数値計算手法、リスクマネジメントなどについて、講義と演習を通じて実践的に学ぶことで、社会で活かせる金融工学の基本的スキルを身につけることを目指します。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "ファイナンスのための確率解析 1",
+            "publication_year": 2012,
+            "author": "Steven E. Shreve",
+            "publisher": "丸善出版",
+            "price": 3850,
+            "isbn": "978-4621061732",
+            "available_on_campus": true
+        },
+        {
+            "title": "ファイナンスのための確率解析 II",
+            "publication_year": 2012,
+            "author": "Steven E. Shreve",
+            "publisher": "丸善出版",
+            "price": 7150,
+            "isbn": "978-4621061572",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "微分積分基礎",
+            "確率統計基礎"
+        ],
+        "recommended": [],
+        "required_materials": "筆記具、パソコン（Excelも含む）",
+        "other": null
+    },
+    "grading_criteria": "小テスト70%、レポート20%、授業貢献度10%（単なる参加にとどまりません）を原則として総合評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 70,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "「金融工学」という題材を通じて、確率論やモンテカルロシミュレーションといった基本的な考え方を学び、機械学習を含む幅広い情報科学分野にも応用可能な基礎的なスキルを身につけることを目指します。本講義では、数学に不安を感じる学生にも配慮し、厳密な証明には深入りせず、段階的かつ直観的な説明を心がけます。\n\n授業後の復習や演習問題への取り組みとして、おおむね1時間程度の学習時間を想定しています。継続的に復習を行うことで、講義内容の定着と応用力の向上につながります。\n\nなお、本科目を履修するにあたり、『微分積分基礎』および『確率統計基礎』を事前に履修しておくことを推奨します。\n\n【オフィスアワー】講義のある曜日に対応します。不在の場合は、メールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション、金融とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "金融商品の特性、社会における活用事例。将来支払われる金額の現在価値",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "積分法の復習、確率空間、確率分布、確率変数",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "期待値、分散の定義と計算",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "オプション評価（2項モデル）の理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "オプション評価（2項モデル）の実装",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "微分法の復習、微分方程式、偏微分方程式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ランダムウォーク、ブラウン運動、確率積分",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "確率微分方程式、伊藤の公式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Black-Scholesモデルのオプション評価式",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "モンテカルロシミュレーション – 基本",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "モンテカルロシミュレーション – 分散減少法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "モンテカルロシミュレーション – 感応度",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ポートフォリオのリスクマネジメント（VaR）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ、その先にあるもの",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中山"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "担当教員は、これまでの実務経験においても金融工学に長年携わっており、その経験も踏まえて本講義を担当する。本講義では、学術的な内容を中心に据えつつ、理解を深めるために、金融分野における実務上の適用例を適宜紹介する。"
+}

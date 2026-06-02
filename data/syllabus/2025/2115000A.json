@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:30Z",
+    "fetched_at": "2026-06-02T11:59:11Z",
     "name_ja": "人体の構造と機能Ⅱ",
     "name_en": "Structure and function of the human body　Ⅱ",
     "syllabus_number": "2115000A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -50,10 +50,10 @@
         {
             "title": "系統看護学講座　専門基礎　解剖生理学",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -64,7 +64,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "筆記試験100％",
     "evaluation_ratio": {
@@ -229,5 +229,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:55Z",
+    "fetched_at": "2026-06-02T11:54:20Z",
     "name_ja": "地方財政論",
     "name_en": "Local Government Finance",
     "syllabus_number": "2002400A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -78,7 +78,7 @@
             "経済政策",
             "地域政策論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書の購入については初回講義時に指示します。"
     },
     "grading_criteria": "(ⅰ) 日本の国と地方の財政関係の理解、(ⅱ) 地方分権化の理論や潮流の理解、(ⅲ) 日本の地方財政の問題点の把握と議論、について「学生に対する評価」の内容で評価する。",
@@ -269,5 +269,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

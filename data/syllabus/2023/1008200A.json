@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:19Z",
+    "fetched_at": "2026-06-02T11:53:07Z",
     "name_ja": "応用数学",
     "name_en": "Applied mathematics",
     "syllabus_number": "1008200A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -58,8 +58,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "線形代数学と微分積分学の講義内容の理解について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -239,5 +239,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

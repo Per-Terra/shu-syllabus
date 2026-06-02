@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T11:54:25Z",
+    "name_ja": "社会調査法入門",
+    "name_en": "Methods of Social Research",
+    "syllabus_number": "1102400A",
+    "course_number": "11-2-12-21-04、21-2-12-21-04、22-2-12-21-03",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 看護学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "稲垣　円",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①社会調査に関する基本的事項について理解する。\n➁問題関心や目的に沿って的確な方法で適切に調査を実施、分析、結果をまとめるための基本的な考え方を習得する。\n③授業を通して得られた知識や経験に基づき、具体化する力を養う。",
+    "overview": "本授業では、これから社会調査を本格的に学ぶ学生を対象に、社会調査の意義・背景・方法に関わる基本的知識を習得することを目的とする。さまざまな社会調査の手法やデータ収集・分析のプロセス、調査倫理などについて、調査の実例や実践を踏まえて学ぶ。\n複数の手法を取り上げ、基礎知識、方法論、分析と解釈の考え方について学ぶことで、「量的・質的に調査する」ことの意味を考える。また、小規模な調査を自ら実践することによって実際に調査を行なう際の基本的な行程を理解する。単にテクニックを身につけるのではなく、授業を通じて履修生が向き合う「社会や日常を見るまなざし」の面白さと難しさを体験的に理解することを目指す。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "社会調査の考え方上・下",
+            "publication_year": 2015,
+            "author": "佐藤 郁哉",
+            "publisher": "東京大学出版会",
+            "price": 3520,
+            "isbn": "4130520261",
+            "available_on_campus": false
+        },
+        {
+            "title": "質的社会調査の方法 -- 他者の合理性の理解社会学",
+            "publication_year": 2016,
+            "author": "岸 政彦、 石岡 丈昇、丸山 里美",
+            "publisher": "有斐閣",
+            "price": 2090,
+            "isbn": "4641150370",
+            "available_on_campus": false
+        },
+        {
+            "title": "新・社会調査へのアプローチ 論理と方法",
+            "publication_year": 2013,
+            "author": "大谷 信介、木下 栄二、後藤 範章、小松 洋（編著）",
+            "publisher": "ミネルヴァ書房",
+            "price": 2500,
+            "isbn": "4623066541",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "授業では特定の教科書は指定しない。教員が提示する資料を中心に進める（授業後に資料は配布する）",
+        "other": "毎回PCを持参すること"
+    },
+    "grading_criteria": "リフレクション（振り返り）、授業内小テスト（2回）、および授業中の参加姿勢で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 70,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "・社会学（履修先修）\n・授業計画は進捗によって変更することがあります。\n・資料は授業後に提供しますが（期間限定公開）、口頭での説明の全てが記載されているわけではありません。授業中に気になることはメモを取り整理しておきましょう。\n・第9回と第15回は授業内で小テストを実施する。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション：社会調査とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "社会調査の歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "研究と社会調査",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "社会調査の対象と方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "既存の資料・データの収集と活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "質的調査(1)質的調査の種類と考え方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "質的調査(2)インタビュー調査",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "質的調査(3)参与観察とフィールドワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "小テスト①および解説",
+            "teaching_methods": [],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "量的調査(1)調査の手順、母集団と標本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "量的調査(2)調査票の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "量的調査（3）調査票の点検とデータ作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "量的調査（4）変数間の関係を把握する",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "量的調査（5）母集団を推測する",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "稲垣　円"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "小テスト②および解説、全体のまとめ",
+            "teaching_methods": [],
+            "teachers": [
+                "稲垣　円"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,0 +1,260 @@
+{
+    "fetched_at": "2026-06-02T11:54:00Z",
+    "name_ja": "心理学Ⅱ",
+    "name_en": "General Psychology Ⅱ",
+    "syllabus_number": "1102100A",
+    "course_number": "11-1-13-22-09、21-1-13-22-08",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "喜入　暁",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "心理学は、しばしば学術界の認識が一般社会での認識と乖離していたり誤解されていたりします。本科目では、心理学Iに引き続きさまざまな心理学の研究を紹介します。その上で、本来の心理学がどのような学問分野なのか、また、一般社会ではどのような誤解があるのかを理解し、心理学研究における最新の展開を概観できるようになることを目的とします。\n【到達目標】\n・学術的な心理学と一般社会における心理学にはなぜ・どのような認識の違いが生じているのかを理解できるようになる。\n・さまざまな研究において、なぜ・どのような誤解が生じ得るかを理解できるようになる。\n・心理学の現在の問題がどのようなものかを把握できるようになる。",
+    "overview": "授業は基本的にはスライドを用いた講義形式で行い、配布資料は用意しません。各自でノートをとりながらまとめる必要があります。また、適宜実験実施やペア・グループワークを行う時間を設けます。なお、各回で小テストの実施と講義で学んだことや考えたことを報告してもらい、次回講義で共有と返答をします。成績評価のその他（30%）は、授業への積極的な参加度・取組みによって評価します。具体的には、各回での小テストへの回答と講義内容に関して考えたことの報告をもって評価します。小テストの正誤は成績に反映しません。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "すばらしきアカデミックワールド：オモシロ論文ではじめる心理学研究",
+            "publication_year": 2021,
+            "author": "越智 啓太",
+            "publisher": "北大路書房",
+            "price": 2420,
+            "isbn": "9784762831775",
+            "available_on_campus": false
+        },
+        {
+            "title": "心理学 新版 (New Liberal Arts Selection)",
+            "publication_year": 2018,
+            "author": "無藤 隆 他",
+            "publisher": "有斐閣",
+            "price": 4620,
+            "isbn": "9784641053861",
+            "available_on_campus": false
+        },
+        {
+            "title": "心理学第5版補訂版",
+            "publication_year": 2020,
+            "author": "鹿取 廣人 他",
+            "publisher": "東京大学出版会",
+            "price": 2640,
+            "isbn": "9784130121170",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "心理学I（心理学概論I）"
+        ],
+        "required_materials": "ノートPC、筆記用具、ノート・ルーズリーフなど",
+        "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅱ」の読替科目です。"
+    },
+    "grading_criteria": "期末試験と積極的参加点によって評価します。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "試験に向けて、配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては、各回4時間を想定しています。また、わからないところはわからないままにせず、遠慮なく聞いてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "オモシロ研究1",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "オモシロ研究2",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "オモシロ研究3",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "オモシロ研究4",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "オモシロ研究5",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "オモシロ研究6",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "心理学と疑似科学1",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "心理学と疑似科学2",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "心理学と疑似科学3",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "心理学と疑似科学4",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "測定の妥当性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "再現性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "古典的研究と最新の研究",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと振り返り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

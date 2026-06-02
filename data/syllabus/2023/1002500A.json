@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:03Z",
+    "fetched_at": "2026-06-02T11:52:47Z",
     "name_ja": "地誌学Ⅱ",
     "name_en": "Topography II",
     "syllabus_number": "1002500A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
             "人文地理学Ⅱ",
             "地誌学Ⅰ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は使用せず毎時プリントを配布します。遅刻、途中退出、私語は厳禁です。"
     },
     "grading_criteria": "1）試験は、山口県、BRICS諸国について地誌的に理解できているかどうかで評価します。2）その他は、毎時の授業への参加度（地図や統計データの読み取り作業）により評価します。",
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

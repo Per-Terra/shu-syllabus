@@ -1,0 +1,229 @@
+{
+    "fetched_at": "2026-06-02T11:58:16Z",
+    "name_ja": "企業概論Ⅱ",
+    "name_en": "Introduction to Business EnterprisesⅡ",
+    "syllabus_number": "2108500A",
+    "course_number": "11-1-27-22-02",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "成績認定用教員",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）経営学の理論を用いて企業を分析できるようになる。\n（２）実際の企業事例を通じて、企業の意思決定過程を理解し説明できるようになる。\n（３）企業の社会的責任（CSR）やソーシャルビジネスの役割を理解し、持続可能な経営について説明できるようになる。",
+    "overview": "本講義は現代社会において必要不可欠な組織である企業について、事例を中心に理解するとともに、実際の企業がどのような活動を行っているのかについて理解することができる科目である。具体的には企業を理解するため、企業の構造的特徴の事例、法人としての組織形態の事例、コーポレートガバナンスの事例、経営戦略の事例、中小企業及びベンチャー企業の事例など、企業全般についての事例について理解を深める。本講義を通じて、現代社会における企業の特徴、制度、役割の実際を理解し、自ら企業の分析ができる力を身につける。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "ケースに学ぶ経営学 第3版",
+            "publication_year": 2019,
+            "author": "東北大学経営学グループ",
+            "publisher": "有斐閣",
+            "price": 2970,
+            "isbn": "978-4641184480",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "企業概論Ⅰ"
+        ],
+        "required_materials": "教科書、パソコン又はタブレット",
+        "other": "経済学部の学生は、「企業概論Ⅰ」及び「企業概論Ⅱ」の両方の単位を修得することで、「企業概論（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "期末試験60％、授業内のワーク40％で成績を評価する。\n※受講者数が少ない場合は、期末レポートを実施することがある。\nなお、授業への参加態度により加点または減点する場合がある。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "私たちが暮らす資本主義社会において、企業は重要な経済主体の一つであり、その仕組みを理解することは日常生活にも不可欠です。\n本講義では、企業の基礎知識を学びながら、その特性を理解していきます。\nなお、事前・事後学習を含め、自己学習に2時間程度を確保するようにしてください。\nまた、ゲストスピーカーを招く予定です。\n※オンライン・オンデマンドで授業をする回がある場合があります。\n\n【オフィスアワー】\n月・火　12:20～12：50",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス・企業概論の学び方\n全体の講義計画などが理解できる。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "企業の誕生\nメルカリの設立と成長事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "環境・組織・戦略\nフォードとGMの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "競争戦略の基本型\n日本マクドナルドとモスバーガーの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "事業のリストラクチャリングと組織改革\nGEの企業革新などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ビジネス・システムの革新とIoT\nコマツのビジネス・システムの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "破壊的技術への対応と新規事業創造\n富士フィルムの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "グローバル戦略\nサムスン電子の統合と適応のジレンマの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "経営理念と組織文化\nリクルート社の起業家精神と組織文化の事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "日本的生産システム\nトヨタ生産方式の事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "成熟市場における商品開発\nサントリーのハイボール・ストロングゼロの開発事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "環境変化のマーケティング活の変革\n良品計画における危機とその克服事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ビジネスの倫理\nJR西日本の新幹線台車亀裂トラブルの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ソーシャル・ビジネス\nアスヘノキボウによる協働のまちづくりの事例などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "全体のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

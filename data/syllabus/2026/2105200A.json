@@ -1,0 +1,243 @@
+{
+    "fetched_at": "2026-06-02T11:57:56Z",
+    "name_ja": "フィンテック・ブロックチェーン",
+    "name_en": "Block chain and advanced financial technology",
+    "syllabus_number": "2105200A",
+    "course_number": "31-3-24-33-03",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "内田　善彦",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.ブロックチェーンとは何かが理解できる。\n2.ブロックチェーンの実装に必要な技術を習得する。\n3.金融業におけるブロックチェーンの活用を考察するために必要な基礎的事項が理解できる。",
+    "overview": "本講義では、2009 年にBitcoin を構成する技術として提案されたブロックチェーンの基礎と、主として金融業における活用を概観する。ブロックチェーンの基礎では、ブロックチェーンとは何か、ブロックチェーンの構成、実際に実装され運用されているブロックチェーンの例を見ていく。ここでは、ビザンチン将軍問題、公開鍵暗号、ハッシュといったブロックチェーンを支える要素技術についても学習するほか、スケーラビリティに関する議論も紹介する。ブロッチェーンの活用では、スマートコントラクトについて学んだうえで、通貨的交換手段、電子的証券、NFT のほか、最新の話題である分散ID、セカンドレイヤー技術、ゼロ知識証明、Defi、DAO、金融リスクと金融規制についても触れる。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "ブロックチェーン技術概論 理論と実践",
+            "publication_year": 2021,
+            "author": "山崎 重一郎 ほか",
+            "publisher": "講談社",
+            "price": 3960,
+            "isbn": "978-4065240939",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "暗号技術入門 第3 版",
+            "publication_year": 2015,
+            "author": "結城浩",
+            "publisher": "SBクリエイティブ",
+            "price": 3630,
+            "isbn": "978-4797382228",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット",
+        "other": null
+    },
+    "grading_criteria": "授業内小テスト30%、授業への貢献30%、筆記試験40%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。原則として、欠席3 回以上のものには単位を与えない。",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "ブロックチェーンの発明により、金融業は大きな変革期に入ってきています。今後の展開を見通すことは難しく、貨幣経済そのものが大きく変わる可能性もありますが、これを支える要素技術を理解することで、不確実な将来へ対処することが容易になるでしょう。授業にあたっては、予習は不要ですが、丁寧な復習が望ましいです。また、好奇心を持って自ら学習の課題を持って講義に参加することで学習効果はより高くなります。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション・暗号資産市場の現状と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ブロックチェーンの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ブロックチェーンを構成する暗号技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ビットコイン（1）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ビットコイン（2）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ビットコイン（3）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スマートコントラク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "暗号資産、電子的証券",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "分散ID、Verifiable Credentials",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "セカンドレイヤー技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ステーブルコイン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "様々なL1Chain",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Defi",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "金融リスクと金融規制",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "最新の話題と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "試験",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "内田"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

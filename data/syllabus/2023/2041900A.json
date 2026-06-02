@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2024-08-08T01:21:55Z",
+    "fetched_at": "2026-06-02T11:57:45Z",
     "name_ja": "簿記上級Ⅱ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2041900A",
     "course_number": "02AC202",
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
             "author": "渡辺裕亘　他",
             "publisher": "中央経済社",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         },
         {
@@ -82,7 +82,7 @@
         ],
         "recommended": [],
         "required_materials": "電卓・教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1.個別論点の会計の基本理論が理解できる。　　\n2.個別論点の会計処理ができる。",
     "evaluation_ratio": {

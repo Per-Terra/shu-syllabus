@@ -1,0 +1,251 @@
+{
+    "fetched_at": "2026-06-02T11:56:43Z",
+    "name_ja": "経営戦略論Ⅰ",
+    "name_en": "Strategy Ⅰ",
+    "syllabus_number": "2036000A",
+    "course_number": "11-2-23-21-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "石谷　康人",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）実際の企業に対して、戦略の観点から関心を持つことができる。\n（２）戦略論に関する基本的概念の意味を理解できる。\n（３）戦略論の基本的概念を用いて、企業の成功事例を分析できる。",
+    "overview": "経営戦略とは、企業が達成を目指す目標に向けた「ありたい姿」と、それを実現するための「変革のシナリオ」を、外部環境および内部資源との関係において体系的に策定したプランである。本講義では、外部環境を踏まえた事業戦略および企業戦略の仕組み、ならびにそれらに対する適切な対応と、その基盤となる企業内部のマネジメントについて、わかりやすく解説する。これらを通じて、受講生が戦略論の基本的概念を用いて企業の成功事例を分析できるようになることを目指す。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "1からの戦略論（第2版）",
+            "publication_year": 2016,
+            "author": "嶋口充輝・内田和成・黒岩健一郎",
+            "publisher": "碩学舎",
+            "price": 2640,
+            "isbn": "9784502167416",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "ゼミナール経営学入門　新装版",
+            "publication_year": 2022,
+            "author": "伊丹敬之・加護野忠男",
+            "publisher": "日本経済新聞出版",
+            "price": 3850,
+            "isbn": "9784532135263",
+            "available_on_campus": false
+        },
+        {
+            "title": "経営戦略入門",
+            "publication_year": 2011,
+            "author": "網倉久永・新宅純二郎",
+            "publisher": "日本経済新聞出版",
+            "price": 3740,
+            "isbn": "9784532134037",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書「1からの戦略論（第2版）」、筆記用具など。",
+        "other": "経済学部2021年度以前入学の学生は、「経営戦略論Ⅰ」及び「経営戦略論Ⅱ」の両方の単位を修得することで、「経営戦略論（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "上記④に示した到達目標に対する達成度は、下記「⑪学生に対する評価」の方針に基づいて評価する。",
+    "evaluation_ratio": {
+        "exam": 65,
+        "quiz": 35,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "上記教科書は、大学1・2年生で経営学を初めて学ぶ学生を主な対象として執筆されていますが、今後の経営学に関する専門的な学修や就職活動においても活用できる重要な内容が数多く含まれています。ぜひ本書を通読し、内容を十分に理解してください。\n【予習・復習について】\n各回の授業に先立ち、必ず指定された章を読んでくること。その際、当日の授業理解を深めるため、理解できない箇所をあらかじめ特定しておくことが望ましい（60分）。\n各回の授業では、ワークシートを配布する場合があるため、授業中および授業後に設問へ解答すること（30分）。\nまた、授業後には、学習支援システム（C-learning）等を通じて、小テストを受験すること（30分）。\n本科目では、「経営学入門Ⅰ」「経営学入門Ⅱ」を履修していることが望ましい。\nオフィスアワーは「在室している時間であれば随時対応可」としています。もっとも、円滑な対応のため、原則として事前にC-learningの「連絡・相談」から予約してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "戦略とは何か（戦略の定義、戦略の要素）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "経営環境：業界の構造（ファイブ・フォーシズ、戦略グループ、移動障壁）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "経営環境：取り巻く環境（PEST分析、3C分析、SWOT分析）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "事業戦略：基本戦略（コストリーダーシップ戦略、差別化戦略、集中戦略）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "事業戦略：製品ライフサイクル別戦略（導入機、成長期、成熟期、衰退期のそれぞれにおける戦略）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "事業戦略：市場地位別戦略（リーダー、チャレンジャー、フォロワー、ニッチャーそれぞれの戦略）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "事業戦略：リソース・ベースト・ビュー（社内資源の捉え方、コア・コンピタンス）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "事業戦略：事業システム（価値連鎖と価値システム、競争優位創出のメカニズム、組織デザインと外部との戦略的関係）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "企業戦略：事業領域（ドメイン設定の意義、企業成長とドメインの変化）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "企業戦略：成長戦略（成長の方法、成長マトリックス、多角化、シナジー効果）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "企業戦略：資源展開（PPMの枠組み、PPMの戦略的意義と留意点・限界）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "企業戦略：戦略の社会的側面（企業の社会的責任、戦略的CSRへの取り組み）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "経営組織：組織構造（基本デザインと展開、コンティンジェンシー理論）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "経営組織：組織文化（組織文化の機能、組織文化と戦略）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "経営組織：企業変革（変革の枠組み、変革を支えるマネジメント）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "石谷　康人"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

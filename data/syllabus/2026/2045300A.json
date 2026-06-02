@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:57:18Z",
+    "name_ja": "社会保障論Ⅱ",
+    "name_en": "Social Security II",
+    "syllabus_number": "2045300A",
+    "course_number": "11-2-26-22-05",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①生活や労働における問題を把握する。\n②福祉と経済の関連性を把握する。\n③具体的に日常生活における社会保障制度や行政の現場で起こっている問題について理解を深める。",
+    "overview": "本講義では、社会保障機能を理論的に示すとともに、具体的事例を取り上げながら制度を説明する。取り上げる制度は、年金、医療、介護、生活保護についてである。各制度は、生涯にわたり日常生活で関わるものであり、サービス内容やサービス負担額を理解することの重要性は高まっている。特にサービスの負担は、①税、②社会保険料、③自己負担により行われ、家計に対する影響も大きいといえる。最後に国際比較を通して日本の方向性を示唆する。\n　社会保障に関する知識は、国および地方公務員として業務を行う上でも重要である。さらに、民間企業でも少子高齢化社会の中でシニアビジネス等に対する注目度は高く、福祉市場に関する視点も具体的な事例を取り上げながら説明する。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は指定せず、必要に応じて資料などを配布する。"
+    },
+    "grading_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "新聞等のニュースを基に社会の動向を把握するため、事前・事後学習として次回の講義までに4時間程度の時間が必要。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "講義ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "年金保険制度①（制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "年金保険制度②（年金財政と動向）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "医療保険制度①（制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "医療保険制度②（医療財政と動向）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "介護保険制度①（制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "介護保険制度②（介護財政と動向）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "労働保険制度①（制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "労働保険制度②（動向）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "生活保護制度①（制度および動向）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "生活保護制度②（就労支援）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "生活保護制度③（貧困ビジネス）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "諸外国における社会保障制度①（各国制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "諸外国における社会保障制度②（国民負担率）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "講義の総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波　利光"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

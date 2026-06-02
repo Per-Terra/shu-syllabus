@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:56:11Z",
+    "name_ja": "地域福祉と包括的支援体制Ⅰ",
+    "name_en": "Community Welfare and Inclusive Support SystemⅠ",
+    "syllabus_number": "2027800A",
+    "course_number": "2027800",
+    "departments": [
+        "福祉情報学部",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小林　武生",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①地域福祉の基本的な考え方を説明することができる。 \n②地域福祉における主体と対象を理解し、住民の主体形成の概念を説明することができる。 \n③地域福祉を推進するための、福祉行財政の実施体制と果たす役割を説明することができる。",
+    "overview": "本科目は、地域社会で発生する問題に向き合うために、包括的支援体制と地域福祉の考え方及福祉行\n財政を学ぶ科目である。 \n 授業では、地域福祉の基本的な考え方、展開、動向について解説する。また、地域福祉における主\n体と対象について並びに住民の主体形成の概念を説明する。さらに、地域福祉を推進するための福祉\n行財政の実施体制と果たす役割について解説する。 \n この授業を通して学生は以下の力を身に付ける。 \n①地域社会で発生する問題の構造や背景について理解する力 \n②それらの問題に対応するための包括的支援体制を考察する力 \n③地域住民の主体形成に関わるソーシャルワークのスキル",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "『地域福祉と包括的支援体制（第2版）』",
+            "publication_year": 2026,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟編",
+            "publisher": "中央法規",
+            "price": 3080,
+            "isbn": "978-4-8243-0348-6",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "『地域援助をつかむ』",
+            "publication_year": null,
+            "author": "岩間伸之・原田正樹著",
+            "publisher": "有斐閣",
+            "price": 2310,
+            "isbn": "9784641177147",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "教科書",
+        "other": "なし"
+    },
+    "grading_criteria": "①地域福祉の基本的な考え方、②住民の主体性形成、③福祉行財政と福祉計画 \n上記①～③に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "地域共生社会の実現に向けて、地域社会で暮らしたり、働いたり、学んだりしている多様な人たちと\nともに、ソーシャルワーカーは何をすべきかを考えてください。授業に参加するにあたっては次回の\n授業内容を参照し、教科書の該当ページを通読しておくこと（予習2時間程度）。授業後は、専門用\n語の整理をしておくこと（復習2時間程度） \n \n【オフィスアワー】 \n講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション：授業の進め方 地域社会の概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "地域社会の変化と地域生活課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "社会的孤立の現状と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "地域福祉の構造と理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "地域福祉の歴史（イギリスを中心に）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "地域福祉の歴史（日本）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "地域を基盤としたソーシャルワークの展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "地域を基盤としたソーシャルワークの実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "地域福祉の推進主体（地方自治体）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地域福祉の推進主体（民間組織）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "地域福祉の主体形成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "福祉行政の組織及び専門職の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "福祉における財源",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "福祉計画の意義・目的と展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "福祉計画の策定過程と方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

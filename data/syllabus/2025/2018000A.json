@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:00:30Z",
+    "fetched_at": "2026-06-02T11:56:12Z",
     "name_ja": "介護の基本Ⅴ",
     "name_en": "Basics of the Care V",
     "syllabus_number": "2018000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -24,11 +24,10 @@
     "term": "後期",
     "credits": 2,
     "teaching_methods": [
-        "講義",
-        "演習"
+        "講義"
     ],
     "delivery_modes": [
-        "オンライン"
+        "オンデマンド"
     ],
     "objectives": "介護を必要とする高齢者の心情や生活を多角的に理解した上で、高齢者に対する支援を具体的に想起することができる。",
     "overview": "「尊厳の保持」「自立支援」という新しい介護の考え方を理解できるよう促進していくとともに、「介護を必要とする人」を、生活の観点から捉えるための学びを進める指導を行う。また、介護における安全やチームケア等について理解するための学びをも深めていくことができるよう、指導していく。",
@@ -57,7 +56,7 @@
             "介護の基本Ⅲ",
             "介護の基本Ⅳ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "(ⅰ)専門分野における基礎的知識の習得\n(ii)他者理解のための心理学的知識・技術の習得\n(iii)ケースを考察するための応用力",
@@ -69,14 +68,13 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "毎回の授業の中で、テーマを提示し、各自が考え、ディスカッションをする時間を設けます。また、授業後には、復習課題を提示しますので、レポート作成をし、指定の期日までに提出してください（復習時間約60分）。また、毎回の授業終了時には、次回の授業内容の主要テーマをお知らせします。テキストを中心に予習をして授業にのぞんでください（予習時間約60分）。",
+    "teacher_message": "毎回の授業の中で、テーマを提示します。そのテーマに沿って各自が考え、考えたことを記述する時間を設けます。記述したことを提出していただき、後日、内容を皆で共有し、学びを深めます。また、授業後には、復習課題を提示しますので、レポート作成をし、指定の期日までに提出してください（復習時間約60分）。また、毎回の授業終了時には、次回の授業内容の主要テーマをお知らせします。テキストを中心に予習をして授業にのぞんでください（予習時間約60分）。",
     "schedule": [
         {
             "number": "1",
             "content": "介護を必要とする人の理解①－ライフサイクルと高齢期－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -86,8 +84,7 @@
             "number": "2",
             "content": "介護を必要とする人の理解②－高齢者の心身の健康状態－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -97,8 +94,7 @@
             "number": "3",
             "content": "介護を必要とする人の理解③－高齢者の生活リズム－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -108,8 +104,7 @@
             "number": "4",
             "content": "介護を必要とする人の理解④－高齢者の家族、世帯構成－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -119,8 +114,7 @@
             "number": "5",
             "content": "介護を必要とする人の理解⑤－高齢者の役割－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -130,8 +124,7 @@
             "number": "6",
             "content": "介護を必要とする人の理解⑥－高齢者の住まいと環境－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -141,8 +134,7 @@
             "number": "7",
             "content": "介護を必要とする人の理解⑦－高齢者の就労、雇用－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -152,8 +144,7 @@
             "number": "8",
             "content": "介護を必要とする人の理解⑧－高齢者の収入、生計－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -163,8 +154,7 @@
             "number": "9",
             "content": "介護を必要とする人の理解⑨－高齢者の社会活動－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -174,8 +164,7 @@
             "number": "10",
             "content": "介護を必要とする人の理解⑩－高齢者の余暇活動－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -185,8 +174,7 @@
             "number": "11",
             "content": "介護を必要とする人の理解⑪－高齢者のレクリエーション－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -196,8 +184,7 @@
             "number": "12",
             "content": "介護を必要とする人の理解⑫－高齢者に対する支援の目的と方法－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -207,8 +194,7 @@
             "number": "13",
             "content": "介護を必要とする人の理解⑬－高齢者に対する支援の留意点－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -218,8 +204,7 @@
             "number": "14",
             "content": "介護を必要とする人の理解⑭－高齢者に対する支援の具体例その１－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -229,8 +214,7 @@
             "number": "15",
             "content": "介護を必要とする人の理解⑮－高齢者に対する支援の具体例その２－",
             "teaching_methods": [
-                "講義",
-                "演習"
+                "講義"
             ],
             "teachers": [
                 "末次　絵里子"
@@ -238,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

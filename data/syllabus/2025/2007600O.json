@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:46Z",
+    "fetched_at": "2026-06-02T11:55:05Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600O",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -47,7 +47,7 @@
             "経済史",
             "日本経済史"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特に書籍は指定しませんが、随時課題解決に必要な書籍を購読します"
     },
     "grading_criteria": "定期的に作業成果報告を兼ねたレポートを課します。フリーライドにならないように気を付けること。",
@@ -363,5 +363,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

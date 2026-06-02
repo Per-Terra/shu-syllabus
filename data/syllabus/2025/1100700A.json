@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:56:58Z",
+    "fetched_at": "2026-06-02T11:53:50Z",
     "name_ja": "ソーシャルアントレプレナーシップ",
     "name_en": "Social EntrepreneurShip",
     "syllabus_number": "1100700A",
@@ -11,12 +11,12 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
             "author": "渡邊 奈々",
             "publisher": "日経BP",
             "price": 2880,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -57,7 +57,7 @@
             "author": "渡邊 奈々",
             "publisher": "日経BP",
             "price": 1760,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

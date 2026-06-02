@@ -1,0 +1,232 @@
+{
+    "fetched_at": "2026-06-02T11:54:26Z",
+    "name_ja": "情報倫理",
+    "name_en": "Information Ethics",
+    "syllabus_number": "1102500A",
+    "course_number": "22-1-14-22-09、23-1-14-22-08、31-1-14-22-10",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "渡部　明",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "（１）高度情報化社会がもつ構造的な意味を踏まえた行動規範を理解する。\n（２）情報に対する法律や技術、その根底にある倫理観を理解する。",
+    "overview": "今日の社会では、Facebook、X（旧Twitter）、LineといったSNSや情報サービスを抜きにして我々の日常生活は語れないほど情報技術が進展し、浸透しており、またコミュニケーション形態も変化している。しかし、その一方で今までの常識を覆すような、さまざまな問題が生起している。今までの常識を吟味しなおす時期にきているのかもしれない。ともあれ、情報化社会における基本的人権であるプライバシー、情報化社会における情報流通の基本ルールである著作権、この二つのテーマが情報倫理の柱である。これを守るためのセキュリティ技術や法制度を学ぶことは重要である。我々にとって、著作権（知的財産）やプライバシーを守る意識（コンプライアンス）が、今ほど求められている時はないことも事実である。この講義では、情報倫理の根本的問題から、具体的な現象まで詳説する。",
+    "diploma_policies": [
+        "情報科学科DP4",
+        "看護学科DP1",
+        "看護学科DP6",
+        "福祉学科DP1"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "『生命と情報の倫理』",
+            "publication_year": 2010,
+            "author": "渡部　明",
+            "publisher": "ナカニシヤ出版",
+            "price": 2400,
+            "isbn": "9784779504174",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は指定せず、資料などを配布する。※2023（令和5）年度入学生までにおける「情報倫理とセキュリティ」の読替科目です。"
+    },
+    "grading_criteria": "本講義の主要テーマである「情報化社会における基本的人権であるプライバシーとそれをめぐる倫理的問題」、「情報化社会における情報流通の基本ルールである知的財産権とそれをめぐる倫理的問題」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "情報化社会の急速な発達に伴い、情報倫理の必要性がますます高まっている。 このように大きく変化する社会を安定的かつ発展的なものとしてゆくための、その社会に応じた新たな規範を一緒に考えていこう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス\n情報倫理とは？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "高度情報化社会の構造\n　コミュニケーションと社会の変化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "高度情報化社会の倫理\nコンピュータ・AI倫理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "基本的人権としてのプライバシー\n　歴史と意義・保護法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ハッカー倫理（１）\n　情報の共有",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ハッカー倫理（２）\n　社会への影響",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ネットワーク時代の所有概念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "知的財産についての基礎知識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "基本的ルールとしての著作権（１）\n　歴史と意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "基本的ルールとしての著作権（２）\n　著作権法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "コピーレフト運動（もう一つの著作権）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "産業財産権（１）\n　特許権・実用新案権\n　産業財産権（２）\n　意匠権・商標権",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "知的財産とビジネス\n　知的財産の活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "私的所有と共有",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "渡部　明"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

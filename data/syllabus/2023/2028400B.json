@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:28Z",
+    "fetched_at": "2026-06-02T11:56:52Z",
     "name_ja": "ソーシャルワーク実習Ⅱ",
     "name_en": "Social Work Practice Ⅱ",
     "syllabus_number": "2028400B",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -52,8 +52,8 @@
             "ソーシャルワーク実習Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "実習先の評価と学内評価により、総合的に判断する。\n評価の割合：学内評価50％、実習施設評価50％",
     "evaluation_ratio": {
@@ -67,5 +67,5 @@
     "teacher_message": "ソーシャルワーク実習Ⅰの学習目標に加えて、地域を基盤としたソーシャルワークの実践を理解し自分自身でも実践できることを目標としてください。さらには地域に関わり地域に変容をもたらすための方策を検討できるようになってください。\n\n自己学習：実習で体験したことを実習日誌に記録すること　90分程度",
     "schedule": [],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

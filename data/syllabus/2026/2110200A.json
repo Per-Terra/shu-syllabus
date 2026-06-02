@@ -1,0 +1,260 @@
+{
+    "fetched_at": "2026-06-02T11:58:29Z",
+    "name_ja": "スポーツ生化学",
+    "name_en": "Sports　Biochemistry",
+    "syllabus_number": "2110200A",
+    "course_number": "21-3-23-21-03",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "奥本　正",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "スポーツ健康科学を学ぶ学生にとって、解剖学と生理学、生化学は運動やトレーニングによる生体の変化を構造、機能、物質化学から理解するために重要な科目である。この講義では、運動やトレーニングが生体に引き起こす変化を主に物質（分子）レベルから検討していくことによって、生体や運動の特性を理解し、それを実際の運動指導において活用できる能力を身につけることを目的としている。",
+    "overview": "1.アミノ酸と脂肪酸の化学構造式を３つ以上書くことができる。 \n2.生体で生じる酸化還元反応を例に上げて説明できる。 \n3.生化学に必要な基礎的問題（呼吸商、濃度計算、ｐH等）を説明できる。 \n4.エネルギー供給系の概略を図（代謝マップ）に示すことができる。 \n5.運動による変化（脱水や活性酸素、ホルモン応答等）やトレーニングによる適応を分子レベルで説明することができる。 \n6.運動やトレーニングによる機能的・構造的変化と生化学的変化を関連付けることができる。 \n7.生化学的な考え方や実験系を理解するために質問することができる。 \n8.生化学的な知見を生かし、データに基づいたスポーツや運動の指導ができる。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "これだけ生化学第２版",
+            "publication_year": 2021,
+            "author": "稲垣賢二",
+            "publisher": "秀和システム新社",
+            "price": 1760,
+            "isbn": "978-4798064109",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "イラストレイテッド　ハーパー生化学32版",
+            "publication_year": 2024,
+            "author": "清水孝雄、水島昇（監修・翻訳）",
+            "publisher": "丸善出版",
+            "price": 9350,
+            "isbn": "978-4621310236",
+            "available_on_campus": false
+        },
+        {
+            "title": "スポーツ現場に生かす運動生理・生化学",
+            "publication_year": 2011,
+            "author": "樋口満（編著）",
+            "publisher": "市村出版",
+            "price": 2860,
+            "isbn": "978-4902109245",
+            "available_on_campus": false
+        },
+        {
+            "title": "好きになる生化学第2版",
+            "publication_year": 2025,
+            "author": "田中越郎",
+            "publisher": "講談社",
+            "price": 2100,
+            "isbn": "978-404-5410868",
+            "available_on_campus": false
+        },
+        {
+            "title": "小説みたいに楽しく読める生化学講義",
+            "publication_year": 2025,
+            "author": "吉村成弘",
+            "publisher": "羊土社",
+            "price": 2530,
+            "isbn": "978-4758121361",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "生理学",
+            "運動生理学",
+            "スポーツ栄養学"
+        ],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "筆記試験40%、小テスト30%、課題・レポート30%",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 30,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "スポーツ生化学は運動やトレーニングで生じる変化を分子レベルで理解する学問であり、生物と化学の知識を活用するため、難しい印象があるかもしれません。生体で生じる現象を主に試験管内の実験や測定によって明らかにするため、抽象的な印象があるかもしれません。しかし、運動による生体の変化を物質レベルから理解することや、実験の考え方を理解することにより論理的な考え方や生が身につきます。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書の該当ページや資料を通読しておくこと、授業終了後には、授業で行った箇所の復習や練習問題を行い、知識を定着させてください。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、スポーツ生化学概論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "生化学の基礎１：化学式、化学反応式、イオン、pH",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "生化学の基礎２：酵素、酸化還元、浸透圧",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "生化学の基礎３：DNA-RNA、タンパク質合成、ホルモン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "栄養素の生化学１：糖質、脂質",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "栄養素の生化学２：アミノ酸、タンパク質、ビタミン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "エネルギー代謝１：ATP-CP系、解糖系",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "エネルギー代謝２：クエン酸回路、電子伝達系、補酵素",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "エネルギー代謝３：タンパク質、脂質の代謝、ケトン体",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "水分調節の生化学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "運動と活性酸素",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "運動刺激と遺伝子調節１：一過性の運動刺激",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "運動刺激と遺伝子調節２：トレーニングと適応、遺伝子多型",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "スポーツ生化学研究法：タンパク質分離・定量、酵素活性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "スポーツ健康系分野における生化学的応用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "奥本　正"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

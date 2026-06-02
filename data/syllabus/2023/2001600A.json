@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:01:49Z",
+    "fetched_at": "2026-06-02T11:54:18Z",
     "name_ja": "経済地理学",
     "name_en": "Economic Geography",
     "syllabus_number": "2001600A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
         "recommended": [
             "人文地理学Ⅱ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "遅刻や途中退出、私語は厳禁です。"
     },
     "grading_criteria": "1）試験は、経済地理学の理論（16回目から30回目の内容）を理解できているか、2）レポートは、授業で扱う様々な題材を踏まえ、経済地理学の特徴（1回目から15回目の内容）を理解できているか、で評価します。なお、3）その他は、授業への積極的な参加度で評価します（毎時、地図や統計データの読み取りなどに関して指名します）。",
@@ -368,5 +368,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

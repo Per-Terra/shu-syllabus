@@ -1,0 +1,192 @@
+{
+    "fetched_at": "2026-06-02T11:55:08Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700BE",
+    "course_number": "2007700",
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "道山　知成",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "卒業研究として成果をあげることにありますが、教育目標では[1]「主体性を持った意欲ある人材」、[3]「現実的な知識と手法を備え、問題解決能力を持った人材」を育成することを実践を通じて達成するための授業科目です。\n（ⅰ）専門性にかかる知識もしくは技術の習得\n（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得\n（ⅲ）問題を見つけ出す力の獲得\n（ⅳ）卒業論文の完成",
+    "overview": "専門ゼミIで修得した内容の理解を深化させ、卒業研究に取り組みます。なお、卒業論文テーマは自由課題とします。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得　（ⅳ）卒業論文の完成\n上記、（ⅰ）～（ⅳ）に関する理解度を卒論70％、発表・実技30％で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "予習60分、復習60分を目処に、実施してもらいます。積極的にゼミに参加してください！",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "1",
+            "content": "専門ゼミIで得られた研究成果報告の準備",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "3~4",
+            "content": "専門ゼミIで得られた研究成果の報告・ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "5~10",
+            "content": "卒業研究、製作物の作成",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "11~14",
+            "content": "卒業研究の中間報告",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "前期のまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "夏季休暇中課題の確認・ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "17~20",
+            "content": "卒業研究・成果物の進捗・ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "21~25",
+            "content": "プレゼンテーションの準備・ディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "26~29",
+            "content": "卒業研究の成果プレゼンテーション",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "まとめ －１年間をふりかえって―",
+            "teaching_methods": [
+                "講義",
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "道山　知成"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

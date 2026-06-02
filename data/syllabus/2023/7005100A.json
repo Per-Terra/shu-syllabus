@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:25:13Z",
+    "fetched_at": "2026-06-02T11:58:35Z",
     "name_ja": "教職ボランティア実習",
     "name_en": "Preliminary Instruction for Nursing Care Practice",
     "syllabus_number": "7005100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -88,7 +88,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①介護等の体験の制度的・社会的・教育的意義の理解、②介護等の体験に関連する用語や概念の理解および体験で求められる基礎的な技能の習得、③障害者や高齢者など社会的弱者の置かれている状況と支援者の心境の理解、の3点については、授業中の演習やレポート課題を通して評価する。④介護等の体験への主体的・意欲的な参加については、体験後の最終レポートを通して評価する。",
     "evaluation_ratio": {
@@ -286,5 +286,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

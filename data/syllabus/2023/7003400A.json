@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:24:26Z",
+    "fetched_at": "2026-06-02T11:58:24Z",
     "name_ja": "職業指導Ⅰ",
     "name_en": "Guidance for Profession I",
     "syllabus_number": "7003400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,7 +40,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "高等学校一種免許状「商業」の必須科目",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "・職業指導の歴史、理論についての理解、進路指導の活動内容、組織、実施計画についての理解、キャリア・カウンセリングについての理論や方法についての理解。",
     "evaluation_ratio": {

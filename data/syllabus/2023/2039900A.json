@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:21:22Z",
+    "fetched_at": "2026-06-02T11:57:36Z",
     "name_ja": "多職種協働論",
     "name_en": "Theory of multi-colaboration",
     "syllabus_number": "2039900A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,7 +51,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①協働の必要性の理解度\n②チームアプローチにおける社会福祉士の役割の理解度\n③チームアプローチにおける他職種の役割の理解度",
     "evaluation_ratio": {
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

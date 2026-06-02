@@ -1,0 +1,80 @@
+{
+    "fetched_at": "2026-06-02T11:59:33Z",
+    "name_ja": "小児看護実習",
+    "name_en": "Child Health Care Nursing  Practicum",
+    "syllabus_number": "2120700A",
+    "course_number": "22-3-26-22-05",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "半田　浩美",
+            "is_primary": true
+        },
+        {
+            "name": "井上　みゆき",
+            "is_primary": false
+        },
+        {
+            "name": "白松　裕",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.様々な健康状態にある子どもが示す言動に関心をもち、看護基本技術やコミュニケーション技術を活用し、関係性を構築することができる。\n２.子どもの成長・発達、健康上の課題とそれに伴う生活の変化を総合的にアセスメントすることができる。\n３.長期的な見通しをもち、子どもの成長・発達の促進、健康の促進・回復のための看護を展開することができる。\n４.具体的な事象を通して、子ども・家族の尊厳と権利、多様な価値観を尊重する行動や態度を理解した上で、子ども・家族を擁護し、子ども・家族にとっての最善を考えることができる。\t\n５.病院内や地域の多職種（教育保健福祉関連）と協働し、療養生活を送る子どもと家族を継続的に支援するシステムを学び、看護職の役割を考えることができる。\n６.具体的な事象を通して、見学や実践した看護を客観視し、看護職に必要な自己の課題を見出し、その課題に取り組む方法を明確にすることができる。",
+    "overview": "小児病棟、小児科外来、こども医療福祉センター、保育所において、成長過程にある小児期の健康問題が子どもと家族に及ぼす影響について理解を深め、小児看護実践に必要な知識・技術・態度を身につける。子どもと家族のwell-beingを支援するための多職種連携を学び、小児チーム医療の看護師の役割を理解する。",
+    "diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "小児看護学概論、小児看護方法論、小児看護実践の科目で使用したテキストを参考にする。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "【先修条件科目】小児看護学概論、小児看護方法論、小児看護実践の科目を取得、もしくはその見込みがなければ履修することはできません。"
+    },
+    "grading_criteria": "出席状況（4/5以上の出席）、実習内容、カンファレンスへの参加度、実習記録から総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "小児看護に関する講義・演習の学びを統合して実践を行うことになりますので、復習と予習をして実習に臨みましょう。実習中は指導者や教員に積極的に相談・質問し、主体的に行動しましょう。看護職を目指す学生として、健康に注意して実習に臨みましょう。小児看護学概論、小児看護方法論、小児看護実践の科目で使用したテキストを参考にする。",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": "複数の教員が担当しており、実務経験のある教員による授業科目である。"
+}

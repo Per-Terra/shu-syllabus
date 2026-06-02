@@ -1,0 +1,289 @@
+{
+    "fetched_at": "2026-06-02T11:57:02Z",
+    "name_ja": "簿記上級Ⅱ",
+    "name_en": "Advanced Bookkeeping 2",
+    "syllabus_number": "2041900A",
+    "course_number": "11-3-27-22-09",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "中谷　滋",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(1) 会計学の関係法規および理論的背景の趣旨が理解できる。\n(2) 外貨換算会計、キャッシュ・フロー計算書の構造と概略が理解できる。\n(3) 企業合併の会計、連結財務諸表、持分法、税効果会計が理解できる",
+    "overview": "簿記の本質的な理解には、会計学の考え方と知識が必要となる。関係法規を確認しながら財務諸表の理解を深める。本講義では、今日の複雑な企業活動や取引慣行に対応するような能力を身に付けるために、比較的新しく導入された会計基準に従った会計処理の方法や手続きについて理解しできるよう、理論的知識の習得とその応用力を学修する。本講義での学修を通じ、日商簿記検定１級の商業簿記分野の知識を身につけることができる。\n具体的には、外貨換算会計、キャッシュ・フロー計算書、企業合併の会計、連結財務諸表、持分法、連結税効果会計について学修する。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "「いちばんわかる日商簿記1級 商業簿記・会計学の教科書 第I部」",
+            "publication_year": 2026,
+            "author": null,
+            "publisher": "PCA会計",
+            "price": 2530,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　一般簿記　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　連結会計・構造簿記　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　商業簿記・会計学　発展期　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　管理会計　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "簿記中級Ⅰ",
+            "簿記中級Ⅱ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "電卓・教科書",
+        "other": "経済学部2021年度以前入学の学生は、「簿記上級Ⅰ」及び「簿記上級Ⅱ」の単位を修得することで、「簿記上級（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "(1)個別論点の会計の基本理論が理解できる。\n(2)個別論点の会計処理ができる。\n上記(1)、(2)関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "簿記は、積み重ねの学習によって身につくため、予習・復習を十分行い、知識の定着を図りましょう。\n【予習・復習について】\n予習:授業の内容に係るテキストの該当箇所について予習する(９０分程度) \n復習:授業の内容について復習(問題演習)する(９０分程度)\n学生の理解度を考慮しながら講義計画の進度を調整することがある。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "外貨換算会計（取引、決算時の会計処理）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "外貨換算会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "キャッシュ・フロー計算書（表示区分、直接法・間接法）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "キャッシュ・フロー計算書演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "連結会計（意味と手続き）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "支配獲得日における連結貸借対照表の作成概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "支配獲得日における連結損益計算書の作成概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "支配獲得日における連結貸借対照表。損益計算書演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "支配獲得までの段階取得、支配獲得後の子会社株式の取得概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "子会社株式の一部売却、連結財務諸表概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "連結財務諸表の作成演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "持分法の意義、適用対象、会計処理概要、演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "連結税効果会計（評価差額、未実現利益、債権・債務の相殺処理）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "連結税効果会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷",
+                "滋"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "中谷　滋"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "一般社団法人日本商業教育振興会会員"
+}

@@ -1,0 +1,223 @@
+{
+    "fetched_at": "2026-06-02T11:57:42Z",
+    "name_ja": "AI・画像情報処理",
+    "name_en": "AI/Image Information Processing",
+    "syllabus_number": "2103200A",
+    "course_number": "31-3-22-33-05",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.ディジタル画像の基礎知識および画像処理基礎知識について理解できる。\n2.種々のHand-crafted特徴量および機械学習法について理解できる。\n3.畳み込みニューラルネットワークの基礎について理解できる。",
+    "overview": "本授業では画像情報処理として、画像認識技術について学ぶ。画像認識技術はAIによる自動運転に代表されるように、様々な分野での応用が進み、主要な技術の一つとなってきている。授業では主に、画像認識技術で必要となる知識であるディジタル画像の基礎、空間フィルタリングなどの各種画像処理手法、画像認識で重要な役割を担う特徴抽出、機械学習について修得する。また、上記のようなHand-crafted特徴量を用いた従来型技術に加えて、特徴抽出過程を自動獲得する深層学習を用いた画像認識の基礎を修得する。",
+    "diploma_policies": [
+        "情報科学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "ディジタル画像処理[改訂第二版]",
+            "publication_year": 2020,
+            "author": "ディジタル画像処理編集委員会",
+            "publisher": "画像情報教育振興協会",
+            "price": 4290,
+            "isbn": "978-4-903474-64-9",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "AI・機械学習基礎",
+            "ニューラルネットワーク"
+        ],
+        "recommended": [],
+        "required_materials": "ノートPC（毎回持参するようにしてください）",
+        "other": null
+    },
+    "grading_criteria": "到達目標に挙げる 1. ディジタル画像の基礎知識および画像処理基礎知識についての理解　2. 種々のHand-crafted特徴量および機械学習法についての理解　3. 畳み込みニューラルネットワークの基礎についての理解　を以下により評価する。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "受講にあたり、次回の「授業の内容」を参照し、教科書該当ページを通読し (予習・45分程度)、授業終了後には、学んだ箇所の再読および提供資料の再確認を行い、知識を定着させてください(復習・45分程度)。授業の進捗状況や受講学生の理解度などを考慮して、適宜順序の変更や内容の一部省略・追加を行うことがあります。その場合には事前に告知します。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ディジタル画像の入出力装置・画像のディジタル化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "画像の性質を表す諸量・色空間",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "画像の明るさ，コントラストの変換・カラー画像の変換",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "演習①：画像処理ソフトを用いた各種画像変換",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "画像の幾何学的変換",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "空間フィルタリング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "演習②：空間フィルタリングによるエッジ検出",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "動画像処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "2値画像処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "画像認識の概要・一般物体認識と特定物体認識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "特徴抽出の概要・Hand-crafted特徴量",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "機械学習①：ブースティング・サポートベクタマシン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "機械学習②：深層学習　畳み込みニューラルネットワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "演習③：Hand-crafted特徴量を用いた画像認識1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "演習④：Hand-crafted特徴量を用いた画像認識2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村　遼"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

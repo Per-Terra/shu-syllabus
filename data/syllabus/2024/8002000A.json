@@ -1,22 +1,22 @@
 {
-    "fetched_at": "2025-04-07T11:09:25Z",
+    "fetched_at": "2026-06-02T11:59:41Z",
     "name_ja": "中上級日本語Ⅰ",
     "name_en": "Intermediate to advanced level Japanese Ⅰ",
     "syllabus_number": "8002000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "山本　貴子",
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

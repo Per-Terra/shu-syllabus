@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:04Z",
+    "fetched_at": "2026-06-02T11:58:20Z",
     "name_ja": "確率統計基礎",
     "name_en": "Introduction to Probability and Statistics",
     "syllabus_number": "2101200A",
@@ -8,16 +8,16 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
-            "name": "小柳　淳二",
+            "name": "小栁　淳二",
             "is_primary": false
         }
     ],
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

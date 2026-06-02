@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:11Z",
+    "fetched_at": "2026-06-02T11:56:38Z",
     "name_ja": "ケアマネジメント",
     "name_en": "Care Management",
     "syllabus_number": "2025200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
     "grading_criteria": "①ケアマネジメント理論の理解、②社会資源の理解、③ケアマネジメント実践（事例）のプレゼンテーション",

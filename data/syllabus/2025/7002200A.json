@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:07:21Z",
+    "fetched_at": "2026-06-02T12:00:11Z",
     "name_ja": "道徳教育",
     "name_en": "Moral Education",
     "syllabus_number": "7002200A",
@@ -10,12 +10,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -54,7 +54,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考資料は講義内で適宜紹介する。"
     },
     "grading_criteria": "本講義の主要テーマである「道徳教育の目標や内容」、「指導案の作成」に関する理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

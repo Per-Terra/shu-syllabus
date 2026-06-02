@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:24:08Z",
+    "fetched_at": "2026-06-02T11:58:19Z",
     "name_ja": "教育相談Ⅰ",
     "name_en": "Educational Consultation I",
     "syllabus_number": "7002700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,8 +39,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 学校現場における教育相談の役割　② 正しい子ども理解（アセスメント）　③ 適切な支援のための理論　④ 子どもに対する支援の実践的方略　について，知識量・思考力・表現力を評価する。",
     "evaluation_ratio": {
@@ -205,5 +205,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:58:14Z",
+    "name_ja": "簿記初級Ⅱ",
+    "name_en": "Introductory Bookkeeping Ⅱ",
+    "syllabus_number": "2108200A",
+    "course_number": "11-1-27-22-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢野　沙織",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n小規模株式会社の簿記技術の習得を目標とする。\n①企業活動において、重要な仕訳ができるようになる。\n②貸借対照表や損益計算書が作成できるようになる。\n③企業の決算公告を読むことができる。",
+    "overview": "簿記初級Ⅰの講義の継続として、3分法に基づく売上原価の算定、営業債権と債務に関する取引、固定資産の取得・保有・売却に関する取引、営業債権の貸倒れに関する取引、収益と費用に関する取引などに関する認識・測定・記録の方法に関する理論を本講義では扱う。これらの学修を通じて、小規模株式会社の主たる営業活動がどのように貸借対照表と損益計算書に集約していくかについて体系的に理解でき、説明できるようになる。また、ビジネスマンとして、企業がどのように資金を収集し、資金を運用しているかについて理解し、説明できるようになる。簿記初級Ⅰと簿記初級Ⅱの講義内容を通じ、日商簿記検定3級に合格できる力を身につけることができる。",
+    "diploma_policies": [
+        "経営コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "複式簿記概説－財務報告の方法と論理－〔第二版〕",
+            "publication_year": 2023,
+            "author": "鶴見正史　編著",
+            "publisher": "五絃舎",
+            "price": 2860,
+            "isbn": "978-4864341639",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書・電卓・ノート・筆記用具",
+        "other": "経済学部及び福祉情報学部の学生は、「簿記初級Ⅰ」及び「簿記初級Ⅱ」の両方の単位を修得することで、「簿記初級（４単位）」の単位が修得できます。（2021年度以前入学の学生は「簿記会計Ⅰ」の単位が修得できます。）"
+    },
+    "grading_criteria": "毎回授業の最後に小テストを行い、その回の内容の理解度を問う（28％）。\n期末試験では到達目標①～③の習得度を問う（72％）。",
+    "evaluation_ratio": {
+        "exam": 72,
+        "quiz": 28,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前学習・事後学習】\n毎回必ず授業中に取り上げた問題や小テスト、追加問題の解き直しをすること。\n解き直しは繰り返し行い、合計90分程度行うことが望ましい。\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付ける。\n\nなお、授業計画は、受講生の習得度に合わせて若干変更することがある。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "簿記の基礎",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "現金と預金の処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "商品売買の処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "貸倒れと貸倒引当金",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "その他の債権債務",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "手形の取引",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "有形固定資産の処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "税金の処理・資本金の処理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "決算整理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "試算表の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "精算表の作成(1)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "精算表の作成(2)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "財務諸表の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "訂正仕訳・帳簿の締め切り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

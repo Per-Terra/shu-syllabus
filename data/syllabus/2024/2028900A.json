@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:02:07Z",
+    "fetched_at": "2026-06-02T11:56:53Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅳ",
     "name_en": "Social Work Theory and Practice Ⅳ",
     "syllabus_number": "2028900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "井上　浩",
@@ -44,7 +44,7 @@
             "ソーシャルワークの基盤と専門職Ⅰ・Ⅱ",
             "ソーシャルワークの理論と方法Ⅰ～Ⅲ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "授業で必要とする文献を適宜担当教員がコピーし、学生に配布するのでそれを参照すること。"
     },
     "grading_criteria": "到達目標に関して、確実な知識を得ているかどうかを期末試験で評価する。",
@@ -210,5 +210,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

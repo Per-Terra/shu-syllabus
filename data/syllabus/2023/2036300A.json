@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:20:44Z",
+    "fetched_at": "2026-06-02T11:57:26Z",
     "name_ja": "経営組織論Ⅱ",
     "name_en": "Management Organization　Ⅱ",
     "syllabus_number": "2036300A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
             "企業概論",
             "経営戦略論"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①\t組織の概念、基本理論、②諸理論の使い分け、③具体的な組織問題の分析について「学生に対する評価」の内容で評価する\n※「その他」は授業中の課題と宿題、履修人数が多い場合、発表の20％をレポートに変更する",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

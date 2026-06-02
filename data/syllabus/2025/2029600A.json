@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:02:03Z",
+    "fetched_at": "2026-06-02T11:57:09Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅰ",
     "name_en": "Social Work Theory and Method Ⅰ",
     "syllabus_number": "2029600A",
@@ -9,12 +9,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -61,7 +61,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "①人と環境の交互作用に関する理論\n②ミクロ・メゾ・マクロレベルにおけるソーシャルワーク実践の考え方\n③ソーシャルワークの多様な実践モデル・アプローチの機能と活用方法\n上記①～③に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 100%",

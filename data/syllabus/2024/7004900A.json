@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:09:08Z",
+    "fetched_at": "2026-06-02T11:59:34Z",
     "name_ja": "学校保健",
     "name_en": "School Health",
     "syllabus_number": "7004900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "川崎　裕美",
@@ -37,7 +37,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めます。"
     },
     "grading_criteria": "小テスト、レポートの記述内容が講義の内容を反映し、学生の考えが表現されていること",
@@ -197,5 +197,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

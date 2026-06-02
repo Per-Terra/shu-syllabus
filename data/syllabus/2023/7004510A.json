@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:24:55Z",
+    "fetched_at": "2026-06-02T11:58:32Z",
     "name_ja": "バスケットボールⅠ",
     "name_en": "Basketball I",
     "syllabus_number": "7004510A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -37,7 +37,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考資料は適宜配布します。"
     },
     "grading_criteria": "バスケットボールをテーマにしたレポート課題の評価や実技中の取り組みや態度を評価します。また、授業への興味・関心も評価対象の一つです。",
@@ -203,5 +203,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

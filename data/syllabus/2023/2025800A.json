@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:17:18Z",
+    "fetched_at": "2026-06-02T11:56:34Z",
     "name_ja": "介護福祉士特別セミナー",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2025800A",
     "course_number": "05HS401",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,28 +46,28 @@
         {
             "title": "書いて覚える介護福祉士合格ドリル2024",
             "publication_year": 2023,
-            "author": "",
+            "author": null,
             "publisher": "中央法規出版",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "介護福祉士国家試験過去問解説集2024",
             "publication_year": 2023,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "介護福祉士国家試験模擬問題集",
             "publication_year": 2023,
-            "author": "",
+            "author": null,
             "publisher": "中央法規出版",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

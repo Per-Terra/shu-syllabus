@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:56:51Z",
+    "fetched_at": "2026-06-02T11:54:45Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600FF",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "竹下　徹",
@@ -43,7 +43,7 @@
             "author": "伊藤良高監修　森本誠司ほか",
             "publisher": "晃洋書房",
             "price": 0,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -51,7 +51,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は、2024年4月に発刊予定であるため、詳細については授業内で適宜案内を行う。"
     },
     "grading_criteria": "１．テーマに関する文献・資料の検索\n２．論理的な文章作成、言語化\n３．論文テーマに関する知識・技術の習得",
@@ -367,5 +367,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

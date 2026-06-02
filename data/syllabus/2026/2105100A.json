@@ -1,0 +1,192 @@
+{
+    "fetched_at": "2026-06-02T11:57:54Z",
+    "name_ja": "品質管理とデータ分析",
+    "name_en": "Quality Control and Data Analysis",
+    "syllabus_number": "2105100A",
+    "course_number": "31-3-24-31-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．\tＱＣ７つ道具に関する基本的な図，表を作成できる．\n２．\t回帰分析の結果を評価できる．\n３．\t分散分析法により要因を評価できる．\n４．\t管理図の作成ができる．",
+    "overview": "本講義では，基本的な品質管理工学の考えと統計学にもとづく統計的品質管理（SQC）の手法の習得が目標である．まず品質管理の基本的な考え用語を説明し，ＱＣ７つ道具（層別，チェックシート，パレート図，特性要因図，ヒストグラム，散布図（相関図），管理図）について説明する．次に確率関係の基本的概念，回帰分析について学び，要因の変化による効果を調べる分散分析法（一元配置，二元配置（繰り返しあり，なし））について説明する．最後に管理図法について説明する．適宜，表計算ソフトなどを使用し，PC によるデータ処理方法についても説明する．",
+    "diploma_policies": [
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "【ＴＱＭのための統計的品質管理】",
+            "publication_year": 1998,
+            "author": "山田茂，木村光宏，高橋宗雄 著",
+            "publisher": "コロナ社",
+            "price": 2640,
+            "isbn": "978-4-339-02357-2",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC，タブレット等",
+        "other": null
+    },
+    "grading_criteria": "中間演習 50点 程度，期末演習 50点 程度の合計 100 点で評価する．おおむね，中間演習は 1-7 回の内容，期末演習は 9-13 回の内容で出題する．補助的に追試，レポートなどを課し 10% 程度評価に含めることもある．",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 90,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "品質管理の考えは様々な領域で活用できるため，ぜひ身に着けてほしい．他の科目と重なる項目もあるが，復習も兼ねてしっかり学んで欲しい．講義前に 30 分程度の予習，講義後に 90 分程度の復習が望ましい．",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "品質管理について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "2",
+            "content": "ＱＣ７つ道具（１）：層別，チェックシート",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "3",
+            "content": "ＱＣ７つ道具（２）：パレート図，特性要因図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "4",
+            "content": "ＱＣ７つ道具（３）：ヒストグラム，散布図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "5",
+            "content": "ＱＣ７つ道具（４）：管理図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "6",
+            "content": "確率，統計の基本",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "7",
+            "content": "回帰分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "8",
+            "content": "中間演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "9",
+            "content": "分散分析法（一元配置）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "10",
+            "content": "分散分析法（二元配置 繰り返しなし）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "11",
+            "content": "分散分析法（二元配置 繰り返しあり）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "12",
+            "content": "管理図法（１）：xbar, R 管理図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "13",
+            "content": "管理図法（２）：p, u 管理図",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "14",
+            "content": "期末演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "15",
+            "content": "品質管理まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

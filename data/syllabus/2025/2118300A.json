@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:00Z",
+    "fetched_at": "2026-06-02T11:59:28Z",
     "name_ja": "地域・在宅看護概論",
     "name_en": "Introduction to Community Health and　Home　Care　Nursing",
     "syllabus_number": "2118300A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -50,10 +50,10 @@
         {
             "title": "※関連する資料はその都度配布する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -73,16 +73,16 @@
             "author": "厚生労働統計協会　編集",
             "publisher": "厚生労働統計協会",
             "price": 2970,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "※ほか適宜紹介する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -107,7 +107,7 @@
     "schedule": [
         {
             "number": "1",
-            "content": "ガイダンス、地域の人々の生活と健康",
+            "content": "ガイダンス、地域の人々の生活と健康(10/6)",
             "teaching_methods": [
                 "講義"
             ],
@@ -117,7 +117,7 @@
         },
         {
             "number": "2",
-            "content": "地域での看護が必要とされる社会的背景",
+            "content": "地域での看護が必要とされる社会的背景(10/20)",
             "teaching_methods": [
                 "講義"
             ],
@@ -127,7 +127,7 @@
         },
         {
             "number": "3",
-            "content": "地域・在宅看護の理念とその特徴",
+            "content": "地域・在宅看護の理念とその特徴(11/3)",
             "teaching_methods": [
                 "講義"
             ],
@@ -137,7 +137,7 @@
         },
         {
             "number": "4",
-            "content": "地域の人々の生活と健康を支えるケア",
+            "content": "地域の人々の生活と健康を支えるケア(11/17)",
             "teaching_methods": [
                 "講義"
             ],
@@ -147,7 +147,7 @@
         },
         {
             "number": "5",
-            "content": "地域・在宅看護の機能、提供機関の協働",
+            "content": "地域・在宅看護の機能、提供機関の協働(11/24)",
             "teaching_methods": [
                 "講義"
             ],
@@ -157,7 +157,7 @@
         },
         {
             "number": "6",
-            "content": "在宅療養を支える法制度とその活用",
+            "content": "在宅療養を支える法制度とその活用(12/8)",
             "teaching_methods": [
                 "講義"
             ],
@@ -167,7 +167,7 @@
         },
         {
             "number": "7",
-            "content": "地域における看護実践の変遷",
+            "content": "地域における看護実践の変遷(12/15)",
             "teaching_methods": [
                 "講義"
             ],
@@ -177,7 +177,7 @@
         },
         {
             "number": "8",
-            "content": "地域・在宅看護の倫理を踏まえた対象の尊厳と権利を尊重した支援",
+            "content": "地域・在宅看護の倫理を踏まえた対象の尊厳と権利を尊重した支援（1/5）",
             "teaching_methods": [
                 "講義"
             ],

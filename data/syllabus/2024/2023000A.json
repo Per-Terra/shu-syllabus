@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:00:34Z",
+    "fetched_at": "2026-06-02T11:56:17Z",
     "name_ja": "ネットワーク論",
     "name_en": "Introduction to Networking",
     "syllabus_number": "2023000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "野村　典文",
@@ -54,7 +54,7 @@
         ],
         "recommended": [],
         "required_materials": "PC、教科書、ノート、筆記具、講義資料（事前配布）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）、（ⅱ）、（ⅲ）、（ⅳ）の四点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

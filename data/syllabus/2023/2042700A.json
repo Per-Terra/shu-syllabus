@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:22:11Z",
+    "fetched_at": "2026-06-02T11:57:49Z",
     "name_ja": "自治体の業務を学ぶ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2042700A",
     "course_number": "01EP305、05HS301",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,7 +51,7 @@
             "財政学"
         ],
         "required_materials": "筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "・行政運営の理解（レポート：30％、発表・実技：10％）\n・問題点の指摘（レポート：15％、発表・実技：15％）\n・ディスカッション（発表・実技：30％）",
     "evaluation_ratio": {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

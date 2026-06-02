@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:20:23Z",
+    "fetched_at": "2026-06-02T11:57:21Z",
     "name_ja": "解剖学",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2034700A",
     "course_number": "04BM101、05LS106",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,15 +46,15 @@
             "author": "坂井建雄、橋本尚詞 著",
             "publisher": "成美堂出版",
             "price": 2090,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。",
     "evaluation_ratio": {

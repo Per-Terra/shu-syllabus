@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:00:22Z",
+    "fetched_at": "2026-06-02T11:56:09Z",
     "name_ja": "社会保障Ⅱ",
     "name_en": "Social Security II",
     "syllabus_number": "2016300A",
@@ -10,12 +10,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -44,7 +44,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて資料などを配布する。"
     },
     "grading_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
@@ -210,5 +210,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

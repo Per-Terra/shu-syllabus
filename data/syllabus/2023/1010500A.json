@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:10Z",
+    "fetched_at": "2026-06-02T11:53:20Z",
     "name_ja": "総合英語Ⅰ",
     "name_en": "Comprehensive English I",
     "syllabus_number": "1010500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -69,7 +69,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書，ノート，英語辞書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "TOEIC頻出単熟語の習得、TOEIC基本文法の理解、TOEICパート別対策法の理解と実践を、「学生に対する評価」にある通り評価します。評価基準の「小テスト」は、各ユニットで学ぶ語い・文法の定着を図るための小テストや小課題提出で、ほぼ毎時間あります。「その他」はTOEIC L&Rの受験です。学期末に学内で実施されるIPテストか12月に学外の一般会場で実施される公開テスト、いずれかを受験してスコア証明書の写しを提出した人には一律10点を加算します。原則として、出欠状況は評価に含まれませんが、授業回数の3分の2以上の出席がなければ期末試験受験資格が失効します。十分注意してください。",
     "evaluation_ratio": {
@@ -249,5 +249,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

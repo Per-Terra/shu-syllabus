@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:24:50Z",
+    "fetched_at": "2026-06-02T11:58:30Z",
     "name_ja": "バレーボールⅠ",
     "name_en": "Volleyball I",
     "syllabus_number": "7004310A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "運動を行うことができる服装、体育館シューズ",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ) バレーボール競技のルールおよび基礎知識\n(ⅱ) 基礎技術におけるボールに力を伝えるための動きと力を伝えるタイミングの習熟度\n(ⅲ)仲間と協力した連係プレーを計画し、実践することができる協調性",
     "evaluation_ratio": {
@@ -59,7 +59,7 @@
         "portfolio": 0,
         "other": 40
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -213,5 +213,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:31Z",
+    "fetched_at": "2026-06-02T11:56:22Z",
     "name_ja": "社会心理学",
     "name_en": "Social Psychology",
     "syllabus_number": "2023800A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -68,7 +68,7 @@
             "人間関係論"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ)社会的影響過程について理解する\n(ⅱ)社会的認知の諸現象・諸理論を理解する\n(ⅲ)現実的な問題への対処方法を考察する",
     "evaluation_ratio": {
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

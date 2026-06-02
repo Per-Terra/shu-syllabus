@@ -1,0 +1,215 @@
+{
+    "fetched_at": "2026-06-02T11:55:38Z",
+    "name_ja": "保健体育科教育学演習Ⅰ",
+    "name_en": "Pedagogy of Health and Physical Education I",
+    "syllabus_number": "2012900A",
+    "course_number": null,
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1　児童や生徒を取り巻く健康・体力に関する問題や学校体育における課題を理解できる。\n2　地域の実情に応じた学校体育の課題への対処法について検討することができる。\n3　学校体育に関わる自らの考えを他者にわかりやすく説明することができる。",
+    "overview": "中学校、高等学校の教諭を目指す学生が、児童や生徒を取り巻く運動や体力に関する諸問題や、学校体育に関する様々な課題に対し、どのような方法で対処することができるかを受講生同士でディスカッションしながら検討していく。とりわけ地域の児童や生徒の実情に着目し、身近な課題として捉えつつその解決のための方策を探る。また現職教諭から学校現場に関する児童や生徒の運動ならびに体力のこと、また学校体育に関する様々な問題・課題を聞く機会や、実際に学校現場を訪れて授業の参観・学習支援を行うなど、様々な経験を通して各人における気づきを促すとともに、そこで得られた気づきを皆に発信・共有する場を設ける。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "保健体育科教育法Ⅰ",
+            "保健体育科教育法Ⅱ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "必要な教材は授業内で適宜配付します",
+        "other": "なし"
+    },
+    "grading_criteria": "1　児童や生徒を取り巻く健康・体力に関する問題や学校体育における課題を理解できる。\n2　地域の実情に応じた学校体育の課題への対処法について検討することができる。\n3　学校体育に関わる自らの考えを他者にわかりやすく説明することができる。\n\n上記３つの点を踏まえ、⑪に記載の方法によって総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "教育現場における運動や体力、体育に関する課題に着目しながら実践を交えた学修を進めて行くため、予習・復習はもちろんのこと、学修したことをポートフォリオに蓄積していくことを強く求める。また多様な学修から自分自身の卒業研究課題を見出してほしい。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（保健体育科実践演習の概要説明）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "児童や生徒の健康や体力に関する問題について\n（調査結果や先行研究の紹介）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "学校体育における様々な課題について\n（調査結果や先行研究の紹介）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "中学校の保健科授業の参観",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "中学校の体育科授業の参観",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ゲストスピーカーによる講話\n（中学校保健体育科教諭）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "課題の整理と解決策の検討（グループディスカッション）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "中学校での保健科学習支援",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "中学校での体育科学習支援",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "体育理論領域の教材研究（運動やスポーツの多様性）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "体育理論領域の教材研究（運動やスポーツの効果・学び方・安全）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "体育理論領域の教材研究（文化としてのスポーツ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "体育理論領域　模擬授業（グループA）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "体育理論領域　模擬授業（グループB）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "保健体育科実践演習のまとめ及び保健体育実践実習の確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

@@ -1,0 +1,246 @@
+{
+    "fetched_at": "2026-06-02T11:53:39Z",
+    "name_ja": "総合英語初級Ⅱ（再履修）",
+    "name_en": "Comprehensive English Beginners II (Retakers)",
+    "syllabus_number": "1013200Z",
+    "course_number": "11-1-14-22-11、21-1-14-22-10、22-1-14-22-10、23-1-14-22-09",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "西村　浩子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①自然なスピードで話される英語に慣れ、簡単な短い問いかけや会話を理解できる。\n②日常のコミュニケーションでよく使用される依頼・提案などの基礎的な英語表現を理解できる。\n③英語の手紙・Eメール・広告・通知などの文体に慣れ、簡単な短い英文を速読して理解できる。",
+    "overview": "語彙・聴解・読解・文法の総合的な英語運用能力の基礎を固める。\nリスニングでは、写真・イラストを見ながらそれについての平易な文構造の短い記述を聞いたり話したりする練習を通して、日常生活の中でよく見られる人々の行動等について簡単な語彙で表現できるようになる。また、やや長い聴解文を聞く練習を通して、情報の繰り返しや言い換えがあれば話の詳細が一部理解できるようになる。リーディングでは、文構造が単純な英文を後戻りなしで意味のまとまりごとに読む練習を繰り返し、短い簡単なEメールなどをより速く、全体の意味をより正確に理解しながら読めるようになる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [
+        {
+            "title": "English Booster!",
+            "publication_year": 2021,
+            "author": "Robert Hickling",
+            "publisher": "金星堂",
+            "price": 2100,
+            "isbn": "9784764741133",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、筆記用具、スマートフォン",
+        "other": "なし"
+    },
+    "grading_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価する。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含む。小テストは、最終授業内で行うテスト（40%）と各授業で行うQuiz (40%）を含む。通常の授業時間内に行う活動を基にする評価が半分以上を占めるので、遅刻・欠席をしないよう注意すること。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 80,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "予習は原則として必要ありません。表現の定着を図り、英語の音声に慣れ親しむために復習はしっかり行ってください。毎日30分は英語の音声に触れたり英語を読んだりするようにしましょう。復習の学習方法は授業内で説明しますが、音読やシャドーイングを中心に行うことを推奨します。\n教科書は、『English Booster!』は必ず書き込みのないものを持参してください。授業計画は進捗などにより変更する場合があります。\n（事前事後学修時間の目安 60～90分）\n\n【オフィスアワー】\n・原則として木曜日2限（学期中／事前にメール等で連絡）\n・事前にメール等で連絡をくれれば個別に対応可",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、授業の進め方、評価について\nUnit 8: Going Green\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Unit 8: Going Green\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Unit 9: Time to Work\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Unit 9: Time to Work\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Unit 10: Know Your Business\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Unit 10: Know Your Business\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Unit 11: The Job Interview\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Unit 11: The Job Interview\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Unit 12: Is Your Company Right for You?\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Unit 12: Is Your Company Right for You?\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Unit 13: Email Matters\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Unit 13: Email Matters\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Unit 14: On the Move\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Unit 14: On the Move\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "授業内テスト\n解説・総復習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

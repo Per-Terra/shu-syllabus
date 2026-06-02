@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:03:29Z",
+    "fetched_at": "2026-06-02T11:57:23Z",
     "name_ja": "運動指導論",
     "name_en": "Theory of Exercise and Sports Coaching",
     "syllabus_number": "2034400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "水﨑　佑毅",
@@ -46,7 +46,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "参考資料は適宜配布します。"
     },
     "grading_criteria": "スポーツ指導者に求められる態度や基礎知識等を小テストとレポートから評価します。小テストは、1回目から7回目までの内容を含み、8回目の授業内で行います。",
@@ -212,5 +212,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

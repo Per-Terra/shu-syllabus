@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:57:52Z",
+    "fetched_at": "2026-06-02T11:54:27Z",
     "name_ja": "地域づくり論",
     "name_en": "Community Development",
     "syllabus_number": "2003300A",
@@ -12,12 +12,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -48,7 +48,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "特定の教科書は指定せず、授業中に使用する資料を中心に進める（授業後に適宜配布する）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "出席、リフレクション(振り返り）レポート、および授業中のグループワークへの参加・発表内容（プレゼンテーション）、および期末レポートの内容を総合して評価する。提出期限を超過したものは評価しない。",
     "evaluation_ratio": {
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:23:05Z",
+    "fetched_at": "2026-06-02T11:58:03Z",
     "name_ja": "教育課程論(a)",
     "name_en": "Theory of Curriculum (class a)",
     "syllabus_number": "7000500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -60,7 +60,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①教育課程の役割・機能・意義、②教育課程編成の基本原理と編成方法、の2点については、主に最終試験において評価する。③最新の教育課程編成の方針、④実際の学校教育課程の分析、の2点については、主に授業レポートやプレゼンテーションにおいて評価する。成績評価は、石橋担当回と大坂担当回のそれぞれで評価した結果を合算した結果に基づいてとり行う。",
     "evaluation_ratio": {
@@ -240,5 +240,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

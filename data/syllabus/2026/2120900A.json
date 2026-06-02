@@ -1,0 +1,74 @@
+{
+    "fetched_at": "2026-06-02T11:59:34Z",
+    "name_ja": "精神看護実習",
+    "name_en": "Psychiatric Nursing Clinical Practicum",
+    "syllabus_number": "2120900A",
+    "course_number": "22-3-26-22-07",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "羽生　貞親",
+            "is_primary": true
+        },
+        {
+            "name": "大達　亮",
+            "is_primary": false
+        },
+        {
+            "name": "岡田　昌也",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．対象の病状を理解し、精神を病む対象およびその家族の状況について理解できる。\n２．患者看護者関係の発展過程を理解し、その活動を通して援助的人間関係を築く努力ができる。\n３．対象のセルフケア能力をアセスメントし、看護計画の立案、実施、評価ができる。\n４．精神医療における多職種間の連携および精神保健福祉システムについて説明できる。",
+    "overview": "本授業では、精神に障害を持つ人をひとりの人間として理解し、治療的な患者看護者関係を活用しながら、セルフケア拡大に向けた援助を展開する。受け持ち患者への援助や社会資源の見学を通して、精神看護のあり方や今後の課題について考察する。\n本授業では、精神医療の現場で実際に行われている必要な援助について理解し、さらに援助の実践を通して、精神看護の実際と役割について理解する。\n本授業を通して、これまでの講義や演習で学んだ知識・技術・態度を統合して、精神を病む対象への看護を実践する基礎的能力を身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "精神看護学概論",
+            "精神看護方法",
+            "精神看護実践"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "必要な資料や書籍については適宜紹介する"
+    },
+    "grading_criteria": "実習評価表に基づき、実習内容、実習記録および実習態度等により総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 100
+    },
+    "teacher_message": "臨地実習では座学で学べない多くのことを学ぶ貴重な機会です。学生にとって有意義な「楽しい実習」を目指しています。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日（不在時はメールで受け付けます。）",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": "精神科領域において、看護師として勤務経験を持つ教員が実習を担当する。"
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:07:04Z",
+    "fetched_at": "2026-06-02T11:58:47Z",
     "name_ja": "コミュニケーション論",
     "name_en": "Nursing Communicatio",
     "syllabus_number": "2116300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 看護学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "杉本　吉恵",
@@ -40,19 +40,19 @@
         {
             "title": "系統看護学講座　基礎分野　人間関係論",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         },
         {
             "title": "系統看護学講座　基礎看護学２　基礎看護技術Ⅰ",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -60,19 +60,19 @@
         {
             "title": "メディカルスタッフのための基礎からわかる人間関係論",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "南山堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "【看護実践能力向上シリーズ】患者のこころによりそう看護コミュニケーション（全4巻）",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "JSP　東京サウンド・プロダクション",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:28Z",
+    "fetched_at": "2026-06-02T11:53:20Z",
     "name_ja": "応用数学",
     "name_en": "Applied mathematics",
     "syllabus_number": "1008200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "鏡　裕行",
@@ -80,8 +80,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "線形代数学と微分積分学の講義内容の理解について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -261,5 +261,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

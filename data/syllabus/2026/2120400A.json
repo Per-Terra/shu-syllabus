@@ -1,0 +1,113 @@
+{
+    "fetched_at": "2026-06-02T11:59:31Z",
+    "name_ja": "成人急性期看護実習",
+    "name_en": "Adult Acute Care Nursing Practice",
+    "syllabus_number": "2120400A",
+    "course_number": "22-3-26-22-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "松浦　純平",
+            "is_primary": true
+        },
+        {
+            "name": "多田めぐみ",
+            "is_primary": false
+        },
+        {
+            "name": "高橋　登志枝",
+            "is_primary": false
+        },
+        {
+            "name": "中谷　信江",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "テーマ：急性期にある成人患者の全身状態を統合的に理解し、安全で根拠に基づく看護を実践する。\n到達目標：\n①急性期にある成人患者の病態生理と治療内容を関連づけて理解し、全身状態を統合的にアセスメントできる。\n②急変のリスクや合併症を予測し、優先度を判断した看護を安全に実践できる。\n③患者の身体的・心理的状況を踏まえ、倫理的配慮を含めた看護を実践できる。\n④実習体験を通して自己の臨床判断を振り返り、看護師としての専門性向上に向けた課題を明確にできる。",
+    "overview": "本実習は、急性期にある成人患者の病態変化を的確に捉え、臨床判断に基づいた看護を実践する能力の育成を目的とする。学生は、限られた情報の中で患者の状態をアセスメントし、急変や合併症のリスクを予測しながら、優先度を判断した看護を実践する。また、急性期医療における安全管理および倫理的配慮の重要性を理解し、多職種と協働する中で看護職の役割を学ぶ。実習終了後には実践を振り返り、自己の臨床判断過程を整理することで、今後の学習課題を明確にする。",
+    "diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [
+        {
+            "title": "ナーシング･グラフィカ 成人看護学① 成人看護学概論 発行年(西暦)",
+            "publication_year": 2023,
+            "author": "安酸史子・鈴木純恵・吉田澄恵 編金額(税込)",
+            "publisher": "メディカ出版",
+            "price": 3520,
+            "isbn": "978-4-8404-7528-0",
+            "available_on_campus": false
+        },
+        {
+            "title": "看護学テキスト NiCE 成人看護学 急性期看護Ⅰ",
+            "publication_year": 2025,
+            "author": "林直子　佐藤まゆみ",
+            "publisher": "南江堂",
+            "price": 3520,
+            "isbn": "978-4-524-23231-4",
+            "available_on_campus": false
+        },
+        {
+            "title": "看護学テキスト NiCE 成人看護学 急性期看護Ⅱ",
+            "publication_year": 2025,
+            "author": "佐藤まゆみ　林直子",
+            "publisher": "南江堂",
+            "price": 3000,
+            "isbn": "978-4-524-23288-8",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "学内オリエンテーション時に紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "本実習の成績評価は、急性期にある成人患者の看護実践を通して、実習態度、アセスメントおよび臨床判断能力、看護実践能力、振り返りと自己評価、ならびに多職種との連携・報告能力の観点から総合的に評価する。具体的には、医療安全および守秘義務を遵守し、急性期医療の特性を理解した上で主体的に実習へ取り組んでいるかを評価する。また、患者の全身状態や病態変化を継続的に観察し、治療・侵襲に伴うリスクを踏まえて看護の優先度を判断できているか、さらにその判断に基づいた看護計画の立案および実践が行えているかを評価の対象とする。加えて、看護実践を振り返り、自己の判断や行動を客観的に整理し、今後の課題を明確にできているかを評価する。併せて、指導者や医療チームに対して適切な報告・連絡・相談が行え、多職種と協働する姿勢が示されているかを確認し、これらを総合して成績を判定する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,0 +1,163 @@
+{
+    "fetched_at": "2026-06-02T11:55:22Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700V",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "東恩納　玲代",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本ゼミでは、スポーツ・健康分野の研究方法を学び、卒業研究論文完成に向けて論文を執筆する。\n1）伝わりやすい文章を書ける。\n2）測定・調査が実施できる。\n3）目的に沿った統計解析を選択できる。\n4）卒業研究論文を完成させる。",
+    "overview": "専門Ⅰでの学びを活かし、卒業研究論文を作成する。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": "モバイル端末",
+        "other": "必要に応じて適宜資料を配布する。"
+    },
+    "grading_criteria": "本文への取り組み状況、測定・調査への意欲・態度、データの取り扱いで総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "卒業研究論文執筆に向けて、常日頃からスポーツ健康科学に興味関心を持ち、何事にも自ら考え計画的かつ意欲的に取り組むことに努めてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション：授業の概要、シラバス、授業の進め方、成績評価の方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "2～4",
+            "content": "卒業研究論文計画書の作成：卒業研究論文計画書の修正を行い、完成させる。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "5～7",
+            "content": "卒業研究論文作成：緒言を作成する。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "卒業研究論文作成：緒言を作成する。測定・調査結果データ入力のための準備を行う。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "卒業研究論文作成：緒言を完成させる。方法を作成する。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "卒業研究論文作成：方法を修正する。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "卒業研究論文作成：方法を完成させる。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "卒業研究論文作成：測定・調査を実施する。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "13～15",
+            "content": "卒業研究論文作成：データ入力、データ整理、統計解析を行う。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        },
+        {
+            "number": "16～30",
+            "content": "卒業研究論文の完成に取り組む：引用（剽窃、盗用、解釈）に注意して、卒業研究論文の完成に取り組む。",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "東恩納　玲代"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

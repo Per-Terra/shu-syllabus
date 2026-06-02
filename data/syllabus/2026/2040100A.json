@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:56:55Z",
+    "name_ja": "地域スポーツ経営論Ⅰ",
+    "name_en": "Theory of community sports management Ⅰ",
+    "syllabus_number": "2040100A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清原　泰治",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本講義は、日本スポーツ協会が認定する「アシスタントマネジャー」の資格取得を希望する学生を対象に授業を実施する。アシスタントマネジャーとは、総合型地域スポーツクラブなどにおいてメンバーが充実したクラブライフを送ることができるよう、クラブマネジャーを補佐し、運営のための諸活動をサポートするための資格である。本講義では、日本スポーツ協会がしているテキストに沿って授業を実施し、クラブ運営の基礎を学ぶことをテーマとする。\n　\n【到達目標】\n1．テキストに記載されている内容を理解し、説明することができる。\n2．日本のスポーツ政策・健康づくり政策について全体像を説明することができる。\n3．部活の地域移行について、その理想と現実について説明することができる。\n4．「スポーツによる地域の活性化」とは何か、それを実現するためにはどうすればよいかについて自分の意見を述べることができる。",
+    "overview": "地域スポーツを充実させていけば、そこに生きる人々にWell-beingを実感してもらうことができるのだろうか。そういう疑問を持っている。人々の暮らしを彩るさまざまな地域文化の中の一つがスポーツであり、それはココロとカラダのユタカさに繋がっていくのではないか。「地域スポーツ経営論Ⅰ」では、そのような考え方のもとに、総合型地域スポーツクラブを運営することのできる人材の育成を目指す。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [
+        {
+            "title": "公認アシスタントマネジャー養成テキスト",
+            "publication_year": 2006,
+            "author": "間野義之他",
+            "publisher": "公益財団法人日本スポーツ協会",
+            "price": 2420,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具及び電子機器",
+        "other": "適宜指示する。"
+    },
+    "grading_criteria": "【到達目標】を⑪で示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "予習として、テキストをあらかじめ読んでおくことを必須とする。（1時間）\n復習として、「記録用紙」に毎回の講義内容を記録する。（1時間）\n授業中に関連する文献やURLを紹介した場合は、学んだことについて「記録用紙」に記入する。（2時間）\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "地域スポーツクラブとは─地域スポーツを取り巻く環境の変化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "地域スポーツクラブとは─スポーツ基本法とスポーツ基本計画",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "地域スポーツクラブとは─総合型地域スポーツクラブを取り巻く環境",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "地域スポーツクラブとは─総合型地域スポーツクラブ・マネジメントの仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "クラブマネジャーの役割─クラブマネジャー・アシスタントマネジャーとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "クラブマネジャーの役割─クラブマネジャー・アシスタントマネジャーの位置づけ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "クラブマネジャーの役割─クラブマネジャー・アシスタントマネジャーに求められる能力",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "クラブマネジャーの役割─ロジカルシンキング（論理的思考法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "クラブマネジャーの役割─コミュニケーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "クラブマネジャーの役割─マーケティング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "クラブマネジャーの役割─経営戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "クラブマネジャーの役割─人・組織のマネジメント、ホスピタリティ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "クラブマネジャーの役割─施設の管理と運営、安全管理、財務",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月6日　13:00〜14:00　521教室",
+            "teaching_methods": [],
+            "teachers": [
+                "清原泰治"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

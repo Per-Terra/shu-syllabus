@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:58:30Z",
+    "name_ja": "運動分子生物学演習",
+    "name_en": "Seminar in Exercise and Molecular Biology",
+    "syllabus_number": "2110500A",
+    "course_number": "21-3-23-22-06",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "松生　香里",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 運動や心身ストレスに対する身体の応答、 また、加齢や病気等の疾患に対する身体適応について、習得した知識をもとに自身の考えを述べることができる。\n2. 世の中の運動に関わる情報について、自身で正しく解釈し、本来の心身の機能や役割を基に説明できる。",
+    "overview": "運動分子生物学で学んだ内容をもとに運動や心身のストレスに対する身体の適応について理解を深めながら、身近に経験する身体活動、運動やスポーツ活動における骨格筋の肥大や身体組成の変化・適応、加齢や疾病にともなう身体の変化等について各自がテーマを持参して議論する。授業の後半では、運動や健康に関わる分子生物学的な情報を各自で調べ、近年の運動分子生物学に関連するトピックスについて興味ある題材を基に、新聞を作成し、発表・ディスカッションの時間を設ける。この講義を通じて、世の中の運動に関わる情報について、心身の機能や役割について説明できる能力を習得する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "『分子運動生理学入門』（スポーツ医・科学書出版.）",
+            "publication_year": 2019,
+            "author": "監訳：石井直方．中里浩一.",
+            "publisher": "NAP Limited",
+            "price": 3960,
+            "isbn": "978-4-905168-59-1",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "Molecular Exercise Physiology: An Introduction.",
+            "publication_year": 2014,
+            "author": "Adam P. Sharples,James P. Morton and Henning Wackerhage",
+            "publisher": "Taylor & Francis Group",
+            "price": 13284,
+            "isbn": "978-1-138-08687-6",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "運動分子生物学"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具",
+        "other": "なし"
+    },
+    "grading_criteria": "プレゼンテーション60%、課題レポート40%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "マスメディアの情報や図書館を利用して、運動と分子生物学に関連する最新情報に目を向けておくことをおすすめします。\n運動や心身のストレスに対する身体の適応を知り、人体の発達や運動、老化との関連を理解し、将来の健康維持・増進に役立つ知識として、みなさんの日常生活に還元できることを願っています。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス：運動と分子生物学（研究論文の調べ方）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "近年の研究動向の紹介\n①遺伝子とスポーツに関する内容",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "近年の研究動向の紹介\n②進化と運動に関する内容",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "近年の研究動向の紹介\n③外部環境変化と身体適応について",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "近年の研究動向の紹介\n④シグナル伝達と運動適応について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "近年の研究動向の紹介\n⑤加齢と運動に関する内容について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n①遺伝と持久性運動パフォーマンスに関する内容について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n②レジスタンス運動における骨格筋の適応について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n③筋量と筋力に関する内容について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n④運動と神経系の適応について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n⑤運動と免疫系の適応について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "研究論文の紹介、測定方法の理解とディスカッション\n⑥持久性運動と骨格筋線維の適応について",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "運動や健康に関する運動分子生物学の情報（研究論文）検索",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "運動分子生物学に基にした新聞作成：興味ある内容の研究論文を集約し、新聞としてまとめる",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション：作成した新聞を口頭発表し、フリーディスカッションを実施する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松生　香里"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

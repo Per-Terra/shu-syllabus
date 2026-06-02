@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:00:48Z",
+    "fetched_at": "2026-06-02T11:56:24Z",
     "name_ja": "心理学実験実習Ⅱ",
     "name_en": "Psychological experiment trainingⅡ",
     "syllabus_number": "2024200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "羽渕　由子",
@@ -79,7 +79,7 @@
             "心理統計学"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "以下の３つの観点に基づき，「学生に対する評価」の内容で評価する。\n(i) 自分たちで問題を設定し、問題を解決するための実験を計画することができる\n(ii) 自分たちの実験によって得られたデータを適切に処理、解釈することができる\n(iii) データに基づいて論理的な文章としてまとめ、発表することができる",
     "evaluation_ratio": {
@@ -400,5 +400,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

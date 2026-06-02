@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:00:09Z",
+    "fetched_at": "2026-06-02T11:56:00Z",
     "name_ja": "レクリエーション演習",
     "name_en": "Recreation exercise",
     "syllabus_number": "2011790A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
         "recommended": [
             "レクリエーション論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "(i) コミュニケーション・ワークを理解する\n(ii) 対象者に合わせたレクリエーション支援ができる\n(ⅲ) レクリエーションワークのアレンジ法について理解する",

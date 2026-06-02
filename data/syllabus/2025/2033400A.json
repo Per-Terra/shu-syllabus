@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:02:32Z",
+    "fetched_at": "2026-06-02T11:57:25Z",
     "name_ja": "パラスポーツ論Ⅱ",
     "name_en": "Theory of Parasports Ⅱ",
     "syllabus_number": "2033400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
             "author": "（公財）日本パラスポーツ協会編",
             "publisher": "（公財）日本パラスポーツ協会",
             "price": 1000,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

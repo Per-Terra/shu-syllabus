@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:23:44Z",
+    "fetched_at": "2026-06-02T11:58:12Z",
     "name_ja": "福祉科教育法Ⅰ",
     "name_en": "Educational Method for Welfare I",
     "syllabus_number": "7001800A",
@@ -9,11 +9,11 @@
     ],
     "category": "教職科目",
     "home_department": "福祉情報学部",
-    "requirements": "",
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -37,8 +37,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "講義だけではなく、グループワークや事例検討などの演習も取り入れます。",
     "evaluation_ratio": {
@@ -201,5 +201,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

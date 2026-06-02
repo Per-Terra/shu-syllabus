@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:51Z",
+    "fetched_at": "2026-06-02T11:57:02Z",
     "name_ja": "ソーシャルワーク演習Ⅲ",
     "name_en": "Social Work Practice Ⅲ",
     "syllabus_number": "2028600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -50,7 +50,7 @@
             "ソーシャルワーク実習Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "ソーシャルワーク実習Ⅰ事後演習ですので、実習生が実習中に取り組んできた事例が題材となります。"
     },
     "grading_criteria": "ソーシャルワーク実習Ⅰで取り上げた事例に基づき、そのspecificな内容をgenericな視点へと転換できるようになったかを、レポート75％と実技25％で評価する。",
@@ -231,5 +231,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

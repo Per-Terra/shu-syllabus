@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:53:52Z",
+    "fetched_at": "2026-06-02T11:53:29Z",
     "name_ja": "教養ゼミ（EB-1～12）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800EA",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "寺田　篤史",
@@ -430,5 +430,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

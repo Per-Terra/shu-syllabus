@@ -1,19 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:05:23Z",
+    "fetched_at": "2026-06-02T11:59:07Z",
     "name_ja": "ベースボール型球技",
     "name_en": "Baseball type ball game",
     "syllabus_number": "2113900A",
     "course_number": "21-2-27-21-03",
     "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
-    "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -42,7 +43,7 @@
             "author": "木田京子",
             "publisher": "成美堂出版",
             "price": 825,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -50,7 +51,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "運動に適した服装(ジャージ等)・シューズを着用すること。時計・アクセサリー類は禁止する。水分補給のためのドリンクを持参すること。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "ソフトボールに関する基本的な知識や技術の習得と、授業実践の方法ならびに注意点を理解しているかについて評価する。",
     "evaluation_ratio": {
@@ -215,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

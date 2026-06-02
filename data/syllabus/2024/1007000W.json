@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:53:19Z",
+    "fetched_at": "2026-06-02T11:53:17Z",
     "name_ja": "地域ゼミ-1",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000W",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
@@ -41,7 +41,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教職課程履修者を優先とする"
     },
     "grading_criteria": "(i) 中学生における運動発達に関する専門的な知識を身につける。\n(ii) 運動に関する指導者としての資質を高める。\n(iii) 中学生における運動発達の特性を理解し、効果的な運動指導が実践できる。",
@@ -207,5 +207,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,6 +1,6 @@
 {
-    "fetched_at": "2025-04-04T05:55:28Z",
-    "name_ja": "地域ゼミ",
+    "fetched_at": "2026-06-02T11:52:54Z",
+    "name_ja": "地域ゼミ（地域ゼミⅠ・地域ゼミⅡ）",
     "name_en": "Regional Seminar",
     "syllabus_number": "1007000A",
     "course_number": "11-2-12-11-02、21-2-12-11-02、23-2-12-11-02",
@@ -11,12 +11,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -115,8 +115,8 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "特になし",
-        "other": "特になし"
+        "required_materials": "ノートパソコン、筆記用具",
+        "other": "【履修上の注意】特定の教科書は指定しません。ゼミ担当者の指示に従ってください。"
     },
     "grading_criteria": "「その他」・・・活動報告60％、平素の活動状況40％によって評価する。",
     "evaluation_ratio": {
@@ -127,7 +127,7 @@
         "portfolio": 0,
         "other": 100
     },
-    "teacher_message": "地域ゼミはチームによる課題解決を行います。学びを深めるためにはゼミ生同士・地域の協力者との協働が不可欠です。周囲とのコミュニケーションを十分にとり、ゼミ活動に積極的に参画することを期待します。ゼミ内でのグループワークや学外活動を意義あるものとするため、ワークや活動地域に関する予習、事後の振り返りを十分に行ってください。\n\n【事前学習・事後学習の時間】\nあわせて90分程度。ゼミの活動に関する準備や振り返りを行うこと。\n\n【オフィスアワー，連絡方法等】\n配属されたゼミの担当教員の指示に従うこと。",
+    "teacher_message": "地域ゼミはチームによる課題解決を行います。学びを深めるためにはゼミ生同士・地域の協力者との協働が不可欠です。周囲とのコミュニケーションを十分にとり、ゼミ活動に積極的に参画することを期待します。ゼミ内でのグループワークや学外活動を意義あるものとするため、ワークや活動地域に関する予習、事後の振り返りを十分に行ってください。\n\n【事前学習・事後学習の時間】\nあわせて240分程度。ゼミの活動に関する準備や振り返りを行うこと。\n\n【オフィスアワー，連絡方法等】\nゼミ担当者の指示に従うこと。",
     "schedule": [
         {
             "number": "1",
@@ -521,5 +521,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

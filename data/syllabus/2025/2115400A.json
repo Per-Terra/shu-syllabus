@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:35Z",
+    "fetched_at": "2026-06-02T11:59:14Z",
     "name_ja": "周産期小児期疾病治療論",
     "name_en": "Perinatal and Childhood Diseases and Therapy",
     "syllabus_number": "2115400A",
@@ -8,21 +8,17 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "山本　滋",
             "is_primary": true
-        },
-        {
-            "name": "大平　光子",
-            "is_primary": false
         },
         {
             "name": "市山　高志",
@@ -54,19 +50,19 @@
         {
             "title": "看護学テキスト　病態・治療論13　産科婦人科疾患",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         },
         {
             "title": "看護学テキスト　病態・治療論14　小児疾患",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -74,10 +70,10 @@
         {
             "title": "適宜、参考資料を配付する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -88,7 +84,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "期末試験100％",
     "evaluation_ratio": {
@@ -108,7 +104,7 @@
                 "講義"
             ],
             "teachers": [
-                "平林　啓"
+                "平林　啓　7/22　火　5時限"
             ]
         },
         {
@@ -118,7 +114,7 @@
                 "講義"
             ],
             "teachers": [
-                "平林　啓"
+                "平林　啓　5/14　5時限"
             ]
         },
         {
@@ -128,7 +124,7 @@
                 "講義"
             ],
             "teachers": [
-                "平林　啓"
+                "平林　啓　6/4　5時限"
             ]
         },
         {
@@ -138,7 +134,7 @@
                 "講義"
             ],
             "teachers": [
-                "立石　浩"
+                "立石　浩　7/10　木　5時限"
             ]
         },
         {
@@ -148,7 +144,7 @@
                 "講義"
             ],
             "teachers": [
-                "平林　啓"
+                "平林　啓　6/16　月　5時限"
             ]
         },
         {
@@ -158,7 +154,7 @@
                 "講義"
             ],
             "teachers": [
-                "平林　啓"
+                "平林　啓　6/18　5時限"
             ]
         },
         {
@@ -168,7 +164,7 @@
                 "講義"
             ],
             "teachers": [
-                "山本　滋"
+                "山本　滋　6/17　4時限"
             ]
         },
         {
@@ -178,7 +174,9 @@
                 "講義"
             ],
             "teachers": [
-                "市山　高志"
+                "市山　高志",
+                "6/25",
+                "5時限"
             ]
         },
         {
@@ -188,7 +186,8 @@
                 "講義"
             ],
             "teachers": [
-                "市山　高志"
+                "市山　高志　7/2",
+                "5時限"
             ]
         },
         {
@@ -198,7 +197,8 @@
                 "講義"
             ],
             "teachers": [
-                "市山　高志"
+                "市山　高志　7/9",
+                "5時限"
             ]
         },
         {
@@ -208,7 +208,7 @@
                 "講義"
             ],
             "teachers": [
-                "立石　浩"
+                "日高　一平　7/14　月　5時限"
             ]
         },
         {
@@ -218,7 +218,7 @@
                 "講義"
             ],
             "teachers": [
-                "立石　浩"
+                "水谷　誠　7/28　月　5時限"
             ]
         },
         {
@@ -228,7 +228,8 @@
                 "講義"
             ],
             "teachers": [
-                "立石　浩"
+                "内田　正志　7/10",
+                "木　4時限"
             ]
         },
         {
@@ -238,7 +239,7 @@
                 "講義"
             ],
             "teachers": [
-                "立石　浩"
+                "井出　貴大　7/24　木4時限"
             ]
         },
         {
@@ -248,7 +249,8 @@
                 "講義"
             ],
             "teachers": [
-                "市山　高志"
+                "市山　高志　7/23",
+                "5時限"
             ]
         }
     ],

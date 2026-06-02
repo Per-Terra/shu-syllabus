@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:59:14Z",
+    "fetched_at": "2026-06-02T11:53:37Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700U",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,8 +40,8 @@
         "recommended": [
             "日本史Ⅰ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "講義内で指示される課題提出をもって評価します。課題解決のためには、必ず現地調査を行うことが必須になりますので、講義時間外での活動必須です。",
     "evaluation_ratio": {
@@ -206,5 +206,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

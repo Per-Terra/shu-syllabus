@@ -1,0 +1,237 @@
+{
+    "fetched_at": "2026-06-02T11:56:25Z",
+    "name_ja": "ソーシャルワークの理論と方法Ⅰ",
+    "name_en": "Social Work Theory and Method Ⅰ",
+    "syllabus_number": "2029600A",
+    "course_number": "23-2-22-21-01",
+    "departments": [
+        "福祉情報学部",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "竹下　徹",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①人と環境の交互作用に関する理論について説明することができる。\n②ミクロ・メゾ・マクロレベルにおけるソーシャルワーク実践の考え方と関連について説明することができる。\n③ソーシャルワークの多様な実践モデル・アプローチの機能と活用方法について説明することができる。",
+    "overview": "本科目はソーシャルワーク実践の基盤となる人と環境との交互作用に関する理論やソーシャルワークの様々な実践モデルとアプローチの特徴とソーシャルワーク実践における活用方法を学ぶ科目である。\n授業内容は以下の通りである。\n①人と環境との交互作用に関する理論とミクロ・メゾ・マクロレベルにおけるソーシャルワーク\n②ソーシャルワークの様々な実践モデルとアプローチ\n③ソーシャルワークにおける実践モデル・アプローチの活用方法と留意点\n本授業を通して学生が身に付ける能力は以下の通りである。\n①人と環境の交互作用に関する理論について理解する力\n②ミクロ・メゾ・マクロレベルにおけるソーシャルワーク実践の考え方と関連について理解する力\n③ソーシャルワークの多様な実践モデル・アプローチの機能と活用方法について理解する力",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "ソーシャルワークの理論と方法Ⅰ",
+            "publication_year": 2023,
+            "author": "立花直樹、小口将典ほか",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623095209",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "最新 社会福祉士養成講座 精神保健福祉士養 成講座 12 ソーシャルワークの理論と方法［共通科目］",
+            "publication_year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟 編",
+            "publisher": "中央法規",
+            "price": 3190,
+            "isbn": "9784805882429",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "なし"
+    },
+    "grading_criteria": "①人と環境の交互作用に関する理論\n②ミクロ・メゾ・マクロレベルにおけるソーシャルワーク実践の考え方\n③ソーシャルワークの多様な実践モデル・アプローチの機能と活用方法\n上記①～③に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 100%",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "生活利用者の権利を護るソーシャルワークをどのように進めていくのかについて、理論学習と事例研究から学んでいきましょう。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習 2 時間程度）\n【オフィスアワー】 \n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "現代社会とソーシャルワーク実践",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ソーシャルワーク・プロセスの概説－ソーシャルワークの進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "アセスメント①－アセスメントとは何か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "アセスメント②－援助関係を構築するためのコミュニケーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "アセスメント③－面接",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "アセスメント④－アセスメントツールの活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "アセスメント⑤－事例から学ぶチームアプローチによるアセスメントの実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "支援計画策定①－支援計画とは何か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "支援計画策定②－事例から学ぶチームアプローチによる支援計画策定の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "介入①－介入とは何か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "介入②－事例から学ぶチームアプローチによる介入の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "評価①－評価とは何か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "評価②－事例から学ぶチームアプローチによる評価の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ソーシャルワークの実際－利用者と協働するためのチームマネジメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ソーシャルワークにおける最近の動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "筆記試験",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "社会福祉士としての実務経験を有する。"
+}

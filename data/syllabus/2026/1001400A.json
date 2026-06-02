@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:52:42Z",
+    "name_ja": "外国史Ⅰ",
+    "name_en": "Foreign History I",
+    "syllabus_number": "1001400A",
+    "course_number": "11-2-13-21-02、21-2-13-21-02",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "藤村　泰夫",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "overview": "世界の歴史の流れを我が国の歴史と関係深いものを中心に取り上げ講義していく。また、世界史の転換点と言われる事象に焦点を当て、それぞれの事象について、為政者の立場、民衆の立場から講義を進める。本科目では、外国史の中でも、ヨーロッパ、中東、アジアに注目し、先史時代からルネサンスと宗教改革の時期までの年代を取り扱う。本科目を通して、世界史における政治、社会経済、思想・文化発展のダイナミズムの中で現代社会をもトータルで把握できる能力を身につける事を目的とする。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "スポーツ健康科学科DP1"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "海賊の大英帝国",
+            "publication_year": 2000,
+            "author": "薩摩　真介",
+            "publisher": "講談社",
+            "price": 2145,
+            "isbn": "978-4-06-513732",
+            "available_on_campus": false
+        },
+        {
+            "title": "海賊の世界史",
+            "publication_year": 2017,
+            "author": "桃井　治郎",
+            "publisher": "中央公論新社",
+            "price": 946,
+            "isbn": "978-4-12―102442-8",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "筆記用具　ノート",
+        "other": "参考図書は、講義内で適時案内します。"
+    },
+    "grading_criteria": "①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "授業は主に講義形式で行いますが、グループ学習やプレゼンテーションも行うので、社会科・地理歴史科の免許を取得希望の学生は主体的に資料収集し発表をしてください。また教科書やTeams「外国史Ⅰ」の学習資料を各自ダウンロードし予習・復習してください。\n\n・毎週、筆記用具を持参してください。\n\n・資料配布や出欠確認は、C-learningで実施します。\n\n・毎回、合計3時間以上の予習・復習を行って下さい。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション（講義内容（「全概説講義資料」にて講義）、「世界史」を学ぶ意義、評価等について説明）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "古0.代文明の「発見」\n・古代文明の紹介\n・中世から近代にかけての古代文明の探索",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "古代遺跡の紹介と文明の始まり\n・遺跡を紹介と文明の誕生について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "古代史① 古代中近東・東地中海世界の歴史（紀元前３千年紀〜２千年紀）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "古代史② 古代中近東・東地中海世界の歴史（紀元前２千年紀〜１千年紀）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "古代史③ アジアとヨーロッパの古代文明",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "中世史① ヘレニズム時代〜イスラーム世界",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "中世史② イスラーム世界の展開",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "中世史③ イスラーム世界と東アジア・ヨーロッパ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中世史④ 中世の東アジアとヨーロッパ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "近世史① 近世の中近東世界",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "近世史② 近世の中近東世界",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "近現代① 近代ヨーロッパの帝国主義と古代文明の「発見」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "近現代② 楔形文字の解読とその後の研究について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤村　泰夫"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

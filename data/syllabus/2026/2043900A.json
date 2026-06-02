@@ -1,0 +1,226 @@
+{
+    "fetched_at": "2026-06-02T11:57:13Z",
+    "name_ja": "財政学",
+    "name_en": "Public Finance",
+    "syllabus_number": "2043900A",
+    "course_number": "11-2-22-21-01",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "【到達目標】\n（１）財政の意義と役割について理解し、説明できる\n（２）租税の意義を理解している\n（３）日本財政が抱える問題点・あるべき姿について把握し、議論できる",
+    "overview": "財政学は公共部門（国や地方自治体）の経済活動について学ぶ学問である。それゆえ、私たちの生活と直結する学問であると言える。私たちは日常的に道路などの公共サービスを使用しており、そのための財源として消費税などの税金を支払っている。政府の資金調達から公共財の供給、それらを通じた所得再分配や経済安定化など、財政が果たす役割は大きい。本講義ではそうした財政の仕組みを理解し、そのうえで現代社会に内在する問題を財政を通じてどのように解決していくべきなのかについて考察できるようになることを目標とする。日本における財政制度の解説だけでなく、各国比較も通じて望ましい制度のあり方についても議論する。講義形式の学びを基本とするが、積極的な質問や学生同士の議論なども促し、主体的に学べるよう創意工夫を行う。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "基本財政学　第4版",
+            "publication_year": 2002,
+            "author": "神野直彦",
+            "publisher": "有斐閣",
+            "price": 2530,
+            "isbn": "4-641-08669-9",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "租税論、地方財政論も受講することで、より学びが深まります。"
+        ],
+        "required_materials": "なし",
+        "other": "経済学部2021年度以前入学の学生は、「財政学」及び「租税論」の両方の単位を修得することで、「財政学（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "(ⅰ) 財政の意義の説明、(ⅱ) 租税論の理解、(ⅲ) 日本財政の問題点の把握・議論、について振り返りシートと発表によって評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "どうして政府は必要なのでしょうか。政府はどういう役割を担っているのでしょうか。どうして政府は税を徴収しているのでしょうか。そして、我が国の政府は今後どうあるべきなのでしょうか。そうした疑問について考えるのが財政学という授業です。この講義を通じて、政治・経済・社会についてより深く関心を持ち、この国の将来について考えてくれるようになってもらえれば幸いです。\n\n【予習・復習について】\n　財政について関心を深めるため、予習もかねて政治・経済関連の記事やニュースを日頃から見るようにしてください（1日10分でも1週間で1時間以上です）。また、講義内容について、毎講義後に復習して下さい（60～90分）。その際には、単に講義で学んだことを受け入れるだけでなく、批判的に捉えて自分なりに調べたりすると学びの幅は広がると思います。\n租税論、地方財政論の事前履修を推奨する。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション\n　－財政学とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "財政の役割\n　－財政の３機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "公共財",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "日本財政の現状",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "租税制度",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "租税制度(１)\n所得税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "租税制度(２）\n消費税",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "発表①\n税制度について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "発表②\n税制度について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "予算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "社会保障",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "社会保障(１)\n最低生活の保障",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "社会保障(２)\n年金",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "公債",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "本講義のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

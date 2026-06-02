@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:21Z",
+    "fetched_at": "2026-06-02T11:59:39Z",
     "name_ja": "社会福祉法制",
     "name_en": "Social Welfare Law",
     "syllabus_number": "2122800A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -54,7 +54,7 @@
             "なし"
         ],
         "required_materials": "テキスト、前回授業時配布レジュメ",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①社会福祉法制の概要 \n②社会福祉法制の基本理念 \n③社会福祉法制の史的展開過程 \n④学んだことをソーシャルワーク実践に活用する視点 \n上記①～④の理解度を以下の方法、割合により評価する\n筆記試験55％、毎回授業後に提示する課題30％、授業時に配布するコメントシートに対するコメント15％",
     "evaluation_ratio": {
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

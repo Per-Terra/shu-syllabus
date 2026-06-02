@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:12Z",
+    "fetched_at": "2026-06-02T11:56:17Z",
     "name_ja": "情報システム論",
     "name_en": "Information Systems",
     "syllabus_number": "2022700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -51,7 +51,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "毎回、講義に関する小テストを課題として提出してもらい、解答内容を評価する。期末テストは実施しない。",
     "evaluation_ratio": {
@@ -62,7 +62,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

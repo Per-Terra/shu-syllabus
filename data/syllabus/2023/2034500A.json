@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:20:20Z",
+    "fetched_at": "2026-06-02T11:57:19Z",
     "name_ja": "運動生理学",
     "name_en": "Exercise Physiology",
     "syllabus_number": "2034500A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,8 +42,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "筆記試験50％、レポート50％をもとに総合的に評価する。",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

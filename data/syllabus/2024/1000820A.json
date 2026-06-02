@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:51:39Z",
+    "fetched_at": "2026-06-02T11:52:38Z",
     "name_ja": "日本語表現法Ⅱ",
     "name_en": "Japanese II",
     "syllabus_number": "1000820A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "山本　晋也",
@@ -42,7 +42,7 @@
         "recommended": [
             "日本語表現法Ⅰ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
     },
     "grading_criteria": "本講義における成績評価は、①期末レポート、②小課題、③ポートフォリオの3点で行う。①は、学期中に仮原稿の提出・推敲を行い、完成したものを最終版として提出する。②は、講義に関する小レポートや練習問題などである。③は、関連する提出物である。",
@@ -208,5 +208,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

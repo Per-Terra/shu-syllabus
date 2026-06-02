@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:18Z",
+    "fetched_at": "2026-06-02T11:58:29Z",
     "name_ja": "データベース",
     "name_en": "DataBase",
     "syllabus_number": "2103500A",
@@ -8,12 +8,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "PC、教科書、ノート、講義資料（事前配布）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。\n三点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

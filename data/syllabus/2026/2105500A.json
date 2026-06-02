@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:57:59Z",
+    "name_ja": "大規模・オープンデータ分析",
+    "name_en": "Big Data and Open Data Analysis",
+    "syllabus_number": "2105500A",
+    "course_number": "31-2-25-34-02",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "小栁　淳二",
+            "is_primary": true
+        },
+        {
+            "name": "道山　知成",
+            "is_primary": false
+        },
+        {
+            "name": "松村　遼",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 大規模・オープンデータがどのようなものか理解できる。\n2. 大規模・オープンデータの活用、分析方法について理解できる。\n3. 大規模・オープンデータの活用、分析を実践できる。",
+    "overview": "近年では、様々な企業や機関により蓄積された種々のデータがオープンデータとして公開されており、これの活用、分析によって課題の発見や解決、意思決定がなされている。本授業では、機械学習や数理最適化、統計解析などの大規模・オープンデータの活用、分析方法について、演習を通じて実践的に修得することを目標とする。授業は複数教員によるオムニバス形式で進行し、各教員が設定するテーマについての概説、演習、プレゼンテーションを通じて理解を深め、大規模・オープンデータ分析に関する実践的能力を養う。",
+    "diploma_policies": [
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "自作教材",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "到達目標に挙げる 1. 大規模・オープンデータについての理解　2. 大規模・オープンデータの活用、分析方法についての理解　3. 大規模・オープンデータの活用、分析の実践　を以下により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村",
+                "小柳",
+                "道山"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "演習テーマ解説・画像認識および関連技術概説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "演習：深層学習による画像認識①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "演習：深層学習による画像認識②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "演習：深層学習による画像認識③",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "統計データの表示とダウンロード",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "統計データから各種指標の計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "統計データから検定の実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "統計データからの考察",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小柳"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "天文学におけるオープンデータ概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "天文学における公開カタログデータの統計解析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "天文学における公開画像データ概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "天文学における公開画像データ解析実践",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "道山"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "プレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村",
+                "小柳",
+                "道山"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "プレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "松村",
+                "小柳",
+                "道山"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

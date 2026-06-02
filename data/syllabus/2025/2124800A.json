@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:33Z",
+    "fetched_at": "2026-06-02T11:59:45Z",
     "name_ja": "介護基礎理論Ⅰ",
     "name_en": "Basic theory of nursing care　Ⅰ",
     "syllabus_number": "2124800A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -50,8 +50,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①介護を通じて支援するうえで自らの役割\n②利用者の尊厳を保持する方法やQOL向上する方法\n③介護保険制度や障害者総合支援制度\n上記の①～③に関する理解度を以下の方法で評価する。",
     "evaluation_ratio": {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

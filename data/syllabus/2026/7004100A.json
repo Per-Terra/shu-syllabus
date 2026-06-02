@@ -1,0 +1,220 @@
+{
+    "fetched_at": "2026-06-02T12:00:35Z",
+    "name_ja": "ダンス",
+    "name_en": "Dancing",
+    "syllabus_number": "7004100A",
+    "course_number": "21-2-91-21-04",
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "高田　康史",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. 様々なテーマから表したいイメージを捉え、動きに変化を付けて即興的に表現したり、変化のあるひとまとまりの表現にしたりして踊りを創作できる。\n2. 身近な日常生活動作を題材にしたり、対極の動きを連続させたりして、ダンス未経験者から多様な身体表現を引き出すことができる。\n3. 日本や外国の民族舞踊から、それらの踊り方の特徴をとらえ、音楽に合わせて特徴的なステップや動きで踊ることができる。",
+    "overview": "ダンスの基礎技術を習得し、楽しく踊るとともにダンスの表現課題や作品の構成方法について学習する｡授業内容とて、指導要領の理解、道具を手掛かりにした「ひと流れ」の動きづくり、対極の動き、群（集団）の動きなどを学習すると同時に、マイクロティーチングによって指導法についても習得していく。また、日本の民族舞踊、外国の民族舞踊を習し、創作ダンスの制作・発表なども行う。この授業を通じ、指導者としてダンスを親しみ、楽しさや喜びを味わえるようステップや表現方法、歴史的背景などの技能や知識を身につけ、ダンスを自ら創作しかつ指導できるようになることを目的とする。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "改訂版 明日からトライ！ダンスの授業",
+            "publication_year": 2021,
+            "author": "全国ダンス・表現運動授業研究会",
+            "publisher": "大修館書店",
+            "price": 2420,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "ダンス発表　50％\n受講態度・グループワーク　50％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "予習はシラバスに記載されたダンスの内容を事前学習してください\n復讐は習ったダンスについて復習してください\n時間は60時間以上\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンスと指導要領の理解\n・ダンスの授業の進め方、クラス分けについて\n・ダンスの必修化について\n・創作ダンスの DVD 鑑賞―現場でのダンス実践―",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ダンスの単元の導入「8､8､4､4､2､2､1､1､1､1]\n・ダンスの授業での約束事の確認\n・リズムにあわせて思いっきり体を動かそう",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "道具を手掛かりにした「ひと流れ」の動きづくり",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "対極の動き「走る―止まる」を手がかりにしたメリハリのある動きづくり",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "群（集団）の動き「集まる―とび散る」を手がかりに 群や隊形を変形させる",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "身近な動き「スポーツ動作」を手掛かりに小作品を創作する",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "現代的なリズムの音楽を用いてリズムで遊ぼう",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "現代的なリズムに乗って「動く―止まる」",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "日本の民族舞踊\n・炭坑節\n・郡上八幡踊り",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "外国の民族舞踊\n・オクラホマミキサー\n・マイムマイム\n・コロブチカ\n・パティケークポルカ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "創作ダンス制作①\n・テーマ決め\n・テーマから連想される動きをデッサンする",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "創作ダンス制作②\n・デッサンした動きを繋げてひと流れの動きにする",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "創作ダンス制作③\n・ひと流れの動きに群の変化や時間性の変化を加えて作品に仕上げていく",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "創作ダンス制作④\n・作品の踊りこみとリハーサル\n・作品タイトル、概要の提出",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "創作ダンス作品の発表会",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "高田　康史"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

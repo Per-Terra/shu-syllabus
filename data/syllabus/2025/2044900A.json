@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:03:46Z",
+    "fetched_at": "2026-06-02T11:58:11Z",
     "name_ja": "公共経済学",
     "name_en": "public economics",
     "syllabus_number": "2044900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -64,8 +64,8 @@
             "経済政策",
             "地域経済論Ⅰ・Ⅱ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "試験とレポートによる評価を考えているが、受講人数と希望によっては変更する可能性がある。",
     "evaluation_ratio": {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

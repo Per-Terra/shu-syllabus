@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:04Z",
+    "fetched_at": "2026-06-02T11:56:16Z",
     "name_ja": "ソフトウェア演習",
     "name_en": "Software Exercises",
     "syllabus_number": "2022110A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "毎回の講義で作成した内容を課題として提出してもらいます。試験は実施しません。",
     "evaluation_ratio": {
@@ -64,7 +64,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -233,5 +233,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

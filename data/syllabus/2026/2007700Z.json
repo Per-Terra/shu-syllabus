@@ -1,0 +1,416 @@
+{
+    "fetched_at": "2026-06-02T11:55:24Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700Z",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "地域企業・団体から支援を受けて実施された専門ゼミⅠでの経験と成果を踏まえ、成果をまとめることを主な目的とします。\n成果物としての論文・プロジェクト報告書の作成を前提にし、文献調査、論文指導が中心となりますが、専門ゼミⅠで継続しているPBLプロジェクト等にも関わっていただきます。\n【到達目標】\n① 取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n② 計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n③ 活動の成果を総括し、他者に向けて分かりやすく報告することができる。",
+    "overview": "前期：研究テーマを定め、卒論作成に向けた準備を各自でおこないます。\n後期は卒業論文の執筆のために、各自設定したテーマについて研究を深め、教員やゼミ生からクリティークを受けながら、必要時、追加調査・研究を行います。\n通年：学びの昇華の組織・プロジェクトマネジメント力向上のために、専門ゼミⅠとの協働やメンタリング活動にも取り組みます。\nテーマの性質上、集中講義となる場合があります。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "コトラー、アームストロング、バラスブラマニアン、恩藏のマーケティング原理",
+            "publication_year": 2025,
+            "author": "Philip Kotler, Gary Armstrong, Sridhar Balasubramanian, 恩藏 直人",
+            "publisher": "丸善出版",
+            "price": 4180,
+            "isbn": "978-4621311561",
+            "available_on_campus": false
+        },
+        {
+            "title": "入社1年目からずっと役に立つ 報・連・相 超入門 知っておきたい「要点だけ」バイブル",
+            "publication_year": 2025,
+            "author": "大谷更生",
+            "publisher": "メイツビジネスブックス",
+            "price": 1738,
+            "isbn": "978-4780430226",
+            "available_on_campus": false
+        },
+        {
+            "title": "最新ビジネスマナーと　今さら聞けない 仕事の超基本",
+            "publication_year": 2019,
+            "author": "宮本ゆみ子",
+            "publisher": "朝日新聞出版",
+            "price": 1430,
+            "isbn": "978-4023332669",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "１ 現状理解・課題発見、２　課題解決、３　活動の総括と報告、４　その他（論文・報告書、チームビルディング、リーダーシップ、フォロワーシップを含む）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 75
+    },
+    "teacher_message": "学ぶとは、インプットではなく、インプットした内容を自身の言葉・表現としてアウトプットできるようになるまでを含みます。\n自身の考えを的確に表現し、受け手に齟齬なく伝わるようになる訓練をしていきましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（本演習の進め方について）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "卒論計画1、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "卒論計画2、メンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "論文のアプローチを考える／専門ゼミⅠのテーマを絞って、方法論を考える、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "先行研究の収集と理解、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "先行研究の収集と理解、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "先行研究の収集と理解、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "先行研究の収集と理解、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "文献リストをつくる、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "先行研究の貢献、問題点を見出す、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "先行研究の貢献、問題点を見出す、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "先行研究文野における自分の論文の位置付け、意義を考える、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "先行研究文野における自分の論文の位置付け、意義を考える、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "論文骨子作成、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "論文骨子作成、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "論文執筆、\nメンタリング",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "論文執筆",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "論文執筆",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒論完成",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒論報告会",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

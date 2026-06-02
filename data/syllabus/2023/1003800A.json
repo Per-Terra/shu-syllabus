@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:56:24Z",
+    "fetched_at": "2026-06-02T11:52:53Z",
     "name_ja": "English Conversation",
     "name_en": "English Conversation",
     "syllabus_number": "1003800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -71,8 +71,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本科目は「英会話初級Ⅰ」（前期）「英会話初級Ⅱ」（後期）の両方を修得することで読み替えにより単位認定する科目となります。シラバスは以下をご参照ください。\n「英会話初級Ⅰ」（前期）\n(a)～(f)クラス：\nhttps://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0032.aspx?me=EU&opi=se0021&sk=2023_2_1013300A&opi=se0021&syw=1\n(g)～(l)クラス：\nhttps://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0032.aspx?me=EU&opi=se0021&sk=2023_2_1013300E&opi=se0021&syw=1\n\n「英会話初級Ⅱ」（後期）\n(a)～(f)クラス：\nhttps://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0032.aspx?me=EU&opi=se0021&sk=2023_2_1013400A&opi=se0021&syw=1\n(g)～(l)クラス：\nhttps://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0032.aspx?me=EU&opi=se0021&sk=2023_2_1013400E&opi=se0021&syw=1",
     "evaluation_ratio": {
@@ -83,7 +83,7 @@
         "portfolio": 0,
         "other": 20
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -92,9 +92,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -103,9 +101,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -114,9 +110,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -125,9 +119,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -136,9 +128,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -147,9 +137,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -158,9 +146,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -169,9 +155,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -180,9 +164,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -191,9 +173,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -202,9 +182,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -213,9 +191,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -224,9 +200,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -235,9 +209,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -246,9 +218,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "16",
@@ -257,9 +227,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "17",
@@ -268,9 +236,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "18",
@@ -279,9 +245,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "19",
@@ -290,9 +254,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "20",
@@ -301,9 +263,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "21",
@@ -312,9 +272,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "22",
@@ -323,9 +281,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "23",
@@ -334,9 +290,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "24",
@@ -345,9 +299,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "25",
@@ -356,9 +308,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "26",
@@ -367,9 +317,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "27",
@@ -378,9 +326,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "28",
@@ -389,9 +335,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "29",
@@ -400,9 +344,7 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "30",
@@ -411,11 +353,9 @@
                 "講義",
                 "実験・実習・実技"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

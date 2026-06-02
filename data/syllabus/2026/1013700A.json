@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T11:53:43Z",
+    "name_ja": "総合英語初級Ⅲ（再履修）",
+    "name_en": "Comprehensive English Beginners III (Retakers)",
+    "syllabus_number": "1013700A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "西村　浩子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①自然に近いスピードで話される英語を、情報の繰り返しや言い換えがあれば大意を理解できる。\n②平易な英語で書かれた手紙・Eメール・広告・通知などの短い英文を、後戻りなしで読んで大意を理解できる。",
+    "overview": "語彙・聴解・読解・文法の総合的な英語運用能力を向上させる。事実に基づく情報を同じ単語や句を使わずに表現する訓練をして、長い英文の聴解や読解で言い換えられた情報に気づき、話の主旨や基本的な文脈をより理解できるようになる。文中に難しい語彙が使用されている場合でも、推測をしながらその意味を理解できるようになる。",
+    "diploma_policies": [],
+    "textbooks": [
+        {
+            "title": "English Contrasts イングリッシュ・ガイド~基本文法で学ぶ英語の使い方~",
+            "publication_year": 2022,
+            "author": "Robert Hickling",
+            "publisher": "金星堂",
+            "price": 2200,
+            "isbn": "9784764741430",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、筆記用具、スマートフォン",
+        "other": "なし"
+    },
+    "grading_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価する。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含む。小テストは、最終授業内で行うテスト（40%）と各授業で行うQuiz (40%）を含む。通常の授業時間内に行う活動を基にする評価が半分以上を占めるので、遅刻・欠席をしないよう注意すること。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 80,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "予習は原則として必要ありません。表現の定着を図り、英語の音声に慣れ親しむために復習はしっかり行ってください。毎日30分は英語の音声に触れたり英語を読んだりするようにしましょう。復習の学習方法は授業内で説明しますが、音読やシャドーイングを中心に行うことを推奨します。\n教科書は、『English Contrasts』は必ず書き込みのないものを持参してください。授業計画は進捗などにより変更する場合があります。\n（事前事後学修時間の目安 60～90分）\n\n【オフィスアワー】\n・原則として木曜日2限（学期中／事前にメール等で連絡）\n・事前にメール等で連絡をくれれば個別に対応可",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、授業の進め方、評価について\nUnit 1: See You Soon\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Unit 1: See You Soon\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "Unit 2: Welcome to Japan!\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "Unit 2: Welcome to Japan!\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "Unit 3: Sandy's First Sushi\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Unit 3: Sandy's First Sushi\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Unit 4: Festival Fun\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "Unit 4: Festival Fun\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "Unit 5: Play Ball!\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Unit 5: Play Ball!\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "Unit 6: Lucky Cats\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Unit 6: Lucky Cats\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Unit 7: No One Sings Like Brian\nListening (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Unit 7: No One Sings Like Brian\nReading & Writing (& Speaking)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "授業内テスト\n解説・総復習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "西村　浩子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:20Z",
+    "fetched_at": "2026-06-02T11:52:49Z",
     "name_ja": "韓国語Ⅰ",
     "name_en": "Korean Language I",
     "syllabus_number": "1004300A",
@@ -14,12 +14,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -380,5 +380,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

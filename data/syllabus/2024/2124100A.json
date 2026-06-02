@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:07:25Z",
+    "fetched_at": "2026-06-02T11:58:55Z",
     "name_ja": "子どもの理解",
     "name_en": "Understanding of Children",
     "syllabus_number": "2124100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "金子　幸",
@@ -51,7 +51,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①乳幼児期の発達過程\n②子ども理解の視点\n③専門性を生かした子どもへの支援\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

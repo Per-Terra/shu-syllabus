@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:08:06Z",
+    "fetched_at": "2026-06-02T11:59:11Z",
     "name_ja": "商業科教育法Ⅱ",
     "name_en": "Educational Method for Commercial Course II",
     "syllabus_number": "7001300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "福原　道照",
@@ -275,5 +275,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

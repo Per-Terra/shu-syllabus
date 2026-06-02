@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:53Z",
+    "fetched_at": "2026-06-02T11:53:10Z",
     "name_ja": "周南地域と産業",
     "name_en": "Shunan Regions and Industries",
     "syllabus_number": "1012200A",
@@ -14,12 +14,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,7 +55,7 @@
             "周南地域文化講座"
         ],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "ゲストスピーカーの話を聴いた上で、ワークに取り組むか質疑応答を実施し、「お話の中で特に印象に残ったこと」「新たに発見したこと、気づいたこと」に関する400文字以上のレポートを提出することを求める（予定）。\n基本的には、講演を踏まえて作成されたレポートの提出状況と内容によって評価する【レポート70%】。授業における発言やワークに取り組んだ結果の発表については【発表・実技10%】として加点する。【その他20%】は、授業への能動的な参加によって評価する。",
     "evaluation_ratio": {
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

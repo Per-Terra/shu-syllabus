@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T00:57:51Z",
+    "fetched_at": "2026-06-02T11:53:16Z",
     "name_ja": "教養ゼミ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "1009800A",
     "course_number": "00TS101",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -99,8 +99,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "・大学生として必要な生活習慣や学習習慣の習得、大学で求められる学習のあり方の習得，大学生として必要なスキルの習得・活用、他者との協働による社会性の習得、進路の実現に向けた大学での4年間学ぶ見通しの設定。",
     "evaluation_ratio": {
@@ -439,5 +439,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

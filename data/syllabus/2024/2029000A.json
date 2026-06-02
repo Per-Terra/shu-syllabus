@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:02:09Z",
+    "fetched_at": "2026-06-02T11:56:54Z",
     "name_ja": "ソーシャルワーク演習Ⅳ",
     "name_en": "Social Work Practice Ⅳ",
     "syllabus_number": "2029000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "井上　浩",
@@ -49,7 +49,7 @@
             "ソーシャルワーク実習指導Ⅰ～Ⅲ",
             "ソーシャルワーク実習"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "到達目標に関して、レポートと実技、ポートフォリオで評価する。到達目標ⅰ）については実技（OSCE手法）で、目標ⅱ）については発表で、ⅲ）についてはポートフォリオで評価を行う。また、全体を通じてレポートを求める。評価割合は別の通りである。",
@@ -238,5 +238,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

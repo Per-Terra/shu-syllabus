@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:04:33Z",
+    "fetched_at": "2026-06-02T11:57:49Z",
     "name_ja": "体力トレーニング論（経済・福祉情報学部）",
     "name_en": "Physical Training Theory",
     "syllabus_number": "2040000B",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "西山　健太",
@@ -46,16 +46,16 @@
             "author": "公益財団法人健康・体力づくり事業財団",
             "publisher": "南江堂",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "公認スポーツ指導者養成テキスト共通科目Ⅰ・Ⅱ・Ⅲ",
             "publication_year": 2018,
             "author": "公益財団法人日本体育協会",
-            "publisher": "",
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -64,15 +64,15 @@
             "author": "NPO法人日本トレーニング指導者協会",
             "publisher": "大修館書店",
             "price": 2200,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "1. トレーニングの原理・原則に関する理解度を小テスト30%で評価する。\n2. 目的に応じたトレーニングに関する理解度を小テスト40%で評価する。\n3. 対象者の特性に応じたトレーニングに関する理解度を小テスト30%で評価する。",
     "evaluation_ratio": {
@@ -237,5 +237,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,223 @@
+{
+    "fetched_at": "2026-06-02T11:58:41Z",
+    "name_ja": "地域スポーツ文化論",
+    "name_en": "Regional Sport Culture",
+    "syllabus_number": "2112200A",
+    "course_number": "21-3-25-21-02",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "清原　泰治",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．外来文化であるスポーツや運動会が、日本の地方においてどのように定着したのかを理解できる。\n2．日本の伝統的な身体文化である相撲や、祭礼化した地域スポーツイベントである運動会が地域社会に与えた影響について理解できる。\n3．現在における健康づくりや地域スポーツ政策について理解できる。\n4．周南市及び周南広域地域のスポーツ振興策について説明できる。",
+    "overview": "スポーツは、地域の歴史や風土及び身体運動文化の伝統と連動することによって、その地域独自の思想や形態を有する。本講義では、まず、主に地域の都市部、中山間部及び島嶼部におけるスポーツの文化的独自性について理解する。そして、これら様々な地域で生活する人々の健康や幸福を高めるために何が重要であるのかについて議論を深める。この講義は「地域スポーツフィールド演習」「地域スポーツフィールド実習」に必要な基礎的知識と問題意識を醸成することも目的としている。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "スポーツ文化論Ⅰ",
+            "スポーツ文化論Ⅱ"
+        ],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "筆記試験 40％、グループ発表 40％、レスポンスペーパー20％",
+    "evaluation_ratio": {
+        "exam": 40,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "歴史学や民俗学のアプローチから、地域スポーツの発展、とりわけ周南市及び周南広域地域の“健幸づくり”にスポーツや運動を活用することを目指す方策を考察することを企図している。\n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "日本の伝統社会に存在した「ハレ」と「ケ」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "明治期の日本における運動会の始まりと祭礼化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "明治期に地域の健康づくりを目指した「体育会」の理念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "相撲による地域のコミュニティ形成と再生産",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "外来スポーツの日本の地域への普及",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "地域スポーツを担った青年団",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "戦後の日本における運動会とまちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "日本における地域スポーツの形成と意義－前半の授業のリフレクション－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "現代における地域スポーツの考え方─スポーツ基本法とスポーツ基本計画",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "総合型地域スポーツクラブの理念と実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ドイツにおける市民スポーツクラブの発展と J リーグ百年構想",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "運動によるまちづくり─高知県における「日本一の健康長寿県構想」とフレイル予防",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "周南市及び周南広域地域におけるスポーツの歴史と現在",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "「ハレ」と「ケ」の考え方から周南市及び周南広域地域のスポーツ振興策をリデザインする─課題解決に向けてのアイデア",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2月9日　9:00〜10:00　S1301教室",
+            "teaching_methods": [],
+            "teachers": [
+                "清原泰治"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

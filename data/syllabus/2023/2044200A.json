@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:22:36Z",
+    "fetched_at": "2026-06-02T11:57:56Z",
     "name_ja": "経済統計(2022以降入学者)",
     "name_en": "Economic Statistics",
     "syllabus_number": "2044200A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,8 +55,8 @@
             "統計学基礎",
             "データサイエンス入門"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "① 経済データの意味の理解　② マクロ経済統計の作成方法の理解　③ 日本経済の現状理解　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内外の演習の状況を、課題提出を通して評価します。",
     "evaluation_ratio": {
@@ -236,5 +236,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

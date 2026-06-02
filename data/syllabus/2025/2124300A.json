@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:30Z",
+    "fetched_at": "2026-06-02T11:59:44Z",
     "name_ja": "子どもの保健",
     "name_en": "Child　health",
     "syllabus_number": "2124300A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "author": "公益財団法人　児童育成会協会　監修",
             "publisher": "中央法規",
             "price": 2200,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "１．保育における保健活動の意義、２．子どもの発育・発達についての基本、３．子どもの疾病の特徴とその予防・対処法、４．多職種間との連携・協働\n　上記１～４に関する理解度を以下の「学生に対する評価」により評価する。\n　筆記試験50%、小テスト20%、課題レポート30%\n\n【オフィスアワー】\n講義のある曜日　不在時はメール等で受け付けます。",
     "evaluation_ratio": {

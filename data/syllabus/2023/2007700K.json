@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:04:29Z",
+    "fetched_at": "2026-06-02T11:55:07Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700K",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -45,7 +45,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ)論理的に自論を展開することができる。\n(ⅱ)文章表現が適切である。\n(ⅲ)論文形式を守りながら、論文を作成できる。",
     "evaluation_ratio": {
@@ -367,5 +367,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

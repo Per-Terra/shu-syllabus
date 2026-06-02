@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:23Z",
+    "fetched_at": "2026-06-02T11:58:32Z",
     "name_ja": "ソフトウェア工学",
     "name_en": "Software Engineering",
     "syllabus_number": "2103900A",
@@ -8,12 +8,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -56,7 +56,7 @@
             "データベース"
         ],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "ソフトウェア要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守及びプロジェクト管理に関する学生の理解度を以下で評価する。",
     "evaluation_ratio": {

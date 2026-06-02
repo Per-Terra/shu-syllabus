@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:08:48Z",
+    "fetched_at": "2026-06-02T11:59:26Z",
     "name_ja": "器械運動Ⅰ",
     "name_en": "Gymnastics I",
     "syllabus_number": "7003710A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "前田　一篤",
@@ -75,8 +75,8 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(ⅰ) 器械・器具を点検し、安全に留意して練習や指導が出来るようになる、(ⅱ) 器械運動（主にマット・跳び箱）における知識と技術を身につけ、技が円滑にできるようになる、(ⅲ) グループ活動を通して、積極的かつ協同的な姿勢で取り組むことが出来るようになる 以上三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
@@ -271,5 +271,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

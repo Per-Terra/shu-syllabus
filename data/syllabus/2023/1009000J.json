@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:32Z",
+    "fetched_at": "2026-06-02T11:53:10Z",
     "name_ja": "教養スポーツ実習Ⅱ（スノースポーツ）",
     "name_en": "Cultural sports practice Ⅱ（Snow Sports）",
     "syllabus_number": "1009000J",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -42,7 +42,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2970,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -51,7 +51,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2750,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -60,7 +60,7 @@
             "author": "公益財団法人 全日本スキー連盟",
             "publisher": "株式会社 山と溪谷社",
             "price": 2860,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -69,8 +69,8 @@
             "教養スポーツ実習Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {

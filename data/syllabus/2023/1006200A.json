@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:57:05Z",
+    "fetched_at": "2026-06-02T11:53:03Z",
     "name_ja": "情報リテラシーⅡ",
     "name_en": "Information Literacy II",
     "syllabus_number": "1006200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "(i) ノートPC、教務システム（CASK）、LMS（WebClass）、の基本～応用操作ができる。\n\n(ii) Excelを活用して基本的な表とグラフの作成ができる。\n\n(iii) Excelを活用して、関数やピボットテーブル、マクロなど基本～応用操作を行うことができる。",
     "evaluation_ratio": {
@@ -50,7 +50,7 @@
         "portfolio": 0,
         "other": 30
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -202,5 +202,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

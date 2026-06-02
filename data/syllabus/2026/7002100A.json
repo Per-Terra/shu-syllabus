@@ -1,0 +1,224 @@
+{
+    "fetched_at": "2026-06-02T12:00:24Z",
+    "name_ja": "情報科教育法Ⅱ",
+    "name_en": "Educational Method for Information II",
+    "syllabus_number": "7002100A",
+    "course_number": "31-3-91-22-03",
+    "departments": [
+        "福祉情報学部",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "阿濱　茂樹",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "情報科の教師として教科経営に必要な知識を身につけるとともに，指導や評価の計画を立案し具体的な場面を想定した授業案を検討することができる。\n【到達目標】\n情報科の教科経営に必要な知識を身につける。\n情報科の学習指導計画を立案し，内容に関連付けた授業を構想する力を身につける。",
+    "overview": "「情報科」の教師として，指導計画や評価計画など教科経営に必要な事項を座学で学びます。また，実際に指導計画や評価計画を立案する演習や具体的な授業を想定した模擬授業を行います。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "情報科に関する指導計画や評価計画について正確に理解しているか小テストやレポート，ポートフォリオで評価します。情報科の指導計画や評価計画，模擬授業を効果的にできるかどうか発表で評価します。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 50,
+        "presentation": 20,
+        "portfolio": 10,
+        "other": 0
+    },
+    "teacher_message": "指導案や教材を作成する課題は授業時間外に取り組んでいただくことになるかもしれませんが、教育実習などでは役に立つものだと思います。積極的に取り組むようにしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "授業オリエンテーション：情報科の教科経営に必要な基礎知識の確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "年間指導計画の検討：情報科の年間指導計画についての解説と演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "年間指導計画の発表と省察：情報科の年間指導計画の発表と省察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "年間評価計画の検討：情報科の年間評価計画についての解説と演習",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "年間評価計画の発表と省察：情報科の年間評価計画の発表と省察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "模擬授業（情報社会の問題解決）の検討：情報社会の問題解決について学ぶ学習指導について検討",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "模擬授業（情報社会の問題解決）の実施と省察：情報社会の問題解決について学ぶ模擬授業の実施と省察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "模擬授業（コミュニケーションと情報デザイン）の検討：コミュニケーションと情報デザインについて学ぶ学習指導について検討",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "模擬授業（コミュニケーションと情報デザイン）の実施と省察：コミュニケーションと情報デザインについて学ぶ模擬授業の実施と省察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "模擬授業（コンピュータとプログラミング）の検討：コンピュータとプログラミングについて学ぶ学習指導について検討",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "模擬授業（コンピュータとプログラミング）の実施と省察：コンピュータとプログラミングについて学ぶ模擬授業の実施と省察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "模擬授業（情報通信ネットワークとデータの活用）の検討：情報通信ネットワークとデータの活用について学ぶ学習指導について検討",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "模擬授業（情報通信ネットワークとデータの活用）の実施と省察：情報通信ネットワークとデータの活用について学ぶ模擬授業の実施と省察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "学習評価の試行と省察：情報科の学習評価についての演習と省察",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "情報科の教科経営：情報科の教科運営についての解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "阿濱　茂樹"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

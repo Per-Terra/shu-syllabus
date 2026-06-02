@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:24Z",
+    "fetched_at": "2026-06-02T11:59:07Z",
     "name_ja": "エアロビックダンス",
     "name_en": "Aerobic Dance",
     "syllabus_number": "2114000A",
@@ -10,12 +10,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
             "author": "沢井史穂",
             "publisher": "日本フィットネス協会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -54,7 +54,7 @@
             "author": "深代泰子",
             "publisher": "日本フィットネス協会",
             "price": 3520,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -63,7 +63,7 @@
             "author": "沢井史穂",
             "publisher": "日本フィットネス協会",
             "price": 990,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -72,7 +72,7 @@
             "author": "沢井史穂",
             "publisher": "日本フィットネス協会",
             "price": 1650,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -81,7 +81,7 @@
             "author": "沢井史穂",
             "publisher": "日本フィットネス協会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -258,5 +258,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

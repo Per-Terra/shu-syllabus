@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:05:39Z",
+    "fetched_at": "2026-06-02T11:55:24Z",
     "name_ja": "スポーツ心理学",
     "name_en": "Sports Psychology",
     "syllabus_number": "2009900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "author": "中込四郎・伊藤豊彦・山本裕二　編著",
             "publisher": "ミネルヴァ書房",
             "price": 2400,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -50,15 +50,15 @@
             "author": "杉原隆・船越正康・工藤孝幾・中込四郎　編著",
             "publisher": "福村出版",
             "price": 2600,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "毎授業の理解度を測る小レポートや定期試験から評価を行います。",
     "evaluation_ratio": {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

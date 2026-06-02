@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:52Z",
+    "fetched_at": "2026-06-02T11:53:00Z",
     "name_ja": "水中運動",
     "name_en": "Underwater exercise",
     "syllabus_number": "1005510A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,7 +39,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "水着、スイミングキャップ（白）、ゴーグル、バスタオル",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "実技発表60％、その他40％とし、総合的に評価する。",
     "evaluation_ratio": {
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

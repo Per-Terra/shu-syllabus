@@ -1,0 +1,221 @@
+{
+    "fetched_at": "2026-06-02T11:58:37Z",
+    "name_ja": "メンタルトレーニング論",
+    "name_en": "Theory of mental training",
+    "syllabus_number": "2111600A",
+    "course_number": "21-3-24-21-03",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. メンタルトレーニングに関する基礎的知識を理解できる\n2. メンタルトレーニングの効果的な実践方法について理解できる",
+    "overview": "本講義では、心のサポート（メンタルサポート）に関する基礎的・専門的知識を学び、心の重要性への理解を深めることを目指す。心理検査やメンタルトレーニング (自己分析、目標設定技法、リラクセーション・サイキングアップ技法、イメージ技法、注意・集中技法) の体験学習を通して理論と方法について学ぶ。またこれら応用的な知識の学修を行うことにより、競技者・指導者という立場に立った際の実践に活かすことを目指す。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "日本スポーツ心理学会『スポーツメンタルトレーニング教本三訂版』",
+            "publication_year": 2016,
+            "author": "日本スポーツ心理学会 編",
+            "publisher": "大修館書店（2016年）",
+            "price": 2420,
+            "isbn": "9784469268065",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "スポーツ心理学"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題レポート 100％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "メンタルトレーニングは、実力発揮を目的とした心理サポートです。体力・技術トレーニング同様に、メンタルも時間をかけてトレーニングする必要があります。授業の中では、講義だけでなくグループワークの時間もありますので、積極的なディスカッションを期待しています。また、メンタルへの理解を深めるために、関連書籍を読んでおきましょう。\n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "メンタルトレーニングとは何か？",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "メンタルトレーニング基礎①（メンタルトレーニングとカウンセリングの違い）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "メンタルトレーニング基礎②（来談者と信頼関係を築く）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "アセスメント、リラクセーション技法の理解①（呼吸法、自律訓練法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "アセスメント、リラクセーション技法の理解②（漸進的筋弛緩法、瞑想）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "質問紙を用いた自己理解①（性格検査、気分プロフィール検査）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "質問紙を用いた自己理解②（心理的競技能力検査）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ピークパフォーマンスへの理解①（パフォーマンスプロファイリング）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ピークパフォーマンスへの理解②（情動プロファイリングテスト）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ピークパフォーマンスへの理解③（注意集中、イメージトレーニング）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "モチベーションに対する取り組み①（ストレスのコントロール）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "モチベーションに対する取り組み②（目標設定）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "チームへのメンタルトレーニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "スポーツメンタルトレーニング指導士の資格と、多くのアスリートへのメンタルトレーニングや心理サポートの経験を活かし、スポーツ心理学の理論と実践を結びつけた教育を行っている。"
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:43Z",
+    "fetched_at": "2026-06-02T11:56:44Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅱ",
     "name_en": "Social Work Theory and Practice Ⅱ",
     "syllabus_number": "2027600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "井上　浩",
@@ -50,7 +50,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "本科目は知識や概念が問われるので、テストにて評価する。授業中に行う小テストと期末テストで評価する。小テストの割合が40％、期末テストの割合が60％である。",
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

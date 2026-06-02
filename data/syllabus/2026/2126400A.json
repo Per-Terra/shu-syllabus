@@ -1,0 +1,217 @@
+{
+    "fetched_at": "2026-06-02T12:00:07Z",
+    "name_ja": "地域企業運営",
+    "name_en": "Management of local business",
+    "syllabus_number": "2126400A",
+    "course_number": "23-2-25-22-06",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "梅田　勝利",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①持続可能な経営とは何かについて、説明することができる。\n②経営課題を発見し、その解決策について、具体的に述べることができる。\n③外部への情報提供に資する手法を列挙することができる。",
+    "overview": "本講義では、地域活性化の担い手となる地域企業や地域運営組織におけるSDGs経営の導入やバックキャスティング思考の涵養などについて、会計的視点から考察できるようになることを目的とする。具体的には、「持続可能な経営」を主なテーマとし、各会計基準に従って作成された計算書類などについて、財務分析手法を用いて経営状況の現状を把握すると同時に、経営課題を発見し、その解決策を提案できるようにする。また、資金調達の円滑化を目的とした外部への情報提供に資する手法の習得も目的とする。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "管理会計〔第7版〕",
+            "publication_year": 2019,
+            "author": "櫻井 通晴",
+            "publisher": "同文舘",
+            "price": 6490,
+            "isbn": "9784495161477",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、電卓",
+        "other": null
+    },
+    "grading_criteria": "①持続可能な経営とは何かについて理解できている。\n③経営課題を発見し、その解決策について、具体的に述べることができる。\n③外部への情報提供に資する手法を列挙することができる。\n上記①～③に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】水曜2限",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、地域企業や地域運営組織の近年の動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "経営者のための管理会計",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "企業価値創造のための管理会計、第1回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "キャッシュ・フロー経営",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "原価計算の基礎と「原価計算基準」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "企業評価と財務諸表分析、第2回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "中長期経営計画、利益計画、目標管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "企業予算によるマネジメント・コントロール",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "損益分岐点分析による収益性の検討、第3回小テスト",
+            "teaching_methods": [],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "直接原価計算による利益管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "標準原価計算によるコスト・コントロール",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "原価企画による戦略的コスト・マネジメント、第4回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ABCによる製品戦略，原価低減、予算管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "コスト・品質の戦略的コスト・マネジメント、第5回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "授業の総括、地域企業や地域運営組織の今後の展望",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

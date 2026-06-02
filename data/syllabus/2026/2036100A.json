@@ -1,0 +1,269 @@
+{
+    "fetched_at": "2026-06-02T11:56:43Z",
+    "name_ja": "経営戦略論Ⅱ",
+    "name_en": "Strategy Ⅱ",
+    "syllabus_number": "2036100A",
+    "course_number": "11-2-27-22-06",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "石谷　康人",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）「見えざる資産（企業の競争力や価値の源泉となる情報的資源）」に基づく戦略論の観点から、実際の企業に関心を持つことができる。\n（２）「見えざる資産」に基づく戦略論に関する基本的概念の意味を理解できる。\n（３）「見えざる資産」に基づく戦略論の基本的概念を用いて、企業の成功事例を分析できる。",
+    "overview": "近年の経営戦略論には、企業の外部環境（立地、市場、取引関係）を重視するポジショニング・ビューと、企業の内部資源（独自の経営資源としてのコア・コンピタンス）を重視するリソース・ベースト・ビューという代表的な二つの立場がある。本講義では、後者のリソース・ベースト・ビューに着目し、その古典的名著とされる伊丹敬之『経営戦略の論理』の内容を中心に理解を深める。さらに、そこで学習した知見を、他の経営学関連科目の履修のみならず、就職活動や卒業論文の作成等においても活用できるようになることを目指す。\nまた、本講義ではケースブックを活用して授業を進める。教科書の概念を用いたケース分析を通じて、企業の中核的な強み（コア・コンピタンス）としての経営資源、とりわけ情報的資源としての「見えざる資産」の蓄積と活用に関する経営戦略の論理を、体系的かつ具体的に理解する。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "経営戦略の論理　ダイナミック適合と不均衡ダイナミズム　第4版",
+            "publication_year": 2012,
+            "author": "伊丹敬之",
+            "publisher": "日本経済新聞出版",
+            "price": 2200,
+            "isbn": "9784532134266",
+            "available_on_campus": false
+        },
+        {
+            "title": "ケースブック　経営戦略の論理　全面改訂版",
+            "publication_year": 2012,
+            "author": "伊丹敬之・西野和美",
+            "publisher": "日本経済新聞出版",
+            "price": 2090,
+            "isbn": "9784532134273",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "ゼミナール経営学入門　新装版",
+            "publication_year": 2022,
+            "author": "伊丹敬之・加護野忠男",
+            "publisher": "日本経済新聞出版",
+            "price": 3850,
+            "isbn": "9784532135263",
+            "available_on_campus": false
+        },
+        {
+            "title": "経営戦略入門",
+            "publication_year": 2011,
+            "author": "網倉久永・新宅純二郎",
+            "publisher": "日本経済新聞出版",
+            "price": 3740,
+            "isbn": "9784532134037",
+            "available_on_campus": false
+        },
+        {
+            "title": "経営戦略の論理（第５版） (日経文庫)",
+            "publication_year": 2025,
+            "author": "伊丹敬之",
+            "publisher": "日本経済新聞出版",
+            "price": 1430,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具など。",
+        "other": "経済学部2021年度以前入学の学生は、「経営戦略論Ⅰ」及び「経営戦略論Ⅱ」の両方の単位を修得することで、「経営戦略論（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "上記④に示した到達目標に対する達成度は、下記「⑪学生に対する評価」の方針に基づいて評価する。",
+    "evaluation_ratio": {
+        "exam": 65,
+        "quiz": 35,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "上記教科書は、1980年に初版が刊行されて以降、改訂を重ねながら45年以上にわたり読み継がれてきたロングセラーであり、経営戦略論の古典的名著である。本書には、今後の経営学に関する専門的な学修のみならず、就職活動や卒業論文研究においても参考となる重要な知見が数多く示されている。ぜひ本書を通読し、内容を十分に理解してほしい。\n【予習・復習について】\n各回の授業に先立ち、必ず指定された章を読んでくること。その際、当日の授業で理解を深めるため、理解できない箇所をあらかじめ特定しておくことが望ましい（60分）。\n各回の授業では、ワークシートを配布する場合があるため、授業中および授業後に設問へ解答すること（30分）。\nまた、授業後には、学習支援システム（C-learning）等を通じて、小テストを受験すること（30分）。\n本科目では、「経営学入門Ⅰ」「経営学入門Ⅱ」「経営戦略論Ⅰ」を履修していることが望ましい。\nオフィスアワーは「在室している時間であれば随時対応可」としています。もっとも、円滑な対応のため、原則として事前にC-learningの「連絡・相談」から予約してください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "経営戦略とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ビジネスシステムと見えざる資産その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ビジネスシステムと見えざる資産その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "顧客のニーズをダイナミックにとらえる　戦略の顧客適合その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "顧客のニーズをダイナミックにとらえる　戦略の顧客適合その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "競争優位をつくる　戦略の競争適合その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "競争優位をつくる　戦略の競争適合その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "資源を有効利用し、資源を効率的に蓄積する　戦略の資源適合その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "資源を有効利用し、資源を効率的に蓄積する　戦略の資源適合その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "技術を活用し、技術を進化させる―戦略の技術適合その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "技術を活用し、技術を進化させる―戦略の技術適合その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "人の心を動かし、刺激する　戦略の心理適合その１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "人の心を動かし、刺激する　戦略の心理適合その２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "市場創造の戦略―製品戦略の不均衡ダイナミズムその１",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "市場創造の戦略―製品戦略の不均衡ダイナミズムその２およびケース分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "石谷　康人"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "石谷　康人"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

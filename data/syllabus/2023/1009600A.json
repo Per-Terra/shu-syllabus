@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:45Z",
+    "fetched_at": "2026-06-02T11:53:15Z",
     "name_ja": "哲学",
     "name_en": "philosophy",
     "syllabus_number": "1009600A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,8 +38,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "6つのテーマ、①「人間らしさとは何か」、②「「私」の身体」、③「生と死の接点」、④「心の問題」、⑤「言語と論理」、⑥「責任と自由」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
     "evaluation_ratio": {
@@ -134,5 +134,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:57:48Z",
+    "fetched_at": "2026-06-02T11:55:11Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EF",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　啓祐",
@@ -49,7 +49,7 @@
             "経済史",
             "日本経済史"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特に書籍は指定しませんが、随時課題解決に必要な書籍を購読します。卒論執筆に必要な書籍は適宜指示し、各自購入してもらいます。"
     },
     "grading_criteria": "卒業論文提出でもって評価します",
@@ -365,5 +365,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

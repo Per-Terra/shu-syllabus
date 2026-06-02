@@ -1,0 +1,230 @@
+{
+    "fetched_at": "2026-06-02T11:58:26Z",
+    "name_ja": "スポーツ文化論Ⅰ（体育・スポーツ史、体育・スポーツ哲学）",
+    "name_en": "Sport Culture Ⅰ",
+    "syllabus_number": "2109800A",
+    "course_number": "21-2-22-21-06",
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "is_primary": true
+        },
+        {
+            "name": "清原　泰治",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "テーマ：「これまでの体育・スポーツの話をしよう！」\n1．体育とスポーツの意味概念と原理を理解できる。\n2．体育とスポーツの歴史の基本を理解できる。\n3．スポーツの社会的機能と価値の基本を理解できる。",
+    "overview": "現代社会におけるスポーツは単に競技種目として存在するだけでなく、教育、政治、経済をはじめ科学技術、医療、地域コミュニティー、娯楽・レクリエーション、ファッション、文学、芸術など人々のあらゆる生活文化に多様に関わっている。本講義では、現代スポーツ文化の特徴と課題を理解するために、体育及びスポーツの概念とその 原理と 意味 、価値を様々な歴史的背景を踏まえ考察し、理解する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具など。",
+        "other": "後期の「スポーツ文化論Ⅱ」をあわせて受講することを推奨する。また、参考文献及び講義資料等は適宜案内する。さらに、講義の進捗状況によってシラバスは変更される場合がある。"
+    },
+    "grading_criteria": "1．体育とスポーツの意味概念と原理\n2．体育とスポーツの歴史の基本\n3．スポーツの社会的機能と価値に関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "「スポーツ文化論Ⅰ」は、スポーツ健康科学科の専門基礎科目を学ぶ上で重要な体育やスポーツに関する基本的な知識を得る講義である。講義内容は、歴史的な事象の理解を基本としながらも多岐にわたっているため、個別テーマに関連する基本文献を積極的に読むという事前・事後学習が重要となる。この授業を通じて、「聴く」だけでなく、自分の言葉で「話す」「伝える」能力の獲得を期待する。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション―私たちはなぜ「体育」や「スポーツ」を教えるのか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋",
+                "清原"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "「体育」はなぜ汎愛教育から始まったのか－グーツムーツによる近代体育の成立－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ドイツのトゥルネンはなぜナポレオンを打ち破ったのか－ヤーンによる国民体育の成立－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "「Sport」の概念はイギリスでどのように成立したか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "近代スポーツの成立過程－暴力の排除と文明化の過程－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "オリンピズムとスポーツの国際化－クーベルタンの教育・スポーツ思想とオリンピック大会の開催－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "アマチュアリズムはなぜ崩壊したか－スポーツが抱えざるを得なかった矛盾－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "戦争と国際紛争に翻弄されるオリンピズム－オリンピック大会を襲う悲劇－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "体育・スポーツの誕生と国際化－前半の授業のリフレクション－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋",
+                "清原"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "日本ではなぜ行進が体育の教材になったのか－兵式体操と富国強兵－",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "スポーツには暴力がつきまとうのか－エリート教育を目指した「体育会系」運動部が背負う負の遺産",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "相撲と祭礼化した運動会が担った地域の活性化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "日本の地域スポーツを担った青年団活動",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "戦後の復旧・復興と地域スポーツのチカラ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "「これまでの体育・スポーツの話をしよう」―まとめとスポーツ文化論Ⅱに向けてー",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋",
+                "清原"
+            ]
+        },
+        {
+            "number": "筆記試験",
+            "content": "8月5日　9:00〜10:00　611教室",
+            "teaching_methods": [],
+            "teachers": [
+                "中嶋",
+                "清原"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

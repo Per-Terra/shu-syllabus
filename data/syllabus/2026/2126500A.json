@@ -1,0 +1,243 @@
+{
+    "fetched_at": "2026-06-02T12:00:07Z",
+    "name_ja": "環境データサイエンス",
+    "name_en": "Environmental Data Science",
+    "syllabus_number": "2126500A",
+    "course_number": "31-3-22-32-07",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "大島　和裕",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "1．環境データの特徴を理解し、基本的な解析と可視化ができる。\n2．空間情報・位置情報の基本と特徴を理解し、扱うことができる。\n3．地域環境、地球環境についてデータの基づき特徴を読み取ることができる。",
+    "overview": "現代社会ではさまざまなデータに囲まれて生活しており、地域環境や地球環境の実態把握や問題解決においても多くのデータが活用されている。そこで扱われる環境データについて、データの特徴とその取得、解析、可視化、利活用に関する基礎を学ぶ。これを通して、データから得られる結果が地域環境の理解や問題解決等の基礎資料となることを理解する。前半は環境に関する代表的なビッグデータである気象・海洋情報を題材に、後半は地理空間情報・位置情報を題材にして、データ解析や可視化に関するPythonの演習を行い、理解を深める。",
+    "diploma_policies": [
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Pythonによる地理空間データ分析",
+            "publication_year": 2023,
+            "author": "Bonny P. McClain著，廣川類訳",
+            "publisher": "オライリー・ジャパン",
+            "price": 3740,
+            "isbn": "978-4-8144-0032-4",
+            "available_on_campus": false
+        },
+        {
+            "title": "現場のプロがわかりやすく教える 位置情報エンジニア養成講座",
+            "publication_year": 2023,
+            "author": "井口奏大",
+            "publisher": "秀和システム",
+            "price": 2970,
+            "isbn": "978-4-7980-6892-3",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "パソコン",
+        "other": null
+    },
+    "grading_criteria": "課題レポート100％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "地域の環境を理解するためには、他の地域や世界的な状況を知ることも重要です。地域間比較によって特徴が明確になります。また、過去・現在・未来の変遷を比較することによっても理解が深まります。そのような視点でデータを見ることができると環境データから有益な情報が得られると思います。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、環境データとその利活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "環境データを扱う準備（1）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "環境データを扱う準備（2）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "気象・海洋情報（1）データの特徴と利活用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "気象・海洋情報（2）データの取得と扱い方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "気象・海洋情報（3）解析方法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "気象・海洋情報（4）可視化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "気象・海洋情報（5）地球温暖化予測・影響評価",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "地理空間情報・位置情報（1）データの特徴と利活用",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地理空間情報・位置情報（2）地図データの扱い方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "地理空間情報・位置情報（3）交通位置データ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "地理空間情報・位置情報（4）人流メッシュデータ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "地理空間情報・位置情報（5）衛星観測データ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "環境データによる地域環境、地球環境の比較（1）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "環境データによる地域環境、地球環境の比較（2）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "大島　和裕"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

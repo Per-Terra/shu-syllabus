@@ -1,0 +1,268 @@
+{
+    "fetched_at": "2026-06-02T11:59:15Z",
+    "name_ja": "小児看護実践",
+    "name_en": "Child Health Nursing Practice",
+    "syllabus_number": "2117500A",
+    "course_number": "22-3-23-21-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "半田　浩美",
+            "is_primary": true
+        },
+        {
+            "name": "井上　みゆき",
+            "is_primary": false
+        },
+        {
+            "name": "白松　裕",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１.子どもの最善の利益を中心に置いた看護の重要性と倫理的看護実践のポイントを述べることができる。 \n２.小児の看護過程を展開することができる。 \n３.小児と家族の成長・発達を支える看護ケアを実施することができる。 \n４.健康障がいのある子どもの日常生活援助の技術を実施することができる。 \n５.健康障がいのある子どもの診療の補助に関わる技術を実施することができる。",
+    "overview": "子どもの最善の利益を中心に置いた、倫理的看護実践に必要な知識、技術態度を習得する。小児と家族の成長・発達を支えるために必要な具体的看護ケアの方法、健康障がいのある子どもの日常生活援助の技術と、診療の補助に関わる技術の具体的方法を習得する。さらに、小児と家族のアセスメントと看護目標の設定、具体的看護の立案、評価方法を学び小児の看護過程を展開する。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [
+        {
+            "title": "小児看護学Ⅲ　小児看護技術 改訂第5版",
+            "publication_year": 2025,
+            "author": "二宮啓子、今野美紀（監修）",
+            "publisher": "南江堂",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "小児看護学概論",
+            "小児看護方法"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する。",
+        "other": "なし"
+    },
+    "grading_criteria": "期末テスト：50点、演習への参加度：30点、看護計画立案：20点",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "技術演習は、2コマ続きで80名の学生を半分に分けて実施します。1回目のオリエンテーションで説明しますので、講義・演習室の場所を各自確認してください。演習では、実習用のユニホームを着用し、身なりを整えて参加してください。 \n【オフィスアワー】 \n講義のある曜日：事前にメールでアポイントを取ってください。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "小児看護実践オリエンテーション　\n　小児看護技術（演習）の説明",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "・実習で使用する看護過程と記録用紙、看護過程の進め方\n・グループワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "小児バイタルサイン測定と身体計測",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "乳児、幼児バイタルサイン測定方法、頭囲・胸囲測定、身長体重測定、採尿（男女）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "エピペン、ベッド上安静の子どもの遊びの計画立案",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "エピペンの実施、遊びの計画立案・グッズ作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "蘇生、異物除去、腰椎穿刺・骨髄穿刺の介助",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "蘇生、異物除去、腰椎穿刺・骨髄穿刺の介助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "点滴挿入時の採血、点滴管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美",
+                "白松裕",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "点滴挿入時の介助と採血・シーネ固定・点滴管理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "医療的ケア技術\n吸入、吸引、気切管理、経管栄養管理（胃ろう含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "半田浩美",
+                "白松裕",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "医療的ケア技術\n吸入/吸引（乳児）、気切管理、経管栄養管理（胃ろう含む）の実施",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "半田浩美",
+                "白松裕",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "グループワークの発表　６Ｇ\n看護過程：看護計画・看護援助の一部実演",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "グループワークの発表　６Ｇ\n看護過程：看護計画・看護援助の一部実演",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "演習と看護過程の振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕",
+                "ゲストスピーカー"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（詳細は別途お知らせします）",
+            "teaching_methods": [],
+            "teachers": [
+                "井上みゆき",
+                "半田浩美",
+                "白松裕"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "担当教員全員が小児看護領域の実務の経験を有する。"
+}

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:20:39Z",
+    "fetched_at": "2026-06-02T11:57:25Z",
     "name_ja": "経営戦略論Ⅱ",
     "name_en": "Business Policy and Strategy　Ⅱ",
     "syllabus_number": "2036100A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,7 +47,7 @@
             "企業概論"
         ],
         "required_materials": "パソコン、タブレットなど電子資料の閲覧、オンライン課題ができる端末、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①\t経営戦略の概念、基本理論、②環境分析の方法、③戦略策定のプロセスについて「学生に対する評価」の内容で評価する\n※「その他」は授業中の課題と宿題",
     "evaluation_ratio": {
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

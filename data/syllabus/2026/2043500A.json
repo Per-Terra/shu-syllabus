@@ -1,0 +1,222 @@
+{
+    "fetched_at": "2026-06-02T11:57:11Z",
+    "name_ja": "都市経済学演習",
+    "name_en": "Urban Economics Seminar",
+    "syllabus_number": "2043500A",
+    "course_number": "11-3-26-22-09",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "伏木　貞文",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本演習は、都市・地域の課題に対して、基本的な知識をインプットした上で、都市・地域における「現場」のでの訪問・調査を行い、具体的な解決策の試案を検討する。これらを通じて、都市政策の一端を体感し、重要性を改めて認識する。\n【到達目標】\n・都市経済学の初歩的な考え方を習得することができる。\n・都市・地域の課題をもつ「現場」において職員や市民と適切な意思疎通を図ることができる。\n・都市・地域の課題に対する解決に向けた意識を養うことができる。",
+    "overview": "都市経済学演習では、前半は主に講義形式で都市経済学のおさらいに加え、都市の人口問題、子育て支援、働く環境、環境問題など理論について理解を深める。後半は、都市経済学の課題に係る関係者との意見交換を通じ、現場の実情への理解を深め、課題を発見し、経済理論に沿って解決につながる方策を探る。本演習では、都市経済学理論の修得と公共セクター等の現場の訪問・体験を通じ、都市・地域政策の提言力の養成を目標とする。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "なし",
+        "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進める。"
+    },
+    "grading_criteria": "レクチャーと現場視察に基づいた発表（35％）、視察、発表に基づいた個人の期末レポート（35％）および、演習への参加姿勢、提出物等（30％）により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 35,
+        "presentation": 35,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "都市や地域の問題について、レクチャーと実際の現場観察により課題認識と解決への方向性を探る感覚を養います。グループでの作業も想定していますので、原則、毎回の授業への出席に加え、積極的な参加姿勢と協調性を求めます。　\n　定員を15名とし、履修希望者が定員を超える場合は抽選を行います。また、授業時間外や休日等にも活動を行う可能性がありますので、時間割やスケジュールに余裕がある方の受講を希望します。\n　訪問先の「現場」は、市役所、観光協会、商店街、児童福祉関係機関、企業・団体など都市・地域経済学に関係する主体の中から相手方との調整のうえ絞ります。\n　「都市経済学」を履修していることを推奨します。\n\n※オフィスアワー\n毎週火曜日昼休み（12:20～12:50）\n出張・会議等で不在の可能性もあるため事前予約をしてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション、本演習のアウトライン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "都市・地域の課題について（１）\n人口減少、少子高齢化、地域間人口移動 等",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "都市・地域の課題について（２）\n子育て支援　等",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "都市・地域の課題について（３）\n交通問題、産業支援 等",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "フィールドワークの準備（１）\n周南市の行政課題について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "フィールドワークの準備（２）\n周南市の行政課題について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "フィールドワークの準備（３）\n周南市の行政課題について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "フィールドワークの準備（４）\n事前調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "フィールドワークの準備（５）\n事前調査",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "「現場」訪問・調査活動",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "「現場」訪問・調査活動（予備）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "「現場」訪問・調査活動（予備）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "「現場」訪問・調査活動のまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "「現場」訪問・調査活動の発表",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ、振り返り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "伏木　貞文"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "地方公共団体での勤務経験を活かして講義、演習を行います。"
+}

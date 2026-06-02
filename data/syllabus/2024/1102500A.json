@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:55:48Z",
+    "fetched_at": "2026-06-02T11:54:17Z",
     "name_ja": "情報倫理",
     "name_en": "Information Ethics",
     "syllabus_number": "1102500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -11,14 +11,14 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "渡部　明",
@@ -56,7 +56,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、資料などを配布する。※2023（令和5）年度入学生までにおける「情報倫理とセキュリティ」の読替科目です。"
     },
     "grading_criteria": "本講義の主要テーマである「情報化社会における基本的人権であるプライバシーとそれをめぐる倫理的問題」、「情報化社会における情報流通の基本ルールである知的財産権とそれをめぐる倫理的問題」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

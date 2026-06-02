@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:10Z",
+    "fetched_at": "2026-06-02T11:58:59Z",
     "name_ja": "障がいに対する理解",
     "name_en": "Disability studies",
     "syllabus_number": "2110100A",
@@ -8,12 +8,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "author": "（公財）日本パラスポーツ協会",
             "publisher": "ぎょうせい",
             "price": 2970,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -52,7 +52,7 @@
             "author": "矢部京之助・草野勝彦・中田英雄",
             "publisher": "市村出版",
             "price": 4180,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -61,7 +61,7 @@
             "author": "森川洋・金子元彦・和秀俊",
             "publisher": "大学図書出版",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -70,7 +70,7 @@
             "author": "（公財）日本パラスポーツ協会",
             "publisher": "（公財）日本パラスポーツ協会",
             "price": 1000,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

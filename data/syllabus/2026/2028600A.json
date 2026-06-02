@@ -1,0 +1,212 @@
+{
+    "fetched_at": "2026-06-02T11:56:19Z",
+    "name_ja": "ソーシャルワーク演習Ⅲ（福情）",
+    "name_en": "Social Work Practice Ⅲ",
+    "syllabus_number": "2028600A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "脇野　幸太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "授業のテーマ：\n本演習は、ソーシャルワーク実習Ⅰの事後指導（ソーシャルワーク支援技術としての演習）である。ソーシャルワークに係る知識と技術について個別的な体験を一般化し、実践的かつ学術的な知識及び技術として習得できるよう、集団指導並びに個別指導による実技指導を行う。本演習では、「現場の特異性」から「ソーシャルワーク一般としての支援」に変換した支援技術の習得を目指す。\n到達目標：ソーシャルワーク実習Ⅰで獲得した、その実践現場なりの支援技術をソーシャルワーク全般で適用できる支援技術へと転換できるようになる。",
+    "overview": "実習で出会った事例から、ソーシャルワークの技術を高めていくことができる",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "ソーシャルワーク実習Ⅰ"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": "ソーシャルワーク実習Ⅰ事後演習ですので、実習生が実習中に取り組んできた事例が題材となります。"
+    },
+    "grading_criteria": "ソーシャルワーク実習Ⅰで取り上げた事例に基づき、そのspecificな内容をgenericな視点へと転換できるようになったかを、レポート75％と実技25％で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 75,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "演習は「受けただけ」では身につきません。その演習の中で教員が大切にしていた部分を、必ず復習してそしゃくし、自分のものにしていってください。とくに、この演習では支援技術に焦点を合わせ、どこの現場に行っても通用する技術としてまとめていきます。実習体験に基づく演習ですので、学生各自が自らの実習体験と照らし合わせながら、支援技術の「核となる部分」を復習するようにしてほしいと思います。予習時間として120分、復習時間に120分程度かかります。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ソーシャルワーク演習Ⅲの目的の説明\n―スペシフィックからジェネリックへの変換―",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "事例検討①（高齢者分野）\nアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "事例検討②（高齢者分野）\nプランニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "事例検討③（障がい者分野）\nアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "事例検討④（障がい者分野）\nプランニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "事例検討⑤（児童分野）\nアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "事例検討⑥（児童分野）\nプランニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "事例検討⑦（地域）\nアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "事例検討⑧（地域）\nプランニング",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "理論と実践とを結ぶ①\n事例検討を通して、ソーシャルワークの価値・技術・知識がどのように用いられているのかを考える",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "理論と実践とを結ぶ②\nソーシャルワークの共通基盤について考える",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "自己覚知①\n実習中のインシデントについて、プロセスリコードに記入する",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "自己覚知②\nプロセスリコードに基づくロールプレイ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "自己覚知③\nグループディスカッション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "演習のまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

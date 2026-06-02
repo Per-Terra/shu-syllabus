@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:57Z",
+    "fetched_at": "2026-06-02T11:53:01Z",
     "name_ja": "レクリエーション",
     "name_en": "Recreation",
     "syllabus_number": "1005700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -41,7 +41,7 @@
             "title": "レクリエーション支援の基礎－楽しさ・心地よさを活かす理論と技術",
             "publication_year": 2007,
             "author": "編）日本レクリエーション協会",
-            "publisher": "",
+            "publisher": null,
             "price": 2000,
             "isbn": "978-4-931180-81-9",
             "available_on_campus": false
@@ -50,8 +50,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "授業中の取り組みやレポートによる評価に加え、レクリエーションの基礎知識＋αを問うために定期試験を実施します。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

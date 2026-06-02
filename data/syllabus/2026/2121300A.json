@@ -1,0 +1,252 @@
+{
+    "fetched_at": "2026-06-02T11:59:36Z",
+    "name_ja": "公衆衛生看護活動Ⅱ",
+    "name_en": "Public Health Nursing Activity Ⅱ",
+    "syllabus_number": "2121300A",
+    "course_number": "22-2-27-22-03",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "鶴田　来美",
+            "is_primary": true
+        },
+        {
+            "name": "松本　由希子",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "産業保健\n１．労働者の健康の維持増進のために必要な知識を得る。\n２．産業保健師として持つべき視点や看護実践のための考え方を身につける。\n３．職域における健康管理のhつ養成、産業保健活動の意義について説明できる。\n４．日本の労働衛生行政と職域における健康管理体制について説明できる。\n５．日本の労働者が抱える健康問題の特徴と予想される問題を考えることができる。\n６．労働者の健康問題に対する効果的な保健活動を考えることができる。\n７．産業保健師の役割が説明できる。\n学校保健\n１．学校保健の目的や用語教諭の役割について説明できる。\n２．学校保健・学校安全の制度について説明できる。\n３．対象者の発達段階を踏まえた健康課題を理解し、効果的な支援策を考えることができる。\n４．特別な支援が必要な対象者への支援策について説明できる。",
+    "overview": "産業保健は、行政・産業・学校を含む公衆衛生看護学を基盤とした専門分野の１つであり、学校保健は学校を活動の場とした専門分野の１つである。本授業では、産業保険・学校保健それぞれの機能と活動内容を理解し、さまざまな健康課題を抱える対象者の健康の維持増進のための看護支援の方法について学ぶ。さらに、本授業を通して、それぞれの組織における産業保健師、養護教諭の役割についての基礎的知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "標準保健師講座３　対象別公衆衛生看護活動",
+            "publication_year": 2018,
+            "author": "中谷芳美他著",
+            "publisher": "医学書院",
+            "price": 3740,
+            "isbn": "978-4-260-03187-5",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "公衆衛生看護学テキスト４　公衆衛生看護活動Ⅱ",
+            "publication_year": 2014,
+            "author": "荒木田美香子編",
+            "publisher": "医歯薬出版株式会社",
+            "price": 4180,
+            "isbn": "978-4-263-23116-6",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "公衆衛生看護学概論"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
+        "other": "特になし"
+    },
+    "grading_criteria": "定期試験にて評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "さまざまな健康課題をもつ対象者に対する産業保健師や養護教諭の役割を理解し、それぞれの場における公衆衛生看護活動を学びましょう。（事前学習45分、事後学習45分）",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "産業や学校での公衆衛生看護活動の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "産業保健活動の理念と背景",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "後藤　慶"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "労働衛生の現状と課題\n産業保健の制度と仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "後藤　慶"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "労働災害と安全管理\n職域の健康課題と改善に向けた対策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "後藤　慶"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "職域のメンタルヘルス対策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "後藤　慶"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "産業看護活動の基本（保健計画、健康診断、保健指導、健康相談、健康教育、職業性疾患と対応）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "椎木　文"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "産業看護活動の実際\n労働衛生管理体制における産業保健師の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "椎木　文"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "ヘルスプロモーションにおける保健師の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "椎木　文"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "職域における保健活動のあり方と保健師に求められるもの",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "椎木　文"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "学校保健の目的と養護教諭の役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美",
+                "非常勤講師"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "社会的背景と学校保健の動向\n学校保健・学校安全の制度と仕組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美",
+                "非常勤講師"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "発達課題に応じた学校保健活動の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美",
+                "非常勤講師"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "養護教諭の活動、保健室運営の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美",
+                "非常勤講師"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "特別支援教育における活動の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美",
+                "非常勤講師"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "産業・学校における公衆衛生看護活動の総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "鶴田　来美"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験　60分　S1402",
+            "teaching_methods": [],
+            "teachers": [
+                "鶴田　来美",
+                "木倉　悠子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "産業保健、学校保健、養護教諭の実務経験のある教員が担当する。"
+}

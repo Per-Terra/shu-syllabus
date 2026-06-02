@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:02:16Z",
+    "fetched_at": "2026-06-02T11:56:57Z",
     "name_ja": "障害者福祉Ⅰ",
     "name_en": "Social Services for the Disabled Ⅰ",
     "syllabus_number": "2029400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "井上　浩",
@@ -49,7 +49,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "定期試験を50％、単元ごとの小テストを50％で評価する。単元ごとというのは、授業計画にある例えば「障害概念と特性」や、「障害者福祉の理念」などである。",
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

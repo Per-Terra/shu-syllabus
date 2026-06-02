@@ -1,0 +1,205 @@
+{
+    "fetched_at": "2026-06-02T11:55:01Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AN",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "日置　智子",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①自らの研究テーマについて、研究背景と目的を明確に説明できる\n②適切な研究方法を選択し、研究計画に基づいて自主的に研究を遂行できる\n③研究の過程と成果を論理的に説明できる\n④研究内容を整理し、卒業論文としてまとめることができる",
+    "overview": "各自の研究テーマに基づいて立てた研究計画に沿って研究を進め、その成果を卒業論文としてまとめます。\n先行研究の調査、データ収集・実験、データ分析、論文執筆、発表を通じて、論理的思考力と問題解決能力を養います。\n生体の運動に関するデータ解析を主なテーマとして研究を行います。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコン",
+        "other": "なし"
+    },
+    "grading_criteria": "卒業論文70％、発表30％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "計画的に研究を進めるために、事前学習・事後学習（あわせて120分程度）を確保し、先行研究の調査やデータの整理・分析に取り組みながら研究への理解を深めていきましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "卒業研究の進め方、スケジュールの確認",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "2~4",
+            "content": "先行研究の調査",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "5,6",
+            "content": "卒業研究テーマの検討",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "研究実施計画の検討",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "調査・実験準備",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "9,10",
+            "content": "予備調査・実験",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "11~13",
+            "content": "本調査・実験",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "14,15",
+            "content": "データ分析および結果の整理、進捗状況報告",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "16,17",
+            "content": "中間報告、ディスカッション",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "18~20",
+            "content": "卒業研究のまとめ、進捗状況報告",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "21~25",
+            "content": "卒業論文執筆",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "26~28",
+            "content": "卒業研究発表の準備",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業研究発表",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "まとめ",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "日置　智子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

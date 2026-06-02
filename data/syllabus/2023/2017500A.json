@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:14:22Z",
+    "fetched_at": "2026-06-02T11:55:49Z",
     "name_ja": "認知症の理解Ⅱ",
     "name_en": "Understanding of Dementia II",
     "syllabus_number": "2017500A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,8 +55,8 @@
             "認知症の理解Ⅰ"
         ],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "認知症の理解について「学生に対する評価」の内容で評価する。\n小テストやレポートも必須として評価する。\n「その他」は、授業内における発言の質や、グループワークへの関与の仕方、授業態度を評価する。",
     "evaluation_ratio": {

@@ -1,0 +1,249 @@
+{
+    "fetched_at": "2026-06-02T11:55:35Z",
+    "name_ja": "運動処方",
+    "name_en": "Exercise testing and prescription",
+    "syllabus_number": "2012000A",
+    "course_number": "21-3-23-21-02",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "is_primary": true
+        },
+        {
+            "name": "村瀬　訓生",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習",
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①運動負荷テストの目的、適応、禁忌、合併症について理解できる。 \n②運動負荷時の心電図や心肺運動負荷試験の基本となる理論を理解できる。 \n③目的・対象に応じた各種運動処方を行える。",
+    "overview": "運動指導者は、年齢や健康状態など様々な条件を有する対象者に対して安全かつ効果的な運動プログラムを提供することが出来る知識と運動指導力を有する必要がある。本講義では、健康運動指導に関わる運動処方について、健康に関する施策、メディカルチェックの手法、運動負荷試験の手法など運動プログラムの作成に必要な知識と指導法ついて解説する。授業を通して、運動処方に関する専門的な知識を身につける。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツ健康科学科DP3",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "健康運動指導士養成講習会テキスト上・下",
+            "publication_year": 2024,
+            "author": null,
+            "publisher": "公益財団法人健康・体力づくり事業財団",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "解剖学",
+            "生理学",
+            "内科学"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "実習時には、体育館シューズ着用し、運動できる服装にて参加して下さい。",
+        "other": "授業中に適時、資料を配布する。"
+    },
+    "grading_criteria": "筆記試験50％、課題レポート40％、学習状況（積極的な授業参画や発言など）10％ を総合的に評価します。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "健康運動実践指導者、健康運動指導士、パラスポーツ指導員に関わる単位です。また、一部の講義内容は、学外の医療施設にて実習（集中講義）を行う場合もあります。日程が決まり次第、お伝えします。\n毎回、学習内容に関する予習・復習を合計60分間実施すること。\n\n\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "健康づくり施策と健康運動指導士の社会的役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "健康づくりのための身体活動基準2013とアクティブガイド",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "運動プログラム作成の基本（１）\n運動プログラムの基本原則",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "運動プログラム作成の基本（２）\n運動処方の目的、手順",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "投薬者の運動プログラム作成上の注意",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "村瀬訓生"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "健診結果の読み方",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "心電図の基礎と記録法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "生活習慣病に対する適切な運動療法プログラム作成実習（包括的プログラム作成）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "生活習慣病に対する適切な運動療法プログラム作成実習（過体重・肥満症と高血糖・糖尿病）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "生活習慣病に対する適切な運動療法プログラム作成実習（高血圧と脂質異常症）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "生活習慣病に対する適切な運動療法プログラム作成実習（ロコモティブシンドロームと運動器退行性疾患）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "運動負荷試験の実際",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "村瀬訓生"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "運動負荷試験実習（１）自転車エルゴメータ、血圧計、心電計、呼気ガス分析器を用いた測定",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "村瀬訓生"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "運動負荷試験実習（２）トレッドミル、血圧計、心電計、呼気ガス分析器を用いた測定",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "村瀬訓生"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "運動行動変容の理論と実際\n（運動プログラム開発とカウンセリング）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑和希"
+            ]
+        },
+        {
+            "number": "期末テスト",
+            "content": "7月　日（金）１４：４０～１５：４０\n601",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "村瀬訓生は、日本スポーツ協会スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。"
+}

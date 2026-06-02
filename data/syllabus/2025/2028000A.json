@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:01:43Z",
+    "fetched_at": "2026-06-02T11:56:57Z",
     "name_ja": "貧困に対する支援",
     "name_en": "Social Work Theory for the Poverty and Needy",
     "syllabus_number": "2028000A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -68,7 +68,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①貧困や公的扶助の概念と貧困状態にある人の生活実態②貧困の歴史と貧困観の変遷③貧困に係る法制度と支援の仕組み④貧困による生活課題を踏まえ、社会福祉士としての適切な支援について以下の割合で評価する。\n「試験」は、全授業後の試験期間に実施します。",
     "evaluation_ratio": {
@@ -79,11 +79,11 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "社会福祉において貧困の課題は大変重要なテーマです。貧困の概念をはじめ、制度や支援を学ぶ中で人々が地域で安心して暮らしを営むことができる社会のあり方について一緒に考えていきましょう。\n授業においては、次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。                                      \n\n４月の２週にわたり集中講義(土曜日)にて一部行う。\n\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "社会福祉において貧困の課題は大変重要なテーマです。貧困の概念をはじめ、制度や支援を学ぶ中で人々が地域で安心して暮らしを営むことができる社会のあり方について一緒に考えていきましょう。\n授業においては、次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。                                      \n\n４月12日と19日の1限から4限にわたり、集中講義(土曜日)にて一部行う。\n\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
             "number": "1",
-            "content": "オリエンテーション：授業の進め方　貧困の概念",
+            "content": "オリエンテーション：授業の進め方　貧困の概念\n※4月12日（土）1限目に実施",
             "teaching_methods": [
                 "講義"
             ],
@@ -235,5 +235,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

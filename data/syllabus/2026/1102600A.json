@@ -1,0 +1,231 @@
+{
+    "fetched_at": "2026-06-02T11:54:26Z",
+    "name_ja": "国際政治学（安全保障論）",
+    "name_en": "International Politics(Theory of National Security)",
+    "syllabus_number": "1102600A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "廣中　雅之",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "１．国際政治学（安全保障論）の基礎理論のポイントが理解できる。\n２．諸外国の歴史と現在及び将来の対外戦略の概要が理解できる。\n３．初歩的なシミュレーション・ゲームを通じて、国家的危機対処の基本的な考え方が理解できる。\n４．国際政治（安全保障）のダイナミズムを理解し、諸課題を自らの課題として考察できる。",
+    "overview": "この講義では、歴史的かつ、国際的な視野で物事を考え、コミュニケーションができるように、国際社会の歴史、国際政治の初歩的な理論と現状について学びます。初めに、国際政治学の基礎理論を戦略論の系譜を紐解くことにより、そのポイントを理解してもらいます。次に、諸外国の対外戦略の歴史と現状及び将来について考えます。さらに、国家的危機に関する事例研究を通じて、国際政治の理論と現実の同一性と違いを学び、理解を深めてもらいます。この事例研究では、シナリオに基づくシミュレーション・ゲームを行います。また、著名な国際政治学者や専門家による講義（ゲスト・スピーカーの講義）も予定しています。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "戦略論の名著-孫氏、マキャベリから現代まで",
+            "publication_year": 2013,
+            "author": "野中　郁次郎",
+            "publisher": "中公新書",
+            "price": 880,
+            "isbn": "9784121022158",
+            "available_on_campus": true
+        },
+        {
+            "title": "国際安全保障が分かるブックガイド",
+            "publication_year": 2024,
+            "author": "赤木　完爾・国際安全保障学会",
+            "publisher": "慶應義塾大学出版会",
+            "price": 2200,
+            "isbn": "978-4766429336",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "PC、ノート、筆記用具",
+        "other": "基本オンラインですが、対面で講義を行う場合もあります。"
+    },
+    "grading_criteria": "国際政治（安全保障）の基礎理論のポイントが理解できているかを評価します。講義においては、適宜、質問や所見を述べてもらいます。\n\n「評価の方法」\n中間試験はありません。\n講義への積極的な参加状況（質問や所見）：50％\nレポート：50％（小論文を書いてもらいます）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "この講義は、学生諸君が国際的なセンスを磨くための基礎理論を学ぶ第一歩です。ニュースで眼にする国際情勢を読み解くポイントが理解できるようになると思います。アカデミック・プレッシャー（たくさんの書籍を事前に読みこなすこと）はありませんが、さらに学びたい諸君には、できるだけヒントを与えます。積極的に講義に参加して、講義の中で自由に質問や意見を述べて下さい。皆さんに講義室で会えるのを楽しみにしています。なお、インターネットを使用した講義も行いますが、次回講義の形式はメールでお伝えします。第一回目の講義は対面講義で行います。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（授業の進め方、自己紹介など）\n国際政治学（安全保障論）の定義\n※対面で実施します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "古典的な戦略論の系譜\n孫子、マキャベリとクラウゼヴィッツの戦略論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "現代戦略論と政軍関係の基礎理論\nルトワックとグレイの戦略論、ハンチントンとファイナーの理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "制限戦争、国家総力戦（第一次、第二次世界大戦）\n英国は対独戦に如何にして勝利したか\n米国は太平洋戦争に如何にして勝利したか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "現代戦と将来戦\n冷戦後の戦争の評価、将来戦は如何なる戦いになるか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "核戦略の系譜\n核のジレンマ、核軍縮と核抑止",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "日本の政軍関係",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "日米同盟関係\n同盟の本質、日米安保条約",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "米国の対外戦略\n基本的な政治構造と戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中国、ロシア、北朝鮮及び韓国の対外戦略\n基本的な政治構造と戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之",
+                "ゲストスピーカー（検討中）"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "インド、オーストラリア、東南アジア、欧州及び中東諸国の対外戦略\n基本的な政治構造と戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "脅威認識ゲーム\nネット・アセスメントとウォー・ゲーム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "事例研究\n大規模震災",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "事例研究\n台湾海峡危機と北朝鮮の核・ミサイル危機",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之",
+                "ゲストスピーカー（検討中）"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "講義の総括\n国際政治の理論と現実",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "廣中　雅之"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

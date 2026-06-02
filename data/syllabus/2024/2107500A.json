@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:34Z",
+    "fetched_at": "2026-06-02T11:58:37Z",
     "name_ja": "創造的問題解決",
     "name_en": "Creative Problem Solving",
     "syllabus_number": "2107500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "赤木　真由",
@@ -43,7 +43,7 @@
             "author": "前野隆司、保井俊之、白坂成功、富田欣和、石橋金徳、岩田徹、八木田寛之",
             "publisher": "日経BP",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -220,5 +220,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

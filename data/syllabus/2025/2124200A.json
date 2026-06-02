@@ -1,19 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:06:29Z",
+    "fetched_at": "2026-06-02T11:59:42Z",
     "name_ja": "子どもの遊びと援助",
     "name_en": "child's play and support",
     "syllabus_number": "2124200A",
     "course_number": "23-1-23-22-03",
     "departments": [
+        "人間健康科学部 福祉学科",
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -60,7 +61,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①養護と教育が一体的に展開する保育の考え方\n②遊びを通した総合的な指導\n③家庭との連携のあり方\n④多様な保育の展開\n上記①～④に関する理解度を以下の割合により評価する。\n※※その他に関しては、授業への参加意欲・レポート等の提出期限を守る、など、学ぶ姿勢に対する評価を主にします。",
     "evaluation_ratio": {
@@ -225,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

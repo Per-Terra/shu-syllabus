@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:07Z",
+    "fetched_at": "2026-06-02T11:58:23Z",
     "name_ja": "Webアプリケーション開発",
     "name_en": "Web Applications Development",
     "syllabus_number": "2101500A",
@@ -9,12 +9,12 @@
         "情報科学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -73,7 +73,7 @@
             "Javaプログラミング"
         ],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）Webアプリの特徴　（ⅱ）実践的なプログラミング　（ⅲ）Webアプリの作成\n上記（ⅰ）～（ⅲ）に関する理解度を課題50％、レポート25％、小テスト25％で評価する。",
     "evaluation_ratio": {
@@ -238,5 +238,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

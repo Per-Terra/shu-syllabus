@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:21Z",
+    "fetched_at": "2026-06-02T11:54:48Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AQ",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -45,7 +45,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得上記、（ⅰ）～（ⅲ）に関する理解度をレポート40％、実技40％、ポートフォリオ20％で評価する。",
     "evaluation_ratio": {
@@ -288,5 +288,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

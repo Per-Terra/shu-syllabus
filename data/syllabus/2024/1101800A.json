@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:55:41Z",
+    "fetched_at": "2026-06-02T11:54:13Z",
     "name_ja": "倫理学Ⅰ",
     "name_en": "Ethics I",
     "syllabus_number": "1101800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -11,14 +11,14 @@
         "人間健康科学部 看護学科",
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "寺田　篤史",
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

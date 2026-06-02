@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:00:39Z",
+    "fetched_at": "2026-06-02T11:56:19Z",
     "name_ja": "医療的ケア",
     "name_en": "Medical care",
     "syllabus_number": "2019800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
         {
             "title": "最新・介護福祉士養成講座15「医療的ケア　第2版」",
             "publication_year": 2022,
-            "author": "",
+            "author": null,
             "publisher": "中央法規出版",
             "price": 2860,
             "isbn": "978-4-8058-8404-1",

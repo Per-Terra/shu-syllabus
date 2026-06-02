@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:03:17Z",
+    "fetched_at": "2026-06-02T11:54:44Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600J",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "テキスト、パソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "文献講読においてのレジュメの作成・発表：50％\n研究計画書（レポート）の作成：50％",
     "evaluation_ratio": {

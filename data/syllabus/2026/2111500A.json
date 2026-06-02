@@ -1,0 +1,221 @@
+{
+    "fetched_at": "2026-06-02T11:58:37Z",
+    "name_ja": "スポーツ心理学実験演習",
+    "name_en": "Experimental Exercises in Sport  Psychology",
+    "syllabus_number": "2111500A",
+    "course_number": "21-3-24-21-02",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. スポーツ心理学研究法について理解できる\n2. 興味・関心に基づいた実験・研究を行い、まとめたデータを発表することができる",
+    "overview": "スポーツ心理学の領域では、主に実験法と調査法の 2 つの方法で研究が行われ、本講義においてもその両方について学修する。実験法では、実験心理学をベースに実験機材を用いた基礎実験を行い、実験手法の理解と手続きへの理解を深めることを目指す。また調査法では、社会心理学をベースにアンケート調査に必要な基礎知識と調査法への理解を深めることを目指す。また、反応時間測定機器や錯視図形といった機材を用いた基礎実験や質問紙 (DIPCA.3 や TAIS など)を用いた学修や、実際に質問紙の作成を行うことで、調査法への理解をさらに深める学修も展開する。得られたデータはレポートやプレゼンテーション形式でまとめ、発表する場を設ける。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "体育心理学実験実習概説（体育心理学実験指導研究会編）",
+            "publication_year": 1981,
+            "author": "体育心理学実験指導研究会 編",
+            "publisher": "大修館書店",
+            "price": 1980,
+            "isbn": "9784469260717",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "スポーツ心理学"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題レポート 100％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "スポーツ心理学実験演習では、基礎となる実験手法や質問紙手法を用いて、スポーツで生じる諸現象を科学的に理解していきます。研究のプロセスを学ぶと同時に、得られた結果や考察をレポートにまとめていきます。積極的なディスカッションを期待しています。\n【事前学習・事後学習の時間】あわせて 90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "スポーツ心理学研究法について（実験手法と調査手法）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "質問紙を用いた実験①（性格検査）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "質問紙を用いた実験②（気分プロフィール尺度）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "質問紙を用いた実験③（不安尺度）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "知覚と反応時間の実験①（錯視図形）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "知覚と反応時間の実験②（全身反応時間）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "質問紙調査法①（質問紙作成）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "質問紙調査法②（調査、妥当性の検討）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "質問紙調査法③（データ分析とまとめ）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "グループワーク①（研究計画の立案）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "グループワーク②（実験）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "グループワーク③（データ分析）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "グループワーク④（プレゼンテーション発表）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "水﨑　佑毅"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

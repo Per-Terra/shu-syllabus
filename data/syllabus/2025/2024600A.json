@@ -1,0 +1,204 @@
+{
+    "fetched_at": "2026-06-02T11:56:35Z",
+    "name_ja": "知的財産入門",
+    "name_en": "Introduction to Intellectual Property",
+    "syllabus_number": "2024600A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "杉岡　茂",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [],
+    "delivery_modes": [],
+    "objectives": "知的財産権の保護の必要性を理解した上で、実際の経営に活用することを考える。さらに権利として確立しているものではない知的財産、いわゆる無形資産の今後の動きを理解していきましょう。\n\n【到達目標】\n（ⅰ）知的財産権の枠組の理解\n（ⅱ）知的財産権の枠組を超える知的財産、無形資産の理解\n（ⅲ）無形資産を利用したビジネスの開始\"",
+    "overview": "講義形式で行います。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "（ⅰ）知的財産の枠組の理解\n（ⅱ）知的財産権の枠組を超える知的財産、無形資産の理解\n（ⅲ）無形資産を利用したビジネスの開始\n（ⅰ）～（ⅲ）を⑪によって評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "授業態度も評価に含まれます。しっかりと内容について、理解を深めてください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "知的財産の概論\n～情報と知的財産　Rule＆Tool",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "工業所有権(1)\n～権利編",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "工業所有権(2)\n～手続編",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "無形資産(1)\n～財務諸表と企業価値",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "無形資産(2)\n～アイデアの重要性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "まとめ\n～知的財産の本質と情報のアイデア",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "資本主義の変容と無形資産(1)\n～資本主義の本質",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "資本主義の変容と無形資産(2)\n～資本主義の未来",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "中小企業とデジタル技術(1)\n～フロントライン＆バックヤード",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中小企業とデジタル技術(2)\n～Rule＆Tool",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "まとめ\n～中小企業の生き筋",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "情報部隊と契約部隊\n～バックヤードの強化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "経営戦略とデジタル技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "経営戦略とデジタル技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総まとめ：中小企業と無形資産・知財戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "杉岡　茂"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴と授業内容\n【 職 歴 】\n弁護士　税理士　弁理士　社会保険労務士　各登録\n2005年4月～2012年3月　広島大学講師\n2015年4月～2019年3月　徳山大学講師\n\n【実務経験を活用した授業内容】\n弁護士知識による権利についての理解\nコンサルティング経験による会社経営について\n\n【 備 考 】\n〇私語スマホ通信・通話禁止\n〇定員あり"
+}

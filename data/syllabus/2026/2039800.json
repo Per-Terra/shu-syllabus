@@ -1,0 +1,210 @@
+{
+    "fetched_at": "2026-06-02T11:56:54Z",
+    "name_ja": "多職種協働演習",
+    "name_en": "Practice of multiprofessional-colaboration",
+    "syllabus_number": "2039800",
+    "course_number": "23-3-22-21-01",
+    "departments": [
+        "福祉情報学部",
+        "人間健康科学部福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "守本　友美",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "テーマ：社会福祉士としてチームアプローチを進めるためにメンバーとなる他職種の理解を深める。\n到達目標\n①専門職間の連携協働に価値を置き、多職種の意見や見方を尊重する具体的な行動を説明することができる。\n②各専門職の役割と関係、協働が求められている背景について国レベルから地域レベルまで説明することができる。\n③協働を改善するための戦略や理論モデルに基づいた具体的な行動を説明することができる。",
+    "overview": "本授業では、社会福祉士が連携・協働する多くの職種について、それぞれどのような内容を含み、どのような仕事をし、各職種がチームの中でどのような役割を担うかについて、事例検討やロールプレーイングを通して、社会福祉士と他職種のつながりを理解し、チームの中で協働するための実践力を身につける。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノート",
+        "other": "必要な資料は適宜配付する。"
+    },
+    "grading_criteria": "①専門職間の連携協働の価値、②協働が求められる背景、③協働を改善するための理論、④協働を実践する行動・態度\n上記①～③に関する理解度及び④の実践力を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 50,
+        "other": 0
+    },
+    "teacher_message": "ソーシャルワーカーが連携を図る専門職について理解し、チームアプローチの中でソーシャルワーカーの果たす役割を考えてください。授業に参加するにあたっては次回の授業内容を参照し、配付する資料を通読しておくこと（予習30分程度）。また、グループワークには積極的に参加すること。授業後は、専門用語の整理をしておくこと（復習30分程度）。\nオフィスアワーは講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション：授業の進め方\n専門職協働の基礎知識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "医療分野における他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "介護分野にお空ける他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "教育分野における他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "子育て分野における他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "司法分野における他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "精神保健分野における他職種の理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "チームにおけるコミュニケーションのあり方",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "対立の解決を目指したアプローチ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "多職種連携のマネジメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "リーダーシップ・メンバーシップ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "チーム運営と人材育成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "組織と運営管理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "倫理上の課題",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "災害時におけるチームアプローチ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "守本　友美"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

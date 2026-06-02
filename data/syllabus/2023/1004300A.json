@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:35Z",
+    "fetched_at": "2026-06-02T11:52:56Z",
     "name_ja": "韓国語Ⅰ",
     "name_en": "Korean Language I",
     "syllabus_number": "1004300A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -364,5 +364,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

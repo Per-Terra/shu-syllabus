@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:02:03Z",
+    "fetched_at": "2026-06-02T11:54:22Z",
     "name_ja": "地域経済論",
     "name_en": "Regional Economy",
     "syllabus_number": "2003200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -72,8 +72,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {
@@ -418,5 +418,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,241 @@
+{
+    "fetched_at": "2026-06-02T11:57:05Z",
+    "name_ja": "財務管理論",
+    "name_en": "Financial Management Theory",
+    "syllabus_number": "2042400A",
+    "course_number": "11-2-27-21-01",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "長澤　賢一",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）財務管理に関する基本的な考え方を理解する。\n（２）授業内で扱う計算問題を解答できるようにする。",
+    "overview": "現在、日本の証券市場においては外国法人株主を含む機関投資家が台頭するとともに、企業の海外進出やＭ＆Ａが急速に進んでいる。このような背景のもと、日本企業は、財務戦略を構築する際、資本コストを踏まえた意思決定を迫られている。このため、財務管理論における知識の習得は、極めて重要となっている。このような我が国の置かれている状況を踏まえ、本講義では、企業価値の評価、企業の投資、資金調達およびペイアウト政策およびコーポレートガバナンスなどについて網羅的に学習していく。なお、本講義においては、計算演習を積極的に取り入れることとする。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "コーポレート・ファイナンス 第10版 上",
+            "publication_year": 2014,
+            "author": "リチャード・A・ブリーリー (著), スチュワート・C・マイヤーズ (著), フランクリン・アレン (著), 藤井 眞理子 (翻訳), 國枝 繁樹 (翻訳)",
+            "publisher": "日経BP社",
+            "price": 6600,
+            "isbn": "978-4822248604",
+            "available_on_campus": false
+        },
+        {
+            "title": "コーポレート・ファイナンス 第10版 下",
+            "publication_year": 2014,
+            "author": "リチャード・A・ブリーリー (著), スチュワート・C・マイヤーズ (著), フランクリン・アレン (著), 藤井 眞理子 (翻訳), 國枝 繁樹 (翻訳)",
+            "publisher": "日経BP社",
+            "price": 6600,
+            "isbn": "978-4822248611",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "電卓、パソコン、筆記具",
+        "other": null
+    },
+    "grading_criteria": "財務管理に関する基礎的な知識を評価する（最終テスト70％、中間テスト30％）",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "今日においては、企業の資金調達・投資・株主還元といった財務管理の意思決定に加え、コーポレートガバナンスに関する議論が活発に行われています。今後、皆さんが社会に出たとき、この講義で学んだ知識が企業活動や経済の動きを理解するうえで役に立つと思います。なお、履修に際しては、金融論や証券投資論の履修を推奨いたします。\n\n【予習】授業は段階的に進めていくので、前回行った授業の内容について復習してから講義に臨むこと。（２時間程度）\n【復習】各回の講義終了後、講義内容の要点を整理すること。（２時間程度）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス（授業の進め方）\n財務管理論を学ぶ意義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "企業の資金調達の概要について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "資本構成理論①（MM理論について）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "資本構理論②（トレードオフ理論とペッキングオーダー理論）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ペイアウト政策①（MMの無関連命題）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ペイアウト政策②（企業はなぜ配当を行うのか）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ペイアウト政策③（自社株買い）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "小テストおよび解説",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "企業価値評価①（インカムアプローチ）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "企業価値評価②（マーケットアプローチ）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "M&Aと買収防衛策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "エージェンシー理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "コーポレートガバナンスの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "日本のコーポレートガバナンス（日本におけるガバナンス改革）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "これまでの復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "長澤賢一"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "この講座を担当する実務家教員（長澤賢一）の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事しており、実務経験を踏まえた講義を行う。"
+}

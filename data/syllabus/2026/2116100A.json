@@ -1,0 +1,241 @@
+{
+    "fetched_at": "2026-06-02T11:59:06Z",
+    "name_ja": "健康まちづくり論",
+    "name_en": "health Community Development",
+    "syllabus_number": "2116100A",
+    "course_number": "17-2-38-21-01、22-2-21-21-07、23-1-25-22-02",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 福祉学科",
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "難波　利光",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①健康とまちづくりの概要について説明することができる。 \n②健康まちづくりと福祉の関係性について説明することができる。 \n③健康まちづくりによる人材育成の意義と役割について説明することができる。",
+    "overview": "本科目は地域が住みやすい環境になるために、健康に着目したまちづくりを行うことで対応すべき地域課題の解決に向けた考え方や政策手段について、事例を交えながら学修する。 \n 健康まちづくりは、国の健康政策を基本としながら、地域住民の健康を維持することができる地域コンテンツを見つけて福祉的ショーシャルキャピタルを活かすことが求められる。その中には、老人クラブや地域包括支援システムや地域自治組織が健康を作るコミュニティの核となることを検討する。 \n まちづくりにかかわる基本概念と用語を理解し、身近な問題としてとらえるようになるとともに、地域づくしシステムを構築し多業種連携や地域連携を通して地域の福祉人材育成をすることにより、地域住民とともにまちづくりに関わることの必要性を理解し、自らが健康まちづくりに関わる力とは何かを修得する。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "（初回講義時にお知らせします）",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "（適宜案内します）",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "地域観光まちづくり論"
+        ],
+        "required_materials": null,
+        "other": "教科書は、初回講義時にお知らせします。 参考図書は、適宜案内します。"
+    },
+    "grading_criteria": "①健康とまちづくりの概要について理解できている。 \n②健康まちづくりと福祉の関係性について理解できている。 \n③健康まちづくりによる人材育成の意義と役割について理解できている。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "社会福祉学、まちづくり学、健康の理解は必要不可欠のものである。本科目では、健康まちづくりを通して、社会福祉学の視点を通して基礎から段階的に理解できるよう解説を行うので、講義には欠かさず出席し、理解を積み重ねっていってほしい。授業にあたっては、復習を中心に、日々のニュースにも関心をもち、授業との関連性を考えて欲しい。 \n \n【事前・事後学習について】  \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "健康まちづくりの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "健康の歴史",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "国の健康政策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "健康まちづくりの必要性と可能性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "老人クラブによる健康まちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "福祉的ソーシャルキャピタルを活かした健康まちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "高齢労働者と地域支援システムによつ健康まちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "多業種連携と住民主体の健康まちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "社会福祉専門職と地域福祉システム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地域包括支援システムと健康コミュニティスキル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "地域共生社会と地域連携",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "地域自治組織の高齢者支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "スマートシティと健康まちづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "地域の福祉人材育成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "健康まちづくりの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "難波利光"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "定期試験",
+            "teaching_methods": [],
+            "teachers": [
+                "難波利光"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

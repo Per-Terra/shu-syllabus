@@ -1,0 +1,228 @@
+{
+    "fetched_at": "2026-06-02T11:57:18Z",
+    "name_ja": "社会保障論Ⅰ",
+    "name_en": "Social Security Theory Ⅰ",
+    "syllabus_number": "2045200A",
+    "course_number": "11-2-26-21-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "脇野　幸太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①社会保障の概念や対象及びその理念について、社会保障制度の展開過程も含めて説明できる。 \n②現代社会における社会保障制度の役割と意義、取り組むべき課題を説明できる。 \n③わが国における社会保障制度の財政の状況や仕組みついて説明できる。",
+    "overview": "本科目は現代社会における社会保障制度の現状について学び、社会保障の概念をはじめ理念や対象、そして社会保障制度の果たす意義や役割について学ぶ科目である。本講義は、社会保障の総論部分について、法的な観点から理解・把握することを目的とする。それを通じて、私たちの「権利」としての社会保障の意義や必要性、持続可能性などについての理解を深めたい。",
+    "diploma_policies": [
+        "福祉学科DP2",
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "社会保障法　第3版",
+            "publication_year": 2022,
+            "author": "菊池　馨実",
+            "publisher": "有斐閣",
+            "price": 5500,
+            "isbn": "978-4641243552",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具、前回授業時配布レジュメ",
+        "other": "毎回レジュメを配布し、それに基づいて授業を進めます。"
+    },
+    "grading_criteria": "定期試験と、毎回の授業後課題により評価します。また、受講態度を重視します。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "・日ごろから、社会保障や社会福祉の問題について関心を持ち、新聞やニュースを見るよう心掛けてください。\n・毎回、授業後課題を提示しますので、期限までに提出してください（評価の一環となります）。\n\n新聞やニュース、レジュメの読み返しなどを含め、事前・事後学習として次回の講義までに4時間程度の時間を要する。\n\n【オフィスアワー】 講義のある曜日　不在時はチャットで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション：授業の進め方\n現代社会における社会保障制度の現状（人口動態の変化）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "現代社会における社会保障制度の現状（経済環境の変化）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "現代社会における社会保障制度の現状（労働環境の変化）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "社会保障の概念や対象及びその理念（社会保障の概念と範囲）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "社会保障の概念や対象及びその理念（社会保障の役割と意義）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "社会保障の概念や対象及びその理念（社会保障の理念）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "社会保障の概念や対象及びその理念（社会保障の対象）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "社会保障の歴史的変遷（戦前まで）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "社会保障制度の歴史的変遷（戦後から今日まで）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "社会保障と財政（社会保障の財源①）：一般会計と地方経費）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "社会保障と財政（社会保障の財源②）：社会保険料",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "社会保障と財政（社会保障の財源③）：利用者負担と財政調整",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "社会保障と財政（社会保障給付費）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "社会保障と財政（国民負担率）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "社会保障と財政（社会保障と経済）、まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月4日（火）16：20-17：20\n1142教室",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

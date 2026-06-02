@@ -1,0 +1,252 @@
+{
+    "fetched_at": "2026-06-02T12:00:23Z",
+    "name_ja": "保健体育科教育法Ⅳ",
+    "name_en": "Teaching Methods in Health and Physical Education Ⅳ",
+    "syllabus_number": "7001700A",
+    "course_number": "21-3-91-22-07",
+    "departments": [
+        "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(ⅰ)保健の学習内容について理解を深め、その特性に応じた単元計画や学習指導案の作成ができる。 \n(ⅱ)作成された学習指導案に沿って模擬授業の展開ができる。 \n(ⅲ)組織的観察法についての理解を深め、より良い保健授業の創出のための学習指導について考えることができる。",
+    "overview": "保健授業の科学的研究成果をはじめとする幅広い知識や教養を学ぶとともに、そこで得られた情報をもとに学習指導案を作成ならびにそれに基づく模擬授業の実践を行うことにより、対人調整力やコミュニケーション力など、より高度な応用力及び表現力を身につけることを目指す。 \nまた、保健授業の計画、実践、ふり返りという一連の流れを模擬授業形式で実践的に経験することを通して、授業づくりや授業運営に必要となる視点（授業の構成要素）を理解する。また、実践を通して授業を観察、分析する方法を体験し、反省的な授業実践の意義を検討する。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "中学校学習指導要領解説　保健体育編",
+            "publication_year": 2019,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 496,
+            "isbn": "978-4-8278-1576-4",
+            "available_on_campus": true
+        },
+        {
+            "title": "高等学校学習指導要領解説　保健体育編 体育編",
+            "publication_year": 2020,
+            "author": "文部科学省",
+            "publisher": "東山書房",
+            "price": 552,
+            "isbn": "978-4-8278-1568-9",
+            "available_on_campus": true
+        },
+        {
+            "title": "「指導と評価の一体化」のための学習評価に関する参考資料 中学校 保健体育",
+            "publication_year": 2020,
+            "author": "国立教育政策研究所教育課程研究センター (著)",
+            "publisher": "東洋館出版社",
+            "price": 1320,
+            "isbn": "978-4491041384",
+            "available_on_campus": true
+        },
+        {
+            "title": "「指導と評価の一体化」のための学習評価に関する参考資料 高等学校 保健体育",
+            "publication_year": 2021,
+            "author": "国立教育政策研究所教育課程研究センター (著)",
+            "publisher": "東洋館出版社",
+            "price": 2200,
+            "isbn": "978-4491047058",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "保健体育科教育法Ⅲ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "参考図書、ポートフォリオ",
+        "other": "参考図書に加え、授業中に配付する参考資料を中心に進めていきます。"
+    },
+    "grading_criteria": "到達目標に示している\n(ⅰ)学習内容をおさえたうえで、授業を計画・設計（学習指導案立案）することができる。\n(ⅱ)学習指導案に沿った模擬授業実践をすることができる。\n(ⅲ)ポートフォリオを用いて、学習内容を振り返ることができる。\nの3点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 10,
+        "other": 30
+    },
+    "teacher_message": "【予習・復習について】\n各回学習内容の復習、指導案の作成（各回90分程度）\n\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、単元計画の作成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "保健の指導案作成Ⅰ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "模擬授業の実施①（中学校：健康な生活と疾病の予防）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "模擬授業の実施②（中学校：心身の機能の発達と心の健康）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "模擬授業のリフレクション（①②について）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "保健の指導案作成Ⅱ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "模擬授業の実施③（中学校：傷害の防止）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "模擬授業の実施④（中学校：健康と環境）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "模擬授業のリフレクション（③④について）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "保健の指導案作成Ⅲ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "模擬授業の実施⑤（高等学校：現代社会と健康・安全な社会生活）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "模擬授業の実施⑥（高等学校：生涯を通じる健康）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "模擬授業の実施⑦（高等学校：健康を支える環境づくり）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "模擬授業のリフレクション（⑤⑥⑦について）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめとポートフォリオについての説明",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾　賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

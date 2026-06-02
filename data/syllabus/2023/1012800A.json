@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:00:49Z",
+    "fetched_at": "2026-06-02T11:54:01Z",
     "name_ja": "ビジネス英会話",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "1012800A",
     "course_number": "00EG203",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -241,5 +241,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,395 @@
+{
+    "fetched_at": "2026-06-02T11:54:43Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600I",
+    "course_number": "11-3-31-11-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "企業や地域が抱える現実の課題（含む表面化していないモノ）を探索するところからスタートします。ニーズを特定し、コンセプトの創出、開発戦略・計画を立案し、事業運営計画を策定し、最後は当該者（企業、団体、行政等）に提案をします。\n【目標】\n①全体最適を設計をするための基礎力を身に着ける。\n②バックキャストをし、一定条件下でプロジェクトを完遂するマネジメント力を身に着ける。\n③固定概念に捉われずSF思考をすることができる。\n④異なるバックグラウンドから得た意見を融合・深化させる力を身に着ける。",
+    "overview": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行う。また、学生の興味関心の深いテーマについて、データ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいてそれを企画あるいは政策提言として文書にまとめるといった一連のプロセスを学修する。専門ゼミⅡで卒業論文等を作成するために必要なスキルを身につける。\n内容によっては時間が変更となることもある。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経営コースDP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "コトラー、アームストロング、バラスブラマニアン、恩藏のマーケティング原理",
+            "publication_year": 2025,
+            "author": "Philip Kotler (著), Gary Armstrong (著), Sridhar Balasubramanian (著), 恩藏 直人 (著)",
+            "publisher": "丸善出版",
+            "price": 4180,
+            "isbn": "978-4621311561",
+            "available_on_campus": false
+        },
+        {
+            "title": "これ1冊でOK! 社会人のための基本のビジネスマナー",
+            "publication_year": 2019,
+            "author": "浅井 真紀子",
+            "publisher": "ナツメ社",
+            "price": 1100,
+            "isbn": "978-4816366048",
+            "available_on_campus": false
+        },
+        {
+            "title": "入社1年目からずっと役に立つ 報・連・相 超入門 知っておきたい「要点だけ」バイブル",
+            "publication_year": 2025,
+            "author": "大谷 更生",
+            "publisher": "メイツ出版",
+            "price": 1738,
+            "isbn": "978-4780430226",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "マーケティング論Ⅰ",
+            "マーケティング論Ⅱ"
+        ],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "以下に関して「学生に対する評価」の内容で評価する。\nⅰ）バックキャスティングなどタイムマネジメントができたかどうか\nⅱ）共創者およびゼミ仲間と積極的に関わったかどうか\nⅲ）カスタマージャーニーを描けたかどうか\nⅳ）4軸の目的を満たすデザインかどうか\nⅴ）自身の考えを第3者にわかりやすく説明できたかどうか",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "いままで学んできたこと、新たに発見したことをすべて結び付けて何が最適なのかを探究し、提案をしてください。\nオーナーシップを持って、情報を鵜呑みにせず、好奇心をもって課題に取り組むことを期待します。\nチャレンジを楽しんでください。\n\nケースメソッド時\n予習：当該ケースの通読と自分ならばどうするかを考える。（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらレポート作成し、知識・論理的思考を定着させてください。（60～90分）\n\nプロジェクト活動時\n予習：共創者との打ち合わせ等コンタクトする際は必ず事前準備と当日の模擬練習をして臨んでください。（60分）\n復習：内容のとりまとめ、メンバーとの共有をする（議事録、変更箇所等、次回Todoなど）、（60～90分）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス／ゼミの方針、進め方などの説明、自己紹介",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ケースメソッドによるディスカッション",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "企業や地域の抱える課題探索1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "企業や地域の抱える課題探索2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "テーマ決め",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "対象と課題の観察調査・アイデア1",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "対象と課題の観察調査・アイデア2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "対象と課題の観察調査・特定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "コンセプト開発1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "コンセプト開発2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "クリティーク1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "クリティーク2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "中間発表準備",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "中間発表1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "中間発表2、振り返り、レビュー反映",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "ケースメソッドによるディスカッション2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "モデル概念設計1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "仮説、検証方法検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "モデル概念設計2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "クリティーク／計画・進捗の報告1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "クリティーク／計画・進捗の報告2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "モデル詳細設計1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "検証・分析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "モデル詳細設計2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "検証・分析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "最終発表準備1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "最終発表準備2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "最終発表・レビュー1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "最終発表・レビュー2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "最終報告書作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

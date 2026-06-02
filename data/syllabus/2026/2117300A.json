@@ -1,0 +1,150 @@
+{
+    "fetched_at": "2026-06-02T11:59:14Z",
+    "name_ja": "小児看護学概論",
+    "name_en": "Introduction to child health nursin",
+    "syllabus_number": "2117300A",
+    "course_number": "22-2-23-21-02",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "井上　みゆき",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．小児看護の理念・目的・目標と役割について説明することができる。\n２．小児の保健、医療、福祉に関する法律と子どもの権利擁護について説明することができる。\n３．小児各期の成長・発達および発達課題を理解し、発達段階に応じた生活の援助について説明することができる。\n４．小児の保健衛生統計、小児医療の歴史的変遷、小児保健行政の動向と対策、小児保健活動の実際について説明できる。",
+    "overview": "子ども期の成長・発達における形態的、機能的、精神運動発達を理解し、代表的な発達理論から発達段階に応じた生活の援助について学修する。\n小児看護の歴史的変遷、小児看護の機能と役割の理解をふまえて、子どもの健康を維持するための理論、小児保健行政の動向と対策、小児保健活動の実際について学修する。",
+    "diploma_policies": [
+        "看護学科DP1",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "小児看護学概論　小児臨床看護総論　小児看護１　Web",
+            "publication_year": 2025,
+            "author": "奈良間美保",
+            "publisher": "医学書院",
+            "price": 3520,
+            "isbn": "978-4-260-05686-1",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "パソコン（配布資料）、教科書、",
+        "other": null
+    },
+    "grading_criteria": "期末試験、事前学習課題（レポート）、講義での参加度（講義内でも質疑応答対）",
+    "evaluation_ratio": {
+        "exam": 80,
+        "quiz": 0,
+        "report": 10,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "講義の前に予習を兼ねて、事前学習課題（レポート）の提出があります。講義の中で、重要なポイントは何度も復習します。ここが学修してほしい重要ポイントです。なので、講義にしっかりと参加していると試験はらくちんです。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "・小児看護とは\n・子どもと家族：patient and family-centered care\n・小児看護の移り変わり-歴史的変遷と課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "・健康増進のための政策・社会的制度\n・小児を取り巻く環境と対策\n・子どもの人権　／小児看護における法律",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "子ども成長・発達の基礎知識（発達理論）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "乳児期の子どもの成長・発達と看護\n・形態的発達　／機能的発達",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "乳児期の子どもの成長・発達と看護\n・心理社会的発達／起こりやすい健康問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "幼児期の子どもの成長・発達と看護\n・形態的発達　／機能的発達",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "幼児期の子どもの成長・発達と看護\n・心理社会的発達／起こりやすい健康問題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "学童思春期の子どもの成長・発達と看護\n・形態・機能発達／心理社会的発達／起こりやすい健康問題",
+            "teaching_methods": [],
+            "teachers": [
+                "井上　みゆき"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "小児専門病院での臨床経験１８年の教員が担当する。"
+}

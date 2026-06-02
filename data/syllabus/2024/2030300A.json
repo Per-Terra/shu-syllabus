@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:02:32Z",
+    "fetched_at": "2026-06-02T11:57:02Z",
     "name_ja": "CG入門Ⅰ",
     "name_en": "Introduction to Computer Graphic",
     "syllabus_number": "2030300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "久保　俊介",
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "コンピュータグラフィックスの基礎を身につける\nデジタルコンテンツの制作スキルを身につけアウトプットが出来る",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:38Z",
+    "fetched_at": "2026-06-02T11:53:00Z",
     "name_ja": "哲学",
     "name_en": "philosophy",
     "syllabus_number": "1009600A",
@@ -14,12 +14,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -50,7 +50,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
     "grading_criteria": "6つのテーマ、①「人間らしさとは何か」、②「「私」の身体」、③「生と死の接点」、④「心の問題」、⑤「言語と論理」、⑥「責任と自由」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

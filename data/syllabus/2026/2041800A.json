@@ -1,0 +1,274 @@
+{
+    "fetched_at": "2026-06-02T11:57:00Z",
+    "name_ja": "簿記上級Ⅰ",
+    "name_en": "Advanced Bookkeeping 1",
+    "syllabus_number": "2041800A",
+    "course_number": "11-3-27-21-05",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "中谷　滋",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n(1) 会計学の関係法規および理論的背景の趣旨が理解できる。\n(2) 貸借対照表、損益計算書の構造と概略が理解できる。\n(3) 資産会計、負債会計、純資産会計、損益会計、リース会計、税効果会計が理解できる。",
+    "overview": "簿記の本質的な理解には、会計学の考え方と知識が必要となる。関係法規を確認しながら財務諸表の理解を深める。本講義では、今日の複雑な企業活動や取引慣行に対応するような能力を身に付けるために、比較的新しく導入された会計基準に従った会計処理の方法や手続きについて理解できるよう、理論的知識の習得とその応用力を学修する。本講義での学修を通じ、日商簿記検定１級の商業簿記分野の知識を身につけることができる。\n具体的には、貸借対照表、損益計算書の構造と概略を学んだうえで、資産会計、負債会計、純資産会計、損益会計、リース会計、税効果会計について学修する。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "「いちばんわかる日商簿記1級 商業簿記・会計学の教科書 第I部」PCA会計　2,530円",
+            "publication_year": null,
+            "author": null,
+            "publisher": "PCA会計",
+            "price": 2530,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　一般簿記　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　連結会計・構造簿記　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　商業簿記・会計学　発展期　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日商簿記1級　テキスト　管理会計　VER.5.0",
+            "publication_year": null,
+            "author": null,
+            "publisher": "会計教育サポート株式会社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "簿記中級Ⅰ",
+            "簿記中級Ⅱ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノート、電卓、筆記用具",
+        "other": "経済学部2021年度以前入学の学生は、「簿記上級Ⅰ」及び「簿記上級Ⅱ」の単位を修得することで、「簿記上級（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "(1)個別論点の会計の基本理論の理解\n(2)個別論点の会計処理の理解\n上記(1)、(2)関する理解度を以下の「学生に対する評価」により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "簿記は、積み重ねの学習によって身につくため、予習・復習を十分行い、知識の定着を図りましょう。\n【予習・復習について】\n予習:授業の内容に係るテキストの該当箇所について予習する(９０分程度) \n復習:授業の内容について復習(問題演習)する(９０分程度)\n学生の理解度を考慮しながら講義計画の進度を調整することがある。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス：授業の進め方、成績評価、授業方針、会計基準",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "財務報告の目的、資産負債アプローチと収益費用アプローチ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "国際会計基準への対応、資産会計(評価、減損会計)概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "国際会計基準への対応、資産会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "負債会計（退職給付引当金、資産除去債務）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "負債会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "純資産会計（分配可能額の計算、株主資本等変動計算書）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "純資産会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "損益会計（収益認識に関する会計基準、工事契約）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "損益会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "リース会計（ファイナンス・オペレーティング借り手・貸し手の会計処理）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "リース会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "税効果会計（一時差異、繰延税金資産・負債）概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "税効果会計演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中谷　滋"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する。）",
+            "teaching_methods": [],
+            "teachers": [
+                "中谷　滋"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "一般社団法人日本商業教育振興会会員"
+}

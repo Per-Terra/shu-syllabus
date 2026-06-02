@@ -1,0 +1,254 @@
+{
+    "fetched_at": "2026-06-02T11:56:22Z",
+    "name_ja": "ソーシャルワークの理論と方法Ⅳ",
+    "name_en": "Social Work Theory and Methods IV",
+    "syllabus_number": "2028900B",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "井上　浩",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "授業のテーマ\nソーシャルワークの理論と方法Ⅰ～Ⅲで学んだソーシャルワークの価値・知識・技術を踏まえて、本科目では専門職として成長していくための方法論を学ぶ。\n到達目標\n（ⅰ）ソーシャルワーク支援のモデルについて説明できる\n（ⅱ）研究方法について説明できる\n（ⅲ）総合的かつ包括的な支援の考え方ができる",
+    "overview": "（ⅰ）については、ソーシャルワークのモデルがその時代に応じてどのように進展していったのかを、社会文化的背景を明らかにしながら説明する。\n（ⅱ）については、主として質的研究方法（事例研究）を中心に概説を行う。ここまでが前半部分となる。\n（ⅲ）については、家族支援、地域支援、援助関係について概念整理を行う。こちらが後半で、反転授業にて行う。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "ソーシャルワークの理論と方法〔社会専門〕",
+            "publication_year": 2021,
+            "author": "一般社団法人日本ソーシャルワーク教育学校連盟",
+            "publisher": "中央法規出版",
+            "price": 3190,
+            "isbn": "978-4-8058-8249-8",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
+            "ソーシャルワークの基盤と専門職Ⅰ・Ⅱ",
+            "ソーシャルワークの理論と方法Ⅰ～Ⅲ"
+        ],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "到達目標（ⅰ）と（ⅱ）に関して、確実な知識を得ているかどうかを期末試験で評価し、（ⅲ）についてはルーブリックを用いて学生各自が評価を行う。前半部分が60％、後半部分が40％で評価する。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 40,
+        "other": 0
+    },
+    "teacher_message": "ソーシャルワークの理論と方法はⅠ～Ⅳまであります。取りこぼしがあると、国家試験受験資格に直結しますので注意しましょう。国家試験においても、ソーシャルワークの支援モデルは当然のこと、家族支援や援助関係など一つひとつの概念を整理し、復習するようにしてください。予習・復習それぞれ一回あたり120分程度が必要となってきます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション\n授業の全体的な説明と進め方（特に反転授業）について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ソーシャルワークのモデル①\n治療モデル・生活モデル・ストレングスモデルについて（復習）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ソーシャルワークのモデル②\nジェネラリスト視点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ソーシャルワークのモデル③\n心理社会的アプローチ・機能的アプローチ・問題解決アプローチ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ソーシャルワークのモデル④\n課題中心アプローチ・危機介入アプローチ・行動変容アプローチ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "ソーシャルワークのモデル⑤\nエンパワメントアプローチ・ナラティブアプローチ　他",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "研究方法①\n量的研究と質的研究との違い、手続き（研究倫理を含む）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "研究方法②\n質的研究方法について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "総合的かつ包括的支援の実際①\n総合的かつ包括的な支援とは",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "総合的かつ包括的支援の実際②\n家族支援",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "総合的かつ包括的支援の実際③\n地域支援",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "総合的かつ包括的支援の実際④\n非常時や災害時支援",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "総合的かつ包括的支援の実際⑤\n援助関係形成の意義と概念",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "総合的かつ包括的支援の実際⑥\n援助関係の形成方法と留意点",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "定期試験\n8月4日（月）　14:40～15:40　532教室",
+            "teaching_methods": [],
+            "teachers": [
+                "井上",
+                "浩"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

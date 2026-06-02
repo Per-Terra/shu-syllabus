@@ -1,0 +1,250 @@
+{
+    "fetched_at": "2026-06-02T11:56:45Z",
+    "name_ja": "経営組織論Ⅱ",
+    "name_en": "Organization Theory Ⅱ",
+    "syllabus_number": "2036300A",
+    "course_number": "11-2-27-22-05",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【テーマ】\n組織のミクロ的観点から、個人・集団と組織の関係に焦点を当て、組織行動を説明し、どのように組織を設計、運用するかを学ぶ。\n\n【到達目標】\n① リーダーシップ論を理解し、主要理論を説明できる。\n② モチベーション論（内容理論／過程理論）を理解、職場現象へ適用を説明できる。\n③ 組織コミットメント、コンフリクトとパワー、組織風土・文化の機能と影響を説明できる。\n④ リーダーに必要な経営戦略論（計画型／創発型、ポジショニング、RBV）を要点で説明できる。\n⑤ 講義内容を自分の言葉で文章要約できる。",
+    "overview": "心理学・社会心理学等の知見を土台に、パーソナリティと情動、ダイバーシティ等を踏まえて、組織における個人を捉える。\n組織行動論の観点から、モチベーション、組織コミットメント、リーダーシップ、コンフリクトとパワー、組織風土・文化等を事例を交えて議論する。\nあわせて、リーダーが組織を動かす前提として最低限必要な戦略論を扱い、組織行動と戦略実行までを理解する。\nなお、内容に応じてゲスト講義を組み込む場合がある。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "組織行動のマネジメント―入門から実践へ",
+            "publication_year": 2009,
+            "author": "スティーブン P.ロビンス (著), 髙木 晴夫 (翻訳)",
+            "publisher": "ダイヤモンド者",
+            "price": 3080,
+            "isbn": "978-4-478-00459-3",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "経済学部2021年度以前入学の学生は、「経営組織論Ⅰ」及び「経営組織論Ⅱ」の両方の単位を修得することで、「経営組織論（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "以下に関して「学生に対する評価」の内容で評価する。\n理論・概念の正確な理解、諸理論の使い分け、具体的組織問題の分析を評価する。",
+    "evaluation_ratio": {
+        "exam": 30,
+        "quiz": 15,
+        "report": 30,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "予習：授業内容に関するテキストの部分を読んで臨んでください。\n復習：講義のレポート、関連する課題に取り組んでください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス（授業の進め方、評価方法など）、経営組織論Ⅱで何を学ぶのか（マクロ視点）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "個人差の基礎：パーソナリティ・情動・ダイバーシティと職場行動",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "リーダーシップ(１)：リーダーシップ類型論（独裁型・民主型・放任型）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "リーダーシップ(２)：リーダーシップ研究の歴史、資質論、行動論（PM理論）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "リーダーシップ(３)：行動論（マネジリアル・グリッド）、状況論（SL理論）、コンティンジェンシー理論",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "モチベーション(１)：モチベーションとは、モチベーション論の分類（内容理論と過程理論、外発的動機づけと内発的動機づけ）、欲求階層説",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "モチベーション(２)：動機づけ・衛生理論",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "モチベーション(３)：強化理論、期待理論",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "モチベーション(４)：外発的動機づけと内発的動機づけ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "モチベーション(５)：キャリア・アンカー（キャリア形成とモチベーション）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "組織コミットメント（3次元モデル）／エンゲージメントと離職・定着",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "コンフリクトとパワー：交渉・意思決定の歪み／対処と設計",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "組織風土・文化：機能、個人と組織への影響（ミニケース）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "戦略論① Ford vs GM／戦略論の分類／PLC・経験曲線",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "戦略論② PPM／創発型（ミンツバーグ）／ポーター／RBV（VRIO）／日本的経営（三種の神器）＋まとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

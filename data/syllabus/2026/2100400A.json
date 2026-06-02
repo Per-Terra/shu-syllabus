@@ -1,0 +1,229 @@
+{
+    "fetched_at": "2026-06-02T11:57:21Z",
+    "name_ja": "Python応用",
+    "name_en": "Applied Python Programming",
+    "syllabus_number": "2100400A",
+    "course_number": "31-1-21-32-04",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "酒井　徹也",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "１． Pythonにおけるライブラリや APIの基本を理解し、基本的な操作ができる。\n２． 問題解決のために適したライブラリやAPIを選択し、適切に活用できる。\n３． 授業で学んだ知識をもとに、応用したプログラムを作成することができる。",
+    "overview": "本授業 Python応用は、Python入門で学んだ初歩的な知識・技術を基に、より大規模なソフトウェアを開発するために必要な知識と中級的なプログラミング技術について修得する。ソフトウェア開発の多くはオブジェクト指向によって進められる。Python応用はPython入門では踏み込まなかったオブジェクト指向の考え方を導入し授業を展開していく。具体的な学習内容としては、オブジェクト指向、クラスとインスタンス、モジュールとライブラリ、例外処理といったプログラミングにおける基礎知識と、それらを活用してアプリケーションの自動化処理、データサイエンスの初歩的技術について理解し、実践できるようになることを目標とする。\n\n本授業は「Python入門」の修得を先修条件としていますが、1年生については単位認定前の履修登録となるため、「本授業の開始時点で、Python入門の単位修得と同程度の知識・技術を有していること」を実質的な履修条件とします。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "Python入門"
+        ],
+        "recommended": [],
+        "required_materials": "必携パソコン",
+        "other": null
+    },
+    "grading_criteria": "到達目標 1 および 2 について、各回の小テスト・小レポートによって評価し、到達目標 1～3 につい\nて最終課題をまとめた期末レポートによって評価する。\n成績評価の配点 小テスト、小レポート 40％、期末レポート 60%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "Python は今世界でもっとも注目度の高いプログラミング言語と言えます。データサイエンスや業務効率化において大変有用な言語です。各回の課題にしっかりと取り組み、小レポート等によって自身の理解を振り返ってください。\n\n事前学習、事後学習の時間：あわせて90分程度（プログラミング課題含む）。\n\n【オフィスアワー】\n水曜日3時限目　 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、オブジェクト指向",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Pythonプログラミングの基本の確認",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "クラスとインスタンス",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "モジュールとライブラリの基本",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "外部データの読み込みとファイルの自動化、例外時の処理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "メールの自動化処理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "Pythonによる記述統計と単回帰分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "データの可視化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "データフレームによるデータ加工",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "画像情報処理1：顔検出",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "画像情報処理2：顔パーツと顔の向きの検出",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "言語処理1：文章の分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "言語処理2：頻出単語、特徴の分析と可視化",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "応用プログラムの基本設計",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと、応用プログラムの完成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "酒井　徹也"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

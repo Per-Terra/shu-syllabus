@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:56:44Z",
+    "fetched_at": "2026-06-02T11:52:58Z",
     "name_ja": "ドイツ語Ⅱ",
     "name_en": "German II",
     "syllabus_number": "1004800A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
     "evaluation_ratio": {
@@ -395,5 +395,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:49Z",
+    "fetched_at": "2026-06-02T11:52:44Z",
     "name_ja": "日本国憲法",
     "name_en": "Constitution of Japan",
     "syllabus_number": "1001900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,7 +38,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "各回資料を配付する。参考図書等は授業内で適時案内していく。"
     },
     "grading_criteria": "先述の到達目標について、以下の方法で評価する。\n（対面実施の場合）授業中に毎回リアクションペーパー（30％）を作成・提出していただく。これに加えて期末の定期試験（70％）を行う予定。\n※状況により、授業等がオンライン等での実施になる場合には、リアクションペーパーの提出方法や、期末試験の実施方法を変更する可能性がある（期末試験については、これに代わる期末課題の提出など）。なお具体的実施方法については授業の際に述べる。",
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

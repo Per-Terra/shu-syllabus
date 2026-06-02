@@ -1,0 +1,230 @@
+{
+    "fetched_at": "2026-06-02T11:53:47Z",
+    "name_ja": "周南Well-being創生入門",
+    "name_en": "Shunan Well-being Creation(Introductory)",
+    "syllabus_number": "1100100A",
+    "course_number": "11-1-11-21-04、21-1-11-21-03、22-1-11-21-04、23-1-11-21-04、31-1-11-21-04",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科",
+        "人間健康科学部 看護学科",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "喜入　暁",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.Well-beingについての基礎的な知識を習得できる\n2.Well-being創生と地域における課題についての複数の視点をもつことができる",
+    "overview": "本講義では「Well-beingとは何か？」について基礎的な知識の習得を目的とする。Well-beingとは身体、心、社会的に良好な状態を意味し、健康・幸福・福祉などと表されている。Well-beingは、単に病気がないことや、経済的な豊かさだけでなく、心の状態が良好であることが影響する。このことから具体的には、Well-beingに関係する様々な要因を挙げ、それらのメカニズムや高め方について講義する。その際、EQ（心の知能指数）も要因の1つとして取り上げる。本講義を受けることにより、基礎的なWell-beingに関する知識を習得し、Well-beingの創生と課題についての視点をもつことができ、のちに展開される各論や応用の学習の準備とすることができる。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP3",
+        "情報科学科DP4",
+        "スポーツ健康科学科DP1",
+        "看護学科DP1",
+        "福祉学科DP1"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "講義中に指示する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコン，筆記用具，ノート・ルーズリーフなど",
+        "other": "特定の教科書は指定しません。参考図書は講義内で適宜案内します。"
+    },
+    "grading_criteria": "上記1～2に関する理解度を以下の「学生に対する評価」により評価を行う。\n課題レポート　80％、授業への貢献度　20％\nなお、課題レポートは毎回の講義で課したものを総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては，各回4時間を想定しています。また，わからないところはわからないままにせず，遠慮なく聞いてください。オフィスアワーは火曜昼休みとします。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション　今の自分のWell-being観",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "定義①どのような定義があるか　その背景",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "文脈①誰がなぜWell-beingを重要視するのか　その価値",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "因果①Well-beingの効果は何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "序盤の総括　現代社会での問題の検討",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "定義②どのように捉えるか　その測定方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "文脈②どんなモデルがあるか",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "文脈③ライフステージ・時代・文化",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "因果②Well-beingを左右するミクロ・マクロの要因",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "中盤の総括　過去の問題の検討",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "構想①現代のWell-beingのデザイン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "構想②誰の問題なのか　その介入可能性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "構想③理想の検討",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "構想④これからのWell-beingのデザイン",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "全体の総括　今の自分のWell-being観",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "喜入　暁"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:13:19Z",
+    "fetched_at": "2026-06-02T11:55:33Z",
     "name_ja": "スポーツ産業論",
     "name_en": "Theory of Sports Industry",
     "syllabus_number": "2011800A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -216,5 +216,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

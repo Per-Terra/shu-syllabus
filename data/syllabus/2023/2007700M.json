@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:04:35Z",
+    "fetched_at": "2026-06-02T11:55:08Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700M",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         ],
         "recommended": [],
         "required_materials": "PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(i) 専門性にかかる知識もしくは技術の習得、(ii) 専門性にかかる調査演習とまとめる力、発表する力の修得、(iii) 問題を見つけ出す力の獲得、(iv) 卒業論文の完成について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
@@ -396,5 +396,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

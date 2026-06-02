@@ -1,0 +1,240 @@
+{
+    "fetched_at": "2026-06-02T11:59:18Z",
+    "name_ja": "成人慢性期看護実践",
+    "name_en": "Adult Chronic Care Nursing Practice",
+    "syllabus_number": "2117900A",
+    "course_number": "22-3-23-21-04",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "中谷　信江",
+            "is_primary": true
+        },
+        {
+            "name": "高橋　登志枝",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．慢性・不可逆的健康課題を有する事例から，情報を解釈・分析・統合し，看護上の問題を明確化し，記述できる。\n２．慢性・不可逆的健康課題を有する事例から，その人らしい具体的な看護計画を立案し，記述できる\n３．慢性・不可逆的健康課題を有する事例の看護実践を模擬で実施し，看護実践を振り返り，より良い看護に向けて発言できる。",
+    "overview": "本授業は，既習の知識を基に，慢性・不可逆的健康課題を有する成人・家族に対する回復期，慢性期の看護実践，エンドオブライフケアの看護実践を学ぶことを目的とする。\n本授業では，慢性・不可逆的健康課題を有する，及びエンドオブライフにある成人・家族に対する看護方法の知識を基に，看護過程演習を通して，援助関係を形成しながらその人らしい豊かな健康生活を支援する看護実践を学ぶ。\n本授業を通して，慢性・不可逆的健康課題を有する，及びエンドオブライフにある成人・家族に対する健康生活を支援する基礎的な看護実践力，チームの一員としてのコミュニ\nケーション能力、課題解決に向けて探求、学習する態度を身につける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [
+        {
+            "title": "看護学テキストNiCE　成人看護学　成人看護学概論（改訂第5版）",
+            "publication_year": 2025,
+            "author": "林直子，鈴木久美，酒井郁子編",
+            "publisher": "南江堂",
+            "price": 3300,
+            "isbn": "978-4-524-21192-0",
+            "available_on_campus": true
+        },
+        {
+            "title": "看護学テキストNiCE　成人看護学　慢性期看護（改訂第4版）",
+            "publication_year": 2023,
+            "author": "南江堂",
+            "publisher": null,
+            "price": 3740,
+            "isbn": "978-4-524-23436-3",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "成人看護学概論",
+            "成人看護方法"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に案内する",
+        "other": "特になし"
+    },
+    "grading_criteria": "ポートフォリオ90％，授業への参加状況（コメントシートの提出）10％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 90,
+        "other": 10
+    },
+    "teacher_message": "予習においては，テキストの該当頁，関連書籍の該当頁を熟読するとともに，関連動画がある場合は視聴し，理解できない個所を明確にする。また，各障害の看護については，各器官の構造と機能，慢性・不可逆的な疾患の病態生理を復習しておく。復習においては，テキスト，講義資料，参考文献などを用いて，学習した内容を整理し，理解を深める。（事前学習 45 分、事後学習 45 分）\n\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション\nゴードンの機能的健康パターンについて",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n①事前学習、アセスメントシートの作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "慢性・不可逆的課題を有する成人・家族の看護実践に活用できる理論についての振り返り",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n②情報収集",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n③情報を解釈・分析・統合",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n④情報を解釈・分析・統合",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑤情報を解釈・分析・統合、看護問題抽出",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑥看護計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑦看護計画立案",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑧模擬看護実践",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑨模擬看護実践",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑩模擬看護実践",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "慢性・不可逆的健康課題を有する人・家族の看護過程\n⑪評価",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "セルフモニタリング，セルフマネジメント技術（血糖自己測定，インスリン自己注射）演習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "慢性期看護のまとめ、課題",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中谷信江，高橋登志枝，非常勤講師"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "成人・家族への看護経験を持つ教員が，その看護経験を生かして，基礎的な知識を実践に繋げる教育を行う。"
+}

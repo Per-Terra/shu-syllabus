@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:00:30Z",
+    "fetched_at": "2026-06-02T11:56:16Z",
     "name_ja": "データベース論",
     "name_en": "Database Theory",
     "syllabus_number": "2022800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "野村　典文",
@@ -55,7 +55,7 @@
         ],
         "recommended": [],
         "required_materials": "PC、教科書、ノート、講義資料（事前配布）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。\n三点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
@@ -222,5 +222,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

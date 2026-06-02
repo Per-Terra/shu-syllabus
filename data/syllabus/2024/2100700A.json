@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:02Z",
+    "fetched_at": "2026-06-02T11:58:23Z",
     "name_ja": "VBAプログラミング",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2100700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "呉　靭",
@@ -41,8 +41,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "授業への取り組み30%、宿題50%、期末課題20%",
     "evaluation_ratio": {
@@ -215,11 +215,9 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

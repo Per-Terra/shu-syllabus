@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:40Z",
+    "fetched_at": "2026-06-02T11:56:43Z",
     "name_ja": "ソーシャルワーク演習Ⅰ",
     "name_en": "Social Work Practice Ⅰ",
     "syllabus_number": "2027400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "竹下　徹",
@@ -213,5 +213,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

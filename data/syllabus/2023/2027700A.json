@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:09Z",
+    "fetched_at": "2026-06-02T11:56:46Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅲ",
     "name_en": "Social Work Theory and Method Ⅲ",
     "syllabus_number": "2027700A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,10 +53,10 @@
         {
             "title": "適宜紹介する",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -64,7 +64,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1.地域でのソーシャルワークに必要な技術を理解している\n2.社会資源の開発方法を理解している\n3.事例を読んで、援助計画を作成することができる\n以上の3点を下記「学生に対する評価」に従って評価する。",
     "evaluation_ratio": {
@@ -232,5 +232,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:49Z",
+    "fetched_at": "2026-06-02T11:59:53Z",
     "name_ja": "地域福祉経済論",
     "name_en": "Studies on community welfare and economy",
     "syllabus_number": "2125900A",
@@ -9,12 +9,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -43,7 +43,7 @@
             "author": "林宜嗣ほか",
             "publisher": "日本評論社",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -52,7 +52,7 @@
             "author": "林宜嗣ほか",
             "publisher": "日本評論社",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],

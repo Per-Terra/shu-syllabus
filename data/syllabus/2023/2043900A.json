@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:22:33Z",
+    "fetched_at": "2026-06-02T11:57:54Z",
     "name_ja": "財政学",
     "name_en": "Public Finance",
     "syllabus_number": "2043900A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -73,7 +73,7 @@
         "recommended": [
             "経済政策"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "地方財政論も履修することで、より身近な財政についても学び考えていただきたい"
     },
     "grading_criteria": "(ⅰ) 財政の意義の説明、(ⅱ) 租税論の理解、(ⅲ) 日本財政の問題点の把握・議論、について「学生に対する評価」の内容で評価する。",
@@ -392,5 +392,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

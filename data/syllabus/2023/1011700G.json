@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:36Z",
+    "fetched_at": "2026-06-02T11:53:28Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization I",
     "syllabus_number": "1011700G",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -40,7 +40,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
     },
     "grading_criteria": "周南公立大学の学生として、地域の課題を自分事として捉え、実際に貢献できることを計画し実行する力を【到達目標】①②③について評価する。最終成績への割合は、40%を知識・情報収集・計画及び問題解決能力として「レポート」により評価し、50%を実際の活動への取り組みや今後の課題を見極め発信する力として「発表・実技」で評価する。「その他」10%は、講義全体を通しての授業活動への積極的関与や貢献を評価する。全体の3分の2以上の参加が認められない場合は、単位を認定しない。",
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

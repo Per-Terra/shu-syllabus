@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:26Z",
+    "fetched_at": "2026-06-02T11:56:21Z",
     "name_ja": "心理統計学",
     "name_en": "Psychology statistics",
     "syllabus_number": "2023600A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -70,7 +70,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "Excelが入っているPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "授業への参加の度合い，課題への取り組み，課題の出来映えなどから総合的に判断するが目安としては以下のとおりである。\n\n到達目標1～3について，一定水準以上に達していると確認でき，かついずれかにおいて突出しているところがあると認められる場合　S\n到達目標1～3について，一定水準以上に達していると確認できる場合　A\n到達目標1～3について，一定水準に達していると確認できる場合　B\n到達目標1～3について，望ましい水準ではないが評価できると確認できる場合　C\n授業への参加度合いや提出物が不十分かつ到達目標に達していないと確認でき，評価できる条件を満たしていない場合　D　\n\n達成度は，授業ごとの小テスト（40％），中間テスト（10％），期末テスト（50％）から判断する。",
     "evaluation_ratio": {
@@ -89,9 +89,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -100,9 +98,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -111,9 +107,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -122,9 +116,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -133,9 +125,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -144,9 +134,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -155,9 +143,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -166,9 +152,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -177,9 +161,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -188,9 +170,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -199,9 +179,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -210,9 +188,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -221,9 +197,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -232,9 +206,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -243,11 +215,9 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

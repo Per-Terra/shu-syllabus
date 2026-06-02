@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:06:57Z",
+    "fetched_at": "2026-06-02T11:58:44Z",
     "name_ja": "人体の構造と機能Ⅰ",
     "name_en": "Structure and function of the human body　Ⅰ",
     "syllabus_number": "2114900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "人間健康科学部 看護学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "宮本　達雄",
@@ -50,10 +50,10 @@
         {
             "title": "系統看護学講座　専門基礎　解剖生理学",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -61,46 +61,46 @@
         {
             "title": "系統看護学講座　専門基礎　血液・造血器",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "系統看護学講座　専門基礎　循環器",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "系統看護学講座　専門基礎　呼吸器",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "系統看護学講座　専門基礎　腎・泌尿器",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
             "title": "系統看護学講座　専門基礎　消化器",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -110,7 +110,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "筆記試験100％",
     "evaluation_ratio": {
@@ -121,7 +121,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -275,5 +275,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:52Z",
+    "fetched_at": "2026-06-02T11:56:47Z",
     "name_ja": "貧困に対する支援",
     "name_en": "Social Work Theory for the Poverty and Needy",
     "syllabus_number": "2028000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "牛島　豊広",
@@ -62,7 +62,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①貧困や公的扶助の概念と貧困状態にある人の生活実態②貧困の歴史と貧困観の変遷③貧困に係る法制度と支援の仕組み④貧困による生活課題を踏まえ、社会福祉士としての適切な支援について以下の割合で評価する。\n「試験」は、全授業後の試験期間に実施します。",
     "evaluation_ratio": {
@@ -227,5 +227,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

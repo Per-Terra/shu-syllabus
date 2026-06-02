@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:42Z",
+    "fetched_at": "2026-06-02T11:56:25Z",
     "name_ja": "心理学実験実習Ⅱ",
     "name_en": "Psychological experiment training",
     "syllabus_number": "2024200A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -61,7 +61,7 @@
             "心理統計学"
         ],
         "required_materials": "ノートパソコン，筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "以下の３つの観点に基づき，「学生に対する評価」の内容で評価する。\n(i) 自分たちで問題を設定し、問題を解決するための実験を計画することができる\n(ii) 自分たちの実験によって得られたデータを適切に処理、解釈することができる\n(iii) データに基づいて論理的な文章としてまとめ、発表することができる",
     "evaluation_ratio": {
@@ -81,9 +81,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2",
@@ -91,9 +89,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "3",
@@ -101,9 +97,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "4",
@@ -111,9 +105,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5",
@@ -121,9 +113,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "6",
@@ -132,9 +122,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "7",
@@ -142,9 +130,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "8",
@@ -152,9 +138,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "9",
@@ -162,9 +146,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "10",
@@ -172,9 +154,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "11",
@@ -183,9 +163,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "12",
@@ -193,9 +171,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "13",
@@ -203,9 +179,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14",
@@ -213,9 +187,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "15",
@@ -223,9 +195,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "16",
@@ -234,9 +204,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "17",
@@ -244,9 +212,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "18",
@@ -254,9 +220,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "19",
@@ -264,9 +228,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "20",
@@ -275,9 +237,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "21",
@@ -285,9 +245,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "22",
@@ -295,9 +253,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "23",
@@ -305,9 +261,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "24",
@@ -316,9 +270,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "25",
@@ -326,9 +278,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "26",
@@ -336,9 +286,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "27",
@@ -346,9 +294,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "28",
@@ -356,9 +302,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "29",
@@ -366,9 +310,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "30",
@@ -376,11 +318,9 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

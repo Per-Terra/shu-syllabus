@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:20:25Z",
+    "fetched_at": "2026-06-02T11:57:21Z",
     "name_ja": "機能解剖学Ⅰ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2035000A",
     "course_number": "04BM202",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
             "author": "監訳　福林 徹、他",
             "publisher": "ジャパンライム",
             "price": 220000,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -59,8 +59,8 @@
         "recommended": [
             "スポーツ医学"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。",
     "evaluation_ratio": {

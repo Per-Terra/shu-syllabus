@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2024-08-08T01:24:44Z",
+    "fetched_at": "2026-06-02T11:58:29Z",
     "name_ja": "ダンスⅠ",
     "name_en": "Dancing I",
     "syllabus_number": "7004110A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:31Z",
+    "fetched_at": "2026-06-02T11:52:56Z",
     "name_ja": "データサイエンス入門",
     "name_en": "Introduction to data science",
     "syllabus_number": "1008300A",
@@ -14,12 +14,12 @@
         "情報科学部 情報科学科"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -56,7 +56,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "PC必携",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "各回の課題（小レポートなど）への取組と期末試験の成績によって評価する \n\n定期試験40%、発表・実技40%、課題・レポート20%",
     "evaluation_ratio": {

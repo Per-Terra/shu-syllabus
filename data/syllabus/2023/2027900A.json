@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:18:14Z",
+    "fetched_at": "2026-06-02T11:56:49Z",
     "name_ja": "地域福祉と包括的支援体制Ⅱ",
     "name_en": "Community　Welfare  and  Inclusive Support  System",
     "syllabus_number": "2027900A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,7 +55,7 @@
             "地域福祉と包括的支援体制Ⅰ"
         ],
         "required_materials": "教科書",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①包括的支援体制の理解\n②多職種及び多機関の協働の理解\n③福祉行財政と福祉計画の理解\n④社会福祉士の役割の理解",
     "evaluation_ratio": {
@@ -224,5 +224,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

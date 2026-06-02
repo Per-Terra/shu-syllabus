@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2025-04-07T10:55:44Z",
+    "fetched_at": "2026-06-02T11:54:15Z",
     "name_ja": "心理学Ⅰ",
     "name_en": "General Psychology Ⅰ",
     "syllabus_number": "1102000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部",
@@ -11,14 +11,14 @@
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 看護学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "武田　朋昭",
@@ -64,7 +64,7 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅰ」の読替科目です。"
     },
     "grading_criteria": "授業への積極的な姿勢、講義後のレポート(小テスト)、学期末のレポート提出で総合的に評価をします。",
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

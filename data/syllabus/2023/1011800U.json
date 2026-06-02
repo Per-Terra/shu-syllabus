@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:00:14Z",
+    "fetched_at": "2026-06-02T11:53:53Z",
     "name_ja": "地域ゼミⅡ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "1011800U",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,7 +39,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "適宜配布します。",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "小学校での活動のための準備から実際の活動までを評価します。また活動後にはレポートを課し、その内容も評価します。",
     "evaluation_ratio": {
@@ -212,5 +212,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

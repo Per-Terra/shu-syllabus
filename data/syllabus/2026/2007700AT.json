@@ -1,0 +1,384 @@
+{
+    "fetched_at": "2026-06-02T11:55:03Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700AT",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "金子　幸",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①各自の研究テーマに沿った文献、情報を収集する力を身に付ける\n②グループディスカッションを通して、各自の研究テーマをより深く理解する\n③論文の書き方、プレゼンテーションの方法を習得する\n④4年間の学習の総まとめとして、各自の関心に沿った研究テーマの卒業論文を完成させる",
+    "overview": "本授業の目的は、大学での学びの総括として、各自の関心に沿った研究テーマを設定し、卒業論文としてまとめ、発表することである。\nそのために授業では、専門ゼミⅠで各自が抱いた興味・関心について、専門的な文献を読むことで、より深く追及し、テーマについて調査・分析した結果について、議論を重ねていき、卒業論文の完成を目指す。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "適宜、必要な資料を配布、もしくは紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "適宜、必要な資料を配布、もしくは紹介する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ"
+        ],
+        "recommended": [],
+        "required_materials": "必要に応じ適宜案内する。",
+        "other": "特になし"
+    },
+    "grading_criteria": "①卒業研究成果物\n②卒業研究の成果発表\n③授業への積極的な取り組み・意欲\n上記①～③について、以下の割合で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 70
+    },
+    "teacher_message": "本授業は、4年間の学びの集大成と言える卒業論文の完成を目指し、各自で意欲的に取り組んで計画的に進めていくことが欠かせないものとなっています。各自の課題に基づき、計画的に臨んでください。\n受講にあたっては、授業計画に基づき、各自の研究テーマに沿った情報収集をすることを予習とします（2時間程度）。また、授業内で指導を受けた内容を基に、関連する文献・資料を読み、論文の執筆を進めていくことを復習とします（2時間程度）。\n\n【オフィスアワー】\n授業がある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション：専門ゼミⅠの振り返り",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "各自の問題意識、研究テーマの設定背景の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "各自の研究テーマと研究計画書の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "文献・先行研究のまとめと発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "卒業論文の章立ての考察",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "各自の研究テーマに沿った発表とディスカッションー章立ての決定",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "卒業論文の執筆に向けた先行研究の調査・整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "卒業論文の執筆①：目的の完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "卒業論文の執筆に向けた調査①：研究方法の整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "卒業論文の執筆に向けた調査②：研究方法に沿った調査",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "卒業論文の執筆に向けた調査③：調査結果の整理・分析",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "卒業論文の執筆に向けた調査④：調査結果のまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "卒業論文の執筆に向けた調査⑤：調査結果についてディスカッション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "中間発表：これまでの研究結果の整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "今後の研究計画の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "卒業研究の進捗状況の報告",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "卒業論文の執筆②：調査結果の完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "卒業論文の執筆に向けた整理①：考察の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "卒業論文の執筆に向けた整理②：考察についてのディスカッション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "卒業論文の執筆に向けた整理③：考察についての再検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "卒業論文の執筆に向けた整理④：考察についての整理",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "卒業論文の執筆に向けた整理⑤：考察のまとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "卒業論文の執筆③：考察の完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "卒業論文の執筆④：総合考察の執筆",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "卒業論文の執筆⑤：論文全体の校正",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "個別指導：論文全体の確認",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "卒業研究概要の作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "研究研究発表に向けた準備：スライドの作成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業研究発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文の最終確認・まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "金子　幸"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

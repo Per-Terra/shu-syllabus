@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T11:58:09Z",
+    "name_ja": "企業概論Ⅰ",
+    "name_en": "Introduction to Business EnterprisesⅠ",
+    "syllabus_number": "2107400A",
+    "course_number": "11-1-23-21-02",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "成績認定用教員",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）株式会社をはじめとする多様な企業形態の特徴と運営構造を説明できる。\n（２）現代企業が直面する経済的・社会的課題について議論し、解決策を提案できる。\n（３）CSR（企業の社会的責任）の重要性を理解し、企業が社会とどのように関わるべきかについての自身の見解を表明できる。",
+    "overview": "本講義は、現代社会において必要不可欠な組織である企業について制度的に理解するとともに、企業とはどのような存在であるのかについて理解することを目的とする。具体的には、企業の構造的特徴、法人としての組織形態、コーポレートガバナンス、経営戦略、中小企業及びベンチャー企業など、企業全般について事例を交えつつ理解を深める。本講義の受講生は、現代社会における企業の特徴、制度、役割を理解し、企業分析の基礎を身につけることができる。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "よくわかる企業論[第3版]",
+            "publication_year": 2025,
+            "author": "佐久間信夫",
+            "publisher": "ミネルヴァ書房",
+            "price": 3080,
+            "isbn": "978-4623098712",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "書籍無し",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、パソコン又はタブレット",
+        "other": "経済学部の学生は、「企業概論Ⅰ」及び「企業概論Ⅱ」の両方の単位を修得することで、「企業概論（４単位）」の単位が修得できる。"
+    },
+    "grading_criteria": "期末試験60％、授業内のワーク40％で成績を評価する。\n※受講者数が少ない場合は、期末レポートを実施することがある。\nなお、授業への参加態度により加点または減点する場合がある。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "講義形式で授業を進めていきます。基本的には教科書をベースに授業を行いますが、新しい情報を逐次授業に反映していく上、ワークも実施するので、自分自身で常に企業の最新情報に意識を向けた上で授業に臨んでください。\n\n私たちが暮らす資本主義社会で重要な経済行為主体の一つである企業の仕組みを知ることは生活をする上で必要なことです。この企業について基礎知識を学びながら企業の特性を理解していきましょう。\nなお、事前事後学習を合わせて２時間程度は自己学習時間にあてるようにしてください。\nまた、ゲストスピーカーを招く予定です。\n※オンライン・オンデマンドで授業をする回がある場合があります。\n\n【オフィスアワー】\n月・火　12:20～12：50",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス・企業概論の学び方\n全体の講義計画などが理解できる。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "現代企業の諸形態\n①企業の法律形態、②日本における会社の種類などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "公企業と公益事業\n①公企業の定義、②公益事業の定義と特質などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "株式会社の発展と支配、統治\n①株式会社の発展と経営機能の分化、②大規模株式会社の経営者などを学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "企業とステークホルダー\n①ステークホルダーの定義と理論研究、②企業とステークホルダーの具体的な関係などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "CSRの理論と実践\n①経営者の社会的責任から制度化へ、②CSRの構成要素の明確化などを学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ダイバーシティと経営戦略\n①ダイバーシティとは、②人事戦略としてのダイバーシティ経営などを学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "環境経営の現状と展望\n①環境経営とは何か、②現代日本企業の環境経営システムなどについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ESG投資と企業経営\n①ESGの概念と対象、ESG投資の拡大などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "アメリカのトップマネジメント組織とコーポレート・ガバナンス\n①アメリカのトップ・マネジメント組織の構造、②株主総会と機関投資家の活動などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ドイツのトップ・マネジメント組織とコーポレート・ガバナンス\n①労資共同決定制度と会社機関構造、②監査役会改革などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "市場および監督機関とコーポレート・ガバナンス\n①会社支配権市場とコーポレート・ガバナンス、②機関投資家とコーポレート・ガバナンスについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "BOPビジネス\n①BOPビジネスの概要、②BOPの市場規模と特徴などについて学ぶ。（ゲストスピーカーを予定）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "社会的企業\n①社会的企業とソーシャル・イノベーション、②ソーシャル・ビジネスと社会的企業などについて学ぶ。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "全体のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "百武　仁志"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

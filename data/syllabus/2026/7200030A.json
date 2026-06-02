@@ -1,0 +1,268 @@
+{
+    "fetched_at": "2026-06-02T12:00:43Z",
+    "name_ja": "アスレティックトレーニング現場実習Ⅰ",
+    "name_en": "Athletic Training Practice Ⅰ",
+    "syllabus_number": "7200030A",
+    "course_number": "21-2-29-21-02",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "佐野村　学",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1．JSPO-AT としてのスポーツ現場における主な役割について説明できる。\n2．スポーツ現場で必要とされる専門知識や技能、心構えなどについて説明できる。\n3．種目や競技特性などに応じたトレーナーの役割や対応方法について説明できる。",
+    "overview": "アスレティックトレーナーがスポーツ現場などで活動している内容を見学し、具体的な役割や業務内容について理解することを目標とする。アスレティックトレーナーがスポーツ現場などで活動している内容を見学するとともに、具体的な役割、業務内容、チームスタッフとの連携方法などについて理解する。本授業の学修から、アスレティックトレーニング現場実習Ⅱ～Ⅵへつなげるものとする。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 1巻 アスレティックトレーナーの役割(2022年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 4400,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 2巻 安全・健康管理およびスポ ーツ外傷・障害の予防(2022 年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 5060,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 3巻 コンディショニング(2022年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 4400,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 4巻 リコンディショニング(2022年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 5060,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 5巻 救急対応(2022 年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 4400,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト 6巻 検査・測定と評価(2022 年カリキュラム対応)",
+            "publication_year": 2022,
+            "author": "公益財団法人 日本スポーツ協会",
+            "publisher": "文光堂",
+            "price": 3300,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "適宜授業内で指示する。",
+        "other": "なし"
+    },
+    "grading_criteria": "授業への参加意欲40%、課題レポート40%、発表20%を基に総合的に評価する。\nなお、授業への参加状況についても考慮する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n \n【事前学習・事後学習の時間】あわせて90分程度。 \n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス・オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "実習の目的、意義、心構え",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "スポーツ医・科学スタッフと JSPO-AT との関わり",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "JSPO-AT におけるリスクマネジメントとその実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "対象者の年齢や性質に応じた活動の実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "スポーツ現場における JSPO-AT の活動の実際1",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "スポーツ現場における JSPO-AT の活動の実際2",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "スポーツ現場における JSPO-AT の活動の実際3",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "スポーツに関連する現場における JSPO-AT の活動の実際1",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "スポーツに関連する現場における JSPO-AT の活動の実際2",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "スポーツ現場における様々なリスクの把握整備とその実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "重篤なスポーツ外傷・障害・事故の予防、感染症対策とその実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "対象者のコンディションの把握とデータ活用の実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "競技・種目・対象者などの特性を踏まえたスポーツ外傷・障害予防の取り組みとその実際",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと発表",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "佐野村学"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "日本スポーツ協会公認アスレティックトレーナーとして、スポーツ現場のほか、コンディショニング・リコンディショニングルームなどで活動しているほか、主にスポーツ傷害予防、傷害メカニズム、スポーツ傷害調査を主に関する研究を行っている。"
+}

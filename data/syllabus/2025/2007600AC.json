@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:58:04Z",
+    "fetched_at": "2026-06-02T11:54:35Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AC",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -43,8 +43,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "以下に関して「学生に対する評価」の内容で評価する。\nⅰ）バックキャスティングなどタイムマネジメントができたかどうか\nⅱ）共創者およびゼミ仲間と積極的に関わったかどうか\nⅲ）カスタマージャーニーを描けたかどうか\nⅳ）4軸の目的を満たすデザインかどうか\nⅴ）自身の考えを第3者にわかりやすく説明できたかどうか",
     "evaluation_ratio": {
@@ -360,5 +360,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

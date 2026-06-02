@@ -1,0 +1,222 @@
+{
+    "fetched_at": "2026-06-02T11:57:23Z",
+    "name_ja": "VBAプログラミング",
+    "name_en": "VBA Programming",
+    "syllabus_number": "2100700A",
+    "course_number": "31-1-21-33-07",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部 情報科学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "呉　靭",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "マクロの記録が理解でき、操作できる。 \n\n自動記録されたマクロの簡単なカスタマイズができる。 \n\n自動記録されたマクロを汎用性の高いサブルーチンにカスタマイズできる。 \n\n簡単な実用的なプログラムが作成できる。",
+    "overview": "VBA(Visual Basic for Application)はWordやExcelなどのMicrosoft Office製品に搭載されているプログラミング言語で、Excel VBAやWord VBAなどがある。VBAは手作業の過程をプログラムソースコードに自動的に落とす「マクロ」機能により手作業の自動化が図れることで、広く使われている。本授業では、主にExcel VBAを扱う。VBAプログラミングの基本的な事項を学んだうえで、自動記録されたソースコードを汎用性の高いサブルーチンにカスタマイズする技法を習得していく。CSVやWord、Webとの連携についても学び、ビジネス現場の業務効率化に役立つプログラムを作成できるようになることを目指す。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC必携",
+        "other": null
+    },
+    "grading_criteria": "授業への取り組み30%、宿題50%、期末課題20%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 50,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "授業前に、授業資料を配布します(配布方法は別途通知)。それを予習しておくこと。授業後は理解度確認のための宿題が出ますが、毎回の宿題を重視し、真剣に取り組むことを期待します。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、マクロとは、本授業の目標",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "Excelの使い方の復習、ファイル管理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "マクロの自動記録、マクロの実行、VBE",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "変数宣言、データ型、条件分岐",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "繰り返し処理",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "セルの操作",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "配列、デバッグ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "VBAライブラリ、Windows API",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "外部ファイル(CSV、Word)との連携",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "Webとの連携",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "データ集計ツールの作成１",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "データ集計ツールの作成２",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "データ集計ツールの作成３",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "データ集計ツールの作成４",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "呉　靭"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総合復習、期末課題の説明",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

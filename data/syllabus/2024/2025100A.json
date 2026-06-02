@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:01:02Z",
+    "fetched_at": "2026-06-02T11:56:29Z",
     "name_ja": "福祉住環境コーディネーター",
     "name_en": "Housing Environment Coordinator for Elderly and Disabled People",
     "syllabus_number": "2025100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "梅田　勝利",
@@ -215,5 +215,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

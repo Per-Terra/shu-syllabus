@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:38Z",
+    "fetched_at": "2026-06-02T11:59:15Z",
     "name_ja": "精神疾病治療論",
     "name_en": "Psychiatry Diseases and Therapy",
     "syllabus_number": "2115700A",
@@ -8,20 +8,16 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "岡村　仁",
-            "is_primary": true
-        },
-        {
-            "name": "大平　光子",
             "is_primary": false
         }
     ],
@@ -43,10 +39,10 @@
         {
             "title": "適宜、参考資料を配付する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -56,7 +52,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "期末試験100％",
     "evaluation_ratio": {
@@ -67,7 +63,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。\n\n本講義は、以下の日程で行います。各自、間違えないようご注意ください。\n\n1回目：4月10日（木）1限\n\n2回目：4月17日（木）5限\n\n3回目：4月22日（火）4限\n\n4回目：5月  8日（木）5限\n\n5回目：5月15日（木）5限\n\n6回目：6月  2日（月）2限\n\n7回目：6月19日（木）5限\n\n8回目：7月17日（木）5限",
     "schedule": [
         {
             "number": "1",

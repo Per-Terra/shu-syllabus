@@ -1,0 +1,257 @@
+{
+    "fetched_at": "2026-06-02T11:58:54Z",
+    "name_ja": "野外実習（雪上）",
+    "name_en": "Outdoor Activity(snow Sports)",
+    "syllabus_number": "2114200A",
+    "course_number": "21-3-27-22-03",
+    "departments": [
+        "スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "西山　健太",
+            "is_primary": false
+        },
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        },
+        {
+            "name": "水﨑　佑毅",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.正しい滑走技術の習得\n2.集団行動の規範理解\n3.安全に実習を行うための指針理解",
+    "overview": "本実習は、野外活動を行うために必要となる基本的な知識・技能・練習法・指導法について理解し、実践できるようになることを目的とする。また、これらの知識・技術を生かした指導を行うことができる資質能力の育成を目指す。講義においては、ウィンタースポーツ（とりわけ、スキー及びスノーボード）に関する理論・基礎技術・指導法に関する解説を行う。実技においては、スキー及びスノーボードの運動特性・技能構造・練習法について実践的に学習する。\n集団による雪上での滑走技能を習得するため、滑走経験によるクラス分けを実施する。集中実習に先駆けて学内にて講義を数回実施するので必ず参加すること。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "『JSBAスノーボード教程』",
+            "publication_year": null,
+            "author": "日本スノーボード協会",
+            "publisher": "山と渓谷社",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "1.基礎技術の達成度を実技60%で評価する\n2.規範知識の理解度をレポート10%と実技10%で評価する\n3.安全指針の理解度をレポート10%と実技10%で評価する",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーションとクラス分け",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "テキストの作成、安全面に関する知識の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "技術や基本動作、用具・装備に関する知識の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "実施行程の確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "実習に関する最終確認、各種手続きの確認",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "導入技術",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "基礎技術（斜面への対応）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "基礎技術（ターンへの導入 山回り）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "基礎技術（ターンへの導入 谷回り）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "基礎技術（連続ターンへの展開）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "発展技術（スライド系ターン）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "発展技術（カービング系ターン）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "総合滑走（大回り・小回り）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "総合滑走（不整地での滑走）",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "西山",
+                "瀬尾",
+                "水﨑"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

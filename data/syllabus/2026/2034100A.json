@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:56:36Z",
+    "name_ja": "ミクロ経済学Ⅱ",
+    "name_en": "MicroeconomicsⅡ",
+    "syllabus_number": "2034100A",
+    "course_number": "11-2-22-22-03",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "田島　正士",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）市場が失敗する諸原理について理解し、その対策について考えることができる\n（２）パレート基準について理解し説明することができる\n（３）ゲーム理論や不確実性など、応用分野についても一定の理解ができている",
+    "overview": "経済社会では、多数の消費者・多数の企業によって多様な財が取り引きされており、それらは複雑に絡み合っている。こうした複雑な経済主体間の関係において、どのような法則が存在するのかを解明することが、クロ経済学の主な目的である。本講義では、「ミクロ経済学Ⅰ」で扱った分析の枠組みを基礎として、市場の失敗の諸ケースについて学んでいく。特に、独占・寡占といった不完全競争や公共財の供給理論などを扱う。また、一般均衡分析としてパレート基準（パレート最適性など）についても理解を深める。さらには、ゲーム理論や不確実性など、近年のミクロ経済学では欠かせない分野についてもその基礎を学ぶ。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "ミクロ経済学の力",
+            "publication_year": 2014,
+            "author": "神取道宏",
+            "publisher": "日本評論社",
+            "price": 3520,
+            "isbn": "978-4535557567",
+            "available_on_campus": false
+        },
+        {
+            "title": "ミクロ経済学入門の入門",
+            "publication_year": 2017,
+            "author": "坂井豊貴",
+            "publisher": "岩波書店",
+            "price": 880,
+            "isbn": "978-4004316572",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "ミクロ経済学Ⅰ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "経済学部2021年度以前入学の学生は、「ミクロ経済学Ⅰ」及び「ミクロ経済学Ⅱ」の両方の単位を修得することで、「ミクロ経済学（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "①市場の失敗の理解、②パレート基準についての理解、③ゲーム理論や不確実性など、応用分野への理解 について、「学生に対する評価」の内容で評価する。",
+    "evaluation_ratio": {
+        "exam": 65,
+        "quiz": 35,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ミクロ経済学はその他の経済学科目を学ぶ上での基礎の１つであり、経済学的なものの考え方について学びます。経済学的なものの考え方を身につけることは、私たちの身の回り起こっている世の中の動きを理解することにも役立ちます。新聞・ニュースなどで経済動向に常に関心を持った上で、授業に参加することを期待します。\n　講義形式で授業を進めていくが、学生との議論も重視したい。また、演習問題も扱うことで学んだことを反復学習し、学生自身が知識を確実に身に付けることができるようにする。学生には単に受動的に講義を受けるのではなく、常に経済問題に意識を向け、疑問を持って講義に臨んでもらいたい。\n\n【予習・復習について】\n　予習は特に必要とはしませんが、学んだ内容をしっかり身に付けた上で次回講義に臨んでほしいので、復習は十分に行うようにしてください（60～90分）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション：ミクロ経済学Ⅰで学んだことの復習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "外部性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "公共財",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "不完全競争①：独占",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "不完全競争②：複占・寡占",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "一般均衡分析①：純粋交換モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "一般均衡分析②：エッジワースのボックスダイアグラム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "一般均衡分析③：パレート基準",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "部分均衡分析・一般均衡分析について復習・演習",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "部分均衡分析・一般均衡分析について到達度確認課題、解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ゲーム理論①：ナッシュ均衡",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ゲーム理論②：展開型ゲーム",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "不確実性と情報①：期待効用理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "不確実性と情報②：情報の非対称性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "本講義のまとめ、振り返り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田島　正士"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

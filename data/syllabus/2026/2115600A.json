@@ -1,0 +1,187 @@
+{
+    "fetched_at": "2026-06-02T11:59:02Z",
+    "name_ja": "高齢期疾病治療論",
+    "name_en": "Disease treatment for the elderly",
+    "syllabus_number": "2115600A",
+    "course_number": "22-2-21-21-05",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "加茂　健太",
+            "is_primary": true
+        },
+        {
+            "name": "田淵　啓二",
+            "is_primary": false
+        },
+        {
+            "name": "加茂　尚子",
+            "is_primary": false
+        },
+        {
+            "name": "辻　麻由美",
+            "is_primary": false
+        },
+        {
+            "name": "岡原　仁志",
+            "is_primary": false
+        },
+        {
+            "name": "松谷　朗",
+            "is_primary": false
+        },
+        {
+            "name": "原田　和佳",
+            "is_primary": false
+        },
+        {
+            "name": "小林　敏生",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "１．高齢期に特徴的な疾病の原因や特徴、治療方法について説明できる。 \n２．高齢期の身体を構成している各器官・臓器・組織が病的状態において、その形態、機能や代謝がどのように変化していくのかを説明できる。",
+    "overview": "高齢期にある人の代表的な疾患について学ぶ。本授業では、疾患に罹患した高齢者の症状を正しく理解するために、各疾患の病因、病態生理、病理、症状、検査、診断、治療及び予防に関して理解する。授業を通して、患者の疾患の病態生理、症状、診断、治療に関しる科学的根拠に基づく基礎的知識をつけるとともに、生活における影響や生活が疾患に及ぼす影響を考慮して看護を行う基礎的知識を身につける。",
+    "diploma_policies": [
+        "看護学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座　老年看護　病態・疾患論",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "適宜、参考資料を配付する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "期末試験 100％",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "様々な資料を活用して、高齢者の健康や健康生活について考察します。授業を通して高齢者の医学的知識と健康にも関心をもってください。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "高齢者の健康及び疾病の特徴、高齢者医療の課題\n高齢者の生活機能の評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　敏生"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "高齢者の生理的特徴・疾患の特徴\n運動器系の機能と診断・治療",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加茂　健太"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "高齢者の生理的特徴・疾患の特徴\n「呼吸・循環系疾患の診断・治療」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "黒木　英男"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "高齢者の生理的特徴・疾患の特徴\n「血液疾患・自己免疫系疾患・感染症の診断・治療」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "加茂　健太"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "高齢者の生理的特徴・疾患の特徴\n「内分泌・代謝機能系疾患の診断・治療」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "松谷　朗"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "高齢者の生理的特徴・疾患の特徴\n「腎・排泄機能・性機能」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　敏生"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "高齢者の生理的特徴・疾患の特徴\n「認知機能、神経機能、感覚機能」",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "原田　和佳"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "高齢者、病気やエンドオブライフにある人・家族に対する地域医療の在り方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "岡原　仁志"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "高齢者看護学の講義担当や高齢者を対象とした病院で勤務経験のある医師が今後の高齢者看護を学ぶ上で必要な知識を教える。"
+}

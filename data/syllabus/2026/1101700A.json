@@ -1,0 +1,223 @@
+{
+    "fetched_at": "2026-06-02T11:53:57Z",
+    "name_ja": "コミュニケーション英語Ⅳ",
+    "name_en": "English CommunicationⅣ",
+    "syllabus_number": "1101700A",
+    "course_number": "31-2-14-22-05",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "総合科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "リチャード　サーグ",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "１．情報科学の研究遂行に必要なやや高度な英語力を身につけることができる。\n２．日常的な場面の会話において相手の社会的・文化的背景を理解した上で、まとまった考えや意見を明確かつ簡潔に英語で口頭表現することができる。\n３．英語で書かれた論文やレポートの内容を理解した上で、英語で明確かつ簡潔に説明することができる。",
+    "overview": "コミュニケーション英語Ⅰ～Ⅳでは、情報科学部における研究遂行に必要な英語能力（英会話、リーディング、ライティング、プレゼンテーション、コミュニケーション）を身につける。こうした力は情報科学部における4年間の学びの基礎となるのみならず、卒業後の進路において有用な武器となる。本講義では、コミュニケーション英語Ⅰ～Ⅲに引き続き、情報科学部で必要となるやや先進的な英語力（研究遂行に必要なやや高度な英語力、社会的・文化的背景を理解した上で明確に英語表現する力、英語論文を理解し英語で説明する力）を身につけることができる。\n授業はオンデマンド教材を用いたe-learningによって進める。毎回の授業についてLMSを通じて学習すべき教材を指示する。",
+    "diploma_policies": [
+        "情報科学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "E-learning教材を提供する。",
+            "publication_year": null,
+            "author": null,
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "コミュニケーション英語Ⅰ",
+            "コミュニケーション英語Ⅱ",
+            "コミュニケーション英語Ⅲ"
+        ],
+        "recommended": [],
+        "required_materials": "必携パソコン",
+        "other": "なし"
+    },
+    "grading_criteria": "学生はLMS上で指示されたe-learning教材を指定の期間内に受講し、課題に回答することで授業への出席となる。\n2回の小テスト（50％）と期末試験（50％）によって成績を評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "情報科学は英語との距離が非常に近い分野です。情報科学分野では日々新たな手法や考え方がアップデートされており、こういった論文やレポートのほとんどは英語で書かれています。また、DXの現場でも日々グローバルなビジネスが展開されているため、情報科学部では英語教育を重要視し、実践的な英語能力の修得を目標としています。\n各回の内容は1度学んで終わりにするのではなく、繰り返し学習して下さい（60分）。特に不得意であって部分については習熟まで繰り返して下さい。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、実践演習1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "副詞・語法1：副詞の位置をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "副詞・語法2：まぎらわしい副詞の判別をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "前置詞1：前置詞の概念・意味をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "前置詞2：熟語をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "前置詞3：注意すべき「時」の表現をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "実践演習2、小テスト",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "接続詞1：いろいろな従属接続詞をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "接続詞2：接続詞中での「省略」をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "接続詞3：名詞節もつくる従属接続詞をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "文型・語法1：命令系統の動詞とthat節をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "文型・語法2：使役動詞をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "文型・語法3：SVOCのパターンをとる動詞をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "文型・語法4：目的語＋to不定詞をとる動詞をテーマとしたディクテーション、シャドーイング、内容把握、速読、単語学習",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "実践演習3、小テスト",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "リチャード　サーグ"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

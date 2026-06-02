@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:09Z",
+    "fetched_at": "2026-06-02T11:56:36Z",
     "name_ja": "福祉統計学",
     "name_en": "Welfare Statistics",
     "syllabus_number": "2025000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -60,7 +60,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "確率論的なものの見方を理解し、確率変数とその分布、統計的推測（推定と検定）の原理と方法を理解しているかについて、「学生に対する評価」の内容で評価する。",
@@ -226,5 +226,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

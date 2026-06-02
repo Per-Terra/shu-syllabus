@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:24:29Z",
+    "fetched_at": "2026-06-02T11:58:24Z",
     "name_ja": "職業指導Ⅱ",
     "name_en": "Guidance for Profession II",
     "syllabus_number": "7003500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -41,8 +41,8 @@
         "recommended": [
             "職業指導Ⅰ"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "・広範囲な業界・職種についての知識の習得、職業選択のための企業分析の方法の習得、ビジネス文書、マナー、試験対策について指導力の習得です。",
     "evaluation_ratio": {

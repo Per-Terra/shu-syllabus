@@ -1,0 +1,225 @@
+{
+    "fetched_at": "2026-06-02T11:55:58Z",
+    "name_ja": "ケアマネジメント",
+    "name_en": "Care Management",
+    "syllabus_number": "2025200A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "藤本　真樹",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "テーマ：「自立支援に向けたケアマネジメント」\n到達目標：以下を身に付ける。①自立支援、②コミュニケーション技術（質問力・傾聴・共感）、③アセスメント力－視座を合わせる力・広い視野・多角的な視点、④多様な社会資源を用いたプランニング、⑤多職種連携",
+    "overview": "・講義：自立支援、コミュニケーション技術、社会資源（多職種連携）、ケアマネジメント（アセスメント・プランニング・モニタリング）\n・演習：事例を用いたアセスメント（学んだコミュニケーション技術を活用）及びプランニングの演習",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
+    },
+    "grading_criteria": "①ケアマネジメント理論の理解、②社会資源の理解、③ケアマネジメント実践（事例）のプレゼンテーション",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": null,
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション／ケアマネジメントとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "アセスメントに活用できるコミュニケーション技術",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "アセスメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "事例➀を用いたアセスメント",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "アセスメント内容のプレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "社会資源（フォーマル・インフォーマル）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "アセスメントから導き出した課題を解決するプランニング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "事例➀を用いたプランニング",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "プランニング内容のプレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "事例➀を活用した用いたケアマネジメント（アセスメント・プランニング）の振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "事例➁➂➃を用いたケアマネジメント（アセスメント）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例➁➂➃を用いたケアマネジメント（プランニング）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "事例➁➂➃を用いたケアマネジメントのプレゼンテーション",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "事例➁➂➃を活用した用いたケアマネジメントの振り返り",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ケアマネジメントまとめ",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "藤本真樹"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2027年2月9日（火）4時限目",
+            "teaching_methods": [],
+            "teachers": [
+                "藤本真樹"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

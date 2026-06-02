@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:08:08Z",
+    "fetched_at": "2026-06-02T11:59:13Z",
     "name_ja": "保健体育科教育法Ⅰ",
     "name_en": "Educational Method for Health and Physical Education I",
     "syllabus_number": "7001400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
@@ -59,8 +59,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "保健体育授業における「目的」「内容」「方法」「評価」の一貫性について理解するとともに、保健体育の授業づくりの仕組みと方法について説明することができるかに関して、以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T01:22:54Z",
+    "fetched_at": "2026-06-02T11:58:00Z",
     "name_ja": "教師論",
     "name_en": "Theory of Teaching Personality",
     "syllabus_number": "7000100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "教職科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -49,8 +49,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "本講義の主要テーマである「 教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
     "evaluation_ratio": {
@@ -219,5 +219,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

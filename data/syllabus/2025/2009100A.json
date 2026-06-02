@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:53Z",
+    "fetched_at": "2026-06-02T11:55:50Z",
     "name_ja": "3DCG制作演習",
     "name_en": "Practice of 3D",
     "syllabus_number": "2009100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,7 +47,7 @@
         ],
         "recommended": [],
         "required_materials": "USBフラッシュメモリ（データ保存用）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①制作工程の理解②3次元的な動きの理解③CGアニメーション制作課題",
     "evaluation_ratio": {
@@ -58,7 +58,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",

@@ -1,0 +1,261 @@
+{
+    "fetched_at": "2026-06-02T11:56:39Z",
+    "name_ja": "運動生理学",
+    "name_en": "Exercise Physiology",
+    "syllabus_number": "2034500A",
+    "course_number": "21-2-22-21-02",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "江﨑　和希",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1. スポーツや身体活動によって適応する身体機能について理解できる。\n2. 骨格筋の種類、特徴とトレーニング適応について理解できる。\n3. 運動時の呼吸・循環応答とトレーニング適応について理解できる。\n4. 運動における神経系や内分泌系の役割について理解できる。",
+    "overview": "運動生理学は、スポーツや身体活動によって身体にどのような応答および適応が生じるのか、その現象と仕組みを研究する学問である。本講義では、筋の形態的・機能的な特徴の把握、運動時の代謝調節、ホルモン分泌や神経系・呼吸・循環調節など、様々な観点から運動時の生理的な調節機序を学修する。これにより、運動やトレーニングによる骨格筋や呼吸循環器の適応効果などについて理解を深めることが出来る。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP3",
+        "スポーツ健康科学科DP2",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP3",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "健康運動指導士養成講習会テキスト上・下",
+            "publication_year": 2024,
+            "author": "公益財団法人健康・体力づくり事業財団",
+            "publisher": "株式会社　南江堂",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "Reference Book",
+            "publication_year": 2023,
+            "author": "公益財団法人日本スポーツ協会",
+            "publisher": null,
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "解剖学",
+            "生理学"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "なし",
+        "other": "参考資料は、授業中に適時配布する。"
+    },
+    "grading_criteria": "筆記試験50％、小テスト40％、学習状況10％をもとに総合的に評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
+    },
+    "teacher_message": "運動生理学は、自分の身体を理解することから始まります。運動生理学の知見が深まるほど、身体への働きかけの重要性が理解出来ます。特に骨や筋の名称はしっかりと覚えて下さい。 \n【事前学習・事後学習の時間】あわせて90分程度。 \n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション（授業概要の説明等）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "細胞の構造と機能",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "骨格系と運動（骨の種類と運動）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "筋系と運動（筋の構造と機能）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "神経系と運動（神経組織と脳）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "呼吸器系と運動（呼吸器官の構造と呼吸機能）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "感覚系と運動（受容器と感覚）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "内分泌系と運動（内分泌腺とホルモン） \n血液と運動（血液の組成と血球細胞）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "心臓の構造と機能、血管系と運動（循環と機能）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "運動中の基質・エネルギー代謝",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "免疫系と運動",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "消化器系と運動",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "環境と運動（高温下での運動）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "環境と運動（低酸素下（高地）での運動）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "成長と機能変化（発育発達期の身体的特徴、心理的特徴）",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "江﨑　和希"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "8月6日（木）14：40～15：40\n611",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

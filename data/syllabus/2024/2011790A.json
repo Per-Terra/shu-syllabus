@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:59:04Z",
+    "fetched_at": "2026-06-02T11:55:42Z",
     "name_ja": "レクリエーション演習",
     "name_en": "Recreation exercise",
     "syllabus_number": "2011790A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　克成",
@@ -53,7 +53,7 @@
         "recommended": [
             "レクリエーション論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "(i) コミュニケーション・ワークを理解する\n(ii) 対象者に合わせたレクリエーション支援ができる\n(ⅲ) レクリエーションワークのアレンジ法について理解する",

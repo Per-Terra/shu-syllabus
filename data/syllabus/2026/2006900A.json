@@ -1,0 +1,232 @@
+{
+    "fetched_at": "2026-06-02T11:54:36Z",
+    "name_ja": "管理会計論",
+    "name_en": "Management Accounting",
+    "syllabus_number": "2006900A",
+    "course_number": "11-3-27-21-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "矢野　沙織",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n会計情報を分析し、意思決定と説明に活かす力を養うことを目標とする。\n①経営や会計の情報から、数字を基に考える力を身につける。\n②コストや利益などの数字を使って、合理的に意思決定できる。\n③判断の根拠を数字で説明できる力をつける。",
+    "overview": "管理会計は、経営者の意思決定に有用な会計情報を収集、作成、活用することである。本講義では、管理会計の重要な知識である短期利益計画、企業予算編成とその統制、関連原価分析、設備投資の経済性計算、活動基準原価計算、品質原価計算、ライフサイクル・コステイィングなどについての理論が学修できる。本講義を学修することで、ビジネスマン及び経営者として適切な経営判断に必要な科学的方法の理論を身につけることができる。",
+    "diploma_policies": [
+        "経営コースDP4",
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "基本管理会計（第2版）",
+            "publication_year": 2023,
+            "author": "建部宏明・山浦裕幸・長屋信義",
+            "publisher": "同文舘出版",
+            "price": 3190,
+            "isbn": "978-4-495-19582-3",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "原価計算論"
+        ],
+        "recommended": [],
+        "required_materials": "教科書・電卓・ノート・筆記用具",
+        "other": null
+    },
+    "grading_criteria": "毎回翌週の授業までにレポートを提出してもらい、その回の内容の理解度を問う（28％）。\n期末試験では到達目標①～③の習得度を問う（72％）。",
+    "evaluation_ratio": {
+        "exam": 72,
+        "quiz": 0,
+        "report": 28,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前学習・事後学習】\n毎回必ず授業中に取り上げた問題や追加問題等の解き直しをすること。\n解き直しは繰り返し行い、合計90分程度行うことが望ましい。\n【オフィスアワー】\n講義のある曜日。不在時はメールで受け付ける。\n\nなお、授業計画は、受講生の習得度に合わせて若干変更することがある。\n毎回必ず電卓を持ってくること。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "管理会計とは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ＣＶＰ分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "最適セールス・ミックスの決定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "予算編成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "事業部の業績測定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "予算実績差異分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "業務執行上の意思決定―差額原価収益分析―",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "業務執行上の意思決定ー内製か購入か―",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "業務執行上の意思決定のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "戦略的意思決定",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "設備投資の経済性計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "設備投資の意思決定のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "品質原価計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "活動基準原価計算",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "矢野　沙織"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:25:07Z",
+    "fetched_at": "2026-06-02T11:58:34Z",
     "name_ja": "学校保健",
     "name_en": "School Health",
     "syllabus_number": "7004900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -30,17 +30,17 @@
         "対面"
     ],
     "objectives": "学校における児童生徒、教職員の健康の保持増進に係る考え方、根拠、方略、教員の役割について教授する。\n教員として、教育を推進するための基盤としての健康を理解し、保持増進のための制度と役割が理解できる。",
-    "overview": "",
+    "overview": null,
     "diploma_policies": [],
     "textbooks": [],
     "references": [],
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めます。"
     },
-    "grading_criteria": "",
+    "grading_criteria": null,
     "evaluation_ratio": {
         "exam": 0,
         "quiz": 70,
@@ -57,9 +57,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "２回",
@@ -67,25 +65,19 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "３回",
             "content": "教育とヘルスプロモーションの考え方",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "４回",
             "content": "子どもの発育・発達",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "５回",
@@ -93,9 +85,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "６回",
@@ -103,9 +93,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "７回",
@@ -113,9 +101,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "８回",
@@ -123,9 +109,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "９回",
@@ -133,9 +117,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１０回",
@@ -143,9 +125,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１１回",
@@ -153,9 +133,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１２回",
@@ -163,9 +141,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１３回",
@@ -173,9 +149,7 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１４回",
@@ -183,19 +157,15 @@
             "teaching_methods": [
                 "講義"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "１５回",
             "content": "学校保健経営の在り方、多職種連携",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

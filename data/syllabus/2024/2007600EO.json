@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T10:56:43Z",
+    "fetched_at": "2026-06-02T11:54:42Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600EO",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "長澤　雅彦",
@@ -52,7 +52,7 @@
             "映像文化論"
         ],
         "required_materials": "資料などをオンラインで展開するのでパソコン",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "主体性をもって自らが追求したい研究テーマを見つけ、研究する・・・・50点\n他のゼミ生とも協調して、対外的活動（イベント）に積極的に参加・成果を上げる・・・30点\n受講態度など・・・・・・・・・・20点\n※その他は授業での発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:03:06Z",
+    "fetched_at": "2026-06-02T11:54:41Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600E",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,7 +47,7 @@
             "アーリー・エクスポージャー型インターンシップ"
         ],
         "required_materials": "筆記用具、PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "平素の地域課題解決活動および成果物を総合的に評価する。成果物は授業内で作成したものや報告書、学内外に向けた発表等を対象とする。これらについて、課題対応能力を6割程度、ゼミ内外での協働を4割程度の割合で評価する。",
     "evaluation_ratio": {
@@ -67,9 +67,7 @@
                 "講義",
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "2～4",
@@ -77,9 +75,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "5～13",
@@ -87,9 +83,7 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "14～15",
@@ -97,17 +91,13 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "16～28",
             "content": "活動状況及び今後の活動計画の報告\n\n以下の内容は対象地域で活動の進捗状況に応じ、適宜、実施する\n文献講読\n図表の作成方法\nプレゼンテーションの仕方\n報告書の作成方法\n剽窃の防止と参考・引用文献の書き方\n最終報告の準備・報告資料の作成\nなど",
             "teaching_methods": [],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         },
         {
             "number": "29～30",
@@ -115,11 +105,9 @@
             "teaching_methods": [
                 "演習"
             ],
-            "teachers": [
-                ""
-            ]
+            "teachers": []
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

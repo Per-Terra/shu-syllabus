@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:19:00Z",
+    "fetched_at": "2026-06-02T11:56:59Z",
     "name_ja": "ICT活用と地域課題解決",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2030000A",
     "course_number": "01SA201、05HS203",
     "departments": [
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -259,5 +259,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

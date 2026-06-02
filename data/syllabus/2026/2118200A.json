@@ -1,0 +1,271 @@
+{
+    "fetched_at": "2026-06-02T11:59:20Z",
+    "name_ja": "高齢者看護実践",
+    "name_en": "Gerontological Nursing Practice",
+    "syllabus_number": "2118200A",
+    "course_number": "22-3-23-21-05",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "辻　麻由美",
+            "is_primary": true
+        },
+        {
+            "name": "田淵　啓二",
+            "is_primary": false
+        },
+        {
+            "name": "加茂　尚子",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 1,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.高齢者に特有な問題を身体的・心理精神的・社会的な観点で包括的にアセスメントできる。\n2.高齢者が抱える排泄等の問題を理解し、その看護ケアを説明できる。\n3.高齢者及び家族のセルフケア能力をアセスメントし、その人らしさを生かし、持てる力を最大限に発揮できる支援方法を理解できる。\n4.生活背景を尊重した健康の回復、維持・向上に向けた看護を実施できる。\n5.高齢者の多様な価値観・信条を理解し、尊厳をまもる必要性が理解できる。",
+    "overview": "高齢者がおかれている状況や健康に障害がある状態を総合的にアセスメントする必要性の理解を深める。正常な範囲内の加齢変化の過程を踏まえたうえで、高齢者看護実践に必要な知識・技術・態度を習得する。また、超高齢社会の現状とそこから見えてくる健康や社会的課題を踏まえたうえで、高齢者とその家族が抱える問題の把握、アセスメント、看護目標の設定、計画の立案、実施と評価など一連の看護過程の遂行能力を身に着ける。",
+    "diploma_policies": [
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5"
+    ],
+    "textbooks": [
+        {
+            "title": "系統看護学講座 老年看護学",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座 老年看護 病態・疾患論",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "根拠と事故防止からみた 老年看護技術 第4版",
+            "publication_year": null,
+            "author": "亀井 智子",
+            "publisher": "医学書院",
+            "price": 4510,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "生活機能からみた 老年看護過程＋病態・生活機能関連図　第5版",
+            "publication_year": 2025,
+            "author": "山田 律子 / 内ヶ島 伸也",
+            "publisher": "医学書院",
+            "price": 4180,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "高齢者看護学概論",
+            "高齢者看護方法"
+        ],
+        "recommended": [
+            "well-being実習Ⅰ",
+            "高齢期疾病治療論"
+        ],
+        "required_materials": "ノートパソコンまたはタブレット端末、演習に必要な物品は事前に 案内する。",
+        "other": "前期のうち半分または２週に１回ずつ２コマ続きの講義と演習（他 領域の実践科目とペア）。   開講日のアナウンスに注意すること。"
+    },
+    "grading_criteria": "筆記試験60％（100点満点で60点以上取得すること）\n課題提出物20％（講義後の小テスト、看護過程の成果物）\n演習態度20％（演習後の提出物）",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "超高齢社会においては高齢者を対象とした看護は避けて通れません。高齢者看護実習を想定して、より実践的な看護ケアと知識を学んでいきましょう。（事前学習 45 分、事後学習 45 分）\n\n\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "高齢者の排泄ケアの基本・陰部の保清等",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "排尿障害・排便障害",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "排泄のアセスメントとケア①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "辻麻由美",
+                "加茂尚子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "排泄のアセスメントとケア②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "辻麻由美",
+                "加茂尚子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "高齢者の食事① 食事形態・経鼻経管栄養",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "高齢者の食生活の援助",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "食事介助①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "辻麻由美",
+                "加茂尚子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "食事介助②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二",
+                "辻麻由美",
+                "加茂尚子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "高齢者の口腔ケア",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "高齢者の食事② 胃ろう",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "高齢者看護 看護過程の事例展開",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "高齢者看護 看護過程の展開 GW",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "高齢者看護 看護過程の展開 GW 発表①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "高齢者看護 看護過程の展開 GW 発表②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "辻麻由美"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "高齢者と医療安全、学生の実習におけるヒヤリハット",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田淵啓二"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "高齢者看護の実務を経験している教員が、高齢者看護実習を想定して高齢者との関わり方や看護ケアについて演習を中心に指導する。"
+}

@@ -1,0 +1,261 @@
+{
+    "fetched_at": "2026-06-02T11:57:32Z",
+    "name_ja": "情報行動心理学",
+    "name_en": "Psychology of information behavior",
+    "syllabus_number": "2102000A",
+    "course_number": "31-3-21-32-03",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "羽渕　由子",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "(i)情報機器を含む人工物の使いやすさについて説明できる\n(ii)インターネットを介した人間関係について理解し，説明できる\n(iii)メディアの影響について理解し，説明できる\n(iiii)集団による課題遂行とインターネットについて理解し，説明できる\n(iiiii)ビッグデータを用いた分析について理解し，説明できる",
+    "overview": "本講義では，情報機器を含む人工物の使いやすさ（第１回～第５回），インターネットを介した人間\n関係（第６回～第７回），メディアの影響（第８回～第９回），集団による課題遂行とインターネット（第10 回～第12 回），ビッグデータを用いた分析（第13 回～第15 回）といったテーマについて，仕事との関わりに焦点を当てながら，心理学の観点から解説をおこなう。本講義を通して，人間が日頃行っている情報行動を様々な方向から解釈し，モデル化してとらえることができるようになることを目指す。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3",
+        "情報科学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "ICT・情報行動心理学",
+            "publication_year": 2017,
+            "author": "太田　信夫（監修）、都築　誉史（編）",
+            "publisher": "北大路書房",
+            "price": 2420,
+            "isbn": "978-4762829642",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "行動情報学",
+            "publication_year": 2025,
+            "author": "森田 純哉 編著・ 永吉 実武 編著・ 金 鎭赫 編著",
+            "publisher": "共立出版",
+            "price": 3300,
+            "isbn": "978-4320125834",
+            "available_on_campus": false
+        },
+        {
+            "title": "誰のためのデザイン？　増補・改訂版　―認知科学者のデザイン原論",
+            "publication_year": 2015,
+            "author": "D. A. ノーマン (著), 岡本明 (訳), 安村通晃 (訳), 伊賀聡一郎 (訳), 野島久雄 (訳)",
+            "publisher": "新曜社",
+            "price": 3630,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "イラストで学ぶ　ヒューマンインタフェース　改訂第3版",
+            "publication_year": 2024,
+            "author": "北原義典",
+            "publisher": "講談社",
+            "price": 2860,
+            "isbn": "978-4-06-537940-0",
+            "available_on_campus": false
+        },
+        {
+            "title": "イラストで学ぶ　認知科学",
+            "publication_year": 2020,
+            "author": "北原義典",
+            "publisher": "講談社",
+            "price": 3080,
+            "isbn": "978-4-06-521518-0",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン、テキスト、ノート、筆記用具",
+        "other": "なし"
+    },
+    "grading_criteria": "１．人工物の使いやすさ，２．インターネットを介した人間関係，３．メディアの影響，４．集団による課題遂行とインターネット，５．ビッグデータを用いた分析\n上記１．～５．に関する理解度を筆記試験70％，各回の小テスト30％で評価する。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "講義に参加するにあたっては，シラバスを参照し，教科書の該当ページを通読しておくこと(予習・45分程度)。講義後には，講義で行った箇所の再読および資料の重要箇所を再確認し，知識を定着させてください(復習・45分程度)。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス，情報行動心理学とは何か",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "情報行動心理学の研究方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "情報行動心理学の研究対象",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "人工物の使いやすさの心理学（1）モノづくりに重要な心理学",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "人工物の使いやすさの心理学（2）使いやすいモノとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "人工物の使いやすさの心理学（3）ヒューマン・エラーとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "インターネットを介した人間関係（1）トラブル事例",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "インターネットを介した人間関係（2）トラブルへの対処",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "メディアの影響に関する心理学（1）方法論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "メディアの影響に関する心理学（2）研究の具体例",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "集団による課題遂行とインターネット（1）集団の特質と意思決定，問題解決，アイデア創出",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "集団による課題遂行とインターネット（2）CMC と対面の比較",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ビッグデータを用いた分析（1）ビッグデータとは",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ビッグデータを用いた分析（2）ビッグデータの活用",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "総括",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "羽渕　由子"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

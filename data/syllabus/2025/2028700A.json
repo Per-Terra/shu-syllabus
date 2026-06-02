@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:01:52Z",
+    "fetched_at": "2026-06-02T11:57:03Z",
     "name_ja": "権利擁護を支える法制度",
     "name_en": "Advocacy and adult guardianship system",
     "syllabus_number": "2028700A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -57,7 +57,7 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "定期試験と毎回の授業後の課題により評価します。また、受講態度を重視します。",
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

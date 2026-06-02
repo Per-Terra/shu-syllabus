@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:03:54Z",
+    "fetched_at": "2026-06-02T11:57:33Z",
     "name_ja": "経済政策Ⅰ",
     "name_en": "Economic PolicyⅠ",
     "syllabus_number": "2036600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "岩本　直",
@@ -39,7 +39,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
     "grading_criteria": "・経済政策について基礎的事項が理解できる。\n上記の基準を⑪によって評価する。",

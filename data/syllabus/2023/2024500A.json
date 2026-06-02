@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:51Z",
+    "fetched_at": "2026-06-02T11:56:27Z",
     "name_ja": "認知心理学Ⅱ",
     "name_en": "Cognitive Psychology II",
     "syllabus_number": "2024500A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -65,7 +65,7 @@
             "認知心理学Ⅰ"
         ],
         "required_materials": "ノート",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ)基礎知識の獲得、(ⅱ)研究方法の理解、(ⅲ)日常場面への応用、(ⅳ))問題発見 以上四点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
@@ -230,5 +230,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

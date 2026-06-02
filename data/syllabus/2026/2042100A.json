@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:57:03Z",
+    "name_ja": "民法Ⅰ",
+    "name_en": "Civil Law 1",
+    "syllabus_number": "2042100A",
+    "course_number": "11-2-30-21-01",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、民法の基本的な知識を習得することを目的としています。\n　民法は、①総則、②物権、③債権、④親族、⑤相続の3分野に分類されており、これらを学習することになります。民法Ⅰでは、このうちの①③を中心に扱いますが、必要に応じて民法Ⅱおよび法律学Ⅱの内容にも言及します。\n　民法の学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１．民法Ⅰの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "民法は、私人間が社会生活（契約やトラブル処理）を送る上での行動基準及び最終的に裁判となった場合の判断基準である。本講義では、(1) 民法の主要な制度と内容（不法行為、物権的請求権、各種契約、弁済、相殺、債権譲渡など）を理解する＝社会生活を送る上での必要な知識を得る、(2) 条文の内容を正確に理解する＝日本語を厳格に正しく理解できるようになる、(3) 経済学を学ぶ上で必要な法的な制度や法の役割を理解する、の三点を目標とする。本講義では、典型的なトラブル事例において、条文を用いて問題解決を実践することを通して、具体的な問題解決能力も身につける。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "オリエンテーション民法第3版",
+            "publication_year": 2024,
+            "author": "松久三四彦他",
+            "publisher": "有斐閣",
+            "price": 2750,
+            "isbn": "978-4-641-23338-6",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
+        "other": "教科書は講義開始時の最新版とします。"
+    },
+    "grading_criteria": "１．解説した民法Ⅰの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】民法とはなにか【内容】公法と私法等【範囲】教科書P3～P14",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "【テーマ】法解釈の方法【内容】法解釈の技術【範囲】教科書P14～P24",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "【テーマ】財産法と家族法【内容】民法典の全体像等【範囲】教科書P24～P30",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "【テーマ】財産法について【内容】財産法の全体像等【範囲】教科書P34～P45",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "【テーマ】権利・義務の主体①【内容】意思能力／行為能力等【範囲】教科書P48～P57",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "【テーマ】権利・義務の主体②【内容】未成年者等【範囲】教科書P57～P68",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "【テーマ】契約の取消し【内容】現状回復義務等【範囲】教科書P69～P73\n＊中間テスト実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "【テーマ】法人【内容】法人の種類や機関等【範囲】教科書P73～P84",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "【テーマ】契約の成立【内容】契約の成立要件等【範囲】教科書P86～P93",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】契約の主観的要件【内容】意思表示の瑕疵【範囲】教科書P93～P103",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】無効と第三者の保護【内容】意思表示に瑕疵があった場合の第三者の保護【範囲】教科書P103～P117",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "【テーマ】代理【内容】表見代理／無権代理等【範囲】教科書P117～P123",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "【テーマ】債権の発生原因【内容】契約の種類等【範囲】教科書P126～P136",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "【テーマ】債権の消滅【内容】弁済等【範囲】教科書P136～P145",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "【テーマ】相殺【内容】相殺可能な場合や不可能な場合等【範囲】教科書P146～P158",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

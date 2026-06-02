@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:59:55Z",
+    "fetched_at": "2026-06-02T11:55:52Z",
     "name_ja": "映像制作演習Ⅱ",
     "name_en": "Film Production II",
     "syllabus_number": "2009300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -55,8 +55,8 @@
             "映像編集技法１",
             "映像編集技法２"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "・ストーリー提出・シナリオ執筆（20点）\n・撮影準備の緻密さ（30点）\n・完成作品評価（20点）\n※その他（30％）は授業や実習グループでの発言や積極性などの受講態度を評価します。",
     "evaluation_ratio": {

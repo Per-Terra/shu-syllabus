@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:18:01Z",
+    "fetched_at": "2026-06-02T11:56:45Z",
     "name_ja": "ソーシャルワーク演習Ⅰ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2027400A",
     "course_number": "05SW203",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "授業で配布する資料",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "レポート100％",
     "evaluation_ratio": {
@@ -213,5 +213,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

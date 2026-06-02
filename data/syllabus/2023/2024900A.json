@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:56Z",
+    "fetched_at": "2026-06-02T11:56:29Z",
     "name_ja": "政治制度論",
     "name_en": "Theory of Political System",
     "syllabus_number": "2024900A",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "Text,筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "（ⅰ）基本的概念の理解、（ⅱ）基本的概念の応用、（ⅲ）主体的な取組み の三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
@@ -217,5 +217,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

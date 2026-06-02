@@ -1,0 +1,242 @@
+{
+    "fetched_at": "2026-06-02T11:56:32Z",
+    "name_ja": "パラスポーツ論Ⅰ",
+    "name_en": "Theory of ParasportsⅠ",
+    "syllabus_number": "2033300A",
+    "course_number": "21-3-25-21-03",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "宇野　直士",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "オンデマンド"
+    ],
+    "objectives": "１．障害モデルについて理解する。\n２．障がい者スポーツの概念・意義について理解し、説明することができる。\n３．障がい者スポーツと各障害の関係性について理解し、説明することができる。",
+    "overview": "パラスポーツの意義と理念ならびに障がい者スポーツの指導における留意点について学習する。講義は「障がいに対する理解」で学んだ内容をもとに、障がい者スポーツにおける文化的特性、諸施策などを学習する。また、地域における障がい者スポーツ振興、キャリア形成、指導上の留意点と工夫についても学習する。この講義を通じ身に付く能力として、障がい者スポーツに関する専門的な知識と障がい者に対応するための技術を得ることが期待できる。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "障がいのある人のスポーツ指導教本（初級・中級）改訂版",
+            "publication_year": 2020,
+            "author": "（公財）日本パラスポーツ協会／編",
+            "publisher": "ぎょうせい",
+            "price": 2970,
+            "isbn": "978-4-324-11250-2",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "アダプテッド・スポーツの科学",
+            "publication_year": null,
+            "author": "矢部京之助・草野勝彦・中田英雄編著",
+            "publisher": "市村出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "障害者スポーツ論",
+            "publication_year": null,
+            "author": "森川洋・金子元彦・和秀俊編著",
+            "publisher": "大学図書出版",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "障がいに対する理解"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "教科書、ノートパソコン",
+        "other": "履修者は障がい者スポーツ資格を取得する者とし、スポーツ資格のコース申請をおこなったものに限り受講を認める。"
+    },
+    "grading_criteria": "１．障がい者スポーツの概念・意義、２．障害のメカニズム、３．障がい者と合理的配慮事項、\n４．障がい者スポーツとリスクマネジメント\n上記１～４に関する理解度を以下の「学生に対する評価」により評価する。\n小テスト（60%）、課題レポート（40%）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 60,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "みなさんが受講している様々な科目は、独立した別個のものではなく、互いに関連しあっています。他の科目との関連性も考えながら受講することで、より深い理解が得られます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "スポーツの意義と価値\n①スポーツ文化の構成要素",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "スポーツの意義と価値\n②障がい者スポーツの文化的特性",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "障がい者スポーツの意義と理念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "コミュニケーションスキルの基礎",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "障がい者スポーツに関する諸施策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "障がい者スポーツ推進の取り組み",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "地域おける障がい者スポーツ振興",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "障がい者スポーツ指導員としてのキャリア形成\n①キャリア形成のイメージづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "障がい者スポーツ指導員としてのキャリア形成\n②グループワークの進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "各障がいのスポーツ指導上の留意点と工夫\n①障がいに応じたスポーツの工夫の基本的視点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "各障がいのスポーツ指導上の留意点と工夫\n②障がいに応じたスポーツづくり",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "障がい者のスポーツ指導における留意点\n①身体障がい",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "障がい者のスポーツ指導における留意点\n②知的障がい",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "障がい者のスポーツ指導における留意点\n③精神障がい、指導案作成の実際",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "宇野　直士"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

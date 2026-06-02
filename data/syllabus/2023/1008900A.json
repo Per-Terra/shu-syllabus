@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:57:27Z",
+    "fetched_at": "2026-06-02T11:53:09Z",
     "name_ja": "教養スポーツ実習Ⅰ(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)",
     "name_en": "Cultural Sports PracticeⅠ(a)(b)(c)(d)(e)(f)(g)(h)(i)(j)",
     "syllabus_number": "1008900A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -70,8 +70,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "活動中の取り組み内容や態度、またスポーツ活動に対する興味・関心を評価します。",
     "evaluation_ratio": {
@@ -85,5 +85,5 @@
     "teacher_message": "運動に適した服装（Tシャツ、ジャージ等）と室内専用シューズを着用してください。\n\n授業当日、ウエアやシューズを忘れた場合は、怪我防止のため見学とします。\n\n安全のため、時計、アクセサリー等は外して受講してください。\n\n体調管理をして授業に臨み、体調に違和感を覚えた場合や怪我が発生した場合は、すみやかに担当教員に申し出てください。",
     "schedule": [],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

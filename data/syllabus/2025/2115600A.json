@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:37Z",
+    "fetched_at": "2026-06-02T11:59:15Z",
     "name_ja": "高齢期疾病治療論",
     "name_en": "Disease treatment for the elderly",
     "syllabus_number": "2115600A",
@@ -8,12 +8,12 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -21,7 +21,15 @@
             "is_primary": true
         },
         {
-            "name": "大平　光子",
+            "name": "田淵　啓二",
+            "is_primary": false
+        },
+        {
+            "name": "加茂　尚子",
+            "is_primary": false
+        },
+        {
+            "name": "辻　麻由美",
             "is_primary": false
         },
         {
@@ -50,10 +58,10 @@
         {
             "title": "系統看護学講座　老年看護　病態・疾患論",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -61,10 +69,10 @@
         {
             "title": "適宜、参考資料を配付する。",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -75,7 +83,7 @@
         ],
         "recommended": [],
         "required_materials": "ノートパソコン",
-        "other": "前期のうち半分または２週に１回の講義（高齢者看護学概論とペア）。開講日のアナウンスに注意すること。"
+        "other": null
     },
     "grading_criteria": "期末試験 100％",
     "evaluation_ratio": {
@@ -95,7 +103,9 @@
                 "講義"
             ],
             "teachers": [
-                "非常勤講師"
+                "小林　敏生",
+                "6/21",
+                "土　2時限"
             ]
         },
         {
@@ -105,7 +115,7 @@
                 "講義"
             ],
             "teachers": [
-                "加茂　健太"
+                "加茂　健太　4/21　5時限"
             ]
         },
         {
@@ -115,7 +125,7 @@
                 "講義"
             ],
             "teachers": [
-                "非常勤講師"
+                "小林　敏生　6/21　土　3時限"
             ]
         },
         {
@@ -125,7 +135,7 @@
                 "講義"
             ],
             "teachers": [
-                "非常勤講師"
+                "小林　敏生　7/12　土　2時限"
             ]
         },
         {
@@ -135,7 +145,7 @@
                 "講義"
             ],
             "teachers": [
-                "松谷　朗"
+                "松谷　朗　6/23　5時限"
             ]
         },
         {
@@ -145,7 +155,7 @@
                 "講義"
             ],
             "teachers": [
-                "非常勤講師"
+                "小林　敏生　7/12　土　3時限"
             ]
         },
         {
@@ -155,7 +165,7 @@
                 "講義"
             ],
             "teachers": [
-                "原田　和佳"
+                "原田　和佳　7/16　水　5時限"
             ]
         },
         {
@@ -165,7 +175,7 @@
                 "講義"
             ],
             "teachers": [
-                "岡原　仁志"
+                "岡原　仁志　7/31　木　5時限"
             ]
         }
     ],

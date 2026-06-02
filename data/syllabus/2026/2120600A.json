@@ -1,0 +1,93 @@
+{
+    "fetched_at": "2026-06-02T11:59:33Z",
+    "name_ja": "高齢者看護実習",
+    "name_en": "Gerontological Nursing  Practicum",
+    "syllabus_number": "2120600A",
+    "course_number": "22-3-26-22-04",
+    "departments": [
+        "人間健康科学部 看護学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "複数",
+    "teachers": [
+        {
+            "name": "田淵　啓二",
+            "is_primary": true
+        },
+        {
+            "name": "加茂　尚子",
+            "is_primary": false
+        },
+        {
+            "name": "辻　麻由美",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1) 高齢者の身体的，精神的、社会的な特徴を理解する。 \n2) 高齢者に特有の疾患及び症状、治療・看護を理解する。 \n3) 高齢者ケアに関わるケアスタッフの役割及び看護者との連携を理解する。 \n4) 高齢者の生活と療養に関わる様々な施設の特徴と法的な位置づけ、そこに入所する高\n齢者の特性と実施されているケアの特徴を理解する。 \n5) 高齢者の安全とニーズを充足するために必要な看護の知識と技術を修得する。 \n6) 高齢者のSOLを尊重しながらQOLの向上を目指した看護を展開する。 \n7) 高齢者とその家族の関係性や状況を理解し，高齢者看護と家族看護を実践する。 \n8) 高齢者の療養と生活を支える社会資源を理解し、高齢者を支える地域包括ケアシステ\nムの構築について考察する。",
+    "overview": "本授業は、介護保険の施設サービスを利用している高齢者と関わり、疾病を持って生活し\nている高齢者とその家族への看護ケア実践に必要な知識や態度・技術を統合的に身に着\nける。現場で実施されている看護を学び、高齢者のための国連原則（自立、参加、ケア、\n自己実現、尊厳）を基盤とし、高齢者のＳＯＬを尊重し、ＱＯＬを高める看護と看護者の\n役割を理解する。",
+    "diploma_policies": [
+        "看護学科DP2",
+        "看護学科DP3",
+        "看護学科DP4",
+        "看護学科DP5",
+        "看護学科DP6"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "系統看護学講座 老年看護学",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        },
+        {
+            "title": "系統看護学講座 老年看護 病態・疾患論",
+            "publication_year": null,
+            "author": null,
+            "publisher": "医学書院",
+            "price": null,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "高齢者看護学概論",
+            "高齢者看護方法",
+            "高齢者看護実践"
+        ],
+        "recommended": [],
+        "required_materials": "ナース服、ナースシューズ、メモ、フィジカルアセスメント道具、 ノートパソコンまたはタブレット端末、そのほかの実習に必要な物品は事前 に案内する。",
+        "other": "必要に応じて資料を配布（電子媒体）し、参考資料や参考文献などは授業で紹介します。"
+    },
+    "grading_criteria": "実習目標の達成状況 60％  \n実習の取り組み・意欲・カンファレンスでの発言20％ \n所定の記録物及びレポート 20％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "超高齢社会においては高齢者を対象とした看護は避けて通れません。高齢者と向き合ったときに必要な看護職として対応力を実践の場で活用していきましょう。（事前学習 45 分、事後学習 45 分） \n【オフィスアワー】 \n講義のある曜日 不在時はメールで受け付けます。",
+    "schedule": [],
+    "credit_auditing": false,
+    "practitioner_info": "高齢者看護の実務を経験している教員が、高齢者との関わり方や看護ケア、地域連携、社\n会資源の活用方法について実践の場で現場の看護職と協力しながら指導する。"
+}

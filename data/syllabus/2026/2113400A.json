@@ -1,0 +1,211 @@
+{
+    "fetched_at": "2026-06-02T11:58:48Z",
+    "name_ja": "保健体育科実践実習",
+    "name_en": "Health and physical education practical training",
+    "syllabus_number": "2113400A",
+    "course_number": "21-3-26-22-12",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": null,
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "瀬尾　賢一郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.児童や生徒の実情に応じた学習展開を検討することができる。 \n2.検討された学習計画に基づいて授業を展開することができる。 \n3.自分自身の授業実践に対し、確かな視点を持ったリフレクションを行うことができる。",
+    "overview": "保健体育科実践実習は、保健体育科実践演習において学習した「児童や生徒を取り巻く運動や体力に関する諸問題や、学校体育に関する様々な課題に対する検討を行う」という学習内容からの系統的学習であり、これらの課題意識を持って児童や生徒に対する体育授業及び運動教室の実際を行うという授業である。4年次に実施される教育実習を見据え、学習指導案の作成やリフレクションの実施など、PDCAサイクルを回しながら学生自身の授業実践力の向上を図ることを目的とする授業である。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "保健体育科実践演習"
+        ],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "課題40%、レポート40%、発表20%",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 40
+    },
+    "teacher_message": "教育現場における運動や体力、体育に関する課題に着目しながら実践を中心とした学修を進めて行く。そのため、学修したことをポートフォリオに蓄積していくことはもちろんのこと、自分自身に不足している知識や技能に対する気づきから、学び直しの機会へと繋げてもらいたい。また多様な学修から自分自身の卒業研究課題を見出してほしい。 \n \n【事前学習・事後学習の時間】あわせて90分程度。 \n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション（保健体育科実践実習の概要説明）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "中学校での部分実習（保健体育科）に向けた学習内容の協議",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "中学校での部分実習（保健体育科）①",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "中学校での部分実習（保健体育科）②",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "中学校での部分実習（保健体育科）③",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "中学校での部分実習（保健体育科）④",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "中学校での部分実習（保健体育科）⑤",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "中学校で実施した部分実習に対するリフレクション",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "運動教室での体育内容に関する実習に向けた学習内容の協議",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "運動教室での体育内容に関する実習①",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "運動教室での体育内容に関する実習②",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "運動教室での体育内容に関する実習③",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "運動教室での体育内容に関する実習④",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "運動教室での体育内容に関する実習⑤",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "運動教室で実施した実習に対するリフレクション",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "瀬尾賢一郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

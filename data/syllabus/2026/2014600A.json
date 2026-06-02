@@ -1,0 +1,230 @@
+{
+    "fetched_at": "2026-06-02T11:55:40Z",
+    "name_ja": "福祉サービスの組織と経営",
+    "name_en": "Organization and Management of  Welfare Services",
+    "syllabus_number": "2014600A",
+    "course_number": null,
+    "departments": [
+        "福祉情報学部",
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "牛島　豊広",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①福祉サービスを提供する組織や団体の組織の概要と役割について説明することができる。\n②社会福祉士に求められる福祉サービスの組織と沿革、経営の視点と方法について説明することができる。\n③福祉サービスの組織と運営に係る基礎理論、労働者の権利について説明することができる。\n④福祉サービスに求められる福祉人材マネジメントについて説明をすることができる。",
+    "overview": "本科目は、ソーシャルワークにおいて必要となる、福祉サービを提供する組織や団体の概要や経営の視点と方法及び組織と運営に係る基礎理論について学ぶ科目である。\n　講義内容については、社会福祉法人その他の法人の社会福祉施設の現状について概説する。また組織運営に関する基礎理論をはじめ、チームやリーダーシップの機能と構成、組織の経営における実際を教授する。他に、福祉人材のマネジメントの側面から育成や労働環境の整備についても触れる。\n　この授業を通じて、①ソーシャルワークにおいて必要となる福祉サービスを提供する組織や団体の概要、②社会福祉士に求められる福祉サービスの組織と沿革、経営の視点と方法、③福祉サービスの組織と運営に係る基礎理論、労働者の権利、④福祉サービスに求められる福祉人材マネジメントの取り組む力を身に付ける。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2",
+        "人間コミュニケーション学科DP4"
+    ],
+    "textbooks": [
+        {
+            "title": "福祉サービスの組織と経営",
+            "publication_year": 2025,
+            "author": "小口　将典　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623092994",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "特になし"
+        ],
+        "recommended": [],
+        "required_materials": "教科書",
+        "other": "特になし"
+    },
+    "grading_criteria": "①福祉サービスを提供する組織や団体の組織の概要と役割\n②社会福祉士に求められる福祉サービスの組織と沿革、経営の視点と方法\n③福祉サービスの組織と運営に係る基礎理論、労働者の権利\n④福祉サービスに求められる福祉人材マネジメント\n上記①～④に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "福祉活動の継続的な組織運営や、そのために必要な経営の視点も踏まえたソーシャルワーク実践が求められています。皆さんと一緒に学ぶ機会を大切にしていきます。\n授業に参加するにあたっては、次回の授業内容を参照し、教科書の該当ページを通読しておくこと(予習2時間程度)。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習2時間程度）。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "福祉サービスを提供する組織の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "福祉サービスの歴史の沿革と概況",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "地域連携や組織間連携と促進",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "組織運営に関する基礎理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "集団の力学に関する基礎理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "リーダーシップに関する基礎理論",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "福祉サービス提供組織における経営体制",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "福祉サービス提供組織のコンプライアンスとガバナンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "適切な福祉サービスの管理と実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "個人情報保護や情報公開等の情報管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "会計管理と財務管理",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "福祉人材の育成",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "福祉人材マネジメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "働きやすい労働環境と労働三法及び労働関係法令",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "福祉サービスの組織と経営に関わるメンタルヘルスとハラスメント対策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "牛島　豊広"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "7月　日（木）10：40-11：40\n611",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

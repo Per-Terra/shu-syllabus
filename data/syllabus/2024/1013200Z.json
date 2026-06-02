@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:54:48Z",
+    "fetched_at": "2026-06-02T11:53:50Z",
     "name_ja": "総合英語初級Ⅱ（再履修）",
     "name_en": "Comprehensive English Beginners II (Retakers)",
     "syllabus_number": "1013200Z",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "西村　浩子",
@@ -239,5 +239,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

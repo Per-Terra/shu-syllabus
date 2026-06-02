@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:00:05Z",
+    "fetched_at": "2026-06-02T11:55:57Z",
     "name_ja": "スポーツ栄養学",
     "name_en": "Sports Nutrition",
     "syllabus_number": "2011100A",
@@ -10,12 +10,12 @@
         "人間健康科学部 スポーツ健康科学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -64,9 +64,9 @@
             "title": "健康運動指導士養成講習会テキスト上・下",
             "publication_year": null,
             "author": "公益財団法人健康・体力づくり事業財団",
-            "publisher": "",
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -243,5 +243,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

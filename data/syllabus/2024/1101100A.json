@@ -1,22 +1,22 @@
 {
-    "fetched_at": "2025-04-07T10:55:34Z",
+    "fetched_at": "2026-06-02T11:54:08Z",
     "name_ja": "留学英語",
     "name_en": "Preparation for Study Abroad",
     "syllabus_number": "1101100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 看護学科",
         "情報科学部 情報科学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "西村　浩子",
@@ -253,5 +253,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

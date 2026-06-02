@@ -1,0 +1,238 @@
+{
+    "fetched_at": "2026-06-02T12:00:06Z",
+    "name_ja": "地域企業分析",
+    "name_en": "Analysis for local business",
+    "syllabus_number": "2126300A",
+    "course_number": "23-2-25-21-04",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "梅田　勝利",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①基礎的な財務分析手法について説明することができる。\n②財務分析手法を用いて企業の現状と課題について具体的に述べることができる。\n③財務分析手法について列挙することができる。",
+    "overview": "本講義では、時時刻刻と変化する経営環境の分析、業界の特性と動向の把握、企業価値向上を目的とした経営戦略の策定、経営目的を実現するための経営管理体制の整備といった、高度化・多様化・複雑化した諸課題を解決するための基礎的な分析手法の修得を目的とし、エビデンスにもとづいて経営現象を論理的に分析・解明する能力の向上を図る。具体的には、会計・ファイナンスに関する基礎的理論やフレームワークを用いて、体系的に学修し、それらに即した財務分析手法を修得する。それを踏まえて、地域活性化の担い手となる地域企業、福祉や観光などの地域未来牽引企業、地域運営組織などを対象として、比較可能性の観点から財務分析を行っていく。",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "企業価値経営 第2版",
+            "publication_year": 2023,
+            "author": "伊藤 邦雄",
+            "publisher": "日経BP",
+            "price": 4840,
+            "isbn": "9784296117802",
+            "available_on_campus": false
+        }
+    ],
+    "references": [
+        {
+            "title": "企業価値評価 第7版［上］",
+            "publication_year": 2022,
+            "author": "マッキンゼー・アンド・カンパニー",
+            "publisher": "ダイヤモンド社",
+            "price": 4950,
+            "isbn": "9784478112878",
+            "available_on_campus": false
+        },
+        {
+            "title": "企業価値評価 第7版［下］",
+            "publication_year": 2022,
+            "author": "マッキンゼー・アンド・カンパニー",
+            "publisher": "ダイヤモンド社",
+            "price": 4950,
+            "isbn": "9784478112885",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、電卓",
+        "other": null
+    },
+    "grading_criteria": "①基礎的な財務分析手法について理解できている。\n②財務分析手法を用いて企業の現状と課題について具体的に述べることができる。\n③財務分析手法について列挙することができる。\n上記①～③に関する理解度を以下の割合により評価する。",
+    "evaluation_ratio": {
+        "exam": 50,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "【事前・事後学習について】\nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】月曜2限",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、地域企業分析における基本用語の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "企業価値評価のフレームワーク",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "財務諸表から読む企業活動、第1回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "戦略的ファンダメンタル分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "経営戦略分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "会計戦略分析、第2回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ケース・スタディー　建設機械業界のファンダメンタル分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "企業価値とバリュエーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "会計・財務数値と市場評価、第3回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "資本コストとリスク評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ケース・スタディー　ユナイテッドアローズの企業価値評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "EVAバリュエーション、第4回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "企業価値最大化のためのM&A戦略",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "無形資産の価値評価と戦略的活用、第5回小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "授業の総括、地域企業分析における今後の課題",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "梅田　勝利"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

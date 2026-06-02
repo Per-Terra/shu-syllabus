@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2025-04-04T06:04:59Z",
+    "fetched_at": "2026-06-02T11:58:54Z",
     "name_ja": "法律学Ⅱ",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2109200A",
     "course_number": "11-1-30-22-02",
     "departments": [
@@ -10,12 +10,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -223,5 +223,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

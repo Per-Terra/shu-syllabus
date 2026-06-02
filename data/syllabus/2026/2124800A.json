@@ -1,0 +1,220 @@
+{
+    "fetched_at": "2026-06-02T11:59:57Z",
+    "name_ja": "介護基礎理論Ⅰ",
+    "name_en": "Basic theory of nursing care　Ⅰ",
+    "syllabus_number": "2124800A",
+    "course_number": "23-1-24-21-01",
+    "departments": [
+        "人間健康科学部 福祉学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "小林　武生",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n①介護を通じて支援するうえで自らの役割を具体的に述べることができる。\n②利用者の尊厳を保持する方法やQOLが向上する方法を具体的に述べることができる。\n③介護保険制度や障害者総合支援制度を説明することができる。",
+    "overview": "本授業では、介護を必要とする利用者を支援する上で理解する必要のある基本的事項（①介護職の職務内容、②利用者の尊厳の保持と自立支援の考え方、③介護による支援の法的根拠）について学修する。\n　具体的な学修目標は以下の通りである。\n①介護職がどのような環境で、どのような形で、どのような仕事を行うのかについて理解する。\n②自立支援、介護予防という介護・福祉サービスを提供するにあたっての基本的視点について理解する。\n③介護職が支援をするうえで理解する必要のある法律を理解する。\n　この授業を通して学生が身に付ける力は以下のとおりである。\n①介護を通じて支援するうえで自らの役割を考察できる力\n②利用者の尊厳を保持する方法やQOL向上する方法を考察できる力\n③介護保険制度や障害者総合支援制度を理解できる力",
+    "diploma_policies": [
+        "福祉学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "［第4版］介護職員初任者研修テキスト　第1巻　介護のしごとの基礎",
+            "publication_year": 2023,
+            "author": "太田貞司、上原千寿子、白井孝子＝編集",
+            "publisher": "中央法規出版",
+            "price": 2860,
+            "isbn": "978-4-8058-8781-3",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": null
+    },
+    "grading_criteria": "①介護を通じて支援するうえで自らの役割\n②利用者の尊厳を保持する方法やQOL向上する方法\n③介護保険制度や障害者総合支援制度\n上記の①～③に関する理解度を以下の方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "介護を必要とする人に対する支援に関わる社会の状況、支援の理念、制度施策、方法と実際について学ぶ科目です。社会状況について興味関心をもって授業を受けてください。\n　授業に参加するにあたっては「授業の内容」を参照し、教科書の該当ページを通読しておくこと（予習2時間程度）、授業終了後には、授業で行った箇所の再読及び資料の再確認を行い、知識を定着させてください（復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション：授業の進め方\n「介護とは」援助者の視点",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "介護が含まれる多様なサービスの理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "介護職の仕事内容や働く現場の理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "介護保険制度①介護保険制度創設の背景及び目的、動向",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "介護保険制度②仕組みの基礎的理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "介護保険制度③制度を支える財源、組織、団体の機能と役割",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "人権と尊厳を支える介護①（人権と尊厳の保持、ICF、QOL、ノーマライゼーション）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "人権と尊厳を支える介護②（虐待防止・身体拘束の禁止、個人の人権を守る制度）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "自立に向けた介護①自立支援",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "自立に向けた介護②介護予防",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "介護を通じた自立とは\n小テスト",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "障害者福祉制度及びその他制度①障害福祉制度の理念",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "障害福祉制度及びその他制度②障害福祉制度のしくみの基礎的理解",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "障害福祉制度及びその他制度③個人の権利を守る制度の概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "自立支援における介護の位置づけ\n介護基礎理論Ⅰまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "小林　武生"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

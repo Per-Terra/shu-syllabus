@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:22Z",
+    "fetched_at": "2026-06-02T11:52:54Z",
     "name_ja": "陸上運動Ⅰ",
     "name_en": "Track and Field I",
     "syllabus_number": "1005410A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "西山　健太",
@@ -46,9 +46,9 @@
             "title": "中学校部活動における陸上競技指導の手引き",
             "publication_year": 2018,
             "author": "公益財団法人日本陸上競技連盟",
-            "publisher": "",
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -64,7 +64,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "なし"
     },
     "grading_criteria": "実技試験 60%、レポート 40%",
@@ -245,5 +245,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:42Z",
+    "fetched_at": "2026-06-02T11:59:49Z",
     "name_ja": "福祉的ターミナルケア",
     "name_en": "welfare terminal care",
     "syllabus_number": "2125400A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,7 +39,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます。参考図書は講義内で適宜案内します。"
     },
     "grading_criteria": "①ターミナルケアを実践する上での価値観・倫理観を説明できる\n②ターミナルケアにおける支援体制を説明できる\n③ターミナルケアにおける支援を説明できる\n上記の①～③の理解度を次の方法で評価する。",

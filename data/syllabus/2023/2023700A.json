@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:16:29Z",
+    "fetched_at": "2026-06-02T11:56:21Z",
     "name_ja": "学習心理学",
     "name_en": "Psychology of learning",
     "syllabus_number": "2023700A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -84,7 +84,7 @@
         "portfolio": 0,
         "other": 10
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",
@@ -241,5 +241,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

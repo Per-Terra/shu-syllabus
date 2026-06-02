@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:07:10Z",
+    "fetched_at": "2026-06-02T12:00:03Z",
     "name_ja": "地理歴史科教育法Ⅱ",
     "name_en": "Educational Method for Geography and History II",
     "syllabus_number": "7000900A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -65,7 +65,9 @@
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
+        "prerequisites": [
+            "なし"
+        ],
         "recommended": [
             "教育課程論",
             "教師論",
@@ -85,7 +87,7 @@
         "portfolio": 0,
         "other": 30
     },
-    "teacher_message": "子どもたちは、なぜ教科書の記述を暗記させられるのでしょうか。先生たちは、なぜ「板書と穴埋めワークシート」に頼ってしまうのでしょうか。その原因を原理的に突き詰めるとともに、そこから抜け出し、公民的資質を育成するための地理歴史科の授業を実践する方法を考えましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "子どもたちは、なぜ教科書の記述を暗記させられるのでしょうか。先生たちは、なぜ「板書と穴埋めワークシート」に頼ってしまうのでしょうか。その原因を原理的に突き詰めるとともに、そこから抜け出し、公民的資質を育成するための地理歴史科の授業を実践する方法を考えましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -254,5 +256,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

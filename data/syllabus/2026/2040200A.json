@@ -1,0 +1,235 @@
+{
+    "fetched_at": "2026-06-02T11:56:57Z",
+    "name_ja": "地域スポーツ経営論Ⅱ",
+    "name_en": "Theory of community sports management Ⅱ",
+    "syllabus_number": "2040200A",
+    "course_number": null,
+    "departments": [
+        "経済学部",
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清原　泰治",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "本講義は、日本スポーツ協会が認定する「アシスタントマネジャー」の資格取得を希望する学生を対象に授業を実施する。アシスタントマネジャーとは、総合型地域スポーツクラブなどにおいてメンバーが充実したクラブライフを送ることができるよう、クラブマネジャーを補佐し、運営のための諸活動をサポートするための資格である。本講義では、日本スポーツ協会がしているテキストに沿って授業を実施し、クラブ運営の基礎を学ぶことをテーマとする。\n\n【到達目標】\n1．テキストに記載されている内容を理解し、説明することができる。\n2．総合型地域スポーツクラブの実態とその課題について説明できる。\n3．クラブマネジャーとして、総合型地域スポーツクラブ経営の担い手になるために何が必要か説明することができる。",
+    "overview": "前半は総合型地域スポーツクラブのクラブの作り方や運営方法について、日本スポーツ協会のテキストに沿って講義する。\n　後半は、事例クラブの紹介を行う。さらに、まちづくり×地域スポーツの視点で総合型地域スポーツクラブの事例を探して情報共有する。\n　授業は講義形式で行う。",
+    "diploma_policies": [
+        "スポーツマネジメントコースDP1",
+        "スポーツマネジメントコースDP2",
+        "スポーツマネジメントコースDP3",
+        "スポーツマネジメントコースDP4"
+    ],
+    "textbooks": [
+        {
+            "title": "公認アシスタントマネジャー養成テキスト",
+            "publication_year": 2006,
+            "author": "間野義之他",
+            "publisher": "公益財団法人日本スポーツ協会",
+            "price": 2420,
+            "isbn": null,
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "筆記用具及び電子機器",
+        "other": "適宜案内する。"
+    },
+    "grading_criteria": "【到達目標】で示している点について、⑪に示す方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "予習として、テキストをあらかじめ読んでおくことを必須とする。（1時間）\n復習として、「記録用紙」に毎回の講義内容を記録する。（1時間）\n授業中に関連する文献やURLを紹介した場合は、学んだことについて「記録用紙」に記入する。（2時間）\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "クラブの作り方、クラブの運営─クラブの創設",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "クラブの作り方、クラブの運営─自主運営に必要な条件",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "クラブの作り方、クラブの運営─顧客とスタッフの定義",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "クラブの作り方、クラブの運営─NPO法人格の取得方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "クラブの作り方、クラブの運営─活動拠点の確保",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "クラブの作り方、クラブの運営─財源の確保",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "クラブの作り方、クラブの運営─事業計画書の作成と評価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "事例クラブ紹介─NPO法人ソシオ成岩スポーツクラブ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "事例クラブ紹介─NPO法人SCC",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "事例クラブ紹介─NPO法人スマイルクラブ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "事例クラブ紹介─筆の里スポーツクラブ（NPO法人熊野健康スポーツ振興会）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "NOTE“クラブハウスの確保”",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "高知県のキラリと光る総合型地域スポーツクラブ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清原　泰治"
+            ]
+        },
+        {
+            "number": "期末試験",
+            "content": "2月4日　9:00〜10:00   523教室",
+            "teaching_methods": [],
+            "teachers": [
+                "清原泰治"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "なし"
+}

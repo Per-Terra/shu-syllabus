@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:57:51Z",
+    "name_ja": "最適化モデリング",
+    "name_en": "Optimization Modeling",
+    "syllabus_number": "2104600A",
+    "course_number": "31-2-24-32-02",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "矢島　安敏",
+            "is_primary": false
+        }
+    ],
+    "term": "第２クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "オンライン"
+    ],
+    "objectives": "「最適化モデリング」を実際の例を使いながら理解し、プログラミングの演習を通じ実際に活用できる技術を学びます。 \n到達目標は以下の通りです。\n1.\t最適化モデリング技術の習得\n2.\tPythonプログラミングによるソルバーの利用\n3.\tソルバー内部の最適化処理アルゴリズムの概要の理解",
+    "overview": "皆さんは、どこか知らない場所に行くときなどに地図アプリの経路探索を使ったことがありますか。アプリの中には、様々な経路の中からもっとも「良い」経路を計算するソフトウエアが組み込まれており、距離の短い、あるいは費用の安い、乗り換え回数の少ないなど「良さ」の基準に応じた「最適な」答えを計算しています。このような「最適な」決定を導き出すソフトウエアを開発するためには、「最適化モデリング」と呼ばれる考え方が必要です。最適化モデリングは、製造や物流をはじめ、マーケティングやスポーツなど幅広い分野で活用されている考え方です。この講義では、「最適化モデリング」を実際の例を使いながら理解し、プログラミングの演習を通じ実際に活用できる技術を学びます。 \n毎回の授業ではPCを用いた演習を行います。そのため、毎回の講義ではPCが必要となります。また、レポート課題に取り組むためにもPCが必要となります。試験（課題）と毎回の小テストの提出状況と内容の出来を成績評価とします。",
+    "diploma_policies": [
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Pythonではじめる数理最適化（第2版）",
+            "publication_year": 2024,
+            "author": "岩永 二郎、石原 響太、西村 直樹、田中 一樹",
+            "publisher": "オーム社",
+            "price": 3300,
+            "isbn": "978-4-274-23175-9",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "Python入門",
+            "Python応用"
+        ],
+        "recommended": [],
+        "required_materials": "パソコン",
+        "other": "講義の際には資料を提供する"
+    },
+    "grading_criteria": "「最適化モデリング技術の習得」、「Pythonプログラミングによるソルバーの利用技術」に関する習得度を以下の割合で評価する。\n・授業の際に出される小テストの評価（70％）\n・試験（課題）の点数（30％）",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 70,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "毎回の講義後には、予習と復習を兼ねたレポート課題（およそ1時間程度）に各自で取組に取組む必要があります。課題を行うためには、講義で配布した資料を参考にしてPCやインターネットを使う必要があります。\n講義の最終回には、各自の身の回りの課題を発見し最適化モデリングを使い解決する演習を行います。講義で紹介する事例を参考に、身の回りの課題をモデリングで解決してみましょう。\nなお、Python入門とPython応用の両方の科目の単位を取得済みであることが必要です。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "オリエンテーション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "モデル化とは",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "最適化ソルバーの基本と操作方法",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "ダイエット問題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "最短路問題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "割当問題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "輸送問題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "施設配置問題",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "巡回路問題①",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "巡回路問題②",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "最適化アルゴリズムの概要",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "グループ演習①（課題設定）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "グループ演習②（モデル化）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "グループ演習③（まとめ資料作成）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "グループ演習③（まとめ資料作成）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "矢島　安敏"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かして具体的な事例を紹介しながら最適化モデリング技術を身に着けてさせる。"
+}

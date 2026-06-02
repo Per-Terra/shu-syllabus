@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:07:12Z",
+    "fetched_at": "2026-06-02T12:00:05Z",
     "name_ja": "公民科教育法Ⅱ",
     "name_en": "Educational Method for Civics II",
     "syllabus_number": "7001100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "教職科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
     ],
     "references": [
         {
-            "title": "高等学校公民科とっておき授業LIVE集",
+            "title": "とっておき授業LIVE集－高等学校公民科－",
             "publication_year": 2013,
             "author": "全国公民科・社会科教育研究会授業研究委員会 編",
             "publisher": "清水書院",
@@ -74,7 +74,9 @@
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
+        "prerequisites": [
+            "なし"
+        ],
         "recommended": [
             "教育課程論",
             "教師論",
@@ -94,7 +96,7 @@
         "portfolio": 0,
         "other": 50
     },
-    "teacher_message": "「公民的資質」を育てる公民科の授業を実践するためには、教師自身が「公民的資質」を理解し、実践する主体でなければなりません。みなさんの学生生活を通した経験もふまえて、どうすれば「公民的資質」を育成する授業が実践できるのか、そのために学生のうちに何をすべきなのか、一緒に考えていきましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "「公民的資質」を育てる公民科の授業を実践するためには、教師自身が「公民的資質」を理解し、実践する主体でなければなりません。みなさんの学生生活を通した経験もふまえて、どうすれば「公民的資質」を育成する授業が実践できるのか、そのために学生のうちに何をすべきなのか、一緒に考えていきましょう。\n\n【予習・復習について】\n・授業中に指示する次回までの学習課題を中心に予習に取り組むこと。\n・配布資料や指定教科書、および参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
     "schedule": [
         {
             "number": "1",
@@ -263,5 +265,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

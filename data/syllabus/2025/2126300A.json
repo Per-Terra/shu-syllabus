@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:06:53Z",
+    "fetched_at": "2026-06-02T11:59:55Z",
     "name_ja": "地域企業分析",
     "name_en": "Analysis for local business",
     "syllabus_number": "2126300A",
@@ -8,12 +8,12 @@
         "人間健康科学部 福祉学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -69,7 +69,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書、電卓",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①基礎的な財務分析手法について理解できている。\n②財務分析手法を用いて企業の現状と課題について具体的に述べることができる。\n③財務分析手法について列挙することができる。\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
@@ -234,5 +234,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

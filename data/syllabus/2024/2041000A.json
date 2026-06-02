@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:04:47Z",
+    "fetched_at": "2026-06-02T11:57:54Z",
     "name_ja": "福祉職協働演習",
     "name_en": "Social Welfare Collaboration Practicum",
     "syllabus_number": "2041000A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小林　武生",
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

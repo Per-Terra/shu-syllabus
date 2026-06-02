@@ -1,0 +1,227 @@
+{
+    "fetched_at": "2026-06-02T11:57:43Z",
+    "name_ja": "情報エンジニアリング概論",
+    "name_en": "Introduction to Information Engineering",
+    "syllabus_number": "2103400A",
+    "course_number": "31-1-23-34-01",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "野村　典文",
+            "is_primary": false
+        }
+    ],
+    "term": "第４クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "エンタープライズレベルの情報システムを、どのようにビジネスに組み込むかをビジネスアーキテクチャレベルで理解できるようにする。",
+    "overview": "情報エンジニアリング概論は、現在の情報システム（エンタープライズシステム、組み込みシステム、Webシステム等）を、実際に企業ではどのように構築していくのかを体系的に学ぶ学問と位置付ける。\nしたがって、日本で最も企業数が多い製造ビジネスドメインを題材に取り、ビジネスドメインでの情報システムの構造（システムアーキテクチャ）を学習し、システムアーキテクチャのモデリング技術を演習により習得する。\nまた、近年、情報システムの主流となりつつあるクラウド技術、分散システム、コンテナ技術を学習し、システム構造（システムアーキテクチャ）全体に、どのように組み込んで行くかをモデリング実習で学んでいく。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "情報工学　情報システム",
+            "publication_year": 2016,
+            "author": "萩谷 昌己　編集：東京大学工学教程編纂委員会",
+            "publisher": "丸善出版",
+            "price": 2530,
+            "isbn": "ISBN-10　4621301128",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、教科書、ノート、筆記具",
+        "other": null
+    },
+    "grading_criteria": "情報システム概論に関する学生の理解度を以下で評価する。\n100点満点：試験40点、課題レポート10点、演習50点",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 10,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "現在の情報システム（エンタープライズシステム、組み込みシステム、Webシステム等）を、実際に企業ではどのように構築していくのかを体系的に学んでいきます。その他の情報科学科目を学ぶ上で、実際に社会では情報システムがどのように組み立てられているのかを知ることは大変有意義だと考えています。授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書該当ページを通読しておくこと(予習・30分程度)、授業終了後には、授業で行った箇所の再読及び提供資料（PPT等）の重要箇所の再確認を行い、知識を定着させてください(復習・30分程度)。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "イントロダクション\n・情報エンジニアリングプログラムについて\n・講義カリキュラム\n・ビジネスに活用される情報システムと最新IT技術",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "情報システムの基礎\n・アプリケーション、データ、インフラストラクチャ、ネットワークの構造",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "システムインテグレーション概要\n  ・システムインテグレーションのプロセス\n  ・各プロセスごとの役割と機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "ビジネスアーキテクチャ\n・システム戦略からシステム企画",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ステークホルダ価値分析\n・システムに要求される機能についてステークホルダ価値を起点に分析する",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "エンタープライズアーキテクチャⅠ\n・ソフトウエア開発の要件定義（ユースケース設計)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "エンタープライズアーキテクチャⅡ\n・ソフトウェア開発の設計Ⅰ（クラス設計)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "エンタープライズアーキテクチャⅢ\n・ソフトウェア開発の設計Ⅱ（処理フロー設計)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "エンタープライズアーキテクチャⅣ\n・ソフトウェア開発の設計Ⅲ（テスト設計)",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "エンタープライズアーキテクチャⅣ\n・ソフトウェア開発の構築・運用（運用設計とプロジェクト管理)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "クラウドコンピューティング\n・クラウド構造と機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "製造ビジネスドメインの情報システムアーキテクチャ設計\n(半導体と計算機)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "製造ビジネスドメインの情報システムアーキテクチャ設計\n(半導体と計算機)",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "製造ビジネスドメインの情報システムアーキテクチャ設計\n(半導体と計算機)\nレポート有",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "今までの振り返りと重要事項のまとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "野村　典文"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "野村　典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
+}

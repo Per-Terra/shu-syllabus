@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T11:55:49Z",
+    "name_ja": "データベース応用",
+    "name_en": "Applied Database",
+    "syllabus_number": "2022710A",
+    "course_number": null,
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": "情報科学部",
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "田中　輝明",
+            "is_primary": false
+        }
+    ],
+    "term": "第１クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "データベースを実際に活用するために必要となる技術を学び、以下のスキルと知識を習得する。\n１．\tデータベースから必要なデータを複雑なSQL文を用いて取得することができる\n２．\tアプリケーションプログラムからデータベースを操作することができる\n３．\tデータベースを用いたシステム開発の基礎を理解する",
+    "overview": "ビュー、サブクエリ、関数、集合演算、高度な集計処理の技法を習得するとともに、プログラムを用いたデータベース接続やデータ操作への理解を深めます。これにより、企業や研究分野での実践的な活用に必要なスキルと知識を身につけます。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "SQL第2版 ゼロからはじめるデータベース操作",
+            "publication_year": 2016,
+            "author": "ミック",
+            "publisher": "翔泳社",
+            "price": 2068,
+            "isbn": "9784798144450",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "リレーショナルデータベース入門 [第3版]",
+            "publication_year": null,
+            "author": "増永良文",
+            "publisher": "サイエンス社",
+            "price": 3520,
+            "isbn": "978-4-7819-1390-2",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "データベース"
+        ],
+        "recommended": [],
+        "required_materials": "ノートパソコン、教科書",
+        "other": "この授業は演習を含みます。"
+    },
+    "grading_criteria": "データベースの応用的な活用方法に関する理解度を以下の方法で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "現代社会において、膨大なデータを効率的に管理・活用することは不可欠です。企業の業務システム、研究データの管理、Webサービスの運営など、あらゆる分野でデータベースは重要な役割を担っています。本授業でデータベース操作の実践的なスキルを習得し、即戦力として活躍できる人材へと成長することを期待しています。\n（なお、本授業は先修条件科目「データベース」の後半の位置づけです）\n予習：授業計画に記載している実施内容を参考に、教科書の該当箇所に目を通しておく(予習・30分程度)\n復習：授業内で未完了の作業は完了させ授業内容の再確認をして知識を定着させる(復習・30分程度)\n\n※先修条件の科目を履修することを推奨します。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "ビュー・サブクエリについて",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "データベース操作（ビュー・サブクエリ）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "関数について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "データベース操作（関数）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "述語・CASE式について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "データベース操作（述語・CASE式）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "集合演算について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "データベース操作（集合演算）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "高度な集計処理について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "データベース操作（高度な集計処理）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "アプリケーションからデータベースへの接続について",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "データベース操作（プログラム作成）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "データベース操作（プログラムからのデータ操作）（実習）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめと振り返り",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "田中　輝明"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": "企業でのデータベース構築・運用の実務経験を持つ教員が、その知識を活かし、データベースシステムの使用方法に関する実践的な知識を学生に習得させる。"
+}

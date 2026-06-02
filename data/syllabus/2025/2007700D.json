@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T05:59:24Z",
+    "fetched_at": "2026-06-02T11:55:31Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700D",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "クラス分け",
     "teachers": [
         {
@@ -44,7 +44,7 @@
         ],
         "recommended": [],
         "required_materials": "筆記用具、パソコンまたはタブレット",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "到達目標で示したように、卒業論文完成へのプロセスと卒業論文の内容を評価する。進捗状況の発表が20％、その他（卒業論文の内容を含む）が80％のウェイトとする。",
     "evaluation_ratio": {
@@ -359,5 +359,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

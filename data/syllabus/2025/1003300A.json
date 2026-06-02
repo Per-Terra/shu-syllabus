@@ -1,23 +1,23 @@
 {
-    "fetched_at": "2025-04-04T05:55:16Z",
+    "fetched_at": "2026-06-02T11:52:47Z",
     "name_ja": "発達心理学",
     "name_en": "Developmental Psychology",
     "syllabus_number": "1003300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
-            "name": "李　受珉",
+            "name": "李受珉",
             "is_primary": false
         }
     ],
@@ -66,7 +66,7 @@
         "recommended": [
             "なし"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。※上記の他にも、講義の中で適宜紹介します。"
     },
     "grading_criteria": "到達目標に記載されている内容について「学生に対する評価」で評価する。",
@@ -232,5 +232,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,244 @@
+{
+    "fetched_at": "2026-06-02T12:00:12Z",
+    "name_ja": "教師論",
+    "name_en": "Teaching profession",
+    "syllabus_number": "7000100A",
+    "course_number": "11-1-92-21-01、21-1-92-21-01、31-1-92-21-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科",
+        "人間健康科学部 スポーツ健康科学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "教職科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "オムニバス",
+    "teachers": [
+        {
+            "name": "大坂　遊",
+            "is_primary": true
+        },
+        {
+            "name": "川本　吉太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "教職課程の導入科目として、「教職の意義等の知識獲得」「教員の基本的資質の理解」「教職に就く覚悟の形成」の3つを学ぶ。\n\n【到達目標】\n(1)教職の意義等について基本的知識を獲得できた\n(2)教員の基本的資質として何が必要か理解できた\n(3)教職に就くための覚悟ができた",
+    "overview": "教師論は「教師とは何か」がテーマの教職入門的な科目であり、教職の意義についての基本的理解と教師に必要な基本的資質の理解を目的とする。そのため、教師の仕事の内容（職務や服務）を整理し、教師に求められる資質能力（とりわけ今後必要となる力量など）を多面的に学ぶ。また、教員採用の実態を明らかにし、教師の待遇や研修など、学校制度と管理運営の概要を学ぶ。講義を通して、教員としての基本的な資質を実践的に養うとともに、教職に就くための覚悟を形成する。",
+    "diploma_policies": [],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "新教師論－学校の現代的課題に挑む教師力とは何か－",
+            "publication_year": 2014,
+            "author": "小柳和喜雄、久田敏彦、湯浅恭正　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2640,
+            "isbn": "9784623067305",
+            "available_on_campus": false
+        },
+        {
+            "title": "これからの学校教育と教師－「失敗」から学ぶ教師論入門－",
+            "publication_year": 2014,
+            "author": "佐々木司、三山緑　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 2420,
+            "isbn": "9784623070350",
+            "available_on_campus": false
+        },
+        {
+            "title": "教職概論－「包容的で質の高い教育」のために－",
+            "publication_year": 2019,
+            "author": "岩本泰、小玉敏也、降旗信一　編著",
+            "publisher": "学文社",
+            "price": 2200,
+            "isbn": "9784762029158",
+            "available_on_campus": false
+        },
+        {
+            "title": "現場で使える教育社会学－教職のための「教育格差」入門－",
+            "publication_year": 2021,
+            "author": "中村高康、松岡亮二　編著",
+            "publisher": "ミネルヴァ書房",
+            "price": 3080,
+            "isbn": "9784623092604",
+            "available_on_campus": false
+        },
+        {
+            "title": "専門職として成長し続ける教師になるために－教職詳説－",
+            "publication_year": 2023,
+            "author": "山﨑準二、紅林伸幸　編著",
+            "publisher": "人言洞",
+            "price": 2420,
+            "isbn": "978-4-910917-10-8",
+            "available_on_campus": false
+        },
+        {
+            "title": "教職概論　改訂第2版",
+            "publication_year": 2024,
+            "author": "佐久間裕之　編著",
+            "publisher": "玉川大学出版部",
+            "price": 2750,
+            "isbn": "9784472406331",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "ノートパソコン、筆記用具",
+        "other": "特定の教科書は指定せず、資料などを配布する。"
+    },
+    "grading_criteria": "本講義の主要テーマである「教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」について，以下の「学生に対する評価」の基づいて評価を行う。\n（課題レポート70%，その他30%）\n※「その他」は、授業中のディスカッション等への参加態度や振り返り課題の記入状況によって評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
+    },
+    "teacher_message": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。\n\n【オフィスアワー、連絡方法等】\n・オフィスアワー：金曜10:30-12:00（大坂）\n・上記の時間以外は、C-learningやTeamsのチャットで連絡をすること。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "オリエンテーション\n教職の意義等についての導入",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "2",
+            "content": "よい教師とは（１）\nＫＪ法によるグループ討議と作業",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "3",
+            "content": "よい教師とは（２）\nグループ別発表とコメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "4",
+            "content": "教師の資質能力（１）\nこれまでの教師",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "5",
+            "content": "教師の資質能力（２）\n教師のいま\nＫＪ法によるグループ討議と作業",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "6",
+            "content": "教師の資質能力（３）\n学ぶことと教えること\nグループ別発表とコメント",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "7",
+            "content": "教師の仕事（１）\n学習指導",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "8",
+            "content": "教師の仕事（２）\n生徒指導・教育相談・進路指導",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "9",
+            "content": "教師の仕事（３）\n学級経営",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "10",
+            "content": "教師の養成と制度（１）\n教師養成の歴史、教員と免許法、専門職としての教師",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "11",
+            "content": "教師の養成と制度（２）\n教師の職務・研修",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "12",
+            "content": "教師の養成と制度（３）\n教師の任用・身分・服務",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "13",
+            "content": "２１世紀の教師（１）\n国際化、ジェンダー・フリー、リカレント教育",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "14",
+            "content": "２１世紀の教師（２）\n奉仕活動、教師の心構え、チーム学校",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        },
+        {
+            "number": "15",
+            "content": "全体の振り返りとまとめ\n講義全体のポイントを確認する",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

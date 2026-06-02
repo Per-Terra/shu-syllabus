@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T05:59:54Z",
+    "fetched_at": "2026-06-02T11:55:52Z",
     "name_ja": "映像制作演習Ⅰ",
     "name_en": "Film Production I",
     "syllabus_number": "2009200A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -52,7 +52,7 @@
             "映像編集技法Ⅰ"
         ],
         "required_materials": "スマホを使っている人はその動画機能を使用します。（持っていない人も大丈夫です）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "映像言語の理解と表現、共同作業への協調性や献身さを評価します。\n※その他（60％）は出席回数や授業での発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {

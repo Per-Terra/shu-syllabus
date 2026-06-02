@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:02:58Z",
+    "fetched_at": "2026-06-02T11:57:12Z",
     "name_ja": "コンディショニング実習",
     "name_en": "Conditioning Practice",
     "syllabus_number": "2032100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "小野　高志",
@@ -48,7 +48,7 @@
             "author": "日本語版総監修　篠田邦彦",
             "publisher": "ブックハウスHD",
             "price": 13200,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -57,7 +57,7 @@
             "author": "NPO法人日本トレーニング指導者協会",
             "publisher": "大修館書店",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -66,7 +66,7 @@
             "author": "NPO法人日本トレーニング指導者協会",
             "publisher": "大修館書店",
             "price": 3080,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         },
         {
@@ -75,7 +75,7 @@
             "author": "公益財団法人 日本スポーツ協会",
             "publisher": "文光堂",
             "price": 4400,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],

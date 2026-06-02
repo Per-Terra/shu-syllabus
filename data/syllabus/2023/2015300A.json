@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:13:55Z",
+    "fetched_at": "2026-06-02T11:55:41Z",
     "name_ja": "社会調査の基礎",
     "name_en": "Basics of Social Research",
     "syllabus_number": "2015300A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -53,7 +53,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノートPC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "1.根拠に基づくソーシャルワークを行うために、社会調査の理念と方法を理解できる\n2.社会調査の計画・実施・結果報告を行うことができる\n\n以上2点について、下記「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {
@@ -221,5 +221,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

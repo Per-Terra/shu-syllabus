@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:52:57Z",
+    "fetched_at": "2026-06-02T11:53:09Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000K",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "中嶋　克成",
@@ -42,7 +42,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "事前にこちらのリンクから動画を見ておいてください。https://youtube.com/playlist?list=PLAN0wyvsOhV8O3uDS0E6Bh3-bVsTyC43Y&si=vF9f-FZKTsgcEOFy"
     },
     "grading_criteria": "ⅰ）地域企業の独自性や優位性などを説明することができる\nⅱ）地域企業の経営戦略や雇用方針について説明することができる\nⅲ）県内・市内の就労促進・定住促進に寄与することができる(この課題について考えることができる)",
@@ -108,5 +108,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

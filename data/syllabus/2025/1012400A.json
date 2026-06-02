@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T05:55:55Z",
+    "fetched_at": "2026-06-02T11:53:12Z",
     "name_ja": "ワークショップデザインⅠ",
     "name_en": "Workshop Design 1",
     "syllabus_number": "1012400A",
@@ -13,12 +13,12 @@
         "情報科学部"
     ],
     "category": "総合科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -59,17 +59,19 @@
     "textbooks": [],
     "references": [
         {
-            "title": "ワークショップデザイン論",
+            "title": "ワークショップデザイン論　第2版－創ることで学ぶ－",
             "publication_year": 2021,
             "author": "山内祐平、森玲奈、安斎勇樹",
             "publisher": "慶應義塾大学出版会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
     "enrollment_info": {
-        "prerequisites": [],
+        "prerequisites": [
+            "なし"
+        ],
         "recommended": [
             "システム思考・デザイン思考",
             "教養ゼミ"
@@ -288,5 +290,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": "なし"
 }

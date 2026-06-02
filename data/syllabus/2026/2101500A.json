@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T11:57:29Z",
+    "name_ja": "Webアプリケーション開発",
+    "name_en": "Web Applications Development",
+    "syllabus_number": "2101500A",
+    "course_number": "26-2-47-33-04、31-2-21-33-05",
+    "departments": [
+        "経済経営学部 経済経営学科",
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "児玉　満",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "ﾊｲﾌﾚｯｸｽ"
+    ],
+    "objectives": "（ⅰ）Webアプリケーションの特徴を理解できるようになる\n（ⅱ）実践的なプログラミングを理解でき、プログラミング的思考ができるようになる。\n（ⅲ）様々なフレームワークを用いて、実際にWebアプリケーションを作成できるようになる",
+    "overview": "Webアプリケーションは、インターネットを介してサーバーからクライアントに対し、さまざまなサービスを提供するためのサイトを構築する技術であり、Society 5.0を見据えたこの情報化社会において重要な技術である。\n本科目では、まずサーバーサイドで動作するスクリプト言語を用いて、簡単なWebアプリケーションを作成し、その後データベースとの連携を行うことで本格的なWebアプリケーションの開発手法を身に付ける。",
+    "diploma_policies": [
+        "情報科学科DP2",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "Webを支える技術",
+            "publication_year": 2010,
+            "author": "山本陽平",
+            "publisher": "技術評論社",
+            "price": 2827,
+            "isbn": "978-4-7741-4204-3",
+            "available_on_campus": false
+        },
+        {
+            "title": "改訂新版 Webエンジニアの教科書",
+            "publication_year": 2015,
+            "author": "佐々木達也、瀬川雄介、内藤賢",
+            "publisher": "シーアンドアール研究所",
+            "price": 1930,
+            "isbn": "978-4-8635-4168-9",
+            "available_on_campus": false
+        },
+        {
+            "title": "プログレッシブウェブアプリ PWA開発入門",
+            "publication_year": 2018,
+            "author": "柴田文彦",
+            "publisher": "インプレスR&D",
+            "price": 2530,
+            "isbn": "978-4-8443-9819-6",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
+        "other": null
+    },
+    "grading_criteria": "（ⅰ）Webアプリの特徴　（ⅱ）実践的なプログラミング　（ⅲ）Webアプリの作成\n上記（ⅰ）～（ⅲ）に関する理解度を課題50％、レポート25％、小テスト25％で評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 25,
+        "report": 25,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 20
+    },
+    "teacher_message": "Webアプリケーションは近年では必須の技術であり、様々なところで利用されている。これらを開発できる技術を身に付けることは、様々な場面で役に立ちます。\n授業を受けるにあたり、あらかじめ与えられた資料に目を通しておくこと（予習・30分程度）、授業後には授業で学んだことを確認し、課題にとりくんでください（復習30分程度）。また、「Python入門」及び「Javaプログラミング」を履修していることが望ましい。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス‐Webアプリケーションとは",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "開発環境の構築‐Webサーバーを作る",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "HTMLとCSS",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "フレームワークとは",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "JavaScript",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "Webアプリケーションの基本的な動き",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "OSI参照モデル",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "プロキシサーバー",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "SSL（TLS）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "認証技術",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "セキュリティ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "Cookie",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "Webアプリケーションの作成①",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "Webアプリケーションの作成②",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "児玉　満"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

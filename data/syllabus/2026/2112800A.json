@@ -1,0 +1,213 @@
+{
+    "fetched_at": "2026-06-02T11:58:44Z",
+    "name_ja": "スポーツ産業学実習",
+    "name_en": "Sport Industry Science Practice",
+    "syllabus_number": "2112800A",
+    "course_number": "21-3-26-22-09",
+    "departments": [
+        "人間健康科学部 スポーツ健康科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "中嶋　健",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 1,
+    "teaching_methods": [
+        "実験・実習・実技"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "1.地域 のスポーツ用品小売店の課題について理解できる。\n2.地域 のスポーツ用品小売店の課題解決方法について提言できる。",
+    "overview": "本実習では、スポーツ産業学演習で修めた日本スポーツ用品産業界の歴史、全国的現状と課題に基づいて、地域におけるスポーツ用品産業の実態と課題及びその解決方法を明確にするための研究資料収集及び調査研究を行う。本実習では、まず 地域 のスポーツ用品小売店への聞き取り調査を行い、各店舗における現状と課題を調査する。これらの結果に基づいて、その解決策を導き出すために必要なアイデアをスポーツ用品製造業及び流通業に関する研究・統計調査資料を収集・検討することを通じて提言することを目的とする。",
+    "diploma_policies": [
+        "スポーツ健康科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "スポーツ産業学演習"
+        ],
+        "recommended": [],
+        "required_materials": "特になし",
+        "other": "特になし"
+    },
+    "grading_criteria": "課題70％、 プレゼンテーション30％",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "本演習は 地域 のスポーツ用品小売業に限定したものであるが、地域課題の解決方策は、いずれは全国的あるいは世界的なモデルとなる可能性があり、多様な広がりと可能性を有するという認識をもって実習に取り組んでもらいたい。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "実習計画について",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "地域のスポーツ用品小売店情報の収集",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "聞き取り調査の内容の検討",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "各グループによる小売店舗聞き取り調査実習",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "各グループによる小売店舗聞き取り調査",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "各グループによる小売店舗聞き取り調査",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "各グループによる小売店舗聞き取り調査",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "各グループによる小売店舗聞き取り調査",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "各グループによる小売店舗聞き取り調査のまとめと報告1",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "各グループによる小売店舗聞き取り調査のまとめと報告2",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "各グループによる小売店舗聞き取り調査のまとめと報告3",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "課題解決策創造のための資料収集及び検討1",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "課題解決策創造のための資料収集及び検討2",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "地域におけるスポーツ用品小売店の現状と課題及びその解決策に関する報告会1",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "地域におけるスポーツ用品小売店の現状と課題及びその解決策に関する報告会2",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "中嶋　健"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-04T06:02:08Z",
+    "fetched_at": "2026-06-02T11:57:12Z",
     "name_ja": "3D表現手法Ⅰ",
     "name_en": "3D expression method",
     "syllabus_number": "2030100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -46,7 +46,7 @@
         ],
         "recommended": [],
         "required_materials": "USBフラッシュメモリ（データ保存用）",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①制作工程の理解②立体構成力③３DCGモデル制作課題",
     "evaluation_ratio": {
@@ -57,7 +57,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "",
+    "teacher_message": null,
     "schedule": [
         {
             "number": "1",

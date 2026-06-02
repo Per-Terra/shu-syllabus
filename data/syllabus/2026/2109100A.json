@@ -1,0 +1,236 @@
+{
+    "fetched_at": "2026-06-02T11:58:20Z",
+    "name_ja": "法律学Ⅰ",
+    "name_en": "Law 1",
+    "syllabus_number": "2109100A",
+    "course_number": "11-1-30-22-01",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "教職科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "前期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、憲法・民法・刑法・行政法の初歩的な知識を習得することを目的としています。\n　日本は法治国家であり、何をするにもルール（法律）に従わなければならず、それを破るとペナルティが課されます。その初歩的な考え方や知識を学習しましょう。\n　法律学Iの学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１． 法律学Ⅰの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "本講義では、法学の基礎について簡単に説明した上で、主に公的分野においてどのように法律が適用されているかを見ていく。犯罪が起こった、容疑者が逮捕された、有罪になったというニュースをよく見るが、犯罪とはなにか、裁判とは何か、有罪ってなんなのか、ということを本講義では説明する。また、就職後に重要となる労働法についても扱う。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "嫌いにならない法学入門第3版",
+            "publication_year": 2025,
+            "author": "村中洋介他",
+            "publisher": "信山社",
+            "price": 2750,
+            "isbn": "978-4-7972-8632-8",
+            "available_on_campus": true
+        }
+    ],
+    "references": [
+        {
+            "title": "デイリー六法令和8年版",
+            "publication_year": 2025,
+            "author": "長谷部由紀子他",
+            "publisher": "三省堂",
+            "price": 2530,
+            "isbn": "978-4-385-15882-2",
+            "available_on_campus": true
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。上記参考図書以外の六法でも構いません。",
+        "other": "※2023（令和5）年度入学生までにおける「法律学概論Ⅰ」の読替科目です。"
+    },
+    "grading_criteria": "１．解説した法律学Ⅰの基本的な知識を理解できているか否か。\n２．上記を答案等に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 40,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】法学の基礎【内容】法の性質等【範囲】教科書P3～P14",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "【テーマ】憲法（統治）【内容】三権分立等【範囲】教科書P15～P29",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "【テーマ】憲法（人権1）【内容】人権の種類等【範囲】教科書P31～P48",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "【テーマ】憲法（人権2）【内容】経済的自由権等【範囲】教科書P49～P60",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "【テーマ】民法（総則）【内容】民法の体系等【範囲】教科書P67～P84",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "【テーマ】民法（物権法・債権法）【内容】物権とは／債権とは等【範囲】教科書P85～P102",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "【テーマ】民法（家族法）【内容】離婚の成立等【範囲】教科書P103～P112",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "中間テストおよび解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "【テーマ】刑法【内容】犯罪と刑罰等【範囲】教科書P113～P129",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】民事裁判制度【内容】民事手続の流れ等【範囲】教科書P131～P144",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】刑事訴訟法【内容】刑事手続の流れ等【範囲】教科書P145～159",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "【テーマ】行政法（総論）【内容】行政組織等【範囲】教科書P161～P174",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "【テーマ】行政法（救済法）【内容】国家補償等【範囲】教科書P175～P195",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "【テーマ】レポートの書き方【内容】レポートの構成等を学習した後に、実際に書いてみる【範囲】教科書P197～P213",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "レポートの講評",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

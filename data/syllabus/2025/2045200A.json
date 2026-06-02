@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:03:48Z",
+    "fetched_at": "2026-06-02T11:58:12Z",
     "name_ja": "社会保障論Ⅰ",
     "name_en": "Social Security Theory Ⅰ",
     "syllabus_number": "2045200A",
@@ -8,12 +8,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "オムニバス",
     "teachers": [
         {
@@ -218,5 +218,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

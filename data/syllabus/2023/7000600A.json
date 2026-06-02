@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:23:11Z",
+    "fetched_at": "2026-06-02T11:58:04Z",
     "name_ja": "社会科教育法Ⅰ",
     "name_en": "Methods of Instruction for Secondary Social Studies I",
     "syllabus_number": "7000600A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -83,7 +83,7 @@
             "教育課程論"
         ],
         "required_materials": "ノートパソコン、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①社会科教育に関する理論、②社会系教科の授業やカリキュラムの分析と評価、③社会科授業プランやカリキュラムの構想、の3点について、授業中に課す課題レポート、コメントペーパーへの記入、プレゼンテーションなどを通して評価する。「その他」は、学習指導案の作成によって評価する。",
     "evaluation_ratio": {
@@ -263,5 +263,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

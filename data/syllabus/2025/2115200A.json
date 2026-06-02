@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:05:32Z",
+    "fetched_at": "2026-06-02T11:59:13Z",
     "name_ja": "微生物・感染制御学",
     "name_en": "Microbiology and Infection Control",
     "syllabus_number": "2115200A",
@@ -8,20 +8,20 @@
         "人間健康科学部 看護学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
-            "name": "原田　昌範",
+            "name": "長谷川　明洋",
             "is_primary": true
         },
         {
-            "name": "大平　光子",
+            "name": "原田　昌範",
             "is_primary": false
         }
     ],
@@ -42,10 +42,10 @@
         {
             "title": "疾病の成り立ちと快復の促進［４］微生物学　系統看護学講座　専門基礎分野",
             "publication_year": null,
-            "author": "",
+            "author": null,
             "publisher": "医学書院",
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": true
         }
     ],
@@ -53,8 +53,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "期末試験（筆記） 100％",
     "evaluation_ratio": {
@@ -195,7 +195,8 @@
             ],
             "teachers": [
                 "長谷川明洋",
-                "（ゲストスピーカー）"
+                "（ゲストスピーカー：感染管理認定看護師",
+                "松崎さとみ）"
             ]
         },
         {
@@ -220,5 +221,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

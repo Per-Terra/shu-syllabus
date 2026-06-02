@@ -1,0 +1,363 @@
+{
+    "fetched_at": "2026-06-02T11:55:09Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700D",
+    "course_number": null,
+    "departments": [
+        "経済学部"
+    ],
+    "category": "専門科目",
+    "home_department": "経済学部",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "岡本　次郎",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "専門ゼミⅡでは、専門ゼミⅠで修得した知識と論文執筆のためのスキルを基礎として、卒業論文のテーマや仮説の設定、アウトラインの構築などを進め、自ら調査を行って仮説の検証を行い、論理的かつ外形が整った卒業論文を完成させる。",
+    "overview": "毎回の授業の時間は、基本的には個人で行った調査研究過程を発表する場になる。したがって、卒業論文完成に至るまでの主な作業は、各自が授業時間以外にこつこつと行うことになる。",
+    "diploma_policies": [
+        "現代経済学科DP2",
+        "現代経済学科DP3",
+        "現代経済学科DP4"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "専門ゼミⅠ（単位先修）"
+        ],
+        "recommended": [],
+        "required_materials": "筆記用具、パソコンまたはタブレット",
+        "other": null
+    },
+    "grading_criteria": "到達目標で示したように、卒業論文完成へのプロセスと卒業論文の内容を評価する。進捗状況の発表が20％、その他（卒業論文の内容を含む）が80％のウェイトとする。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 80
+    },
+    "teacher_message": "論理に破綻のない、また外形が整った卒業論文の完成に向けて、一歩一歩進んでいきましょう。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "卒業論文プロポーザルの改訂",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "卒業論文プロポーザルの完成（仮）",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "先行研究の収集と理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "先行研究の収集と理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "先行研究の収集と理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "先行研究の収集と理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "先行研究の収集と理解",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "卒業論文プロポーザルの完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "調査内容の発表",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "卒業論文執筆作業",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文完成",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "岡本　次郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

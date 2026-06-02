@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:21:39Z",
+    "fetched_at": "2026-06-02T11:57:41Z",
     "name_ja": "保育士特別セミナーⅢ",
     "name_en": "Studying for Examination of Early Childhood Education and Care Ⅲ",
     "syllabus_number": "2041300A",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -243,5 +243,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

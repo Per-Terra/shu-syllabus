@@ -1,0 +1,233 @@
+{
+    "fetched_at": "2026-06-02T11:57:03Z",
+    "name_ja": "民法Ⅱ",
+    "name_en": "Civil Law 2",
+    "syllabus_number": "2042200A",
+    "course_number": "11-2-30-22-03",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、民法の基本的な知識を習得することを目的としています。\n　民法は、①総則、②物権、③債権、④親族、⑤相続の3分野に分類されており、これらを学習することになります。民法Ⅱでは、このうちの②③を中心に扱いますが、必要に応じて民法Iおよび法律学Ⅱの内容にも言及します。\n　民法の学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１．民法Ⅱの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "民法は、私人間が社会生活（契約やトラブル処理）を送る上での行動基準及び最終的に裁判となった場合の判断基準である。本講義では、民法Ⅰを履修していることを前提に、引き続き、(1) 民法の主要な制度と内容（損害賠償、執行制度、保証、連帯債務、抵当権、譲渡担保、所有者留保、時効など）を理解する＝社会生活を送る上での必要な知識を得る、(2) 条文の内容を正確に理解する＝日本語を厳格に正しく理解できるようになる、(3) 経済学を学ぶ上で必要な法的な制度や法の役割を理解する、の三点を目標とする。本講義では、典型的なトラブル事例において、条文を用いて問題解決を実践することを通して、具体的な問題解決能力も身につける。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "オリエンテーション民法第3版",
+            "publication_year": 2024,
+            "author": "松久三四彦他",
+            "publisher": "有斐閣",
+            "price": 2750,
+            "isbn": "978-4-641-23338-6",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "民法Ⅰ"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
+        "other": "教科書は講義開始時の最新版とします。"
+    },
+    "grading_criteria": "１．解説した民法Ⅱの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 70,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】債務不履行【内容】債権者の救済手段の全体像等【範囲】教科書P160～P171",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "【テーマ】契約の解除【内容】解除の効果【範囲】教科書P171～P181",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "【テーマ】契約不適合【内容】契約不適合の効果【範囲】教科書P181～P192",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "【テーマ】受領遅滞／危険負担【内容】反対給付はどうなるか等【範囲】教科書P192～P204",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "【テーマ】責任財産の保全【内容】債権者代位権／詐害行為取消権等【範囲】教科書P204～P212",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "【テーマ】人的担保【内容】保証人等【範囲】教科書P212～P221",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "【テーマ】物的担保【内容】抵当権等【範囲】教科書P221～P234\n＊中間テスト実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "【テーマ】物権的請求権【内容】物権的請求権の種類等【範囲】教科書P234～P244",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "【テーマ】占有【内容】占有権とは等【範囲】教科書P244～P252",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】不動産物権変動【内容】登記等【範囲】教科書P252～P262",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】動産物権変動【内容】引渡し等【範囲】教科書P262～P271",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "【テーマ】取得時効【内容】取得時効とは等【範囲】教科書P272～P282",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "【テーマ】不法行為【内容】不法行為の成立要件【範囲】教科書P282～P293",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "【テーマ】不法行為の効果【内容】損害賠償の内容【範囲】教科書P293～P303",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "【テーマ】特殊な不法行為【内容】監督者責任等【範囲】教科書P303～P316",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2024-08-08T00:58:26Z",
+    "fetched_at": "2026-06-02T11:53:25Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Community SeminarⅠ",
     "syllabus_number": "1011700C",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "必修科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -38,7 +38,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "特定の教科書は指定せず、必要に応じて授業中に資料を配布します。"
     },
     "grading_criteria": "①子育て支援に取り組む機関の機能や役割②地域における子育て課題③子育てしやすいまちづくりについて以下の割合により評価します。\n「発表・実技」は、地域課題の理解、フィールドワークの計画と実施、振り返りと一連の内容を評価します（個人ワーク及びグループワークの取り組みを含む）。また、「レポート」は、全授業の終わりにまとめのレポートを書いていただきます。",
@@ -204,5 +204,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

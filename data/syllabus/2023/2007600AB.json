@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:02:44Z",
+    "fetched_at": "2026-06-02T11:54:35Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AB",
@@ -11,9 +11,9 @@
     "home_department": "福祉情報学部",
     "requirements": "必修科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -42,7 +42,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "PC",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "①論文の構成の理解度\n②研究の手法の理解度\n③研究計画書の完成度\n④調査実施の精度",
     "evaluation_ratio": {
@@ -387,5 +387,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2025-04-04T06:04:57Z",
+    "fetched_at": "2026-06-02T11:58:52Z",
     "name_ja": "企業概論Ⅱ",
     "name_en": "Introduction to Business EnterprisesⅡ",
     "syllabus_number": "2108500A",
@@ -9,12 +9,12 @@
         "経済経営学部 経済経営学科"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -225,5 +225,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

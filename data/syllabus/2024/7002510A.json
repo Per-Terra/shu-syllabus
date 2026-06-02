@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:08:28Z",
+    "fetched_at": "2026-06-02T11:59:20Z",
     "name_ja": "特別活動および総合的な学習の時間",
     "name_en": "Special Activities the Period for Integrated Studies",
     "syllabus_number": "7002510A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "石橋　孝明",
@@ -285,5 +285,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

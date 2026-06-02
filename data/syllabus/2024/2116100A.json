@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T11:07:00Z",
+    "fetched_at": "2026-06-02T11:58:46Z",
     "name_ja": "健康まちづくり論",
     "name_en": "health Community Development",
     "syllabus_number": "2116100A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 福祉学科"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 1,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "難波　利光",
@@ -39,10 +39,10 @@
         {
             "title": "（初回講義時にお知らせします）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -50,10 +50,10 @@
         {
             "title": "（適宜案内します）",
             "publication_year": null,
-            "author": "",
-            "publisher": "",
+            "author": null,
+            "publisher": null,
             "price": null,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -62,7 +62,7 @@
         "recommended": [
             "地域観光まちづくり論"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "教科書は、初回講義時にお知らせします。 参考図書は、適宜案内します。"
     },
     "grading_criteria": "①健康とまちづくりの概要について理解できている。 \n②健康まちづくりと福祉の関係性について理解できている。 \n③健康まちづくりによる人材育成の意義と役割について理解できている。",
@@ -228,5 +228,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

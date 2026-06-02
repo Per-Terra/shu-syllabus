@@ -1,21 +1,21 @@
 {
-    "fetched_at": "2025-04-07T10:54:23Z",
+    "fetched_at": "2026-06-02T11:53:40Z",
     "name_ja": "ワークショップデザインⅠ",
     "name_en": "Workshop Design 1",
     "syllabus_number": "1012400A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "赤木　真由",
@@ -54,7 +54,7 @@
             "author": "山内祐平、森玲奈、安斎勇樹",
             "publisher": "慶應義塾大学出版会",
             "price": 1980,
-            "isbn": "",
+            "isbn": null,
             "available_on_campus": false
         }
     ],
@@ -293,5 +293,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

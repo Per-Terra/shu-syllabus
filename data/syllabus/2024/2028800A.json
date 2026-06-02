@@ -1,20 +1,20 @@
 {
-    "fetched_at": "2025-04-07T11:02:05Z",
+    "fetched_at": "2026-06-02T11:56:52Z",
     "name_ja": "刑事司法と福祉",
     "name_en": "Forensic Social Work",
     "syllabus_number": "2028800A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
-    "category": "",
-    "home_department": "",
-    "requirements": "",
+    "category": null,
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
-    "instruction_format": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
     "teachers": [
         {
             "name": "脇野　幸太郎",
@@ -52,7 +52,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "教科書及び事前配付資料",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "定期試験と、毎回の授業後課題により評価します。また、受講態度を重視します。",
     "evaluation_ratio": {
@@ -232,5 +232,5 @@
         }
     ],
     "credit_auditing": true,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

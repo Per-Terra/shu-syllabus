@@ -1,0 +1,220 @@
+{
+    "fetched_at": "2026-06-02T11:56:38Z",
+    "name_ja": "マクロ経済学Ⅱ",
+    "name_en": "Macroeconomics Ⅱ",
+    "syllabus_number": "2034300A",
+    "course_number": "11-2-22-22-04",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "高山　寛",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【到達目標】\n（１）マクロ経済政策の分析手法を理解する。\n（２）マクロ経済学の分析手法を用いて実際の経済問題にアプローチすることができる。",
+    "overview": "マクロ経済学とは、所得、物価、雇用、経済成長など、我々の日常生活など、経済全体にかかわる大きな問題を分析する学問である。本講義では、マクロ経済学Ⅰで学習した内容をまず、復習し、財市場、資産市場、労働市場、ＩＳ-ＬＭ分析、ＡＤ-ＡＳ分析等を学ぶ。マクロ経済学の基礎的な概念を理解することで、日本経済新聞や経済雑誌に掲載されている経済ニュースをより理解することができるようになる。",
+    "diploma_policies": [
+        "現代経済学科DP1",
+        "現代経済学科DP2",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "マクロ経済学Ⅰ"
+        ],
+        "recommended": [
+            "ミクロ経済学Ⅰ",
+            "ミクロ経済学Ⅱ",
+            "金融論",
+            "財政学"
+        ],
+        "required_materials": "筆記用具、ノート、授業で使う印刷したパワーポイント",
+        "other": "経済学部2021年度以前入学の学生は、「マクロ経済学Ⅰ」及び「マクロ経済学Ⅱ」の両方の単位を修得することで、「マクロ経済学（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "授業中に振り返りシート(レポート)の記入提出と発表によって評価する。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "復習は各自振り返りシートや印刷したスライドを読んで理解を深めて下さい。（復習時間は、1～2時間程度）、授業の進行は内容によって適宜調整しますので、シラバスで提示した授業が前後する場合があります。\nマクロ経済学Ⅰの履修を先修条件とする。\nまた、ミクロ経済学Ⅰ、ミクロ経済学Ⅱ、金融論、財政学の事前履修を推奨する。",
+    "schedule": [
+        {
+            "number": "１",
+            "content": "ガイダンス・マクロ経済学とは？/財政3機能",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "マクロ経済学Ⅰの復習①／ＧＤＰ、ＧＮＰ、三面等価、物価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "マクロ経済学Ⅰの復習②／ＧＤＰ、ＧＮＰ、三面等価、物価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "マクロ経済学Ⅰの復習③／ＧＤＰ、ＧＮＰ、三面等価、物価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "マクロ経済学Ⅰの復習④／ＧＤＰ、ＧＮＰ、三面等価、物価",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "マクロ経済学Ⅰの復習➄／財市場",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "マクロ経済学Ⅰの復習➅／財市場",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "マクロ経済学Ⅰの復習が理解できているのかをグループ発表形式で説明してもらう",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "マクロ経済学Ⅰの復習が理解できているのかをグループ発表形式で説明してもらう",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１０",
+            "content": "資産市場①／貨幣供給・金融政策",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１１",
+            "content": "資産市場②／IS-LM分析による金融政策の分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１２",
+            "content": "労働市場①／ＡＤ－ＡＳ分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１３",
+            "content": "労働市場②／ＡＤ－ＡＳ分析・インフレーション・フィリップス曲線",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１４",
+            "content": "国際収支と外国為替レート",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        },
+        {
+            "number": "１５",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "高山　寛"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "なし"
+}

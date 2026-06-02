@@ -1,7 +1,7 @@
 {
-    "fetched_at": "2024-08-08T01:19:56Z",
+    "fetched_at": "2026-06-02T11:57:13Z",
     "name_ja": "ファイナンス論",
-    "name_en": "",
+    "name_en": null,
     "syllabus_number": "2033500A",
     "course_number": "01FN202",
     "departments": [
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -66,7 +66,7 @@
             "ファイナンス入門"
         ],
         "required_materials": "必要に応じて電卓",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "企業価値の評価および資金調達に関する理論の基本的な理解（試験：60％、小テスト：40％）",
     "evaluation_ratio": {

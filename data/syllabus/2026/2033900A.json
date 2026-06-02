@@ -1,0 +1,236 @@
+{
+    "fetched_at": "2026-06-02T11:56:35Z",
+    "name_ja": "マーケティング論Ⅱ",
+    "name_en": "Marketing 2",
+    "syllabus_number": "2033900A",
+    "course_number": "11-2-27-22-07",
+    "departments": [
+        "経済学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 2,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "髙橋　真実",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "マーケティング・マネジメントの視点から、マーケティングの基本的な考え方や概念・理論を説明するとともに、具体的なマーケティング戦略のケース分析を行う。\n理論の習得、戦略的マーケティングの思考とケース分析スキルの獲得を通じて、マーケティング実務力を養うことに重点をおきます。\n【到達目標】\n（１）マーケティングに関する基本的な考え方や概念、理論を理解する\n（２）経営戦略・事業戦略に沿った戦略的マーケティングを理解する\n（３）具体的なマーケティング戦略を立案するためのスキルを習得する",
+    "overview": "変化が激しい消費市場の中で、マーケティング戦略をいかに適応させていくかは、マーケティング研究とマーケティング実務の双方にとって、きわめて重要な課題である。本講義では、最初にケースを用いた学習や講義方法を簡単に説明し、受講学生がマーケティング戦略の基礎知識を学習した上で、新型コロナ危機における、日本企業のマーケティング戦略の対応を具体的な事例を取り入れてグループ単位で分析していく。また、どのようなマーケティング戦略課題が生じ、いかなる検討が必要になるのかをディスカッションする。\n内容に応じてゲスト講師を組み込む場合がある。",
+    "diploma_policies": [
+        "経営コースDP1",
+        "経営コースDP2",
+        "経営コースDP3",
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [
+        {
+            "title": "MBAのためのケース分析(三訂版)",
+            "publication_year": 2020,
+            "author": "小樽商科大学ビジネススクール編",
+            "publisher": "同文舘出版",
+            "price": 2530,
+            "isbn": "978-4-495-37263-7",
+            "available_on_campus": false
+        },
+        {
+            "title": "コトラー、アームストロング、バラスブラマニアン、恩藏のマーケティング原理",
+            "publication_year": 2025,
+            "author": "Philip Kotler, Gary Armstrong, Sridhar Balasubramanian, 恩藏 直人",
+            "publisher": "丸善出版",
+            "price": 4180,
+            "isbn": "978-4621311561",
+            "available_on_campus": false
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [],
+        "required_materials": "なし",
+        "other": "経済学部2021年度以前入学の学生は、「マーケティング論Ⅰ」及び「マーケティング論Ⅱ」の単位を修得することで、「マーケティング論（４単位）」の単位が修得できます。"
+    },
+    "grading_criteria": "以下に関して「学生に対する評価」の内容で評価する。\n理論の習得、戦略的マーケティングの思考とケース分析スキルの獲得を通じて、マーケティング実務力を養うことに重点をおきます。\n１．マーケティングに関する基本的な考え方や概念、理論を理解できているかどうか\n２．様々な視点視座視野で戦略的思考、メンバーとディスカッション、クリティークができているかどうか\n３．分析結果を第３者にわかりやすくまとめ、説明できているかどうか",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 20,
+        "report": 45,
+        "presentation": 35,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "マーケティング論Ⅰの履修を前提としています。\n普段からマーケティングに関係する新聞、雑誌の雑誌、ニュース等に触れ、それをケースと同様に分析してみるくせをつけることで、マーケティング実践力の助けとなります。\n\n予習：次回実施内容を確認の上、配布資料／教科書／ケース該当箇所の通読、用語確認（60分）\n復習：授業を振り返り、教科書等の該当箇所を参考にしながらのレポート作成、知識・論理的思考の定着（90分）",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、イントロダクション／授業計画・授業内容・成績評価・到達目標説明\n戦略的マーケティングとは、ケースの意義・進め方",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "経営戦略とマーケティング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "ケースレポートの書き方とケースプレゼンテーションの方法",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "STPとブランディング",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "ケース①（STP）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "マーケティング・ミクス",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "ケース②（４P）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "ケース③（顧客対応）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "ケース④（組織対応）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "ケース⑤分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "ケース⑤ディスカッション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "ケース⑤プレゼンテーション、解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "ケース⑥分析",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "ケース⑥ディスカッション",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "ケース⑥プレゼンテーション、解説",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "髙橋　真実"
+            ]
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": null
+}

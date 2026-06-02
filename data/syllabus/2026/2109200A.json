@@ -1,0 +1,234 @@
+{
+    "fetched_at": "2026-06-02T11:58:21Z",
+    "name_ja": "法律学Ⅱ",
+    "name_en": "Law 2",
+    "syllabus_number": "2109200A",
+    "course_number": "11-1-30-22-02",
+    "departments": [
+        "経済学部",
+        "福祉情報学部",
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "教職科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 1,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "清水　太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "後期",
+    "credits": 2,
+    "teaching_methods": [
+        "講義"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "【授業のテーマ】\n　本講義では、民法のうち、比較的馴染みのある家族法分野の基本的な知識を習得することを目的としています。\n　民法は、①総則、②物権、③債権、④親族、⑤相続の3分野に分類されており、これらを学習することになります。法律学Ⅱでは、このうちの④⑤を中心に扱いますが、必要に応じて民法IおよびⅡの内容にも言及します。\n民法の学習に必要な基本的な判例のほか、適宜、現在進行形の問題は新聞記事等を用いて学習していきます。\n【到達目標】１．法律学Ⅱの基本的な知識を習得すること。２．上記の知識を他者に説明できること。３．上記の知識を新聞やニュースを視聴する際に意識できること。",
+    "overview": "本講義では、法学の基礎について簡単に説明した上で、主に私的分野においてどのように法律が適用されているかを見ていく。契約とは何か、相続とは何か、借金をすることとは何か、といったこと等について主に扱っていく。",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2"
+    ],
+    "textbooks": [
+        {
+            "title": "オリエンテーション民法第3版",
+            "publication_year": 2024,
+            "author": "松久三四彦他",
+            "publisher": "有斐閣",
+            "price": 2750,
+            "isbn": "978-4-641-23338-6",
+            "available_on_campus": true
+        }
+    ],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
+            "なし"
+        ],
+        "recommended": [
+            "なし"
+        ],
+        "required_materials": "最新版の小型の六法（デイリー六法など）を持参してください。",
+        "other": "※2023（令和5）年度入学生までにおける「法律学概論Ⅱ」の読替科目です。"
+    },
+    "grading_criteria": "１．解説した法律学Ⅱの基本的な知識を理解できているか否か。\n２．上記を答案に書けているか否か。",
+    "evaluation_ratio": {
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "以下の授業計画に沿って講義をする予定ですので、予習では該当する部分を読んで、疑問点を明らかにしてください。復習では、講義ノートをまとめてください。そのノートを読んで、講義の内容が思い出せるようにしてくだい。ともに、90分必要です。\n\nオフィスアワー：講義のある曜日。不在時はメールで受け付けます。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "【テーマ】親族法の構成【内容】親族・親等【範囲】教科書P320～P327",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "２",
+            "content": "【テーマ】婚姻【内容】婚姻の効力【範囲】教科書P327～P331",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "３",
+            "content": "【テーマ】夫婦財産制【内容】日常家事債務等【範囲】教科書P331～P337",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "４",
+            "content": "【テーマ】離婚【内容】狭義離婚／裁判離婚【範囲】教科書P337～P342",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "５",
+            "content": "【テーマ】親子①【内容】法律上の親子【範囲】教科書P342～P347",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "６",
+            "content": "【テーマ】親子②【内容】嫡出【範囲】教科書P347～P351",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "７",
+            "content": "【テーマ】相続法の構成【内容】相続人【範囲】教科書P354～P360\n＊中間テスト実施",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "８",
+            "content": "【テーマ】配偶者の保護【内容】配偶者居住権【範囲】教科書P360～P363",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "９",
+            "content": "【テーマ】相続の承認と放棄【内容】単純承認／限定承認／相続放棄【範囲】教科書P364～P366",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "【テーマ】家族法と関連するテーマ①【内容】同性婚・同性パートナーシップ制度【範囲】別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "【テーマ】家族法と関連するテーマ②【内容】出自を知る権利【範囲】別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "【テーマ】家族法と関連するテーマ③【内容】DV・モラハラ・ストーカー【範囲】別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "【テーマ】家族法と関連するテーマ④【内容】相続と生命保険【範囲】教科書P282～P293別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "【テーマ】家族法と関連するテーマ⑤【内容】認知症とトラブル【範囲】別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "【テーマ】家族法と関連するテーマ⑥【内容】名の変更【範囲】別途レジュメを用意します。",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "清水　太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "期末試験（教室・時限については別途周知する）",
+            "teaching_methods": [],
+            "teachers": [
+                "清水　太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:12Z",
+    "fetched_at": "2026-06-02T11:56:39Z",
     "name_ja": "社会福祉士特別セミナーⅡ",
     "name_en": "Studying for Examination of Certified Social Worker II",
     "syllabus_number": "2025500A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -45,7 +45,7 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
+        "required_materials": null,
         "other": "購読すべき書籍については授業中に指示する。"
     },
     "grading_criteria": "①基礎知識の習得\n②学習計画の管理",
@@ -241,5 +241,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

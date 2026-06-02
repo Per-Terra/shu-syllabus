@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T00:55:04Z",
+    "fetched_at": "2026-06-02T11:52:32Z",
     "name_ja": "意思決定科学",
     "name_en": "Science of Decision Making",
     "syllabus_number": "1000600A",
@@ -9,12 +9,12 @@
         "福祉情報学部"
     ],
     "category": "総合科目",
-    "home_department": "",
+    "home_department": null,
     "requirements": "選択科目",
     "target_year": 3,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -58,7 +58,7 @@
         "prerequisites": [],
         "recommended": [],
         "required_materials": "ノート、筆記用具",
-        "other": ""
+        "other": null
     },
     "grading_criteria": "(ⅰ)規範的なアプローチの理解と活用、(ⅱ)記述的なアプローチの理解と活用、(ⅲ)処方的なアプローチの理解と活用の三点について、⑪で示す方法により評価する。",
     "evaluation_ratio": {

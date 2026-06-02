@@ -1,0 +1,239 @@
+{
+    "fetched_at": "2026-06-02T11:55:48Z",
+    "name_ja": "モバイルコンピューティング",
+    "name_en": "Mobile Computing",
+    "syllabus_number": "2022600A",
+    "course_number": "31-3-23-33-03",
+    "departments": [
+        "情報科学部 情報科学科"
+    ],
+    "category": "専門科目",
+    "home_department": null,
+    "requirements": null,
+    "target_year": 3,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": null,
+    "teachers": [
+        {
+            "name": "北須賀　輝明",
+            "is_primary": false
+        }
+    ],
+    "term": "第３クォーター",
+    "credits": 2,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "スマートフォンがインターネットに接続し現在位置が認識できる仕組みを理解する。",
+    "overview": "モバイルとは持ち歩くこと・持ち歩けることであり、計算能力を持ち歩くことがモバイルコンピューティングである。旧来の据え置き型計算機と比べて、スマートフォンやノート型パソコンに代表される持ち歩く計算機は利用者に寄り添って用いられる。それを支える技術として無線ネットワークとセンサの活用が挙げられる。本講義では、無線ネットワークの基礎的な仕組みと、測位衛星システムなどのセンサの活用事例を学ぶ。 　無線ネットワークやセンシングの仕組みを理解し、利用者目線で仕組みを捉えられるようになり、これらの技術の応用可能範囲を判断できるようになることを目標とする。",
+    "diploma_policies": [
+        "情報科学科DP1",
+        "情報科学科DP3"
+    ],
+    "textbooks": [],
+    "references": [
+        {
+            "title": "コンピュータネットワーク第6版",
+            "publication_year": 2023,
+            "author": "アンドリュー・S・タネンバウム、ニック・フィームスター、デビッド.J.ウェセラル （著）",
+            "publisher": "日経BP",
+            "price": 9680,
+            "isbn": "9784296070428",
+            "available_on_campus": false
+        },
+        {
+            "title": "モバイル・ネットワーク",
+            "publication_year": 2016,
+            "author": "水野 忠則 監修・ 内藤 彩乃 監修／著・ 北須賀 輝明",
+            "publisher": "共立出版",
+            "price": 3300,
+            "isbn": "9784320123533",
+            "available_on_campus": false
+        },
+        {
+            "title": "フィールド情報学入門",
+            "publication_year": 2009,
+            "author": "京都大学フィールド情報学研究会 編",
+            "publisher": "共立出版",
+            "price": 3520,
+            "isbn": "9784320122345",
+            "available_on_campus": false
+        }
+    ],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具，ノートPC，スマートフォン",
+        "other": null
+    },
+    "grading_criteria": "演習に関するレポートを元に評価する．",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
+    },
+    "teacher_message": "ノートPCやスマートフォンの内部の仕組みに関心を持っている人の履修を期待します．",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "コンピュータネットワークの概要",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "演習(2)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "OSI参照モデル",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "演習(4)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "無線アクセス制御 CSMA/CA",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "演習(6)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "経路制御",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "演習(8)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "衛星測位システム（GNSS）",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "演習(10)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "行動認識",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "演習(12)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "行動観察",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "演習(14)",
+            "teaching_methods": [
+                "演習"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "まとめ",
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "北須賀　輝明"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}

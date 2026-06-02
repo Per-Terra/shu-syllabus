@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2024-08-08T01:04:38Z",
+    "fetched_at": "2026-06-02T11:55:09Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700N",
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "必修科目",
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -47,8 +47,8 @@
             "経営学総論",
             "中小企業論"
         ],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "①\t現状理解・課題発見、②課題解決、③活動の総括と報告について「学生に対する評価」の内容で評価する\n※「その他」は論文・報告書を指す",
     "evaluation_ratio": {
@@ -361,5 +361,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

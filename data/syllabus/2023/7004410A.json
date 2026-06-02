@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2024-08-08T01:24:52Z",
+    "fetched_at": "2026-06-02T11:58:30Z",
     "name_ja": "バドミントンⅠ",
     "name_en": "Badminton I",
     "syllabus_number": "7004410A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "経済学部"
     ],
@@ -11,9 +11,9 @@
     "home_department": "経済学部",
     "requirements": "選択科目",
     "target_year": 2,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "単独",
     "teachers": [
         {
@@ -39,8 +39,8 @@
     "enrollment_info": {
         "prerequisites": [],
         "recommended": [],
-        "required_materials": "",
-        "other": ""
+        "required_materials": null,
+        "other": null
     },
     "grading_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。",
     "evaluation_ratio": {

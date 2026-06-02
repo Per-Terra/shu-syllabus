@@ -1,19 +1,19 @@
 {
-    "fetched_at": "2025-04-04T06:01:15Z",
+    "fetched_at": "2026-06-02T11:56:41Z",
     "name_ja": "社会福祉士特別セミナーⅣ",
     "name_en": "Studying for Examination of Certified Social Worker IV",
     "syllabus_number": "2025700A",
-    "course_number": "",
+    "course_number": null,
     "departments": [
         "福祉情報学部"
     ],
     "category": "専門科目",
-    "home_department": "",
-    "requirements": "",
+    "home_department": null,
+    "requirements": null,
     "target_year": 4,
-    "time_slot": "",
-    "required_or_elective": "",
-    "course_division": "",
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
     "instruction_format": "複数",
     "teachers": [
         {
@@ -49,7 +49,7 @@
             "社会福祉士特別セミナーⅡ",
             "社会福祉士特別セミナーⅢ"
         ],
-        "required_materials": "",
+        "required_materials": null,
         "other": "購読すべき書籍については授業中に指示する。"
     },
     "grading_criteria": "購読すべき①基礎知識の習得\n②学習計画の管理",
@@ -245,5 +245,5 @@
         }
     ],
     "credit_auditing": false,
-    "practitioner_info": ""
+    "practitioner_info": null
 }

@@ -1,0 +1,391 @@
+{
+    "fetched_at": "2026-06-02T11:55:05Z",
+    "name_ja": "専門ゼミⅡ",
+    "name_en": "Seminar on Specialized Subjects II",
+    "syllabus_number": "2007700BC",
+    "course_number": "2007700",
+    "departments": [
+        "福祉情報学部"
+    ],
+    "category": "専門科目",
+    "home_department": "福祉情報学科",
+    "requirements": null,
+    "target_year": 4,
+    "time_slot": null,
+    "required_or_elective": null,
+    "course_division": null,
+    "instruction_format": "単独",
+    "teachers": [
+        {
+            "name": "脇野　幸太郎",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "①専門ゼミⅠでの研究内容を分析し、自説を構築する。\n②①を踏まえ、卒業論文を完成させる。",
+    "overview": "本授業では、専門ゼミⅠでの研究内容を踏まえ、卒業論文の計画的な作成と完成を目指す。",
+    "diploma_policies": [
+        "人間コミュニケーション学科DP1",
+        "人間コミュニケーション学科DP2"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "必要な資料は適宜配布する。参考文献等は授業中に紹介する。"
+    },
+    "grading_criteria": "①研究の実施、②自説の適切な検討と構築、③卒業論文の完成度",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
+    },
+    "teacher_message": "福祉専攻での学びの集大成として、卒業論文の作成を計画的・段階的に着実に進めていってください。報告のためには毎回240分の学習が必要です。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "専門ゼミⅠで実施した研究内容のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "専門ゼミⅠで実施した研究内容のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "専門ゼミⅠで実施した研究内容のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "専門ゼミⅠで実施した研究内容のまとめと分析",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "論文の構成の検討",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "論文の構成の検討",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "序論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "序論・本論の完成\n結論の再検討",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "結論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "17",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "18",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "19",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "20",
+            "content": "本論の執筆",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "21",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "22",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "23",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "24",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "25",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "26",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "27",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "28",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "29",
+            "content": "序論・本論・結論の結合",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        },
+        {
+            "number": "30",
+            "content": "卒業論文の完成",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "脇野　幸太郎"
+            ]
+        }
+    ],
+    "credit_auditing": false,
+    "practitioner_info": null
+}
