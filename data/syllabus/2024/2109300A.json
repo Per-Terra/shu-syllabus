@@ -1,58 +1,58 @@
 {
-    "_fetched_at": "2025-04-07T11:06:47Z",
+    "fetched_at": "2025-04-07T11:06:47Z",
     "name_ja": "人間と健康",
     "name_en": "Human health",
     "syllabus_number": "2109300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 看護学科",
         "人間健康科学部 福祉学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "江﨑　和希",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "小野　高志",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "大平　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "北村　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -60,12 +60,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 生活者である人及び 人の健康の 概念や健康を捉える枠組みを説明できる。\n2. 多様な年齢、健康状態にある人の 健康増進 、地域社会の健康向上 に必要な 要素を説明できる。\n3. あらゆる健康状態にある人々の生涯にわたる Wellell-being を実現する方略について考察できる 。",
+    "objectives": "1. 生活者である人及び 人の健康の 概念や健康を捉える枠組みを説明できる。\n2. 多様な年齢、健康状態にある人の 健康増進 、地域社会の健康向上 に必要な 要素を説明できる。\n3. あらゆる健康状態にある人々の生涯にわたる Wellell-being を実現する方略について考察できる 。",
     "overview": "人の健康の概念は社会環境に即して変化する。本授業では胎児期から生の終焉まで，発達し続ける生活者である人間の健康とは何かについて，スポーツ健康科学，看護学，福祉学の視点から捉え，どのような健康状態であっても自身の持てる力を発揮して，その人らしいより豊かな健康生活（ Well -being ）を支援する方略について考察する。本授業を通して，人間の健康及びその人らしいより豊かな健康生活を支援および探究していく基礎的知識を修得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP2",
         "看護学科DP1",
         "看護学科DP2",
@@ -73,28 +73,28 @@
         "福祉学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "参考文献等は、講義中に適宜案内する。"
     },
-    "evaluation_criteria": "課題レポート100%",
+    "grading_criteria": "課題レポート100%",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "人の健康は国や地域、時代、価値観によってさまざまな捉え方があります。また、健康の定義や概念は変化していくものです 。将来、 人々 の健康増進・未病・予防・治療・看護・介護 にシームレスに 携 わっていく学生間が相互に 学び合う、人間健康科学部だからこそ、 他分野の 視点を尊重し合いながら学んでいきましょう。\n【事前学習・事後学習の時間】\nあわせて90 分程度。\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
+    "teacher_message": "人の健康は国や地域、時代、価値観によってさまざまな捉え方があります。また、健康の定義や概念は変化していくものです 。将来、 人々 の健康増進・未病・予防・治療・看護・介護 にシームレスに 携 わっていく学生間が相互に 学び合う、人間健康科学部だからこそ、 他分野の 視点を尊重し合いながら学んでいきましょう。\n【事前学習・事後学習の時間】\nあわせて90 分程度。\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "人間、健康、環境、看護の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "人間の健康に関する看護学分野の捉え方（ウエルネス理論、エン\nパワメント、セルフケア）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "環境（自然・物理化学的・社会・文化・価値）が健康に及ぼす影\n響",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "あらゆる健康状態にある人々のWell-being",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "身体運動と健康増進",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "運動実践者の健康サポート",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "スポーツによる健康な社会",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "スポーツ教育と健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "シニアと健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "子どもと健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "社会福祉法人活動と健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域と健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "あらゆる健康状態にある人の生涯にわたるWell-being 実現のための方略",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -248,6 +248,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "本科目の一部は看護師資格を持ち、看護師、助産師としての実務経験を持つ教員が担当する。"
+    "credit_auditing": false,
+    "practitioner_info": "本科目の一部は看護師資格を持ち、看護師、助産師としての実務経験を持つ教員が担当する。"
 }

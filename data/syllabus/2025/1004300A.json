@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-04T05:55:20Z",
+    "fetched_at": "2025-04-04T05:55:20Z",
     "name_ja": "韓国語Ⅰ",
     "name_en": "Korean Language I",
     "syllabus_number": "1004300A",
     "course_number": "11-1-13-22-08、21-1-13-22-07、22-2-13-22-03、23-1-13-22-05、31-1-13-22-05",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -13,18 +13,18 @@
         "情報科学部 情報科学科",
         "人間健康科学部 看護学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "李　萬善",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -33,12 +33,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "世界的視野と広く豊かな教養を持つ人材を育成するためには、英語以外の言語の習得が求められる。訪日外国人の大半が、中国、韓国といったアジア出身だ。韓国語を習得すると、将来の仕事に役立つ。IT企業、貿易、食品会社、旅行会社、韓流イベント会社、そして医療現場などで韓国語が話せる人材が求められている。そしてそれほど高レベルの韓国語能力を求められているわけではないことも多い。また韓国語が話せると、韓国人と交流する機会が増え、その過程で視野を広げることが出来、多様な価値観を尊重する人材になることが出来る。\n\n【到達目標】\n基本的な挨拶や会話が聞き取れ、それに応答できる。\n日本と韓国の文化、習慣などの違いを知り、理解を深める。\nテキストの対話部分の音読ができる。\nテキストを参考に、韓国語による短い作文ができる。",
+    "objectives": "世界的視野と広く豊かな教養を持つ人材を育成するためには、英語以外の言語の習得が求められる。訪日外国人の大半が、中国、韓国といったアジア出身だ。韓国語を習得すると、将来の仕事に役立つ。IT企業、貿易、食品会社、旅行会社、韓流イベント会社、そして医療現場などで韓国語が話せる人材が求められている。そしてそれほど高レベルの韓国語能力を求められているわけではないことも多い。また韓国語が話せると、韓国人と交流する機会が増え、その過程で視野を広げることが出来、多様な価値観を尊重する人材になることが出来る。\n\n【到達目標】\n基本的な挨拶や会話が聞き取れ、それに応答できる。\n日本と韓国の文化、習慣などの違いを知り、理解を深める。\nテキストの対話部分の音読ができる。\nテキストを参考に、韓国語による短い作文ができる。",
     "overview": "初級レベルの語彙・文法・表現を学び、韓国語習得の基礎を築く。\n文字と音の対応規則を学び、平易な文を正しく音読できるようになる。\n日常会話でよく使われる表現や単語を学び、あいさつや自己紹介程度の簡単な会話ができるようになる。\nまた、韓国の文化・習慣などにも触れ、幅広い教養、知識の獲得を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -48,7 +48,7 @@
     "textbooks": [
         {
             "title": "コミュニケーション韓国語 聞いて話そうⅠ",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "長谷川　由起子",
             "publisher": "白帝社",
             "price": 2530,
@@ -56,32 +56,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、筆記用具、ノート",
+        "required_materials": "教科書、筆記用具、ノート",
         "other": "定員を４０名とする。履修希望者が４０名を超えた場合は抽選により決定する。"
     },
-    "evaluation_criteria": "定期試験に加え、各課ごとに実施される小テスト、授業内で行われる音読、会話練習等のアクティビティの参加状況で評価する",
+    "grading_criteria": "定期試験に加え、各課ごとに実施される小テスト、授業内で行われる音読、会話練習等のアクティビティの参加状況で評価する",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 15,
-        "レポート": 20,
-        "発表・実技": 15,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 15,
+        "report": 20,
+        "presentation": 15,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "テキストの会話表現だけでなく、すぐ使える実用的な表現などを交えて、グループで会話練習を毎週する予定です。また、韓国に対する知識を増やすためにDVDを見たり、韓国の歌の紹介をします。楽しく学んでいきましょう。\n　韓国語学習で最初にするのは、文字を習得することです。初めて見る文字の形、音、発音のきまりは、日本語とも英語とも違います。文字習得を無事に乗り越えれば、文法は日本語に似ているので、理解しやすいでしょう。ここで大事なことは、欠席しないことです。\n　韓国語の理解を深めるために、毎週小テストがあります。そのため、授業の復習を毎週１時間以上しましょう。\n　語学学習において音読の練習はとても大切です。音声はダウンロードできますので、保存して何度も聞きましょう。",
+    "teacher_message": "テキストの会話表現だけでなく、すぐ使える実用的な表現などを交えて、グループで会話練習を毎週する予定です。また、韓国に対する知識を増やすためにDVDを見たり、韓国の歌の紹介をします。楽しく学んでいきましょう。\n　韓国語学習で最初にするのは、文字を習得することです。初めて見る文字の形、音、発音のきまりは、日本語とも英語とも違います。文字習得を無事に乗り越えれば、文法は日本語に似ているので、理解しやすいでしょう。ここで大事なことは、欠席しないことです。\n　韓国語の理解を深めるために、毎週小テストがあります。そのため、授業の復習を毎週１時間以上しましょう。\n　語学学習において音読の練習はとても大切です。音声はダウンロードできますので、保存して何度も聞きましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\nハングルの歴史、文字の仕組み、挨拶\n１課　文字と発音。基本的な母音字母",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "２課　若い人同士のあいさつ\n単語を読む。\nカナダラ表の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "１－２課　復習\n基本母音字と基本子音字\n挨拶、単語を読む",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "３課　さようならのあいさつ　\nハングルの濁り音\n日本語のハングル表記法。\nハングル表記された日本の地名を読む。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "４課　別れののあいさつ　\n激音、韓国語の外来語",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "５課　尋ねる、答える、これどうですか。\n平音、激音の復習\n濃音、単語を読む",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "６課　感謝\nハングルの「わ」行。半母音と母音字母Ⅲ\n単語を読む\nこれは何ですか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "７課　ありがとうございます\nハングルのワ行\nパッチムの発音練習。\n発音変化：鼻音化、有声音化、濃音化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "７課　\n半母音と母音字母Ⅲの復習\n終声、発音変化の復習　\n数の数え方。値段。メニュー。\nテキストの地図を確認。地名を読む。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "１課から７課の復習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "８課　なんですか\n疑問詞　何\n発音変化の決まり　連音化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "８課　\n発音変化の決まり　有声音化、濃音化、連音化の復習\n感嘆表現",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "９課　謝罪\nㅎの弱音化\n鼻音化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "１０課　自己紹介。\n主題を表す助詞。\n疑問詞　何、いつ、誰、どこ\n趣味",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "１１課　誕生日はいつ？　\n発音変化の決まりの復習\n発音変化の決まり　激音化。\n月日の言い表し方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "８課から１１課の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "１２課　なに学科ですか？　\n学年の言い表し方\n種類を尋ねる疑問詞　何の～、ない～",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "１３課　サークル活動\n好みの表現　～を好みます、～が好きです\n하다用言",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -259,9 +259,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "１４課　持ち主を探す\n指し示す言葉\n名詞文の否定　～ではありません",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "１５課　彼女いますか？　\n存在表現　いる・ある　ない・いない\n二重パッチム。\n丁寧形（ヘヨ形）の語尾。～（し）ます、です",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -279,9 +279,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "１２課から１５課の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -289,9 +289,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "１６課　年齢を尋ねる\n年齢の尋ね方　満年齢、数え年\n発見、気づき表現　～ですね",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -299,9 +299,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "１７課　関心と好きなもの。\n発音変化の決まり　流音化。\nつなぎの助詞　～と\n並列の助詞　　（し）て、（する）し",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -309,9 +309,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "１７課\n好きなひと、食べ物などのどこが好きか、話し合う。\nレストランで注文する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -319,9 +319,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "１８課　大学で習っています\n否定表現のまとめ、復習\n縮約を伴うヘヨ形\n逆説の接続語尾　～（する）が、（だ）けれども\n場所を表す助詞　～で　\nどこで何をするのか話し合う。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -329,9 +329,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "レポート作成：ソウル旅行プラン\n韓国についてもっと知ろう",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "１９課　過去の出来事\n過去のヘヨ形\n～へ～しに行く",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -349,9 +349,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "２０課　予定。\n希望表現。～したい\n作成した旅程表に基づいて、韓国旅行中に何がしたいかを話す",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -359,9 +359,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "２０課　\n予定、つもり表現。　（する）予定です、（し）ようと思います\n長期休暇の時に何をするつもりなのか話す",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -369,9 +369,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "１課から２０課までの復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -379,6 +379,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

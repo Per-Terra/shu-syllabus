@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:03:48Z",
+    "fetched_at": "2024-08-08T01:03:48Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600W",
     "course_number": "10SE301、05HS301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河田　正樹",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,45 +27,45 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "このゼミでは『経済分析と統計的方法』についての研究をおこないます。\n　経済諸現象の背後にはさまざまな因果関係が存在しています。この因果関係について一歩踏み込んで数量的に把握しようとする場合、統計データを用いて、統計的方法による分析(実証分析)をおこなうことが必要となります。\n　このゼミでは、周南地域に関連したテーマを設定し、分析をおこなうことで、統計分析の手法、分析結果の解釈の方法を学んでいきます。\n\n【到達目標】\n① 設定したテーマについて、主体的に取り組むことができる。\n② 設定したテーマについて、十分な知識を得ることができる。\n③ 設定したテーマについて、解決のヒントとなる考察をおこなうことができる。",
+    "objectives": "このゼミでは『経済分析と統計的方法』についての研究をおこないます。\n　経済諸現象の背後にはさまざまな因果関係が存在しています。この因果関係について一歩踏み込んで数量的に把握しようとする場合、統計データを用いて、統計的方法による分析(実証分析)をおこなうことが必要となります。\n　このゼミでは、周南地域に関連したテーマを設定し、分析をおこなうことで、統計分析の手法、分析結果の解釈の方法を学んでいきます。\n\n【到達目標】\n① 設定したテーマについて、主体的に取り組むことができる。\n② 設定したテーマについて、十分な知識を得ることができる。\n③ 設定したテーマについて、解決のヒントとなる考察をおこなうことができる。",
     "overview": "周南地域に関するテーマを設定するため、各自の関心にもとづき、周南地域について調べていきます。\n　そのうえで、ゼミ全体で取り組むテーマを設定し、各自が分担した内容について、調べて分析をおこない、発表していきます。\n　ゼミを進める上で、統計学とコンピュータに関する基本的な知識が必要ですので、このゼミを希望する者は、講義科目『統計学基礎』を既に履修済みか3年次までに履修し、『計量経済学』を3年次または4年次に履修することが必要です。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "主体性・多様性・協調性の養成",
         "地域貢献に関する意識の醸成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "統計学基礎",
             "データサイエンス入門"
         ],
-        "recommended_courses": [
+        "recommended": [
             "中級統計学"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "① 主体性　② 知識　③ 考察　について、「学生に対する評価」の内容で評価します。\n「その他」は3年時のまとめとなる研究成果を通して評価します",
+    "grading_criteria": "① 主体性　② 知識　③ 考察　について、「学生に対する評価」の内容で評価します。\n「その他」は3年時のまとめとなる研究成果を通して評価します",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "厳しく、そして楽しいゼミを一緒に作っていきましょう！\n\n【予習・復習について】\n予習…発表のための準備をしてくること。\n復習…発表の際に指摘されたことを修正し、理解を深めること。\n※ 予習・復習合わせて90分程度行うことになります。",
+    "teacher_message": "厳しく、そして楽しいゼミを一緒に作っていきましょう！\n\n【予習・復習について】\n予習…発表のための準備をしてくること。\n復習…発表の際に指摘されたことを修正し、理解を深めること。\n※ 予習・復習合わせて90分程度行うことになります。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n　ゼミとはどのようなものか\n　アイスブレイク",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "発表の準備(1)\n　PowerPointの使い方\n　データの所在の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "発表の準備(2)\n　周南市のデータ分析に関する先行研究紹介\n　参考文献の入手方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "プロジェクト研究(1)\n　役割分担\n　データ分析の方法を学ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "プロジェクト研究(2)\n　データ分析の進捗状況報告\n　ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "プロジェクト研究(3)\n　データ分析の進捗状況報告\n　ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "プロジェクト研究(4)\n　データ分析の進捗状況報告\n　ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "プロジェクト研究(5)\n　分析結果の中間まとめ\n　視覚化の試み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "プロジェクト研究(6)\n　視覚化されたものについての考察\n　ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "プロジェクト研究(7)\n　データ分析の進捗状況報告\n　ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "プロジェクト研究(8)\n　中間報告スライド作成準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "プロジェクト研究(9)\n　中間報告スライドの改良\n　報告書作成準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "プロジェクト研究(10)\n　中間報告スライドの改良\n　報告書の進捗状況報告",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プロジェクト研究(11)\n　中間報告会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プロジェクト研究(11)\n　中間報告会のふりかえり\n　報告書完成に向けての計画策定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期研究計画について\n　プロジェクト研究をふまえた、後期研究計画の発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "個人研究発表(1)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -250,9 +250,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "個人研究発表(2)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -261,9 +261,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "個人研究発表(3)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "個人研究発表(4)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -283,9 +283,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "個人研究発表(5)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "個人研究発表(6)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "個人研究発表(7)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -316,9 +316,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "個人研究発表(8)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -327,9 +327,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "個人研究発表(9)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -338,9 +338,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "個人研究発表(10)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -349,9 +349,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "個人研究発表(11)\n　各自の研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -360,9 +360,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒論構想発表(1)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -371,9 +371,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒論構想発表(2)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -382,9 +382,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "研究発表会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -393,6 +393,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

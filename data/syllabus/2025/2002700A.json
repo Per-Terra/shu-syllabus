@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:57:51Z",
+    "fetched_at": "2025-04-04T05:57:51Z",
     "name_ja": "地域政策論",
     "name_en": "Regional Policy",
     "syllabus_number": "2002700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "岩本　直",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,38 +26,38 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "地域活性化の推進、持続可能社会の構築には、地域産業の活性化の推進が重要である。本授業では地域活性化を推進する上で必要不可欠な地域産業の活性化に関する政策及び地域産業の活性化に関する様々な取組みについて解説する。\n\n【到達目標】\n①地域産業の活性化を推進する具体的方法について理解できる。",
+    "objectives": "地域活性化の推進、持続可能社会の構築には、地域産業の活性化の推進が重要である。本授業では地域活性化を推進する上で必要不可欠な地域産業の活性化に関する政策及び地域産業の活性化に関する様々な取組みについて解説する。\n\n【到達目標】\n①地域産業の活性化を推進する具体的方法について理解できる。",
     "overview": "講義形式で授業を進めていく。学生には受動的に講義を受けるのではなく、地域の疲弊状況、経済情勢等に広く関心を持って授業に臨んでもらいたい。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "現代経済学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
-    "evaluation_criteria": "・地域産業の活性化を推進する具体的方法について理解できる。\n上記の基準を⑪によって評価する。",
+    "grading_criteria": "・地域産業の活性化を推進する具体的方法について理解できる。\n上記の基準を⑪によって評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "地域産業政策の概要１/終戦時までの日本の経済情勢の推移",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "地域産業政策の概要２/高度成長期の日本の経済情勢と地域産業に関する地域政策の推移、産炭地域振興政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "地域産業政策の概要３/安定成長期以降の地域産業に関する地域政策の推移",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "今後の地域産業活性化の方向性１（事業経営１）/日本の人口と財政に関する課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "今後の地域産業活性化の方向性２（事業経営２）/ベンチャー精神、企業家精神",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "今後の地域産業活性化の方向性３（地域経営１）/長寿化社会の人生戦略",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "今後の地域産業活性化の方向性４（地域経営２）/今後の地域経営の方向性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "新ビジネス創出の方法１/新事業創出の必要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "新ビジネス創出の方法２/地域資源活用政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "新ビジネス創出の方法３/中小店舗の事業努力の方向性、日本の生産性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "事例紹介１/地域商社の取組み",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "事例紹介２/行政等の取組み",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "事例紹介３/ローカルベンチャー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "今後の地域産業政策の方向性/近年の産業等の動向、総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
 }

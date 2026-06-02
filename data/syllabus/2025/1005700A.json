@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T05:55:26Z",
+    "fetched_at": "2025-04-04T05:55:26Z",
     "name_ja": "レクリエーション",
     "name_en": "Recreation",
     "syllabus_number": "1005700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -29,20 +29,20 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本授業のテーマは、レクリエーション支援者としての基礎的知識を習得し、楽しいを原動力としたレクリエーション事業について理解を深めとともに、レクリエーション活動が生きる喜びに繋がることを知ることである。\n到達目標は以下３つとする。\n1.レクリエーション支援者としての基礎的知識を習得する。\n2.レクリエーション事業について理解を深め生きる喜びにつながることを知る。\n3.レクリエーション事業の企画・運営方法を理解する。",
+    "objectives": "本授業のテーマは、レクリエーション支援者としての基礎的知識を習得し、楽しいを原動力としたレクリエーション事業について理解を深めとともに、レクリエーション活動が生きる喜びに繋がることを知ることである。\n到達目標は以下３つとする。\n1.レクリエーション支援者としての基礎的知識を習得する。\n2.レクリエーション事業について理解を深め生きる喜びにつながることを知る。\n3.レクリエーション事業の企画・運営方法を理解する。",
     "overview": "レクリエーションとは障害の有無に関わらず、誰もが自身の状態に合わせて行うことができ、心身の健康に繋がる活動として位置づけられている。本授業では、レクリエーション支援の基礎的な知識を身につけるだけでなく、企画や実践を通して体系的に学ぶことができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "レクリエーション支援の基礎－楽しさ・心地よさを活かす理論と技術",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "編）日本レクリエーション協会",
             "publisher": "日本レクリエーション協会",
             "price": 2000,
@@ -50,31 +50,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "授業中の取り組みやレポートによる評価に加え、レクリエーションの基礎知識＋αを問うために最終回に振り返りとしての小テストを実施します。また、実技中の取り組み態度や興味・関心についても評価を行います。",
+    "grading_criteria": "授業中の取り組みやレポートによる評価に加え、レクリエーションの基礎知識＋αを問うために最終回に振り返りとしての小テストを実施します。また、実技中の取り組み態度や興味・関心についても評価を行います。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 10,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 40,
+        "report": 10,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "授業への参加はもちろんですが、授業の内容もしっかりと理解できるまで深く学習することを望みます。授業スライドの資料はデータで配布しますが、授業中はノートに取るようにしてください。また、1時間程度の復習を行うようにしてください。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "授業への参加はもちろんですが、授業の内容もしっかりと理解できるまで深く学習することを望みます。授業スライドの資料はデータで配布しますが、授業中はノートに取るようにしてください。また、1時間程度の復習を行うようにしてください。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n\nレクリエーションの基礎理論および障がい者スポーツの意義と理念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "レクリエーション支援論\n\n～ライフスタイルとレクリエーション～",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "高齢化社会の課題とレクリエーション\n\n～アイスブレーキング～",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "少子化の課題とレクリエーション\n\n～コミュニケーションスキルの基礎およびグループワーク～",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "地域とレクリエーション\n\n～グループワーク～",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "レクリエーション事業の考え方\n\n～レクリエーション事業の展開方法～",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "プログラムの組み立て方・演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "事業計画Ⅰ： 個々人のアセスメントに基づいたプログラム計画\n\n事業計画Ⅱ： 市民を対象とした事業のつくり方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "レクリエーション活動の安全管理\n\n～安全管理の考え方・危険回避～",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "軽スポーツとその指導及び評価基準\n\n～障害のある人との交流～",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "アダプテッドスポーツⅠ\n\n～ボッチャ・ブラインドサッカー～",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アダプテッドスポーツⅡ\n\n～ソフトバレー・シッティングバレー～",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "アダプテッドスポーツⅢ\n\n～障害に応じたスポーツの工夫と実施～",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アダプテッドスポーツⅣ\n\n～障害者に応じた工夫と実施発表～",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体の振り返りとして小テストおよびフィードバック",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

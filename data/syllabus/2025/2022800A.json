@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:00:52Z",
+    "fetched_at": "2025-04-04T06:00:52Z",
     "name_ja": "データベース論",
     "name_en": "Database Theory",
     "syllabus_number": "2022800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "野村　典文",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,19 +28,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "蓄積されたデータをユーザのニーズに合った形式で出力するのがアプリケーションです。そのデータをどういう形で蓄積すればよいのか，どのように検索すればよいのかといったことについて学びます。データベースについては，理論と実践というスタイルで講義します。理論として，関係データベースの設計方法と操作するための言語であるSQLについて学習します。一方，実践として，実務でよく使用されるデータベース用ソフトウェアPostgreSQLの操作方法について学習します。その他に，コンピュータについての知識についても学びます。\n\n\n【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。",
+    "objectives": "蓄積されたデータをユーザのニーズに合った形式で出力するのがアプリケーションです。そのデータをどういう形で蓄積すればよいのか，どのように検索すればよいのかといったことについて学びます。データベースについては，理論と実践というスタイルで講義します。理論として，関係データベースの設計方法と操作するための言語であるSQLについて学習します。一方，実践として，実務でよく使用されるデータベース用ソフトウェアPostgreSQLの操作方法について学習します。その他に，コンピュータについての知識についても学びます。\n\n\n【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。",
     "overview": "担当教員による講義と学生諸君からの質疑を組み合わせて授業を進めます。加えて、実践演習ではパソコンを使用します。初回のガイダンスで，講義の進め方と評価方法に関して確認をします。また，講義内容は受講者人数の状況により弾力的に変更する場合があります。授業の進捗に応じて，パソコンを用いる宿題を課す場合があります。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2"
     ],
     "textbooks": [
         {
             "title": "SQL 第2版 ゼロからはじめるデータベース操作",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "ミック",
             "publisher": "翔泳社",
             "price": 2068,
@@ -48,30 +48,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "コンピュータ概論"
         ],
-        "recommended_courses": [],
-        "brings": "PC、教科書、ノート、講義資料（事前配布）",
+        "recommended": [],
+        "required_materials": "PC、教科書、ノート、講義資料（事前配布）",
         "other": ""
     },
-    "evaluation_criteria": "【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。\n三点について「⑪学生に対する評価」に明記した方法で評価を行う。",
+    "grading_criteria": "【到達目標】\n（ⅰ）データベースの原理を理解する。\n（ⅱ）関係データベースの操作言語であるSQLを利用し説明できる。\n（ⅲ）上記キーワードから作られる情報や価値について理解する。\n三点について「⑪学生に対する評価」に明記した方法で評価を行う。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 20,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 40,
+        "report": 20,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "これらの知識や技能はITパスポートや基本情報技術者試験をはじめとする情報処理に関する国家試験を受験するときや，社会に出て実際の仕事を行う際に役立つでしょう。また、将来、高度な技術者を目指すときの基盤の知識になると思います。また指定した教科書の購入と、毎時間PCの持参を忘れずにお願いします。\n【予習・復習について】\n予習：授業計画に記載している実施内容を参考に、教科書の該当箇所に目を通しておくようにすること。\n復習：配付資料の理解、不明点をまとめる作業を中心に行うこと、練習問題に解答すること。\n※講義1回にあたり60～180分程度の予習・復習を目安とします。",
+    "teacher_message": "これらの知識や技能はITパスポートや基本情報技術者試験をはじめとする情報処理に関する国家試験を受験するときや，社会に出て実際の仕事を行う際に役立つでしょう。また、将来、高度な技術者を目指すときの基盤の知識になると思います。また指定した教科書の購入と、毎時間PCの持参を忘れずにお願いします。\n【予習・復習について】\n予習：授業計画に記載している実施内容を参考に、教科書の該当箇所に目を通しておくようにすること。\n復習：配付資料の理解、不明点をまとめる作業を中心に行うこと、練習問題に解答すること。\n※講義1回にあたり60～180分程度の予習・復習を目安とします。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション\n・授業形態\n・「デジタル社会とデータベース」\n・自己学習（教科書について）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "データベースの原理、コンピュータシステムの構成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "リレーショナルデータベースの基礎（講義）\nデータベースの設計１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "データベースの設計２（講義＋実習)（ER図作成）\n課題レポート有（データベース設計1,2について）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "データベースの正規化１（講義）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "データベースの正規化２（講義＋実習）\n課題レポート有（データベース正規化1,2について）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "PostgreSQLダウンロード（演習ツール準備）と操作法（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "データベース操作（テーブルの作成、削除、更新）（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "データベース操作（SQLで検索をする）（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "データベース操作（SQLで集約と並び替えをする）（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "データベース操作（SQLでデータを更新する）（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "データベース操作（SQLで複雑な問い合わせをする）（実習）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "データベース操作の復習（今までの操作の全体振り返り）（実習）\n※特に練習問題を中心に振り返る。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "最新のデータベース（グラフデータベース、キー・バリュー型データストア）（講義）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "本講義のまとめと振り返り（講義）\nテストについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,6 +221,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

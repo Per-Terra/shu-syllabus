@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:04:13Z",
+    "fetched_at": "2025-04-07T11:04:13Z",
     "name_ja": "財務会計論",
     "name_en": "Financial Accounting",
     "syllabus_number": "2038400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "手嶋　竜二",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）財務会計の仕組みと考え方を理解し，財務会計の役割が理解できる。 \n（２）企業活動と会計との関連を理解することができる。\n（３）財務諸表を分析することができる。",
+    "objectives": "【到達目標】\n（１）財務会計の仕組みと考え方を理解し，財務会計の役割が理解できる。 \n（２）企業活動と会計との関連を理解することができる。\n（３）財務諸表を分析することができる。",
     "overview": "本講義では、①企業の資金調達活動、仕入活動、製造活動、販売活動などがどのように数値として記録され、貸借対照表、損益計算書、キャッシュフロー計算書に集約されていくかについて、②企業の収益性分析、安全性分析の理論、について扱う。これらの理論を体系的に学習・習得することで企業の経営状況の分析及び経営改善に役立つ知識を学修できる。本講義を学修することで、ビジネスマンとして必要な企業の経営活動と関連付けながら財務諸表を分析でき、会計専門家として企業活動と関連付けながら企業取引を認識・測定・記録する基礎的理論を深めることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "ビジネス会計検定試験公式テキスト3級　第5版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "大阪商工会議所",
             "publisher": "中央経済社",
             "price": null,
@@ -50,32 +50,32 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "簿記初級Ⅰ・Ⅱ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、ノート、電卓、筆記用具",
+        "required_materials": "教科書、ノート、電卓、筆記用具",
         "other": "特になし"
     },
-    "evaluation_criteria": "①企業会計の理解，②貸借対照表の理解，③損益計算書の理解，④キャッシュ・フロー計算書の理解，および⑤財務諸表分析についての理解\n上記①～⑤に関する理解度を以下の「学生に対する評価」により評価する。",
+    "grading_criteria": "①企業会計の理解，②貸借対照表の理解，③損益計算書の理解，④キャッシュ・フロー計算書の理解，および⑤財務諸表分析についての理解\n上記①～⑤に関する理解度を以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 70,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 70,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "財務会計（企業会計）は，企業経営にデータを提供する重要な機能であり，これをなくして企業経営は成り立ちません。本科目を理解するために，① 予習としてテキストを読むこと。② 復習として，授業で行った内容についてテキストを見返しながらノートを整理すること。③ 本科目に関して，週に予習と復習に1.5時間程度ずつ費やす必要がある。",
+    "teacher_message": "財務会計（企業会計）は，企業経営にデータを提供する重要な機能であり，これをなくして企業経営は成り立ちません。本科目を理解するために，① 予習としてテキストを読むこと。② 復習として，授業で行った内容についてテキストを見返しながらノートを整理すること。③ 本科目に関して，週に予習と復習に1.5時間程度ずつ費やす必要がある。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス／授業の進め方、成績評価方法、財務会計とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "貸借対照表①／貸借対照表（B／S）の仕組み、資産の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "貸借対照表②／資産の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "貸借対照表③／負債の概念、純資産の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "損益計算書①／損益計算書（P／L）の仕組み、損益計算のルール",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "損益計算書②／売上総利益，営業利益",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "損益計算書③／経常利益、税引前当期純利益、当期純利益",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "キャッシュ・フロー計算書①／キャッシュ・フロー計算書とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "キャッシュ・フロー計算書②／B／SとP／Lとの関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャッシュ・フロー計算書③／様式，3つの活動区分",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "キャッシュ・フロー計算書④／キャッシュ・フローの増減",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "財務諸表分析①／財務諸表分析の基本体系、会社の比較",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "財務諸表分析②／百分比、成長性、伸び率",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "財務諸表分析③／流動性、自己資本比率",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ／その他分析と復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -223,6 +223,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

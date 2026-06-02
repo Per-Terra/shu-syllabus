@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:00:26Z",
+    "fetched_at": "2025-04-04T06:00:26Z",
     "name_ja": "チームマネジメント",
     "name_en": "Team management",
     "syllabus_number": "2017550A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "古殿　雄二",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,40 +26,40 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "〇授業のテーマ\n介護サービスの質を高める為に必要なチームマネジメントの基礎知識を理解し、チームの一員として活動する為の能力を養う。\n〇到達目標\n・自己を制御し、相手を尊重した言動ができる。\n・チームの一員としての役割を理解し、行動できる。\n・自己研鑽の必要性を理解し、自己研鑽に努めることができる。\n・組織の運営管理を理解できる。",
+    "objectives": "〇授業のテーマ\n介護サービスの質を高める為に必要なチームマネジメントの基礎知識を理解し、チームの一員として活動する為の能力を養う。\n〇到達目標\n・自己を制御し、相手を尊重した言動ができる。\n・チームの一員としての役割を理解し、行動できる。\n・自己研鑽の必要性を理解し、自己研鑽に努めることができる。\n・組織の運営管理を理解できる。",
     "overview": "講義形式で教授する。時に理解度を確認する為のディスカッションを行う。\nまた授業の理解度を把握する目的で、小レポート（授業で学んだこと・感想など）の提出を課すことがある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
-    "evaluation_criteria": "毎回の授業におけるコミュニケーションにおいて、相手を尊重した言動の中で自分の意見を主張できるか\n課題を指定して提出を求めるレポートの内容（指定枚数・書式・自己意見・参考文献など）",
+    "grading_criteria": "毎回の授業におけるコミュニケーションにおいて、相手を尊重した言動の中で自分の意見を主張できるか\n課題を指定して提出を求めるレポートの内容（指定枚数・書式・自己意見・参考文献など）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 10,
-        "レポート": 50,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 0,
+        "quiz": 10,
+        "report": 50,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "高齢者福祉・障害児福祉の現場に約４０年おりました。その経験をもとに、皆さんと一緒に「介護・福祉現場におけるチーム」のあり方、またチームの一員として役割などを学んでいきたいと思います。\n※分かりやすく、また実践的な授業となるよう努めたいと思っています。\n\n【予習・復習について】\n毎回ではありませんが、授業出席前に事前に調べて頂くこと・テーマについて意見をまとめて頂くことをお願いすることがあります。その際には、事前に調査・整理して授業に臨んで下さい。\n\n授業には、ノートパソコンをご持参ください。",
+    "teacher_message": "高齢者福祉・障害児福祉の現場に約４０年おりました。その経験をもとに、皆さんと一緒に「介護・福祉現場におけるチーム」のあり方、またチームの一員として役割などを学んでいきたいと思います。\n※分かりやすく、また実践的な授業となるよう努めたいと思っています。\n\n【予習・復習について】\n毎回ではありませんが、授業出席前に事前に調べて頂くこと・テーマについて意見をまとめて頂くことをお願いすることがあります。その際には、事前に調査・整理して授業に臨んで下さい。\n\n授業には、ノートパソコンをご持参ください。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "ガイダンス\n介護・福祉現場における働き方の実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -67,9 +67,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "介護・福祉現場で求められるチームマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "介護・福祉事業所の理念・基本方針について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "施設サービスにおけるチームアプローチの必要性と実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "在宅サービスにおけるチームアプローチの必要性と実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "組織の人間関係とコミュニケーションについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "介護チームにおける情報共有の必要性と実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "リーダシップ、フォロワーシップの理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "チームメンバーとしての自分の役割①（演習）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "介護福祉士としてのキャリアデザインについて考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "自己研鑽の必要性とその方法について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "介護・福祉サービスを支える組織の構造・機能を知る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "介護・福祉サービスを支える組織の運営管理・人材管理を知る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "チームメンバーとしての自分の役割②（演習）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "チームメンバーとしての自分の役割（発表演習）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -210,6 +210,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "1981年（昭和56年）9月１日 社会福祉法人洋福祉会（特別養護老人ホーム松寿苑）入職\n1999年（平成11年）9月１日 ～2021年（令和3年）2月28日 施設長 拝命\n平成15年6月～平成30年6月 山口県デイサービスセンター協議会 理事（平成22年4月以降は同協議会会長）\n平成16年5月～令和3年3月31日 山口県老人福祉施設協議会 理事（平成30年以降は同協議会副会長）\n現在、「福祉総合サポートセンター紡己（つむぎ）」代表（社会福祉士）"
+    "credit_auditing": false,
+    "practitioner_info": "1981年（昭和56年）9月１日 社会福祉法人洋福祉会（特別養護老人ホーム松寿苑）入職\n1999年（平成11年）9月１日 ～2021年（令和3年）2月28日 施設長 拝命\n平成15年6月～平成30年6月 山口県デイサービスセンター協議会 理事（平成22年4月以降は同協議会会長）\n平成16年5月～令和3年3月31日 山口県老人福祉施設協議会 理事（平成30年以降は同協議会副会長）\n現在、「福祉総合サポートセンター紡己（つむぎ）」代表（社会福祉士）"
 }

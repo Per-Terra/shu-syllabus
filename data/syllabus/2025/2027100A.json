@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:01:30Z",
+    "fetched_at": "2025-04-04T06:01:30Z",
     "name_ja": "ソーシャルワークの基盤と専門職Ⅰ",
     "name_en": "Common Base and Profession of Social WorkⅠ",
     "syllabus_number": "2027100A",
     "course_number": "23-1-22-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部",
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "竹下　徹",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①ソーシャルワークの基盤となる考え方について説明することができる。\n②ソーシャルワークの倫理内容を説明することができる。\n③ソーシャルワーク実践活動においてソーシャルワーク倫理が求められる理由について説明することができる。",
+    "objectives": "①ソーシャルワークの基盤となる考え方について説明することができる。\n②ソーシャルワークの倫理内容を説明することができる。\n③ソーシャルワーク実践活動においてソーシャルワーク倫理が求められる理由について説明することができる。",
     "overview": "本科目はソーシャルワークの概念をはじめ、ソーシャルワークの基盤となる原理や理念といった考え方を学ぶ科目である。またソーシャルワークに求められるソーャルワークの形成過程や倫理について学ぶ科目である。\n　授業内容は以下の通りである。\n①社会福祉士及び精神保健福祉士の法的な位置づけ\n②ソーシャルワークの基盤となる考え方とその形成過程\n③ソーシャルワークの概念\n④ソーシャルワークの倫理\n　本授業を通して学生が身に付ける能力は以下の通りである。\n①ソーシャルワークの基盤となる考え方を説明できる力\n②ソーシャルワークの倫理内容を説明できる力\n③ソーシャルワーク実践活動においてソーシャルワーク倫理が求められる理由を考察する力",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2",
         "福祉学科DP3",
         "人間コミュニケーション学科DP1",
@@ -41,7 +41,7 @@
     "textbooks": [
         {
             "title": "ソーシャルワークの基盤と専門職Ⅰ（基礎）",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "杉本敏夫 監修・立花直樹ほか編",
             "publisher": "ミネルヴァ書房",
             "price": 2640,
@@ -49,10 +49,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "最新 社会福祉士養成講座 精神保健福祉士養成講座11 ソーシャルワークの基盤と専門職［共通・社会専門］",
-            "year": 0,
+            "publication_year": null,
             "author": "一般社団法人日本ソーシャルワーク教育学校連盟 編",
             "publisher": "中央法規",
             "price": 3190,
@@ -60,27 +60,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "筆記試験（100％）",
+    "grading_criteria": "筆記試験（100％）",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この授業は、「ソーシャルワーク」について学ぶ最初の授業です。具体的な実践事例を用いて進めていきますので、現場をイメージしながら学んでいきましょう。授業に参加するにあたっては、次回の授業内容を参照し、教科書の該当ページを通読しておくこと(予習 2 時間程度)。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習 2 時間程度）。\n【オフィスアワー】 \n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "teacher_message": "この授業は、「ソーシャルワーク」について学ぶ最初の授業です。具体的な実践事例を用いて進めていきますので、現場をイメージしながら学んでいきましょう。授業に参加するにあたっては、次回の授業内容を参照し、教科書の該当ページを通読しておくこと(予習 2 時間程度)。授業後は、授業で説明した資料を再度確認し、重要な概念、専門用語を整理しておくこと（復習 2 時間程度）。\n【オフィスアワー】 \n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "社会福祉士、精神保健福祉士が求められる社会",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会福祉士及び精神保健福祉士の法的な位置づけ①（社会福祉士及び介護福祉士法）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "社会福祉士及び精神保健福祉士の法的な位置づけ②（社会福祉士及び介護福祉士法、精神保健福祉士法）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "社会福祉士及び精神保健福祉士の法的な位置づけ③（社会福祉士及び精 神保健福祉士の専門性）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ソーシャルワークの概念（ソーシャルワークの定義）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ソーシャルワークの基盤となる考え方①（ソーシャルワークの原理）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ソーシャルワークの基盤となる考え方②（ソーシャルワークの理念）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ソーシャルワークの基盤となる考え方③（ソーシャルワークの理念）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ソーシャルワークの形成過程①（慈善組織協会 ・セツルメント運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソーシャルワークの形成過程②（医学モデルから生活モデルへ）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ソーシャルワークの形成過程③（ソーシャルワークの統合化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ソーシャルワークの倫理①（専門職倫理の概念）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ソーシャルワークの倫理②（倫理綱領）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ソーシャルワークの倫理③（倫理的ジレンマ）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ソーシャルワークの倫理④（倫理的ジレンマ事例）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "社会福祉士としての実務経験を有する。"
+    "credit_auditing": false,
+    "practitioner_info": "社会福祉士としての実務経験を有する。"
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:04:40Z",
+    "fetched_at": "2025-04-04T06:04:40Z",
     "name_ja": "経済学入門Ⅰ",
     "name_en": "Introduction to Economics Ⅰ",
     "syllabus_number": "2106700A",
     "course_number": "11-1-21-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "村岡　浩次",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）ミクロ経済学の基礎が理解できた。\n（２）身の周りの経済現象を理解し、より合理的な判断を下すことができた。\n（３）経済学を応用し、現実世界の様々な問題を認識し、理論に即して分析を行い、他者に説得力を持って伝えることができた。",
+    "objectives": "【到達目標】\n（１）ミクロ経済学の基礎が理解できた。\n（２）身の周りの経済現象を理解し、より合理的な判断を下すことができた。\n（３）経済学を応用し、現実世界の様々な問題を認識し、理論に即して分析を行い、他者に説得力を持って伝えることができた。",
     "overview": "本講義では、経済学を構成する主要な原理について概観した後で、経済学者が経済学にアプローチする方法論や論文の書き方について学習する。その後は貿易理論を通じて比較優位や絶対優位等について学習し、貿易に参加した国を豊かにする取引を導出し、自由貿易について考察を深める。これらの基礎的な導入を経た後、ミクロ経済学の内容に進んでいく。まずは、需要と供給の作用について講義を行う。そして、価格の上限や下限といった政府の価格規制や税金が市場にもたらす影響について学ぶ。さらに、消費者余剰、生産者余剰を通じて市場の効率性について講義を行い、自由市場における自由放任（レッセ・フェール）の妥当性について検討する。次いで、外部性について学び、市場の失敗が起こった際に、どのような矯正が可能であるかについて検証を行う。学生は本講義を通じて、大学や社会で必要となる、課題や問題点を自ら発見し解決していく能力を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "経営コースDP1",
@@ -44,7 +44,7 @@
     "textbooks": [
         {
             "title": "マンキュー入門経済学（第４版）",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "N・グレゴリー・マンキュー",
             "publisher": "センゲージ・ラーニング株式会社",
             "price": 3960,
@@ -52,32 +52,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "特になし"
     },
-    "evaluation_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
+    "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 15,
-        "レポート": 15,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 15,
+        "report": 15,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "経済学は人生の意思決定において非常に有益な分析技法となります。新聞を読むことから始め、身の周りの経済現象を理解し、より合理的な判断を下せるようになりましょう。\n　基本的に講義形式で授業を進めて行きますが、新聞などの実際の事例を取り上げ、皆さんとの活発な議論を期待します。ただ講義を受けるのではなく、常に自分の疑問を持って授業を聞き、質問をぶつけてみてください。議論することで新たな知見や見方が広がることでしょう。\n\n【予習・復習について】\n予習については、次回授業で取り上げる内容について、教科書の該当部分を読んでおくこと。\n復習については、配付資料並びに教科書の該当部分を読み直し、知識の定着とともに自分の疑問を整理しておくこと。\nこれら予習・復習を合わせて９０分程度行うことが望ましい。",
+    "teacher_message": "経済学は人生の意思決定において非常に有益な分析技法となります。新聞を読むことから始め、身の周りの経済現象を理解し、より合理的な判断を下せるようになりましょう。\n　基本的に講義形式で授業を進めて行きますが、新聞などの実際の事例を取り上げ、皆さんとの活発な議論を期待します。ただ講義を受けるのではなく、常に自分の疑問を持って授業を聞き、質問をぶつけてみてください。議論することで新たな知見や見方が広がることでしょう。\n\n【予習・復習について】\n予習については、次回授業で取り上げる内容について、教科書の該当部分を読んでおくこと。\n復習については、配付資料並びに教科書の該当部分を読み直し、知識の定着とともに自分の疑問を整理しておくこと。\nこれら予習・復習を合わせて９０分程度行うことが望ましい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n\n経済学とは―その意義と概要―\n\n経済に関する新聞記事の収集と考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "経済学の１０大原理\n\n１０大原理に対する考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "経済学者らしく考える\n\n仮定やモデルの意義について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "市場における需要と供給\n\n市場と競争　需要\n\n市場の種類と需要に影響を与える要因についての考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "市場における需要と供給\n\n供給\n\n供給に影響を与える要因についての考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "市場における需要と供給\n\n需要と供給　均衡\n\n供給曲線や需要曲線がシフトした際の価格と取引量の変化の考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "需要、供給、および政府の政策\n\n価格規制\n\n価格の上限と下限はどのような帰結をもたらすか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "需要、供給、および政府の政策\n\n税金\n\n売り手への課税と買い手への課税の結果についての考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "需要、供給、および政府の政策\n\n弾力性：需要の価格弾力性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "消費者、生産者、市場の効率性\n\n消費者余剰　生産者余剰\n\n消費者余剰、生産者余剰の概念について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "消費者、生産者、市場の効率性\n\n総余剰　市場の効率性\n\n市場が効率的であるための条件の考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "外部性\n\n外部性と市場の非効率性\n\n外部性、外部性の内部化について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "外部性\n\n当事者間による外部性の解決法\n\nコースの定理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "外部性\n\n外部性に対する公共政策\n\nピグー税",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ミクロ経済学総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

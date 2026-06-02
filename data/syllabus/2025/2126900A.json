@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:34:18Z",
+    "fetched_at": "2025-04-07T10:34:18Z",
     "name_ja": "解析基礎",
     "name_en": "Fundamentals of Analysis",
     "syllabus_number": "2126900A",
     "course_number": "31-2-21-34-09",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "中山　季之",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -26,21 +26,21 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "１.解析学の基礎を理解し、応用とのつながりを意識できるようになる。\n２.数理モデルのアルゴリズムの収束性や安定性を、解析学的視点から評価できるようになる。\n３.モデルのパラメータ変化に対する出力の変化を定量的に捉えられるようになる。\n４.解析学を通じて数理モデルの構造を抽象的に捉える力を養い、特定の現象にとどまらず他分野にも応用・拡張できる一般化能力を獲得する。",
+    "objectives": "１.解析学の基礎を理解し、応用とのつながりを意識できるようになる。\n２.数理モデルのアルゴリズムの収束性や安定性を、解析学的視点から評価できるようになる。\n３.モデルのパラメータ変化に対する出力の変化を定量的に捉えられるようになる。\n４.解析学を通じて数理モデルの構造を抽象的に捉える力を養い、特定の現象にとどまらず他分野にも応用・拡張できる一般化能力を獲得する。",
     "overview": "データ分析が日常の中に入り込んでいる現在、社会の多くの分野で「数学的視点」が求められています。例えば、商品のレコメンド、病気の診断補助、株価の予測など、背景には「解析学」に基づく理論が深く関わっています。この授業では、そうした現実世界の問題を数学的に理解・解決するための土台を築いていきます。\n具体的には、極限・連続性・微分・積分といった概念の多変数関数への拡張に加え、最適化、関数列・関数空間、ルベーグ積分など、解析学の基本テーマの中から、特に統計学、機械学習、金融工学との関連で優先順位の高いトピックを取り上げます。各回の講義では、理論の厳密な理解とともに、その応用的意義についても言及し、数学的直観と情報科学への橋渡しを意識した構成とします。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "解析入門I",
-            "year": 1980,
+            "publication_year": 1980,
             "author": "杉浦光夫",
             "publisher": "東京大学出版会",
             "price": 3080,
@@ -49,7 +49,7 @@
         },
         {
             "title": "解析入門Ⅱ",
-            "year": 1985,
+            "publication_year": 1985,
             "author": "杉浦光夫",
             "publisher": "東京大学出版会",
             "price": 3740,
@@ -58,7 +58,7 @@
         },
         {
             "title": "関数解析の基礎: ∞次元の微積分",
-            "year": 2005,
+            "publication_year": 2005,
             "author": "堀内利郎、下村勝孝",
             "publisher": "内田老鶴圃",
             "price": 4180,
@@ -66,31 +66,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "筆記用具",
+        "required_materials": "筆記用具",
         "other": ""
     },
-    "evaluation_criteria": "中間小テスト40%、期末小テスト40%、期末レポート10%、授業貢献度10%を原則として総合評価します。2回の小テストは、各授業で出題する演習問題が中心です。",
+    "grading_criteria": "中間小テスト40%、期末小テスト40%、期末レポート10%、授業貢献度10%を原則として総合評価します。2回の小テストは、各授業で出題する演習問題が中心です。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 80,
-        "レポート": 10,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 0,
+        "quiz": 80,
+        "report": 10,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "私たちが使う数理モデルやアルゴリズムの多くは、解析学に深く根ざしています。この授業では、数学に不安を感じる学生も安心して学べるよう、段階的かつわかりやすい説明を心がけます。\n各講義の後は、演習問題を解いて理解度を確認してください（約1時間程度）。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "私たちが使う数理モデルやアルゴリズムの多くは、解析学に深く根ざしています。この授業では、数学に不安を感じる学生も安心して学べるよう、段階的かつわかりやすい説明を心がけます。\n各講義の後は、演習問題を解いて理解度を確認してください（約1時間程度）。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "実数列の極限、実数の連続性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "関数の極限、連続性とその種類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "微分可能性、テイラー展開とその誤差評価",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "関数列と関数級数（収束の種類、テイラー級数とフーリエ級数）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "多変数関数の微分と連鎖律",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "勾配・ヘッセ行列と最適化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ラグランジュの未定乗数法（制約条件付き最適化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "微分方程式の基礎と応用の紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "重積分",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "広義積分とその収束",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ルベーグ積分の概念紹介（確率論、期待値計算との関連も含む）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "関数空間とp乗可積分空間",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "関数解析の基礎（バナッハ空間とヒルベルト空間）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめと発展的な話題の紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -238,6 +238,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "これまでの実務経験において、数学の応用・活用を広範かつ高度に長年行ってきており、学術的な内容を中心としつつも、現実での適用例などを適宜加えていく。"
+    "credit_auditing": false,
+    "practitioner_info": "これまでの実務経験において、数学の応用・活用を広範かつ高度に長年行ってきており、学術的な内容を中心としつつも、現実での適用例などを適宜加えていく。"
 }

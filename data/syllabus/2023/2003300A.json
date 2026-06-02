@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:02:06Z",
+    "fetched_at": "2024-08-08T01:02:06Z",
     "name_ja": "地域づくり論",
     "name_en": "",
     "syllabus_number": "2003300A",
     "course_number": "00TP201",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "杉岡　茂",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,35 +27,35 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "（ⅰ）「地域づくり」に取り組むにあたって必要となる基本的な知識・手法を習得する\n（ⅱ）「地域づくり」について、具体的な取り組み事例を理解する",
+    "objectives": "（ⅰ）「地域づくり」に取り組むにあたって必要となる基本的な知識・手法を習得する\n（ⅱ）「地域づくり」について、具体的な取り組み事例を理解する",
     "overview": "「地域づくり」について多角的な視点（ヒトづくり、組織づくり、法制度、調査・分析手法等）から分析し、それぞれの視点から必要となる知識を習得する。\n　実際に「地域づくり」に取り組んでいる方々にも授業に参加していただき、「地域づくり」の具体的イメージを実感する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "（ⅰ）「地域づくり」に取り組むにあたって必要となる基本的な知識・手法を習得する\n（ⅱ）「地域づくり」について、具体的な取り組み事例を理解する\n各基準を⑪によって評価する",
+    "grading_criteria": "（ⅰ）「地域づくり」に取り組むにあたって必要となる基本的な知識・手法を習得する\n（ⅱ）「地域づくり」について、具体的な取り組み事例を理解する\n各基準を⑪によって評価する",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "各回の授業内容について、30分～90分程度見直しをすること。",
+    "teacher_message": "各回の授業内容について、30分～90分程度見直しをすること。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "総論（導入）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -63,9 +63,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "山の地域づくり（実例）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "海の地域づくり（実例）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "街の地域づくり（実例）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "福祉の地域づくり（実例）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "地域づくりの先行事例",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "地域づくりにおける自治体の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "地域の成り立ち（周南市の歴史）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "地域づくりのための調査",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "地域づくりのための話し合い",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "地域づくりのためのヒトづくり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "地域づくりのための組織づくり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域づくりのための資金づくり（寄付等）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域づくりのための法制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,6 +203,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "実務家教員担当科目に関する記載\nこの講座を担当する実務家教員の職歴と授業内容\n【 職 歴 】 \n弁護士　税理士　社会保険労務士　行政書士　司法書士　各登録\n２００５年４月～２０１２年３月広島大学講師\n２０１５年４月～２０１９年３月徳山大学講師\n \n【実務経験を活用した授業内容】\n地域づくりに関連する法制度について実践的な解説を行う。\n地域に根ざした同族中小企業へのコンサルティング経験に基づく地域づくりへの理解を授業に反映する。\n上記コンサルティング経験等を通じて培われたネットワークを活用し、地域づくりの実践家をゲストに招く。"
+    "credit_auditing": false,
+    "practitioner_info": "実務家教員担当科目に関する記載\nこの講座を担当する実務家教員の職歴と授業内容\n【 職 歴 】 \n弁護士　税理士　社会保険労務士　行政書士　司法書士　各登録\n２００５年４月～２０１２年３月広島大学講師\n２０１５年４月～２０１９年３月徳山大学講師\n \n【実務経験を活用した授業内容】\n地域づくりに関連する法制度について実践的な解説を行う。\n地域に根ざした同族中小企業へのコンサルティング経験に基づく地域づくりへの理解を授業に反映する。\n上記コンサルティング経験等を通じて培われたネットワークを活用し、地域づくりの実践家をゲストに招く。"
 }

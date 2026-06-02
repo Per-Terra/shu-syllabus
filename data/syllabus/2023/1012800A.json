@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-08T01:00:49Z",
+    "fetched_at": "2024-08-08T01:00:49Z",
     "name_ja": "ビジネス英会話",
     "name_en": "",
     "syllabus_number": "1012800A",
     "course_number": "00EG203",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "ポーリーン",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ボールドウィン",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -32,35 +32,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "Students will discuss business practices and the type of English used in meetings  and conferences as opposed to daily conversation.\nCommunication skills will be improved through listening, speaking, reading, and writing. Students will watch videos depicting various business scenes, especially in the International community, and discuss the differences between Japanese business etiquette and what is more common in the English speaking world.\n\n[Target]\nTo gain confidence in business communication.",
+    "objectives": "Students will discuss business practices and the type of English used in meetings  and conferences as opposed to daily conversation.\nCommunication skills will be improved through listening, speaking, reading, and writing. Students will watch videos depicting various business scenes, especially in the International community, and discuss the differences between Japanese business etiquette and what is more common in the English speaking world.\n\n[Target]\nTo gain confidence in business communication.",
     "overview": "In each class, students will have an opportunity to summarize an article of their choice and point out issues that need to be discussed.\nThrough these discussions, students will learn more appropriate grammar, vocabulary, idioms, and other forms of business expression. During the term, students will be asked to give periodic presentations and share new business ideas. The final test will be a business presentation.",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "English-Japanese dictionary",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "English-Japanese dictionary",
         "other": "There will be no dictionary for this class. The teacher and students will bring materials each class."
     },
-    "evaluation_criteria": "(i) Active class participation(asking questions, eliciting answers, class preparation) \n(ii) Eye contact and expression\n(iii) Content and vocabulary usage\n(iv) Clarity and grammar",
+    "grading_criteria": "(i) Active class participation(asking questions, eliciting answers, class preparation) \n(ii) Eye contact and expression\n(iii) Content and vocabulary usage\n(iv) Clarity and grammar",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 30,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "The most important thing about learning to communicate in a different language is to be interested and enjoy. Together, we can help you to communicate in a business setting more naturally.\nSome of the class content below is subject to change, depending on specific class interests and needs.\n【Preparation & Review】\nThe teacher will give you instructions every class, for the next class.",
+    "teacher_message": "The most important thing about learning to communicate in a different language is to be interested and enjoy. Together, we can help you to communicate in a business setting more naturally.\nSome of the class content below is subject to change, depending on specific class interests and needs.\n【Preparation & Review】\nThe teacher will give you instructions every class, for the next class.",
     "schedule": [
         {
-            "session": "1 and 2",
+            "number": "1 and 2",
             "content": "Introduction of the course and orientation. Discussion about interests and business opportunities/ideas.\nBuild vocabulary and expressions.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -70,9 +70,9 @@
             ]
         },
         {
-            "session": "3 and 4",
+            "number": "3 and 4",
             "content": "Read newspaper article about business styles in Japan.\nBuild vocabulary and expressions.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "5 and 6",
+            "number": "5 and 6",
             "content": "Learning about business networking. See how it is done in Japan and in other countries.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "7 and 8",
+            "number": "7 and 8",
             "content": "Review different types of businesses and make a presentation about your ideal position in your ideal business.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "9 and 10",
+            "number": "9 and 10",
             "content": "Business meetings. Learn vocabulary and skills related to participating in meetings. Learn terms and phrases used both in email and in speaking to arrange, participate in, and conclude meetings.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "11 and 12",
+            "number": "11 and 12",
             "content": "Planning and negotiating. Hosting an event and finding an appropriate venue for it. Learn language and strategies for successful negotiations",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "13 and 14",
+            "number": "13 and 14",
             "content": "Watch videos of different business interactions. Discuss what you have learned.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "15 and 16",
+            "number": "15 and 16",
             "content": "Choose a topic for debate. Prepare pros and cons (both).\nPractice speaking with confidence.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "17 and 18",
+            "number": "17 and 18",
             "content": "Debate.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "19 and 20",
+            "number": "19 and 20",
             "content": "Brainstorming on various topics. Slimming down for clarity.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "21 and 22",
+            "number": "21 and 22",
             "content": "Making outlines for effective presentations.\nReview grammar, vocabulary, and expressions.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "23 and 24",
+            "number": "23 and 24",
             "content": "Watch business presentations. Discuss what you can use and make your own.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "25 and 26",
+            "number": "25 and 26",
             "content": "Practice pronunciation, rhythm, and rhetoric to be effective and convincing in business.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "27 and 28",
+            "number": "27 and 28",
             "content": "Review vocabulary, expressions and making outlines.\nPrepare charts and graphs to use in final presentation.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "29 and 30",
+            "number": "29 and 30",
             "content": "Introduce business ideas and make presentations.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -240,6 +240,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

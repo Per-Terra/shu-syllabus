@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T11:06:07Z",
+    "fetched_at": "2025-04-07T11:06:07Z",
     "name_ja": "微分積分基礎",
     "name_en": "Basics of Calculus",
     "syllabus_number": "2101000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "道山　知成",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "木島　正明",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -31,21 +31,21 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "微分積分学はものの量とその変化を扱う学問であり、データサイエンス分野において、統計モデルや数理モデルの構築およびその解を導く際の基礎となるものである。本講義では、解析学の最も基本的な部分である微分法と積分法の基礎を学ぶ。\n１．微分積分学の基本概念を理解し、演算ができる。\n２．自然、社会の諸現象に対し、微分積分学の考え方を応用でき、数理モデルを理解する基礎を身に付けている。",
+    "objectives": "微分積分学はものの量とその変化を扱う学問であり、データサイエンス分野において、統計モデルや数理モデルの構築およびその解を導く際の基礎となるものである。本講義では、解析学の最も基本的な部分である微分法と積分法の基礎を学ぶ。\n１．微分積分学の基本概念を理解し、演算ができる。\n２．自然、社会の諸現象に対し、微分積分学の考え方を応用でき、数理モデルを理解する基礎を身に付けている。",
     "overview": "すべての数学の土台である集合と論理に始まり、1変数関数の微分、テーラー展開、1変数関数の定積分と不定積分、多変数関数の微分、多変数関数の積分、微分方程式とその解法について学ぶ。本講義は主に講義形式で授業を進めるが、必要に応じて演習問題を解かせたり、小テストを課したりする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "経済と金融工学の基礎数学",
-            "year": 1999,
+            "publication_year": 1999,
             "author": "木島，岩城",
             "publisher": "朝倉書店",
             "price": 2900,
@@ -53,27 +53,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "中間試験，期末試験，小テストの総合評価",
+    "grading_criteria": "中間試験，期末試験，小テストの総合評価",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "数学の理解のためには、概念について深く考えた上で、自ら手を動かして計算してみることが重要です。そのため、なるべく多くの演習問題を講義中に解いてもらい、わからないところはその日のうちに質問して解決するようにして下さい。",
+    "teacher_message": "数学の理解のためには、概念について深く考えた上で、自ら手を動かして計算してみることが重要です。そのため、なるべく多くの演習問題を講義中に解いてもらい、わからないところはその日のうちに質問して解決するようにして下さい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、集合と論理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "写像と関数、指数関数、対数関数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "数列と級数、漸化式",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "関数と極限、連続関数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "関数の微分、導関数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "合成関数の微分",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "微分法とその応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "微分法の理解の確認（中間試験）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "面積と定積分、不定積分、微分と積分の関係",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "微分方程式とその応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "多変数関数の微分：偏微分と全微分",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "多変数関数の微分：極値問題、偏微分方程式",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "多変数関数の積分",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "制約付き最適化問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ：微分積分学の総復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

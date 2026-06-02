@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:55:00Z",
+    "fetched_at": "2025-04-04T05:55:00Z",
     "name_ja": "日本語表現法Ⅱ",
     "name_en": "Japanese II",
     "syllabus_number": "1000820B",
     "course_number": "11-1-20-22-05",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "山本　晋也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,42 +26,42 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義の目標は、日本語表現法Ⅰで学んだ文章作成の基礎を踏まえ、800字～1200字程度の文章作成ができるようになることである。文章の内容として学部の専門分野に関連した話題のほか、時事問題や社会問題を取り上げ、論理的な思考能力・表現能力を養う。具体的な到達目標は、以下3点である。\n1）あるテーマに関する800字～1200字程度の文章作成ができるようになる\n2）読者からのコメントを受け、適切に文章を見直すことができる\n3）一定の専門的な話題について理解を深め、その表現に際して適切な文章形式を選択することができる",
+    "objectives": "本講義の目標は、日本語表現法Ⅰで学んだ文章作成の基礎を踏まえ、800字～1200字程度の文章作成ができるようになることである。文章の内容として学部の専門分野に関連した話題のほか、時事問題や社会問題を取り上げ、論理的な思考能力・表現能力を養う。具体的な到達目標は、以下3点である。\n1）あるテーマに関する800字～1200字程度の文章作成ができるようになる\n2）読者からのコメントを受け、適切に文章を見直すことができる\n3）一定の専門的な話題について理解を深め、その表現に際して適切な文章形式を選択することができる",
     "overview": "本講義では、日本語表現法Ⅰで学んだ文章作成の基礎を踏まえ、800字～1200字程度の文章作成ができるようになることを目指す。また、文章の内容として学部の専門分野に関連した話題のほか、時事問題や社会問題を取り上げ、論理的な思考能力・表現能力を養う。講義では、講師からの話題提供をもとに自身の意見をまとめ、グループディスカッションやプレゼンテーション等の形式で他者と共有する活動を行う。そして、他者との意見交換をもとに練り上げられた自身の意見を文章として表現する。上記の活動を通じて、論理的な思考能力・表現能力の育成を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "日本語表現法Ⅰ"
         ],
-        "brings": "個人用PC",
+        "required_materials": "個人用PC",
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます"
     },
-    "evaluation_criteria": "本講義における成績評価は、①期末レポート、②小課題、③ポートフォリオの3点で行う。①は、学期中に仮原稿の提出・推敲を行い、完成したものを最終版として提出する。②は、講義に関する小レポートや練習問題などである。③は、関連する提出物である。",
+    "grading_criteria": "本講義における成績評価は、①期末レポート、②小課題、③ポートフォリオの3点で行う。①は、学期中に仮原稿の提出・推敲を行い、完成したものを最終版として提出する。②は、講義に関する小レポートや練習問題などである。③は、関連する提出物である。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 30,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "本講義は、日本での大学生活を送る上で重要な土台となる文章作成について学びます。\n講義で指示された課題をしっかりと行い、提出を忘れないようにしてください。毎回の授業後の課題作成には、120分程度の時間を要します。また、講義内容の理解に関して、毎回120分程度の予習・復習を実施してください。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。",
+    "teacher_message": "本講義は、日本での大学生活を送る上で重要な土台となる文章作成について学びます。\n講義で指示された課題をしっかりと行い、提出を忘れないようにしてください。毎回の授業後の課題作成には、120分程度の時間を要します。また、講義内容の理解に関して、毎回120分程度の予習・復習を実施してください。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "授業ガイダンス・オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "深い自己紹介を書く",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "大学って何をするところ①　テキスト読解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "大学って何をするところ②　Aさんの事例から",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "大学って何をするところ③　Bさんの事例から",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "大学って何をするところ④　まとめとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "過去・現在・未来を結ぶ①　20答法で振り返る自己",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "過去・現在・未来を結ぶ②　変わったこと・変わらないこと",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "過去・現在・未来を結ぶ③　ライフストーリーマップを描く",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "過去・現在・未来を結ぶ④　まとめとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "働き方を考える①　日本的・欧米的な労働観",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "働き方を考える②　日本の労働問題から",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "働き方を考える③　わたしのキャリア形成について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "最終レポートの修正・検討",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "最終レポート評価会",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,6 +209,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

@@ -1,48 +1,48 @@
 {
-    "_fetched_at": "2025-04-04T06:05:46Z",
+    "fetched_at": "2025-04-04T06:05:46Z",
     "name_ja": "基礎看護技術Ⅱ（診療に伴う技術）",
     "name_en": "Nursing Skills Ⅱ",
     "syllabus_number": "2116500A",
     "course_number": "22-2-22-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "堂本　司",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "磯濱　真理子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "上野　和美",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "杉本　吉恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "藤井　宝恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "福森　絢子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "田中　智子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -51,12 +51,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．診療における看護師の役割を説明できる。\n２．診療の補助技術の目的、方法、留意点を専門知識と根拠に基づき説明できる。\n３．診療の補助技術を安全・安楽に配慮しながら実施できる。",
+    "objectives": "１．診療における看護師の役割を説明できる。\n２．診療の補助技術の目的、方法、留意点を専門知識と根拠に基づき説明できる。\n３．診療の補助技術を安全・安楽に配慮しながら実施できる。",
     "overview": "本授業では、高度化する治療・検査に対応するための基本的知識や技術を習得する。処置・与薬、検査などに対応した診療における看護師の役割を理解し、診療の補助技術を習得することを目的とする。演習では看護師、患者、観察者の役割体験を通して、対象者とのコミュニケーションの重要性を理解するとともに、対象者を尊重する態度を養い、安全・安楽な診療の補助技術を習得・実践する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP2",
         "看護学科DP3",
         "看護学科DP4"
@@ -64,7 +64,7 @@
     "textbooks": [
         {
             "title": "系統看護学講座 専門分野 基礎看護学[３] 基礎看護技術Ⅱ 第19版",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "任　和子",
             "publisher": "医学書院",
             "price": 3520,
@@ -73,7 +73,7 @@
         },
         {
             "title": "看護がみえるvol.１ 基礎看護技術 第２版",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "医療情報科学研究所",
             "publisher": "メディックメディア",
             "price": 3300,
@@ -82,7 +82,7 @@
         },
         {
             "title": "看護がみえるvol.２ 臨床看護技術 第１版",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "医療情報科学研究所",
             "publisher": "メディックメディア",
             "price": 3300,
@@ -90,10 +90,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "根拠と事故防止からみた基礎・臨床看護技術 第3版",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "任　和子",
             "publisher": "医学書院",
             "price": 6050,
@@ -101,31 +101,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "看護学概論"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、配布資料、ノートパソコンまたはタブレット端末。演習時の服装は、実習着、ナースシューズとする。",
+        "required_materials": "教科書、配布資料、ノートパソコンまたはタブレット端末。演習時の服装は、実習着、ナースシューズとする。",
         "other": "本科目の単位取得は、基礎看護実習Ⅱの履修要件となる。"
     },
-    "evaluation_criteria": "筆記試験40％、実技試験50％、提出物10％で総合的に評価する。筆記試験は得点の60％以上で、実技試験は得点の70％以上で合格とする。実技試験及び筆記試験がいずれも合格することが必要である。\n　成績の総合評価は、100点満点で60点以上を合格とし、60点未満を不合格とする。なお、実技試験及び筆記試験のいずれか、または両方に合格できない場合、総合評価が60点以上でも不合格とする。",
+    "grading_criteria": "筆記試験40％、実技試験50％、提出物10％で総合的に評価する。筆記試験は得点の60％以上で、実技試験は得点の70％以上で合格とする。実技試験及び筆記試験がいずれも合格することが必要である。\n　成績の総合評価は、100点満点で60点以上を合格とし、60点未満を不合格とする。なお、実技試験及び筆記試験のいずれか、または両方に合格できない場合、総合評価が60点以上でも不合格とする。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 40,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "授業時間以外の予習・復習は、それぞれ１時間費やしてください。",
+    "teacher_message": "授業時間以外の予習・復習は、それぞれ１時間費やしてください。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "診療に伴う補助技術　診療における看護師の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "感染防止の技術①　無菌操作",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "感染防止の技術②　滅菌物の取り扱い／滅菌手袋の着用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "感染防止の技術②　滅菌物の取り扱い／滅菌手袋の着用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "排泄援助技術①　自然排泄",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "排泄援助技術②　導尿／浣腸",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "排泄援助技術③　便尿器交換・おむつ・陰部洗浄",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "排泄援助技術③　便尿器交換・おむつ・陰部洗浄",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "排泄援助技術④　導尿",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -243,9 +243,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "排泄援助技術④　導尿",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -259,9 +259,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "呼吸・循環を整える技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "食事援助技術　経管栄養法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -280,9 +280,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "技術トレーニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "技術トレーニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -312,9 +312,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "与薬の技術①　与薬の基礎知識／皮下・皮内・筋肉内注射",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -322,9 +322,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "与薬の技術②　静脈注射／点滴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -332,9 +332,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "実技のまとめ、到達度の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -348,9 +348,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "実技のまとめ、到達度の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "与薬の技術③　皮下注射／筋肉内注射",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -380,9 +380,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "与薬の技術③　皮下注射／筋肉内注射",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -396,9 +396,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "症状・生体機能管理技術①　各検査の検査値・データ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -406,9 +406,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "与薬の技術④　静脈注射 ワンショット／点滴",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -422,9 +422,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "与薬の技術④　静脈注射 ワンショット／点滴",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -438,9 +438,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "症状・生体機能管理技術②　静脈血採血",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -454,9 +454,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "症状・生体機能管理技術②　静脈血採血",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -470,9 +470,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "創傷管理技術①　創傷管理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -481,9 +481,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "創傷管理技術②　創処置／包帯法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -497,9 +497,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "診療・検査・処置における技術　診察介助／検査・処置介助",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -507,9 +507,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "シミュレーション　ルート管理を要する患者の清拭・寝衣交換",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -523,9 +523,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "シミュレーション　ルート管理を要する患者の清拭・寝衣交換",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -539,6 +539,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "看護師として病院での勤務経験のある教員が、その実務経験を生かし、診療の補助技術を教授する。"
+    "credit_auditing": false,
+    "practitioner_info": "看護師として病院での勤務経験のある教員が、その実務経験を生かし、診療の補助技術を教授する。"
 }

@@ -1,27 +1,27 @@
 {
-    "_fetched_at": "2025-04-04T06:00:21Z",
+    "fetched_at": "2025-04-04T06:00:21Z",
     "name_ja": "社会保障Ⅰ",
     "name_en": "Social Security I",
     "syllabus_number": "2016200A",
     "course_number": "29-2-36-21-03、23-2-21-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "脇野　幸太郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,22 +29,22 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会保障の概念や対象及びその理念について、社会保障制度の展開過程も含めて説明できる。 \n②現代社会における社会保障制度の役割と意義、取り組むべき課題を説明できる。 \n③わが国における社会保障制度の財政の状況や仕組みついて説明できる。",
+    "objectives": "①社会保障の概念や対象及びその理念について、社会保障制度の展開過程も含めて説明できる。 \n②現代社会における社会保障制度の役割と意義、取り組むべき課題を説明できる。 \n③わが国における社会保障制度の財政の状況や仕組みついて説明できる。",
     "overview": "本科目は現代社会における社会保障制度の現状について学び、社会保障の概念をはじめ理念や対象、そして社会保障制度の果たす意義や役割について学ぶ科目である。本講義は、社会保障の総論部分について、法的な観点から理解・把握することを目的とする。それを通じて、私たちの「権利」としての社会保障の意義や必要性、持続可能性などについての理解を深めたい。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2",
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "社会保障法　第3版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "菊池　馨実",
             "publisher": "有斐閣",
             "price": 5500,
@@ -52,27 +52,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "筆記用具、前回授業時配布レジュメ",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具、前回授業時配布レジュメ",
         "other": "毎回レジュメを配布し、それに基づいて授業を進めます。"
     },
-    "evaluation_criteria": "定期試験と、毎回の授業後課題により評価します。また、受講態度を重視します。",
+    "grading_criteria": "定期試験と、毎回の授業後課題により評価します。また、受講態度を重視します。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "・日ごろから、社会保障や社会福祉の問題について関心を持ち、新聞やニュースを見るよう心掛けてください。\n・毎回、授業後課題を提示しますので、期限までに提出してください（評価の一環となります）。\n\n新聞やニュース、レジュメの読み返しなどを含め、事前・事後学習として次回の講義までに4時間程度の時間を要する。\n\n【オフィスアワー】 講義のある曜日　不在時はチャットで受け付けます。",
+    "teacher_message": "・日ごろから、社会保障や社会福祉の問題について関心を持ち、新聞やニュースを見るよう心掛けてください。\n・毎回、授業後課題を提示しますので、期限までに提出してください（評価の一環となります）。\n\n新聞やニュース、レジュメの読み返しなどを含め、事前・事後学習として次回の講義までに4時間程度の時間を要する。\n\n【オフィスアワー】 講義のある曜日　不在時はチャットで受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション：授業の進め方\n現代社会における社会保障制度の現状（人口動態の変化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "現代社会における社会保障制度の現状（経済環境の変化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "現代社会における社会保障制度の現状（労働環境の変化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "社会保障の概念や対象及びその理念（社会保障の概念と範囲）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "社会保障の概念や対象及びその理念（社会保障の役割と意義）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "社会保障の概念や対象及びその理念（社会保障の理念）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "社会保障の概念や対象及びその理念（社会保障の対象）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "社会保障の歴史的変遷（戦前まで）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "社会保障制度の歴史的変遷（戦後から今日まで）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "社会保障と財政（社会保障の財源①）：一般会計と地方経費）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "社会保障と財政（社会保障の財源②）：社会保険料",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "社会保障と財政（社会保障の財源③）：利用者負担と財政調整",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "社会保障と財政（社会保障給付費）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "社会保障と財政（国民負担率）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "社会保障と財政（社会保障と経済）、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,6 +220,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T00:55:44Z",
+    "fetched_at": "2024-08-08T00:55:44Z",
     "name_ja": "経済学(b)",
     "name_en": "Economics",
     "syllabus_number": "1001800B",
     "course_number": "10EN101",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "総合科目",
-    "main_department": "経済学部",
+    "category": "総合科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "田尾　真一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,17 +27,17 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義は、これから経済学を学んでいく上で、最低限身につけておいてほしい基礎を教えることを目的としています。また、社会人が教養として身につけておくべき最低限のエコノミック・リテラシーを習得することも目的としています。そのため、「経済」とは何か、「経済学」とはどのような学問なのかといった根本的な問いから、主流派経済学であるミクロ経済学・マクロ経済学の基礎・考え方について幅広く学習していきます。本講義を履修することで、経済学的な考え方が身につき、今後の学習のステップになるでしょう。\n\n【到達目標】\n(ⅰ) 経済学に関する基礎的な知識の習得\n(ⅱ) ミクロ経済学の基礎の習得（需要と供給・余剰分析）\n(ⅲ) マクロ経済学の基礎の習得（財市場・貨幣市場、IS-LM分析）",
+    "objectives": "本講義は、これから経済学を学んでいく上で、最低限身につけておいてほしい基礎を教えることを目的としています。また、社会人が教養として身につけておくべき最低限のエコノミック・リテラシーを習得することも目的としています。そのため、「経済」とは何か、「経済学」とはどのような学問なのかといった根本的な問いから、主流派経済学であるミクロ経済学・マクロ経済学の基礎・考え方について幅広く学習していきます。本講義を履修することで、経済学的な考え方が身につき、今後の学習のステップになるでしょう。\n\n【到達目標】\n(ⅰ) 経済学に関する基礎的な知識の習得\n(ⅱ) ミクロ経済学の基礎の習得（需要と供給・余剰分析）\n(ⅲ) マクロ経済学の基礎の習得（財市場・貨幣市場、IS-LM分析）",
     "overview": "基本的には講義形式で授業を進めますが、学生との議論も交えながら行いたいと考えています。また、「生きた経済学」を学んでもらうために、できるだけ実際の経済現象を題材として取り上げていきます。単に受動的に講義を受けるのではなく、常に経済問題にも意識を向け、疑問を持って講義に臨んでもらいたいと思います。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "マンキュー入門経済学（第３版）",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "N・グレゴリー・マンキュー",
             "publisher": "東洋経済新報社",
             "price": 3520,
@@ -46,7 +46,7 @@
         },
         {
             "title": "ものがたりで学ぶ経済学入門",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "根井雅弘",
             "publisher": "中央経済社",
             "price": 2530,
@@ -54,27 +54,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "ミクロ経済学Ⅰ・Ⅱ、マクロ経済学Ⅰ・Ⅱなどを続けて履修することでより経済学に関する知識を深めてください"
     },
-    "evaluation_criteria": "(ⅰ) 経済学に関する基礎的な知識の習得、(ⅱ) ミクロ経済学の基礎の習得、(ⅲ) マクロ経済学の基礎の習得　について、「学生に対する評価」の内容で評価する。\n※「その他」は講義内における課題への取組状況などを評価する。",
+    "grading_criteria": "(ⅰ) 経済学に関する基礎的な知識の習得、(ⅱ) ミクロ経済学の基礎の習得、(ⅲ) マクロ経済学の基礎の習得　について、「学生に対する評価」の内容で評価する。\n※「その他」は講義内における課題への取組状況などを評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 60,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "本講義では、経済とは何か・経済学とは何かといったことから、経済学を学ぶ上での基礎的な知識の習得を目標としています。そのため、その他の講義を受けるための基礎となるほか、世の中の動きを理解することにも役立ちます。新聞・ニュースなどで身の回りの経済現象にも関心を持った上で講義に参加してもらえると、学びの幅が大きく広がるでしょう。\n\n【予習・復習について】\n予習は特に必要ありませんが、上記のように常に身の回りの経済現象について関心を持っておいてください。復習は毎講義復習用の課題を出すのでそれに取り組んで分からないところは特に重点的に復習しておいてください（30～60分程度）。また、小テストや期末テストの前は特にこれまでの知識を全て復習して臨むようにしてください。",
+    "teacher_message": "本講義では、経済とは何か・経済学とは何かといったことから、経済学を学ぶ上での基礎的な知識の習得を目標としています。そのため、その他の講義を受けるための基礎となるほか、世の中の動きを理解することにも役立ちます。新聞・ニュースなどで身の回りの経済現象にも関心を持った上で講義に参加してもらえると、学びの幅が大きく広がるでしょう。\n\n【予習・復習について】\n予習は特に必要ありませんが、上記のように常に身の回りの経済現象について関心を持っておいてください。復習は毎講義復習用の課題を出すのでそれに取り組んで分からないところは特に重点的に復習しておいてください（30～60分程度）。また、小テストや期末テストの前は特にこれまでの知識を全て復習して臨むようにしてください。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n　－経済学とはどのような学問か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "経済学史・思想史の概説①\n　－古典派経済学とその展開",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "経済学史・思想史の概説②\n　－新古典派経済学の系譜",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "経済学史・思想史の概説③\n　－ケインズ～現代の経済学",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "経済学を読み解くキーワード①\n　－合理的な経済人とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "経済学を読み解くキーワード②\n　－トレードオフ・機会費用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "経済学を読み解くキーワード③\n　－比較優位論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "経済学を読み解くキーワード④\n　－パレート基準",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "経済学を読み解くキーワード⑤\n　－社会厚生と格差",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "これまでの講義内容の復習・演習\n（演習問題の解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "小テスト①　－経済学の基礎について\n（小テストの解答・解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "需要と供給①\n　－需要・需要曲線",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "需要と供給②\n　－供給・供給曲線",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "市場均衡\n　－均衡と価格調整メカニズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "需要と供給③\n　－需要曲線と供給曲線のシフト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "余剰分析①\n　－余剰の定義と考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "余剰分析②\n　－課税の効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "ミクロ経済学分野の復習・演習\n（演習問題の解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "小テスト②　－ミクロ経済学の基礎について\n（小テストの解答・解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "GDPと物価",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -276,9 +276,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "財市場①　\n　－消費関数・投資関数",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -286,9 +286,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "財市場②\n　－乗数効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "貨幣市場①\n　－貨幣の理論（貨幣供給）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "貨幣市場②\n　－貨幣市場と利子率の決定（貨幣需要）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -316,9 +316,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "IS-LM分析①\n　－IS曲線・LM曲線の導出",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "IS-LM分析②\n　－財政政策・金融政策の効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -336,9 +336,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "労働市場\n　－賃金の決定と失業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -346,9 +346,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "マクロ経済学分野の復習・演習\n（演習問題の解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -357,9 +357,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "小テスト③　－マクロ経済学の基礎について　\n（小テストの解答・解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -368,9 +368,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "まとめ～本講義全体を振り返って",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -379,6 +379,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

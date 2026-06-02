@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:52:51Z",
+    "fetched_at": "2025-04-07T10:52:51Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1007000G",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,42 +28,42 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "「地域ゼミ」は学生が主体となって地域の身近な問題を見つけその解決に向けて取り組むことで「課題対応力」の向上を目指す課題解決型学習（PBL）です。\n\n本ゼミは、久米コミュニティ推進会議が開催する久米ふるさと夏祭りの実行委員会にゼミ生が参画し、久米ふるさと夏祭りを盛り上げること、そのなかで社会人基礎力の習得・向上を目指します。\n\n【到達目標】\n①活動する地域の現状やニーズを理解し説明することができる\n②ゼミ活動を通じて解決すべき課題について説明することができる\n③課題解決に向けて計画を立て、協力して行動することができる\n④活動を総括し、活動の成果・意義を発信することができる",
+    "objectives": "「地域ゼミ」は学生が主体となって地域の身近な問題を見つけその解決に向けて取り組むことで「課題対応力」の向上を目指す課題解決型学習（PBL）です。\n\n本ゼミは、久米コミュニティ推進会議が開催する久米ふるさと夏祭りの実行委員会にゼミ生が参画し、久米ふるさと夏祭りを盛り上げること、そのなかで社会人基礎力の習得・向上を目指します。\n\n【到達目標】\n①活動する地域の現状やニーズを理解し説明することができる\n②ゼミ活動を通じて解決すべき課題について説明することができる\n③課題解決に向けて計画を立て、協力して行動することができる\n④活動を総括し、活動の成果・意義を発信することができる",
     "overview": "【進め方】\n役割分担・グループ分けを行い、それぞれの活動内容を報告し合うことを授業の中心とします。役割によっては授業時間以外での活動も多くなります。\n令和6年度の久米ふるさと夏祭り当日には、実行委員会内での役割を担います。\n初回授業で、活動計画案を伝えますが、久米ふるさと夏祭り実行委員会との調整により変更を行う可能性があります。\n【指示事項】\n・ゼミ活動時間は必ずしも受講開講時間と一致しません。\n・多くの学外者が関わって実施される授業であることを強く意識し、責任感を持って行動してください。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "教養ゼミ",
             "アーリー・エクスポージャー型インターンシップ"
         ],
-        "brings": "ノートPC",
+        "required_materials": "ノートPC",
         "other": "特定の教科書は指定せず、学生の活動報告書を中心に進めていきます。"
     },
-    "evaluation_criteria": "平素の活動およびその活動報告、成果物によって総合的に評価する。成果物は授業内で作成したもの、学期末の発表・ポスターを対象する。\n活動内容のアウトプット（発表・レポート）が4割程度、ゼミ内外での活動を6割程度で評価する。",
+    "grading_criteria": "平素の活動およびその活動報告、成果物によって総合的に評価する。成果物は授業内で作成したもの、学期末の発表・ポスターを対象する。\n活動内容のアウトプット（発表・レポート）が4割程度、ゼミ内外での活動を6割程度で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 60
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 60
     },
-    "message_from_teachers": "久米ふるさと夏祭りに参画し、久米地区のことを知ること、そして盛り上げることにチャレンジしましょう。そして活動を通じて社会人基礎力を身に付けましょう。\n\n地域についての学習、実行委員会への参加など、120分程度の課外活動時間が必要になります。また事前学習およびアウトプットの作成時間が120分程度必要になります。\n\n周南公立大学がある久米地区の祭りを地域の方と一緒に盛り上げましょう。",
+    "teacher_message": "久米ふるさと夏祭りに参画し、久米地区のことを知ること、そして盛り上げることにチャレンジしましょう。そして活動を通じて社会人基礎力を身に付けましょう。\n\n地域についての学習、実行委員会への参加など、120分程度の課外活動時間が必要になります。また事前学習およびアウトプットの作成時間が120分程度必要になります。\n\n周南公立大学がある久米地区の祭りを地域の方と一緒に盛り上げましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "活動計画案の協議",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "久米ふるさと夏祭り実行委員長の講話",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "役割分担・グループ分けの協議",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "役割・グループ活動①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "役割・グループ活動の報告②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "役割・グループ活動②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "役割・グループ活動の報告②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "役割・グループ活動③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "役割・グループ活動の報告③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "久米ふるさと夏祭りへの参画①\n-実行委員として",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "久米ふるさと夏祭りへの参画②\n-出店部門として",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "久米ふるさと夏祭りに参加してのまとめ①\nー各グループからの報告",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ー久米ふるさと夏祭りに参加してのまとめ②\n成果物の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "発表・成果物の完成\nオンライン授業評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

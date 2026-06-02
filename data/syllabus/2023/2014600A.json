@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:13:47Z",
+    "fetched_at": "2024-08-08T01:13:47Z",
     "name_ja": "福祉サービスの組織と経営",
     "name_en": "Management and Administration in social welfare services",
     "syllabus_number": "2014600A",
     "course_number": "05SW301",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "服部　恭弥",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,16 +26,16 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "福祉サービスの組織と経営が理解できる。",
+    "objectives": "福祉サービスの組織と経営が理解できる。",
     "overview": "社会福祉士カリキュラムの１つ。社会福祉事業の組織、団体、ルールを理解する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "福祉サービスの組織と経営",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "一般社団法人　日本ソーシャルワーク教育学校連盟　編集",
             "publisher": "中央法規",
             "price": 2500,
@@ -43,28 +43,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "社会福祉士国家試験の合格レベルに達すること",
+    "grading_criteria": "社会福祉士国家試験の合格レベルに達すること",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 80,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "経営の定義、福祉経営の特殊性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会福祉法人等、福祉サービスの担い手",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "施設整備や運営費財源",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "社会福祉法人",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "公益法人制度改革",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "組織間連携とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "組織運営に関する基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "集団の力学に対する基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "リーダーシップに関する基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "福祉サービスのコンプライアンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "福祉サービスのカバナンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "適切な福祉サービスの経営管理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "福祉人材マネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "働きやすい労働環境",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,6 +212,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

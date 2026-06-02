@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:00:43Z",
+    "fetched_at": "2025-04-04T06:00:43Z",
     "name_ja": "マルチメディア論",
     "name_en": "Lecture of Multimedia",
     "syllabus_number": "2021100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "児玉　満",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,12 +28,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "本学の教育目標における［２］世界的視野と広く豊かな教養を有する人材の育成を意図した授業です。マルチメディアの理解を深め、さらに実践によりマルチメディア技術を使って自分が何を表現できるのかを体験を通じて学ぶことが出来ます。\n（ⅰ）講義の理解\n（ⅱ）実習結果",
+    "objectives": "本学の教育目標における［２］世界的視野と広く豊かな教養を有する人材の育成を意図した授業です。マルチメディアの理解を深め、さらに実践によりマルチメディア技術を使って自分が何を表現できるのかを体験を通じて学ぶことが出来ます。\n（ⅰ）講義の理解\n（ⅱ）実習結果",
     "overview": "マルチメディアとは何か、その発展の歴史と定義の変遷を学びます。\nまた、マルチメディア技術で何が出来るのかを紹介します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "現代経済学科DP3",
         "経営コースDP2",
@@ -46,10 +46,10 @@
         "人間コミュニケーション学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "入門マルチメディア ［第二版］",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "入門マルチメディア ［第二版］編集委員会",
             "publisher": "公益財団法人画像情報教育振興協会",
             "price": 3190,
@@ -57,31 +57,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": "なし"
     },
-    "evaluation_criteria": "（ⅰ）講義の理解　（ⅱ）実習結果\n上記、（ⅰ）および（ⅱ）に関する理解度を試験50％、実技30％、課題20％で評価する。",
+    "grading_criteria": "（ⅰ）講義の理解　（ⅱ）実習結果\n上記、（ⅰ）および（ⅱ）に関する理解度を試験50％、実技30％、課題20％で評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "マルチメディア技術を使った様々な表現方法を体験してみましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "teacher_message": "マルチメディア技術を使った様々な表現方法を体験してみましょう。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "マルチメディアとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "マルチメディアの歴史と定義の変遷",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "デジタルとは",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "様々なマルチメディア表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "2D画像基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "2D画像の表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ビットマップ画像編集ソフトとは",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ビットマップ画像編集ソフトによるフォトレタッチ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ベクターイメージ編集ソフトとは",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ベクターイメージ編集ソフトによるデザインとレイアウト",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "文字と書体",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "色の基礎知識とデジタル配色ツール",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "3D画像基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "3D画像の表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -240,6 +240,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

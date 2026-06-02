@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:02:34Z",
+    "fetched_at": "2025-04-07T11:02:34Z",
     "name_ja": "CG入門Ⅱ",
     "name_en": "Introduction to Computer Graphic",
     "syllabus_number": "2030400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "久保　俊介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -29,40 +29,40 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本学の教育目標のうち、とりわけ[1]「主体性を持った意欲ある人材を育成する」こと、および[3]「現実的な\n知識と手法を備え、問題解決能力を持った人材を育成する」ことに寄与する授業科目である。積極的に授業に\n参加し、実習を行うことによって、積極性を持った意欲ある人材に育成し、CGに関する知識と技能を身につ\nけ、問題の発見と解決の能力を持った人材の育成に関する授業である。",
+    "objectives": "本学の教育目標のうち、とりわけ[1]「主体性を持った意欲ある人材を育成する」こと、および[3]「現実的な\n知識と手法を備え、問題解決能力を持った人材を育成する」ことに寄与する授業科目である。積極的に授業に\n参加し、実習を行うことによって、積極性を持った意欲ある人材に育成し、CGに関する知識と技能を身につ\nけ、問題の発見と解決の能力を持った人材の育成に関する授業である。",
     "overview": "現在の商業デザイン、アニメーション、マンガは、その制作のほとんどがコンピュータに依存している。この\n講義では現在グラフィックコンピュータのベーシックといわれているソフトを使用しながら、実践で通用する\nCGの基礎知識を学びます。同時にデザイン感覚、アニメーションの制作の基本を学びながら、作品と制作して\nいきます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "CG入門Ⅰ"
         ],
-        "recommended_courses": [],
-        "brings": "USBフラッシュメモリ（データ保存用）",
+        "recommended": [],
+        "required_materials": "USBフラッシュメモリ（データ保存用）",
         "other": ""
     },
-    "evaluation_criteria": "コンピュータグラフィックスの基礎を身につける\nデジタルコンテンツの制作スキルを身につけアウトプットが出来る",
+    "grading_criteria": "コンピュータグラフィックスの基礎を身につける\nデジタルコンテンツの制作スキルを身につけアウトプットが出来る",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "２年時以降のCG関連の講義を受講する前にはこの講義が必修になります。",
+    "teacher_message": "２年時以降のCG関連の講義を受講する前にはこの講義が必修になります。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "デジタル制作応用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -70,9 +70,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "写真合成演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "合成演習課題",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "画像加工と埋込",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "タイポグラフィ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "グラフィックデザイン",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "イラスト制作",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "イラスト制作実践",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "構成演習",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ペンを使った描き文字",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ロゴタイプデザイン",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "複合制作①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "複合制作②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "試験課題",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "講評",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -227,6 +227,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
 }

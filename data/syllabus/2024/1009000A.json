@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-07T10:53:35Z",
+    "fetched_at": "2025-04-07T10:53:35Z",
     "name_ja": "教養スポーツ実習Ⅱ（1-10）",
     "name_en": "Sports Ⅱ",
     "syllabus_number": "1009000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -12,34 +12,34 @@
         "人間健康科学部 看護学科",
         "情報科学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "坪井　恭紀",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "宇野　直士",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "東恩納　玲代",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡崎　祐介",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "古賀　五月",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -47,12 +47,12 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 様々なスポーツの知識・技能を修得する\n2. 主体的に運動を選択し、健康状態の維持および向上に意欲的に取り組むことができる\n3. 集団行動の重要性を理解し、協調性のある行動、役割責任を果たすことができる",
+    "objectives": "1. 様々なスポーツの知識・技能を修得する\n2. 主体的に運動を選択し、健康状態の維持および向上に意欲的に取り組むことができる\n3. 集団行動の重要性を理解し、協調性のある行動、役割責任を果たすことができる",
     "overview": "生涯にわたって健康的な生活を主体的に送るために、様々なスポーツの基礎知識、基礎技術の修得を目指す。スポーツ活動を通じて、多種多様な交流を行い、言語的・非言語的コミュニケーションスキルの向上を目指す。スポーツ活動を通じて、身体的な健康だけでなく、精神的な健康および社会的な健康づくりに貢献できる力を身につけることを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -60,28 +60,28 @@
         "看護学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "実技試験100%",
+    "grading_criteria": "実技試験100%",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "運動に適した服装（Tシャツ、ジャージ等）と専用シューズを着用してください。ウエアやシュー\nズを忘れた場合は 欠席 とします。体調管理 に留意し授業に参加してください。\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "運動に適した服装（Tシャツ、ジャージ等）と専用シューズを着用してください。ウエアやシュー\nズを忘れた場合は 欠席 とします。体調管理 に留意し授業に参加してください。\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ゴール型スポーツ～屋外競技Ⅰ-基礎（サッカーなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ゴール型スポーツ～屋外競技Ⅱ-応用（サッカーなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ゴール型スポーツ～屋外競技Ⅲ-ゲーム（サッカーなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ゴール型スポーツ～屋内競技Ⅰ-基礎（バスケットボールなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ゴール型スポーツ～屋内競技Ⅱ-応用（バスケットボールなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ゴール型スポーツ～屋内競技Ⅲ-ゲーム（バスケットボールなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ネット型スポーツ～屋内競技Ⅰ-基礎（卓球など）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ネット型スポーツ～屋内競技Ⅱ-応用（卓球など）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ネット型スポーツ～屋内競技Ⅲ-ゲーム（卓球など）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ネット型スポーツ～屋内競技Ⅰ-基礎（バドミントンなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ネット型スポーツ～屋内競技Ⅱ-応用（バドミントンなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -259,9 +259,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ネット型スポーツ～屋内競技Ⅲ-ゲーム（バドミントンなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "体力測定Ⅰ（形態測定、運動能力検査）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -289,9 +289,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "体力測定Ⅱ（形態測定、運動能力検査、シャトルラン）、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -304,6 +304,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:16Z",
+    "fetched_at": "2025-04-04T05:58:16Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AM",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,40 +27,40 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、①自分を理解すること、②ディスカッションの方法を習得すること、③レポートの作成方法を習得すること、④プレゼンテーション方法を身に付けること、以上４点をねらいとします。この４点を、さまざまな活動(討議、作業、発表、視察)を通じて学んでいきます。\n\n【到達目標】\n①自分自身を理解し、適性を知る。\n②ディスカッションを通じて、適切に意見を発表し、自らの考えを深めることができる。\n③自分の関心テーマを文章として表現できる。\n④自分の関心テーマを発表することができる。",
+    "objectives": "本ゼミでは、①自分を理解すること、②ディスカッションの方法を習得すること、③レポートの作成方法を習得すること、④プレゼンテーション方法を身に付けること、以上４点をねらいとします。この４点を、さまざまな活動(討議、作業、発表、視察)を通じて学んでいきます。\n\n【到達目標】\n①自分自身を理解し、適性を知る。\n②ディスカッションを通じて、適切に意見を発表し、自らの考えを深めることができる。\n③自分の関心テーマを文章として表現できる。\n④自分の関心テーマを発表することができる。",
     "overview": "学生と教員間のディスカッションを授業の中心に据えて進める。学習課題を達成するために各種ワークシートの作成、レポートの作成、発表を通じて、到達目標に近づくことを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートPC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC",
         "other": "必要な文献や資料は、随時配布もしくは紹介をする。"
     },
-    "evaluation_criteria": "①自分自身を理解し、適性を知る。\n②ディスカッションを通じて、適切に意見を発表し、自らの考えを深めることができる。\n③自分の関心テーマを文章として表現できる。\n④自分の関心テーマを発表することができる。\nこの4つの項目について下記「学生に対する評価」に沿って評価する。なお「その他」は学生のタスクへの取り組み方に応じて評価する",
+    "grading_criteria": "①自分自身を理解し、適性を知る。\n②ディスカッションを通じて、適切に意見を発表し、自らの考えを深めることができる。\n③自分の関心テーマを文章として表現できる。\n④自分の関心テーマを発表することができる。\nこの4つの項目について下記「学生に対する評価」に沿って評価する。なお「その他」は学生のタスクへの取り組み方に応じて評価する",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 30,
-        "ポートフォリオ": 30,
-        "その他": 10
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 30,
+        "other": 10
     },
-    "message_from_teachers": "専門ゼミⅠは大学での学びを深化させることが一つの学習目標になります。これまでの学習内容や生活体験を踏まえ、深い洞察ができるように「考える」ということを習慣化させてください。\n\n\n【予習・復習について】\nゼミ内の活動を適宜振り返り、レポート等、アウトプットするための時間として、おおむね60分程度の予習・復習時間が必要です。",
+    "teacher_message": "専門ゼミⅠは大学での学びを深化させることが一つの学習目標になります。これまでの学習内容や生活体験を踏まえ、深い洞察ができるように「考える」ということを習慣化させてください。\n\n\n【予習・復習について】\nゼミ内の活動を適宜振り返り、レポート等、アウトプットするための時間として、おおむね60分程度の予習・復習時間が必要です。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "前期ゼミの進め方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "自己理解と自己覚知①\nワークシート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "自己理解と自己覚知②\nワークシート発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "自分史の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "自己の分析と他者からの分析①\nワークシート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "自己の分析と他者からの分析②\n発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "自分の適性を知る①\n各種検査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "自分の適性を知る②\n検査結果のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "自分に関するレポートの作成①\nアウトライン作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "自分に関するレポートの作成②\nレポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "自分に関するレポートの発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "自己洞察①\nアウトライン作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "自己洞察②\nレポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "自己洞察③\nレポート発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期ゼミのまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期ゼミの進め方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "レポート作成の方法について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -237,9 +237,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "文献策の方法について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -247,9 +247,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "レポートのテーマ発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "レポートの作成①\n資料蒐集",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "レポートの作成②\nアウトライン作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -280,9 +280,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "レポートの作成③\nレポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -291,9 +291,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "レポートの発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -301,9 +301,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "自己分析①\n自分の職業適性を知る",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -312,9 +312,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "自己分析②\n業界分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -323,9 +323,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "卒業研究について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "卒業研究テーマ　ディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒業研究テーマ　ディスカッション②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒業研究テーマ　ディスカッション③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "専門ゼミⅠまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -375,6 +375,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

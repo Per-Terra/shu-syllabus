@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T05:55:15Z",
+    "fetched_at": "2025-04-04T05:55:15Z",
     "name_ja": "自然地理学Ⅱ",
     "name_en": "Physical Geography II",
     "syllabus_number": "1003200A",
     "course_number": "11-2-91-22-04",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "黒田　圭介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,12 +28,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "【到達目標】\n1)地形についてはその形成プロセスと人間による土地利用の特徴や地形形成に伴う自然災害を説明することができる。\n2)気候についてはその成因と分布，さらに気候に応じた人間活動（農業など）を説明することができる。\n3)技能として，国土交通省発行の地形図の読解を行うことができる。",
+    "objectives": "【到達目標】\n1)地形についてはその形成プロセスと人間による土地利用の特徴や地形形成に伴う自然災害を説明することができる。\n2)気候についてはその成因と分布，さらに気候に応じた人間活動（農業など）を説明することができる。\n3)技能として，国土交通省発行の地形図の読解を行うことができる。",
     "overview": "本講義では、自然地理学Iで学んだ知識を応用して、WebGISやネットで公開されている統計情報等も活用しながら、自然環境が抱える課題および自然環境と人間圏との相互作用についてシステム論的アプローチから考察していく。世界のあるいは身近な地域の課題に対して、自ら調べ、解決策を導くためにどのような思考が大切か実践的に学ぶ。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -45,7 +45,7 @@
     "textbooks": [
         {
             "title": "二訂版　ニューステージ地学図表",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "浜島書店編集部",
             "publisher": "浜島書店",
             "price": 920,
@@ -53,34 +53,34 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "自然地理学I",
             "人文地理学I",
             "人文地理学II",
             "地誌学I（3年生以上）",
             "地誌学II（3年生以上）"
         ],
-        "recommended_courses": [],
-        "brings": "教科書「ニューステージ地学図表」",
+        "recommended": [],
+        "required_materials": "教科書「ニューステージ地学図表」",
         "other": "毎時教科書が必要。事前に講義資料をpdf形式で配布する。"
     },
-    "evaluation_criteria": "授業後にコメントペーパーや課題(レポート)の提出を求める。「その他」はコメントペーパーの内容で評価する。\n試験およびコメントの評価基準は以下のとおり。\n・自然地理学的な事象について，そのメカニズムや地球環境への影響を正しく理解している。\n・講義に対するコメントや質問が，講義内容に興味関心を持ち，理解した上で記述されている。\nなお，本講義は期末試験は行わず，定期試験中に課す最終レポート（小テスト）を実施する。",
+    "grading_criteria": "授業後にコメントペーパーや課題(レポート)の提出を求める。「その他」はコメントペーパーの内容で評価する。\n試験およびコメントの評価基準は以下のとおり。\n・自然地理学的な事象について，そのメカニズムや地球環境への影響を正しく理解している。\n・講義に対するコメントや質問が，講義内容に興味関心を持ち，理解した上で記述されている。\nなお，本講義は期末試験は行わず，定期試験中に課す最終レポート（小テスト）を実施する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 50,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 0,
+        "quiz": 50,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "講義資料は事前に配布するので，その内容や教科書の該当箇所を熟読して予習し，分からないことはインターネット等を用いてあらかじめ調べておくこと。目安として60分の予習時間が必要である。\n毎時課題やコメントを求める。これらは復習的な内容を含む。講義資料や講義ノート等を参考にしつつ，目安として60分の復習時間が必要である。講義内容に関する質問は大歓迎である。",
+    "teacher_message": "講義資料は事前に配布するので，その内容や教科書の該当箇所を熟読して予習し，分からないことはインターネット等を用いてあらかじめ調べておくこと。目安として60分の予習時間が必要である。\n毎時課題やコメントを求める。これらは復習的な内容を含む。講義資料や講義ノート等を参考にしつつ，目安として60分の復習時間が必要である。講義内容に関する質問は大歓迎である。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "地理学とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "土壌とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "成帯土壌１～ラトソル，ポドゾル，森林土",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "成帯土壌２～砂漠土，黒土，ツンドラ土",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "小地形１～カルスト地形の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "小地形２～砂州の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "小地形３～海岸平野の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "小地形４～沈水海岸の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "小地形５～台地，河岸段丘の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "小地形６～三角州の成因と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "等高線の特徴１～等高線の書き方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "等高線の特徴２～地形毎の等高線の特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "自然災害１～河川氾濫",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "自然災害２～地震",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "自然災害３～火山",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

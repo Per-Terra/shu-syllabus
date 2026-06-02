@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T05:54:56Z",
+    "fetched_at": "2025-04-04T05:54:56Z",
     "name_ja": "意思決定科学",
     "name_en": "Science of Decision Making",
     "syllabus_number": "1000600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "喜入　暁",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,17 +27,17 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "この科目では，意思決定に影響する感情に注目し，そのメカニズムや機能についての研究知見を紹介します。また，それらを踏まえ，私たちが普段何気なく行ってきたあらゆる意思決定が，どのようなプロセスに基づいてなされているのかを説明できるようになること，さらに，それを地域貢献に応用するための基礎を身につけることを目的とします。\n【到達目標】\n・個人の意思決定の事例について，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・自分自身の意思決定を例に挙げ，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・地域貢献につながる意思決定が，どのような工夫（まちづくりやしくみ）によってなされる可能性があるかを考察することができるようになる。",
+    "objectives": "この科目では，意思決定に影響する感情に注目し，そのメカニズムや機能についての研究知見を紹介します。また，それらを踏まえ，私たちが普段何気なく行ってきたあらゆる意思決定が，どのようなプロセスに基づいてなされているのかを説明できるようになること，さらに，それを地域貢献に応用するための基礎を身につけることを目的とします。\n【到達目標】\n・個人の意思決定の事例について，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・自分自身の意思決定を例に挙げ，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・地域貢献につながる意思決定が，どのような工夫（まちづくりやしくみ）によってなされる可能性があるかを考察することができるようになる。",
     "overview": "授業は基本的にはスライドを用いた講義形式で行い，配布資料は用意しません。各自でノートをとりながらまとめる必要があります。また，適宜実験実施やペア・グループワークを行う時間を設けます。なお，各回で小テストの実施と講義で学んだことや考えたことを報告してもらい，次回講義で共有と返答をします。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "感情心理学",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "鈴木 直人（編）",
             "publisher": "朝倉書店",
             "price": 3960,
@@ -46,7 +46,7 @@
         },
         {
             "title": "心理学が描くリスクの世界 第3版:行動的意思決定入門",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "広田 すみれ (著, 編集), 増田 真也 (著, 編集), 坂上 貴之 (著, 編集)",
             "publisher": "慶應義塾大学出版会",
             "price": 2640,
@@ -54,31 +54,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "PC，筆記用具，ノート・ルーズリーフなど",
+        "required_materials": "PC，筆記用具，ノート・ルーズリーフなど",
         "other": "特定の教科書は指定しません。"
     },
-    "evaluation_criteria": "講義内容に基づき，自己（自分の経験）・他者（事例）に関する意思決定の事象の説明，およびそれらを踏まえた地域貢献につながる可能性のある工夫の考察によって評価します。成績評価のその他（30%）は，授業への積極的な参加度・取組みによって評価します。具体的には，各回での小テストへの回答と講義内容に関して考えたことの報告をもって評価します。小テストの正誤は成績に反映しません。",
+    "grading_criteria": "講義内容に基づき，自己（自分の経験）・他者（事例）に関する意思決定の事象の説明，およびそれらを踏まえた地域貢献につながる可能性のある工夫の考察によって評価します。成績評価のその他（30%）は，授業への積極的な参加度・取組みによって評価します。具体的には，各回での小テストへの回答と講義内容に関して考えたことの報告をもって評価します。小テストの正誤は成績に反映しません。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 70,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "レポート執筆に向けて，配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては，各回4時間を想定しています。また，わからないところはわからないままにせず，遠慮なく聞いてください。オフィスアワーは金曜2限とします。",
+    "teacher_message": "レポート執筆に向けて，配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては，各回4時間を想定しています。また，わからないところはわからないままにせず，遠慮なく聞いてください。オフィスアワーは金曜2限とします。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス：授業の進め方，成績評価の方法など",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "二重過程モデル：意思決定のモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "感情理論1：感情の概要，基本感情理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "感情理論2：情動二要因説，認知的評価説，社会構成理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "感情理論3：コア・アフェクト理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "感情の生理的基盤：内受容感覚，神経生理のはたらき",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "気質との関連：強化感受性理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "実行機能のはたらき",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "感情制御1：感情制御のモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "感情制御2：感情制御の神経生理のはたらき",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "感情表出",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "感情理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "感情とパーソナリティ：個人特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "感情と健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめと振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -226,6 +226,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

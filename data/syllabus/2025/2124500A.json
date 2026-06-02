@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:06:31Z",
+    "fetched_at": "2025-04-04T06:06:31Z",
     "name_ja": "音楽理論",
     "name_en": "music  theory",
     "syllabus_number": "2124500A",
     "course_number": "23-1-23-22-04",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "井町　美貴子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本授業の目的は、子どもの音楽遊びで必要とされる演奏の基礎を身に付けるために、音楽の基礎理論や読譜力を理解することである。授業の達成目標は以下の通りである。\n１．音楽理論に関する知識を深め、読譜力を身に付ける\n２．コードネームを用いて、様々な調性の曲に伴奏付けについて説明することができる\n３．保育における音楽活動について説明することができる",
+    "objectives": "本授業の目的は、子どもの音楽遊びで必要とされる演奏の基礎を身に付けるために、音楽の基礎理論や読譜力を理解することである。授業の達成目標は以下の通りである。\n１．音楽理論に関する知識を深め、読譜力を身に付ける\n２．コードネームを用いて、様々な調性の曲に伴奏付けについて説明することができる\n３．保育における音楽活動について説明することができる",
     "overview": "本科目は、子どもの音楽遊びで必要とされる演奏の基礎を身に付けるために、音楽の基礎理論や譜読力を学ぶ科目である。\n授業では、楽譜の読み方や音楽記号について学び、簡易伴奏付けができる基礎を理解する。加えて保育現場で歌われている子どもの歌についても理解を深め、子どもと音楽表現の活動ができる力の修得を目指す。\nこの授業を通して、①音楽理論、②簡易伴奏付け、③子どもの音楽遊び、について学び、音楽を通した援助技術を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "これだけは知ってほしい楽典　はじめの一歩」ー保育士、幼稚園、小学校教諭を志す人たちへー",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "木村鈴代　他",
             "publisher": "カワイ出版",
             "price": 1980,
@@ -45,32 +45,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "筆記用具",
+        "required_materials": "筆記用具",
         "other": "※ピアノの台数に限りがあるため、定員を16名までとします。"
     },
-    "evaluation_criteria": "１．音楽理論の基礎知識、２．簡易伴奏付け、３．子どものうた遊び\n上記１～３に関する理解度を以下の割合により評価する。",
+    "grading_criteria": "１．音楽理論の基礎知識、２．簡易伴奏付け、３．子どものうた遊び\n上記１～３に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "基本的な音楽理論を学び、音楽遊びに必要となる技術を身に付けていきます。音楽の初心者でも分かりやすい解説を心掛けますので、楽しく音楽を学んでいきましょう。 受講にあたっては、各回の授業内容に該当する事柄について各自で調べておくことを予習とします（2時間程度）。また、授業で扱った内容について楽器等を活用して振り返り、内容の定着に努めることを復習とします（2時間程度）。\n\n【オフィスアワー】\n講義の前後に受け付けます。",
+    "teacher_message": "基本的な音楽理論を学び、音楽遊びに必要となる技術を身に付けていきます。音楽の初心者でも分かりやすい解説を心掛けますので、楽しく音楽を学んでいきましょう。 受講にあたっては、各回の授業内容に該当する事柄について各自で調べておくことを予習とします（2時間程度）。また、授業で扱った内容について楽器等を活用して振り返り、内容の定着に努めることを復習とします（2時間程度）。\n\n【オフィスアワー】\n講義の前後に受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "楽譜の読み方①：ト音記号",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "楽譜の読み方②：ヘ音記号",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "音符と休符",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "リズムと拍子",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "音程と音階",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "音階と調",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "コードネーム①：長三和音、短三和音など",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "コードネーム②：メジャー、マイナー、セブンスコードなど",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "コードネーム③：ディミニッシュ、オーギュメントコードなど",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "音楽記号①：強弱・速度",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "音楽記号②：演奏方法・演奏順序・表現",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "子どもの歌①：季節のうた",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "子どもの歌②：発達に応じたうた遊び（未満児）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "子どもの歌③：発達に応じたうた遊び（以上児）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "日本の伝統音楽・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "これまで子どもに対する音楽指導の経験を活かして、乳幼児が音楽に親しむことができる知識の教授、実践について取り組んでいく。授業を通じて、乳幼児の発達段階を理解した上で子どもたちに音楽に関する支援ができる力が身に付くように指導する。"
+    "credit_auditing": false,
+    "practitioner_info": "これまで子どもに対する音楽指導の経験を活かして、乳幼児が音楽に親しむことができる知識の教授、実践について取り組んでいく。授業を通じて、乳幼児の発達段階を理解した上で子どもたちに音楽に関する支援ができる力が身に付くように指導する。"
 }

@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-07T10:52:18Z",
+    "fetched_at": "2025-04-07T10:52:18Z",
     "name_ja": "ドイツ語Ⅰ",
     "name_en": "German I",
     "syllabus_number": "1004700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -12,18 +12,18 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -32,12 +32,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
+    "objectives": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
     "overview": "初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。日常会話でよく使われるあいさつ表現や文字と音の対応規則を学び、平易な文を聞き取ったり書いたりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、独和、和独辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -47,7 +47,7 @@
     "textbooks": [
         {
             "title": "新装版・話すぞドイツ語！",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "在間　進",
             "publisher": "朝日出版社",
             "price": 2860,
@@ -56,7 +56,7 @@
         },
         {
             "title": "ベーシッククラウン独和・和独辞典　小型版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "",
             "publisher": "三省堂",
             "price": 2530,
@@ -64,32 +64,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "テキスト、ノート、辞書",
+        "required_materials": "テキスト、ノート、辞書",
         "other": "なし"
     },
-    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "grading_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）",
+    "teacher_message": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の進め方、評価方法などについてのオリエンテーション\nLektion０ アルファベット、発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Lektion０ アルファベット、発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "Lektion０　アルファベット、発音練習、あいさつ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Lektion１　動詞の人称変化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Lektion１　動詞の人称変化と語順",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Lektion１　自己紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Lektion２　名詞の性と１格／不定冠詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Lektion２　名詞の性と１格／定冠詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Lektion２　否定冠詞／数字",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Lektion３　名詞の４格",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Lektion３　注文をしてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Lektion４　所有冠詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Lektion４　不定冠詞類（dieser,welcher,jeder)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -230,9 +230,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Lektion４　趣味をたずねてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Lektion５　名詞の複数形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -252,9 +252,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "Lektion５　名詞の複数形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "Lektion５　いくつ？と聞いてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "Lektion６　名詞の２格と３格",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "Lektion６　名詞の２格と３格",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "Lektion６　感想をたずねてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "Lektion７　前置詞（３格支配と４格支配）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -318,9 +318,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "Lektion７　前置詞（３格支配と４格支配ができる前置詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -329,9 +329,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "Lektion７　時刻をたずねてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -340,9 +340,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "Lektion７　不規則動詞の現在人称変化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -351,9 +351,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "Lektion８　分離動詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "Lektion８　分離動詞を使った文章の語順",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -373,9 +373,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "Lektion８　週末の予定をたずねてみよう！／一日の生活を表現してみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -384,9 +384,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "Lektion９　話法の助動詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -395,9 +395,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "Lektion９　電話をかけてみよう！会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -406,9 +406,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "試験対策演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -417,6 +417,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

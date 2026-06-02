@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:56:25Z",
+    "fetched_at": "2025-04-07T10:56:25Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600EF",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "赤木　真由",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,22 +27,22 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、地域の問題解決と豊かな暮らしを実現する地域デザイン研究に取り組む。到達目標は下記の通り設定する。\n\n1. デザイン思考、システム思考など問題解決のための思考法を身に付け、学んだことがない人に伝えられる。\n2. 身に付けた思考法を活用し、新たな切り口で問題を定義し、その問題を解くアイデアを創出するプロセスを繰り返し経験する。\n3. チームビルディングの技術を高める。",
+    "objectives": "本ゼミでは、地域の問題解決と豊かな暮らしを実現する地域デザイン研究に取り組む。到達目標は下記の通り設定する。\n\n1. デザイン思考、システム思考など問題解決のための思考法を身に付け、学んだことがない人に伝えられる。\n2. 身に付けた思考法を活用し、新たな切り口で問題を定義し、その問題を解くアイデアを創出するプロセスを繰り返し経験する。\n3. チームビルディングの技術を高める。",
     "overview": "それぞれの学生が持つ課題意識を起点に、地域の人々と連携しながら周南地域のデザインに取り組みます。\n持続可能で豊かなまちをデザインしていくために、まずは地域に暮らす人々を理解し「共感」するところから始めます。\n\n【アクティブラーニングについて】\nほぼ全ての回においてアクティブラーニング（グループワークやフィールドワーク）を実施する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
         "経営コースDP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "システム×デザイン思考で世界を変える 慶應SDM「イノベーションのつくり方」",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "前野隆司、保井俊之、白坂成功、富田欣和、石橋金徳、岩田徹、八木田寛之",
             "publisher": "日経BP",
             "price": 1980,
@@ -50,32 +50,32 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "教養ゼミ",
             "地域ゼミ",
             "システム思考・デザイン思考",
             "アントレプレナーシップ入門"
         ],
-        "brings": "ノートパソコン、筆記用具",
+        "required_materials": "ノートパソコン、筆記用具",
         "other": "参考図書は授業にて案内します。"
     },
-    "evaluation_criteria": "前期では研究計画を作成し発表する（40%）。後期では計画をもとに研究を進め、成果をレポートに取りまとめ提出する（40%）。その他（20%）として、授業への主体的な取り組み姿勢、ゼミ内でのリーダーシップの発揮などを評価する。",
+    "grading_criteria": "前期では研究計画を作成し発表する（40%）。後期では計画をもとに研究を進め、成果をレポートに取りまとめ提出する（40%）。その他（20%）として、授業への主体的な取り組み姿勢、ゼミ内でのリーダーシップの発揮などを評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "専門ゼミⅠでは2年間かけて取り組む研究テーマを探索していきます。興味関心をもって日常生活においても情報収集や気づきを得ることに努めてください（復習60分程度）。",
+    "teacher_message": "専門ゼミⅠでは2年間かけて取り組む研究テーマを探索していきます。興味関心をもって日常生活においても情報収集や気づきを得ることに努めてください（復習60分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n自己紹介と授業の目的とゴールの説明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "関心があるテーマについてアイデア出し\nお互いに解決したい課題を出し合い、2年間取り組むテーマを考える",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "テーマに関するリサーチ\nリサーチしてきた結果について発表する。さらに調べるべきポイントを明らかにする",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "インタビューの準備\nリサーチで得られなかった情報を直接取りに行くためのインタビューを計画する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "インタビューの実施①\n計画に沿ってインタビューに取り組む",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "インタビューの実施②\n計画に沿ってインタビューに取り組む",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "インタビューで得られた情報の整理①\n研究を通じて取り組む問題を定義する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "インタビューで得られた情報の整理②\n研究を通じて取り組む問題を定義する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "問題を解決する方法の提案①\n定義した問題の解決策について検討する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "問題を解決する方法の提案②\n定義した問題の解決策について検討する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "解決策の検証方法を検討する①\n検証の仮説、実施方法などを検討する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "解決策の検証方法を検討する②\n検証の仮説、実施方法などを検討する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "研究計画の作成\n前期で取り組んできたことを整理し、研究計画書を作成する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "研究計画の発表①\n研究計画を効果的にプレゼンテーションする",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "研究計画の発表②\n研究計画を効果的にプレゼンテーションする",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -233,9 +233,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "研究テーマに関するリサーチ／インタビューの結果を共有する\n夏休みの課題として取り組んできたことの発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "検証計画のブラッシュアップと実行準備\n前期に立てた計画を実行に向けて整え、準備する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "解決策の検証①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "解決策の検証②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "解決策の検証③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "解決策の検証④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "検証結果の取りまとめ\n取り組んできた検証から得られた気づきを可視化する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "レポートの作成準備①\n検証結果を支える、もしくは否定する研究を見つける",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -316,9 +316,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "レポートの作成準備②\n検証結果を支える、もしくは否定する研究を見つける",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -327,9 +327,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "レポートの作成準備③\n検証結果を支える、もしくは否定する研究を見つける",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -338,9 +338,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "レポートの作成と添削①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -349,9 +349,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "レポートの作成と添削②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -360,9 +360,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "レポートの作成と添削③",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -371,9 +371,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "レポートの作成と添削④",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -382,9 +382,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "発表と相互添削\nそれぞれが作成してきたレポートを共有し、相互に添削する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -393,6 +393,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,59 +1,59 @@
 {
-    "_fetched_at": "2025-04-04T05:55:33Z",
+    "fetched_at": "2025-04-04T05:55:33Z",
     "name_ja": "教養スポーツ実習Ⅰ（1-16）",
     "name_en": "Sports Ⅰ",
     "syllabus_number": "1008900A",
     "course_number": "11-1-11-21-02、21-1-11-21-01、22-1-11-21-02、23-1-11-21-02、31-1-11-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部",
         "情報科学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "西山　健太",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "宇野　直士",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "東恩納　玲代",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡崎　祐介",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "松生　香里",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "成績認定用教員",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -61,12 +61,12 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. スポーツの 基礎的な技能・知識、実践力を修得する\n2. 主体的に自己の健康管理、及びそれらの維持・向上に意欲的に取り組むことができる\n3. 集団行動の重要性を理解し、協調性のある行動、役割責任を果たすことができる",
+    "objectives": "1. スポーツの 基礎的な技能・知識、実践力を修得する\n2. 主体的に自己の健康管理、及びそれらの維持・向上に意欲的に取り組むことができる\n3. 集団行動の重要性を理解し、協調性のある行動、役割責任を果たすことができる",
     "overview": "生涯にわたって健康的な生活を主体的に送るために、スポーツ活動を通じた健康づくりの基礎知識、実践力の修得を目指す。また身体的な健康だけでなく、精神的な健康および社会的な健康づくりのために、スポーツ活動を通じた多種多様な交流を行い、言語的・非言語的コミュニケーションスキルの向上を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -75,32 +75,32 @@
         "福祉学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "参考資料は、授業中に適時配布する。"
     },
-    "evaluation_criteria": "実技試験100%",
+    "grading_criteria": "実技試験100%",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "運動に適した服装（Tシャツ、ジャージ等）と専用シューズを着用してください。ウエアやシュー\nズを忘れた場合は 欠席 とします。体調管理 に留意し授業に参加してください。\n\n1回目の授業は「オリエンテーション」です。第一記念会館（S棟近くの体育館）に集合してください。\n服装は自由、室内履きは不要です。\n\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "運動に適した服装（Tシャツ、ジャージ等）と専用シューズを着用してください。ウエアやシュー\nズを忘れた場合は 欠席 とします。体調管理 に留意し授業に参加してください。\n\n1回目の授業は「オリエンテーション」です。第一記念会館（S棟近くの体育館）に集合してください。\n服装は自由、室内履きは不要です。\n\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "体力測定Ⅰ（形態測定、運動能力検査）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "体力測定Ⅱ（形態測定、運動能力検査、シャトルラン）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "コミュニケーションスキルⅠ（アイスブレイク 、ストレッチなど\nの軽運動）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "コミュニケーションスキルⅡ（チームビルディング 、ウォーキン\nグ、ジョギングなどの軽運動）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "屋外競技Ⅰ（ドッチビーなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "屋外競技Ⅱ（ディスクゴルフなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "屋外競技Ⅲ（アルティメットなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -250,9 +250,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "屋内競技Ⅰ（ユニホックなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "屋内競技Ⅱ（ショートテニスなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -288,9 +288,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "屋内競技Ⅲ（キンボールなど）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ニュースポーツを考えるⅠ（話し合い）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ニュースポーツを考えるⅡ（企画立案）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ニュースポーツを考えるⅢ（発表準備）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ニュースポーツを考えるⅣ（発表）、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -383,6 +383,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

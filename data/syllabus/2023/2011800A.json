@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:13:19Z",
+    "fetched_at": "2024-08-08T01:13:19Z",
     "name_ja": "スポーツ産業論",
     "name_en": "Theory of Sports Industry",
     "syllabus_number": "2011800A",
     "course_number": "04SM304、05LS303",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,22 +27,22 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "現代社会においてスポーツは、実に多様に私たちの生活に関わり、地域を元気にし、大きな経済効果をもたらす力を持つ。そこで、本講義では、人々がこのようなスポーツ文化を十分に享受するためのモノ・場・サービスを生み出す「スポーツ産業」の状況を理解し、スポーツの急速なビジネス化が、私たちの豊かな生活の実\n現に役立つのかを考える。\n\n【到達目標】\n(ⅰ)スポーツ産業概念、スポーツ市場の実態を理解する。\n(ⅱ)スポーツ用品産業、スポーツ施設・空間産業、スポーツサービス産業の現状と課題を理解する。\n(ⅲ)ハイブリッド産業領域のプロフェッショナルスポーツビジネス、スポーツツーリズムビジネスの実態を理解する。",
+    "objectives": "現代社会においてスポーツは、実に多様に私たちの生活に関わり、地域を元気にし、大きな経済効果をもたらす力を持つ。そこで、本講義では、人々がこのようなスポーツ文化を十分に享受するためのモノ・場・サービスを生み出す「スポーツ産業」の状況を理解し、スポーツの急速なビジネス化が、私たちの豊かな生活の実\n現に役立つのかを考える。\n\n【到達目標】\n(ⅰ)スポーツ産業概念、スポーツ市場の実態を理解する。\n(ⅱ)スポーツ用品産業、スポーツ施設・空間産業、スポーツサービス産業の現状と課題を理解する。\n(ⅲ)ハイブリッド産業領域のプロフェッショナルスポーツビジネス、スポーツツーリズムビジネスの実態を理解する。",
     "overview": "講義は、配付資料に基づき行う。受講生には、原則として毎回講義テーマに即したレスポンスペーパーの提出を求め、受講生の講義理解度を把握することに努める。また、複数回小レポートの提出を求めることがある。\n講義内容は、授業の進捗状況によって変更することがある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "主体性・多様性・協調性の養成",
         "地域貢献に関する意識の醸成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "スポーツ社会学",
             "健康とスポーツ科学",
             "日本経済概論",
@@ -50,24 +50,24 @@
             "地域政策論",
             "周南地域と産業"
         ],
-        "brings": "講義内で配付する資料",
+        "required_materials": "講義内で配付する資料",
         "other": "参考図書については講義内で適時案内する。"
     },
-    "evaluation_criteria": "【到達目標】に示している\n(ⅰ)スポーツ産業概念、スポーツ市場の実態を理解する。\n(ⅱ)スポーツ用品産業、スポーツ施設・空間産業、スポーツサービス産業の現状と課題を理解する。\n(ⅲ)ハイブリッド産業領域のプロフェッショナルスポーツビジネス、スポーツツーリズムビジネスの実態を理解する。 以上三点について、⑪に示す方法で評価する。",
+    "grading_criteria": "【到達目標】に示している\n(ⅰ)スポーツ産業概念、スポーツ市場の実態を理解する。\n(ⅱ)スポーツ用品産業、スポーツ施設・空間産業、スポーツサービス産業の現状と課題を理解する。\n(ⅲ)ハイブリッド産業領域のプロフェッショナルスポーツビジネス、スポーツツーリズムビジネスの実態を理解する。 以上三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 30,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "毎回の講義に集中し、自らのスポーツ経験や実践に結びつけながら内容を理解することに努めること。\n\n【予習・復習について】\nシラバスを熟読しておき、各回で指示する内容について着実に行うこと。",
+    "teacher_message": "毎回の講義に集中し、自らのスポーツ経験や実践に結びつけながら内容を理解することに努めること。\n\n【予習・復習について】\nシラバスを熟読しておき、各回で指示する内容について着実に行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "スポーツ産業の定義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "スポーツ市場の現状1（統計資料の理解）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "スポーツ市場の現状2（統計資料の理解）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "スポーツ用品産業1（スポーツ用品産業誕生：美満津商店）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "スポーツ用品産業2（スポーツ用品産業の戦後復興過程）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "スポーツ用品産業3（スポーツ用品産業の流通構造の現状と課題）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "スポーツ用品産業4（ＮＩＫＥの歴史とブランドビジネス）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "スポーツサービス産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "スポーツ施設・空間産業（日本におけるスポーツ施設建設・運営管理の現状と課題）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ハイブリッドスポーツ産業（北米・欧州のプロスポーツ団体組織）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ハイブリッドスポーツ産業（アジア・オセアニアのプロスポーツ団体組織）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "進化するスポーツ産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "大学スポーツビジネスの現状と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "スポーツ産業論のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

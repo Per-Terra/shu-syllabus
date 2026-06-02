@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:00:26Z",
+    "fetched_at": "2025-04-07T11:00:26Z",
     "name_ja": "プログラミング演習",
     "name_en": "Exercise in Computer Programming",
     "syllabus_number": "2022500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "髙藤　大介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,39 +28,39 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．既に習得したC言語の基礎を用いて、文章で書かれたアルゴリズムをC言語で実装できる。\n２．どんなプログラミング言語においても必要となるプログラミング技術を身に付けることができる。",
+    "objectives": "１．既に習得したC言語の基礎を用いて、文章で書かれたアルゴリズムをC言語で実装できる。\n２．どんなプログラミング言語においても必要となるプログラミング技術を身に付けることができる。",
     "overview": "この講義の目的は、自分自身でCプログラムを書ける能力を身に付け、どんなプログラミング言語でも必要となるプログラミング技術を習得することである。パソコンを使用したプログラミング演習に重点をおく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "プログラミング基礎"
         ],
-        "brings": "ノートパソコン、筆記用具、ノート",
+        "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": ""
     },
-    "evaluation_criteria": "プログラミングの理解度を以下の「学生に対する評価」に従い評価する。",
+    "grading_criteria": "プログラミングの理解度を以下の「学生に対する評価」に従い評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "前回の資料を通読して授業に臨んでください（予習・30分）\n授業終了後には、講義資料および自分自身で作成したCプログラムを見直し、課題レポートにより理解を深めてください。作成したCプログラムを変更し、幅広い知識の習得に努めてください。さらに自分自身で演習課題を作成し、Cプログラムを作成してください（復習・90分）。",
+    "teacher_message": "前回の資料を通読して授業に臨んでください（予習・30分）\n授業終了後には、講義資料および自分自身で作成したCプログラムを見直し、課題レポートにより理解を深めてください。作成したCプログラムを変更し、幅広い知識の習得に努めてください。さらに自分自身で演習課題を作成し、Cプログラムを作成してください（復習・90分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "プログラミング環境設定、変数、制御文、配列",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "数値表現、２進数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "文字列処理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "探索アルゴリズム（線形探索）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "探索アルゴリズム（２分探索）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ポインタ，アドレス，メモリの確保",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "構造体の概念，構造体の宣言，構造体とポインタ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "リスト",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "スタックとキュー",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "グラフの実現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "構造体と配列",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "配列とポインタ，リストの実装",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ファイルの読み込み，ファイルの書き込み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "再帰関数（２分探索木）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "グラフの深さ優先探索",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -223,6 +223,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

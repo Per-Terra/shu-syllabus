@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:08:05Z",
+    "fetched_at": "2025-04-07T11:08:05Z",
     "name_ja": "商業科教育法Ⅰ",
     "name_en": "Educational Method for Commercial Course I",
     "syllabus_number": "7001200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "福原　道照",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）商業教育の必要性・意義・歴史について説明できる。\n（２）学習指導要領（商業）の内容について説明できる。\n（３）商業科の教育課程の編成と実施について説明できる。\n（４）商業教育とキャリア教育・生徒指導の関連性が説明できる。",
+    "objectives": "【到達目標】\n（１）商業教育の必要性・意義・歴史について説明できる。\n（２）学習指導要領（商業）の内容について説明できる。\n（３）商業科の教育課程の編成と実施について説明できる。\n（４）商業教育とキャリア教育・生徒指導の関連性が説明できる。",
     "overview": "高等学校教諭免許状「商業」取得のために、商業教育に必要な基礎的資質を身につけることを目的として理論的・実践的学修を行う。講義内容は、①商業教育の必要性・意義・歴史　②学習指導要領（商業）の内容　③商業科の教育課程の編成と実施　④商業教育とキャリア教育・生徒指導である。本講義の学修を通して、商業教育に関する理解を深め、高等学校学習指導要領教科商業に基づく学習指導や、高等学校生徒の資質・能力の育成に係る知識を身につけるとともに、ビジネスの諸活動に主体的に取り組むために必要なコミュニケーション能力を身につけることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "高等学校学習指導要領（平成30年告示）解説　商業編",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "文部科学省",
             "publisher": "実教出版",
             "price": 818,
@@ -50,10 +50,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "教職必修　最新商業科教育法　新訂版　平成25年度実施カリキュラム対応",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "日本商業教育学会　編著",
             "publisher": "実教出版",
             "price": 2420,
@@ -62,7 +62,7 @@
         },
         {
             "title": "商業科教育論　21世紀の商業教育を創造する",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "日本商業教育学会　編",
             "publisher": "実教出版",
             "price": 2640,
@@ -71,7 +71,7 @@
         },
         {
             "title": "商業科教育法 ―理論と実践―",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "笠木秀樹　編著",
             "publisher": "東京法令出版",
             "price": 2640,
@@ -79,31 +79,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、ノートパソコン",
+        "required_materials": "教科書、ノートパソコン",
         "other": "特になし"
     },
-    "evaluation_criteria": "(ⅰ)商業教育の必要性・意義・歴史についての理解\n(ⅱ)学習指導要領（商業）の内容についての理解\n(ⅲ)商業科の教育課程の編成と実施についての理解\n(ⅳ)商業教育とキャリア教育・生徒指導についての理解",
+    "grading_criteria": "(ⅰ)商業教育の必要性・意義・歴史についての理解\n(ⅱ)学習指導要領（商業）の内容についての理解\n(ⅲ)商業科の教育課程の編成と実施についての理解\n(ⅳ)商業教育とキャリア教育・生徒指導についての理解",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教員は、やり甲斐のある魅力的な職業です。教壇に立つために意欲的に取り組みましょう。\n【予習・復習について】\n　予習：授業回の１・３・５・７・９・１１・１２・１４は、授業の内容について事前に調べておく。（120分程度）\n　復習：授業回の２・４・６・８・１０・１３・１５は、授業の内容についてまとめる。（120分程度）",
+    "teacher_message": "教員は、やり甲斐のある魅力的な職業です。教壇に立つために意欲的に取り組みましょう。\n【予習・復習について】\n　予習：授業回の１・３・５・７・９・１１・１２・１４は、授業の内容について事前に調べておく。（120分程度）\n　復習：授業回の２・４・６・８・１０・１３・１５は、授業の内容についてまとめる。（120分程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "商業教育の必要性・意義（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "商業教育の必要性・意義（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "商業教育の歴史（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "商業教育の歴史（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "学習指導要領（商業）の変遷（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "学習指導要領（商業）の変遷（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "学習指導要領（商業）の内容）[商業科の目標、商業科の内容構成]（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "学習指導要領（商業）の内容）[商業科の目標、商業科の内容構成]（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "学習指導要領（商業）の内容）[商業科の各科目の目標、商業科の各科目の内容とその取扱い]（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "学習指導要領（商業）の内容）[商業科の各科目の目標、商業科の各科目の内容とその取扱い]（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "商業科の教育課程の編成と実施",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "商業教育とキャリア教育（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "商業教育とキャリア教育（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "商業教育と生徒指導（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "商業教育と生徒指導（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -251,6 +251,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

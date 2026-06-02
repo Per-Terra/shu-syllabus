@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:03:42Z",
+    "fetched_at": "2025-04-04T06:03:42Z",
     "name_ja": "社会政策",
     "name_en": "Social Policy",
     "syllabus_number": "2044000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "稲垣　円",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,44 +26,44 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）社会政策が私たちの社会の中で、具体的にどのような形で存在しているか理解する。\n（２）現代日本の社会政策の体系全般を理解し論じられるようになる\n（３）授業を通して得られた知識や経験に基づき、社会政策の現状や課題について、自分の考えを整理し表現することができる",
+    "objectives": "【到達目標】\n（１）社会政策が私たちの社会の中で、具体的にどのような形で存在しているか理解する。\n（２）現代日本の社会政策の体系全般を理解し論じられるようになる\n（３）授業を通して得られた知識や経験に基づき、社会政策の現状や課題について、自分の考えを整理し表現することができる",
     "overview": "社会政策は、個人の力だけでは解決ができない社会問題を解決するための公共政策であり、社会保障、労働政策、社会福祉、労使関係をはじめ、健康や教育、ジェンダーや生活といった課題群から構成されている。他方、今日では、伝統的な社会政策論の枠組みではとらえきれない多くの問題が生じている。こうした社会の様々な問題を検討していくためには、地域政策的な視点も踏まえた問題へのアプローチも重要である。本講義では、履修生が社会問題は現在の日常生活や将来の生活に関連していることを理解すること、「唯一の正解」がない中で、自身の考察を深め説明できるようになることを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "特定の教科書は指定せず、授業中に使用する資料を中心に進める（授業後に適宜配布する）",
+        "required_materials": "特定の教科書は指定せず、授業中に使用する資料を中心に進める（授業後に適宜配布する）",
         "other": "PCを持参してください。"
     },
-    "evaluation_criteria": "授業のリフレクション（振り返り）ペーパー、授業内小テスト（2回程度を予定）、および授業中の参加姿勢で評価する。",
+    "grading_criteria": "授業のリフレクション（振り返り）ペーパー、授業内小テスト（2回程度を予定）、および授業中の参加姿勢で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 60,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 60,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "授業計画は進捗によって変更することがあります。\n本講義は、提供する情報量は比較的多く、授業内でのワークは少なめです。\n資料は授業後に提供しますが、口頭での説明の全てが記載されているわけではありません。授業中に重要だと思うこと、気になったことはモを取り整理しておきましょう。",
+    "teacher_message": "授業計画は進捗によって変更することがあります。\n本講義は、提供する情報量は比較的多く、授業内でのワークは少なめです。\n資料は授業後に提供しますが、口頭での説明の全てが記載されているわけではありません。授業中に重要だと思うこと、気になったことはモを取り整理しておきましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：社会政策とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会政策の歴史と理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "日本型雇用とその変容",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "若年者の労働",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "女性の労働、ジェンダー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "高齢者の労働、障がい者の労働",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "現代の労働問題（雇用、失業、労働時間、労使関係）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "小テスト①および解説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会保障とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "貧困と公的扶助",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "生活保護制度と障がい者福祉",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "高齢化の現状と年金制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "少子化の現状と政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "医療保障制度、介護保障制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "小テスト②および解説・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,6 +211,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

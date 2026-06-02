@@ -1,44 +1,44 @@
 {
-    "_fetched_at": "2025-04-04T06:06:22Z",
+    "fetched_at": "2025-04-04T06:06:22Z",
     "name_ja": "地域福祉キャリア形成活動指導Ⅰ",
     "name_en": "Field Instruction in Community Welfare Career Development ActivityⅠ",
     "syllabus_number": "2123000A",
     "course_number": "23-1-21-22-07",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "北村　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "伊藤　敏安",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -46,18 +46,18 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①学外である保育所や社会福祉施設で実習を行う意義について説明することができる。 \n②社会人としての態度・行動について説明することができる。 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性について説明することができる。 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とコミュニケーション方法について説明することができる。",
+    "objectives": "①学外である保育所や社会福祉施設で実習を行う意義について説明することができる。 \n②社会人としての態度・行動について説明することができる。 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性について説明することができる。 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とコミュニケーション方法について説明することができる。",
     "overview": "本科目は、1年次春期休暇に実施する地域福祉キャリア形成活動Ⅰの事前学習を行う科目である。授業では、学外である社会福祉施設で実習を行う意義の理解、社会人としての態度・行動の理解、地域福祉キャリア形成活動Ⅰを行う保育所や社会福祉施設の特性の理解、保育所の子ども、社会福祉施設の高齢者及び障害のある方とのコミュニケーション方法について説明をする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2"
     ],
     "textbooks": [
         {
             "title": "特定の図書は指定せず授業中に資料を配布します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -65,10 +65,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "参考図書は講義内で適時案内します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -76,27 +76,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "①学外である保育所、社会福祉施設で実習を行う意義の理解 \n②社会人としての態度・行動の理解 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性の理解 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とのコミュニケーション方法の理解\n\nその他は、各分野での学習成果物や学習態度など総合的に勘案し、評価する。",
+    "grading_criteria": "①学外である保育所、社会福祉施設で実習を行う意義の理解 \n②社会人としての態度・行動の理解 \n③地域福祉キャリア形成活動Ⅰを行う保育所、社会福祉施設の特性の理解 \n④保育所の子ども、社会福祉施設の高齢者や障害のある方とのコミュニケーション方法の理解\n\nその他は、各分野での学習成果物や学習態度など総合的に勘案し、評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 80
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 80
     },
-    "message_from_teachers": "授業は欠席や遅刻をしないこと、また、必要な提出物は期限を厳守することを求める。社会人として必要な職業意識や倫理観を育むことはもちろんのこと、社会人としての基本的マナーを身に付けることも大事にしていく。授業に参加するにあたっては、次回の授業内容を参照し、必要な課題に取組むこと(予習2時間程度)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと（復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日",
+    "teacher_message": "授業は欠席や遅刻をしないこと、また、必要な提出物は期限を厳守することを求める。社会人として必要な職業意識や倫理観を育むことはもちろんのこと、社会人としての基本的マナーを身に付けることも大事にしていく。授業に参加するにあたっては、次回の授業内容を参照し、必要な課題に取組むこと(予習2時間程度)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと（復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "地域福祉キャリア形成活動の意義と目的",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "実習種別の基本的理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "実習種別の内容の理解（ゲストスピーカー）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "実習種別の希望調査",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "実習生調書の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "実習先種別の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "実習先種別における学びの目的",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "実習計画書の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実習先の事前訪問の流れ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "実習日誌の作成①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "実習日誌の作成②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -259,9 +259,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "実習で求められる専門的な知識の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実習で求められる専門的な技術の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -289,9 +289,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実習時の留意点",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "直前オリエンテーションと活動終了後のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -319,6 +319,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

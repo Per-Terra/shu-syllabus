@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:02:45Z",
+    "fetched_at": "2025-04-04T06:02:45Z",
     "name_ja": "経営史Ⅰ",
     "name_en": "Business History Ⅰ",
     "syllabus_number": "2035700A",
     "course_number": "11-2-23-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "稲葉　和也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "テーマ：アメリカ経営史の理解\n1920～1930年代にかけて、アメリカではじめて「経営史」という学問分野が登場しました。このことはアメリカではすでに19世紀末以降において資本主義が急激な発展を示し、ことにl920年代に巨大独占企業が出現して、その管理問題や経営政策がクローズ・アップされたことと深く関連しています。アメリカで生まれた学問ではありますが、経営史研究の領域は、個別企業史から産業部門別研究、一国経済だけでなく、多国籍企業の活動なども含める国際的な領域にまで広がっています。本講義では、アメリカにおける現代企業の発達を取り上げ、現代企業の形成への理解を深めたいと考えます。また、コンピューターやインターネットの発展を見据えてIT産業に関わる産業史や、金融業の発展史も取上げていきたいと思います。\n到達目標：\n知識の領域：アメリカ経営史の基本を理解する。\n思考の領域：アメリカ経営史に関して自分の意見を論理的に述べることができる。\n態度の領域：経済・経営の問題に対応できる実務能力を身につける。",
+    "objectives": "テーマ：アメリカ経営史の理解\n1920～1930年代にかけて、アメリカではじめて「経営史」という学問分野が登場しました。このことはアメリカではすでに19世紀末以降において資本主義が急激な発展を示し、ことにl920年代に巨大独占企業が出現して、その管理問題や経営政策がクローズ・アップされたことと深く関連しています。アメリカで生まれた学問ではありますが、経営史研究の領域は、個別企業史から産業部門別研究、一国経済だけでなく、多国籍企業の活動なども含める国際的な領域にまで広がっています。本講義では、アメリカにおける現代企業の発達を取り上げ、現代企業の形成への理解を深めたいと考えます。また、コンピューターやインターネットの発展を見据えてIT産業に関わる産業史や、金融業の発展史も取上げていきたいと思います。\n到達目標：\n知識の領域：アメリカ経営史の基本を理解する。\n思考の領域：アメリカ経営史に関して自分の意見を論理的に述べることができる。\n態度の領域：経済・経営の問題に対応できる実務能力を身につける。",
     "overview": "経営史は、企業経営に関する歴史的、学際的な研究を行う学問であり、研究対象の違いから経営管理史、経営思想史、産業史、企業社史などの分類があり、地域別では日本経営史、アジア経営史、欧米経営史のように細分化されている。また、グローバルな視点のもとで、比較経営史、グローバル経営史という分野も存在している。いずれも「企業が歴史上さまざまな時機に直面した経営上の重要問題」と「それを企業がどのように解決したのか」を明らかにしようとするものである。本講義は、経営史分野の多様性を踏まえながら、経営管理史を中心に経営組織や管理についての歴史的発展を取り上げる。経営管理上における国内外の重要な史実学習を通して、企業経営行動の歴史的発展傾向を理解するとともに、過去からの流れの中に現在をより深く理解することを目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "経営史（有斐閣Ｓシリーズ）",
-            "year": 1987,
+            "publication_year": 1987,
             "author": "鈴木　良隆、安部　悦生、米倉　誠一郎",
             "publisher": "有斐閣",
             "price": 2090,
@@ -50,28 +50,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "経済学部2021年度以前入学の学生は、「経営史Ⅰ」及び「経営史Ⅱ」の単位を修得することで、「経営史（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "講義への出席状況、ディスカッションへの積極的な参加、期末試験により判定する。",
+    "grading_criteria": "講義への出席状況、ディスカッションへの積極的な参加、期末試験により判定する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "講義該当箇所の予習と復習をそれぞれ1時間程度行うことが望ましい。",
+    "teacher_message": "講義該当箇所の予習と復習をそれぞれ1時間程度行うことが望ましい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "経営史とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "アメリカにおける現代企業の発達①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "アメリカにおける現代企業の発達②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "アメリカにおける現代企業の発達③",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "アメリカ金融業の発展史①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "アメリカ金融業の発展史②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "自動車産業史①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "自動車産業史②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "自動車産業史③",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "化学産業史①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "化学産業史②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "コンピューター、情報産業史①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "コンピューター、情報産業史②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "まとめ①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

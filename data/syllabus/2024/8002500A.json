@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-07T11:09:34Z",
+    "fetched_at": "2025-04-07T11:09:34Z",
     "name_ja": "上級日本語Ⅲ",
     "name_en": "Advanced JapaneseⅢ",
     "syllabus_number": "8002500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "佐野　千亜紀",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,16 +29,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、日本語能力試験N1レベルの「読解力」を身につけることを目標とします。\n【到達目標】\n①幅広い分野の文章の仕組みを理解することができる \n②幅広い分野の文章に関する問いを解く技術を身につける\n③母語と日本語の比較による言語観察をし、理解することができる",
+    "objectives": "本講義では、日本語能力試験N1レベルの「読解力」を身につけることを目標とします。\n【到達目標】\n①幅広い分野の文章の仕組みを理解することができる \n②幅広い分野の文章に関する問いを解く技術を身につける\n③母語と日本語の比較による言語観察をし、理解することができる",
     "overview": "大学卒業後、日本企業で働くためには、日本語能力試験N１級レベルの日本語が必要だとされる。本講義では、このうち読解能力に焦点をあてる。日本語能力N1級レベルの読解能力では、抽象度の高い文章を読み取る能力が求められている。本講義では、抽象度の高い文章を選択し、講義内で内容理解を進める。また内容理解と同時に内容に用いられる表現、語彙を学ぶ機会を設ける。これらにより、抽象度の高い文章表現の理解とそれに応じた表現を身につける。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "『新完全マスター読解 日本語能力試験N1』",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "福岡理恵子・清水知子・中村則子・田代ひとみ",
             "publisher": "スリーエーネットワーク",
             "price": null,
@@ -46,35 +46,35 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "中級日本語",
             "中上級日本語Ⅰ",
             "中上級日本語Ⅱ",
             "中上級日本語Ⅲ"
         ],
-        "brings": "教科書、ノート",
+        "required_materials": "教科書、ノート",
         "other": "なし"
     },
-    "evaluation_criteria": "①日本語能力試験N1レベルの文章の仕組みを理解する能力\n②日本語能力試験N1レベルの問いを理解する能力\n③母語と日本語の比較による言語観察能力\n上記3つの観点から評価する。\nその他・・授業態度、課題の提出状況",
+    "grading_criteria": "①日本語能力試験N1レベルの文章の仕組みを理解する能力\n②日本語能力試験N1レベルの問いを理解する能力\n③母語と日本語の比較による言語観察能力\n上記3つの観点から評価する。\nその他・・授業態度、課題の提出状況",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "日本語能力試験N1レベルの文章は、日本の社会や習慣がベースとなっているものも多いです。語彙や文法だけでなく、文章となった段階で、どのように事柄や意見が表されているのか、日本語だけではなく、日本と言う視点から考えてみましょう。\n\n予習：次回実施内容を確認し、その箇所を読んでおくこと（30分程度）",
+    "teacher_message": "日本語能力試験N1レベルの文章は、日本の社会や習慣がベースとなっているものも多いです。語彙や文法だけでなく、文章となった段階で、どのように事柄や意見が表されているのか、日本語だけではなく、日本と言う視点から考えてみましょう。\n\n予習：次回実施内容を確認し、その箇所を読んでおくこと（30分程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n文章の仕組みを理解する【対比】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "文章の仕組みを理解する【言い換え】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "文章の仕組みを理解する【比喩】【疑問提示文】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "問いを解く技術を身につける【指示語】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "問いを解く技術を身につける【だれが・何を】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "問いを解く技術を身につける【下線部の意味】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "問いを解く技術を身につける【理由・例を問う】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "１～７回目までの確認小テストと解説\n実践練習　内容理解（中文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実践練習　内容理解（中文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "実践練習　内容理解（長文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "実践練習　内容理解（長文）\n実践練習　主張理解（長文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "実践練習　主張理解（長文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "広告、お知らせ、説明書き、表・リスト",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実践練習【統合理解】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "８～１４回目までの確認小テストと解説\n実践練習【情報検索】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -237,6 +237,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-08T00:56:49Z",
+    "fetched_at": "2024-08-08T00:56:49Z",
     "name_ja": "陸上運動Ⅰ",
     "name_en": "Track and Field I",
     "syllabus_number": "1005410A",
     "course_number": "04HP204、05LS217",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "東恩納　玲代",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "西山　健太",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -32,16 +32,16 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 陸上競技の特性・技能・ルール・トレーニング方法を理解できる\n2. 陸上競技の技能・トレーニング方法を実践できる",
+    "objectives": "1. 陸上競技の特性・技能・ルール・トレーニング方法を理解できる\n2. 陸上競技の技能・トレーニング方法を実践できる",
     "overview": "「陸上競技」では、年齢や競技レベルを問わず、記録という客観的な指標の追求を通して、他者や自分自身との競争を楽しみ、卓越や達成の喜びを得られるという、陸上競技の本質的な価値や楽しさを伝えられるようになることを目的とする。そのため、陸上競技における走・跳・投の基本的な種目に取り組むこととする。授業は実習を中心に進行しながら、各種目のルールの知識や技能、トレーニング方法について解説する。また、スポーツライフステージや競技レベルに応じた適切な指導の在り方についても解説する。\n主に実技形式で授業を進める。受講生は2グループに分かれ、担当教員2名がそれぞれ異なる種目を指導する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "中学校部活動における陸上競技指導の手引き",
-            "year": 0,
+            "publication_year": null,
             "author": "公益財団法人日本陸上競技連盟",
             "publisher": "",
             "price": null,
@@ -49,10 +49,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "陸上競技指導教本アンダー16･19［初級編］基礎から身につく陸上競技",
-            "year": 0,
+            "publication_year": null,
             "author": "公益財団法人日本陸上競技連盟",
             "publisher": "大修館書店",
             "price": null,
@@ -61,7 +61,7 @@
         },
         {
             "title": "陸上競技指導教本アンダー16･19［上級編］レベルアップの陸上競技",
-            "year": 0,
+            "publication_year": null,
             "author": "公益財団法人日本陸上競技連盟",
             "publisher": "大修館書店",
             "price": null,
@@ -70,7 +70,7 @@
         },
         {
             "title": "陸上競技のコーチング学",
-            "year": 0,
+            "publication_year": null,
             "author": "日本陸上競技学会",
             "publisher": "大修館書店",
             "price": null,
@@ -78,27 +78,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "1. 特性・技能・ルール・トレーニング方法に関する理解度をレポート40%で評価する\n2. 実技に関する習熟度を実技60%で評価する",
+    "grading_criteria": "1. 特性・技能・ルール・トレーニング方法に関する理解度をレポート40%で評価する\n2. 実技に関する習熟度を実技60%で評価する",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "陸上競技のもつ魅力に気づき、それを伝えられる指導者となることを目指して、この授業に臨んでくれることを期待します。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書該当ページを通読してください(予習・30分程度)。授業終了後には、授業で行った実技の内容を振り返って、レポートとしてまとめてください (復習・30分程度)。",
+    "teacher_message": "陸上競技のもつ魅力に気づき、それを伝えられる指導者となることを目指して、この授業に臨んでくれることを期待します。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、教科書該当ページを通読してください(予習・30分程度)。授業終了後には、授業で行った実技の内容を振り返って、レポートとしてまとめてください (復習・30分程度)。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ウォーキングの特性と指導",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ウォーキングの実際",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ジョギングの特性と指導",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ジョギングの実際",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "走種目のルールと特性",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "短距離走の技能",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ハードル走のルールと特性",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ハードル走の技能",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "跳躍種目のルールと特性",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "走高跳の技能",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "投てき種目のルールと特性",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "砲丸投げの技能",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "競技会",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -250,9 +250,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -261,6 +261,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

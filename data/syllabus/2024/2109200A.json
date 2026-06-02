@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-07T11:06:45Z",
+    "fetched_at": "2025-04-07T11:06:45Z",
     "name_ja": "法律学Ⅱ（2023年度以前入学者：法律学概論Ⅱ）",
     "name_en": "",
     "syllabus_number": "2109200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "水野　陽一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,12 +28,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）法学（私法分野）に関する基本知識が身についた。\n（２）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（３）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "objectives": "【到達目標】\n（１）法学（私法分野）に関する基本知識が身についた。\n（２）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（３）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
     "overview": "本講義では、法学の基礎について簡単に説明した上で、主に私的分野においてどのように法律が適用されているかを見ていく。契約とは何か、相続とは何か、借金をすることとは何か、といったこと等について主に扱っていく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
@@ -41,7 +41,7 @@
     "textbooks": [
         {
             "title": "図録 法学入門",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "著者 \t堀口　悟郎 編著 斎藤　一久 編著",
             "publisher": "弘文堂",
             "price": 2750,
@@ -49,32 +49,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "※2023（令和5）年度入学生までにおける「法律学概論Ⅱ」の読替科目です。"
     },
-    "evaluation_criteria": "（i）法学（私法分野）に関する基本知識が身についた。\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
+    "grading_criteria": "（i）法学（私法分野）に関する基本知識が身についた。\n（ii）法的な問題が発生したとき、自ら考え、問題を解決していく姿勢を学ぶことができた。\n（iii）私たちの生活する社会と法との関わりに対して、省察を深めることができた。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "法律は主専攻ではないので、予習よりも復習を心がけましょう。",
+    "teacher_message": "法律は主専攻ではないので、予習よりも復習を心がけましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "法の種類：公法と私法、実体法と手続法、成文法と不文法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "契約の成立（公序良俗等）\n\n契約の種類１―権利移転型（贈与、売買）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "契約の種類２―貸借型（物を借りる契約）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "契約の種類３―労務提供型、その他",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "財産とは何か、所有権、無体財産権、様々な規制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "動産と不動産の区別",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "年齢と法律、未成年者",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "高齢者の保護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "損害賠償１―債務不履行",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "損害賠償２―不法行為",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "時効制度、お金の取り立て",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "担保制度、法人",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "会社制度（特に株式会社）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "手形・小切手制度、親族法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "相続法と全体のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

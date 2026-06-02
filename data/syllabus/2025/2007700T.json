@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:41Z",
+    "fetched_at": "2025-04-04T05:59:41Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700T",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "田島　正士",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,22 +27,22 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行った。その間に学生の興味関心の変化もあろうかと考えられるが、引き続きデータ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいて、卒業論文を作成することを到達目標とする。\n\n1. 設定したテーマに関する知識と理解ができていること。\n2. 意味のある課題設定と明らかにしたい目標に対する計画が立てられること。\n3. 報告において、論点を整理しわかりやすく要点を伝えることができること。",
+    "objectives": "専門ゼミは、学生の興味関心の深いテーマについて、担当教員の専門分野を生かして専門的な研究・指導を行う少人数の演習科目である。 専門ゼミⅠでは、文献の輪読などを通じた専門分野の基礎的および応用的な知識の修得を行った。その間に学生の興味関心の変化もあろうかと考えられるが、引き続きデータ収集、文献の整理、仮説の提示・検証などを行い、得られた分析結果に基づいて、卒業論文を作成することを到達目標とする。\n\n1. 設定したテーマに関する知識と理解ができていること。\n2. 意味のある課題設定と明らかにしたい目標に対する計画が立てられること。\n3. 報告において、論点を整理しわかりやすく要点を伝えることができること。",
     "overview": "フィールドワークを中心にするか、文献データによる分析を中心にするかは、各人の関心と関心のある分野の特性を鑑みて話し合いながら決定する。必要に応じて相談を行いますが、テーマ設定や必要な文献の知識は各人で異なるでしょうから教員はあくまでサポートです。ゼミ内のプレゼンテーションで練習を行いながら、卒業論文執筆に向けての問題点の洗い出しや添削をしていきます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
         "現代経済学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "ミクロ経済学Ⅰ・Ⅱ",
             "意思決定科学",
             "経済学",
@@ -50,24 +50,24 @@
             "データサイエンス入門",
             "経済政策"
         ],
-        "brings": "パソコンは必要になると考える。",
+        "required_materials": "パソコンは必要になると考える。",
         "other": ""
     },
-    "evaluation_criteria": "最終的には卒業論文で判断する。",
+    "grading_criteria": "最終的には卒業論文で判断する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "モチベーションがないと良い卒業論文は完成しないでしょう。興味・関心のあるテーマを探しながら成果が上がるように互いに注力できるように努力したいと考えています。\n\n予習・復習時間を90分程度確保しておいてください。",
+    "teacher_message": "モチベーションがないと良い卒業論文は完成しないでしょう。興味・関心のあるテーマを探しながら成果が上がるように互いに注力できるように努力したいと考えています。\n\n予習・復習時間を90分程度確保しておいてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "文献サーベイ・調査計画",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "文献サーベイ・調査計画",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "文献サーベイ・調査計画",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "文献調査ないしはフィールドワーク",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "文献調査ないしはフィールドワーク",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "文献調査ないしはフィールドワーク",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "データ分析と論点整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "データ分析と論点整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "データ分析と論点整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "論文の骨子案の作成と見直し",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "論文の骨子案の作成と見直し",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "論文の骨子案の作成と見直し",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "中間報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "中間報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "論文作成のフォーマットの確認(参考文献の書き方、剽窃などの注意など)",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "進捗状況の報告と修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "論文ドラフト発表の準備①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "論文ドラフト発表の準備②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "論文ドラフト発表の準備③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "論文発表①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "論文発表②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,6 +365,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-04T06:05:33Z",
+    "fetched_at": "2025-04-04T06:05:33Z",
     "name_ja": "臨床薬理学",
     "name_en": "Clinical Pharmacology",
     "syllabus_number": "2115300A",
     "course_number": "22-2-21-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "嶋本　顕",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "大平　光子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -30,18 +30,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1 薬とはどのようなものか説明できる。\n2 薬の薬理作用について説明できる。\n3 医薬品の副作用、相互作用について説明できる。\n4 医薬品に関する法律の重要な事項について説明できる。\n5 医療現場で使用する医薬品の特徴と作用機序を説明できる。\n6 物質代謝に作用する薬物（ホルモン、ビタミン）の役割を理解し、それらと関係のある医薬品の特徴と作用機序を説明できる。\n7 患者に正しくかつ効果的に医薬品を用いるために必要な条件を説明できる。",
+    "objectives": "1 薬とはどのようなものか説明できる。\n2 薬の薬理作用について説明できる。\n3 医薬品の副作用、相互作用について説明できる。\n4 医薬品に関する法律の重要な事項について説明できる。\n5 医療現場で使用する医薬品の特徴と作用機序を説明できる。\n6 物質代謝に作用する薬物（ホルモン、ビタミン）の役割を理解し、それらと関係のある医薬品の特徴と作用機序を説明できる。\n7 患者に正しくかつ効果的に医薬品を用いるために必要な条件を説明できる。",
     "overview": "臨床の場で遭遇する病態の臨床症状を改善するための薬物療法、薬理作用、治療効果と副作用について学ぶ。本授業では、各種疾患の治療に用いられる代表的な医薬品の薬理学的特徴、薬剤の有効性と安全性について理解する。授業を通して、各疾患の治療に用いられる代表的な医薬品の薬理学的特性、薬剤の有効性と安全性を踏まえた医薬品の使用上の留意事項、副作用に関する知識を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP2"
     ],
     "textbooks": [
         {
             "title": "系統看護学講座　専門基礎　薬理学",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "医学書院",
             "price": null,
@@ -49,30 +49,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "ノートパソコン",
+        "recommended": [],
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "筆記試験100％",
+    "grading_criteria": "筆記試験100％",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "現代医学の進歩と活用に不可欠な薬について講義しますので、看護と結び付けて理解を深めてください。\n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "現代医学の進歩と活用に不可欠な薬について講義しますので、看護と結び付けて理解を深めてください。\n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "薬理学の概念、薬理作用、薬の使用目的",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "薬の適応、薬効に影響を及ぼす要因、薬の有害作用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "医薬品に関する法律",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "抗感染症薬、抗がん薬",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "抗がん薬、免疫治療薬",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "中枢神経系に作用する薬",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "末梢神経系に作用する薬",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "心臓・血管系に作用する薬物①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "心臓・血管系に作用する薬物②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "呼吸器系に作用する薬物",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "消化器系に作用する薬物",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "生殖器系に作用する薬物",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "アレルギー・炎症に作用する薬物",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "物質代謝に作用する薬物（ホルモン、ビタミン）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "救急時に使用される薬物",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,6 +220,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

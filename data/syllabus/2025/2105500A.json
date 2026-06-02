@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-04T06:04:36Z",
+    "fetched_at": "2025-04-04T06:04:36Z",
     "name_ja": "大規模・オープンデータ分析",
     "name_en": "Big Data and Open Data Analysis",
     "syllabus_number": "2105500A",
     "course_number": "31-2-25-34-02",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "松村　遼",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "道山　知成",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "小柳　淳二",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -36,18 +36,18 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 大規模・オープンデータがどのようなものか理解できる。\n2. 大規模・オープンデータの活用、分析方法について理解できる。\n3. 大規模・オープンデータの活用、分析を実践できる。",
+    "objectives": "1. 大規模・オープンデータがどのようなものか理解できる。\n2. 大規模・オープンデータの活用、分析方法について理解できる。\n3. 大規模・オープンデータの活用、分析を実践できる。",
     "overview": "近年では、様々な企業や機関により蓄積された種々のデータがオープンデータとして公開されており、これの活用、分析によって課題の発見や解決、意思決定がなされている。本授業では、機械学習や数理最適化、統計解析などの大規模・オープンデータの活用、分析方法について、演習を通じて実践的に修得することを目標とする。授業は複数教員によるオムニバス形式で進行し、各教員が設定するテーマについての概説、演習、プレゼンテーションを通じて理解を深め、大規模・オープンデータ分析に関する実践的能力を養う。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP3"
     ],
     "textbooks": [
         {
             "title": "自作教材",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -55,28 +55,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "到達目標に挙げる 1. 大規模・オープンデータについての理解　2. 大規模・オープンデータの活用、分析方法についての理解　3. 大規模・オープンデータの活用、分析の実践　を以下により評価する。",
+    "grading_criteria": "到達目標に挙げる 1. 大規模・オープンデータについての理解　2. 大規模・オープンデータの活用、分析方法についての理解　3. 大規模・オープンデータの活用、分析の実践　を以下により評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "演習テーマ解説・画像認識および関連技術概説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "演習：深層学習による画像認識①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "演習：深層学習による画像認識②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "演習：深層学習による画像認識③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "統計データの表示とダウンロード",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "統計データから各種指標の計算",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "統計データから検定の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "統計データからの考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "天文学におけるオープンデータ概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "天文学における公開カタログデータの統計解析",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "天文学における公開画像データ概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "天文学における公開画像データ解析実践",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -230,6 +230,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

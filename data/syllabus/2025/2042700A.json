@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:03:30Z",
+    "fetched_at": "2025-04-04T06:03:30Z",
     "name_ja": "自治体の業務を学ぶ",
     "name_en": "Learning about the work of local government",
     "syllabus_number": "2042700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "長澤　賢一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,47 +27,47 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）周南市の業務内容を理解することができる。",
+    "objectives": "【到達目標】\n（１）周南市の業務内容を理解することができる。",
     "overview": "私たちの生活には、公共サービスは欠かせないものとなっている。身の回りの公共サービスを担っているのが基礎的自治体である市町村である。近年では「地方分権」という言葉に代表されるように、国から地方への権限移譲など基礎的自治体へ求められる役割は大きくなっている。このような中で、私たちは市町村の役割や、担っている事務事業についてどれほど知っているだろうか。本講義では、周南市役所の協力を得て、周南市の行財政の実態の理解を通じて自治体運営の実際について学習を深める。具体的には、周南市役所の多様な部署の職員を迎え、実業務について幅広く解説する。基礎的自治体の行政運営を理解し、基礎的自治体か抱える問題点を指摘し、自分の意見を持って他人とディスカッションすることができるようになることを目標とする。\n\nこのような中で、私たちは市町村の役割や、担っている事務事業についてどれほど知っているだろうか。本講義では、徳山大学と連携協定を結んでいる周南市役所の協力を得て、周南市の行財政の実態の理解を通じて自治体運営の実際について学習を深める。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "地域文化講座",
             "地域と産業",
             "地方財政論",
             "財政学"
         ],
-        "brings": "筆記用具",
+        "required_materials": "筆記用具",
         "other": "授業は,授業中に配布する資料を中心に進めていきます。"
     },
-    "evaluation_criteria": "・周南市における業務の内容および行政が抱える問題の理解（レポート：50％、グループワーク・発表：50％）",
+    "grading_criteria": "・周南市における業務の内容および行政が抱える問題の理解（レポート：50％、グループワーク・発表：50％）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "周南市の自治体運営や実態について知る良い機会です。積極的に質問やコメントをしてください。\n（シラバス内容は一部変更になる可能性があります。）",
+    "teacher_message": "周南市の自治体運営や実態について知る良い機会です。積極的に質問やコメントをしてください。\n（シラバス内容は一部変更になる可能性があります。）",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "周南市のまちづくりについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "周南市の財政について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "周南市の生活保護の動向\n　～さまざまな課題と向き合う～",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "シティネットワーク推進部の取組み\n～ 市民に寄り添う広聴・市民に伝わる広報・市民とつながるシティプロモーション ～",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "周南市の森林・林業について\n　～スマートにバイオマス？進化する周南市の森林・林業～",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "社会への扉(とびら)\n１２のクイズで学ぶ自立した消費者",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "周南市最大の観光施設～周南市徳山動物園",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "周南市の学校教育について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "周南市が管理する土木インフラの維持管理について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "周南市の上下水道\n～安心・安全で快適に暮せる水環境",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "周南市の人権教育",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "周南市、全国の消防行政",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "周南市の防災行政について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "これまでの振返り、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

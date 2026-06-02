@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-07T11:07:33Z",
+    "fetched_at": "2025-04-07T11:07:33Z",
     "name_ja": "こころとからだのしくみ",
     "name_en": "Mechanism of mind and body",
     "syllabus_number": "2125000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "北村　光子",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "大谷　道明",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "原田　昌範",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -34,18 +34,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①介護技術の根拠となる知識を習得し、安全な介護サービスの提供方法を説明することができる。\n②認知症が利用者の生活にどのような影響があるかを具体的に説明することができる。\n③障害が利用者の生活にどのような影響があるのかを具体的に説明することができる。\n④介護の場面における医療職との連携の留意点を説明することができる。\n⑤終末期介護における留意点を説明できることができる。",
+    "objectives": "①介護技術の根拠となる知識を習得し、安全な介護サービスの提供方法を説明することができる。\n②認知症が利用者の生活にどのような影響があるかを具体的に説明することができる。\n③障害が利用者の生活にどのような影響があるのかを具体的に説明することができる。\n④介護の場面における医療職との連携の留意点を説明することができる。\n⑤終末期介護における留意点を説明できることができる。",
     "overview": "本授業では、介護を必要とする利用者を支援する際に必要となる知識と技術（①介護の基本的な考え方、②認知症の理解、③障害の理解、④医療との連携とリハビリテーション、⑤死にゆく人に関したこころとからだのしくみと終末期介護）について学修する。 具体的な学修内容は以下の通りである。\n①介護の基本的な考え方と、介護に関するこころのしくみとからだのしくみ\n②認知症の理解と、認知症の利用者を介護する時の判断の基準となる原則\n③障害の概念とＩＣＦ、障害福祉の基本的な考え方\n④医療職と介護職の連携における留意点\n⑤終末期介護における留意点",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "介護職員初任者研修テキスト２　第3版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "太田貞司、上原千寿子、白井孝子",
             "publisher": "中央法規出版",
             "price": 2600,
@@ -53,28 +53,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "筆記用具、PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具、PC",
         "other": "なし"
     },
-    "evaluation_criteria": "１．介護技術の根拠となる知識と、安全な介護サービスの提供方法\n２．認知症が利用者の生活にどのような影響があるかについて\n３．障害が利用者の生活にどのような影響があるのかについて\n４．介護の場面における医療職との連携の留意点\n５．終末期介護における留意点\nにおいて、以下の「学生に対する評価」で評価する。",
+    "grading_criteria": "１．介護技術の根拠となる知識と、安全な介護サービスの提供方法\n２．認知症が利用者の生活にどのような影響があるかについて\n３．障害が利用者の生活にどのような影響があるのかについて\n４．介護の場面における医療職との連携の留意点\n５．終末期介護における留意点\nにおいて、以下の「学生に対する評価」で評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 25,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 15
+        "exam": 60,
+        "quiz": 0,
+        "report": 25,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 15
     },
-    "message_from_teachers": "受講にあたっては、各回の授業計画に該当する教科書を熟読しておくことを予習とします（2時間程度）。\nまた、授業内容を振り返り、演習課題に再度取り組むなど、授業内容の定着を図るように努めることを復習とします（2時間程度）。\n\nオフィスアワー：講義のある曜日",
+    "teacher_message": "受講にあたっては、各回の授業計画に該当する教科書を熟読しておくことを予習とします（2時間程度）。\nまた、授業内容を振り返り、演習課題に再度取り組むなど、授業内容の定着を図るように努めることを復習とします（2時間程度）。\n\nオフィスアワー：講義のある曜日",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n　授業の進め方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "介護の基本的な考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "介護に関するこころのしくみの基礎的理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "介護に関するからだのしくみの基礎的理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "認知症を取り巻く状況、医学的側面から見た認知症の基礎と健康管理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "認知症に伴うこころとからだの変化と日常生活",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "認知症患者の家族への支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "認知症の理解のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "障害の基礎的理解、ICFについて、障害の医学的側面、生活障害の基礎的知識",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "障害者の家族の心理、かかわり支援の理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "医療との連携とリハビリテーション①\n医行為と介護、訪問看護、施設における看護と介護の役割・連携",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "医療との連携とリハビリテーション②\nリハビリテーションの理念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "死にゆく人に関したこころとからだのしくみと終末期介護①\n終末期に関する基礎知識とこころとからだのしくみ、生から死への過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "死にゆく人に関したこころとからだのしくみと終末期介護②\n「死」に向き合うこころの理解、苦痛の少ない死への支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "こころとからだのしくみ、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "北村：保育士、介護福祉士、SW、ケアマネジャーの実務経験があります。\n　　　また、高校、大学では、社会福祉、介護福祉について教授しています。\n大谷：理学療法士として30年以上の実務経験があります。\n原田：医師として20年以上の経験があります。"
+    "credit_auditing": false,
+    "practitioner_info": "北村：保育士、介護福祉士、SW、ケアマネジャーの実務経験があります。\n　　　また、高校、大学では、社会福祉、介護福祉について教授しています。\n大谷：理学療法士として30年以上の実務経験があります。\n原田：医師として20年以上の経験があります。"
 }

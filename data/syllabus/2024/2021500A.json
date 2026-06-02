@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:00:11Z",
+    "fetched_at": "2025-04-07T11:00:11Z",
     "name_ja": "情報社会と職業",
     "name_en": "IT Society and Profession",
     "syllabus_number": "2021500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "長谷川　賀秀",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "この授業内容を学習することで、高等学校情報科の教員免状を取得するために必要な基本的な知識を理解し、情報化の進展が社会、ビジネス活動及び職業などに及ぼす影響を理解します。また、その知識等を用いて情報科の授業を構成する力、ビジネス活動や職業の現場で活躍する基礎的な力等の熟成を目指します。【身につく力】「知識、理解」「情報リテラシー」「コミュニケーション能力」",
+    "objectives": "この授業内容を学習することで、高等学校情報科の教員免状を取得するために必要な基本的な知識を理解し、情報化の進展が社会、ビジネス活動及び職業などに及ぼす影響を理解します。また、その知識等を用いて情報科の授業を構成する力、ビジネス活動や職業の現場で活躍する基礎的な力等の熟成を目指します。【身につく力】「知識、理解」「情報リテラシー」「コミュニケーション能力」",
     "overview": "産業社会における情報化の進展は、個人を取り巻く職業環境を大きく変化させるとともに、個人の人生観や職業観・職業意識の多様化を推し進めている。その中で、この授業では、職業と情報の関わり、これからの情報社会の中で求められている職業人としての資質・能力及び職業観などについて考察する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [
         {
             "title": "情報と職業―ＡＩ時代に向けてのキャリア開発 （改訂４版）",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "豊田 雄彦／加藤 晃／鈴木 和雄【著】",
             "publisher": "電気書院",
             "price": 2200,
@@ -46,32 +46,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "テキスト",
+        "required_materials": "テキスト",
         "other": "なし"
     },
-    "evaluation_criteria": "「④授業のテーマ及び到達目標」に掲げた到達目標への習熟度を、試験60％、レポート40％の割合で評価する。",
+    "grading_criteria": "「④授業のテーマ及び到達目標」に掲げた到達目標への習熟度を、試験60％、レポート40％の割合で評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "予習・次回実施内容を確認の上、教科書の該当箇所を通読しておく。\n復習・実施内容について、今一度、自分の頭の中で整理しておく。\n※予習・復習合わせて30分程度を行うこと。",
+    "teacher_message": "予習・次回実施内容を確認の上、教科書の該当箇所を通読しておく。\n復習・実施内容について、今一度、自分の頭の中で整理しておく。\n※予習・復習合わせて30分程度を行うこと。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "「情報と職業」とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "そもそも働くとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "さまざまな仕事",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "情報を扱う職種",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "資格と適性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "情報にまつまる法制度と情報倫理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "情報化社会の発展と法制度の整備",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "知的財産権",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "情報化とプライバシー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "情報リスクマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "キャリアデザイン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "キャリア支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "情報技術とビジネス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "競争力を高めるためのIT",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "AI（人工知能）の経営への活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "タウン誌編集を経て、地元経済誌の記者を15年、その後、日刊有料メールマガジンというビジネスモデルで起業し20年。近畿大学工学部、広島経済大学メディアビジネス学部でも同様の科目を15年従事し、情報と社会を取り巻く環境を現場と学術の両分野で関わってきたことで、情報を職業選択などで活かす手法などを共に学んでいきたい。"
+    "credit_auditing": true,
+    "practitioner_info": "タウン誌編集を経て、地元経済誌の記者を15年、その後、日刊有料メールマガジンというビジネスモデルで起業し20年。近畿大学工学部、広島経済大学メディアビジネス学部でも同様の科目を15年従事し、情報と社会を取り巻く環境を現場と学術の両分野で関わってきたことで、情報を職業選択などで活かす手法などを共に学んでいきたい。"
 }

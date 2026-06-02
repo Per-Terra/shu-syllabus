@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:00Z",
+    "fetched_at": "2025-04-04T06:04:00Z",
     "name_ja": "企業とデータ分析",
     "name_en": "Data Analytics and Enterprise",
     "syllabus_number": "2100900A",
     "course_number": "31-1-21-33-09",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "谷村　琢也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -26,44 +26,44 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "1.企業においてどのようなデータがどのような場面で活かされているか理解できる\n2.データ分析が必要となる背景を理解することで情報科学部の他講義に目的意識をもって取り組むことが出来るようになる",
+    "objectives": "1.企業においてどのようなデータがどのような場面で活かされているか理解できる\n2.データ分析が必要となる背景を理解することで情報科学部の他講義に目的意識をもって取り組むことが出来るようになる",
     "overview": "本講義では、データ分析関連の職業に就こうとする学生が企業の現場に入った時に不足する企業活動の前提知識、企業内で取り扱われるデータについての知識を習得することを目的とする。\n講義では、データ分析関連の職業に就いた際に携わる機会が多いマーケティング、デジタルマーケティングなどの業務や、事業KPIをはじめとしたKPIマネジメントについて学ぶ。また、それらの業務を担当するにあたっての基礎となるロジカルシンキングについて学習する。さらに、企業内にどのようなデータが存在するか、企業において取り扱われる典型的なデータや、データに関連する経営システム、ITツールの使われ方などについても学習し、企業で働く上での基礎知識とする。\n主に講義形式で授業を進めるが、演習問題も扱うことで学んだことを反復学習し、学生自身が知識を確実に身に付けることができるようにする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3",
         "情報科学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": "なし"
     },
-    "evaluation_criteria": "毎回の授業において小テストを実施。",
+    "grading_criteria": "毎回の授業において小テストを実施。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "近年においてデータ分析能力はデータサイエンティストに限らず企業で働く全ての人に求められる基礎スキルとなっています。企業で働かずとも理論、知識の習得は可能ですが、一方で具体的な活用場面をイメージ出来ないと学習の効率が上がらないという問題もあります。本講義を通してデータ分析の活用場面のイメージをもってもらい、今後のデータサイエンスの学習をより有意義なものにしていただけることを期待しています。\n毎回の授業において小テストを実施します。理解が不十分であったところを重点的に、資料の再確認を行い、知識を定着させてください(復習・60分程度)。\n【オフィスアワー】質問等はメールで受け付けます。",
+    "teacher_message": "近年においてデータ分析能力はデータサイエンティストに限らず企業で働く全ての人に求められる基礎スキルとなっています。企業で働かずとも理論、知識の習得は可能ですが、一方で具体的な活用場面をイメージ出来ないと学習の効率が上がらないという問題もあります。本講義を通してデータ分析の活用場面のイメージをもってもらい、今後のデータサイエンスの学習をより有意義なものにしていただけることを期待しています。\n毎回の授業において小テストを実施します。理解が不十分であったところを重点的に、資料の再確認を行い、知識を定着させてください(復習・60分程度)。\n【オフィスアワー】質問等はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション・講義の目的と概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "企業収益とビジネスモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "企業のマネジメントプロセスとKPI",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "企業内の情報システム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "BIとDWH",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "マーケティングの基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "CRMと顧客データ分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "デジタルマーケティング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Webサイトのパフォーマンス分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ABテストによるデータドリブンな最適化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "DXとAI",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ロジカルシンキング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "問題解決のアプローチ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "仮説検証とマーケティングリサーチ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "企業とデータ分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,6 +211,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "企業におけるデータアナリストとしてマーケティングデータの分析や予測モデルの開発、機械学習システムの導入業務に従事してきた教員の経験をもとに、企業においてデータ分析が必要となる場面の理解及び前提知識を身につけてもらう。"
+    "credit_auditing": true,
+    "practitioner_info": "企業におけるデータアナリストとしてマーケティングデータの分析や予測モデルの開発、機械学習システムの導入業務に従事してきた教員の経験をもとに、企業においてデータ分析が必要となる場面の理解及び前提知識を身につけてもらう。"
 }

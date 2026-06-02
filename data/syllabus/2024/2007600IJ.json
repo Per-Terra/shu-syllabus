@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:09Z",
+    "fetched_at": "2025-04-07T10:57:09Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600IJ",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "野村　典文",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,39 +26,39 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "・メタバースにおける新しい価値創造の手法を理解し、適用する。\n・メタバース空間を通して、VR/AR/MRに関する新たな情報技術を習得する。\n・メタバース空間での人間の能力拡張について研究することで創造性を身に着ける。\n・メタバースの技術的、社会的な課題を議論し、解決策を提案する。",
+    "objectives": "・メタバースにおける新しい価値創造の手法を理解し、適用する。\n・メタバース空間を通して、VR/AR/MRに関する新たな情報技術を習得する。\n・メタバース空間での人間の能力拡張について研究することで創造性を身に着ける。\n・メタバースの技術的、社会的な課題を議論し、解決策を提案する。",
     "overview": "このゼミでは、メタバースと呼ばれる仮想空間が生み出す新しい価値に焦点を当て、その可能性と挑戦について深く探ります。学生たちは、メタバースにおけるコミュニケーション、ビジネス、テクノロジーなどの多岐にわたるテーマを調査研究し、価値を生み出すメタバース空間の制作などを実践的なプロジェクトを通じて学びます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC",
         "other": "教科書は特に指定しない。準備した資料を活用する。"
     },
-    "evaluation_criteria": "プレゼンテーション、ディスカッションへの参加、およびレポート\nその他：メタバースに関する成果物（プロトタイプ制作）",
+    "grading_criteria": "プレゼンテーション、ディスカッションへの参加、およびレポート\nその他：メタバースに関する成果物（プロトタイプ制作）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "現在、私たちはこれまでとは違う、まったく新しい世界の探求を計画しています。これは、仮想世界であり、無限の可能性が広がるメタバースです。メタバースは単なるゲームやバーチャルリアリティ以上のものです。それは新しい「社会」、新しい「市場」、新しい「ステージ」です。そして私たちは、そこでどのような新しい価値を創り出せるのか、あなたと一緒に探っていきたいと思っています。",
+    "teacher_message": "現在、私たちはこれまでとは違う、まったく新しい世界の探求を計画しています。これは、仮想世界であり、無限の可能性が広がるメタバースです。メタバースは単なるゲームやバーチャルリアリティ以上のものです。それは新しい「社会」、新しい「市場」、新しい「ステージ」です。そして私たちは、そこでどのような新しい価値を創り出せるのか、あなたと一緒に探っていきたいと思っています。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、テーマ設定、文献検索",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "テーマ設定、文献検索",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "論文・専門書の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "論文・専門書の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "論文・専門書の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "論文・専門書の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "論文・専門書の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "プラットフォーム評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プラットフォーム評価評価レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -196,17 +196,17 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プラットフォーム評価レポート作成",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "野村　典文"
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "コンテンツ制作",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "全体のインテグレーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -314,9 +314,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "全体のインテグレーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "レポート作成・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "レポート作成・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "レポート作成・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,6 +354,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "野村 典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大\n学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベ\nース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
+    "credit_auditing": false,
+    "practitioner_info": "野村 典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大\n学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベ\nース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
 }

@@ -1,27 +1,27 @@
 {
-    "_fetched_at": "2025-04-04T05:55:13Z",
+    "fetched_at": "2025-04-04T05:55:13Z",
     "name_ja": "数学",
     "name_en": "Elementary Mathematics:Numerical Calculus",
     "syllabus_number": "1002700A",
     "course_number": "11-1-13-21-03、21-1-13-21-03",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河田　正樹",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,12 +29,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n① 中学・高校レベルの数学をきちんと理解することができる。\n② 大学レベルの数学の入門をきちんと理解することができる。\n③ 学んだ数学の知識を生かし、単純化した現実諸問題を解決することができる。",
+    "objectives": "【到達目標】\n① 中学・高校レベルの数学をきちんと理解することができる。\n② 大学レベルの数学の入門をきちんと理解することができる。\n③ 学んだ数学の知識を生かし、単純化した現実諸問題を解決することができる。",
     "overview": "この科目では、経済学や情報学など大学における専門科目の基礎としての数学を学ぶ。\n　高校までに学んだ関数と方程式、微分法、確率の内容を踏まえたうえで、偏微分や線形変換などといった、大学レベルの解析学、線形代数、確率論の入門を学ぶ。\n　またこれらの内容が、経済学や情報学の学びにおいて、どのように応用されるかということを、実例を用いて紹介する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "経営コースDP2",
@@ -45,28 +45,28 @@
         "スポーツ健康科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートPC(必要な時は別途指示する)",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC(必要な時は別途指示する)",
         "other": "特定の教科書は使用せず、授業中に配布する資料等に基づき進めていきます。"
     },
-    "evaluation_criteria": "① 中学・高校レベルの数学の理解　② 大学レベルの数学の入門の理解　③ 単純化した現実諸問題の解決　について、「学生に対する評価」の内容で評価します。\n「その他」は問題演習の状況を、復習問題を通して評価します。",
+    "grading_criteria": "① 中学・高校レベルの数学の理解　② 大学レベルの数学の入門の理解　③ 単純化した現実諸問題の解決　について、「学生に対する評価」の内容で評価します。\n「その他」は問題演習の状況を、復習問題を通して評価します。",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "高校時代にあまり　数学が得意でなかった学生も十分理解できるよう、基礎的な内容から始めていきます。\n　初めから「無理だ」と決めつけないで、チャレンジしてみましょう。\n\n　この授業は反転授業型でおこないます。具体的には以下のような方法をでおこないます。\n　当日の授業までに、授業で取り上げる内容の基礎的な部分について説明した、予習動画を視聴して授業に臨みます。\n　授業の最初に、その日の内容についての簡単なクイズに回答し、予習動画の理解度を確認します。\n　授業ではクイズの解説に始まり、応用・発展的な内容の説明、問題演習をおこないます。\n　授業内容の定着をはかるために、復習問題を宿題として出しますので、定められた期限までに提出するようにしてください。\n\n【予習・復習について】\n予習…クイズのための動画を視聴してくること。\n復習…当日の講義内容を確認し、復習問題に取り組むこと。\n※ 予習・復習合わせて60分程度行うようにしてください。",
+    "teacher_message": "高校時代にあまり　数学が得意でなかった学生も十分理解できるよう、基礎的な内容から始めていきます。\n　初めから「無理だ」と決めつけないで、チャレンジしてみましょう。\n\n　この授業は反転授業型でおこないます。具体的には以下のような方法をでおこないます。\n　当日の授業までに、授業で取り上げる内容の基礎的な部分について説明した、予習動画を視聴して授業に臨みます。\n　授業の最初に、その日の内容についての簡単なクイズに回答し、予習動画の理解度を確認します。\n　授業ではクイズの解説に始まり、応用・発展的な内容の説明、問題演習をおこないます。\n　授業内容の定着をはかるために、復習問題を宿題として出しますので、定められた期限までに提出するようにしてください。\n\n【予習・復習について】\n予習…クイズのための動画を視聴してくること。\n復習…当日の講義内容を確認し、復習問題に取り組むこと。\n※ 予習・復習合わせて60分程度行うようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n1次方程式と1次関数\n　需要曲線と供給曲線への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "2元1次連立方程式\n　市場均衡への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "2次方程式と2次関数\n　利潤最大化への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "微分\n　利潤最大化への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "偏微分\n　生産関数への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "指数関数と対数関数\n　金利計算への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "等比数列\n　割引現在価値への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "三角関数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "さまざまな関数の微分",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "行列と連立方程式(1)\n　行列の計算",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "行列と連立方程式(2)\n　連立方程式の解",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "1次変換\n　画像処理への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "場合の数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "確率",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -229,6 +229,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:06Z",
+    "fetched_at": "2025-04-04T06:04:06Z",
     "name_ja": "Javaプログラミング",
     "name_en": "Java Programming",
     "syllabus_number": "2101400A",
     "course_number": "31-2-21-32-03",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "児玉　満",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第２クォーター",
@@ -26,20 +26,20 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "(ⅰ) Java言語の特徴を理解できるようになる。\n(ⅱ) プログラミングの基本が理解でき、プログラミング的思考ができるようになる。\n(ⅲ) Java言語を用いて簡便なプログラムが作成できるようになる。",
+    "objectives": "(ⅰ) Java言語の特徴を理解できるようになる。\n(ⅱ) プログラミングの基本が理解でき、プログラミング的思考ができるようになる。\n(ⅲ) Java言語を用いて簡便なプログラムが作成できるようになる。",
     "overview": "Java言語を用いてマルチプラットフォームで動作するアプリケーションの製作に必要な知識と技術を修得する。また、Java言語は広く利用されており、理解を深めておくことで他のプログラミング言語の修得も容易になる。この授業では様々なライブラリやコンポーネントを用いることでより高度なプログラミングが可能であることを知り、オブジェクト指向プログラミングにおける大規模システム構築に関連するプログラミング技術を実践することで、自ら考え問題を発見・解決する方法を身に付けることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "スッキリわかるJava入門 第4版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "中山清喬、国本大吾",
             "publisher": "インプレス",
             "price": 2970,
@@ -47,29 +47,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "Python入門"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "（ⅰ）Javaの特徴　（ⅱ）プログラミングの基本　（ⅲ）プログラムの作成\n上記（ⅰ）～（ⅲ）に関する理解度を課題50％、レポート25％、小テスト25％で評価する。",
+    "grading_criteria": "（ⅰ）Javaの特徴　（ⅱ）プログラミングの基本　（ⅲ）プログラムの作成\n上記（ⅰ）～（ⅲ）に関する理解度を課題50％、レポート25％、小テスト25％で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 25,
-        "レポート": 30,
-        "発表・実技": 25,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 25,
+        "report": 30,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "プログラミングは情報科学を学ぶ上で必要となるスキルの１つである。プログラミング的思考を身に付けることで、様々な問題の解決にも役立ちます。\n授業を受けるにあたり、あらかじめ与えられた資料に目を通しておくこと（予習・30分程度）、授業後には授業で学んだことを確認し、課題にとりくんでください（復習30分程度）。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "プログラミングは情報科学を学ぶ上で必要となるスキルの１つである。プログラミング的思考を身に付けることで、様々な問題の解決にも役立ちます。\n授業を受けるにあたり、あらかじめ与えられた資料に目を通しておくこと（予習・30分程度）、授業後には授業で学んだことを確認し、課題にとりくんでください（復習30分程度）。\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス－Java言語とは？－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "プログラミングの基本①‐変数、文字列",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "プログラミングの基本②‐数値演算、文字列演算",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "プログラミングの基本③‐配列",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "プログラミングの基本④‐関数",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "プログラミングの基本⑤‐条件判断",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "プログラミングの基本⑥‐繰返し処理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "オブジェクト指向①‐オブジェクト指向とは",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "オブジェクト指向②‐メソッド・インスタンス",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "オブジェクト指向③‐マルチスレッド",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "GUIプログラミング①‐GUIとは",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "GUIプログラミング②‐各種コンポーネント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "GUIプログラミング③‐グラフィックス命令について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アプリケーション作成①‐簡単なアプリケーションの作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -217,6 +217,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

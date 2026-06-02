@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:50Z",
+    "fetched_at": "2025-04-04T05:58:50Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600R",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "石谷　康人",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①自分を知り、社会を知り、未来を考えることができる。\n②卒論とは何か、ゼミでの学び方、研究の進め方などがわかる。\n③研究のための8つの力がどのようなものか理解できる。\n④卒業論文（以下、卒論と呼ぶ）のためのテーマやリサーチクエスチョンをひとまず設定できる。",
+    "objectives": "【到達目標】\n①自分を知り、社会を知り、未来を考えることができる。\n②卒論とは何か、ゼミでの学び方、研究の進め方などがわかる。\n③研究のための8つの力がどのようなものか理解できる。\n④卒業論文（以下、卒論と呼ぶ）のためのテーマやリサーチクエスチョンをひとまず設定できる。",
     "overview": "大学3年次は、大学生活の後半に実施する専門研究のみならず大学卒業後の進路の決定に関して重要なタイミングとなる。そこで、本科目では、自身の「キャリアデザイン」あるいは「フューチャー・デサイン」を深く検討することと、学術的課題を自ら探索しつつテーマやリサーチクエスチョンを設定するスキルを獲得することの両方をバランスよく行う。前者では、大学3年次から4年次にかけて就職活動を粘り強く行おうとするマインドを醸成する。後者では、専門研究や卒論への取り組みのための方法論をしっかりと理解する。それらに加えて、自らが取り組む卒論のテーマやリサーチクエスチョンを具体的に設定する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "大学生のためのキャリアデザイン 自分を知る・社会を知る・未来を考える",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "川﨑友嗣、安川直志、安川志津香、堀田三和",
             "publisher": "ミネルヴァ書房",
             "price": 2200,
@@ -51,7 +51,7 @@
         },
         {
             "title": "よくわかる卒論の書き方　第2版（やわらかアカデミズム・〈わかる〉シリーズ）",
-            "year": 2013,
+            "publication_year": 2013,
             "author": "白井利明、高橋一郎",
             "publisher": "ミネルヴァ書房",
             "price": 2750,
@@ -60,7 +60,7 @@
         },
         {
             "title": "大学生のためのリサーチリテラシー入門：研究のための8つの力",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "山田剛史、林創",
             "publisher": "ミネルヴァ書房",
             "price": 2640,
@@ -68,10 +68,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "マネジメント研究への招待",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "須田敏子",
             "publisher": "中央経済社",
             "price": 3300,
@@ -80,7 +80,7 @@
         },
         {
             "title": "社会科学の考え方―認識論、リサーチ・デザイン、手法",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "野村康",
             "publisher": "名古屋大学出版会",
             "price": 3960,
@@ -89,7 +89,7 @@
         },
         {
             "title": "新装版　ケース・スタディの方法",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "ロバート K.イン（著）、近藤公彦（翻訳）",
             "publisher": "千倉書房",
             "price": 3850,
@@ -97,34 +97,34 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "経営学入門Ⅰ",
             "経営学入門Ⅱ",
             "経営戦略論Ⅰ",
             "経営戦略論Ⅱ"
         ],
-        "brings": "上記⑦の教科書3冊、筆記用具、ノートなど。ノートパソコンやタブレットなどのある程度の画面サイズを有するインターネット端末を持参することが好ましい。",
+        "required_materials": "上記⑦の教科書3冊、筆記用具、ノートなど。ノートパソコンやタブレットなどのある程度の画面サイズを有するインターネット端末を持参することが好ましい。",
         "other": ""
     },
-    "evaluation_criteria": "上記④にある到達目標への達成度を下記「⑪学生に対する評価」の方針に基づいて評価する。",
+    "grading_criteria": "上記④にある到達目標への達成度を下記「⑪学生に対する評価」の方針に基づいて評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 65,
-        "発表・実技": 35,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 65,
+        "presentation": 35,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ゼミで何を学ぶか、どのように学ぶかが大学卒業後の人生に大きく影響することがあります。私の場合は、大学院修士課程のときのゼミにおける学びが、電機メーカーで研究者になり、その後に大学教員になることに影響しました。そこで、本ゼミでは上記教科書を用いてしっかりと基礎固めを行いますので、各自がそれをもとに自分の目標に向かって自律的に行動できるようになりましょう。それぞれの教科書には、大切な指針がたくさん書かれているので、授業の進行を待たずにできるだけ早く全体に目を通してみましょう。事前に課題が与えられている場合には、それに解答し、期限までに提出しましょう。常日頃から、自身の研究テーマのみならず将来について、よく検討しましょう。",
+    "teacher_message": "ゼミで何を学ぶか、どのように学ぶかが大学卒業後の人生に大きく影響することがあります。私の場合は、大学院修士課程のときのゼミにおける学びが、電機メーカーで研究者になり、その後に大学教員になることに影響しました。そこで、本ゼミでは上記教科書を用いてしっかりと基礎固めを行いますので、各自がそれをもとに自分の目標に向かって自律的に行動できるようになりましょう。それぞれの教科書には、大切な指針がたくさん書かれているので、授業の進行を待たずにできるだけ早く全体に目を通してみましょう。事前に課題が与えられている場合には、それに解答し、期限までに提出しましょう。常日頃から、自身の研究テーマのみならず将来について、よく検討しましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "卒論とは何か",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ゼミでの学び方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "働くことを知る、産業と職業",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "職業世界を眺める、産業とは何か",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "私にとっての「働く・就職する」とはについて考える、なぜ自分を知るのか",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "時間をとおして自分を知る、環境をとおして自分を知る",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "職業との関わりから自分を知る、「私」というキャラクター",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "なぜ将来を考えるのか、私のワークとライフを考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "自分の将来を描く、キャリアプランを作る",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "3つのキーワードと学士力、聞く力",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "課題発見力",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "情報収集力、情報整理力",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "読む力（読解力）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -252,17 +252,17 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "書く力（執筆力）",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "石谷　康人"
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プレゼンテーション力",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -270,9 +270,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "論文の書き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -280,9 +280,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "パソコンの使いこなし方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -290,9 +290,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "文献の集め方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -300,9 +300,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "データ分析力",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -310,9 +310,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "研究の方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -320,9 +320,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -330,9 +330,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -340,9 +340,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -360,9 +360,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -370,9 +370,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -380,9 +380,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -390,9 +390,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "研究テーマの決定、リサーチクエスチョンの設定、研究計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -400,9 +400,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "発表その１",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -410,9 +410,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "発表その２",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -420,6 +420,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

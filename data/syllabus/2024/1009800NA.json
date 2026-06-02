@@ -1,52 +1,52 @@
 {
-    "_fetched_at": "2025-04-07T10:53:58Z",
+    "fetched_at": "2025-04-07T10:53:58Z",
     "name_ja": "教養ゼミ（N-1～8）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800NA",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "田淵　啓二",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "渡邊　多恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡田　純也",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "大達　亮",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "井上　みゆき",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "家根　明子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "辻　麻由美",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "木倉　悠子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -54,19 +54,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1.本学の建学の精神、パーパス、ミッション、ビジョン、歴史について説明することがで\nきる\n2.アカデミックスキルに基づくレポートの書き方について説明することができる\n3.レポートやプレゼンで使用するパソコンのスキルについて説明することができる\n4.プレゼンテーション方法について説明することができる",
+    "objectives": "1.本学の建学の精神、パーパス、ミッション、ビジョン、歴史について説明することがで\nきる\n2.アカデミックスキルに基づくレポートの書き方について説明することができる\n3.レポートやプレゼンで使用するパソコンのスキルについて説明することができる\n4.プレゼンテーション方法について説明することができる",
     "overview": "本科目は、初年次教育として行うものであり、大学で学習することの意義や方法について\n理解する科目である。授業では自校教育として基本理念、大学での学びに必要な基本的な\n技術・作法（アカデミックスキル）に基づくレポート作成、プレゼンテーション方法につ\nいて説明していく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP1",
         "看護学科DP6"
     ],
     "textbooks": [
         {
             "title": "適宜、必要な資料を配布、もしくは紹介する。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -74,10 +74,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "適宜、必要な資料を配布、もしくは紹介する。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -85,29 +85,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "ノートパソコンまたはタブレット端末",
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット端末",
         "other": "特になし"
     },
-    "evaluation_criteria": "①本学の建学の精神、パーパス、ミッション、ビジョン、歴史\n②アカデミックスキルに基づくレポートの書き方\n③レポートやプレゼンで使用するパソコンのスキルについて説明することができる\n④プレゼンテーション方法\n上記①～③に関する理解度を以下の割合により評価する。\nレポート 40％ 授業内課題（提出物含む）40％ プレゼンテーション 20％",
+    "grading_criteria": "①本学の建学の精神、パーパス、ミッション、ビジョン、歴史\n②アカデミックスキルに基づくレポートの書き方\n③レポートやプレゼンで使用するパソコンのスキルについて説明することができる\n④プレゼンテーション方法\n上記①～③に関する理解度を以下の割合により評価する。\nレポート 40％ 授業内課題（提出物含む）40％ プレゼンテーション 20％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 60
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 60
     },
-    "message_from_teachers": "初年次教育の位置づけで行うものであり、大学生としての学びが豊かになるように基礎\nを固めていく。また、1 年間や 4 年間の目標を設定し、卒業後の自身について考えてい\nく。授業に参加するにあたっては、次回の授業内容を参照し、必要な課題に取組むこと(予\n習 45 分程度)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと\n（復習 45 分程度）。\n\n【オフィスアワー】\n講義のある曜日 不在時はメールで受け付けます。",
+    "teacher_message": "初年次教育の位置づけで行うものであり、大学生としての学びが豊かになるように基礎\nを固めていく。また、1 年間や 4 年間の目標を設定し、卒業後の自身について考えてい\nく。授業に参加するにあたっては、次回の授業内容を参照し、必要な課題に取組むこと(予\n習 45 分程度)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと\n（復習 45 分程度）。\n\n【オフィスアワー】\n講義のある曜日 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "自校教育と大学の施設の利用について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "大学の学びと 1 年間及び 4 年間の目標設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "授業の受講のしかた、テキストを読む、大意をつかむ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ノートテイクの方法、パラグラフライティング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "要約の方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "情報収集 図書館の利用、インターネットの活用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "レポートの書き方（報告型、調査型）、引用と出典の書\nき方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "パソコンの基礎スキル",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "プレゼンテーションの方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -267,9 +267,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "看護分野のレポート課題①テーマの決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "看護分野のレポート課題②プレゼン準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -303,9 +303,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "看護分野のレポート課題②前半組発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -321,9 +321,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "看護分野のレポート課題②後半組発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "看護分野のレポート作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -357,9 +357,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "目標設定の振り返り（1 年間の目標の振り返りと 4 年間\nの学びの確認）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,6 +375,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "看護師として実務経験のある講師以上の教員が担当する"
+    "credit_auditing": false,
+    "practitioner_info": "看護師として実務経験のある講師以上の教員が担当する"
 }

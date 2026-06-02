@@ -1,62 +1,62 @@
 {
-    "_fetched_at": "2025-04-04T05:56:55Z",
+    "fetched_at": "2025-04-04T05:56:55Z",
     "name_ja": "周南Well-being創生論",
     "name_en": "Shunan Well-being Creation",
     "syllabus_number": "1100400A",
     "course_number": "11-2-11-21-02、21-2-11-21-01、22-2-11-21-02、23-2-11-21-02、31-2-11-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部",
         "情報科学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "喜入　暁",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "赤木　真由",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "土屋　敏夫",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "大平　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "髙橋　真実",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "田島　正士",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "脇野　幸太郎",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "鶴田　来美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -64,12 +64,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "到達目標：\n1．経済経営、スポーツ、福祉、看護、情報などの分野のwell-beingが理解できる\n2．well-beingに向けた取組について分野間での連携・連関を考えることができる\n3．社会における様々な取組についてwell-beingの視点から考えることができる",
+    "objectives": "到達目標：\n1．経済経営、スポーツ、福祉、看護、情報などの分野のwell-beingが理解できる\n2．well-beingに向けた取組について分野間での連携・連関を考えることができる\n3．社会における様々な取組についてwell-beingの視点から考えることができる",
     "overview": "『周南well-being創生入門』で総論的に学んだことを受けて、本講義では各論的なwell-beingを扱う。経済経営、スポーツ、福祉、看護、情報などの学内の多様な分野の教員がそれぞれの立場から自身の研究分野についてwell-beingの観点から論じる。全回を通じて、学部学科横断的な視野で個人、地域、社会全体のwell-beingについての認識を深めるとともに、各学科の専門分野におけるwell-beingの重要性を改めて確認していく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -78,30 +78,30 @@
         "福祉学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "周南well-being創生入門"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "オムニバス講義のため、各教員の指示に従ってください。"
     },
-    "evaluation_criteria": "well-beingの観点から論じられた、経済経営・情報・スポーツ・看護・福祉の専門領域の内容の理解度を以下の「学生に対する評価」により評価する。\n各領域の課題レポート100%（１０人のレポート評価で総合判定）",
+    "grading_criteria": "well-beingの観点から論じられた、経済経営・情報・スポーツ・看護・福祉の専門領域の内容の理解度を以下の「学生に対する評価」により評価する。\n各領域の課題レポート100%（１０人のレポート評価で総合判定）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "周南well-being創生論は全学必修の科目である。受講生諸君が個人、地域、社会全体のwell-beingについての認識を深め、所属する学科のそれぞれの専門分野におけるwell-beingを考えるきっかけになることを期待する。\nなお、授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
+    "teacher_message": "周南well-being創生論は全学必修の科目である。受講生諸君が個人、地域、社会全体のwell-beingについての認識を深め、所属する学科のそれぞれの専門分野におけるwell-beingを考えるきっかけになることを期待する。\nなお、授業中に配布された資料や自分で作成した講義ノートを、次回の授業までに読み返しておくこと。（３０分程度）",
     "schedule": [
         {
-            "session": "01",
+            "number": "01",
             "content": "オリエンテーション、ウェルビーイング創生について総括的に論じるとともに、講義全体を俯瞰して概説する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "02",
+            "number": "02",
             "content": "オリエンテーション、ウェルビーイング創生について総括的に論じるとともに、講義全体を俯瞰して概説する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "03",
+            "number": "03",
             "content": "経済的な豊かさと幸福(幸福度)の関係を考える。経済成長に対する定常経済、GDPに対する包括的福祉指標など、豊かさと幸福度の考え方やその意味を説明する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "04",
+            "number": "04",
             "content": "地球環境、社会環境の一部である企業、そして経営層や従業員がその役割や存在意義を認識、実践するうえで求められることを、SDGsやCSR等をもとに考える。\n※この回はオンラインで実施します。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "05",
+            "number": "05",
             "content": "ポジティブコンピューティングの概要およびDX、UX/UI、感性工学との関係について概説する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "06",
+            "number": "06",
             "content": "ポジティブコンピューティングの実践としてミニワークショップによる地域課題へのアプローチをする。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "07",
+            "number": "07",
             "content": "「スポーツのウエルビーイング」に関しての講義。スポーツの高潔性を保ち、その価値や意義をより一層良い状態にするためには何が必要なのか？スポーツ健康科学の多様な視点から説明する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "08",
+            "number": "08",
             "content": "「スポーツによるウエルビーイング」に関しての講義。スポーツには、人と人、地域と地域の交流を促進し、地域社会の一体感や活力を醸成する力がある。このようなスポーツの力を高めるためには何が重要なのかについて考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "09",
+            "number": "09",
             "content": "対象者のもつ価値や信念に寄り添う、看護学分野におけるその人らしいより豊かな健康生活の考え方について概説する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "公衆衛生看護学の視点における、すべての人が健康に暮らせる社会の創生に関する考え方について概説する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "well-beingの基盤となる「地域」のあり方について、現在国が推進している「地域共生社会の実現」を手がかりに考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "個々人のwell-beingに大きく関わる「住宅」や「居住」のあり方について、現在進められている「居住支援」の観点から考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "同様の犯罪を複数回にわたって繰り返す「累犯高齢者」や「累犯障害者」に対する社会復帰支援の取り組みの検討を通じて、改めて”well-being”の意義について考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "住民のWell-beingを目指すまちづくりの事例を学んだうえで、周南地域らしさを活かして実践していきたいことを考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体のまとめと総括。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -249,6 +249,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T05:55:07Z",
+    "fetched_at": "2025-04-04T05:55:07Z",
     "name_ja": "人文地理学Ⅱ",
     "name_en": "Human Geography II",
     "syllabus_number": "1001700A",
     "course_number": "11-2-13-22-08",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "佐藤　裕哉",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -29,42 +29,42 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n1.人文地理学の内容（特に経済活動を中心とした身の回りの景観の成立について）を理解できる。\n2.地理的見方・考え方を用いて、人間の活動と地域との関係を理解できる。\n3.地域の課題に対して、自分の意見を述べることができる。",
+    "objectives": "【到達目標】\n1.人文地理学の内容（特に経済活動を中心とした身の回りの景観の成立について）を理解できる。\n2.地理的見方・考え方を用いて、人間の活動と地域との関係を理解できる。\n3.地域の課題に対して、自分の意見を述べることができる。",
     "overview": "本授業では、人文地理学Ⅰで学んだ基礎知識や地理的な見方・考え方を踏まえて、経済活動（立地）を中心とした身の回りの景観の成立（なぜ、その施設や店舗がその場所にあるのか）などについて理解する。また、基礎知識を踏まえて環境問題や地域活性化など地域が抱える課題に対して、自分の考えを表現できるようになることも目指す。\n\n【アクティブラーニングについて】\n一部にアクティブラーニング（ディスカッション）を含みます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "人文地理学Ⅰ"
         ],
-        "brings": "必要な持参物については第1回目の授業時に指示します。",
+        "required_materials": "必要な持参物については第1回目の授業時に指示します。",
         "other": "教科書は使用せず毎時プリントを配布します。遅刻、途中退出、私語は厳禁です。"
     },
-    "evaluation_criteria": "1）試験は、立地論を中心とした人文地理学の知識（1回目から11回目の内容）を理解しているかどうか、2）発表・実技は、12回目から14回目授業時のディスカッションで分かりやすく自分の考えを説明できているかどうか、で評価します。また、3）その他は、授業への積極的な参加度（地図や統計データの読み取り、ディスカッションでの積極的な発言など）で評価します。",
+    "grading_criteria": "1）試験は、立地論を中心とした人文地理学の知識（1回目から11回目の内容）を理解しているかどうか、2）発表・実技は、12回目から14回目授業時のディスカッションで分かりやすく自分の考えを説明できているかどうか、で評価します。また、3）その他は、授業への積極的な参加度（地図や統計データの読み取り、ディスカッションでの積極的な発言など）で評価します。",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 15,
-        "ポートフォリオ": 0,
-        "その他": 15
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 15,
+        "portfolio": 0,
+        "other": 15
     },
-    "message_from_teachers": "みなさんは普段、コンビニやファストフード店を利用されているでしょう（アルバイトをしている人もいるかもしれませんね）。しかしながら、それらが「なぜ、その場所にあるのか？」と考えてみたことはありますか？例えば、それらが南極に立地できるでしょうか？本講義を通して、「どこに、どんなものが立地（分布）しているか」、「それを規定する地域的な要因は何か」を一緒に考えましょう。\n\n【予習】ニュースなどで企業の立地（工場の進出など）に関して留意をしておいてください（その場所に立地した理由などについても把握しておくと、なお良いです）。\n【復習】授業内容を踏まえ、身近なものの立地を地理学の視点で読み解いてみましょう（学んだことを実際に身の回りの事象に当てはめてみましょう）。\n（※予習、復習合わせて60分程度行ってください）",
+    "teacher_message": "みなさんは普段、コンビニやファストフード店を利用されているでしょう（アルバイトをしている人もいるかもしれませんね）。しかしながら、それらが「なぜ、その場所にあるのか？」と考えてみたことはありますか？例えば、それらが南極に立地できるでしょうか？本講義を通して、「どこに、どんなものが立地（分布）しているか」、「それを規定する地域的な要因は何か」を一緒に考えましょう。\n\n【予習】ニュースなどで企業の立地（工場の進出など）に関して留意をしておいてください（その場所に立地した理由などについても把握しておくと、なお良いです）。\n【復習】授業内容を踏まえ、身近なものの立地を地理学の視点で読み解いてみましょう（学んだことを実際に身の回りの事象に当てはめてみましょう）。\n（※予習、復習合わせて60分程度行ってください）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、人文地理学の見方で身の回りをみる",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "コンビニエンスストアの立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ファストフード店の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ファミリーレストランの立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ファッション産業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "コンテンツ産業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "自動車産業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "化学産業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "造船業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "鉄鋼業の立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "NGO・NPOの立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "発展途上国の環境問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "先進国の環境問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "人口減少社会における地域づくり",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "自然地理と人文地理のつながり（本講義のまとめを含む）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

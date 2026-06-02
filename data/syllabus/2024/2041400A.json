@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:04:54Z",
+    "fetched_at": "2025-04-07T11:04:54Z",
     "name_ja": "保育士特別セミナーⅣ",
     "name_en": "Studying for Examination of Early Childhood Education and Care Ⅳ",
     "syllabus_number": "2041400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,18 +28,18 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本授業の目的は、保育士試験の過去問題等を解答しながら、保育の基礎的な知識を身に付けることで、保育士筆記試験の合格を目指すことに加え、保育士実技試験に向けた対策を行うことであり、到達目標は以下の通りである。\n①保育士試験に合格するための基礎知識を修得する\n②保育士試験の予想問題において、目標点数に達する\n③保育士実技試験に合格するための技術を修得する",
+    "objectives": "本授業の目的は、保育士試験の過去問題等を解答しながら、保育の基礎的な知識を身に付けることで、保育士筆記試験の合格を目指すことに加え、保育士実技試験に向けた対策を行うことであり、到達目標は以下の通りである。\n①保育士試験に合格するための基礎知識を修得する\n②保育士試験の予想問題において、目標点数に達する\n③保育士実技試験に合格するための技術を修得する",
     "overview": "保育士試験の頻出問題について解答解説を行いながら、保育士筆記試験の合格を目指し、対策を行う。また、筆記試験後には、必要に応じて保育士実技試験の対策を行う。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1"
     ],
     "textbooks": [
         {
             "title": "教科書は、保育士特別セミナーⅠで指定した教科書を使用します。また、授業中に資料する資料を用いて進めていきます。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -47,10 +47,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "参考図書は授業内で適宜案内します。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -58,31 +58,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "保育士特別セミナーⅠ",
             "保育士特別セミナーⅡ",
             "保育士特別セミナーⅢ"
         ],
-        "recommended_courses": [],
-        "brings": "筆記用具、保育士特別セミナーⅠで指定した教科書",
+        "recommended": [],
+        "required_materials": "筆記用具、保育士特別セミナーⅠで指定した教科書",
         "other": "必要に応じてインターネット検索ができる環境を整えておいてください"
     },
-    "evaluation_criteria": "①保育士試験予想問題での得点、\n②学習計画に基づく学習の進捗、\n③保育士実技試験に向けた取り組み\n上記①～③について以下の割合で評価する。",
+    "grading_criteria": "①保育士試験予想問題での得点、\n②学習計画に基づく学習の進捗、\n③保育士実技試験に向けた取り組み\n上記①～③について以下の割合で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 50,
-        "レポート": 0,
-        "発表・実技": 20,
-        "ポートフォリオ": 30,
-        "その他": 0
+        "exam": 0,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 20,
+        "portfolio": 30,
+        "other": 0
     },
-    "message_from_teachers": "本授業では、保育士特別セミナーⅠ・Ⅱで学んだ内容、保育士特別セミナーⅢでの取り組み内容を振り返りながら、実践問題を繰り返し解答し、保育士筆記試験の合格を目指していきます。また、保育士実技試験への対策も行っていきます。そのため、授業時間外での学習が必須です。問題集や過去問を各自で収集し、知識の定着に努めること、さらに、技術の獲得に向けた日々の取り組みを大事にしてください。\n\n【予習・復習について】\n予習・復習…各自で準備した問題を解答し、知識の定着に努めてください。また、日々、実技試験に向けた練習を行ってください。\n※予習・復習をそれぞれ120分程度行ってください。",
+    "teacher_message": "本授業では、保育士特別セミナーⅠ・Ⅱで学んだ内容、保育士特別セミナーⅢでの取り組み内容を振り返りながら、実践問題を繰り返し解答し、保育士筆記試験の合格を目指していきます。また、保育士実技試験への対策も行っていきます。そのため、授業時間外での学習が必須です。問題集や過去問を各自で収集し、知識の定着に努めること、さらに、技術の獲得に向けた日々の取り組みを大事にしてください。\n\n【予習・復習について】\n予習・復習…各自で準備した問題を解答し、知識の定着に努めてください。また、日々、実技試験に向けた練習を行ってください。\n※予習・復習をそれぞれ120分程度行ってください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n　保育士試験に向けた学習方法の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "保育士試験予想問題\n　「保育の心理学」「保育原理」「子ども家庭福祉」「社会福祉」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "保育士試験予想問題\n　「教育原理/社会的養護」「子どもの保健」「子どもの食と栄養」「保育実習理論」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "保育士試験自己採点および今後の学習計画の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "保育士実技試験に向けた実技練習①：ピアノ課題曲（１）演奏",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "保育士実技試験に向けた実技練習②：ピアノ課題曲（２）演奏",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "保育士実技試験に向けた実技練習③：ピアノ課題曲（１）歌唱",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "保育士実技試験に向けた実技練習④：ピアノ課題曲（２）歌唱",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "保育士実技試験に向けた実技練習⑤：言語技術試験の解説",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "保育士実技試験に向けた実技練習⑥：言語技術試験課題練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "保育士実技試験に向けた実技練習⑦：ピアノ課題曲（１）発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "保育士実技試験に向けた実技練習⑧：ピアノ課題曲（２）発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "保育士実技試験に向けた実技練習⑨：言語技術試験課題の発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "保育士試験直前対策",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ「保育士実技模擬試験」を使用した振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -256,6 +256,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

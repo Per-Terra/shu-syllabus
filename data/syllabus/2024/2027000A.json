@@ -1,39 +1,39 @@
 {
-    "_fetched_at": "2025-04-07T11:01:31Z",
+    "fetched_at": "2025-04-07T11:01:31Z",
     "name_ja": "社会福祉の原理と政策Ⅱ",
     "name_en": "Theory and Policy of Social Welfare",
     "syllabus_number": "2027000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "輪倉　一広",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "竹下　徹",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "守本　友美",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -41,12 +41,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①福祉政策を捉える視点として、概念や理念を説明することができる。\n②福祉政策の動向と課題を踏まえた上で、関連施策や包括的支援について説明することができる。\n③福祉サービスの供給と利用の過程について説明することができる。\n④福祉政策の国際比較の視点から、日本の福祉政策の特性について理解する。",
+    "objectives": "①福祉政策を捉える視点として、概念や理念を説明することができる。\n②福祉政策の動向と課題を踏まえた上で、関連施策や包括的支援について説明することができる。\n③福祉サービスの供給と利用の過程について説明することができる。\n④福祉政策の国際比較の視点から、日本の福祉政策の特性について理解する。",
     "overview": "この授業では福祉サービスを支える理論を学ぶことを目的としている。まず、福祉政策を支える視点としてその概念や理念を理解し、人々が生活していく上でのニーズと福祉政策の過程を結びつける。また、福祉政策の動向と課題を理解し、社会福祉関連施策や包括的支援について述べる。次に、福祉サービスがどのように供給されているのか、その利用の過程ついて学ぶ。最後に、福祉施策を国際比較し、日本の特性について学んでいく。\n具体的には、次の項目で学習を進める。\n①社会問題と社会構造、②福祉政策の基本的な視点、③福祉政策におけるニーズと資源、④福祉政策の構成要素と過程、⑤福祉政策の動向と課題、⑥福祉政策と関連施策、⑦福祉サ－ビスの供給と利用過程、⑧福祉政策の国際比較。\nこの授業を通して、学生は現代社会の特質と福祉政策の動向を結び付けて考える能力が身に付くとともに、現状に対する批判的視点を養うこともできる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2",
         "福祉学科DP3",
         "人間コミュニケーション学科DP1",
@@ -56,7 +56,7 @@
     "textbooks": [
         {
             "title": "『社会福祉の原理と政策』",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "一般社団法人日本ソーシャルワーク教育学校連盟編",
             "publisher": "中央法規出版",
             "price": 3190,
@@ -64,10 +64,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "『政策科学入門』",
-            "year": 2002,
+            "publication_year": 2002,
             "author": "宮川公男",
             "publisher": "東洋経済新報社",
             "price": 3080,
@@ -76,7 +76,7 @@
         },
         {
             "title": "『地方都市の持続可能性ー「東京ひとり勝ち」を超えて』",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "田村秀",
             "publisher": "筑摩書房",
             "price": 946,
@@ -84,29 +84,29 @@
             "available_on_campus": true
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "教科書",
+        "recommended": [],
+        "required_materials": "教科書",
         "other": "特になし"
     },
-    "evaluation_criteria": "①福祉政策の概念や理念、②福祉政策の動向、③福祉サービスの供給と利用、④福祉政策の特性\n上記①～④に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 80%、課題レポート 20％",
+    "grading_criteria": "①福祉政策の概念や理念、②福祉政策の動向、③福祉サービスの供給と利用、④福祉政策の特性\n上記①～④に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 80%、課題レポート 20％",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "「福祉政策の方向性」を理解し、問題意識をもって学んでほしいと思います。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、専門用語の整理をしておくこと（復習 2 時間程度）",
+    "teacher_message": "「福祉政策の方向性」を理解し、問題意識をもって学んでほしいと思います。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、専門用語の整理をしておくこと（復習 2 時間程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業の進め方 福祉問題と社会構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "福祉政策の基本的な視点 社会政策における重要な概念・理念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "福祉政策におけるニーズ：ニーズとデマンド",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "福祉政策におけるニーズ：ニーズの種類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "福祉政策におけるリソース",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "福祉政策の構成要素",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "福祉政策の過程と評価",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "福祉政策と包括的支援の現状",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "福祉政策と包括的支援の課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "福祉政策と関連施策：保健医療政策、教育政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "福祉政策と関連施策：住宅政策、労働政策、災害政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "福祉供給部門と供給過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "福祉利用過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "福祉政策の動向：欧米",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "福祉政策の動向：東アジア",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -256,6 +256,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

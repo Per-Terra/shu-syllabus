@@ -1,27 +1,27 @@
 {
-    "_fetched_at": "2025-04-04T05:55:03Z",
+    "fetched_at": "2025-04-04T05:55:03Z",
     "name_ja": "外国史Ⅰ",
     "name_en": "Foreign History I",
     "syllabus_number": "1001400A",
     "course_number": "11-2-13-21-02、21-2-13-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "山本　孟",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -30,12 +30,12 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "objectives": "【到達目標】\n①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
     "overview": "世界の歴史の流れを我が国の歴史と関係深いものを中心に取り上げ講義していく。また、世界史の転換点と言われる事象に焦点を当て、それぞれの事象について、為政者の立場、民衆の立場から講義を進める。本科目では、外国史の中でも、ヨーロッパ、中東、アジアに注目し、先史時代からルネサンスと宗教改革の時期までの年代を取り扱う。本科目を通して、世界史における政治、社会経済、思想・文化発展のダイナミズムの中で現代社会をもトータルで把握できる能力を身につける事を目的とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "スポーツ健康科学科DP1"
@@ -43,7 +43,7 @@
     "textbooks": [
         {
             "title": "『詳説 世界史研究』",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "木村靖二編　 岸本美緒編　 小松久男編",
             "publisher": "山川出版",
             "price": 2750,
@@ -51,10 +51,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "歴史学の現在古代オリエント",
-            "year": 2000,
+            "publication_year": 2000,
             "author": "前田徹 [ほか] 著",
             "publisher": "山川出版社",
             "price": null,
@@ -63,7 +63,7 @@
         },
         {
             "title": "人類の起原と古代オリエント",
-            "year": 2009,
+            "publication_year": 2009,
             "author": "大貫良夫 [ほか] 著",
             "publisher": "中央公論新社",
             "price": null,
@@ -71,29 +71,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "毎週講義時にPCを持参してください。",
+        "recommended": [],
+        "required_materials": "毎週講義時にPCを持参してください。",
         "other": "参考図書は、講義内で適時案内します。"
     },
-    "evaluation_criteria": "①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
+    "grading_criteria": "①世界史に興味を持ち、学ぶ事の楽しさを知り、世界史を学ぶことの意味を認識する。\n②歴史の流れのポイントが説明できる\n③世界の文化の多様性を理解する。\n④世界の現状と持続可能な未来を考えることができる。",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 10,
-        "発表・実技": 10,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 10,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "授業は主に講義形式で行いますが、グループ学習やプレゼンテーションも行うので、社会科・地理歴史科の免許を取得希望の学生は主体的に資料収集し発表をしてください。また教科書やTeams「外国史Ⅰ」の学習資料を各自ダウンロードし予習・復習してください。\n\n・毎週PCを持参してください。\n・Teamsの「外国史Ⅰ」の「講義資料」をダウンロードしてください。その「講義資料」で1時間以上の予習・復習をして下さい。\n・出欠はAAAパスワードの他、「学習資料」課題の提出で確認します。",
+    "teacher_message": "授業は主に講義形式で行いますが、グループ学習やプレゼンテーションも行うので、社会科・地理歴史科の免許を取得希望の学生は主体的に資料収集し発表をしてください。また教科書やTeams「外国史Ⅰ」の学習資料を各自ダウンロードし予習・復習してください。\n\n・毎週PCを持参してください。\n・Teamsの「外国史Ⅰ」の「講義資料」をダウンロードしてください。その「講義資料」で1時間以上の予習・復習をして下さい。\n・出欠はAAAパスワードの他、「学習資料」課題の提出で確認します。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション（講義内容（「全概説講義資料」にて講義）、「世界史」を学ぶ意義、評価等について説明）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "古代文明の「発見」\n・古代文明の紹介\n・中世から近代にかけての古代文明の探索",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "古代遺跡の紹介と文明の始まり\n・遺跡を紹介と文明の誕生について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "古代史①\n古代中近東・東地中海世界の歴史（紀元前３千年紀〜２千年紀）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "古代史②\n古代中近東・東地中海世界の歴史（紀元前２千年紀〜１千年紀）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "古代史③\nアジアとヨーロッパの古代文明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "中世史①\nヘレニズム時代〜イスラーム世界",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "中世史②\nイスラーム世界の展開",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "中世史③\nイスラーム世界と東アジア・ヨーロッパ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "中世史④\n中世の東アジアとヨーロッパ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "近世史①\n近世の中近東世界",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "近世史②\n近世の中近東世界",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "近現代①\n近代ヨーロッパの帝国主義と古代文明の「発見」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -230,9 +230,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "近現代②\n楔形文字の解読とその後の研究について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -251,6 +251,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

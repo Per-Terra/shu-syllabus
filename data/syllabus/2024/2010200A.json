@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:58:49Z",
+    "fetched_at": "2025-04-07T10:58:49Z",
     "name_ja": "体育原理",
     "name_en": "Principles of physical Education",
     "syllabus_number": "2010200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,39 +26,39 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "体育やスポーツの本質を考え、あるべき体育やスポーツの原理原則を明確にしていきます。\n体育やスポーツを哲学的・倫理学的な観点から考察します。\n到達目標\n１．体育とは何かを説明できる。\n２．スポーツとは何かを説明できる。\n３．体育やスポーツの倫理的問題について自らの意見を述べることが出来る。",
+    "objectives": "体育やスポーツの本質を考え、あるべき体育やスポーツの原理原則を明確にしていきます。\n体育やスポーツを哲学的・倫理学的な観点から考察します。\n到達目標\n１．体育とは何かを説明できる。\n２．スポーツとは何かを説明できる。\n３．体育やスポーツの倫理的問題について自らの意見を述べることが出来る。",
     "overview": "講義が中心となるが、ディスカッション等を実施し、各自が考えて発言する機会を提供します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "適宜案内する。"
     },
-    "evaluation_criteria": "体育の理解、スポーツの理解、体育・スポーツの倫理的問題の三点について⑪示す方法で評価する",
+    "grading_criteria": "体育の理解、スポーツの理解、体育・スポーツの倫理的問題の三点について⑪示す方法で評価する",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 50,
-        "レポート": 30,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 50,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "復習として、講義内容の文章化を推奨する。",
+    "teacher_message": "復習として、講義内容の文章化を推奨する。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "「近代体育」の誕生－歴史的認識の必要性－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "近代体育の父－グーツムーツ－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "国民体育の成立－ヤーンとツルネン－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "西欧諸国の体操の誕生－スウェーデン体操、デンマーク体操、",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "近代体育理論の日本への導入－体操伝習所とリーランドの役割－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "近代スポーツの日本への伝播－ストレンジから大日本体育協会の成立まで－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "戦後の日本における体育概念の系譜",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "体育原理を考えるために－スポーツの意味概念－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,17 +146,17 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "中間まとめと小テスト－解説を含む－",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "中嶋　健"
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "スポーツの倫理的問題－良い競技者とは？　体育でどう教えるか？－",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "フェアプレー教育をめぐる問題点－上野論文の考察－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "フェアプレーとは何か－グループディスカッション－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "体育でフェアプレーをどう教えるか？－グループディスカッション－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "まとめ　体育とスポーツはどうあるべきか？",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

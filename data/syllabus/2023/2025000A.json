@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:16:59Z",
+    "fetched_at": "2024-08-08T01:16:59Z",
     "name_ja": "福祉統計学",
     "name_en": "Welfare Statistics",
     "syllabus_number": "2025000A",
     "course_number": "05HS206",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "鏡　裕行",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "保健医療分野や社会福祉分野等をはじめとした様々な分野の業務において、近年、統計学的エビデンス（根拠）に基づく意思決定が重要視されている。\n確率論的なものの見方を理解し、確率変数とその分布、統計的推測（推定と検定）の原理と?法を理解する。",
+    "objectives": "保健医療分野や社会福祉分野等をはじめとした様々な分野の業務において、近年、統計学的エビデンス（根拠）に基づく意思決定が重要視されている。\n確率論的なものの見方を理解し、確率変数とその分布、統計的推測（推定と検定）の原理と?法を理解する。",
     "overview": "講義形式で授業を進めていくが、学生との議論も重視する。適宜演習問題を取り入れ、理解の定着を図る。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [
         {
             "title": "新版　基本統計学",
-            "year": 2009,
+            "publication_year": 2009,
             "author": "本田勝、石田崇",
             "publisher": "産業図書",
             "price": 2640,
@@ -46,10 +46,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "入門統計解析",
-            "year": 2009,
+            "publication_year": 2009,
             "author": "倉田博史、星野崇宏",
             "publisher": "新世社",
             "price": 2750,
@@ -57,27 +57,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "確率論的なものの??を理解し、確率変数とその分布、統計的推測（推定と検定）の原理と?法を理解しているかについて、「学生に対する評価」の内容で評価する。",
+    "grading_criteria": "確率論的なものの??を理解し、確率変数とその分布、統計的推測（推定と検定）の原理と?法を理解しているかについて、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "数学の理解のためには、概念について深く考えること、自ら手を動かして演算してみることが重要となる。このようなことの繰り返しを通じて、少しずつ理解が深まっていくものである。そのため、講義の前に教科書を一読すること、講義の後に理解の確認と関連する例題を解いてみることが大事である。それぞれ30分以上を目安とする。",
+    "teacher_message": "数学の理解のためには、概念について深く考えること、自ら手を動かして演算してみることが重要となる。このようなことの繰り返しを通じて、少しずつ理解が深まっていくものである。そのため、講義の前に教科書を一読すること、講義の後に理解の確認と関連する例題を解いてみることが大事である。それぞれ30分以上を目安とする。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、統計的方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "統計データの種類と整理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "確率",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "確率変数と確率分布",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "いろいろな確率分布",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "標本平均の分布と中心極限定理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "統計的推定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "仮説検定１：母平均の検定等",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "仮説検定２：カイ2乗検定等",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "仮説検定３：母分散の検定と等分散性の検定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "条件付確率とベイズの定理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "1要因の分散分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "2要因の分散分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "相関係数と回帰分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "講義のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

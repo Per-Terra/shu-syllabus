@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:56:52Z",
+    "fetched_at": "2024-08-08T00:56:52Z",
     "name_ja": "水中運動",
     "name_en": "Underwater exercise",
     "syllabus_number": "1005510A",
     "course_number": "04HP101、05LS108",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,35 +27,35 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "水中運動に必要とされる高度な専門的知識・技能・プログラム・指導法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n１．水中運動の基本動作を習得し、その初歩的な指導法を身につける。\n２．障がい者にたいする指導も習得する。\n３．水中運動の特性・プログラム・指導法を正しく理解し、実践できる能力を習得する。\n４．健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n５．水中運動における事故防止に対する十分な知識と実践力を身につける。",
+    "objectives": "水中運動に必要とされる高度な専門的知識・技能・プログラム・指導法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n１．水中運動の基本動作を習得し、その初歩的な指導法を身につける。\n２．障がい者にたいする指導も習得する。\n３．水中運動の特性・プログラム・指導法を正しく理解し、実践できる能力を習得する。\n４．健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n５．水中運動における事故防止に対する十分な知識と実践力を身につける。",
     "overview": "水の特性をよく理解させた上で水中運動の基本的な技能を習得させ、かつ健康づくりのための科学的、能率的な運動プログラムの作成と実践指導ができるようにする。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "水着、スイミングキャップ（白）、ゴーグル、バスタオル",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "水着、スイミングキャップ（白）、ゴーグル、バスタオル",
         "other": ""
     },
-    "evaluation_criteria": "実技発表60％、その他40％とし、総合的に評価する。",
+    "grading_criteria": "実技発表60％、その他40％とし、総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "水中では、陸上と異なり多くのエネルギーを使用します。前日は睡眠を十分にとり体調を整えて授業に参加して下さい。また、毎回、学習内容に関する予習・復習を合計60分間実施すること。",
+    "teacher_message": "水中では、陸上と異なり多くのエネルギーを使用します。前日は睡眠を十分にとり体調を整えて授業に参加して下さい。また、毎回、学習内容に関する予習・復習を合計60分間実施すること。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "学内オリエンテーション（授業展開と評価の説明）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -63,9 +63,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "現地（プール）でのオリエンテーション（施設利用にあたっての注意事項、スタッフ紹介）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "水中運動の基礎知識（対障がい者も含む）（水泳・水中運動の特徴、施設の安全管理）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "水とからだの衛生および安全対策、救急法の理解（対障がい者も含む）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "浮身、け伸び、ストリームラインの理解（対障がい者も含む）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "各種泳法についての理解（対障がい者も含む）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "水中運動のプログラム（歩行、ジョギング）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "水中運動のプログラム（上肢運動、下肢運動、体幹運動）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "基本動作の練習（動きの伝え方①声と動作）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "基本動作の練習（動きの伝え方②キューイングと立ち位置）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "リード練習（動作キューと口頭キュー）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "リード練習（1分間の実技指導）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "リード練習（2分間の実技指導）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "実技テスト（対障がい者指導も含む）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "実技指導とまとめ（対障がい者指導も含む）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -203,6 +203,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

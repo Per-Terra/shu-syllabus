@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-04T06:03:05Z",
+    "fetched_at": "2025-04-04T06:03:05Z",
     "name_ja": "商法Ⅰ",
     "name_en": "commercial law Ⅰ",
     "syllabus_number": "2039000A",
     "course_number": "11-2-30-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "川崎　政之",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "内田　邦彦",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -31,12 +31,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n株式会社の具体像を把握すること。例えば，株主，株主総会，取締役会，監査役，代表取締役の役割等の他，労働法などの視点も踏まえて，新聞報道等による一般的な経済記事を理解，説明できるレベルを目指します。\n\n商法Ⅰ・Ⅱを通して、株式会社の法律的な仕組みを理解できるようにしたいと思います。\nこの授業を受けて頂けば，皆さんが社会人として就職する際に必要な最低限の法的知識が身に着くようにと思っています。時には経済記事や講師の経験等の実例を示すなどして，わかりやすい講義を目指します。",
+    "objectives": "【到達目標】\n株式会社の具体像を把握すること。例えば，株主，株主総会，取締役会，監査役，代表取締役の役割等の他，労働法などの視点も踏まえて，新聞報道等による一般的な経済記事を理解，説明できるレベルを目指します。\n\n商法Ⅰ・Ⅱを通して、株式会社の法律的な仕組みを理解できるようにしたいと思います。\nこの授業を受けて頂けば，皆さんが社会人として就職する際に必要な最低限の法的知識が身に着くようにと思っています。時には経済記事や講師の経験等の実例を示すなどして，わかりやすい講義を目指します。",
     "overview": "本講義では、株式会社の法律的な仕組みを理解できるようにし、履修者が社会人として就職する際に必要最低限の法的知識が身につくようにする。時には経済記事や講師の経験等の実例を示しながら講義する。本講義では、会社法、労働法、税法を取り上げ、株主、株主総会、取締役会、監査役、代表取締役の役割、労働条件、労災、労働組合、所得税、法人税等について説明する。株式会社の具体像を把握することであり、本講義を通じて新聞報道等による一般的な経済記事を理解、説明できるようになることを到達目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
@@ -44,7 +44,7 @@
     "textbooks": [
         {
             "title": "ビジネス法入門　第４版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "中村信男、和田宗久、新井剛",
             "publisher": "中央経済社",
             "price": 2860,
@@ -52,10 +52,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "会社法 第４版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "田中　亘",
             "publisher": "東京大学出版会",
             "price": 4180,
@@ -64,7 +64,7 @@
         },
         {
             "title": "中学校学習指導要領",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "文部科学省",
             "publisher": "東山書房",
             "price": 397,
@@ -73,7 +73,7 @@
         },
         {
             "title": "高等学校学習指導要領",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "文部科学省",
             "publisher": "東山書房",
             "price": 834,
@@ -81,31 +81,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書",
+        "required_materials": "教科書",
         "other": "講義用レジュメと資料を毎回配布する予定です。"
     },
-    "evaluation_criteria": "(ⅰ)講義全般の理解、(ⅱ)知識修得、新聞記事の読解力 について、⑪に示す方法で評価する。",
+    "grading_criteria": "(ⅰ)講義全般の理解、(ⅱ)知識修得、新聞記事の読解力 について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "講師の川崎と内田は共に周南地区で活動している弁護士です。\n最終的に会社法とビジネスに関する法律の全体像とを理解して貰えればと思います。いわば「商法入門」と\n思って貰えればと思います。\n\n【予習・復習について】\n各回実施内容について講義資料を見直す、まとめる等により知識を定着させてください（各回60分程度）。",
+    "teacher_message": "講師の川崎と内田は共に周南地区で活動している弁護士です。\n最終的に会社法とビジネスに関する法律の全体像とを理解して貰えればと思います。いわば「商法入門」と\n思って貰えればと思います。\n\n【予習・復習について】\n各回実施内容について講義資料を見直す、まとめる等により知識を定着させてください（各回60分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "【ガイダンス】本講義の目的と取り扱う法律（前半）(教科書第１講)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "【ガイダンス】本講義の目的と取り扱う法律（後半）(教科書第２講)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "【会社法総論①】「会社」は誰のものか／その歴史的沿革からの説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "【会社法総論②】会社の意義と種類・株式会社の基本原則（教科書第１０講）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "【会社法総論③】会社を基礎づける株式の意味",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "【会社法Ⅰ①】株式会社の経営機構と監視・監督制度（コーポレート・ガバナンス総論）（教科書第１１講）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "【会社法Ⅰ②】会社の機関／株主総会",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "【会社法Ⅰ③】会社の機関／取締役、代表取締役、監査役（教科書第１３講）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "【会社法Ⅰ④】会社の機関／監査役会設置会社、監査等委員会設置会社、指名委員会等設置会社（教科書第１２講）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "【会社法Ⅰ⑤】会社の機関／役員等の民事責任と株主代表訴訟（教科書第１４講）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "【労働法①】入門／会社と従業員との関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "【労働法②】採用／労働条件(賃金，労働時間)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "【労働法③】解雇、労災、労働組合",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -233,9 +233,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "【会社法Ⅱ①】設立／個人事業からの法人成り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -243,9 +243,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "【会社法Ⅱ②】解散／清算・破産",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -253,6 +253,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "川崎政之\n2008年～現在　中村友次郎法律事務所勤務（周南市）。弁護士として民事事件、商事事件、家事事件等を担当。\n内田邦彦\n2023年～現在　内田法律事務所（周南市）。弁護士として主に中小企業の相談業務に従事。"
+    "credit_auditing": false,
+    "practitioner_info": "川崎政之\n2008年～現在　中村友次郎法律事務所勤務（周南市）。弁護士として民事事件、商事事件、家事事件等を担当。\n内田邦彦\n2023年～現在　内田法律事務所（周南市）。弁護士として主に中小企業の相談業務に従事。"
 }

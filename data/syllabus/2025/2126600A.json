@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:06:56Z",
+    "fetched_at": "2025-04-04T06:06:56Z",
     "name_ja": "パターン認識",
     "name_en": "Pattern Recognition",
     "syllabus_number": "2126600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河村　拓実",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -27,19 +27,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1.パターン認識の基本的な語彙と概念を理解できる。\n2.パターン認識で重要ないくつかの手法がそれぞれどのように動作するのか、どのような場面に適用できるのか理解できる。\n3.実装にあたり、どのようなツールを使えばよいか理解できる。",
+    "objectives": "1.パターン認識の基本的な語彙と概念を理解できる。\n2.パターン認識で重要ないくつかの手法がそれぞれどのように動作するのか、どのような場面に適用できるのか理解できる。\n3.実装にあたり、どのようなツールを使えばよいか理解できる。",
     "overview": "本授業は、AIやパターン認識を実現するための技術である機械学習に関する。実用的なデータ分析には機械学習の適切な応用と、それを裏付ける理論的な理解が必要となる。本授業ではパターン認識の典型的な実装例を基に、各アルゴリズムを実装に直結する形で詳細かつ簡潔に解説する。具体的には、まずシンプルな事例を通じ、種々のパターン認識手法によりどのような問題を解決できるのか俯瞰する。次に、典型的な実装例に基づいて個々の手法を読み解き、演習も導入して理解を深める。これらを通して、パターン認識とはどのようなものであるかを学び、どのような時にどのような手法を使い、どのように評価すれば良いのかといった基礎的な能力を涵養するとともに、実際の問題に応用するのに十分な能力を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "Pythonデータサイエンスハンドブック",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "Jake VanderPlas",
             "publisher": "オライリージャパン",
             "price": 4620,
@@ -48,7 +48,7 @@
         },
         {
             "title": "入門パターン認識と機械学習",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "後藤 正幸　小林 学",
             "publisher": "コロナ社",
             "price": 3360,
@@ -57,7 +57,7 @@
         },
         {
             "title": "ビジュアルテキスト パターン認識",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "荒井 秀一",
             "publisher": "森北出版株式会社",
             "price": 3520,
@@ -65,31 +65,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": "教科書　指定せず、資料を配布します。　参考図書・参考資料　その他、適宜講義資料で紹介します。"
     },
-    "evaluation_criteria": "1.パターン認識についての理解、2.手法と適用場面についての理解、3.手法を実装するツールについての理解、を以下により評価します。\n\n演習課題60％、期末試験・レポート40％",
+    "grading_criteria": "1.パターン認識についての理解、2.手法と適用場面についての理解、3.手法を実装するツールについての理解、を以下により評価します。\n\n演習課題60％、期末試験・レポート40％",
     "evaluation_ratio": {
-        "試験": 20,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 20,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "パターン認識など機械学習技術を実問題へ応用してゆくには、典型的な手法の「型」を身につけることと、それによってどのようなことができるのか、他科目で学んだことも含め互いの手法の位置づけを俯瞰的に整理しておくことが重要です。授業の進捗状況や受講学生の理解度などを考慮し、適宜順序や内容等の変更を行うことがあります。その場合には事前に告知します。\n【事前・事後学修】予習として、予備的知識を整理した教材（講義の中で紹介します）などを予め学習した上で授業に臨んでください(30～1時間程度を想定)。授業時に学んだ知識や技術の定着のため、復習として、理解のレベルに合わせた教材（講義の中で紹介します）での学習、提示する課題、授業で扱った演習の別事例での再現・拡張(1～2時間を想定)などに取り組んでください。 \n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "パターン認識など機械学習技術を実問題へ応用してゆくには、典型的な手法の「型」を身につけることと、それによってどのようなことができるのか、他科目で学んだことも含め互いの手法の位置づけを俯瞰的に整理しておくことが重要です。授業の進捗状況や受講学生の理解度などを考慮し、適宜順序や内容等の変更を行うことがあります。その場合には事前に告知します。\n【事前・事後学修】予習として、予備的知識を整理した教材（講義の中で紹介します）などを予め学習した上で授業に臨んでください(30～1時間程度を想定)。授業時に学んだ知識や技術の定着のため、復習として、理解のレベルに合わせた教材（講義の中で紹介します）での学習、提示する課題、授業で扱った演習の別事例での再現・拡張(1～2時間を想定)などに取り組んでください。 \n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "パターン認識とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "パターン認識のためのツール",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ツールを用いた解析の実例紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "演習①：演習環境準備・典型例に基づく実装演習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ハイパーパラメータとモデル検証",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "特徴量エンジニアリング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "主成分分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "クラスタリング(k平均法)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "クラスタリング(ガウス混合モデル)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "演習②：クラスタリング・結果の解釈",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "線形識別",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ナイーブベイズ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "サポートベクターマシン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "決定木とランダムフォレスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "演習③：教師あり学習・モデルの評価",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -237,6 +237,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:23:00Z",
+    "fetched_at": "2024-08-08T01:23:00Z",
     "name_ja": "教育心理学",
     "name_en": "Educational Psychology",
     "syllabus_number": "7000300A",
     "course_number": "05PS204",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "藤木　大介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,17 +27,17 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "幼児，児童及び生徒の心身の発達及び学習の過程について，基礎的な知識を身につけ，各発達段階における心理的特性を踏まえた学習活動を支える指導の基礎となる考え方を理解する。\n【到達目標】(1-1)幼児、児童及び生徒の心身の発達に対する外的及び内的要因の相互作用、発達に関する代表的理論を踏まえ、発達の概念及び教育における発達理解の意義を理解している。(1-2)乳幼児期から青年期の各時期における運動発達・言語発達・認知発達・社会性の発達について、その具体的な内容を理解している。(2-1)様々な学習の形態や概念及びその過程を説明する代表的理論の基礎を理解している。(2-2)主体的学習を支える動機づけ・集団づくり・学習評価の在り方について、発達の特徴と関連付けて理解している。(2-3)幼児、児童及び生徒の心身の発達を踏まえ、主体的な学習活動を支える指導の基礎となる考え方を理解している。",
+    "objectives": "幼児，児童及び生徒の心身の発達及び学習の過程について，基礎的な知識を身につけ，各発達段階における心理的特性を踏まえた学習活動を支える指導の基礎となる考え方を理解する。\n【到達目標】(1-1)幼児、児童及び生徒の心身の発達に対する外的及び内的要因の相互作用、発達に関する代表的理論を踏まえ、発達の概念及び教育における発達理解の意義を理解している。(1-2)乳幼児期から青年期の各時期における運動発達・言語発達・認知発達・社会性の発達について、その具体的な内容を理解している。(2-1)様々な学習の形態や概念及びその過程を説明する代表的理論の基礎を理解している。(2-2)主体的学習を支える動機づけ・集団づくり・学習評価の在り方について、発達の特徴と関連付けて理解している。(2-3)幼児、児童及び生徒の心身の発達を踏まえ、主体的な学習活動を支える指導の基礎となる考え方を理解している。",
     "overview": "児童及び生徒の心身の発達及び学習の過程について概説するとともに，いくつかの簡単な心理実験・調査を実施し，その解説を行う。また，毎講義でコメントシートによる質問等を求め，2，3回毎に回答し，より深い学びへと結びつける。なお，授業内容に関する資料はすべて授業時に配布する。予習を希望する者は参考書にあげた書籍等に目を通しておく。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "発達と学習の心理学",
-            "year": 2013,
+            "publication_year": 2013,
             "author": "尾形和男(編著)",
             "publisher": "田研出版",
             "price": 2640,
@@ -46,7 +46,7 @@
         },
         {
             "title": "授業の心理学：認知心理学からみた教育方法論",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "栗山和広(編著)",
             "publisher": "福村出版",
             "price": 2750,
@@ -54,27 +54,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "テーマ毎に講義内容の理解度を確認する小テストを行う。",
+    "grading_criteria": "テーマ毎に講義内容の理解度を確認する小テストを行う。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "学習とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "学習：行動主義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "学習：情報処理論と構成主義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "学習：動機づけ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "学習：メタ認知と自己調整学習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "学習：知能と創造性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "発達とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "発達：認知と社会性の発達(乳幼児期)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "発達：認知と社会性の発達(児童期)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "発達：認知と社会性の発達(青年期，成人期)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "発達：発達障害",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教授とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "教授：教授法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "教授：教育評価(評価の対象，意義，測定と評価)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "教授：教育評価(評価の方法，テストの種類と作成法，新しい評価)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

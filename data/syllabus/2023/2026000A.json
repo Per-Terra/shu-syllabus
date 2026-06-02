@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:17:23Z",
+    "fetched_at": "2024-08-08T01:17:23Z",
     "name_ja": "Python入門",
     "name_en": "Introduction to Python",
     "syllabus_number": "2026000A",
     "course_number": "00IU103",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "酒井　徹也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,35 +28,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "Python入門はプログラミング言語Pythonを用いてコンピュータプログラミングにおける基本的な考え方と初級的なプログラミング技術について修得する。Pythonは人工知能やデータサイエンス等の分野で広く使用されている一方で、文法は他の言語と比較して簡単なものである。この授業では、プログラミング言語の基本的な概念として、基本的処理、変数、演算子、アルゴリズムなどを理解し、手続き型プログラミング技法を用いた基本的なソフトウェア開発をできるようになることを目標とする。\n\n【到達目標】\n(i) Pythonの基本的な構文を理解し目的に合わせて記述できる\n(ii) 授業を学んだことを元に応用したプログラムが書ける\n(iii) 授業で学んだ複数の技法を組み合わせて活用したプログラムが書ける",
+    "objectives": "Python入門はプログラミング言語Pythonを用いてコンピュータプログラミングにおける基本的な考え方と初級的なプログラミング技術について修得する。Pythonは人工知能やデータサイエンス等の分野で広く使用されている一方で、文法は他の言語と比較して簡単なものである。この授業では、プログラミング言語の基本的な概念として、基本的処理、変数、演算子、アルゴリズムなどを理解し、手続き型プログラミング技法を用いた基本的なソフトウェア開発をできるようになることを目標とする。\n\n【到達目標】\n(i) Pythonの基本的な構文を理解し目的に合わせて記述できる\n(ii) 授業を学んだことを元に応用したプログラムが書ける\n(iii) 授業で学んだ複数の技法を組み合わせて活用したプログラムが書ける",
     "overview": "Python入門はオンデマンド型の授業として実施する。毎週1回分の教材（テキストと解説動画）を授業チーム上で配信する。履修生はその教材の指示に従って学習と演習を各自で進める。各回の出席はその回の小レポートを1週間の期限内に送信することで出席として扱う。\n期末試験は行わない。最終課題として授業で学んだことを応用したプログラムを各自で開発する。そのプログラムについてのレポートを期末レポートとする。\n各回の小レポートと期末レポートによって総合的に成績評価する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC",
         "other": ""
     },
-    "evaluation_criteria": "到達目標1および2について、各回の小テスト・小レポートによって評価し、到達目標1～3について最終課題をまとめた期末レポートによって評価する。\n期末レポートは授業時に開示するルーブリックに基づいて採点する。\n成績評価の配点\n小テスト、小レポート40％\n期末レポート60%",
+    "grading_criteria": "到達目標1および2について、各回の小テスト・小レポートによって評価し、到達目標1～3について最終課題をまとめた期末レポートによって評価する。\n期末レポートは授業時に開示するルーブリックに基づいて採点する。\n成績評価の配点\n小テスト、小レポート40％\n期末レポート60%",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 80,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "プログラミングは難しそうと敬遠する方もいますが、最近では気軽に取り組める楽しい環境が整ってきました。この授業ではプログラミング体験をとおして、自ら主体的に「考え」「創造する」ことの楽しさを体験してもらいます。\nプログラミングは練習の積み重ねが重要です。この授業では復習を重視します。各回の演習課題をしっかり解き、次の週の受講前にはしっかりと復習をして下さい（復習2時間）。",
+    "teacher_message": "プログラミングは難しそうと敬遠する方もいますが、最近では気軽に取り組める楽しい環境が整ってきました。この授業ではプログラミング体験をとおして、自ら主体的に「考え」「創造する」ことの楽しさを体験してもらいます。\nプログラミングは練習の積み重ねが重要です。この授業では復習を重視します。各回の演習課題をしっかり解き、次の週の受講前にはしっかりと復習をして下さい（復習2時間）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス-プログラミングとは-",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "命令ブロック①―順次処理―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "命令ブロック②―くりかえし反復処理―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "命令ブロック③―条件判断―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "命令ブロック④―条件判断と反復処理―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "変数という考え方と演算１",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "変数という考え方と演算2",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "配列という考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "アルゴリズムとは",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソート（並べ替え）のプログラム",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ソフトウェア開発①―基本設計―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ソフトウェア開発②-詳細設計―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ソフトウェア開発③―プログラミング―",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "作品発表の準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "作品発表のプレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

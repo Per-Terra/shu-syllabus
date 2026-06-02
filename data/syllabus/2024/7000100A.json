@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-07T11:07:44Z",
+    "fetched_at": "2025-04-07T11:07:44Z",
     "name_ja": "教師論",
     "name_en": "Teaching profession",
     "syllabus_number": "7000100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "渡部　明",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "大坂　遊",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -35,21 +35,21 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "教職課程の導入科目として、「 教職の意義等の知識獲得」「教員の基本的資質の理解」「教職に就く覚悟の形成」の3つを学ぶ。\n\n【到達目標】\n(1)教職の意義等について基本的知識を獲得できた\n(2)教員の基本的資質として何が必要か理解できた\n(3)教職に就くための覚悟ができた",
+    "objectives": "教職課程の導入科目として、「 教職の意義等の知識獲得」「教員の基本的資質の理解」「教職に就く覚悟の形成」の3つを学ぶ。\n\n【到達目標】\n(1)教職の意義等について基本的知識を獲得できた\n(2)教員の基本的資質として何が必要か理解できた\n(3)教職に就くための覚悟ができた",
     "overview": "教師論は「教師とは何か」がテーマの教職入門的な科目であり、教職の意義についての基本的理解と教師に必要な基本的資質の理解を目的とする。そのため、教師の仕事の内容（職務や服務）を整理し、教師に求められる資質能力（とりわけ今後必要となる力量など）を多面的に学ぶ。また、教員採用の実態を明らかにし、教師の待遇や研修など、学校制度と管理運営の概要を学ぶ。講義を通して、教員としての基本的な資質を実践的に養うとともに、教職に就くための覚悟を形成する。\n\n【アクティブ・ラーニングについて】\n授業の一部にアクティブ・ラーニング（グループワーク）を含む。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "教職概論",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "佐久間裕之　編著",
             "publisher": "玉川大学出版部",
             "price": 2000,
@@ -58,7 +58,7 @@
         },
         {
             "title": "これからの学校教育と教師：「失敗」から学ぶ教師論入門",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "佐々木司, 三山緑 編著",
             "publisher": "ミネルヴァ書房",
             "price": 2200,
@@ -67,7 +67,7 @@
         },
         {
             "title": "教職概論：「包容的で質の高い教育」のために",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "岩本泰, 小玉敏也, 降旗信一 編著",
             "publisher": "学文社",
             "price": 2000,
@@ -76,7 +76,7 @@
         },
         {
             "title": "新教師論：学校の現代的課題に挑む教師力とは何か",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "小柳和喜雄, 久田敏彦, 湯浅恭正 編著",
             "publisher": "ミネルヴァ書房",
             "price": 2400,
@@ -84,27 +84,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン、筆記用具",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、筆記用具",
         "other": "特定の教科書は指定せず、資料などを配布する。"
     },
-    "evaluation_criteria": "本講義の主要テーマである「 教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n（筆記試験70%、課題レポート30%）",
+    "grading_criteria": "本講義の主要テーマである「 教職の意義等の知識獲得」、「教員の基本的資質の理解」、「教職に就く覚悟」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n（筆記試験70%、課題レポート30%）",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "教師は大変な職業ですが、それだけやりがいのある仕事でもあります。自分が本当に教師になりたいかどうか考えてください。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n教職の意義等についての導入",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "よい教師とは（１）\nＫＪ法によるグループ討議と作業",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "よい教師とは（２）\nグループ別発表とコメント",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教師の資質能力（１）\nこれまでの教師",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "教師の資質能力（２）\n教師のいま\nＫＪ法によるグループ討議と作業",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "教師の資質能力（３）\n学ぶことと教えること\nグループ別発表とコメント",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教師の仕事（１）\n学習指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "教師の仕事（２）\n生徒指導・教育相談・進路指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "教師の仕事（３）\n学級経営",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "教師の養成と制度（１）\n教師養成の歴史、教員と免許法、専門職としての教師",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "教師の養成と制度（２）\n教師の職務・研修",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教師の養成と制度（３）\n教師の任用・身分・服務",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "２１世紀の教師（１）\n国際化、ジェンダー・フリー、リカレント教育",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "２１世紀の教師（２）\n奉仕活動、教師の心構え、チーム学校",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -260,9 +260,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体の振り返りとまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -271,6 +271,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

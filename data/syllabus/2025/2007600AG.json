@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:09Z",
+    "fetched_at": "2025-04-04T05:58:09Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AG",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本科目は、学生が主体的に取り組む研究過程を通じて、卒業論文における研究課題の明確化、科学的アプローチの方法の理解、論理的思考、研究的な視点や態度を習得するものである。授業の到達目標は以下の通りである。\n①社会福祉領域で解決すべき課題について説明することができる。\n②研究課題に関し文献を収集する方法について説明することができる。\n③科学的根拠を導くための調査方法について説明することができる。\n④研究計画を文章化する力⑤研究活動における倫理について説明することができる。",
+    "objectives": "本科目は、学生が主体的に取り組む研究過程を通じて、卒業論文における研究課題の明確化、科学的アプローチの方法の理解、論理的思考、研究的な視点や態度を習得するものである。授業の到達目標は以下の通りである。\n①社会福祉領域で解決すべき課題について説明することができる。\n②研究課題に関し文献を収集する方法について説明することができる。\n③科学的根拠を導くための調査方法について説明することができる。\n④研究計画を文章化する力⑤研究活動における倫理について説明することができる。",
     "overview": "授業では、研究テーマを決定するために必要な文献収集の方法、研究課題の設定の方法、調査方法、データ分析の方法について解説し、研究計画書を作成する。また、研究倫理についても説明し、責任ある学術研究活動に取り組む。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [
         {
             "title": "特定の図書は指定せず授業中に資料を配布します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -46,10 +46,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "参考図書は講義内で適時案内します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -57,27 +57,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①社会福祉領域で解決すべき課題②研究課題に関し文献を収集する方法③科学的根拠を導くための調査方法④研究計画を文章化⑤研究活動における倫理について以下の割合で評価します。\n「発表・実技」は、授業の取り組み意欲、研究計画書の作成及び発表について評価します。",
+    "grading_criteria": "①社会福祉領域で解決すべき課題②研究課題に関し文献を収集する方法③科学的根拠を導くための調査方法④研究計画を文章化⑤研究活動における倫理について以下の割合で評価します。\n「発表・実技」は、授業の取り組み意欲、研究計画書の作成及び発表について評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ソーシャルワーカーとして研究の視点を身に付けることは将来福祉現場でも役立てることができます。エビデンスを立てて福祉現場の支援を分析し、利用者支援に活かすことができるようになってほしいと考えています。これらを踏まえ、本授業では、まず時間をかけて先行研究を整理し、研究目的を設定していきます。そして、研究目的を明らかにするための研究方法を適切に選択し、結果を導いていきます。授業のまとめとして、研究計画書を作成することまでを目標としてすすめていきます。\n次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。",
+    "teacher_message": "ソーシャルワーカーとして研究の視点を身に付けることは将来福祉現場でも役立てることができます。エビデンスを立てて福祉現場の支援を分析し、利用者支援に活かすことができるようになってほしいと考えています。これらを踏まえ、本授業では、まず時間をかけて先行研究を整理し、研究目的を設定していきます。そして、研究目的を明らかにするための研究方法を適切に選択し、結果を導いていきます。授業のまとめとして、研究計画書を作成することまでを目標としてすすめていきます。\n次回予告する授業内容を確認し、配布資料の該当箇所を一読しておくこと(予習120分)。授業後は、授業で説明した資料を再度確認し、重要な概念や用語を調べておくこと（復習120分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の進め方と研究の取り組み",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "研究に取り組む意義",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "卒業研究に取り組む目的",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "卒業研究の進め方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "卒業研究の執筆スケジュール",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "卒業研究テーマの検討①テーマの探索",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "卒業研究テーマの検討②テーマの探索の整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "卒業研究テーマの検討③文献収集の方法～図書館の活用～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "卒業研究テーマの検討④文献収集の方法～研究誌の活用～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "卒業研究テーマの検討⑤文献収集の方法～インターネットの活用～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "卒業研究テーマの検討⑥文献収集",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "卒業研究テーマの検討⑦文献収集の整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "卒業研究テーマの検討⑧研究テーマの整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "卒業研究テーマの検討⑨研究テーマの決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "卒業研究テーマの検討⑩研究テーマの発表～前半組～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "卒業研究テーマの検討⑪研究テーマの発表～後半組～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "研究方法の検討①研究方法の種類",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "研究方法の検討②研究方法の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "研究方法の検討③研究テーマに沿った研究方法の検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "研究方法の検討④研究テーマに沿った研究方法の決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "研究活動における倫理と倫理申請の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "研究倫理の書類の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "研究倫理の書類の提出",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "研究計画書の作成①研究計画書を作成する目的",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "研究計画書の作成②研究計画書のフォーマットの確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "研究計画書の作成②研究計画書のフォーマットの作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "研究計画書の作成③研究計画書のフォーマットの完成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "研究計画書の作成④研究計画書のパワーポイント作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "研究計画の発表①口頭発表～前半組～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "研究計画の発表②口頭発表～後半組～",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,6 +375,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

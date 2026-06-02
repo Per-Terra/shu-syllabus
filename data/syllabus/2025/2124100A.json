@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:06:28Z",
+    "fetched_at": "2025-04-04T06:06:28Z",
     "name_ja": "子どもの理解",
     "name_en": "Understanding of Children",
     "syllabus_number": "2124100A",
     "course_number": "26-1-33-21-01、23-1-23-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,19 +27,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①乳幼児期の子どもの発達を説明することができる\n②子ども理解の視点と方法を説明することができる\n③実践記録を子ども理解の視点から分析することができる",
+    "objectives": "①乳幼児期の子どもの発達を説明することができる\n②子ども理解の視点と方法を説明することができる\n③実践記録を子ども理解の視点から分析することができる",
     "overview": "本授業の目的は、子ども一人一人に応じた援助に必要な視点を身に付けることである。そのために授業では、乳幼児期の子どもの発達過程について学び、子どもの発達に沿った支援のあり方について理解を深める。さらに、一人一人の子どもに応じた援助技術を身に付けるために、子どもの内面理解を基にした支援のあり方について事例を活用しながら検討をする。この事例検討を通して、子どもの言動の背景には何があるかを考え、一人一人の子どもについて深く考察し、子どもを理解する視点を養っていく。 \n主に授業では、事例を用いた小グループでの検討を中心に行う。多様な支援のあり方をグループで検討し、子ども一人一人に応じた援助に必要な視点を身に付けていく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "「気になる子」と言わない保育―こんなときどうする?考え方と手立て",
-            "year": 2013,
+            "publication_year": 2013,
             "author": "赤木 和重 、岡村 由紀子",
             "publisher": "ひとなる書房",
             "price": 1980,
@@ -47,27 +47,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "筆記用具",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具",
         "other": ""
     },
-    "evaluation_criteria": "①乳幼児期の発達過程\n②子ども理解の視点\n③専門性を生かした子どもへの支援\n上記①～③に関する理解度を以下の割合により評価する。",
+    "grading_criteria": "①乳幼児期の発達過程\n②子ども理解の視点\n③専門性を生かした子どもへの支援\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "子どもの成長発達を支えるためには子どもを理解する必要があります。また、この子どもを理解する力を活用し、成長発達に必要な環境を整えることが重要です。子どものより良い成長発達のために必要なことについて、子ども理解を通して一緒に学んでいきましょう。\n受講にあたっては、各回の授業計画の内容に関連する事柄について各自で調べておくことを予習とします（2時間程度）。また、授業で取り扱った事例を振り返り、多様な子ども理解の方法について再度、検討することを復習とします（2時間程度）。\n\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
+    "teacher_message": "子どもの成長発達を支えるためには子どもを理解する必要があります。また、この子どもを理解する力を活用し、成長発達に必要な環境を整えることが重要です。子どものより良い成長発達のために必要なことについて、子ども理解を通して一緒に学んでいきましょう。\n受講にあたっては、各回の授業計画の内容に関連する事柄について各自で調べておくことを予習とします（2時間程度）。また、授業で取り扱った事例を振り返り、多様な子ども理解の方法について再度、検討することを復習とします（2時間程度）。\n\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "子ども理解の意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "乳幼児の発達過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "子ども理解と援助に必要なこと",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "子ども理解と援助の手がかり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "保育所保育指針にみる子ども理解の基本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "子どもを理解する保育記録",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "保育における人とのかかわり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "子ども同士のトラブルにおける援助",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "貸し借りで見る子ども理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "個と集団の育ち",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "保育環境の理解と構成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "自然環境と子ども①：仲間作り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "自然環境と子ども②：葛藤の経験",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "配慮が必要な子どもへの理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "子どもの学びの連続性・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-08T01:25:18Z",
+    "fetched_at": "2024-08-08T01:25:18Z",
     "name_ja": "学校インターンシップ",
     "name_en": "",
     "syllabus_number": "7005300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "自由科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "坪井　恭紀",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -32,35 +32,35 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "周南市内の小学校ならびに中学校での学校体験活動\n本学の3つの教育目標のうち、特に［１］主体性を持った意欲ある人材を育成する、［３］現実的な知識と手法を備え、問題解決能力を持った人材を育成する、の2点に重点を置いています。",
+    "objectives": "周南市内の小学校ならびに中学校での学校体験活動\n本学の3つの教育目標のうち、特に［１］主体性を持った意欲ある人材を育成する、［３］現実的な知識と手法を備え、問題解決能力を持った人材を育成する、の2点に重点を置いています。",
     "overview": "中学校、高等学校の教諭を目指す学生が、学校で生活する児童生徒の姿や教職員の業務活動を観察するとともに、実務に対する補助的な役割を担うことを通して、児童生徒の実態と学校教育活動の特色を理解する。\n①学校教育現場での授業、特別活動、学校行事、部活動など教員の日常業務を観察、体験し、教育活動の実際的、具体的理解を深める。\n②上記①を体験することにより、自己の適性を把握し、将来の職業生活への見通しを立てる。\n③児童生徒および教職員と関係構築の中で、人間的成長や社会意識の向上を目指す。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "(i) 学校教育現場についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii)教育界が求める能力・人物像を理解する。\n(iⅴ) 教育者として必要な基本的マナーを習得する。",
+    "grading_criteria": "(i) 学校教育現場についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii)教育界が求める能力・人物像を理解する。\n(iⅴ) 教育者として必要な基本的マナーを習得する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "インターンシップは大学を卒業して実際に働く前に、社会で働くとはどういうことなのかを知る良い機会です。将来設計について考える一つのステップとして積極的に参加してください。",
+    "teacher_message": "インターンシップは大学を卒業して実際に働く前に、社会で働くとはどういうことなのかを知る良い機会です。将来設計について考える一つのステップとして積極的に参加してください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（インターンシップの目的及び概要説明）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "事前指導（学校支援、学校運営、地域貢献の理解）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "事前指導（実施校の決定、活動計画書の作成）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "担当校での活動①",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "担当校での活動②",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "担当校での活動③",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "担当校での活動④",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "担当校での活動⑤",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "担当校での活動に関する中間報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "担当校での活動⑥",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "担当校での活動⑦",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "担当校での活動⑧",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "担当校での活動⑨",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "担当校での活動⑩",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "担当校での活動に関する報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "事前指導（注意すべき事項の確認）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "事前指導（振り返り作業の確認）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "担当校での活動⑪",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "担当校での活動⑫",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -248,9 +248,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "担当校での活動⑬",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "担当校での活動⑭",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -268,9 +268,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "担当校での活動⑮",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -278,9 +278,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "担当校での活動に関する中間報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -288,9 +288,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "担当校での活動⑯",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -298,9 +298,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "担当校での活動⑰",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -308,9 +308,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "担当校での活動⑱",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -318,9 +318,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "担当校での活動⑲",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "担当校での活動⑳",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -338,9 +338,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "事後指導（活動報告会に向けた準備）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -348,9 +348,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "担当校での活動に関する報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -358,6 +358,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

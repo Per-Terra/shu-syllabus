@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:53:15Z",
+    "fetched_at": "2025-04-07T10:53:15Z",
     "name_ja": "地域ゼミ-1",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000U",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "佐藤　裕哉",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,12 +28,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n1.地域をみる視点を身につける\n2.フィールドワークの技法を身につける\n3.GISの基本技能を身につける",
+    "objectives": "【到達目標】\n1.地域をみる視点を身につける\n2.フィールドワークの技法を身につける\n3.GISの基本技能を身につける",
     "overview": "立体地図を作り、地域の交通安全を分析、考察しよう！\n皆さんは通学中に、死角からの自動車や自転車の飛び出しなどで「ヒヤリ」や「ハッと」したことはないでしょうか？\n本ゼミでは、大学周辺を対象に、「ヒヤリハット」の状況を把握し、GISで作成した立体地図と現地調査を通して、その原因や解決方法などを考察することを目的とします。\n\n【アクティブラーニングについて】\n一部にアクティブラーニング（フィールドワーク、グループワーク）を含みます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "現代経済学科DP3",
         "現代経済学科DP4",
@@ -46,28 +46,28 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "GISソフトウェアを使用しますので、パソコンを持ってきてくだ さい。フィールドワークの際は歩きやすい格好で来てくださ い。これらについては適宜指示しますので、情報に注意をして おいてください。",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "GISソフトウェアを使用しますので、パソコンを持ってきてくだ さい。フィールドワークの際は歩きやすい格好で来てくださ い。これらについては適宜指示しますので、情報に注意をして おいてください。",
         "other": "教科書は使用せず、適宜、プリントを配布します。授業日以外、授業時間外の活動（フィールドワークなど）を予 定しています。"
     },
-    "evaluation_criteria": "1）発表・実技は、フィールドワークをもとにGISを用いて作成する地図の完成度で評価します。2）その他は、作業やフィールドワークへの積極的な参加度により評価します。",
+    "grading_criteria": "1）発表・実技は、フィールドワークをもとにGISを用いて作成する地図の完成度で評価します。2）その他は、作業やフィールドワークへの積極的な参加度により評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "【予習】他の授業で習ったことが分析、考察等に役立たないか、つながりを考えてみてください。\n【復習】フィールドワークで感じたことを、他の授業で習う知識や理論で解釈できないか考えてみてください。\n要は、他の授業とのつながりを意識することがフィールドワークの効果を高めるためには重要です。\nまた、GISは自分でも使ってみて、操作方法を確認してください。\n（※予習、復習合わせて60分程度行ってください）",
+    "teacher_message": "【予習】他の授業で習ったことが分析、考察等に役立たないか、つながりを考えてみてください。\n【復習】フィールドワークで感じたことを、他の授業で習う知識や理論で解釈できないか考えてみてください。\n要は、他の授業とのつながりを意識することがフィールドワークの効果を高めるためには重要です。\nまた、GISは自分でも使ってみて、操作方法を確認してください。\n（※予習、復習合わせて60分程度行ってください）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "「ヒヤリハット」情報を共有する（ガイダンスを含む）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "身近な地域を歩き、地域の交通安全を考察するために必要なデータについて考える（フィールドワーク）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "アンケート調査により多くのヒヤリハット情報を収集する",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "GISの使い方（１）：基本操作の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "GISの使い方（２）：属性データの設計",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "立体地図の作成作業（1）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "立体地図の作成作業（2）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "立体地図の作成作業（3）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "作成した立体地図と収集したヒヤリハット情報をもとに現地を歩いて観察する（フィールドワーク）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "作成した立体地図と収集したヒヤリハット情報をもとに現地を歩いて観察する（フィールドワーク）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "作成した立体地図と収集したヒヤリハット情報をもとに現地を歩いて観察する（フィールドワーク）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "作成した立体地図と収集したヒヤリハット情報をもとに現地を歩いて観察する（フィールドワーク）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "集めたデータを元に地域の交通安全について考察する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "集めたデータを元に地域の交通安全について考察する（発表会の準備を含む）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "発表会（立体地図のデモンストレーションと分析結果の発表）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

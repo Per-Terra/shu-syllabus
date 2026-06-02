@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:45Z",
+    "fetched_at": "2025-04-04T05:58:45Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600N",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "小野　高志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,40 +28,40 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．「スポーツ」に関する様々な事象に対し、その理（ことわり）を考え、「なぜ？」や「知りたい」という動機を明確にすることができる。\n２．「すでに明らかになっていること」と「まだ明らかになっていないこと」を整理することができる。\n３．課題解決のための最適な方法論を導き出し、まだ誰も明らかにしていないことを明らかにすることができる。",
+    "objectives": "１．「スポーツ」に関する様々な事象に対し、その理（ことわり）を考え、「なぜ？」や「知りたい」という動機を明確にすることができる。\n２．「すでに明らかになっていること」と「まだ明らかになっていないこと」を整理することができる。\n３．課題解決のための最適な方法論を導き出し、まだ誰も明らかにしていないことを明らかにすることができる。",
     "overview": "この授業では「スポーツ」をキーワードに社会に存在する課題を多角的に検証し、自分自身も含めて人々の生活を豊かにし、活気あるまちづくりを行うための方策を考えます。あらゆる情報を科学的根拠に基づいて整理し、現場に積極的に足を運び、課題解決のための最適な方法論を導き出し、まだ誰も明らかにしていないことを明らかにすることを目指します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
+    "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "社会に求められる人材となるためには、主体性（自分は何がしたいのか）と協調性（他者が何を求めているか）を持って行動することが重要です。自分自身も、周りの人も、皆がワクワクするような授業にしましょう。\n\n【事前学習・事後学習の時間】合わせて90分程度。",
+    "teacher_message": "社会に求められる人材となるためには、主体性（自分は何がしたいのか）と協調性（他者が何を求めているか）を持って行動することが重要です。自分自身も、周りの人も、皆がワクワクするような授業にしましょう。\n\n【事前学習・事後学習の時間】合わせて90分程度。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "取り組むテーマの発表、ディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "取り組むテーマの発表、ディスカッション②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "課題発掘のためのフィールドワーク①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "課題発掘のためのフィールドワーク②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "課題を整理する、ディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "課題を整理する、ディスカッション②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "情報収集①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "情報収集②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "課題の再検討、ディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "課題の再検討、ディスカッション②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "方法論の検討、選択①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "方法論の検討、選択②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "方法論が正しいかの検証①（予備実験、調査）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "方法論が正しいかの検証②（予備実験、調査）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "取り組むテーマの再確認、ディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "取り組むテーマの再確認、ディスカッション②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "本実験、調査①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -256,9 +256,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "本実験、調査②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -267,9 +267,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "本実験、調査③",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -278,9 +278,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "本実験、調査の中間報告①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -289,9 +289,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "本実験、調査の中間報告②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -300,9 +300,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "データ処理、分析、考察①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -311,9 +311,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "データ処理、分析、考察②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -322,9 +322,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "本実験、調査の最終報告①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -333,9 +333,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "本実験、調査の最終報告②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "プレゼンテーション資料作成①",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "プレゼンテーション資料作成②",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -366,9 +366,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "プレゼンテーション練習",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -377,9 +377,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "プレゼンテーション、まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -388,6 +388,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "（小野高志）これまでのスポーツ医科学の研究者および教育者、競技スポーツ（主にサッカー）の現場におけるコンディショニング指導の経験を踏まえ、人体の構造・機能と運動・スポーツの実践的な理解に繋がる教育を行っている。"
+    "credit_auditing": false,
+    "practitioner_info": "（小野高志）これまでのスポーツ医科学の研究者および教育者、競技スポーツ（主にサッカー）の現場におけるコンディショニング指導の経験を踏まえ、人体の構造・機能と運動・スポーツの実践的な理解に繋がる教育を行っている。"
 }

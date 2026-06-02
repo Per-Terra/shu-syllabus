@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T06:04:37Z",
+    "fetched_at": "2025-04-04T06:04:37Z",
     "name_ja": "地域観光まちづくり論",
     "name_en": "regional Tourism Community Development",
     "syllabus_number": "2106000A",
     "course_number": "19-1-40-21-02、23-1-25-21-01、31-1-26-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,18 +28,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "① 観光とまちづくりの概要について説明することができる。 \n② 観光まちづくりと福祉の関係性について説明することができる。 \n③ 観光まちづくりによる人材育成の意義と役割について説明することができる。",
+    "objectives": "① 観光とまちづくりの概要について説明することができる。 \n② 観光まちづくりと福祉の関係性について説明することができる。 \n③ 観光まちづくりによる人材育成の意義と役割について説明することができる。",
     "overview": "本科目は地域が住みやすい環境になるために、観光によるまちづくりを行うことで対応すべき地域課題の解決に向けた考え方や政策手段について、事例を交えながら学修する。 \n 観光は、人的資源が物質的な資源と共に必要である。地域の観光は、その地元に由来した歴史的社会資源の活用により交流人口や関係人口を増やすことができる。この様な観光資源は、まちづくりの基盤になる。住民にとって地域を支える人材を発掘し育成することは重要である。地域を作ってきた人と観光客との融合でのまちづくりについて検討する。 \n まちづくりにかかわる基本概念と用語を理解し、身近な問題としてとらえるようになるとともに、観光が地域住民とともにまちづくりに関わることの必要性を理解し、自らが観光まちづくりに関わる力とは何かを修得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "観光まちづくり（仮）",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "難波利光　他",
             "publisher": "大学教育出版",
             "price": null,
@@ -47,10 +47,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "（適宜案内します）",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -58,29 +58,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "健康まちづくり論"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "教科書は、最初の講義時にお知らせします。　参考図書・参考資料は、適宜案内します。"
     },
-    "evaluation_criteria": "① 観光とまちづくりの概要について理解できている。 \n② 観光まちづくりと福祉の関係性について理解できている。 \n③ 観光まちづくりによる人材育成の意義と役割について理解できている。",
+    "grading_criteria": "① 観光とまちづくりの概要について理解できている。 \n② 観光まちづくりと福祉の関係性について理解できている。 \n③ 観光まちづくりによる人材育成の意義と役割について理解できている。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "社会福祉学、観光学、まちづくり学の理解は必要不可欠のものである。本科目では、観光まちづくりを通して、社会福祉学の視点を通して基礎から段階的に理解できるよう解説を行うので、講義には欠かさず出席し、理解を積み重ねっていってほしい。授業にあたっては、復習を中心に、日々のニュースにも関心をもち、授業との関連性を考えて欲しい。\n\n【事前・事後学習について】  \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。",
+    "teacher_message": "社会福祉学、観光学、まちづくり学の理解は必要不可欠のものである。本科目では、観光まちづくりを通して、社会福祉学の視点を通して基礎から段階的に理解できるよう解説を行うので、講義には欠かさず出席し、理解を積み重ねっていってほしい。授業にあたっては、復習を中心に、日々のニュースにも関心をもち、授業との関連性を考えて欲しい。\n\n【事前・事後学習について】  \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "観光まちづくりの概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "観光の歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "国の観光政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "観光地と観光客との関係性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "福祉社会の発達と観光",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "歴史的コンテンツを活かした地域観光（酒蔵の活用）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "歴史的コンテンツを活かした地域観光（歴史小説の活用）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "コンテンツツーリズムによる人づくり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "観光の教育的価値と地域人材の育成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "人を繋げる観光戦略",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "観光に備わる教育力",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "観光まちづくり人材としてのファシリテーターの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "若者の視点からみる地域観光",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "シニアの観光人材育成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "観光まちづくりの総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

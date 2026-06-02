@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:52:20Z",
+    "fetched_at": "2025-04-07T10:52:20Z",
     "name_ja": "ドイツ語Ⅱ",
     "name_en": "German II",
     "syllabus_number": "1004800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。\n自分の表現したい内容を作文し、発表できる。また、他の学生の発表内容を聞いて理解できるようになることを目指す。",
+    "objectives": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。\n自分の表現したい内容を作文し、発表できる。また、他の学生の発表内容を聞いて理解できるようになることを目指す。",
     "overview": "ドイツ語Ⅰで使用したテキストの中級文法はテキストに沿って、文法、表現を学習し、音読、練習問題に取り組むことで定着させる。また、新しいテキストを使い、既習内容の復習も兼ねて、たくさん書いてたくさん読んで、たくさん話す時間をとって、学生参加型の授業を展開する。\n＊ドイツ語Ⅰで使用したテキストと辞書は必ず持ってくること。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "聞いて話そうドイツ語レッスン",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "大島尚子　須藤温子",
             "publisher": "朝日出版社",
             "price": 2200,
@@ -45,32 +45,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "ドイツ語Ⅰ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "テキスト（ドイツ語Ⅰの物を含む）、辞書",
+        "required_materials": "テキスト（ドイツ語Ⅰの物を含む）、辞書",
         "other": "なし"
     },
-    "evaluation_criteria": "「試験」80％、「小テスト」20％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "grading_criteria": "「試験」80％、「小テスト」20％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "毎時間「ドイツ語Ⅰ」で使用したテキストと辞書を持参してください。\n使えるドイツ語を目指して頑張りましょう！",
+    "teacher_message": "毎時間「ドイツ語Ⅰ」で使用したテキストと辞書を持参してください。\n使えるドイツ語を目指して頑張りましょう！",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "授業の進め方についてのオリエンテーション\n発音練習・あいさつのおさらい",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "Lektion１数字のおさらい、動詞の現在形の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "Lektion１数字のおさらい、動詞の現在形の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "Lektion２定冠詞、不定冠詞、否定冠詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "Lektion２sein,haben,werden動詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "Lektion２いろいろな質問文\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "Lektion３否定疑問文\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "Lektion３不規則動詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "Lektion４時刻の表現の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "Lektion４話法の助動詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "Lektion５注文の仕方と支払い\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "Lektion５注文の仕方と支払い\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "Lektion６分離動詞と非分離動詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "Lektion６形容詞と副詞\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "Lektion６比較級と最上級\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -233,9 +233,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "Lektion７人称代名詞の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "Lektion７命令表現の確認\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "Lektion８前置詞の確認（場所）\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "Lektion８前置詞の確認（時）\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -277,9 +277,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "Lektion８前置詞の確認（３格と４格をとる前置詞）\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -288,9 +288,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "Lektion９序数（日にちの表現）\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -299,9 +299,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "Lektion９道を尋ねる\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -310,9 +310,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "Lektion１０再帰代名詞\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -321,9 +321,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "Lektion１０動詞と前置詞\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -332,9 +332,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "Lektion１０過去形\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -343,9 +343,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "Lektion１０過去形\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "Lektion１０過去形\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "Lektion１１現在完了形\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -376,9 +376,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "Lektion１１現在完了形\n作文・会話練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -387,9 +387,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "試験対策",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -398,6 +398,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

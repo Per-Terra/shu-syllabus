@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:53:19Z",
+    "fetched_at": "2025-04-07T10:53:19Z",
     "name_ja": "地域ゼミ-1",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000W",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,38 +27,38 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "大学の教育目標の一つである「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」を目標とします。",
+    "objectives": "大学の教育目標の一つである「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」を目標とします。",
     "overview": "本授業は、周南市内の中学校を対象とした体育授業を運営することです。対象となる中学校の時間割により、必ずしも授業開講時間と同一時間にならないケースも生じてきます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "教職課程履修者を優先とする"
     },
-    "evaluation_criteria": "(i) 中学生における運動発達に関する専門的な知識を身につける。\n(ii) 運動に関する指導者としての資質を高める。\n(iii) 中学生における運動発達の特性を理解し、効果的な運動指導が実践できる。",
+    "grading_criteria": "(i) 中学生における運動発達に関する専門的な知識を身につける。\n(ii) 運動に関する指導者としての資質を高める。\n(iii) 中学生における運動発達の特性を理解し、効果的な運動指導が実践できる。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 50,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 50,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "中学生にとって運動を定期的に行うことは、その後の体力レベルや運動能力の向上、また豊かな人生を送るためのスポーツライフの獲得に大きな影響を与えます。そのような大事な時期の“きっかけづくり”に積極的に関わる意思を持った学生を待っています。",
+    "teacher_message": "中学生にとって運動を定期的に行うことは、その後の体力レベルや運動能力の向上、また豊かな人生を送るためのスポーツライフの獲得に大きな影響を与えます。そのような大事な時期の“きっかけづくり”に積極的に関わる意思を持った学生を待っています。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業全体の説明",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "中学生の体力や運動能力の実態について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "中学生に求められるもの運動指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "中学校の体育授業について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "体育授業の見学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "体力・運動能力などの測定法と評価法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "陸上競技領域の単元について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "器械運動領域の単元について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "水泳領域の単元について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "体育授業への参画\n\n（運営補助）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "体育授業への参画\n\n（陸上競技）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "体育授業への参画\n\n（器械運動）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "体育授業への参画\n\n（水泳）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "体育授業への参画\n\n（授業全体）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "受講生全員による報告とディスカッション、報告書の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -206,6 +206,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:51:33Z",
+    "fetched_at": "2025-04-07T10:51:33Z",
     "name_ja": "意思決定科学",
     "name_en": "Science of Decision Making",
     "syllabus_number": "1000600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "喜入　暁",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,22 +27,22 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "この科目では，意思決定に影響する感情の役割と，進化的に形成されたメカニズムについて学修します。また，それらを踏まえ，私たちが普段何気なく行ってきたあらゆる意思決定が，どのようなプロセスに基づいてなされているのかを説明できるようになること，さらに，それを地域貢献に応用するための基礎を身につけることを目的とします。\n【到達目標】\n・個人の意思決定の事例について，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・自分自身の意思決定を例に挙げ，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・地域貢献につながる意思決定が，どのような工夫（まちづくりやしくみ）によってなされる可能性があるかを考察することができるようになる。",
+    "objectives": "この科目では，意思決定に影響する感情の役割と，進化的に形成されたメカニズムについて学修します。また，それらを踏まえ，私たちが普段何気なく行ってきたあらゆる意思決定が，どのようなプロセスに基づいてなされているのかを説明できるようになること，さらに，それを地域貢献に応用するための基礎を身につけることを目的とします。\n【到達目標】\n・個人の意思決定の事例について，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・自分自身の意思決定を例に挙げ，そのプロセスを感情・生理・進化の観点から説明できるようになる。\n・地域貢献につながる意思決定が，どのような工夫（まちづくりやしくみ）によってなされる可能性があるかを考察することができるようになる。",
     "overview": "授業は基本的にはスライドを用いた講義形式で行い，配布資料は用意しません。各自でノートをとりながらまとめる必要があります。また，適宜実験実施やペア・グループワークを行う時間を設けます。なお，各回で小テストの実施と講義で学んだことや考えたことを報告してもらい，次回講義で共有と返答をします。成績評価のその他（30%）は，授業への積極的な参加度・取組みによって評価します。具体的には，各回での小テストへの回答と講義内容に関して考えたことの報告をもって評価します。小テストの正誤は成績に反映しません。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "感情心理学",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "鈴木 直人（編）",
             "publisher": "朝倉書店",
             "price": 3960,
@@ -51,7 +51,7 @@
         },
         {
             "title": "心理学が描くリスクの世界 第3版:行動的意思決定入門",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "広田 すみれ (著, 編集), 増田 真也 (著, 編集), 坂上 貴之 (著, 編集)",
             "publisher": "慶應義塾大学出版会",
             "price": 2640,
@@ -59,27 +59,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC，筆記用具，ノート・ルーズリーフなど",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC，筆記用具，ノート・ルーズリーフなど",
         "other": "なし"
     },
-    "evaluation_criteria": "講義内容に基づき，自己（自分の経験）・他者（事例）に関する意思決定の事象の説明，およびそれらを踏まえた地域貢献につながる可能性のある工夫の考察によって評価します。",
+    "grading_criteria": "講義内容に基づき，自己（自分の経験）・他者（事例）に関する意思決定の事象の説明，およびそれらを踏まえた地域貢献につながる可能性のある工夫の考察によって評価します。",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "試験に向けて，配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては，各回4時間を想定しています。また，わからないところはわからないままにせず，遠慮なく聞いてください。",
+    "teacher_message": "試験に向けて，配布資料や各自でとったノートを併用しながら必ず講義内容を復習してください。目安としては，各回4時間を想定しています。また，わからないところはわからないままにせず，遠慮なく聞いてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス：授業の進め方，成績評価の方法など",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "二重過程モデル：意思決定のモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "感情の基本理論：感情の概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "感情の生理的基盤：感情と神経系の働きとの関連",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "感情の機能：感情の日常における役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "感情の発達：感情が発達・分化するプロセス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "感情制御1：感情を制御するための方略と効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "感情制御2：感情と衝動性・自己コントロールとの関連",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "感情とパーソナリティ：サイコパシー，アレキシサイミアなどの個人差特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "意思決定の進化論的アプローチ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "信頼：進化論的アプローチによる信頼の構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "協力（互恵性）：進化論的アプローチによる協力の構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "道徳：進化論的アプローチによる道徳性の構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "文化：意思決定の文化・遺伝子共進化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめと振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,6 +227,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

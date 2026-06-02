@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:53:21Z",
+    "fetched_at": "2025-04-07T10:53:21Z",
     "name_ja": "地域ゼミ-1",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000X",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,12 +29,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①地域づくりイベント「おんぱく」について理解し、説明することができる。\n②周南市にある地域資源を調べ、観光資源として磨き上げる方法を理解できる。\n③周南市における「おんぱく」を企画し、プレゼンテーションすることができる。",
+    "objectives": "①地域づくりイベント「おんぱく」について理解し、説明することができる。\n②周南市にある地域資源を調べ、観光資源として磨き上げる方法を理解できる。\n③周南市における「おんぱく」を企画し、プレゼンテーションすることができる。",
     "overview": "地域にはたくさんの魅力的な地域資源がある。その地域資源を発掘し、観光資源に磨き上げ、束ね、発信する地域づくりイベントが「おんぱく」である。本ゼミでは、まず、地域づくりイベントとしての「おんぱく」について理解する。そして、学生の視点で、周南市に存在する魅力的な地域資源や体験イベントなどについて調べ、フィールドワークを行い、関係人口の拡大を目指して「おんぱく」を企画し、周南市役所に政策提言を行う。\n【アクティブラーニングについて】一部にアクティブラーニング（グループワークとフィールドワーク）を含む。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP3",
         "現代経済学科DP4",
         "経営コースDP2",
@@ -46,28 +46,28 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は指定していません。必要に応じて文献やwebサイトの閲覧を指示します。"
     },
-    "evaluation_criteria": "フィールドワークへの参加状況と、その報告となる「記録用紙」への記入内容を重視する。（50％）「記録用紙」の書式や記入方法などについては、第1回目の授業で指示する。\nレポートとして、振り返りシートへの記入内容を評価する。（30％）\n周南市役所での発表について、スライドの内容と発表の内容について評価する。（20％）",
+    "grading_criteria": "フィールドワークへの参加状況と、その報告となる「記録用紙」への記入内容を重視する。（50％）「記録用紙」の書式や記入方法などについては、第1回目の授業で指示する。\nレポートとして、振り返りシートへの記入内容を評価する。（30％）\n周南市役所での発表について、スライドの内容と発表の内容について評価する。（20％）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "学生のみなさんと一緒に、周南市の魅力を発見し、この町の魅力を発信するまちづくりイベントを企画したいと思っています。一緒に、楽しみながら学びましょう。\n個人やグループで調べまとめる事前学習と事後学習が含まれています。必要に応じて、その都度指示します。学外でのフィールド活動とあわせて、60時間以上の授業以外の時間での学習活動を想定しています。",
+    "teacher_message": "学生のみなさんと一緒に、周南市の魅力を発見し、この町の魅力を発信するまちづくりイベントを企画したいと思っています。一緒に、楽しみながら学びましょう。\n個人やグループで調べまとめる事前学習と事後学習が含まれています。必要に応じて、その都度指示します。学外でのフィールド活動とあわせて、60時間以上の授業以外の時間での学習活動を想定しています。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション。記録用紙は毎回記入し、15回の授業終了後に提出する。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「おんぱく」の概念と、地域に対する効果について。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "全国のおんぱくを実施している地域について、グループで調べ、情報共有するための資料を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "おんぱくの先行事例をグループごとに発表する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "先行事例についての発表をもとに、どのようなおんぱくが魅力的かを議論する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "周南市で行われている地域づくりイベントや体験型イベントについてグループで調べる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "グループごとに調べた情報を発表して共有する。そして、グループごとに、フィールドワークを行うイベントの候補を決定する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "グループごとに、地域づくりイベントや体験型イベントに参加する。最低でも、3イベントには見学またはボランティアとして参加する。",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "グループごとに、地域づくりイベントや体験型イベントに参加する。最低でも、3イベントには見学またはボランティアとして参加する。",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "グループごとに、地域づくりイベントや体験型イベントに参加する。最低でも、3イベントには見学またはボランティアとして参加する。",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "グループごとに、見学または参加したイベントを報告する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "共有した情報もとに、周南市でどのようなおんぱくが魅力的で可能か、全体で議論する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "前回の議論を踏まえて、おんぱくの企画案を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プレゼンテーション資料を作成し、議論して発表用の資料を決定する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "周南市役所において提案する。終了後に、記録用紙と振り返りシートを提出する。",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

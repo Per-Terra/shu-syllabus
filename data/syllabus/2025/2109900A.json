@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-04T06:05:07Z",
+    "fetched_at": "2025-04-04T06:05:07Z",
     "name_ja": "スポーツ文化論Ⅱ（スポーツ社会学・スポーツ史）",
     "name_en": "Sport Culture",
     "syllabus_number": "2109900A",
     "course_number": "21-2-22-21-06",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -30,41 +30,41 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "これからの体育・スポーツの話をしよう！\n1．現代社会におけるスポーツの特徴と諸問題について理解できる。 \n2．地域の特性を生かして、地域の活性化にスポーツを活用するための方法を理解できる。\n3．スポーツの社会的機能を理解し、スポーツの専門職者として「健幸づくり」にスポーツを活用する思考と志向を身につけることができる。",
+    "objectives": "これからの体育・スポーツの話をしよう！\n1．現代社会におけるスポーツの特徴と諸問題について理解できる。 \n2．地域の特性を生かして、地域の活性化にスポーツを活用するための方法を理解できる。\n3．スポーツの社会的機能を理解し、スポーツの専門職者として「健幸づくり」にスポーツを活用する思考と志向を身につけることができる。",
     "overview": "現代社会におけるスポーツは単に競技種目として存在するだけでなく、教育、政治、経済をはじめ科学技術、医療、地域コミュニティー、娯楽・レクリエーション、ファッション、文学、芸術など人々のあらゆる生活文化に多様に関わっている。\n　本講義では、現代スポーツ文化の特徴と課題を理解するために、「スポーツ文化論Ⅰ」における体育及びスポーツの歴史的背景の理解の上に、現代社会におけるスポーツの特徴と諸問題について理解を深める。そして、人々の「健幸づくり」―スポーツを通じて健康や幸福度、QOLを上げるために、スポーツがどのような社会的機能を果たすべきかについてのビジョンを探求する。\n　授業では、配付資料等に基づく教員による講義とともに、グループ討議やワークショップ、2名の教員によるシンポジウムなどの演習形式の授業も組み入れながら、学生も参画できる授業とする。そのため、受講生は毎回の講義内容のまとめをレスポンスペーパーとして提出する。それにより、教員は受講生の講義理解度を把握するとともに、次回の授業でレスポンスペーパーの内容を紹介し、受講生に情報共有する機会を提供する。\n　シラバスは、授業の進行状況によって変更する場合がある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "スポーツ文化論Ⅰ"
         ],
-        "brings": "筆記用具など",
+        "required_materials": "筆記用具など",
         "other": "参考文献及び講義資料は、適宜案内する。また、講義の進捗状況によりシラバス内容は変更する場合がある。"
     },
-    "evaluation_criteria": "課題レポート50％、筆記試験 30％、レスポンスペーパー 20％",
+    "grading_criteria": "課題レポート50％、筆記試験 30％、レスポンスペーパー 20％",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 30,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "スポーツ健康科学科の専門基礎科目として位置づく「スポーツ文化論Ⅱ」は、スポーツの社会科学的研究の問題の一つである地域におけるスポーツ課題を認識する上で重要な視点を提供する。したがって、演習の選択や卒業研究テーマの設定にとって重要な学びとなる。講義における個別テーマに関連する参考文献の積極的な読解を期待したい。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "スポーツ健康科学科の専門基礎科目として位置づく「スポーツ文化論Ⅱ」は、スポーツの社会科学的研究の問題の一つである地域におけるスポーツ課題を認識する上で重要な視点を提供する。したがって、演習の選択や卒業研究テーマの設定にとって重要な学びとなる。講義における個別テーマに関連する参考文献の積極的な読解を期待したい。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション－スポーツで社会は変えられるか－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "スポーツと経済",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "スポーツを支えるスポーツ産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "広告代理店はなぜスポーツイベントに影響力を持つのか－オリンピックマーケティングの功罪－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "スポーツマンシップとフェアプレー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "スポーツインテグリティーを守るためには",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "大学スポーツのビジネス化－NCAAとUNIVAS－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "日本のスポーツ政策－スポーツ基本法とスポーツ基本計画－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "障がい者スポーツとパラリンピック大会の開催",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "レジャー・レクリエーションの必要性－日本人はスポーツに何を求めているのか－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "スポーツの新展開－「eスポーツ」は近代スポーツの限界を超えられるのか－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "キャンプはなぜ日本人の心を惹きつけたのか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "スポーツツーリズム・ヘルスツーリズムは地域を活性化できるか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "スポーツを通じたまちづくりの考え方と組織－総合型地域スポーツクラブとスポーツコミッションの将来性－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ「これからのスポーツの話をしよう！」－スポーツ文化は日本人の健幸づくりにどう機能するか－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,6 +214,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

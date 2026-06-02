@@ -1,53 +1,53 @@
 {
-    "_fetched_at": "2025-04-07T10:53:50Z",
+    "fetched_at": "2025-04-07T10:53:50Z",
     "name_ja": "教養ゼミ（再履修）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "大坂　遊",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "田中　数恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "寺田　篤史",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "山本　晋也",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "渡部　明",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "西村　浩子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "喜入　暁",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -56,21 +56,21 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "大学での学びに必要な知識、技能、協調性、主体性などの育成を目指す入門的な科目である。あわせて、大学生活を送る上で必要な生活習慣を形成することや、将来に向けた学生生活のビジョンを構想することも目指す。\n\n【到達目標】\n(ⅰ)大学生として必要な生活習慣や学習習慣を身につけることができる。\n(ⅱ)大学で求められる学習のあり方を学び、大学生として必要なスキルを習得・活用することができる。\n(ⅲ) 他者と協働して社会性を育むとともに、進路の実現に向けて大学で4年間学ぶ見通しを立てることができる。",
+    "objectives": "大学での学びに必要な知識、技能、協調性、主体性などの育成を目指す入門的な科目である。あわせて、大学生活を送る上で必要な生活習慣を形成することや、将来に向けた学生生活のビジョンを構想することも目指す。\n\n【到達目標】\n(ⅰ)大学生として必要な生活習慣や学習習慣を身につけることができる。\n(ⅱ)大学で求められる学習のあり方を学び、大学生として必要なスキルを習得・活用することができる。\n(ⅲ) 他者と協働して社会性を育むとともに、進路の実現に向けて大学で4年間学ぶ見通しを立てることができる。",
     "overview": "この授業では、大学での学びに必要な基本的な技術・作法（アカデミックスキル）の習得・向上を目指します。こうした力は2年次以降のPBL（課題発見・解決型の学習）による学びの基礎となるのみならず、4年間の学生生活の基盤となります。一部の時間については、講演会への参加や学外でのボランティア活動などで代替する場合があります。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "アカデミック・スキルズ　大学生のための知的技法入門（第3版）",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "湯川武, 横山千晶, 近藤明彦",
             "publisher": "慶應義塾大学出版会",
             "price": 1100,
@@ -79,7 +79,7 @@
         },
         {
             "title": "ピア活動で身につける　アカデミック・スキル入門",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "伊藤奈賀子, 河邊弘太郎, 坂井美日",
             "publisher": "有斐閣",
             "price": 2530,
@@ -87,27 +87,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン、筆記用具",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、筆記用具",
         "other": "必要に応じて授業資料を配布して授業を行います。なお、この科目は再履修者向けクラスですので、1年生が履修することはできません。"
     },
-    "evaluation_criteria": "以下の方法によって、3点の到達目標を達成したかどうかを評価する。\n①提出されたレポートの質と完成までの取り組み状況（25%）\n②プレゼンテーション大会等での発表とそれに向けた取り組み状況（25%）\n③授業の一環として行われる他の学生等との協働学習への取り組み状況（50%）\n※③は「その他」評価に該当。おもに授業中の学生の活動を教員が観察することで評価する。",
+    "grading_criteria": "以下の方法によって、3点の到達目標を達成したかどうかを評価する。\n①提出されたレポートの質と完成までの取り組み状況（25%）\n②プレゼンテーション大会等での発表とそれに向けた取り組み状況（25%）\n③授業の一環として行われる他の学生等との協働学習への取り組み状況（50%）\n※③は「その他」評価に該当。おもに授業中の学生の活動を教員が観察することで評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 25,
-        "発表・実技": 25,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 25,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "この講義は1年間実施されます。「ホームルーム」のような雰囲気の中で、大学での学びに必要な基礎知識やアカデミックスキルを修得しましょう。\n\n【事前・事後学習について】\n授業の前後に、予習・復習を行ってください（合計240分以上）。授業外での課題を課す場合は、それに取り組んでください。",
+    "teacher_message": "この講義は1年間実施されます。「ホームルーム」のような雰囲気の中で、大学での学びに必要な基礎知識やアカデミックスキルを修得しましょう。\n\n【事前・事後学習について】\n授業の前後に、予習・復習を行ってください（合計240分以上）。授業外での課題を課す場合は、それに取り組んでください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーションと自己紹介\n大学の沿革や施設を学ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "大学での学びの理解\n４年間の目標設定、１年間の目標設定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "学習技能の育成（１）\n聞く・読む①：受講のしかた、テキストを読む、大意をつかむ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "学習技能の育成（２）\n演習：興味のある話題を自分で見つけ（例を２つ、自由１つ設定）、長文を読み、文章で概要をまとめる練習、文語体の文章の書き方練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "学習技能の育成（３）\n学生の良くない書き方の指摘\n書き方の方法解説、ビジネス文書の書き方\n演習：学生毎の文章の書きなおし",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "学習技能の育成（４）\n図書館ツアー 図書館利用法\nインターネット上の情報収集",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "学習技能の育成（５）\nレポートの書き方講義\n演習：テーマ選択のための検索",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "学習技能の育成（６）\n論理的思考、クリティカルシンキング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "学習技能の育成（７）\nグループディスカッション①：ディスカッションの目的の理解",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "学習技能の育成（８）\nグループディスカッション②：ディスカッションの方法論の修得",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -281,9 +281,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "学習技能の育成（９）\nグループディスカッション③：テーマ別ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -299,9 +299,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "学習技能の育成（10）\n提出したレポートのレビュー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -316,9 +316,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "学習技能の育成（11）\nレポート発表①：前半チームによる発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "学習技能の育成（12）\nレポート発表②：後半チームによる発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期のふりかえり\n1年間の目標の中間評価\n夏期休暇中の行動計画を立てる\n（夏期課題ブックレポート）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -370,9 +370,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期オリエンテーション\n夏期休暇のふりかえり\n後期の履修計画\nブックレポートの発表準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -388,9 +388,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "ブックレポートの発表（１）\n前半チーム発表とピアレビュー",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -406,9 +406,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "ブックレポートの発表（２）\n後半チーム発表とピアレビュー",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -424,9 +424,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "プレゼンテーション（１）\n準備編①：発表テーマの検討、グループ編成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -442,9 +442,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "プレゼンテーション（２）\n準備編②：発表の構成の検討、情報収集の仕方、情報収集",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -460,9 +460,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "プレゼンテーション（３）\n準備編③：発表原稿の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -478,9 +478,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "プレゼンテーション（４）\n準備編④：発表資料（PPT）・配布資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -496,9 +496,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "プレゼンテーション（５）\n準備編⑤：リハーサル、プログラムに載せる要旨を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -514,9 +514,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "プレゼンテーション（６）\n準備編⑥：質疑応答の仕方、模擬発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -532,9 +532,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "プレゼンテーション（７）\n実施編①：プレゼンテーション大会・予選",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -550,9 +550,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "プレゼンテーション（８）\n実施編②：プレゼンテーション大会・決勝",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -568,9 +568,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "プレゼンテーション（９）\n大会の振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -586,9 +586,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "キャリア教育（１）\n就職が決まった先輩の話を聞く",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -604,9 +604,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "キャリア教育（２）\n自身の将来のキャリアを構想する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -621,9 +621,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "振り返りレポートの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -639,6 +639,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

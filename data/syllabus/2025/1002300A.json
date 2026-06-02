@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-04T05:55:09Z",
+    "fetched_at": "2025-04-04T05:55:09Z",
     "name_ja": "社会学",
     "name_en": "Sociology",
     "syllabus_number": "1002300A",
     "course_number": "11-1-13-21-01、21-1-13-21-01、22-1-13-21-01、31-1-13-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -12,18 +12,18 @@
         "人間健康科学部 看護学科",
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "稲垣　円",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -31,12 +31,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①社会学の基本的な理論と概念について理解する。\n②身近な事例への知的好奇心を醸成する。\n③現代の社会問題や生活問題について理解し、深く洞察する力を身に付ける",
+    "objectives": "【到達目標】\n①社会学の基本的な理論と概念について理解する。\n②身近な事例への知的好奇心を醸成する。\n③現代の社会問題や生活問題について理解し、深く洞察する力を身に付ける",
     "overview": "社会とは人と人の関わり合いの連なりである。私たちの生活は、社会によって成り立ち、支えられている。その反面、社会は差別や排除などによって一部の人々の生活や生存を脅かすこともある。私たちは、今よりも少しでも良い社会につくり変えていくために社会のあり方について問い続けなければならず、問い続けるためにはまず社会にどのようなしくみが存在するのかを理解する必要がある。本授業では、社会学に関する入門的知識を学ぶ。社会学が何を探求しているのか、また社会学の基本的な理論と概念について学び、それらを基に、現実の社会問題にアプローチする力が身につくことを目指す。本授業を通して、社会学の理論と概念を理解し説明できるようになること、ならびに、今日の社会について社会学的視点から批判的に考えることができるようになることを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -47,28 +47,28 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "特定の教科書は指定せず、授業中に配付する資料を中心に進めていきます。",
         "other": "PCを持参してください。"
     },
-    "evaluation_criteria": "リフレクション（振り返り）の提出、授業中に行うワークへの参加、および期末試験で評価する。",
+    "grading_criteria": "リフレクション（振り返り）の提出、授業中に行うワークへの参加、および期末試験で評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "授業計画は進捗によって変更することがあります。\n（第8回はオンデマンドでの授業を予定しています）\n資料は授業後に提供しますが、口頭での説明の全てが記載されているわけではありません。授業中に気になることはメモを取り整理しておきましょう。",
+    "teacher_message": "授業計画は進捗によって変更することがあります。\n（第8回はオンデマンドでの授業を予定しています）\n資料は授業後に提供しますが、口頭での説明の全てが記載されているわけではありません。授業中に気になることはメモを取り整理しておきましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：社会学とはどういう学問か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "行為・役割・社会化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "相互作用分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "集団・組織・官僚制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ネットワークとソーシャルキャピタル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "家族（1）家族の諸形態",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "家族（2）家族の現在",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ジェンダ―と多様な性のあり方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "階級と階層（1）序列を伴う差異",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "階層と階級（2）社会移動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "逸脱と社会問題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "社会学にとっての「都市」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "町内会と非営利組織",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "社会調査（1）社会調査とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "社会調査（2）調査とデータ分析の手法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,6 +216,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

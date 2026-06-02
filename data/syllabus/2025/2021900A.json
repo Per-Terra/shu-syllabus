@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:00:48Z",
+    "fetched_at": "2025-04-04T06:00:48Z",
     "name_ja": "CAD入門",
     "name_en": "Introduction to CAD",
     "syllabus_number": "2021900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "児玉　満",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,20 +26,20 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "CADソフトの基本的な操作だけでなく、建築の基礎知識・基本的な構造・その成り立ちを理解し、図面をトレースする力が身に付きます。\n（ⅰ）図面の理解\n（ⅱ）CADソフトの基本操作\n（ⅲ）図面の作成",
+    "objectives": "CADソフトの基本的な操作だけでなく、建築の基礎知識・基本的な構造・その成り立ちを理解し、図面をトレースする力が身に付きます。\n（ⅰ）図面の理解\n（ⅱ）CADソフトの基本操作\n（ⅲ）図面の作成",
     "overview": "CADソフトを使った図面の作成は様々な分野、業界で行われています。現在、手描きで図面を作成することはほとんどなくなっており、CADによる製図が必須です。本講義では、CADの概念と基本的な使い方を学び、建築CAD検定3級程度の技能を身に付けます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "2024年度版 建築CAD検定試験 公式ガイドブック",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "鳥谷部 真、 一般社団法人全国建築CAD連盟",
             "publisher": "株式会社エクスナレッジ",
             "price": 3520,
@@ -47,31 +47,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": "なし"
     },
-    "evaluation_criteria": "（ⅰ）図面の理解　（ⅱ）CADソフトの基本操作　（ⅲ）図面の作成\n上記（ⅰ）～（ⅲ）に関する理解度を実技60％、課題40％で評価する。",
+    "grading_criteria": "（ⅰ）図面の理解　（ⅱ）CADソフトの基本操作　（ⅲ）図面の作成\n上記（ⅰ）～（ⅲ）に関する理解度を実技60％、課題40％で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "図面を描く事は難しくありません。「CAD演習」を学ぶことでさらに表現の幅が広がりますので、併せての履修をおすすめします。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
+    "teacher_message": "図面を描く事は難しくありません。「CAD演習」を学ぶことでさらに表現の幅が広がりますので、併せての履修をおすすめします。\nまた、本授業を受講するにあたり、あらかじめ与えられた資料等に目を通しておくこと（予習30分程度）、授業後には授業で学んだことを確認し、課題に取り組んでください（復習30分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "建築の基礎知識",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "CADのインターフェースの理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "建築図面の見方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "様々な図形の描き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "平面図を描く練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "階段平面図を描く①\n階段平面図の説明とその描き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "階段平面図を描く②\n建築CAD検定３級程度の階段平面図を描く練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "通り芯・寸法・通り芯記号図面を描く①\n通り芯・寸法・通り芯記号の説明とその描き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "通り芯・寸法・通り芯記号図面を描く②\n建築CAD検定３級程度の通り芯・寸法・通り芯記号図面を描く練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "柱・壁・間仕切壁図面を描く①\n柱・壁・間仕切壁の説明とその描き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "柱・壁・間仕切壁図面を描くを描く②\n建築CAD検定３級程度の柱・壁・間仕切壁図面を描く練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "壁と窓図面を描く①\n壁と窓の説明とその描き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "壁と窓図面を描く②\n建築CAD検定３級程度の壁と窓図面を描く練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-04T06:05:51Z",
+    "fetched_at": "2025-04-04T06:05:51Z",
     "name_ja": "セクシュアルリプロダクティブ看護方法",
     "name_en": "Sexual and Reproductive Health Nursing　Methods",
     "syllabus_number": "2117100A",
     "course_number": "22-2-23-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "大平　光子",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "渡邊　淳子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -31,12 +31,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1．セクシュアル・リプロダクティブ・ヘルス/ライツの観点でライフサイクル各期に必要な健康支援について説明できる。\n2．妊産褥婦及び胎児・新生児の身体的健康状態のアセスメントができる。\n3．妊産婦及び新生児と家族に対する心理社会的健康状態のアセスメントができる。\n4．妊娠分分娩産褥・新生児期の身体的健康の正常からの逸脱について説明できる。\n4．妊娠分娩産褥・子育て期に生じやすい心理社会的健康の正常からの逸脱について説明できる。\n5．妊娠分娩産褥・子育て期にある女性・子ども・家族の看護及び社会的支援について説明できる。\n6．妊産褥婦、新生児及び家族に対する看護方法について説明できる。\n7．子育て世代包括支援、家庭・地域社会での育児の支援について説明できる。\n8．事例の看護過程を展開し、周産期における母親・子ども・父親/パートナーとその家族の特性や経時的な変化のアセスメントおよび全体像の把握、対象に合わせた看護計画の立案ができる。\n9．特別な支援を必要とする妊産褥婦と新生児への支援における多職種連携・協働における看護師の役割について議論できる。",
+    "objectives": "1．セクシュアル・リプロダクティブ・ヘルス/ライツの観点でライフサイクル各期に必要な健康支援について説明できる。\n2．妊産褥婦及び胎児・新生児の身体的健康状態のアセスメントができる。\n3．妊産婦及び新生児と家族に対する心理社会的健康状態のアセスメントができる。\n4．妊娠分分娩産褥・新生児期の身体的健康の正常からの逸脱について説明できる。\n4．妊娠分娩産褥・子育て期に生じやすい心理社会的健康の正常からの逸脱について説明できる。\n5．妊娠分娩産褥・子育て期にある女性・子ども・家族の看護及び社会的支援について説明できる。\n6．妊産褥婦、新生児及び家族に対する看護方法について説明できる。\n7．子育て世代包括支援、家庭・地域社会での育児の支援について説明できる。\n8．事例の看護過程を展開し、周産期における母親・子ども・父親/パートナーとその家族の特性や経時的な変化のアセスメントおよび全体像の把握、対象に合わせた看護計画の立案ができる。\n9．特別な支援を必要とする妊産褥婦と新生児への支援における多職種連携・協働における看護師の役割について議論できる。",
     "overview": "本授業では、ライフサイクル各期のセクシュアル・リプロダクティブ・ヘルス/ライツを基盤とした女性、子ども、パートナーを中心とした家族の健康に焦点を当て、対象者がより健康な生活を送るための支援を学ぶ。本授業を通して、ライフサイクル各期のセクシュアリティの多様性を踏まえたセクシュアル・リプロダクティブ看護について理解する。また、マタニティサイクルにある対象者を全人的に捉え、身体的（生理的）、心理・社会的変化と生活への適応、健康逸脱時の援助及び妊産褥婦および新生児と家族の身体的・心理社会的状況に関する看護実践に必要な基礎的知識・技術について理解する。本授業を通して、既習の知識、技術を活用し、心身の変化および新しい親子関係・家族関係が生じることによる役割の変化に適応していく過程を支援する根拠に基づく具体的な看護方法を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP2",
         "看護学科DP3",
         "看護学科DP4",
@@ -45,7 +45,7 @@
     "textbooks": [
         {
             "title": "看護学テキストNiCE　母性看護学Ⅱ　第3版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "編著：大平光子　井上尚美　大月恵理子　佐々木くみ子　林　ひろみ",
             "publisher": "南江堂",
             "price": null,
@@ -53,30 +53,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "セクシュアルリプロダクティブ看護学概論"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "模擬事例展開振り返りレポート　20%　筆記試験80％",
+    "grading_criteria": "模擬事例展開振り返りレポート　20%　筆記試験80％",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "授業では1年次に学習したセクシュアル・リプロダクティブ・ヘルス/ライツの概念及び対象理解、看護実践に必要な理論と概念を活用します。また、模擬事例展開では修得した知識を模擬事例の展開で活用した実践基盤として、ライフサイクル各期及びマタニティサイクルにある対象者に対する看護の実際を演習を通して学びます。",
+    "teacher_message": "授業では1年次に学習したセクシュアル・リプロダクティブ・ヘルス/ライツの概念及び対象理解、看護実践に必要な理論と概念を活用します。また、模擬事例展開では修得した知識を模擬事例の展開で活用した実践基盤として、ライフサイクル各期及びマタニティサイクルにある対象者に対する看護の実際を演習を通して学びます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：ライフサイクルにおけるセクシュアリティの発達と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：幼児期～思春期における包括的性教育",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：プレコンセプションケア、性感染症の予防",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：中絶（自然流産を含む）ケア",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：不妊治療",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：更年期の心身の変化とヘルスプロモーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "セクシュアル・リプロダクティブ・ヘルス/ライツにおける健康支援：暴力が健康に及ぼす影響　―親密な間柄における暴力/子ども虐待―",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "マタニティサイクルの看護過程の特徴\nウェルネス思考、ヘルスプロモーション、問題解決型思考",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "妊婦と胎児の生理的経過、健康状態のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "妊娠期の心理社会的変化、親子・家族になっていく過程のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "妊婦・胎児の健康状態のアセスメントと看護\n（事例に基づくケアシミュレーション）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ハイリスク妊婦（切迫流早産）と家族のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ハイリスク妊婦（妊娠糖尿病）と家族のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "産婦と胎児の健康状態及び正常分娩経過のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "産婦と家族の心理社会的特徴と看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "産婦・胎児と家族の支援に必要な看護の実際\n（事例に基づくケアシミュレーション）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -240,18 +240,18 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "帝王切開を受ける/受けた女性の看護",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "渡邊淳子",
                 "（ゲストスピーカー）"
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "出生直後の新生児の子宮外生活適応のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -259,9 +259,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "新生児の子宮外生活適応のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "新生児の子宮外生活適応のアセスメントと看護の実際\n（事例に基づくケアシミュレーション）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -281,9 +281,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "褥婦の身体的健康状態のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -291,9 +291,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "母乳育児支援、母子（親子）相互作用・親子関係形成の支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -301,9 +301,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "褥婦の心理社会的健康状態のアセスメントと看護\n親・親子になっていく過程のアセスメントと看護",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -311,9 +311,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "褥婦の健康状態のアセスメントと看護の実際\n（事例に基づくケアシミュレーション）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -323,9 +323,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "母乳育児支援の実際\n（事例に基づくケアシミュレーション）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "ペリネイタルロスを経験した親・家族の支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "心理社会的に特別な支援が必要な親子・家族の支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "家庭・地域社会での生活適応への支援\n産後ケア、子育て世代包括支援（妊娠期からの切れ目ない支援）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "家庭・地域社会での育児支援の実際・社会支援の利活用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,9 +375,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "セクシュアル・リプロダクティブ・ヘルス看護に関する総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -387,6 +387,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "助産師・看護師として実務経験がある教員が担当する。"
+    "credit_auditing": false,
+    "practitioner_info": "助産師・看護師として実務経験がある教員が担当する。"
 }

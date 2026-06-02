@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T06:02:41Z",
+    "fetched_at": "2025-04-04T06:02:41Z",
     "name_ja": "運動生理学",
     "name_en": "Exercise Physiology",
     "syllabus_number": "2034500A",
     "course_number": "21-2-22-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,12 +29,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. スポーツや身体活動によって適応する身体機能について理解できる。\n2. 骨格筋の種類、特徴とトレーニング適応について理解できる。\n3. 運動時の呼吸・循環応答とトレーニング適応について理解できる。\n4. 運動における神経系や内分泌系の役割について理解できる。",
+    "objectives": "1. スポーツや身体活動によって適応する身体機能について理解できる。\n2. 骨格筋の種類、特徴とトレーニング適応について理解できる。\n3. 運動時の呼吸・循環応答とトレーニング適応について理解できる。\n4. 運動における神経系や内分泌系の役割について理解できる。",
     "overview": "運動生理学は、スポーツや身体活動によって身体にどのような応答および適応が生じるのか、その現象と仕組みを研究する学問である。本講義では、筋の形態的・機能的な特徴の把握、運動時の代謝調節、ホルモン分泌や神経系・呼吸・循環調節など、様々な観点から運動時の生理的な調節機序を学修する。これにより、運動やトレーニングによる骨格筋や呼吸循環器の適応効果などについて理解を深めることが出来る。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP3",
         "スポーツ健康科学科DP2",
         "人間コミュニケーション学科DP2",
@@ -42,10 +42,10 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "健康運動指導士養成講習会テキスト上・下",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "公益財団法人健康・体力づくり事業財団",
             "publisher": "株式会社　南江堂",
             "price": null,
@@ -54,7 +54,7 @@
         },
         {
             "title": "Reference Book",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "公益財団法人日本スポーツ協会",
             "publisher": "",
             "price": null,
@@ -62,32 +62,32 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "解剖学",
             "生理学"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "参考資料は、授業中に適時配布する。"
     },
-    "evaluation_criteria": "筆記試験50％、小テスト40％、学習状況10％をもとに総合的に評価する。",
+    "grading_criteria": "筆記試験50％、小テスト40％、学習状況10％をもとに総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 50,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "運動生理学は、自分の身体を理解することから始まります。運動生理学の知見が深まるほど、身体への働きかけの重要性が理解出来ます。特に骨や筋の名称はしっかりと覚えて下さい。 \n【事前学習・事後学習の時間】あわせて90分程度。 \n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "運動生理学は、自分の身体を理解することから始まります。運動生理学の知見が深まるほど、身体への働きかけの重要性が理解出来ます。特に骨や筋の名称はしっかりと覚えて下さい。 \n【事前学習・事後学習の時間】あわせて90分程度。 \n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション（授業概要の説明等）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "細胞の構造と機能",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "骨格系と運動（骨の種類と運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "筋系と運動（筋の構造と機能）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "神経系と運動（神経組織と脳）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "呼吸器系と運動（呼吸器官の構造と呼吸機能）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "感覚系と運動（受容器と感覚）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "内分泌系と運動（内分泌腺とホルモン） \n血液と運動（血液の組成と血球細胞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "心臓の構造と機能、血管系と運動（循環と機能）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "運動中の基質・エネルギー代謝",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "免疫系と運動",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "消化器系と運動",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "環境と運動（高温下での運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "環境と運動（低酸素下（高地）での運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "成長と機能変化（発育発達期の身体的特徴、心理的特徴）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -250,6 +250,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

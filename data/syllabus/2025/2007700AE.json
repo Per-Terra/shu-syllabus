@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:06Z",
+    "fetched_at": "2025-04-04T05:59:06Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AE",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "専門研究Ⅰで作成した研究計画に基づき、研究成果物の完成を目指すことを目標とする。\n卒業研究への取り組みを通して情報収集力や論理的思考力、課題解決能力、プレゼンテーション能力を養う。加えて、福祉課題の解決に寄与しようとする意識を醸成する。",
+    "objectives": "専門研究Ⅰで作成した研究計画に基づき、研究成果物の完成を目指すことを目標とする。\n卒業研究への取り組みを通して情報収集力や論理的思考力、課題解決能力、プレゼンテーション能力を養う。加えて、福祉課題の解決に寄与しようとする意識を醸成する。",
     "overview": "本科目は、福祉課題に関するテーマを取り上げ、自らが立てた研究構想・研究計画に基づき卒業研究の成果物の完成を目指す授業である。\n授業では、卒業研究Ⅰで作成した研究計画書にもとづいて研究活動に取り組み、研究指導を繰り返しながら、成果物の完成を目指す。研究成果は発表会を通じ発信することとする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
@@ -39,7 +39,7 @@
     "textbooks": [
         {
             "title": "特定の図書は指定せず授業中に資料を配布します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -47,10 +47,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "参考図書は講義内で適時案内します。",
-            "year": 0,
+            "publication_year": null,
             "author": "-",
             "publisher": "-",
             "price": 0,
@@ -58,27 +58,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "卒業研究成果物（70％）卒業研究の成果発表（30％）",
+    "grading_criteria": "卒業研究成果物（70％）卒業研究の成果発表（30％）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 70
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 70
     },
-    "message_from_teachers": "専門ゼミⅠで作成した研究計画書をもとに、卒業研究を執筆し、成果物としてまとめる。成果については発表会の開催を通じ発信する。\n予習・復習については、次回の授業内容を参照し、必要な課題に取組むこと(予習120分)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと（復習120分）。",
+    "teacher_message": "専門ゼミⅠで作成した研究計画書をもとに、卒業研究を執筆し、成果物としてまとめる。成果については発表会の開催を通じ発信する。\n予習・復習については、次回の授業内容を参照し、必要な課題に取組むこと(予習120分)。授業後は、授業で説明した資料を再度確認し、内容を整理しておくこと（復習120分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "卒業研究の進め方と執筆スケジュール",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "研究構想と研究計画の発表①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "研究構想と研究計画の発表②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "研究構想と研究計画の発表③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "研究の実施の準備①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "研究の実施の準備②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "研究の実施（文献・資料整理と収集）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "研究の実施（文献・資料整理と収集）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "研究の実施（文献・資料整理と収集）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "研究活動（はじめにの執筆）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "研究活動（はじめにの執筆）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "研究活動（はじめにの執筆）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "研究活動（研究方法、研究倫理の執筆）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "研究活動（研究方法、研究倫理の執筆）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "研究活動（研究結果の執筆）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "研究活動（研究結果の執筆）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "研究活動（研究結果の執筆）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "卒業研究（中間発表）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -256,9 +256,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "研究活動（分析と考察の執筆）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "研究活動（分析と考察の執筆）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -276,9 +276,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "研究活動（分析と考察の執筆）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -286,9 +286,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "研究活動（研究の限界と今後の課題の執筆）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "研究活動（研究の限界と今後の課題の執筆）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "本論文提出にむけた修正作業",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -316,9 +316,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "卒業研究概要版の作成①（発表要旨の作成）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "卒業研究概要版の作成②（発表要旨の作成）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -336,9 +336,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "成果発表に向けた準備①（スライド資料作成）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -346,9 +346,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "成果発表に向けた準備②（スライド資料作成）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -356,9 +356,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒業研究（研究成果の発表会）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -366,9 +366,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "振り返りとまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -376,6 +376,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

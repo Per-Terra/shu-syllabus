@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:04:53Z",
+    "fetched_at": "2025-04-04T06:04:53Z",
     "name_ja": "経済史Ⅱ",
     "name_en": "Economic HistoryⅡ",
     "syllabus_number": "2107900A",
     "course_number": "11-1-26-22-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "成績認定用教員",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【授業のテーマ】\nグローバル経済の生成と発展：比較史の視点を利用しつつ\n【到達目標】\n1.知識：各国経済の歴史的歩み、グローバル経済の生成と発展について理解できること\n2.思考：歴史的資料を講義で利用した知識を基に読み取り、深い思考ができること\n3.表現力：課題や試験において適切な文章で自分の意見を記述できること\n4.その他:経済史に関する興味関心を高め、主体的に学ぶことができる",
+    "objectives": "【授業のテーマ】\nグローバル経済の生成と発展：比較史の視点を利用しつつ\n【到達目標】\n1.知識：各国経済の歴史的歩み、グローバル経済の生成と発展について理解できること\n2.思考：歴史的資料を講義で利用した知識を基に読み取り、深い思考ができること\n3.表現力：課題や試験において適切な文章で自分の意見を記述できること\n4.その他:経済史に関する興味関心を高め、主体的に学ぶことができる",
     "overview": "本講義は、基本的に「経済史Ⅰ」を履修した学生を対象とするものである。「経済史Ⅰ」で経済史の基本概念を学んだことを前提とし、「経済史Ⅱ」では、具体的な事象を学んでいく。講義では、比較史の手法をとりいれ、同じ事象でも時代や場所が違うとどのように起こるのかについて学んでいく。現在高校教育で取り入れられている「歴史総合」の視点にもつながっていくが、世界を俯瞰するような視点を身につける。また、本講義では最新の経済史をめぐる論点をとりあげることで、最新の情報についても学んでもらう。「経済史Ⅰ」と同様、考える課題を多く出すことで、知識の定着を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "経済経営学科DP1",
@@ -40,10 +40,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "グローバル経済の歴史",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "河﨑　信樹、村上　衛、山本　千映",
             "publisher": "有斐閣アルマ",
             "price": 3080,
@@ -52,7 +52,7 @@
         },
         {
             "title": "西洋経済史",
-            "year": 2010,
+            "publication_year": 2010,
             "author": "奥西　孝至、鴋澤　歩、堀田　隆司、山本　千映",
             "publisher": "有斐閣アルマ",
             "price": 2530,
@@ -60,29 +60,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "経済史Ⅰ"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "経済学部の学生は、「経済史Ⅰ」及び「経済史Ⅱ」の両方の単位を修得することで、「経済史（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "毎回、講義後に課題を課すと同時に、学期末に試験を行い評価します。受講者数によっては多少変化することがあるため、講義の最初の回に声明する。",
+    "grading_criteria": "毎回、講義後に課題を課すと同時に、学期末に試験を行い評価します。受講者数によっては多少変化することがあるため、講義の最初の回に声明する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "講義内容は進度に応じて変化することがありますので承知しておいてください。\n本講義は時間・地理ともに非常に幅広い内容を取り扱います。\n講義を聞くだけでは十分な理解にはつながりませんので、参考図書や講義中に紹介する文献を利用して毎回1時間程度の復習を期待しています。",
+    "teacher_message": "講義内容は進度に応じて変化することがありますので承知しておいてください。\n本講義は時間・地理ともに非常に幅広い内容を取り扱います。\n講義を聞くだけでは十分な理解にはつながりませんので、参考図書や講義中に紹介する文献を利用して毎回1時間程度の復習を期待しています。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "「グローバル化以前の世界」\n16世紀以前の世界経済の概要について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「中世の西洋経済」\n中世社会の都市と農村の特徴について確認することにします",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "「グローバル化の開始」\nスペインやポルトガルの世界進出とその影響について説明します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "「17世紀の危機の時代」\nオランダの覇権の衰退、その時期の世界各地の経済社会について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "「産業革命をめぐる論争」\n産業革命という現象がどのように理解されてきたのか、学説史を検討します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "「様々な工業化の経路」\nイギリス以外の国々の近代化・工業化について検討します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "「合衆国の独立と発展」\n合衆国の独立から南北戦争までの社会経済的歩みを概観します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "「グローバル化を支えるインフラ」\n19世紀の世界貿易の拡大を支えた制度・インフラについて検討します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "「第二次産業革命の展開」\nイギリスの相対的な地位の低下を中心に、新しい技術の登場の影響などを学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "「植民地体制の変容」\n政治的独立を果たしたラテンアメリカ、他方でヨーロッパの進出にさらされたアジアを比較しつつ、19世紀後半の状況について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "「世界恐慌と戦争」\n第一次世界大戦後の不安定な世界経済の特徴、そして第二次大戦後のグローバル経済の再編について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "「第二次大戦後の西洋経済」\n戦後の西洋経済が市場機能への疑念を持って再興し、現代のEUへとつながっていくことについて学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "「グローバル化と開発」\n20世紀の途上国の状況を中心に確認していきます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "「グローバル化の加速」\n20世紀末以降のグローバル化の特徴について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "「講義のまとめ」\nこれまでの学びを総括します",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -230,6 +230,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

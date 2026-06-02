@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:03:58Z",
+    "fetched_at": "2025-04-04T06:03:58Z",
     "name_ja": "VBAプログラミング",
     "name_en": "VBA Programming",
     "syllabus_number": "2100700A",
     "course_number": "31-1-21-33-07",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "呉　靭",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -27,38 +27,38 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "マクロの記録が理解でき、操作できる。 \n\n自動記録されたマクロの簡単なカスタマイズができる。 \n\n自動記録されたマクロを汎用性の高いサブルーチンにカスタマイズできる。 \n\n簡単な実用的なプログラムが作成できる。",
+    "objectives": "マクロの記録が理解でき、操作できる。 \n\n自動記録されたマクロの簡単なカスタマイズができる。 \n\n自動記録されたマクロを汎用性の高いサブルーチンにカスタマイズできる。 \n\n簡単な実用的なプログラムが作成できる。",
     "overview": "VBA(Visual Basic for Application)はWordやExcelなどのMicrosoft Office製品に搭載されているプログラミング言語で、Excel VBAやWord VBAなどがある。VBAは手作業の過程をプログラムソースコードに自動的に落とす「マクロ」機能により手作業の自動化が図れることで、広く使われている。本授業では、主にExcel VBAを扱う。VBAプログラミングの基本的な事項を学んだうえで、自動記録されたソースコードを汎用性の高いサブルーチンにカスタマイズする技法を習得していく。CSVやWord、Webとの連携についても学び、ビジネス現場の業務効率化に役立つプログラムを作成できるようになることを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC必携",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC必携",
         "other": ""
     },
-    "evaluation_criteria": "授業への取り組み30%、宿題50%、期末課題20%",
+    "grading_criteria": "授業への取り組み30%、宿題50%、期末課題20%",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 70,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 70,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "授業前に、授業資料を配布します(配布方法は別途通知)。それを予習しておくこと。授業後は理解度確認のための宿題が出ますが、毎回の宿題を重視し、真剣に取り組むことを期待します。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "授業前に、授業資料を配布します(配布方法は別途通知)。それを予習しておくこと。授業後は理解度確認のための宿題が出ますが、毎回の宿題を重視し、真剣に取り組むことを期待します。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、マクロとは、本授業の目標",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Excelの使い方の復習、ファイル管理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "マクロの自動記録、マクロの実行、VBE",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "変数宣言、データ型、条件分岐",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "繰り返し処理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "セルの操作",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "配列、デバッグ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "VBAライブラリ、Windows API",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "外部ファイル(CSV、Word)との連携",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Webとの連携",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "データ集計ツールの作成１",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "データ集計ツールの作成２",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "データ集計ツールの作成３",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "データ集計ツールの作成４",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総合復習、期末課題の説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

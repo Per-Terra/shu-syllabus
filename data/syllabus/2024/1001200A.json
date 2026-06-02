@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:51:42Z",
+    "fetched_at": "2025-04-07T10:51:42Z",
     "name_ja": "日本史Ⅰ",
     "name_en": "Japanese History I",
     "syllabus_number": "1001200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小林　啓祐",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本科目は古代から近世期にかけての日本の歴史を学ぶものである。同期間は「日本文化のあけぼの」から「幕藩体制の確立」までを学ぶものであり、いわば日本が国家としてどう成り立っていくかを学ぶものであると言える。天皇制や武家社会といったキーワードも扱う時代によって大きく意味も変わってくる。本科目では、歴史事象を対象としながら、その意味を「考える」ということを重視する。本科目を通して、歴史の因果関係を精査し、理解することで、現代社会における問題解決力の育成を目指す。\n\n【到達目標】\n①古代から近世期にかけての日本が国家としてどのように成立していったのかその概要を理解し、説明できる。\n②武家社会の特徴およびその変化の過程について理解し、説明できる。",
+    "objectives": "本科目は古代から近世期にかけての日本の歴史を学ぶものである。同期間は「日本文化のあけぼの」から「幕藩体制の確立」までを学ぶものであり、いわば日本が国家としてどう成り立っていくかを学ぶものであると言える。天皇制や武家社会といったキーワードも扱う時代によって大きく意味も変わってくる。本科目では、歴史事象を対象としながら、その意味を「考える」ということを重視する。本科目を通して、歴史の因果関係を精査し、理解することで、現代社会における問題解決力の育成を目指す。\n\n【到達目標】\n①古代から近世期にかけての日本が国家としてどのように成立していったのかその概要を理解し、説明できる。\n②武家社会の特徴およびその変化の過程について理解し、説明できる。",
     "overview": "基本的に教科書とワークシートを中心に進めていくが、適宜学生と対話しながら進めていく。毎回課題（講義内課題、講義時間外課題）が出るので、必ず出すこと。5回に1回の頻度で1000字以上の記述を必要とする課題を出すので、全部出す覚悟を持って受けること。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP4"
@@ -40,7 +40,7 @@
     "textbooks": [
         {
             "title": "『詳説 日本史研究』",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "佐藤信他等編",
             "publisher": "山川出版",
             "price": 2381,
@@ -48,30 +48,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "外国史Ⅰ"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "講義内課題（小テスト）、講義時間外レポート（レポート）で評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
+    "grading_criteria": "講義内課題（小テスト）、講義時間外レポート（レポート）で評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 70,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 30,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教科書の内容は膨大で、講義内ですべて取り扱うことはできません。特に、教職免許をとりたいと思っている学生は、講義時間外に予習1時間、復習1時間を想定して教科書内容を理解するように努めること。また、課題を通して歴史事象の理解を深めること。",
+    "teacher_message": "教科書の内容は膨大で、講義内ですべて取り扱うことはできません。特に、教職免許をとりたいと思っている学生は、講義時間外に予習1時間、復習1時間を想定して教科書内容を理解するように努めること。また、課題を通して歴史事象の理解を深めること。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n講義の進め方説明：「歴史とは何か」について説明します。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "【日本文化のあけぼの】農耕社会のもたらした変化について学びます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "【律令国家の形成】律令国家がもたらした変化について、および平城京の建設について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "【貴族政治と国風文化】摂関政治の特徴と当時存在感を出し始める武士について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "振り返り、フィードバック。中課題発表にあわせて、これまでの講義内容について振り返ります",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "【中世社会の成立】１　鎌倉幕府の成立と、そこに関わった武士たちの存在について学びます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "【中世社会の成立】２　鎌倉幕府にとって大きな影響を与えた蒙古襲来のインパクトについて学んでいきます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "【武家社会の成長】１　鎌倉幕府の終了、そして室町幕府の成立について学んでいきます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "【武家者会の成長】２　室町幕府の勢いが弱まるいっぽうで、勢力を増していく戦国大名の登場について学んでいきます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "振り返り、フィードバック。中課題発表にあわせて、これまでの講義内容について振り返ります",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "【幕藩体制の確立】江戸幕府が成立し、幕藩体制がしかれていきます。その意義について学んでいきます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "【幕藩体制の展開】前回学んだ幕藩体制下での経済成長、社会の変化について学んでいきます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "【幕藩体制の動揺】１　隆盛を極めたかに見えた江戸幕府ですが、ほころびもありました。幕藩体制の衰退過程について学んでいきます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "【幕藩体制の動揺】２　幕藩体制の終焉と黒船襲来のインパクトについて学んでいきます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "振り返り、フィードバック。中課題発表にあわせて、これまでの講義内容について振り返ります",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

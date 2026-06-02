@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:38Z",
+    "fetched_at": "2025-04-07T10:57:38Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EA",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "呉　贇",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "地域企業・団体からテーマと資金の提供を受けて実施された専門ゼミⅠでの経験と成果を踏まえて、4年間の学びの成果をまとめることを主な目的とします。成果物としての論文・プロジェクト報告書の作成を前提にし、文献調査、論文指導が中心となりますが、専門ゼミⅠで継続しているPBLプロジェクトにも関わっていただきます。\n【到達目標】\n①\t取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n②\t計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n③\t活動の成果を総括し、他者に向けて分かりやすく報告することができる。",
+    "objectives": "地域企業・団体からテーマと資金の提供を受けて実施された専門ゼミⅠでの経験と成果を踏まえて、4年間の学びの成果をまとめることを主な目的とします。成果物としての論文・プロジェクト報告書の作成を前提にし、文献調査、論文指導が中心となりますが、専門ゼミⅠで継続しているPBLプロジェクトにも関わっていただきます。\n【到達目標】\n①\t取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n②\t計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n③\t活動の成果を総括し、他者に向けて分かりやすく報告することができる。",
     "overview": "前期は関連文献の輪読、討論および3年生と一緒にPBL活動をします。後期は専門ゼミⅠで収集したデータをベースに、論文・プロジェクト報告書の執筆を行います。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -50,33 +50,33 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "経営学総論",
             "中小企業論"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①\t現状理解・課題発見、②課題解決、③活動の総括と報告について「学生に対する評価」の内容で評価する\n※「その他」は論文・報告書を指す",
+    "grading_criteria": "①\t現状理解・課題発見、②課題解決、③活動の総括と報告について「学生に対する評価」の内容で評価する\n※「その他」は論文・報告書を指す",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 60
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 60
     },
-    "message_from_teachers": "書くことは、自分の考えを明晰にするための重要な技能です。うまく書けるようになるまでは努力を重ねて練習しなければなりません。書く方法を伝授しますので、是非このゼミで充実した大学生活の思い出を記録しましょう。\n研究するための方法については『社会科学の考え方』（教員が用意する）を輪読します。毎回レジュメを用意したうえで発表してもらいます。",
+    "teacher_message": "書くことは、自分の考えを明晰にするための重要な技能です。うまく書けるようになるまでは努力を重ねて練習しなければなりません。書く方法を伝授しますので、是非このゼミで充実した大学生活の思い出を記録しましょう。\n研究するための方法については『社会科学の考え方』（教員が用意する）を輪読します。毎回レジュメを用意したうえで発表してもらいます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "ガイダンス／ゼミの方針、進め方などの説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "教科書輪読・議論／\n事例研究（１）：事例研究とは",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "教科書輪読・議論／\n事例研究（２）：事例の選び方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "教科書輪読・議論／\n事例研究（３）：事例の分析方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "教科書輪読・議論／\n横断的研究：定義・特性・方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "教科書輪読・議論／\n縦断的研究：定義・特性・方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "教科書輪読・議論／\nデータの分析（１）：データの処理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "教科書輪読・議論／\nデータの分析（２）：集計表と解析",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "教科書輪読・議論／\n書式：参照、脚注",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "論文のアプローチを考える／専門ゼミⅠのテーマを絞って、方法論を考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "先行研究のサーベイ／先行研究を検索し、文献リストを作る",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "先行研究のレビュー／先先行研究を精読し、先行研究の貢献、問題点を見出す",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "論文の構想、執筆計画についての議論／先行研究文野における自分の論文の位置付け、意義を考え",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "論文の骨子案作成／論文の章立て、内容を決める",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "論文の中間発表・議論・後期の目標／論文各章内容の妥当性、可能性を明確にする",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "論文準備状況の報告／夏休みに行ったデータ分析や、論文の執筆状況についてまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "序論の作成・議論／研究背景、問題提起、研究概要、予想される結果をまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,17 +244,17 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "序論の修正・議論／序論を修正",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "呉　贇"
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "第1章の作成・議論／第1章の執筆と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "第1章の修正・議論／第1章の修正と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "第2章の作成・議論／第2章の執筆と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -282,9 +282,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "第2章の修正・議論／第2章の修正と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -292,9 +292,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "第3章の作成・議論／第3章の執筆と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -302,9 +302,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "第3章の修正・議論／第3章の修正と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -312,9 +312,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "終章の作成・議論／終章の執筆と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -322,9 +322,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "終章の修正・議論／終章の修正と報告資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -332,9 +332,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "論文全体の議論／各章の論理的なつながりを確認する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -342,9 +342,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "論文の修正・第2稿の提出／修正意見に基づいて第2稿を作成する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "論文報告会／報告会で得たコメントに基づいて第2稿を修正する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "論文の最終チェック／誤字脱字、書式などをチェックして論文を完成させる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -372,6 +372,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

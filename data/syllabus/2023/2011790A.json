@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:06:07Z",
+    "fetched_at": "2024-08-08T01:06:07Z",
     "name_ja": "レクリエーション演習",
     "name_en": "Recreation exercise",
     "syllabus_number": "2011790A",
     "course_number": "05LS306",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "実技を通してコミュニケーション・ワークを理解し、実際のレクリエーション支援ができるようになる。また、対象者に合わせたレクリエーション・ワークのためのアレンジ法について理解を深める。",
+    "objectives": "実技を通してコミュニケーション・ワークを理解し、実際のレクリエーション支援ができるようになる。また、対象者に合わせたレクリエーション・ワークのためのアレンジ法について理解を深める。",
     "overview": "本授業は、レクリエーション論を踏まえ日常生活に不可欠なレクリエーション活動の支援者として必要なコミュニケーション能力を高めるためのプログラムを紹介する。人々の生きがいや健康づくり、地域づくりの支援者として基本的な活動や支援の方法、技術の演習解説をする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "主体性・多様性・協調性の養成"
@@ -39,7 +39,7 @@
     "textbooks": [
         {
             "title": "楽しさをとおした心の元気づくり～レクリエーション支援の理論と方法～",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "日本レクリエーション協会",
             "publisher": "日本レクリエーション協会",
             "price": null,
@@ -47,30 +47,30 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "レクリエーション論"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "(i) コミュニケーション・ワークを理解する\n(ii) 対象者に合わせたレクリエーション支援ができる\n(ⅲ) レクリエーションワークのアレンジ法について理解する",
+    "grading_criteria": "(i) コミュニケーション・ワークを理解する\n(ii) 対象者に合わせたレクリエーション支援ができる\n(ⅲ) レクリエーションワークのアレンジ法について理解する",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 50,
-        "ポートフォリオ": 20,
-        "その他": 10
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 50,
+        "portfolio": 20,
+        "other": 10
     },
-    "message_from_teachers": "講義形式で進めるが、個人的な作業やグループでの作業も行うので、積極的な参加が必要。また適宜、レポートや小テストを行って理解度を把握する。授業計画は授業の進行に応じて一部変更することがある。",
+    "teacher_message": "講義形式で進めるが、個人的な作業やグループでの作業も行うので、積極的な参加が必要。また適宜、レポートや小テストを行って理解度を把握する。授業計画は授業の進行に応じて一部変更することがある。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "「レクリエーション支援の方法①」\n信頼関係づくりの方法・ホスピタリティ\nホスピタリティの体験的理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「レクリエーション支援の方法②」\n信頼関係づくりの方法・ホスピタリティ\nホスピタリティの習得",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "「レクリエーション支援の方法③」\n良好な集団づくりの方法・アイスブレーキング\nアイスブレーキング・モデルの体験",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "「レクリエーション支援の方法④」\n良好な集団づくりの方法・アイスブレーキング\nアイスブレーキング効果を高める支援技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "「レクリエーション支援の方法⑤」\n自主的、主体的に楽しむ力を育む展開方法\nハードル設定の習得",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "「レクリエーション支援の方法⑥」\n自主的、主体的に楽しむ力を育む展開方法\nアレンジ方法の習得",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "「レクリエーション支援の方法⑦」\n自主的、主体的に楽しむ力を育む展開方法\nCSSプロセスの習得",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "「レクリエーション支援の方法⑧」\n自主的、主体的に楽しむ力を育む展開方法\nレクリエーション活動の展開法の総合的な演習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "「レクリエーション活動の習得①」\n教育現場における子どもの運動遊び（アイスブレイク",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "「レクリエーション活動の習得②」\n教育現場における子どもの運動遊び（イニシアティブ）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "「レクリエーション活動の習得③」\nモデル・プログラムの習得（子どもの運動遊び）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "「レクリエーション支援の実施①」\nプログラムの立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "「レクリエーション支援の実施②」\n模擬授業",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "「レクリエーション支援の実施③」\n模擬授業",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "「レクリエーション支援の実施④」\n模擬授業",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "実際に様々なレクリエーションやニュースポーツを体験してもらいます。また、その支援の実際についても学ぶため、主体的に授業に取り組む姿勢を求めます。"
+    "credit_auditing": false,
+    "practitioner_info": "実際に様々なレクリエーションやニュースポーツを体験してもらいます。また、その支援の実際についても学ぶため、主体的に授業に取り組む姿勢を求めます。"
 }

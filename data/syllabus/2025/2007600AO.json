@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:18Z",
+    "fetched_at": "2025-04-04T05:58:18Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AO",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,44 +26,44 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1　文献を精読し、その内容を要約し報告できる。\n2　科学的方法、特に社会学的方法を理解し、実践できる。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文のテーマを決定できる。",
+    "objectives": "1　文献を精読し、その内容を要約し報告できる。\n2　科学的方法、特に社会学的方法を理解し、実践できる。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文のテーマを決定できる。",
     "overview": "社会学的方法を活用しながら、スポーツを中心とする社会・文化現象に関連する課題研究を進めることによって、社会・文化現象を把握し吟味するための方法や思考様式を修得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "必要な教材は授業内で適宜配付します",
+        "required_materials": "必要な教材は授業内で適宜配付します",
         "other": "なし"
     },
-    "evaluation_criteria": "1　文献を精読し、その内容を要約し報告できた。\n2　科学的方法、特に社会学的方法を理解し、実践できた。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文のテーマを決定した。\n上記３つの点を踏まえ、⑪に記載の方法から総合的に評価します。",
+    "grading_criteria": "1　文献を精読し、その内容を要約し報告できた。\n2　科学的方法、特に社会学的方法を理解し、実践できた。\n3　論文作成の基礎を理解し、先行研究をもとに卒業論文のテーマを決定した。\n上記３つの点を踏まえ、⑪に記載の方法から総合的に評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 50,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 50,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション／レジュメの書き方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "批判的討議の方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "テキストの読解・ディスカッション\n（配布資料）第一章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ディスカッションと論述\n（配布資料）第一章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "テキストの読解・ディスカッション\n（配布資料）第二章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ディスカッションと論述\n（配布資料）第二章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "テキストの読解・ディスカッション\n（配布資料）第三章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ディスカッションと論述\n（配布資料）第三章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "テキストの読解・ディスカッション\n（配布資料）第四章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ディスカッションと論述\n（配布資料）第四章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "テキストの読解・ディスカッション\n（配布資料）第五章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ディスカッションと論述\n（配布資料）第五章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "テキストの読解・ディスカッション\n（配布資料）第六章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ディスカッションと論述\n（配布資料）第六章について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期オリエンテーション／社会学の研究法1（総論）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -233,9 +233,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "社会学の研究法2（意味解釈）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "社会学の研究法3（統計帰納）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "社会学の研究法4（数理演繹）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "研究手法の実際（モノグラフ）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -277,9 +277,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "研究手法の実践（モノグラフ）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -288,9 +288,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "研究手法の実際（言説分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -299,9 +299,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "研究手法の実践（言説分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -310,9 +310,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "研究手法の実際（会話分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -321,9 +321,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "研究手法の実践（会話分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -332,9 +332,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "研究手法の実際（計量分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -343,9 +343,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "研究手法の実践（計量分析）とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "社会学的方法のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "社会学的方法のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業論文での研究テーマの設定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -384,6 +384,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

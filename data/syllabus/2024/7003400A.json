@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:08:44Z",
+    "fetched_at": "2025-04-07T11:08:44Z",
     "name_ja": "職業指導Ⅰ",
     "name_en": "Guidance for Profession I",
     "syllabus_number": "7003400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "坂本　勲",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）職業指導の歴史、理論について説明することができる。\n（２）進路指導の活動内容、組織、実施計画について説明することができる。\n（３）キャリア・カウンセリングについての理論や方法について説明することができる。",
+    "objectives": "【到達目標】\n（１）職業指導の歴史、理論について説明することができる。\n（２）進路指導の活動内容、組織、実施計画について説明することができる。\n（３）キャリア・カウンセリングについての理論や方法について説明することができる。",
     "overview": "進路指導を行うために必要な基礎理論や実践のための方法、進路指導実践のための組織運営に関する広範囲な知識の習得と進路指導の具体的な方法を学ぶことが本講義の狙いである。本講義で学ぶ項目は、①職業指導の歴史、基礎理論・理念、②進路指導の活動概要、組織、計画と実践、③キャリア・カウンセリングの理論と活用、④進路指導のアセスメント、⑤産業界における職業指導、⑥進路指導の実践ロールプレイング、⑦進学相談、公務員試験の進路指導等である。本講義を受講することにより、進路指導の歴史、基礎理論の理解、進路指導を行う学校内組織体制と運営方法の理解を深めるとともに進路指導のロールプレイングによる進路指導の実践的な能力が身につく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -40,32 +40,32 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "・職業指導の歴史、理論についての理解、進路指導の活動内容、組織、実施計画についての理解、キャリア・カウンセリングについての理論や方法についての理解。",
+    "grading_criteria": "・職業指導の歴史、理論についての理解、進路指導の活動内容、組織、実施計画についての理解、キャリア・カウンセリングについての理論や方法についての理解。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 40,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "教員としての進路指導の知識と方法を学ぶと同時に、自分自身の進路、職業選択、キャリア・パスについて考えるチャンスと捉え、しっかり学んでください。",
+    "teacher_message": "教員としての進路指導の知識と方法を学ぶと同時に、自分自身の進路、職業選択、キャリア・パスについて考えるチャンスと捉え、しっかり学んでください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "職業指導の歴史と展開",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "職業指導の基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "職業指導の基礎理念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "進路指導の諸活動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "進路指導の組織と運営",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "進路指導の計画と実践①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "進路指導の計画と実践②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "学校と家庭、地域等との連携",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャリア・カウンセリングの理論と活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "進路指導のアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "産業界における職業指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "進路指導の実践①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "進路指導の実践②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体のまとめ、職業指導Ⅱの案内",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,6 +213,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
 }

@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-04T06:05:05Z",
+    "fetched_at": "2025-04-04T06:05:05Z",
     "name_ja": "機能解剖学Ⅱ（下肢、上肢）",
     "name_en": "Functional anatomy Ⅱ",
     "syllabus_number": "2109700A",
     "course_number": "21-2-21-22-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "小笠　博義",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "小野　高志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -31,20 +31,20 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①人体の主要な骨・関節の機能について理解できる。\n②人体の主要な筋の起始と停止および作用を理解できる。\n③機能解剖学の知識を用いて身体の動きと構造の関連を説明でき、スポーツ傷害やリコンディショニング、コンディショニング指導について考えることができる。",
+    "objectives": "①人体の主要な骨・関節の機能について理解できる。\n②人体の主要な筋の起始と停止および作用を理解できる。\n③機能解剖学の知識を用いて身体の動きと構造の関連を説明でき、スポーツ傷害やリコンディショニング、コンディショニング指導について考えることができる。",
     "overview": "機能解剖学Ⅰで学んだ内容を踏まえ、さらに骨盤帯、股関節、膝関節、足関節、肩甲帯、肩関節、肘関節、手関節・手の運動・スポーツのメカニズムを理解する上で必要な筋骨格系および神経系の構造および機能に関する基礎知識を習得することを目標とする。解剖学で学んだ運動器としての筋骨格系、神経系の基礎知識を基に、人体の動きを理解する上で必要となる骨、関節、筋、神経などのより詳細な構造を理解するとともに、運動学的側面から人体の機能について理解を深める。また、スポーツ外傷・障害、リハビリテーション、トレーニング指導と関連付けて学ぶことにより、アスレティックトレーニングやストレングス＆コンディショニングについての基礎知識を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP3",
         "スポーツ健康科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "Atlas of human anatomy　機能解剖マニュアル　DVD版",
-            "year": 2003,
+            "publication_year": 2003,
             "author": "監訳　福林 徹、他",
             "publisher": "ジャパンライム",
             "price": 220000,
@@ -53,7 +53,7 @@
         },
         {
             "title": "プロメテウス　解剖学アトラス（解剖学総論／運動器系）第4版",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "坂井　建雄、松村　讓兒（監訳）",
             "publisher": "医学書院",
             "price": 14300,
@@ -62,7 +62,7 @@
         },
         {
             "title": "アスレティックトレーナー専門基礎科目テキスト１　運動器の機能と構造　スポーツ動作の機能解剖",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "河野一郎、片寄正樹　監修",
             "publisher": "文光堂",
             "price": 4400,
@@ -70,31 +70,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "機能解剖学Ⅰ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "授業内で指示します。",
+        "required_materials": "授業内で指示します。",
         "other": "なし"
     },
-    "evaluation_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。\nなお、授業への参加状況についても考慮する（その他 20%）。",
+    "grading_criteria": "「授業のテーマ及び到達目標」の項目について、「学生に対する評価」の内容で評価を行う。\nなお、授業への参加状況についても考慮する（その他 20%）。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 50,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "人体の構造を知ることで、より人間に興味をもってもらえればと思います。\n機能解剖学の知識は、身体運動の原理や傷害の機序等をより深く理解することに繋がり、スポーツの競技者あるいは指導者、健康づくりの仕事に従事する者にとって必須となります。日常生活や競技場面とリンクさせて考え、実践的に応用できるようになってください。\nまた、毎回の授業の前後に学習内容に関する予習・復習を計60分以上実施してください。\n\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "人体の構造を知ることで、より人間に興味をもってもらえればと思います。\n機能解剖学の知識は、身体運動の原理や傷害の機序等をより深く理解することに繋がり、スポーツの競技者あるいは指導者、健康づくりの仕事に従事する者にとって必須となります。日常生活や競技場面とリンクさせて考え、実践的に応用できるようになってください。\nまた、毎回の授業の前後に学習内容に関する予習・復習を計60分以上実施してください。\n\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n授業概要および進め方に関する説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "股関節の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "股関節の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "膝関節の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "膝関節の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "足関節・足部の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "足関節・足部の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "肩甲帯の構造と機能および運動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "肩関節の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "肩関節の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "肘関節の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "肘関節の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "手関節・手部の構造と機能および運動（骨と関節）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "手関節・手部の構造と機能および運動（靭帯と筋肉）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめと解説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -257,6 +257,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "（小笠博義）\n日本スポーツ協会公認スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。\n\n（小野高志）\nこれまでの教育研究機関や競技スポーツ現場（サッカー、水泳、アイスホッケー、スキー・スノーボード等）における教育者・研究者・指導者としての経験を通し、科学と実践との相互フィードバックがどのようにして成されているかについて、実例を交えて解説する。"
+    "credit_auditing": true,
+    "practitioner_info": "（小笠博義）\n日本スポーツ協会公認スポーツドクターの資格を有し、医師として実務経験のある教員が担当する。\n\n（小野高志）\nこれまでの教育研究機関や競技スポーツ現場（サッカー、水泳、アイスホッケー、スキー・スノーボード等）における教育者・研究者・指導者としての経験を通し、科学と実践との相互フィードバックがどのようにして成されているかについて、実例を交えて解説する。"
 }

@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-08T01:01:33Z",
+    "fetched_at": "2024-08-08T01:01:33Z",
     "name_ja": "キャリア形成活動Ⅱ",
     "name_en": "Career development II",
     "syllabus_number": "1014200A",
     "course_number": "00CB201",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "寺田　篤史",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -33,37 +33,37 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "キャリア形成活動は、企業や公官庁等で実習・研修的な就業体験をする制度である。本学では、一定の条件を満たせば、正規の授業として単位が認められる。キャリア形成活動への参加により、在学中の早い段階から自分の適性を確認する機会になるだけでなく、職業観と人生観の涵養にも役立つ。アルバイトとは異なり、企業の組織・ビジョン・マネジメント等の企業研究の場にもなる。社会が皆さんに求める能力を具体的に把握することができ、卒業までの成長の目標が明確になる。EQ教育（特にソーシャリティプログラム）の実践にもなる。\n\n(i) 企業等についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii) 社会が求める能力・人物像を理解する。\n(iv) 社会人として必要な基本的マナーを習得する。",
+    "objectives": "キャリア形成活動は、企業や公官庁等で実習・研修的な就業体験をする制度である。本学では、一定の条件を満たせば、正規の授業として単位が認められる。キャリア形成活動への参加により、在学中の早い段階から自分の適性を確認する機会になるだけでなく、職業観と人生観の涵養にも役立つ。アルバイトとは異なり、企業の組織・ビジョン・マネジメント等の企業研究の場にもなる。社会が皆さんに求める能力を具体的に把握することができ、卒業までの成長の目標が明確になる。EQ教育（特にソーシャリティプログラム）の実践にもなる。\n\n(i) 企業等についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii) 社会が求める能力・人物像を理解する。\n(iv) 社会人として必要な基本的マナーを習得する。",
     "overview": "キャリア形成活動の実習は夏休み中に実施予定だが、事前教育（マッチング、マナー、企業訪問等）と事後教育（礼状、報告書等）も適宜行い、それらへの参加は履修時の絶対的な前提条件となる。\n実習期間は合計10日間以上を要する。10日間以上の就業体験プログラムとのマッチングが出来ない場合は5日間以上のインターンシップなどできるだけ長い期間実施される就業体験プログラムへの参加を強く推奨する。\n\n就業体験終了後には報告書を提出する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "アーリー・エクスポージャー型インターンシップ"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "就業体験への参加とレポートによって評価します。就業体験への参加は受入企業からの評価票に基づいて、参加状況等を評価します。レポートは内容・形式に関するチェックリストを用いて評価します。レポートでは就業体験に参加する際の目標、体験内容、体験の自己評価等を報告します。",
+    "grading_criteria": "就業体験への参加とレポートによって評価します。就業体験への参加は受入企業からの評価票に基づいて、参加状況等を評価します。レポートは内容・形式に関するチェックリストを用いて評価します。レポートでは就業体験に参加する際の目標、体験内容、体験の自己評価等を報告します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "事前学習では事前アンケートへの記入や振り返り、受入企業についての調べ物などに30～60分程度を要する。実習期間中は日報の作成などに60分程度を要する。事後学習ではレポートの作成などに60～120分程度を要する。\n\nインターンシップを始めとする就業体験は大学を卒業して実際に働く前に，社会で働くとはどういうことなのかを知る良い機会です．将来設計について考える一つのステップとして積極的に参加してください．",
+    "teacher_message": "事前学習では事前アンケートへの記入や振り返り、受入企業についての調べ物などに30～60分程度を要する。実習期間中は日報の作成などに60分程度を要する。事後学習ではレポートの作成などに60～120分程度を要する。\n\nインターンシップを始めとする就業体験は大学を卒業して実際に働く前に，社会で働くとはどういうことなのかを知る良い機会です．将来設計について考える一つのステップとして積極的に参加してください．",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "事前研修：企業等におけるインターンシップの目標・適性等",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ビジネスマナー講習：敬語の使い方・身だしなみ・挨拶等",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "業種・職種の研究：業種分類・職業分類等について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "企業の研究：企業の組織・部署等について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "企業等での実習（１）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "企業等での実習（２）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "企業等での実習（３）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "企業等での実習（４）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "企業等での実習（５）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "企業等での実習（６）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "企業等での実習（７）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企業等での実習（８）\n\n～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "体験報告とふりかえり",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "レポートの発表",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

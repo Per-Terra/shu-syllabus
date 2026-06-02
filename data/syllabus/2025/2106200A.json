@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T06:04:38Z",
+    "fetched_at": "2025-04-04T06:04:38Z",
     "name_ja": "地域マネジメント論",
     "name_en": "Studies on regional management",
     "syllabus_number": "2106200A",
     "course_number": "22-2-43-21-03、23-2-25-21-01、31-2-26-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 福祉学科",
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "伊藤　敏安",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,19 +28,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "●ガバメント（政府）とガバナンス（統治）の基本概念をふまえ、さらに企業経営の手法や関係主体による協働の観点を加えたうえで、地域のwell being向上をめざした地域マネジメント（経営）の考え方について、事例を交えながら学修する。 \n●地域の実情に応じた「公共投資と行政サービス→家計と企業の経済活動の促進→地方税収の安定→公共投資と行政サービス…」という好循環を確保するための方策や課題について学ぶとともに、これらを推進するためのPPP（Public Private Partnership）、PFI（Private Finance Initiative）、Concession方式、指定管理者制度、公会計システムなどの仕組みについて理解する。 \n●地域マネジメントの基本概念や考え方を理解して、身近な問題としてとらえるようになるとともに、地域の実態を把握するための基本的スキルを修得する。",
+    "objectives": "●ガバメント（政府）とガバナンス（統治）の基本概念をふまえ、さらに企業経営の手法や関係主体による協働の観点を加えたうえで、地域のwell being向上をめざした地域マネジメント（経営）の考え方について、事例を交えながら学修する。 \n●地域の実情に応じた「公共投資と行政サービス→家計と企業の経済活動の促進→地方税収の安定→公共投資と行政サービス…」という好循環を確保するための方策や課題について学ぶとともに、これらを推進するためのPPP（Public Private Partnership）、PFI（Private Finance Initiative）、Concession方式、指定管理者制度、公会計システムなどの仕組みについて理解する。 \n●地域マネジメントの基本概念や考え方を理解して、身近な問題としてとらえるようになるとともに、地域の実態を把握するための基本的スキルを修得する。",
     "overview": "●地域マネジメントに関する基本用語や方法について説明することができる。\n●地域の実態を把握するための基本的スキルについて説明することができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "しごとの「強化」書",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "広島県マネジメント研究会",
             "publisher": "ぎょうせい",
             "price": null,
@@ -48,29 +48,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "筆記具、ノート、授業のスライド（各自プリント）",
+        "recommended": [],
+        "required_materials": "筆記具、ノート、授業のスライド（各自プリント）",
         "other": "なし"
     },
-    "evaluation_criteria": "●毎回の確認テストで基本用語や考え方についての理解を確認する。\n●最終試験でこれらを総合的に評価する。",
+    "grading_criteria": "●毎回の確認テストで基本用語や考え方についての理解を確認する。\n●最終試験でこれらを総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "【授業中】\n●事前・事後学習を含めて「自分のノート」をつくること。積極的な質問を歓迎します。\n●「授業のスライド」を事前に印刷して授業に臨むこと。\n\n【事前・事後学習】合計240分程度\n●各回の前日までに「授業のスライド」「キーワードと関連サイト」「確認テスト結果」をC-learningに掲載します。授業前には、これらを参考にして実際の状況や事例を自分で調べてみること。授業後の復習では、新たな気づきを「自分のノート」に適宜追補すること。\n●「確認テスト」は前半・後半の2回に分けて返却します。最終試験前には「自分のノート」と「確認テスト結果」を中心に復習すること。\n\n※オフィスアワー　講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
+    "teacher_message": "【授業中】\n●事前・事後学習を含めて「自分のノート」をつくること。積極的な質問を歓迎します。\n●「授業のスライド」を事前に印刷して授業に臨むこと。\n\n【事前・事後学習】合計240分程度\n●各回の前日までに「授業のスライド」「キーワードと関連サイト」「確認テスト結果」をC-learningに掲載します。授業前には、これらを参考にして実際の状況や事例を自分で調べてみること。授業後の復習では、新たな気づきを「自分のノート」に適宜追補すること。\n●「確認テスト」は前半・後半の2回に分けて返却します。最終試験前には「自分のノート」と「確認テスト結果」を中心に復習すること。\n\n※オフィスアワー　講義のある曜日（事前にメールで確認）。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の概要、進め方、注意事項、地域マネジメントにおける基本用語の理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "地域の資金調達",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "地域の実態把握1（B-N分析、特化係数など）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "地域の実態把握2（SWOT分析、住民アンケートなど）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "地域の財政状況の点検1（データの所在、基礎的指標など）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "地域の財政状況の点検2（健全化指標、財政の持続性など）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "公会計システムと公共施設マネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "NPM、官民協働・PPPの背景",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "PPPの実際1（PFI、コンセッション方式など）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "PPPの実際2（指定管理者制度、包括委託、市場化テストなど）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "事例研究1（空き家対策、耕作放棄地対策）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "事例研究2（コンパクトシティ）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "事例研究3（地域福祉支援計画）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域マネジメントの新たな動向（エリアマネジメントなど）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "地域マネジメントの課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
+    "credit_auditing": true,
+    "practitioner_info": "●地方シンクタンク22年、国立大学地域経済研究所16年、私立大学6年の勤務経験に加え、国・地方公共団体の審議会委員等の経験をふまえて、座学と実践を結びつける授業をめざします。\n●地方公務員志望者の受講を歓迎します。"
 }

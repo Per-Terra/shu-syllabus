@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:49Z",
+    "fetched_at": "2025-04-04T05:59:49Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700Z",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "髙橋　真実",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,35 +27,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "地域企業・団体からテーマと資金の提供を受けて実施された専門ゼミⅠでの経験と成果を踏まえ、成果をまとめることを主な目的とします。\n成果物としての論文・プロジェクト報告書の作成を前提にし、文献調査、論文指導が中心となりますが、専門ゼミⅠで継続しているPBLプロジェクト等にも関わっていただきます。\n【到達目標】\n① 取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n② 計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n③ 活動の成果を総括し、他者に向けて分かりやすく報告することができる。",
+    "objectives": "地域企業・団体からテーマと資金の提供を受けて実施された専門ゼミⅠでの経験と成果を踏まえ、成果をまとめることを主な目的とします。\n成果物としての論文・プロジェクト報告書の作成を前提にし、文献調査、論文指導が中心となりますが、専門ゼミⅠで継続しているPBLプロジェクト等にも関わっていただきます。\n【到達目標】\n① 取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n② 計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n③ 活動の成果を総括し、他者に向けて分かりやすく報告することができる。",
     "overview": "前期：研究テーマを定め、卒論作成に向けた準備を各自でおこないます。\n後期は卒業論文の執筆のために、各自設定したテーマについて研究を深め、教員やゼミ生からクリティークを受けながら、必要時、追加調査・研究を行います。\nテーマの性質上、集中講義となる場合があります。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "１ 現状理解・課題発見、２　課題解決、３　活動の総括と報告、４　その他（論文・報告書を含む）",
+    "grading_criteria": "１ 現状理解・課題発見、２　課題解決、３　活動の総括と報告、４　その他（論文・報告書を含む）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 25,
-        "ポートフォリオ": 0,
-        "その他": 75
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 75
     },
-    "message_from_teachers": "学ぶとは、インプットではなく、インプットした内容を自身の言葉・表現としてアウトプットできるようになるまでを含みます。\n自身の考えを的確に表現し、受け手に齟齬なく伝わるようになる訓練をしていきましょう。",
+    "teacher_message": "学ぶとは、インプットではなく、インプットした内容を自身の言葉・表現としてアウトプットできるようになるまでを含みます。\n自身の考えを的確に表現し、受け手に齟齬なく伝わるようになる訓練をしていきましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（本演習の進め方について）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -64,9 +64,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "卒論計画1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "卒論計画2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "論文のアプローチを考える／専門ゼミⅠのテーマを絞って、方法論を考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "先行研究の収集と理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "先行研究の収集と理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "先行研究の収集と理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "先行研究の収集と理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "文献リストをつくる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "先行研究の貢献、問題点を見出す",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "先行研究の貢献、問題点を見出す",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "先行研究文野における自分の論文の位置付け、意義を考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "先行研究文野における自分の論文の位置付け、意義を考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "論文骨子作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "論文骨子作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "論文執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒論完成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒論報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,6 +355,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

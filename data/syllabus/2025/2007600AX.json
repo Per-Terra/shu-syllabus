@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:27Z",
+    "fetched_at": "2025-04-04T05:58:27Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AX",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "脇野　幸太郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,38 +27,38 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会保障をソーシャルワークの実践に活かす視点について説明できる。\n②卒業研究（卒業論文）作成に必要となる研究手法について理解し、説明できる。\n③研究内容を適切に発表し、他のメンバーと議論できる。\n④以上の成果を踏まえ、研究成果を卒業論文としてまとめることができる。",
+    "objectives": "①社会保障をソーシャルワークの実践に活かす視点について説明できる。\n②卒業研究（卒業論文）作成に必要となる研究手法について理解し、説明できる。\n③研究内容を適切に発表し、他のメンバーと議論できる。\n④以上の成果を踏まえ、研究成果を卒業論文としてまとめることができる。",
     "overview": "前半は、「社会保障とソーシャルワーク」をテーマとして、社会保障に関する学習、そのためのプレゼンテーションとグループディスカッションを中心に行います。それを通じて社会保障制度をソーシャルワークに活用できる視点の獲得を目指します。\n後半は、そうした学習成果を踏まえ、各自興味関心のある研究テーマを設定し、卒業論文作成に取り組みます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "パソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "パソコン",
         "other": ""
     },
-    "evaluation_criteria": "①プレゼンテーション、②グループディスカッション、③テーマ設定、④卒業論文（完成物）の提出",
+    "grading_criteria": "①プレゼンテーション、②グループディスカッション、③テーマ設定、④卒業論文（完成物）の提出",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 50,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 50,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "毎回の出席を前提として、担当する報告テーマ等について事前にしっかり準備してゼミに臨んでください。\n\n前記は社会保障に関する学習とそのためのプレゼンテーションが中心となります。社会保障に関する復習をし、報告の準備をしてゼミに臨んでください（予習120分、復習60分）\n後期は論文作成のためのテーマ設定、文献レビュー（必要な人は調査）、本文作成作業が中心となります（予習120分、復習60分）。",
+    "teacher_message": "毎回の出席を前提として、担当する報告テーマ等について事前にしっかり準備してゼミに臨んでください。\n\n前記は社会保障に関する学習とそのためのプレゼンテーションが中心となります。社会保障に関する復習をし、報告の準備をしてゼミに臨んでください（予習120分、復習60分）\n後期は論文作成のためのテーマ設定、文献レビュー（必要な人は調査）、本文作成作業が中心となります（予習120分、復習60分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、自己紹介、ゼミの進め方の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -67,9 +67,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会保障の学習に使用するテキストの選定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "社会保障①　社会保障の基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "社会保障②　社会保障の体系",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "社会保障③　社会保険と社会扶助、特に社会保険のしくみ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "社会保障④　年金その1",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "社会保障⑤　年金その2",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "社会保障⑥　医療保険その1",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会保障⑦　医療保険その2",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "社会保障⑧　介護保険その1",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "社会保障⑨　介護保険その2",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "社会保障⑩　労働保険（雇用保険、労災保険）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "障害者福祉の法制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "生活保護、生活困窮者自立支援制度",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "社会保障とソーシャルワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期の確認　卒論作成に向けて　各自のテーマについて考える",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "卒論テーマの絞り込みとそのためのグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "選定したテーマについてのプレゼンテーションとグループディスカッション（仮説の設定を含む）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -253,9 +253,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "研究方法についての確認　文献研究と調査研究",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "文献・先行研究の検索とレビューの方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "論文の作成方法①　論文の構成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -286,9 +286,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "論文の作成方法②　論文の構成に関するプレゼンテーションとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -297,9 +297,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "先行研究のレビューに関するプレゼンテーションとグループディスカッション①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -308,9 +308,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "先行研究のレビューに関するプレゼンテーションとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -319,9 +319,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "仮説の検証に関するプレゼンテーションとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -330,9 +330,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "テーマに関する自身の見解と根拠の明確化、それに関するプレゼンテーションとグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -341,9 +341,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "論文作成とフィードバック",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "論文作成とフィードバック",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -363,9 +363,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "論文作成とフィードバック",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "論文完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -385,6 +385,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

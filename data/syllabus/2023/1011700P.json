@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:59:00Z",
+    "fetched_at": "2024-08-08T00:59:00Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "eminar for Community RevitalizationⅠ",
     "syllabus_number": "1011700P",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "山本　晋也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,35 +28,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミのテーマは、「周南公立大学・国際化プロジェクト」である。本ゼミ生は、本学の留学生や地域の外国人住民の方との交流を想定し、大学内外で実施可能なイベントの企画・運営を行う。そして、イベントの企画・運営を通じて、以下の目標をめざす。\n１）留学生(外国人住民)の背景を知り、相互理解をめざす\n２）１）の理解をもとに、どのような課題があるかを把握し、適切な企画立案を行う\n３）企画の運営・実施を通じて、多文化共生のためのコミュニケーションについて学ぶ",
+    "objectives": "本ゼミのテーマは、「周南公立大学・国際化プロジェクト」である。本ゼミ生は、本学の留学生や地域の外国人住民の方との交流を想定し、大学内外で実施可能なイベントの企画・運営を行う。そして、イベントの企画・運営を通じて、以下の目標をめざす。\n１）留学生(外国人住民)の背景を知り、相互理解をめざす\n２）１）の理解をもとに、どのような課題があるかを把握し、適切な企画立案を行う\n３）企画の運営・実施を通じて、多文化共生のためのコミュニケーションについて学ぶ",
     "overview": "本講義では、本学の留学生や地域の外国人住民の方との交流を想定し、大学内外で実施可能なイベントの企画・運営を行う。\n昨年度例）学内バトミントン大会の開催／韓国版人狼ゲーム大会の開催",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "イベントの企画・実施・運営のプロセスで、ゼミ生には企画書と振り返りシートの提出を求めます。それらが、小テストに相当するものです。最後に、15週の活動をまとめて、最終レポートを提出してもらいます。発表は、学期末の地域ゼミ合同発表を想定しています。",
+    "grading_criteria": "イベントの企画・実施・運営のプロセスで、ゼミ生には企画書と振り返りシートの提出を求めます。それらが、小テストに相当するものです。最後に、15週の活動をまとめて、最終レポートを提出してもらいます。発表は、学期末の地域ゼミ合同発表を想定しています。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 50,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 30,
+        "report": 50,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本学に在籍する留学生には、様々な国籍・背景の学生がいます。彼ら／彼女らの背景を理解し、共に学ぶキャンパスを作り上げるにはどうしたらいいかを考え、主体的に講義に参加してください。どんな企画をするか、企画の運営を通じてどんな学びを得るかは、皆さんの取り組み次第です。",
+    "teacher_message": "本学に在籍する留学生には、様々な国籍・背景の学生がいます。彼ら／彼女らの背景を理解し、共に学ぶキャンパスを作り上げるにはどうしたらいいかを考え、主体的に講義に参加してください。どんな企画をするか、企画の運営を通じてどんな学びを得るかは、皆さんの取り組み次第です。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業オリエンテーションと今後の計画",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -64,9 +64,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "大学の留学生教育について知る・学ぶ・考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "地域の在住外国人について知る・学ぶ・考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "イベント企画①　企画アイデアの言語化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "イベント企画②　企画書の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "イベント企画③　実施準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "交流イベント①　本番",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "交流イベント①　振り返りと今後の計画",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "交流イベント②　本番",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "交流イベント②　振り返りと今後の計画",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "交流イベント③　本番",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "交流イベント③　振り返りと今後の計画",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ゼミ発表資料の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "最終レポートの作成と検討",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ゼミ発表(録画)\n最終レポートの作成と検討",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,6 +213,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

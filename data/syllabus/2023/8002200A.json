@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:41:05Z",
+    "fetched_at": "2024-08-08T01:41:05Z",
     "name_ja": "中上級日本語Ⅲ",
     "name_en": "Intermediate to advanced level Japanese Ⅲ",
     "syllabus_number": "8002200A",
     "course_number": "00JP108",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "山本　貴子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,16 +27,16 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、日本語能力試験N2及びN1レベルの語彙を含む本文（15行～48行の読み物）を扱い、文章の精読だけではなく、大意を読み取る力の養成を目標とする。目標を達成するために、以下３つの練習を通して読解力を養成する。\n①\tキーワードから本文の内容を推測する。\n②\t本文の段落ごとの展開を読み取る。\n③\t本文の内容をまとめる。\n\nまた、本文のテーマを基に、自分の感想や学習者同士でお互いの考え・意見を述べ合うことを通して、思考力・会話力を養成することも目標とする。",
+    "objectives": "本講義では、日本語能力試験N2及びN1レベルの語彙を含む本文（15行～48行の読み物）を扱い、文章の精読だけではなく、大意を読み取る力の養成を目標とする。目標を達成するために、以下３つの練習を通して読解力を養成する。\n①\tキーワードから本文の内容を推測する。\n②\t本文の段落ごとの展開を読み取る。\n③\t本文の内容をまとめる。\n\nまた、本文のテーマを基に、自分の感想や学習者同士でお互いの考え・意見を述べ合うことを通して、思考力・会話力を養成することも目標とする。",
     "overview": "講義形式で授業を進めていくが、学生との対話を通して、より本文の内容の理解を深めていくことを望む。そのためにも学生には、教師が与えた課題や自らが抱く疑問に対して、受動的ではなく積極的に発言し、授業に参加することを望む。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "日本語の文型と表現56　中級を学ぼう　中級前期",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "平井悦子・三輪さち子",
             "publisher": "株式会社スリーエーネットワック",
             "price": 2420,
@@ -44,28 +44,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①学期中に行われる2回の試験\n②授業態度\n③課題や宿題の提出　\n上記３つの項目を「学生に対する評価」の内容で評価する（変更する場合あり）。\n①→「試験」　②→その他　③→その他",
+    "grading_criteria": "①学期中に行われる2回の試験\n②授業態度\n③課題や宿題の提出　\n上記３つの項目を「学生に対する評価」の内容で評価する（変更する場合あり）。\n①→「試験」　②→その他　③→その他",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "本講義では、日本語能力試験N2及びN1レベルの語彙を含む本文を読み、読解力を養成したい人を対象とする。\n\n【予習】\n・次回実施内容の語彙や本文を確認しておくこと。\n【復習】\n・実施内容について、教科書を読み返し、知識を定着させること。",
+    "teacher_message": "本講義では、日本語能力試験N2及びN1レベルの語彙を含む本文を読み、読解力を養成したい人を対象とする。\n\n【予習】\n・次回実施内容の語彙や本文を確認しておくこと。\n【復習】\n・実施内容について、教科書を読み返し、知識を定着させること。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（自己紹介・授業の概要・評価・課題の説明）/教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "宿題の確認/前回の続き・本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教科書の内容の復習/中間試験",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "中間テストの返却/中間テストの答え合わせ/教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "前回の続き・本文のキーワードを確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "教科書の本文のトピックについてクラスで話し合う/本文のキーワードの確認/本文を読む/本文の内容の確認/本文に関する質問に答える/本文のテーマについて感想を述べる/宿題の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "教科書の内容の復習/期末試験",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,6 +213,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

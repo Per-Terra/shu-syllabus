@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:25:10Z",
+    "fetched_at": "2024-08-08T01:25:10Z",
     "name_ja": "精神保健",
     "name_en": "Mental Health",
     "syllabus_number": "7005000A",
     "course_number": "-",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
-    "main_department": "経済学部",
+    "category": "教職科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "末次　絵里子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "精神保健の基礎を理解した上で、学校教育場面で想定される様々な問題への心理的支援について適切な対処方\n法を探究していく力を身に付けることを目標とする。",
+    "objectives": "精神保健の基礎を理解した上で、学校教育場面で想定される様々な問題への心理的支援について適切な対処方\n法を探究していく力を身に付けることを目標とする。",
     "overview": "精神保健の基礎的な問題について体系的に説明する。さらに、心理臨床的な対人援助の基本について、知識と\n技術を学んでもらうことができるよう、具体的事例をもとに考えていく時間や、自己と他者を見つめるための\nスキルを身に付ける実践活動の時間も取り入れていく。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "子どもの精神保健テキスト　改訂第2版",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "古庄純一",
             "publisher": "診断と治療社",
             "price": 3080,
@@ -45,28 +45,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "試験、小テスト、レポートなどから、総合的に評価します。",
+    "grading_criteria": "試験、小テスト、レポートなどから、総合的に評価します。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 30,
-        "レポート": 30,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 30,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "毎回の授業の終わりに、復習用のワークシートを配布します。授業の振り返りに用いてください（所要時間約60分）。次回授業時に提出していただきます。また、次回授業時の主要テーマのお知らせをしますので、教科書の所定部分をよく読み、下調べをしておくようにしてください（所要時間約60分）。",
+    "teacher_message": "毎回の授業の終わりに、復習用のワークシートを配布します。授業の振り返りに用いてください（所要時間約60分）。次回授業時に提出していただきます。また、次回授業時の主要テーマのお知らせをしますので、教科書の所定部分をよく読み、下調べをしておくようにしてください（所要時間約60分）。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "精神保健総論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "精神保健の歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "ライフサイクルと精神保健",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "現代社会と精神保健",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "臨床心理学視点と精神保健",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "発達心理学視点における心の到達課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "学校教育場面における今日的課題と精神保健",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "地域精神保健活動について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "精神保健事例研究１（児童虐待）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "精神保健事例研究２（発達障害）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "精神保健事例研究３（不登校）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "精神保健事例研究４（いじめ）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "精神保健事例研究５（非行等）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "自己と他者のための心の健康つくりとは",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "精神保健における今後の展望",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "試験",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -231,6 +231,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

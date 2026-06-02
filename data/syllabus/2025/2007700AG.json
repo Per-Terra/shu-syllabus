@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:09Z",
+    "fetched_at": "2025-04-04T05:59:09Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AG",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "守本　友美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,40 +27,40 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①専門ゼミⅠで実施した調査結果を分析できる。\n②調査結果を踏まえて卒業論文を完成させることができる。",
+    "objectives": "①専門ゼミⅠで実施した調査結果を分析できる。\n②調査結果を踏まえて卒業論文を完成させることができる。",
     "overview": "本授業では、専門ゼミⅠで実施した調査に基づいて結果を整理し、卒業論文を完成させる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [],
-        "brings": "PC",
+        "recommended": [],
+        "required_materials": "PC",
         "other": "必要な資料は適宜配付する。必要な書籍については授業中に指示する。"
     },
-    "evaluation_criteria": "①研究方法の選択、②研究の実施、③研究結果の整理",
+    "grading_criteria": "①研究方法の選択、②研究の実施、③研究結果の整理",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 80,
-        "発表・実技": 0,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "卒業論文は4年間の学習の集大成です。ゼミの日には必ず進捗状況を報告し、確実に進めていってください。報告のためには毎回240分の学習が必要です。\nオフィスアワーは火曜日14：40～16：10です。",
+    "teacher_message": "卒業論文は4年間の学習の集大成です。ゼミの日には必ず進捗状況を報告し、確実に進めていってください。報告のためには毎回240分の学習が必要です。\nオフィスアワーは火曜日14：40～16：10です。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "専門ゼミⅠで実施した調査結果のまとめと分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "序論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "序論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "序論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "序論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "本論ンお執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "本論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "本論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "本論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "本論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "本論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "序論・本論の完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "結論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "結論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "結論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -256,9 +256,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "結論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -267,9 +267,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "結論の執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -278,9 +278,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -289,9 +289,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -300,9 +300,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -311,9 +311,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -322,9 +322,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -333,9 +333,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "序論・本論・結論の結合",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業論文の完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -366,6 +366,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

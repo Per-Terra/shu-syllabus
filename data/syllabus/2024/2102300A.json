@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:06:11Z",
+    "fetched_at": "2025-04-07T11:06:11Z",
     "name_ja": "データサイエンス概論",
     "name_en": "",
     "syllabus_number": "2102300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "矢島　安敏",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -26,40 +26,40 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "企業における情報システムと関連する情報技術を理解する \n\nデータマネジメントの目的や概要を理解する \n\nデータ活用のための様々なマイニング技術を理解する",
+    "objectives": "企業における情報システムと関連する情報技術を理解する \n\nデータマネジメントの目的や概要を理解する \n\nデータ活用のための様々なマイニング技術を理解する",
     "overview": "2010年代に始まった「ビッグデータ」ブーム以降、データは企業活動にとって欠かすことのできないものとなっており、「現代の石油」とも呼ばれ重要な資産の一つともみなされている。一方で、単にデータを大量に保有しているだけでは価値は生まれず、データ活用を視野に入れ適切にマネジメント（管理）することの重要性が近年指摘されています。企業がデータを取得し、蓄積、加工し、ビジネス的な価値を発揮するまでのプロセスや関連した情報システムを理解し、データ管理の重要性を理解することを目的とします。また、データから価値をマイニング（発掘）するためのプロセスや技術の全体像を解説し、そのいくつかに関してはサンプルデータを使いながらマイニング技術の利用法を身に付けるとともに、技術への理解を深めることをすることを目的とします。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "Python入門",
             "Python応用"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "「データマネジメント」および「データマイニング」に関する理解度を、以下の方法で評価する。 \n\n授業の際に出される課題レポートの評価（40％） \n\n中間試験の点数（30％） \n\n期末試験の点数（30％）",
+    "grading_criteria": "「データマネジメント」および「データマイニング」に関する理解度を、以下の方法で評価する。 \n\n授業の際に出される課題レポートの評価（40％） \n\n中間試験の点数（30％） \n\n期末試験の点数（30％）",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "現代の企業にとってデータはビジネスをする上で欠かすことができません。例えば皆さんの個人の情報も企業にとっては重要なデータとなる場合があります。普段からニュースなどで企業が扱うデータに関する記事に関心を持つようにして下さい。 \n\n毎回の講義後には、予習と復習を兼ねたレポート課題（およそ1時間程度）に各自で取組に取組む必要があります。課題を行うためには、講義で配布した資料を参考にしながら、PCやインターネットを使う必要があります。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "現代の企業にとってデータはビジネスをする上で欠かすことができません。例えば皆さんの個人の情報も企業にとっては重要なデータとなる場合があります。普段からニュースなどで企業が扱うデータに関する記事に関心を持つようにして下さい。 \n\n毎回の講義後には、予習と復習を兼ねたレポート課題（およそ1時間程度）に各自で取組に取組む必要があります。課題を行うためには、講義で配布した資料を参考にしながら、PCやインターネットを使う必要があります。 \n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -67,9 +67,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "企業における情報システム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "社会活動を支える情報化技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "データマネジメントの概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "データの蓄積のマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "データの活用のマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Pythonの準備",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "基礎集計",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "可視化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "クラスタリング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "分類",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "回帰",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "機械学習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "マイニングプロセス",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,6 +214,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かしてデータマネジメントとデータマイニングに関する知識を身に着けてさせる。"
+    "credit_auditing": false,
+    "practitioner_info": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かしてデータマネジメントとデータマイニングに関する知識を身に着けてさせる。"
 }

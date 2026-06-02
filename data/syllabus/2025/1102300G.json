@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:57:33Z",
+    "fetched_at": "2025-04-04T05:57:33Z",
     "name_ja": "総合英語初中級ⅡHS-1",
     "name_en": "Comprehensive English Low-Intermediate II",
     "syllabus_number": "1102300G",
     "course_number": "11-2-14-22-06、21-2-14-22-03、22-2-14-22-03、23-2-14-22-02",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "田村　瀬津子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,18 +27,18 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①自然に近いスピードで話される英語を、情報の繰り返しや言い換えがあれば大意を理解できる。\n②平易な英語で書かれた手紙・Eメール・広告・通知などの短い英文を、後戻りなしで読んで大意を理解できる。\n③TOEIC L&Rに頻出する初中級レベルの語彙と文法を学ぶ学んで、簡単な日常的な範囲内の事柄について英語で理解できる。\n④TOEIC L&Rのパート別攻略法をよく理解して実践できる。",
+    "objectives": "①自然に近いスピードで話される英語を、情報の繰り返しや言い換えがあれば大意を理解できる。\n②平易な英語で書かれた手紙・Eメール・広告・通知などの短い英文を、後戻りなしで読んで大意を理解できる。\n③TOEIC L&Rに頻出する初中級レベルの語彙と文法を学ぶ学んで、簡単な日常的な範囲内の事柄について英語で理解できる。\n④TOEIC L&Rのパート別攻略法をよく理解して実践できる。",
     "overview": "語彙・聴解・読解・文法の総合的な英語運用能力の基礎を固める。\nリスニングでは、写真等を見ながらそれについての平易な文構造の短い記述を聞く練習を通して、日常生活の中でよく見られる人々の行動等について簡単な語彙で表現できるようになる。また、やや長い聴解文を聞く練習を通して、情報の繰り返しや言い換えがあれば話の詳細が一部理解できるようになる。リーディングでは、文構造が単純な英文を後戻りなしで意味のまとまりごとに読む練習を繰り返し、短い簡単なEメールなどをより速く、全体の意味をより正確に理解しながら読めるようになる。学期の終わりにTOEIC Listening & Reading IPテストを受験して、学習の進捗をはかる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP1"
     ],
     "textbooks": [
         {
             "title": "Key Strategies for Success on the TOEIC L&R Test Level 400 Second Edition (改訂版)",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "西谷敦子　他",
             "publisher": "朝日出版社",
             "price": 2090,
@@ -47,7 +47,7 @@
         },
         {
             "title": "キクタンTOEIC L&Rテスト SCORE 500",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "一杉武史",
             "publisher": "アルク",
             "price": 1760,
@@ -55,10 +55,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "公式TOEIC Listening & Reading 500＋",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "Educational Testing Service",
             "publisher": "国際ビジネスコミュニケーション協会",
             "price": 3300,
@@ -67,7 +67,7 @@
         },
         {
             "title": "公式TOEIC Listening & Reading プラクティスリスニング編",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "Educational Testing Service",
             "publisher": "国際ビジネスコミュニケーション協会",
             "price": 3300,
@@ -76,7 +76,7 @@
         },
         {
             "title": "公式TOEIC Listening & Reading プラクティスリーディング編",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "Educational Testing Service",
             "publisher": "国際ビジネスコミュニケーション協会",
             "price": 3300,
@@ -84,29 +84,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "総合英語初級I"
         ],
-        "brings": "教科書、ノート、筆記用具、辞書、スマートフォン／タブレット／ＰＣ",
+        "required_materials": "教科書、ノート、筆記用具、辞書、スマートフォン／タブレット／ＰＣ",
         "other": "なし"
     },
-    "evaluation_criteria": "初中級レベルの語彙力・文法力・聴解力・読解力を「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含みます。能力別による授業運営上、この「その他」に含まれるものはクラスによって若干異なります。このクラスでは前述の項目に加えて、授業内で配布される補助教材（ワークシートを含む）へのとりくみや、ホームワーク（宿題）、毎回の授業の予習・復習を行っているかなどが「その他」の評価基準に含まれます。小テストを含めて授業時間内に行う活動を基にする評価が半分近くを占めますので、遅刻・欠席に加えて、居眠り・私語・私用のスマホ操作など学びの妨げになることをしないように心がけましょう。なおこのシラバスは教員と学生とのコンセンサス（総意）によって内容（評価基準を含む）を変更する可能性があります。",
+    "grading_criteria": "初中級レベルの語彙力・文法力・聴解力・読解力を「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや授業活動への参加態度、英語学習への日常的な関わり・態度・意欲などを含みます。能力別による授業運営上、この「その他」に含まれるものはクラスによって若干異なります。このクラスでは前述の項目に加えて、授業内で配布される補助教材（ワークシートを含む）へのとりくみや、ホームワーク（宿題）、毎回の授業の予習・復習を行っているかなどが「その他」の評価基準に含まれます。小テストを含めて授業時間内に行う活動を基にする評価が半分近くを占めますので、遅刻・欠席に加えて、居眠り・私語・私用のスマホ操作など学びの妨げになることをしないように心がけましょう。なおこのシラバスは教員と学生とのコンセンサス（総意）によって内容（評価基準を含む）を変更する可能性があります。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 50,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "自分のレベルにあった目標設定をして、継続的に語彙の学習や聴解・読解の練習をすることが大切です。与えられるのを待つのではなく、「自ら学ぶ」意欲を持って取り組んでください。自律的かつ継続的に学習を積み重ねて、目標スコアを達成しましょう。\n効果的な学習のため教科書は必ず書き込みのないものを準備してください。また、授業計画は進捗などにより変更する場合があります。\n\n【予習・復習について】\n担当教員の指示に従って、重要単熟語や文法事項の予習と、聴解・読解問題の復習などをしてください。また、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 60～90分）",
+    "teacher_message": "自分のレベルにあった目標設定をして、継続的に語彙の学習や聴解・読解の練習をすることが大切です。与えられるのを待つのではなく、「自ら学ぶ」意欲を持って取り組んでください。自律的かつ継続的に学習を積み重ねて、目標スコアを達成しましょう。\n効果的な学習のため教科書は必ず書き込みのないものを準備してください。また、授業計画は進捗などにより変更する場合があります。\n\n【予習・復習について】\n担当教員の指示に従って、重要単熟語や文法事項の予習と、聴解・読解問題の復習などをしてください。また、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 60～90分）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "Unit L-8: Part 3 職業・提案・助言・次の行動",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Unit R-10: Part 7 手紙",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "Unit L-11: Part 4 アナウンス・ニュース",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Unit R-5: Part 5 前置詞・接続詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Unit L-6: Part 2の総合演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Unit R-11: Part 7 告知・社内回覧",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Unit L-9: Part 3 トピック・目的・依頼・要求",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Unit R-6: Part 6 長文穴埋め問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Unit L-12: Part 4 図表問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Unit R-12: Part 7 ダブルパッセージ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Unit L-13: Review (Parts 1 & 3)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Unit R-13: Review (Parts 5 & 6)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Unit L-14: Review (Parts 2 & 4)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -247,9 +247,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Unit R-14: Review (Part 7)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "TOEIC L&R ミニテスト\n期末試験について\nオンライン授業評価",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -269,6 +269,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

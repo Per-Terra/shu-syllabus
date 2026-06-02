@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:51Z",
+    "fetched_at": "2025-04-04T06:04:51Z",
     "name_ja": "都市計画論",
     "name_en": "Urban planning",
     "syllabus_number": "2107600A",
     "course_number": "11-2-25-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "岩本　直",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,38 +26,38 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "今後の日本における持続可能社会の構築のためには、日本の現状を踏まえた都市計画の理解と推進が必要である。本授業では日本の都市計画の概要とこれまでの推移、現在の課題と今後の方向性等について解説する。\n\n【到達目標】\n①都市計画の概要と推移を理解し、現在の都市計画の課題や今後の方向性について理解できる。\n②地方圏で主に発生している都市計画の課題について理解できる。",
+    "objectives": "今後の日本における持続可能社会の構築のためには、日本の現状を踏まえた都市計画の理解と推進が必要である。本授業では日本の都市計画の概要とこれまでの推移、現在の課題と今後の方向性等について解説する。\n\n【到達目標】\n①都市計画の概要と推移を理解し、現在の都市計画の課題や今後の方向性について理解できる。\n②地方圏で主に発生している都市計画の課題について理解できる。",
     "overview": "本講義では、基本的な都市計画の制度と実践例について学ぶ。日本において都市計画という言葉が使われるようになったのは近代のことであるが、計画的に都市がつくられるようになったのは奈良時代までさかのぼることが出来る。まずは、こうした日本の都市計画史を端的に学ぶ。そのうえで、明治期に施行された市区改正条例、大正期に施行された最初の都市計画法を学び、1968年の改正を経た、現在の都市計画法について学ぶ。制度について学んだことを活かして、最後に都市計画実践例について学んでいく。学生は、正確な制度の理解を深めるほか、実践を通して日本の都市計画が直面している課題について考えることを目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP2",
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は使用せず"
     },
-    "evaluation_criteria": "・都市計画の概要及び推移を理解し、現在の都市計画の課題や今後の方向性について理解できる。\n・地方圏で主に発生している都市計画の課題について理解できる。\n上記の基準により、⑪によって評価する。",
+    "grading_criteria": "・都市計画の概要及び推移を理解し、現在の都市計画の課題や今後の方向性について理解できる。\n・地方圏で主に発生している都市計画の課題について理解できる。\n上記の基準により、⑪によって評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本授業で関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
+    "teacher_message": "本授業で関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "都市の成立要因/都市の構造、都市の階層性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "都市の現状/都市化の実態、社会資本の維持管理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "都市計画１/都市計画の歴史、競争する世界都市",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "都市計画２/都市計画の推進と調整業務、国土計画と広域計画",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "都市の機能整備/自動車交通の進展、ノーマライゼーションへの対応、防災の推進",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "都市の空間計画/景観整備、風土や歴史資源の活用、観光活用の視点、空間利用の高度化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "都市の持続可能性/世界気候の変動、都市と環境、SDGｓ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "都市計画の仕組み/都市計画区域、地区計画、土地区画整理事業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "都市の再構築１/市街地再開発事業、都市再生、中心市街地活性化政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "都市の再構築２/コンパクトシティ、立地適正化計画、人口減少と都市の集約化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "都市の再構築３/スマートシティ、再生可能エネルギーの活用、COVID-19の影響",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "まちづくりの推進/合意形成の方法、市民参加のデザイン、行動変容の重要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "事例紹介/都市再生、中心市街地活性化、まちづくり等の事例紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "今後の都市計画の方向性/人口減少時代の都市計画、本授業の総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく、様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく、様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
 }

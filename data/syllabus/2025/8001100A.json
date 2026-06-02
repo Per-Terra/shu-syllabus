@@ -1,30 +1,30 @@
 {
-    "_fetched_at": "2025-04-04T06:07:51Z",
+    "fetched_at": "2025-04-04T06:07:51Z",
     "name_ja": "中級日本語",
     "name_en": "Intermediate Japanese",
     "syllabus_number": "8001100A",
     "course_number": "11-1-20-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "山本　晋也",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "石井　和江",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -32,19 +32,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義のテーマは、1）大学で学ぶための土台となる日本語の習得、2）日本語による様々な言語活動への習熟の2点です。まずは1）に関して、教員の指定したテキストをもとに日本語学習を進めます。大体日本語能力試験N2レベルの文章読解や語彙理解などが可能となることを目標とします。次に2）に関しては、1）の学びをふまえて、ディスカッションやインタビュー、プレゼンテーション等の活動を行います。それぞれの表現形式に応じた適切な日本語を学び、それらを用いて円滑な言語活動ができるようになることをめざします。",
+    "objectives": "本講義のテーマは、1）大学で学ぶための土台となる日本語の習得、2）日本語による様々な言語活動への習熟の2点です。まずは1）に関して、教員の指定したテキストをもとに日本語学習を進めます。大体日本語能力試験N2レベルの文章読解や語彙理解などが可能となることを目標とします。次に2）に関しては、1）の学びをふまえて、ディスカッションやインタビュー、プレゼンテーション等の活動を行います。それぞれの表現形式に応じた適切な日本語を学び、それらを用いて円滑な言語活動ができるようになることをめざします。",
     "overview": "本講義では、日本語能力試験Ｎ２レベルの総合的日本語能力を育成し、専門科目への理解へとつなげていくことを目指す。そのために、テキストを中心とした日本語に関する知識理解に加え、課題を設定し、その解決へ向けて取り組む。また、その成果をレポートやプレゼン等の形で発表する。上記の活動を通じて、専門的な語彙・文法表現の習得と、それらを応用した表現能力の獲得を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3"
     ],
     "textbooks": [
         {
             "title": "改定版　トピックによる日本語総合演習　テーマ探しから発表へ(中級後期)",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "安藤節子・佐々木薫・赤木浩文・田口典子・鈴木孝恵",
             "publisher": "スリーエーネットワーク",
             "price": 1500,
@@ -52,28 +52,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "評価は、テキストを中心とした授業の内容理解、および、授業内容を踏まえての言語活動(調査発表等)の過程と成果を中心に行います。前者は学期中の小課題やレポートから、後者は同じく学期中に行うインタビューやアンケート、プレゼンテーションへの取り組みから判断します。",
+    "grading_criteria": "評価は、テキストを中心とした授業の内容理解、および、授業内容を踏まえての言語活動(調査発表等)の過程と成果を中心に行います。前者は学期中の小課題やレポートから、後者は同じく学期中に行うインタビューやアンケート、プレゼンテーションへの取り組みから判断します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この授業は、大学生活や将来設計の土台となる日本語でのコミュニケーションを経験するための授業です。座って勉強するだけではなく、教員・クラスメイトを中心とする多くの人々とのコミュニケーションの機会を作っていきたいと思います。毎回の授業の前と後で、60分程度の予習・復習を行ってください。その他、調査や発表などで合計20時間程度の準備を必要とする場合があります。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。\n\n本講義は、基本的にテキストを使用しながら、各課の学習項目について教員-学生の対話を中心に学習を進めます。毎回の授業では、1）教科書の内容理解、2）内容理解をふまえた言語活動(ディスカッション・インタビュー・プレゼンテーション)の順に行います。なお、使用テキストについては、受講生の日本語レベルやニーズに基づき、初回ガイダンスの際に決定します。",
+    "teacher_message": "この授業は、大学生活や将来設計の土台となる日本語でのコミュニケーションを経験するための授業です。座って勉強するだけではなく、教員・クラスメイトを中心とする多くの人々とのコミュニケーションの機会を作っていきたいと思います。毎回の授業の前と後で、60分程度の予習・復習を行ってください。その他、調査や発表などで合計20時間程度の準備を必要とする場合があります。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。\n\n本講義は、基本的にテキストを使用しながら、各課の学習項目について教員-学生の対話を中心に学習を進めます。毎回の授業では、1）教科書の内容理解、2）内容理解をふまえた言語活動(ディスカッション・インタビュー・プレゼンテーション)の順に行います。なお、使用テキストについては、受講生の日本語レベルやニーズに基づき、初回ガイダンスの際に決定します。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "授業ガイダンス・テキストの扱いと調査発表について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "テキスト１課「教育」はじめに・情報Ⅰの読み取り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "テキスト１課「教育」情報Ⅱの読み取り・内容理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "テキスト１課「教育」アンケート調査とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "テキスト１課「教育」調査計画作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "テキスト１課「教育」調査紙作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "テキスト１課「教育」調査データの取りまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "テキスト１課「教育」発表資料作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "テキスト１課「教育」発表資料作成・発表練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "テキスト１課「教育」に関する調査発表会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "テキスト２課「言葉」はじめに・情報Ⅰ読解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "テキスト２課「言葉」各国のことわざについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "テキスト２課「言葉」情報Ⅱの読み取り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "テキスト２課「言葉」文献調査について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "テキスト２課「言葉」調査テーマの検討",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "テキスト２課「言葉」調査テーマの発表・調査方法について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "テキスト２課「言葉」文献調査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -261,9 +261,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "テキスト２課「言葉」文献調査の実施・取りまとめについて",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -273,9 +273,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "テキスト２課「言葉」レジュメの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "テキスト２課「言葉」レジュメの作成・修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "テキスト２課「言葉」文献調査結果の発表会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "テキスト３課「コミュニケーション」はじめに・情報Ⅰのグラフ読み取り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -318,9 +318,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "テキスト３課「コミュニケーション」情報Ⅱの読解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -329,9 +329,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "テキスト３課「コミュニケーション」アンケートについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -340,9 +340,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "テキスト３課「コミュニケーション」調査計画の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -351,9 +351,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "テキスト３課「コミュニケーション」調査紙の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "テキスト３課「コミュニケーション」調査実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "テキスト３課「コミュニケーション」調査結果の取りまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -385,9 +385,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "テキスト３課「コミュニケーション」発表資料作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -396,9 +396,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "テキスト３課「コミュニケーション」発表資料作成・修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -407,9 +407,9 @@
             ]
         },
         {
-            "session": "３１",
+            "number": "３１",
             "content": "テキスト３課「コミュニケーション」調査発表会の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -419,9 +419,9 @@
             ]
         },
         {
-            "session": "３２",
+            "number": "３２",
             "content": "テキスト４課「昔話」はじめに・情報Ⅰの読解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -430,9 +430,9 @@
             ]
         },
         {
-            "session": "３３",
+            "number": "３３",
             "content": "テキスト４課「昔話」情報Ⅱ・資料の読み取り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -441,9 +441,9 @@
             ]
         },
         {
-            "session": "３４",
+            "number": "３４",
             "content": "テキスト４課「昔話」各国の昔話について共有",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -452,9 +452,9 @@
             ]
         },
         {
-            "session": "３５",
+            "number": "３５",
             "content": "テキスト４課「昔話」プロフィールシートの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -463,9 +463,9 @@
             ]
         },
         {
-            "session": "３６",
+            "number": "３６",
             "content": "テキスト４課「昔話」プロフィールシートの作成と修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -474,9 +474,9 @@
             ]
         },
         {
-            "session": "３７",
+            "number": "３７",
             "content": "テキスト４課「昔話」文集用の原稿作成(テーマ)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -485,9 +485,9 @@
             ]
         },
         {
-            "session": "３８",
+            "number": "３８",
             "content": "テキスト４課「昔話」文集用の原稿作成(ストーリー)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -496,9 +496,9 @@
             ]
         },
         {
-            "session": "３９",
+            "number": "３９",
             "content": "テキスト４課「昔話」文集用の原稿作成(分析・考察)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -507,9 +507,9 @@
             ]
         },
         {
-            "session": "４０",
+            "number": "４０",
             "content": "テキスト４課「昔話」作成原稿の取りまとめと修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -518,9 +518,9 @@
             ]
         },
         {
-            "session": "４１",
+            "number": "４１",
             "content": "テキスト４課「昔話」編集作業(表紙・目次・カット)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -530,9 +530,9 @@
             ]
         },
         {
-            "session": "４２",
+            "number": "４２",
             "content": "テキスト４課「昔話」編集作業(ページ内容)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -542,9 +542,9 @@
             ]
         },
         {
-            "session": "４３",
+            "number": "４３",
             "content": "テキスト４課「昔話」文集の完成と公開",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -554,9 +554,9 @@
             ]
         },
         {
-            "session": "４４",
+            "number": "４４",
             "content": "テキスト５課「住宅」はじめに・情報Ⅰグラフの読み取り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -565,9 +565,9 @@
             ]
         },
         {
-            "session": "４５",
+            "number": "４５",
             "content": "テキスト５課「住宅」情報Ⅱの読解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -576,9 +576,9 @@
             ]
         },
         {
-            "session": "４６",
+            "number": "４６",
             "content": "テキスト５課「住宅」インタビュー調査について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -587,9 +587,9 @@
             ]
         },
         {
-            "session": "４７",
+            "number": "４７",
             "content": "テキスト５課「住宅」調査計画作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -598,9 +598,9 @@
             ]
         },
         {
-            "session": "４８",
+            "number": "４８",
             "content": "テキスト５課「住宅」展示場見学",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -610,9 +610,9 @@
             ]
         },
         {
-            "session": "４９",
+            "number": "４９",
             "content": "テキスト５課「住宅」調査計画の発表と修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -621,9 +621,9 @@
             ]
         },
         {
-            "session": "５０",
+            "number": "５０",
             "content": "テキスト５課「住宅」調査実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -633,9 +633,9 @@
             ]
         },
         {
-            "session": "５１",
+            "number": "５１",
             "content": "テキスト５課「住宅」調査結果の取りまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -644,9 +644,9 @@
             ]
         },
         {
-            "session": "５２",
+            "number": "５２",
             "content": "テキスト５課「住宅」データの分析について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -655,9 +655,9 @@
             ]
         },
         {
-            "session": "５３",
+            "number": "５３",
             "content": "テキスト５課「住宅」発表資料作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -666,9 +666,9 @@
             ]
         },
         {
-            "session": "５４",
+            "number": "５４",
             "content": "テキスト５課「住宅」発表資料作成・修正",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -677,9 +677,9 @@
             ]
         },
         {
-            "session": "５５",
+            "number": "５５",
             "content": "テキスト５課「住宅」発表リハーサル",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -689,9 +689,9 @@
             ]
         },
         {
-            "session": "５６",
+            "number": "５６",
             "content": "テキスト５課「住宅」調査結果発表会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -701,9 +701,9 @@
             ]
         },
         {
-            "session": "５７",
+            "number": "５７",
             "content": "最終レポート①(テーマ決め)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -712,9 +712,9 @@
             ]
         },
         {
-            "session": "５８",
+            "number": "５８",
             "content": "最終レポート②(表記・表現)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -723,9 +723,9 @@
             ]
         },
         {
-            "session": "５９",
+            "number": "５９",
             "content": "最終レポート③(構成)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -734,9 +734,9 @@
             ]
         },
         {
-            "session": "６０",
+            "number": "６０",
             "content": "最終レポート④(執筆準備)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -745,6 +745,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:47Z",
+    "fetched_at": "2025-04-04T05:59:47Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700X",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "伏木　貞文",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、専門ゼミⅠで習得したスキルをもとに、学生の興味関心の深いテーマについて、先行研究調査、データ収集・聴き取り・アンケート等、仮説の提示、分析などを行い、得られた結果に基づいて、卒業論文を取りまとめる。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析することができる。\n（ⅱ）課題解決に向けた考え方、分析手法を習得することができる。\n（ⅲ）卒業論文を完成させることができる。",
+    "objectives": "本ゼミでは、専門ゼミⅠで習得したスキルをもとに、学生の興味関心の深いテーマについて、先行研究調査、データ収集・聴き取り・アンケート等、仮説の提示、分析などを行い、得られた結果に基づいて、卒業論文を取りまとめる。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析することができる。\n（ⅱ）課題解決に向けた考え方、分析手法を習得することができる。\n（ⅲ）卒業論文を完成させることができる。",
     "overview": "本ゼミは、学生の自主的・主体的な参加型授業として各自が設定した卒業論文のテーマについて調査、分析を行い、毎回のゼミでそれを発表・確認し、改善点などの指導を行う。また、中間報告会等を通じて論理や分析の精緻化を図り、最終的に卒業論文を完成させる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -42,32 +42,32 @@
         "経営コースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "筆記用具、ノートパソコン",
+        "required_materials": "筆記用具、ノートパソコン",
         "other": "参考図書は適宜案内する"
     },
-    "evaluation_criteria": "毎回の報告や卒業論文に基づき評価する。",
+    "grading_criteria": "毎回の報告や卒業論文に基づき評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "各自が設定した研究テーマについて、調査・研究を行い、卒業論文を執筆し完成させます。教員は、課題設定、先行研究の照合、分析手法、論理展開など作成の各段階において指導・支援を行います。学習内容や論文の進捗等について教員との十分な情報共有に努めてください。\n【予習・復習等】\n　卒業論文の制作にあたっては、先行研究調査や分析手法の習得など自主的な学習時間を十分に（目安として１日３時間程度）確保することが重要となります。",
+    "teacher_message": "各自が設定した研究テーマについて、調査・研究を行い、卒業論文を執筆し完成させます。教員は、課題設定、先行研究の照合、分析手法、論理展開など作成の各段階において指導・支援を行います。学習内容や論文の進捗等について教員との十分な情報共有に努めてください。\n【予習・復習等】\n　卒業論文の制作にあたっては、先行研究調査や分析手法の習得など自主的な学習時間を十分に（目安として１日３時間程度）確保することが重要となります。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n論文テーマの確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "進捗状況報告、質疑応答・意見交換（１）\n先行研究の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "進捗状況報告、質疑応答・意見交換（２）\n先行研究の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "進捗状況報告、質疑応答・意見交換（３）\n先行研究の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "進捗状況報告、質疑応答・意見交換（４）\n先行研究の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "進捗状況報告、質疑応答・意見交換（５）\n論旨、構成の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "進捗状況報告、質疑応答・意見交換（６）\n論旨、構成の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "進捗状況報告、質疑応答・意見交換（７）\n論旨、構成の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "進捗状況報告、質疑応答・意見交換（８）\n分析手法の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "進捗状況報告、質疑応答・意見交換（９）\n分析手法の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "進捗状況報告、質疑応答・意見交換（１０）\n分析手法の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "進捗状況報告、質疑応答・意見交換（１１）\n分析手法の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "中間報告会①（研究テーマ、構成、分析手法等の確認）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "中間報告会①（研究テーマ、構成、分析手法等の確認）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "休暇中課題の報告、意見交換",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "進捗状況報告、質疑応答・意見交換（１２）\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "進捗状況報告、質疑応答・意見交換（１３）\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "進捗状況報告、質疑応答・意見交換（１４）\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "進捗状況報告、質疑応答・意見交換（１５）\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "進捗状況報告、質疑応答・意見交換（１６）\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "中間報告会③（骨子の確認、完成に向けた課題整理等）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "中間報告会④（骨子の確認、完成に向けた課題整理等）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "進捗状況報告、論文指導（仕上げ段階）（１）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "進捗状況報告、論文指導（仕上げ段階）（２）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "進捗状況報告、論文指導（仕上げ段階）（３）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "進捗状況報告、論文指導（仕上げ段階）（４）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "進捗状況報告、論文指導（仕上げ段階）（５）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒業論文最終報告（１）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業論文最終報告（２）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,6 +365,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "地方公共団体での勤務経験を踏まえ、事例を交えて演習を行う。"
+    "credit_auditing": false,
+    "practitioner_info": "地方公共団体での勤務経験を踏まえ、事例を交えて演習を行う。"
 }

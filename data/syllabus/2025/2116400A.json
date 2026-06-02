@@ -1,48 +1,48 @@
 {
-    "_fetched_at": "2025-04-04T06:05:44Z",
+    "fetched_at": "2025-04-04T06:05:44Z",
     "name_ja": "基礎看護技術Ⅰ（日常生活援助）",
     "name_en": "Nursing　Skills　Ⅰ",
     "syllabus_number": "2116400A",
     "course_number": "22-1-22-22-03",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "藤井　宝恵",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "磯濱　真理子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "上野　和美",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "杉本　吉恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "福森　絢子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "堂本　司",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "田中　智子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -51,12 +51,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．日常生活を支援する看護実践に必要な技術について、その根拠と方法を理解できる。 \n２．日常生活援助技術の意義・目的、方法、留意点を専門知識と根拠に基づき説明できる。 \n３．看護師、患者、観察者の役割体験を通して、安全・安楽・自立を踏まえた日常生活援助が実施できる。\n４．対象の療養環境を理解し、適切な日常生活援助技術の提供方法を自ら考え実施できる。",
+    "objectives": "１．日常生活を支援する看護実践に必要な技術について、その根拠と方法を理解できる。 \n２．日常生活援助技術の意義・目的、方法、留意点を専門知識と根拠に基づき説明できる。 \n３．看護師、患者、観察者の役割体験を通して、安全・安楽・自立を踏まえた日常生活援助が実施できる。\n４．対象の療養環境を理解し、適切な日常生活援助技術の提供方法を自ら考え実施できる。",
     "overview": "本授業では、生活者である「人間」にとっての日常生活行動の意味を理解するとともに、健康に問題をもつ対象への日常生活援助技術の習得を目指す。演習では，患者役・看護師役それぞれを経験することで，コミュニケーションの重要性や人間関係構築の手段，人間の尊厳とその尊重についての理解を深めるとともに，日常生活援助技術の根拠・留意点や安全・安楽に配慮した援助方法を学ぶ。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP2",
         "看護学科DP3",
         "看護学科DP4"
@@ -64,7 +64,7 @@
     "textbooks": [
         {
             "title": "系統看護学講座 専門分野 基礎看護学[2] 基礎看護技術Ⅰ 第19版.",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "茂野香おる",
             "publisher": "医学書院",
             "price": 2970,
@@ -73,7 +73,7 @@
         },
         {
             "title": "系統看護学講座 専門分野 基礎看護学[3] 基礎看護技術Ⅱ 第19版",
-            "year": 2025,
+            "publication_year": 2025,
             "author": "任和子",
             "publisher": "医学書院",
             "price": 3520,
@@ -82,7 +82,7 @@
         },
         {
             "title": "看護がみえる　vol.1　基礎看護技術 第2版",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "メディックメディア",
             "publisher": "医療情報科学研究所",
             "price": 3630,
@@ -91,7 +91,7 @@
         },
         {
             "title": "看護がみえる　vol.2　臨床看護技術 第1版",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "メディックメディア",
             "publisher": "医療情報科学研究所",
             "price": 3630,
@@ -99,10 +99,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "適宜、紹介する。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -110,31 +110,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "看護学概論"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、配布資料など　演習時の服装は実習着、ナースシューズとする、ノートパソコンまたはタブレット端末",
+        "required_materials": "教科書、配布資料など　演習時の服装は実習着、ナースシューズとする、ノートパソコンまたはタブレット端末",
         "other": "本科目の単位取得は基礎看護実習Ⅰの履修要件となる。"
     },
-    "evaluation_criteria": "筆記試験40％、実技試験50％、提出物10％で総合的に評価する。 \n\n筆記試験は得点の60%以上で，実技試験は得点の70%以上で合格とする。実技試験及び筆記試験がいずれも合格することが必要である。　成績の総合評価は、 100点満点で60点以上を合格とし，60点未満を不合格とする。なお，実技試験及び筆記試験のいずれか，または両方に合格できない場合，総合評価が60点以上でも不合格とする。提出物には「演習振り返り表」あるいは「手順書」が該当する。",
+    "grading_criteria": "筆記試験40％、実技試験50％、提出物10％で総合的に評価する。 \n\n筆記試験は得点の60%以上で，実技試験は得点の70%以上で合格とする。実技試験及び筆記試験がいずれも合格することが必要である。　成績の総合評価は、 100点満点で60点以上を合格とし，60点未満を不合格とする。なお，実技試験及び筆記試験のいずれか，または両方に合格できない場合，総合評価が60点以上でも不合格とする。提出物には「演習振り返り表」あるいは「手順書」が該当する。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 40,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "基礎的知識に基づく技術を提供するためには充分な準備が必要です。既習内容は復習し、予習して授業に臨みましょう。予習復習は毎回１時間を確保してください。また単元ごとに提示する事前課題・事後課題を通し、自己学習を深めて下さい。 \n正しい知識と技術が習得できるよう繰り返しの練習及び復習を行い、達成度を高める努力をして下さい。 \n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "基礎的知識に基づく技術を提供するためには充分な準備が必要です。既習内容は復習し、予習して授業に臨みましょう。予習復習は毎回１時間を確保してください。また単元ごとに提示する事前課題・事後課題を通し、自己学習を深めて下さい。 \n正しい知識と技術が習得できるよう繰り返しの練習及び復習を行い、達成度を高める努力をして下さい。 \n\n【オフィスアワー】 \n講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "看護実践における看護技術とは \n対象者の安全を守る援助技術 \n【講義】看護技術について。安全を守る援助技術について。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "安全を守る援助技術 \n【演習】手洗い法、個人用防護具（手袋、エプロン）の着脱",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "環境を整える援助技術 \n【講義】療養環境・環境整備について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "観察の技術\n【講義】バイタルサインについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "活動・休息の援助技術\n【講義】活動・休息の援助技術について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "苦痛緩和・安楽確保の技術\n【講義】苦痛緩和・安楽確保の援助技術について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "環境を整える援助技術① \n【演習】環境整備・ベッドメーキング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "環境を整える援助技術② \n【演習】臥床患者のシーツ交換",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "観察の技術①\n【演習】バイタルサイン（T,P,R）測定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "観察の技術②\n【演習】バイタルサイン（BP）測定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -277,9 +277,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "食事の援助技術\n【講義】食事の援助技術について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "技術トレーニング①\n【演習】既習技術の復習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実技試験①\n【実技試験】ベッドメーキング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実技試験①\n【実技試験】ベッドメーキング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -353,9 +353,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "活動・休息の援助技術①\n【演習】体位変換・安楽な体位",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -372,9 +372,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "活動・休息の援助技術①\n【演習】体位変換・安楽な体位",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -391,9 +391,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "活動・休息の援助技術②\n【演習】車イス、ストレッチャー、歩行介助",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -410,9 +410,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "活動・休息の援助技術②\n【演習】車イス、ストレッチャー、歩行介助",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -429,9 +429,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "清潔の援助技術 \n【講義】清潔の援助技術について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -439,9 +439,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "清潔の援助技術 \n【講義】清潔の援助技術について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -449,9 +449,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "清潔の援助技術① \n【演習】寝衣交換",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -468,9 +468,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "清潔の援助技術② \n【演習】手浴、足浴、顔面清拭",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -487,9 +487,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "清潔の援助技術③ \n【演習】全身清拭",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -506,9 +506,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "清潔の援助技術③ \n【演習】全身清拭",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -525,9 +525,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "清潔の援助技術④ \n【演習】洗髪",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -544,9 +544,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "清潔の援助技術④ \n【演習】洗髪",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -563,9 +563,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "技術トレーニング② \n【演習】既習技術の復習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -582,9 +582,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "技術トレーニング② \n【演習】既習技術の復習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -601,9 +601,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "実技試験②\n【実技試験】バイタルサイン測定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -620,9 +620,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "実技試験②\n【実技試験】バイタルサイン測定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -639,6 +639,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "本科目に関わる教員は看護師経験をもち、かつ看護系大学にて看護技術の講義・演習の科目担当をした経験をもつ。"
+    "credit_auditing": false,
+    "practitioner_info": "本科目に関わる教員は看護師経験をもち、かつ看護系大学にて看護技術の講義・演習の科目担当をした経験をもつ。"
 }

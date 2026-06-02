@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:30Z",
+    "fetched_at": "2025-04-04T05:59:30Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700I",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "佐藤　裕哉",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n1.地理学の卒論を作成できる。\n2.地域に関する統計データを使いこなすことができる。\n3.専門ゼミⅠで身につけた地域調査の手法を実行できる。\n4.地域調査の結果を地図や図表として表現することができる。\n5.地域調査の結果を分かりやすく他者に伝えることができる。",
+    "objectives": "【到達目標】\n1.地理学の卒論を作成できる。\n2.地域に関する統計データを使いこなすことができる。\n3.専門ゼミⅠで身につけた地域調査の手法を実行できる。\n4.地域調査の結果を地図や図表として表現することができる。\n5.地域調査の結果を分かりやすく他者に伝えることができる。",
     "overview": "専門ゼミⅠや、これまでの大学生活を通して身につけた知識や技能を活用し、各自で地域の課題について調べ、分析し、議論します。そして地域調査、地域分析に基づく卒業論文の完成を目指します。\n\n【アクティブラーニングについて】\n一部にアクティブラーニング（ディスカッション）を含みます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -42,32 +42,32 @@
         "経営コースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "必要な持参物については、適宜、指示します。",
+        "required_materials": "必要な持参物については、適宜、指示します。",
         "other": "授業日以外、授業時間外の活動（フィールドワークなど）を予定しています。"
     },
-    "evaluation_criteria": "1）レポート＝卒業論文は、1.テーマ設定、2.文献の参照、3.データ収集（聞き取り調調査を重視）、4.収集データの処理（図表化、地図化）、5.論理的な文章構成・文章表現、から評価します。\n2）発表・実技は、論文輪読や卒論の途中経過報告において、他者に伝わる報告や資料作成ができているかどうかで判断します。また、資料作成等の作業過程についても合わせて評価します。",
+    "grading_criteria": "1）レポート＝卒業論文は、1.テーマ設定、2.文献の参照、3.データ収集（聞き取り調調査を重視）、4.収集データの処理（図表化、地図化）、5.論理的な文章構成・文章表現、から評価します。\n2）発表・実技は、論文輪読や卒論の途中経過報告において、他者に伝わる報告や資料作成ができているかどうかで判断します。また、資料作成等の作業過程についても合わせて評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "卒業論文は大学生活の集大成です。1年かけて完成を目指しますが、大変なことも多いと思います。しかしながら、その分、完成した際の達成感も大きいと思います。大変なこともありますが、主体的に学び、充実した1年にしましょう。\n\n【予習】現地調査が行えるように文献を読み込み、統計データを収集しておいてください。\n【復習】ゼミで議論した内容について、自身で掘り下げて調べてみてください。また、現地調査で得た情報と既存研究の成果、統計データとの突き合わせを行ってください（自分が集めた情報の検証）。\n（予習、復習合わせて90分程度行ってください）",
+    "teacher_message": "卒業論文は大学生活の集大成です。1年かけて完成を目指しますが、大変なことも多いと思います。しかしながら、その分、完成した際の達成感も大きいと思います。大変なこともありますが、主体的に学び、充実した1年にしましょう。\n\n【予習】現地調査が行えるように文献を読み込み、統計データを収集しておいてください。\n【復習】ゼミで議論した内容について、自身で掘り下げて調べてみてください。また、現地調査で得た情報と既存研究の成果、統計データとの突き合わせを行ってください（自分が集めた情報の検証）。\n（予習、復習合わせて90分程度行ってください）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "卒論のテーマ案を発表する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "卒論に関する論文を読み議論する1（作業仮説の構築）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "卒論に関する論文を読み議論する2（作業仮説の構築）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "卒論に関する論文を読み議論する3（作業仮説の構築）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "卒論に関する論文を読み議論する4（作業仮説の構築）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "作業仮説を発表する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "卒論に関する論文を読み議論する5（作業仮説の修正とアウトラインの検討）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "卒論に関する論文を読み議論する6（作業仮説の修正とアウトラインの検討）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "卒論に関する論文を読み議論する7（作業仮説の修正とアウトラインの検討）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "卒論に関する論文を読み議論する8（作業仮説の修正とアウトラインの検討）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "作業仮説の修正結果とアウトライン案について発表する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "夏季休暇中の調査計画について発表する1（現地調査先と調査内容について）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "夏季休暇中の調査計画について発表する2（現地調査先と調査内容について）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "夏季休暇中の調査計画について発表する3（現地調査先と調査内容について）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "夏季休暇中の調査計画について発表する4（現地調査先と調査内容について）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "中間報告1（序論（卒論第1章）、地域概観（卒論第2章）、夏季休暇中の地域調査結果の報告）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "中間報告2（序論（卒論第1章）、地域概観（卒論第2章）、夏季休暇中の地域調査結果の報告）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "中間報告3（序論（卒論第1章）、地域概観（卒論第2章）、夏季休暇中の地域調査結果の報告）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "中間報告4（序論（卒論第1章）、地域概観（卒論第2章）、夏季休暇中の地域調査結果の報告）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "中間報告以降の地域調査結果の報告・議論1（本論（卒論第3章）の執筆を含む）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "中間報告以降の地域調査結果の報告・議論2（本論（卒論第3章）の執筆を含む）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "中間報告以降の地域調査結果の報告・議論3（本論（卒論第3章）の執筆を含む）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "中間報告以降の地域調査結果の報告・議論4（本論（卒論第3章）の執筆を含む）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "結論の執筆・議論1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "結論の執筆・議論2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "結論の執筆・議論3",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "結論の執筆・議論4",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "卒論全体の見直し、修正",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒論発表会とフィードバック1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒論発表会とフィードバック2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒論の完成、提出",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,6 +375,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

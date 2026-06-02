@@ -1,40 +1,40 @@
 {
-    "_fetched_at": "2025-04-07T11:01:53Z",
+    "fetched_at": "2025-04-07T11:01:53Z",
     "name_ja": "ソーシャルワーク実習指導Ⅱ",
     "name_en": "Guidance of Social Work Practice Ⅱ",
     "syllabus_number": "2028100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "井上　浩",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "竹下　徹",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "守本　友美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -44,21 +44,21 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "夏季休暇中のソーシャルワーク実習Ⅰに備える事前学習の指導を行う。\n事前学習では以下の4点を行う。\n1．実習に入るための社会常識としての礼儀やマナーの指導\n2．社会福祉実践現場の紹介および実践に必要な技術の習得\n3．実習日誌、実践記録などの書き方の教授\n4．実習計画書の作成指導\n\n【到達目標】\n①ソーシャルワーク実習の意義と目的と理解できる\n②実習施設となる社会福祉実践現場で必要となる知識及び技術を習得し展開できる\n③ソーシャルワーク実習Ⅰにおける学習目標を説明できる",
+    "objectives": "夏季休暇中のソーシャルワーク実習Ⅰに備える事前学習の指導を行う。\n事前学習では以下の4点を行う。\n1．実習に入るための社会常識としての礼儀やマナーの指導\n2．社会福祉実践現場の紹介および実践に必要な技術の習得\n3．実習日誌、実践記録などの書き方の教授\n4．実習計画書の作成指導\n\n【到達目標】\n①ソーシャルワーク実習の意義と目的と理解できる\n②実習施設となる社会福祉実践現場で必要となる知識及び技術を習得し展開できる\n③ソーシャルワーク実習Ⅰにおける学習目標を説明できる",
     "overview": "外部講師の講話を受けて、社会福祉実践現場を理解する。そのうえでソーシャルワーク実習Ⅰでの学習課題を明確にしていく。ソーシャルワーカーを目指すものとしての姿勢・態度を考え授業に臨んでもらいたい。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "周南公立大学　ソーシャルワーク実習の手引",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -66,31 +66,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "ソーシャルワーク実習指導Ⅰ",
             "ソーシャルワークの基盤と専門職Ⅱ",
             "ソーシャルワーク演習Ⅰ"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": "社会福祉士国家試験受験資格取得に必要な35科目のうち、ソーシャルワーク実習指導Ⅰを除く8科目以上を履修済であること。"
     },
-    "evaluation_criteria": "①ソーシャルワーク実習の意義と目的と理解できる\n②実習施設となる社会福祉実践現場で必要となる知識及び技術を習得し展開できる\n③ソーシャルワーク実習Ⅰにおける学習目標を説明できる\n\n以上3点を、下記「学生に対する評価」の内容で評価する。なお「学生に対する評価」の「その他」は授業における取り組み方を評価する。",
+    "grading_criteria": "①ソーシャルワーク実習の意義と目的と理解できる\n②実習施設となる社会福祉実践現場で必要となる知識及び技術を習得し展開できる\n③ソーシャルワーク実習Ⅰにおける学習目標を説明できる\n\n以上3点を、下記「学生に対する評価」の内容で評価する。なお「学生に対する評価」の「その他」は授業における取り組み方を評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 40,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 40,
+        "other": 20
     },
-    "message_from_teachers": "ソーシャルワーク実習指導Ⅱは社会福祉士の法定実習に向けた事前準備を行う授業であるとともに、ソーシャルワーカーとしての自己覚知や他者との協働をすすめていく科目でもあります。ソーシャルワーカーを目指すものとしての自覚をもって取り組んでください。\n\n留意点\n1．履修の手引の「実習に関わる科目ごとの履修条件」に注意すること\n2．授業を正当な理由なく欠席したものは再履修となるので注意すること\n\n\n【予習・復習について】\n予習・・・授業内容を確認のうえ、不明な用語を調べてくること。\n復習・・・授業実施内容について、配布資料および教科書の該当箇所を読み返し、知識を定着させること。また課題に反映させること。\n※予習・復習あわせて90分程度が必要になる。",
+    "teacher_message": "ソーシャルワーク実習指導Ⅱは社会福祉士の法定実習に向けた事前準備を行う授業であるとともに、ソーシャルワーカーとしての自己覚知や他者との協働をすすめていく科目でもあります。ソーシャルワーカーを目指すものとしての自覚をもって取り組んでください。\n\n留意点\n1．履修の手引の「実習に関わる科目ごとの履修条件」に注意すること\n2．授業を正当な理由なく欠席したものは再履修となるので注意すること\n\n\n【予習・復習について】\n予習・・・授業内容を確認のうえ、不明な用語を調べてくること。\n復習・・・授業実施内容について、配布資料および教科書の該当箇所を読み返し、知識を定着させること。また課題に反映させること。\n※予習・復習あわせて90分程度が必要になる。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス　授業の進め方とソーシャルワーク実習Ⅰ（見学）発表会について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ソーシャルワーク実習Ⅰ（見学）発表会",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "実習日誌に関する説明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "実習日誌の書き方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "利用者のアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "地域のアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "実習計画書の作成①\n－アウトライン作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "実習計画書の作成②\n－実習テーマ作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実習計画書の作成③\n－実習課題の設定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "実習計画書の作成④\n－実習計画書の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "実習計画書の作成⑤\n－実習計画書の完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "実習施設事前訪問/実習計画書の協議",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実習指導者からの講話-実習で学ぶべきこと・実習における留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実習課題発表会",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ソーシャルワーク実習指導Ⅱまとめ\n実習前・実習中の諸注意",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -277,6 +277,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-07T10:54:32Z",
+    "fetched_at": "2025-04-07T10:54:32Z",
     "name_ja": "ビジネス英作文",
     "name_en": "English for Business Writing",
     "syllabus_number": "1012900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "ポーリーン",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ボールドウィン",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -33,39 +33,39 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "In this class, students will learn written business communication in English, including covering letters, memorandums, and especially emails.\nThe target is to be able to write short and concise information that communicates without sounding like a translation, and understand the importance (and impact) of professionally written content.",
+    "objectives": "In this class, students will learn written business communication in English, including covering letters, memorandums, and especially emails.\nThe target is to be able to write short and concise information that communicates without sounding like a translation, and understand the importance (and impact) of professionally written content.",
     "overview": "Each week, students will be asked to write an email to a prospective client. These emails will be exchanged with other students to practice replying. There will be a focus on written grammar using business proposals and covering letters. \nHomework will be assigned each week to prepare for the following lesson. This homework is important for class participation, with is half of the grade.",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "(i) Active class participation(asking questions, eliciting answers, class preparation) \n(ii) Expression\n(iii) Content and vocabulary usage\n(iv)Clarity and grammar",
+    "grading_criteria": "(i) Active class participation(asking questions, eliciting answers, class preparation) \n(ii) Expression\n(iii) Content and vocabulary usage\n(iv)Clarity and grammar",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 30,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "The most important thing about learning English is to enjoy communicating, whether in person or in writing.\nThe class will mostly be designed based on your ability and interests, so the content below is subject to change.",
+    "teacher_message": "The most important thing about learning English is to enjoy communicating, whether in person or in writing.\nThe class will mostly be designed based on your ability and interests, so the content below is subject to change.",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "Orientation and discussion about writing styles and interests.\nBasic grammar review.\nWrite a professional introduction of yourself.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Study samples of Japanese and English business letters.\nDiscuss differences.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "Writing and responding to an email.\nStudy covering letters and discuss expressions, word choices, and style.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Writing and responding to an email.\nWhat research is necessary to write a better business letter?",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Writing and responding to an email.\nWhat is clear and compelling business communication?",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Writing and responding to an email.\nLook back at cross-cultural differences in business writing.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Writing and responding to an email.\nWriting for your reader.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Writing and responding to an email.\nPractical writing based on data-visualization.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Writing and responding to an email.\nStudy a business news article and look at expressions, word choices, and style.\nDiscuss efficacy.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Writing and responding to an email.\nWrite your own covering letter.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Editing.\nProofread and edit your own writing.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Brainstorming and slimming down. What are the important issues to be communicated?",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Writing outlines.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Finish writing final proposals.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Present your writing on the screen (or using handouts) and explain.",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -244,6 +244,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

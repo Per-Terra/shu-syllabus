@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:06:52Z",
+    "fetched_at": "2025-04-07T11:06:52Z",
     "name_ja": "アスレティックトレーニング概論",
     "name_en": "Introduction to Athletic Training",
     "syllabus_number": "2110600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "佐野村　学",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. アスレティックトレーナーの位置づけ、役割などについて説明できる。\n2. アスレティックトレーナーに必要な知識や技能、態度などについて説明できる。\n3. スポーツ医・科学チームを構成する関連資格の特徴とアスレティックトレーナーとの連携と指導者に求められる倫理や責任などについて説明できる。",
+    "objectives": "1. アスレティックトレーナーの位置づけ、役割などについて説明できる。\n2. アスレティックトレーナーに必要な知識や技能、態度などについて説明できる。\n3. スポーツ医・科学チームを構成する関連資格の特徴とアスレティックトレーナーとの連携と指導者に求められる倫理や責任などについて説明できる。",
     "overview": "アスレティックトレーニング において重要な役割を果たすアスレティックトレーナーの位置づけと役割、専門性、業務を遂行する上で必要とされる具体的な知識や技能、態度などを習得することを目標とする。スポーツ医・科学チームを構成する関連資格の特徴とアスレティックトレーナーの役割や連携について理解する。また、指導者に求められる倫理や責任などについて理解するとともに、指導現場において起こり得るリスクやそのマネジメント法を習得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP3"
     ],
     "textbooks": [
         {
             "title": "公認アスレティックトレーナー専門科目　第1巻アスレティックトレーナーの役割",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "",
             "publisher": "日本スポーツ協会",
             "price": 3410,
@@ -45,10 +45,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "公認スポーツ指導者資格　共通科目リファレンスブック",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "日本スポーツ協会",
             "price": 4840,
@@ -56,27 +56,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "筆記試験30％、課題レポート30％、発表30％、授業への参加意欲10％",
+    "grading_criteria": "筆記試験30％、課題レポート30％、発表30％、授業への参加意欲10％",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 30,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "毎回、学習内容に関する予習・復習を実施すること。\n【事前学習・事後学習の時間】合わせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n【事前学習・事後学習の時間】合わせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "アスレティックトレーニングとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "アスレティックトレーナーのコンピテンシーに応じた業務の運営",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "アスレティックトレーナーの役割と必要な知識、技能、態度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "スポーツ指導者としてのアスレティックトレーナーの活動と倫理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "アスレティックトレーナーとしての活動におけるリスクマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "アスレティックトレーナーとしての活動環境と職域",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "アスレティックトレーナーに必要とされる健康管理と対応策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "感染症対策とメンタルヘルス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "スポーツ医・科学チームを構成する関連資格の特徴と役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "アスレティックトレーナーにおけるエビデンスに基づく実践の概念と運営方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "アスレティックトレーナーにおける研究の目的と意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アスレティックトレーナーに求められる生涯教育と生涯学習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "アスレティックトレーナーにおける関係者とのコミュニケーシ\nョンと留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アスレティックトレーナーと関係する組織の仕組みと特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "アスレティックトレーナーにおけるクライアントの把握とコミュニケーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

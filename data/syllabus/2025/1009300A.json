@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T05:55:37Z",
+    "fetched_at": "2025-04-04T05:55:37Z",
     "name_ja": "キャリアプランニング実践",
     "name_en": "Career planning practice",
     "syllabus_number": "1009300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "坂本　勲",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -29,39 +29,39 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "【到達目標】\n(i)学生が志望する業界、職種、企業等を選択し、レポートを作成できる。\n(ii)志望する業界の面接にうまく対応できる（履歴書、エントリーシート等の書き方を含む）。\n(ⅲ)志望する業界を選択し、就活イベントに参加する。",
+    "objectives": "【到達目標】\n(i)学生が志望する業界、職種、企業等を選択し、レポートを作成できる。\n(ii)志望する業界の面接にうまく対応できる（履歴書、エントリーシート等の書き方を含む）。\n(ⅲ)志望する業界を選択し、就活イベントに参加する。",
     "overview": "業界研究、面接対策等就活において内定を獲得するための具体的な方法の説明や訓練を行う授業です。山口県下の\n「主体性を持った意欲ある人材を育成する」また「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」という教育目標に対し、就活に必要な業界研究、就職試験についての知識を高め、内定を獲得するための能力を育成します。面接練習等、一部の授業は、対面で実施します（第1回オリエンテーションで詳細は説明します）",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "・志望業界、職種、企業等の選択、レポートの作成能力、志望する業界の面接への対応、履歴書、エントリーシート等の作成、就活イベントへの参加。",
+    "grading_criteria": "・志望業界、職種、企業等の選択、レポートの作成能力、志望する業界の面接への対応、履歴書、エントリーシート等の作成、就活イベントへの参加。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 35,
-        "発表・実技": 35,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 0,
+        "report": 35,
+        "presentation": 35,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "・この講座を通して就活準備をしっかり行い、希望に沿った企業・機関の内定を獲得してください。\n・就活に必要な業界研究、面接対策等を行う講座ですので、就職を希望する学生は、必ず受講してください。",
+    "teacher_message": "・この講座を通して就活準備をしっかり行い、希望に沿った企業・機関の内定を獲得してください。\n・就活に必要な業界研究、面接対策等を行う講座ですので、就職を希望する学生は、必ず受講してください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、就活スケジュールと就活準備について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "インターンプログラムの概要、参加の注意点",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "就活サイト登録会\n業界、企業研究の方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "インターンプログラムへの申し込み、連絡事項、参加の心得、マナー等",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "就活サイト登録会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "就活計画レポート作成方法の説明\n業界研究①　行政職、消防・警察等",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "業界研究②　商社、メーカー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "業界研究③　金融",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "業界研究④　流通・商業・その他１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "業界研究⑤　その他２（教職、福祉、進学等）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ビジネス文書の基礎、注意点",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ネチケット、ビジネスメールの作成演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企業研究会",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "就活計画レポート等課題作成、個別指導会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "就活計画レポート等課題作成、個別指導会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "OpenESの使用方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -230,9 +230,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "履歴書の作成の注意点、書き方演習　履歴書左側項目の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "履歴書の作成の注意点、書き方演習　自己紹介文の作成、エントリーシート作成の注意点",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -252,9 +252,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "エントリーシートの書き方①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "エントリーシート作成の注意点、作成演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "企業研究会",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "ビジネスマナーの説明とロールプレー演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "グループディスカッション演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "グループディスカッション演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "グループ面接演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "グループ面接演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "WEB面接の対応\nグループ面接演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "ハローワークの活用方法について\n個別面接会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "社会人としての法律知識\n個別面接会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "就活開始に向けて\nそうまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -384,6 +384,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

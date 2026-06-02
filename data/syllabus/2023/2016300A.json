@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:14:03Z",
+    "fetched_at": "2024-08-08T01:14:03Z",
     "name_ja": "社会保障Ⅱ",
     "name_en": "Social Security II",
     "syllabus_number": "2016300A",
     "course_number": "01EP205、05SW206",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,35 +26,35 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①生活や労働における問題を把握する。\n②福祉と経済の関連性を把握する。\n③具体的に日常生活における社会保障制度や行政の現場で起こっている問題について理解を深める。",
+    "objectives": "①生活や労働における問題を把握する。\n②福祉と経済の関連性を把握する。\n③具体的に日常生活における社会保障制度や行政の現場で起こっている問題について理解を深める。",
     "overview": "本講義では、社会保障機能を理論的に示すとともに、具体的事例を取り上げながら制度を説明する。取り上げる制度は、年金、医療、介護、生活保護についてである。各制度は、生涯にわたり日常生活で関わるものであり、サービス内容やサービス負担額を理解することの重要性は高まっている。特にサービスの負担は、①税、②社会保険料、③自己負担により行われ、家計に対する影響も大きいといえる。最後に国際比較を通して日本の方向性を示唆する。\n　社会保障に関する知識は、国および地方公務員として業務を行う上でも重要である。さらに、民間企業でも少子高齢化社会の中でシニアビジネス等に対する注目度は高く、福祉市場に関する視点も具体的な事例を取り上げながら説明する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
+    "grading_criteria": "現代の社会福祉問題に関して理論的な裏付けができるようにする。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "日常生活から社会福祉の問題に関心をもつ。新聞やニュースを見るように心がける。",
+    "teacher_message": "日常生活から社会福祉の問題に関心をもつ。新聞やニュースを見るように心がける。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "講義ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -62,9 +62,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "年金保険制度①（制度）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "年金保険制度②（年金財政と動向）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "医療保険制度①（制度）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "医療保険制度②（医療財政と動向）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "介護保険制度①（制度）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "介護保険制度②（介護財政と動向）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "労働保険制度①（制度）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "労働保険制度②（動向）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "生活保護制度①（制度および動向）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "生活保護制度②（就労支援）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "生活保護制度③（貧困ビジネス）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "諸外国における社会保障制度①（各国制度）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "諸外国における社会保障制度②（国民負担率）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "講義の総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,6 +202,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

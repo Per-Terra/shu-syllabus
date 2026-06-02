@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:02:31Z",
+    "fetched_at": "2025-04-04T06:02:31Z",
     "name_ja": "パラスポーツ論Ⅰ",
     "name_en": "Theory of ParasportsⅠ",
     "syllabus_number": "2033300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "宇野　直士",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,19 +27,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "パラスポーツの意義と理念ならびに障がい者スポーツの指導における留意点を網羅的に取り扱う。講義は、障害に関するメカニズムや障がい者スポーツにおける文化的特性、諸施策などを学習する。また、地域における障がい者スポーツ振興、キャリア形成、指導上の留意点と工夫についても確認する。この講義を通じ身に付く能力として、障がい者スポーツに関する専門的な知識と障がい者に対応するための技術を得ることが期待できる。",
+    "objectives": "パラスポーツの意義と理念ならびに障がい者スポーツの指導における留意点を網羅的に取り扱う。講義は、障害に関するメカニズムや障がい者スポーツにおける文化的特性、諸施策などを学習する。また、地域における障がい者スポーツ振興、キャリア形成、指導上の留意点と工夫についても確認する。この講義を通じ身に付く能力として、障がい者スポーツに関する専門的な知識と障がい者に対応するための技術を得ることが期待できる。",
     "overview": "テキストに即して授業を展開する。授業時間の範囲を読んでくること。参考文献は随時提示する。講義形式で進めるが、個人やグループでの作業も行うので、積極的な参加が必要。また適宜、レポートや小テストを行って理解度を把握する。授業計画は授業の進行に応じて一部変更することがある。\n\n※履修者は障がい者スポーツ資格を取得する者とし、スポーツ資格のコース申請をおこなったものに限り受講を認める。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [
         {
             "title": "障がいのある人のスポーツ指導教本（初級・中級）改訂版",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "（公財）日本パラスポーツ協会／編",
             "publisher": "ぎょうせい",
             "price": 2640,
@@ -47,36 +47,36 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "解剖学",
             "健康産業施設実習",
             "スポーツ医学",
             "スポーツ社会学",
             "生理学"
         ],
-        "brings": "教科書、ノートパソコン",
+        "required_materials": "教科書、ノートパソコン",
         "other": "なし"
     },
-    "evaluation_criteria": "定期試験60%、毎回の提出物40%の割合で評価する",
+    "grading_criteria": "定期試験60%、毎回の提出物40%の割合で評価する",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "本講義では、パラアスリートの卓越した能力だけでなく、日常生活における障害者の方々への合理的配慮等にも焦点を当てます。私たちの社会における多様性と包摂の重要性を理解し、障害を持つ人々の日常とスポーツの世界における彼らの役割を深く探究します。予習は特に必要としませんが、学習した内容を理解して講義に臨んでほしいと考えているので、復習は十分に行ってください（30分）。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "本講義では、パラアスリートの卓越した能力だけでなく、日常生活における障害者の方々への合理的配慮等にも焦点を当てます。私たちの社会における多様性と包摂の重要性を理解し、障害を持つ人々の日常とスポーツの世界における彼らの役割を深く探究します。予習は特に必要としませんが、学習した内容を理解して講義に臨んでほしいと考えているので、復習は十分に行ってください（30分）。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、障がい者スポーツに関する諸施策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "障がい者スポーツ推進の取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "障がい各論①\n肢体不自由について（脊椎損傷と脳性麻痺について）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "障がい各論②\n肢体不自由について（脳血管障がいと切断、欠損について）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "障がい各論③\n視覚障がいについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "障がい各論④\n聴覚・音声言語障がいについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "障がい各論⑤\n内部障がいについて（内部障がいとメディカルチェック）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "障がい各論⑥\n知的障がいについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "障がい各論⑦\nその他の発達障がいについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "障がい各論⑧\n精神障がいについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "補装具の理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "スポーツ心理学\n障がいの受容の課程、心理的支援、スポーツ心理学の有効性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "障害者スポーツ指導員としてのキャリア形成①\nキャリア形成のイメージづくり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "障害者スポーツ指導員としてのキャリア形成②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "リスクマネジメント\nリスクマネジメントの基礎、予測準備、事後対応、障がい者スポーツ指導現場におけるリスクマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

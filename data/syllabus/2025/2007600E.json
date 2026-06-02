@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:35Z",
+    "fetched_at": "2025-04-04T05:58:35Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600E",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "岡本　次郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミのテーマは、日々の生活に影響をもたらす国際政治経済事象に関心を持つこと、卒業論文執筆の準備をすることである。\n\n【到達目標】\n①国際政治経済学の理論と歴史を学び、現実に起こる国際政治経済事象の説明ができるようになる。\n②学術的論文とは何かを学び、その構造、作法等を理解する。\n③卒業論文執筆の準備を始め、卒論プロポーザルを完成させる。",
+    "objectives": "本ゼミのテーマは、日々の生活に影響をもたらす国際政治経済事象に関心を持つこと、卒業論文執筆の準備をすることである。\n\n【到達目標】\n①国際政治経済学の理論と歴史を学び、現実に起こる国際政治経済事象の説明ができるようになる。\n②学術的論文とは何かを学び、その構造、作法等を理解する。\n③卒業論文執筆の準備を始め、卒論プロポーザルを完成させる。",
     "overview": "前期は、主に教科書の輪読を通して国際政治経済学の理論や国際政治経済事象のとらえ方を理解する。後期は、まず学術的論文とは何かを説明し、その構造、作法など理解する。その後、受講生の研究関心の掘り起こし，研究テーマの設定、論文で用いる仮説の設定、論文アウトラインの構築を行い、最終的には「卒論プロポーザル」を完成させる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
@@ -39,7 +39,7 @@
     "textbooks": [
         {
             "title": "国際政治経済学・入門（第3版）",
-            "year": 2008,
+            "publication_year": 2008,
             "author": "野林健・大芝亮・納家政嗣・山田敦・長尾悟",
             "publisher": "有斐閣アルマ",
             "price": 2000,
@@ -48,7 +48,7 @@
         },
         {
             "title": "論文の教室",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "戸田山和久",
             "publisher": "NHK出版",
             "price": 1540,
@@ -56,28 +56,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "配布資料、筆記用具and/orパソコンまたはタブレット",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "配布資料、筆記用具and/orパソコンまたはタブレット",
         "other": "なし"
     },
-    "evaluation_criteria": "【到達目標】の各項目について、課題の提出、議論への参加、講義内容の理解の程度等を総合的に評価する。",
+    "grading_criteria": "【到達目標】の各項目について、課題の提出、議論への参加、講義内容の理解の程度等を総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "国際政治経済環境の変化は、国内政治経済にも大きな影響を及ぼします。視野を世界に広げつつ、身近な問題を批判的に考察する力を育てていきましょう。\nゼミなので出席は当然と考えています。教科書熟読、報告資料の作成、議論の準備等の予習を十分に行って授業に臨んでください。授業後は、当日の議論の内容をまとめ、理解を定着させてください。",
+    "teacher_message": "国際政治経済環境の変化は、国内政治経済にも大きな影響を及ぼします。視野を世界に広げつつ、身近な問題を批判的に考察する力を育てていきましょう。\nゼミなので出席は当然と考えています。教科書熟読、報告資料の作成、議論の準備等の予習を十分に行って授業に臨んでください。授業後は、当日の議論の内容をまとめ、理解を定着させてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション・オリエンテーション：ゼミの進め方、評価方法等の説明",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「なぜ？」という視点の重要性：日常生活から「なぜ？」を探してみよう、その答えを考えてみよう",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "教科書輪読（１）＋議論：経済の論理と政治の論理、国際経済の論理と国際指示の論理、経済グローバル化と国家の相克",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教科書輪読（２）＋議論：国際政治経済の見方（リアリズムとリベラリズム）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "教科書輪読（３）＋議論：国際政治経済の見方（マルキシズムとコンストラクティビズム）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "教科書輪読（４）＋議論：東西冷戦と国際経済秩序の形成・維持",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教科書輪読（５）＋議論：貿易をめぐる政治と経済１（GATT体制と埋め込まれた自由主義、保護主義の政治経済）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "教科書輪読（５）＋議論：貿易をめぐる政治と経済２（WTO体制下のグローバル化と地域主義）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "教科書輪読（６）＋議論：金融グローバル化と国際政治経済（制度と規範、累積債務、通貨危機）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "教科書輪読（７）＋議論：国境を越える人の移動１（難民と移民）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "教科書輪読（８）＋議論：国境を越える人の移動２（日本への人の移動、少子高齢化と外国人労働者問題）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教科書輪読（９）＋議論：途上国の経済発展と国際政治経済（新興独立国と国際援助体制、グローバル化と開発援助）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "教科書輪読（10）＋議論：経済成長、民主化・人権、国際政治（経済成長と民主化・人権保護の相関性？　普遍的人権とは何か？　内政不干渉原則と「保護する責任」）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "教科書輪読（11）＋議論：地球環境保護をめぐる国際政治経済（経済成長と環境破壊、先進国と途上国の対立、地球環境レジームの形成）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期のまとめと夏休み課題（書評執筆）の説明",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "学術的論文とは何か？：学術的論文の目的と構造、因果関係の論証について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "文献・情報の検索の仕方：参考資料の見つけ方、統計データの見つけ方、学術論文を読む",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "「コピペ」は不正か？：剽窃とは何か、剽窃はなぜしてはいけないのか、剽窃をしない論文の書き方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "（グループワーク）短い論文を書いて発表しよう（１）：論文テーマの設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "（グループワーク）短い論文を書いて発表しよう（２）：論文の仮説の設定、問いと答えの因果関係の検討、議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "（グループワーク）短い論文を書いて発表しよう（３）：アウトラインversion 1の構築＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "（グループワーク）短い論文を書いて発表しよう（４）：アウトラインversion 2の構築＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "（グループワーク）短い論文を書いて発表しよう（５）：論文version 1執筆＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "（グループワーク）短い論文を書いて発表しよう（６）：論文の完成＋発表＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "卒論プロポーザルを書こう（１）：個々人で自分の研究関心を考える、論文テーマの設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "卒論プロポーザルを書こう（２）：論文の仮説の設定、問いと答えの因果関係の検討、議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "卒論プロポーザルを書こう（３）：卒論アウトラインversion 1の作成＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒論プロポーザルを書こう（４）：卒論アウトラインversion 2の作成＋議論",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,9 +355,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒論プロポーザルを書こう（５）：プロポーザルの完成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -365,9 +365,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "全体のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,6 +375,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

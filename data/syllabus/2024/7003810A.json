@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T11:08:49Z",
+    "fetched_at": "2025-04-07T11:08:49Z",
     "name_ja": "水泳Ⅰ",
     "name_en": "Swimming I",
     "syllabus_number": "7003810A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -31,22 +31,22 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "水泳競技に必要とされる高度な専門的知識・技能・ルール・トレーニング法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n①水中運動、水泳の基本動作を習得し、その初歩的な指導法を身につける。\n②水泳各種目（クロール・平泳ぎ・背泳ぎ・バタフライ）の知識と技能を身につける。\n③水泳の競技特性・ルール・技能・トレーニング法を正しく理解し、実践できる能力を習得する。\n④健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n⑤健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n⑥水泳における事故防止に対する十分な知識と実践力を身につける。",
+    "objectives": "水泳競技に必要とされる高度な専門的知識・技能・ルール・トレーニング法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n①水中運動、水泳の基本動作を習得し、その初歩的な指導法を身につける。\n②水泳各種目（クロール・平泳ぎ・背泳ぎ・バタフライ）の知識と技能を身につける。\n③水泳の競技特性・ルール・技能・トレーニング法を正しく理解し、実践できる能力を習得する。\n④健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n⑤健康の維持増進のための水泳に関する知識・技能・指導法を理解し、実践できる能力を習得する。\n⑥水泳における事故防止に対する十分な知識と実践力を身につける。",
     "overview": "水の特性をよく理解させた上で水中運動・水泳の基本的な技能を習得させ、かつ健康づくりのための科学的、能率的な運動プログラムの作成と実践指導ができるようにする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "水泳指導教本　三訂版",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "公益財団法人日本水泳連盟",
             "publisher": "株式会社大修館書店",
             "price": 2400,
@@ -54,27 +54,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "水着、スイミングキャップ（白）、ゴーグル、バスタオル",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "水着、スイミングキャップ（白）、ゴーグル、バスタオル",
         "other": "参考資料は、授業中に適時配布する。"
     },
-    "evaluation_criteria": "実技７０％、レポート30％から総合的に評価する。",
+    "grading_criteria": "実技７０％、レポート30％から総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 70,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 70,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "水中では、陸上と異なり多くのエネルギーを使用します。前日は睡眠を十分にとり体調を整えて授業に参加して下さい。また、見学・欠席は減点となります。水泳の技術習得には時間がかかりますので、積極的に参加すること。また、毎回、テーマについて予習・復習を60分間実施すること。",
+    "teacher_message": "水中では、陸上と異なり多くのエネルギーを使用します。前日は睡眠を十分にとり体調を整えて授業に参加して下さい。また、見学・欠席は減点となります。水泳の技術習得には時間がかかりますので、積極的に参加すること。また、毎回、テーマについて予習・復習を60分間実施すること。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "水泳（浮き身、け伸び、ストリームラインの理解）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "クロールの泳力判定（班分け、基本姿勢の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "クロール（基本姿勢、キック、プル、呼吸法の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "クロール（コンビネーション、ターンの習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "平泳ぎの泳力判定（班分け、基本姿勢の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "平泳ぎ（基本姿勢、キック、プル、呼吸法の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "平泳ぎ（コンビネーション、ターンの習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "背泳ぎの泳力判定（班分け、基本姿勢の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "背泳ぎ（基本姿勢、キック、プル、呼吸法の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "背泳ぎ（コンビネーション、ターンの習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "バタフライの泳力判定（班分け、基本姿勢の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "バタフライ（基本姿勢、キック、プル、呼吸法の習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "バタフライ（コンビネーション、ターンの習得）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "リレー",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "実技テスト（４泳法、個人メドレーなど）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -252,6 +252,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

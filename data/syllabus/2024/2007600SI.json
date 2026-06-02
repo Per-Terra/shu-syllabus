@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:25Z",
+    "fetched_at": "2025-04-07T10:57:25Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600SI",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "岩本　直",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,40 +26,40 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "現在の厳しい地方圏の経済情勢を理解し、自らの人生のキャリアプラン、地域における起業プラン（新ビジネスプラン）、地域活性化プラン（地域づくり、まちづくり）を考えるにあたって、必要な知識を習得する。また、専門ゼミⅡにおける卒業論文のテーマ設定、進め方についても適宜、議論及び確認をしていく。\n\n【到達目標】\n①現在の厳しい地方圏の経済状況を理解することができる。\n②起業や地域活性化の視点も含めた地方圏の課題解決の方法を提案することができる。",
+    "objectives": "現在の厳しい地方圏の経済情勢を理解し、自らの人生のキャリアプラン、地域における起業プラン（新ビジネスプラン）、地域活性化プラン（地域づくり、まちづくり）を考えるにあたって、必要な知識を習得する。また、専門ゼミⅡにおける卒業論文のテーマ設定、進め方についても適宜、議論及び確認をしていく。\n\n【到達目標】\n①現在の厳しい地方圏の経済状況を理解することができる。\n②起業や地域活性化の視点も含めた地方圏の課題解決の方法を提案することができる。",
     "overview": "講義及び教員とのディスカッション等で授業を進めていく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
         "現代経済学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
-    "evaluation_criteria": "毎回の授業における「発表・実技」及び「その他」を評価対象とする。\n※「その他」は授業における「授業への参加の意欲」を評価対象とする。",
+    "grading_criteria": "毎回の授業における「発表・実技」及び「その他」を評価対象とする。\n※「その他」は授業における「授業への参加の意欲」を評価対象とする。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。",
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -67,9 +67,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "これからの企業社会をいかに生き抜くか/雇用慣行の変化、自らのキャリアプランをどうするか",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "企業社会と会社人生の変貌/終身雇用の限界",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "個人に求められる４つの能力開発/人材流動化の世の中と自らのキャリアプランを考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "現代企業の変貌と自律型人材への期待/企業が求める人材、自律型人材",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "新たなワーキングスタイルの登場/年功主義から能力主義へ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "現代企業の雇用管理とキャリアデザイン/企業による雇用管理の複線化・多様化",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ナレッジワーカに求められる能力/経済産業省「社会人基礎力」、個人に求められるエンプロイヤビリティ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "自立と成長のためのキャリア戦略/キャリアビジョンの重要性",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ビジネスを起こして生きる戦略/起業の概要",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "社会的企業を起こして生きる戦略、NPOで働いて生きる戦略/社会的企業の概要、日本におけるNPOの立ち位置",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "キャリアの選択肢としての起業/起業の重要性、起業人材に求められる要件",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "起業の事例、起業を促す推進要因/起業の事例紹介、起業をするきっかけ、インセンティブ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "起業の主な形態と効果/起業がもたらす社会的な意味、効用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "起業機会の発見/ビジネスチャンス、自己の中にある起業機会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "起業を実現するための要因/様々な起業パターンと起業資質",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "起業プランの作成、インディペンデントコントラクター/ビジネスモデルの作成、インディペンデントコントラクターの定義と問題点",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "起業支援の状況/起業への支援体制の状況",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -237,9 +237,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "経営学と起業/起業における経営学の活用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -247,9 +247,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "農山漁村地域と地域住民の満足/地域におけるウェルビーイングの内容",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -257,9 +257,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "農山漁村地域での新しい働き方/地域衰退の要因、自己成長の場としての地域",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -267,9 +267,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "農山漁村地域における新たな生き方/地域活性化の主体としての活動",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -277,9 +277,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "チャンスの場としての地域産業/地域産業の現状と新たな方向性",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -287,9 +287,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "農山漁村地域の新たなブランド品づくり/地域ブランドの意味、地域ブランド創造のポイント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -297,9 +297,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "農林水産業の新たな挑戦/農林水産業のイノベーション、６次産業化",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "農山漁村地域における多様なモノづくり/新たなモノづくりへの挑戦、伝統工芸の活用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "農山漁村地域におけるモノを売る仕事の再生/農山漁村地域の商業、サービス業の現況と再生方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -327,9 +327,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "観光による自立的な地域づくり/観光資源の確認、持続的な観光地域としての発展方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -337,9 +337,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "自律的に継続していく地域の構築方法/地域が自律的に継続していくための方法と課題",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -347,9 +347,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総括/本授業の内容の振り返り",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -357,6 +357,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
 }

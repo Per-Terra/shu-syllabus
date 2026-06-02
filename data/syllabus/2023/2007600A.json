@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:02:39Z",
+    "fetched_at": "2024-08-08T01:02:39Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600A",
     "course_number": "10SE301、05HS301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,35 +27,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "専門ゼミⅠでは、後継科目である専門ゼミⅡにおいて卒業論文を執筆するための準備をはじめる。すなわち、各自が研究テーマを探索・設定し、研究活動のプランニングを行うことが本科目の最終目標となる。テーマ選択に先行して様々な研究領域・研究例に触れる機会を設けることで、受講生の視野を広げ、興味を高めていく。また調査研究活動に必要な基礎力の向上を目指し、文献検索、論文読解、発表練習などのトレーニングを随所でとりいれていく。\n 到達目標は以下の4つである。\n(i) 心理学の基礎的知識、研究法のスキルを身につける　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(ii) 研究論文の読解力を身につける\n(iii) 研究テーマを設定する\n(iv) テーマについての研究計画を立てる",
+    "objectives": "専門ゼミⅠでは、後継科目である専門ゼミⅡにおいて卒業論文を執筆するための準備をはじめる。すなわち、各自が研究テーマを探索・設定し、研究活動のプランニングを行うことが本科目の最終目標となる。テーマ選択に先行して様々な研究領域・研究例に触れる機会を設けることで、受講生の視野を広げ、興味を高めていく。また調査研究活動に必要な基礎力の向上を目指し、文献検索、論文読解、発表練習などのトレーニングを随所でとりいれていく。\n 到達目標は以下の4つである。\n(i) 心理学の基礎的知識、研究法のスキルを身につける　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(ii) 研究論文の読解力を身につける\n(iii) 研究テーマを設定する\n(iv) テーマについての研究計画を立てる",
     "overview": "1～20回は、心理学の知識、研究法のスキルを確実に身につけます。心理学関係の書籍や論文の読解を行います。21～30回は、得た知識、研究スキルに基づいて、各自、卒論テーマを設定し、それに関する情報収集、研究計画を立てます。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "参考書類や図書は適宜配布、もしくは貸し出します。"
     },
-    "evaluation_criteria": "ゼミ活動中の取り組み内容や態度・興味、関心等から総合的に評価をします。また、随時求める課題の内容も評価します。",
+    "grading_criteria": "ゼミ活動中の取り組み内容や態度・興味、関心等から総合的に評価をします。また、随時求める課題の内容も評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "最終目標である卒業論文の完成をめざして、さまざまなスキルを身につけてください。\nまた、積極的なディスカッションを期待します。",
+    "teacher_message": "最終目標である卒業論文の完成をめざして、さまざまなスキルを身につけてください。\nまた、積極的なディスカッションを期待します。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -63,9 +63,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "心理学の基礎知識の獲得①\n\n～心理学専門書の理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "心理学の基礎知識の獲得②\n\n～心理学専門書の理解と発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "心理学の基礎知識の獲得③\n\n～知覚心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "心理学の基礎知識の獲得④\n\n～学習心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "心理学の基礎知識の獲得⑤\n\n～認知心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "心理学の基礎知識の獲得⑥\n\n～感情心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "心理学の基礎知識の獲得⑦\n\n～発達心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "心理学の基礎知識の獲得⑧\n\n～社会心理学",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "心理学的研究手法の理解①\n\n～実験法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "心理学的研究手法の理解②\n\n～調査法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "心理学研究論文の読解①\n\n～研究論文の検索、収集方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "心理学研究論文の読解②\n\n～研究論文の構成を知る",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "心理学研究論文の読解③\n\n～理論的背景",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "心理学研究論文の読解④\n\n～考察",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "心理学研究論文の発表①\n\n～読解、発表する研究論文を決める",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "心理学研究論文の発表②\n\n～担当者①の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "心理学研究論文の発表③\n\n～担当者②の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -233,9 +233,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "心理学研究論文の発表④\n\n～担当者①の発表（２回目）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -243,9 +243,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "心理学研究論文の発表⑤\n\n～担当者②の発表（２回目）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -253,9 +253,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "研究テーマの設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "研究テーマに関する研究計画を考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -273,9 +273,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "研究テーマに関する情報収集と読解①\n\n～情報の収集計画を立てる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -283,9 +283,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "研究テーマに関する情報収集と読解②\n\n～担当者①の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -293,9 +293,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "研究テーマに関する情報収集と読解③\n\n～担当者②の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -303,9 +303,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "理論的背景の構築①\n\n～担当者①の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -313,9 +313,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "理論的背景の構築②\n\n～担当者②の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -323,9 +323,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "研究計画を立てる①\n\n～研究法の選択",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -333,9 +333,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "研究計画を立てる②\n\n～研究に必要な環境の整備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -343,9 +343,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "研究計画の発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -353,6 +353,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

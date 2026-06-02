@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:56:41Z",
+    "fetched_at": "2024-08-08T00:56:41Z",
     "name_ja": "ドイツ語Ⅰ",
     "name_en": "German I",
     "syllabus_number": "1004700A",
     "course_number": "00FL103",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。",
+    "objectives": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。",
     "overview": "たくさん聞いて、たくさん話すことを繰り返すことで文法や単語を習得していくような学生参加型の授業を展開します。\nテキストに沿って、基本語彙、文法、表現を学習します。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、指定する辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "耳から学ぶドイツ語",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "Roland  Schulz　　大薗正彦",
             "publisher": "三修社",
             "price": 2620,
@@ -46,7 +46,7 @@
         },
         {
             "title": "ベーシッククラウン独和・和独辞典　小型版",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "",
             "publisher": "三省堂",
             "price": 2530,
@@ -54,28 +54,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "grading_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "第二外国語を学ぶ喜びを一緒に楽しみましょう！",
+    "teacher_message": "第二外国語を学ぶ喜びを一緒に楽しみましょう！",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の進め方、評価方法などについてのオリエンテーション\nEinfuhrung アルファベット、発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Einfuhrung アルファベット、発音練習、数字１－１２",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "Einfuhrung アルファベット、発音練習、あいさつ、辞書の引き方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Lektion１　自己紹介（人称代名詞、動詞の人称変化）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Lektion１　自己紹介（平叙文と疑問文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Lektion１　自己紹介（不規則動詞 sein）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Lektion２　名詞の性",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Lektion２　定冠詞、不定冠詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Lektion２　値段をたずねる（数字１３－１００）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Lektion３　不規則動詞　i/ieタイプ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Lektion３　不規則動詞　haben",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Lektion３　不定語　keinとnicht",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Lektion４　名詞の複数形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Lektion４　時刻。時間の表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Lektion４　敬称のSie",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "Lektion５　前置詞の格支配",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "Lektion５　不規則動詞　aタイプ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -260,9 +260,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "Lektion５　曜日、月",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -271,9 +271,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "Lektion６　所有冠詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -282,9 +282,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "Lektion６　定冠詞、不定冠詞類",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -293,9 +293,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "Lektion６　時の表現、季節",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "Lektion７　分離動詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "Lektion７　命令表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "Lektion７　時刻の表現まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -337,9 +337,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "Lektion８　再帰代名詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -348,9 +348,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "Lektion８　再帰動詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -359,9 +359,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "Lektion８　数字（１０１以上）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -370,9 +370,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "Lektion１－４復習　まとめリスニング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -381,9 +381,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "Lektion５－８復習　まとめリスニング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -392,9 +392,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "試験対策演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -403,6 +403,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

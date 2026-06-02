@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:02:08Z",
+    "fetched_at": "2024-08-08T01:02:08Z",
     "name_ja": "統計学基礎",
     "name_en": "Basic Statistics",
     "syllabus_number": "2003400A",
     "course_number": "01SA101",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河田　正樹",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,20 +27,20 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "経済諸現象を数量的に把握するためには統計学の知識が必要となります。統計学は記述統計と推測統計とに大別できますが、この講義では記述統計を学んだうえで、推測統計の大まかな考え方について学びます。\n　記述統計とは、ある集団のデータについて、数値やグラフでその特徴を記述する方法であり、統計学の基礎的な部分です。株価指数の動きや貯蓄現在高の分布、打率や視聴率など、さまざまな場面で用いられています。\n　推測統計とは、集団の一部を調査したデータから、もとの集団について推測する方法であり、失業率を調べたり、内閣の支持率や視聴率などを調べたりする際に幅広く用いられている手法です。\n\n【到達目標】\n① 記述統計の知識を身につけることができる。\n② 推測統計の大まかな考え方を理解することができる。\n③ 現実データの特徴を読み取ることができる。",
+    "objectives": "経済諸現象を数量的に把握するためには統計学の知識が必要となります。統計学は記述統計と推測統計とに大別できますが、この講義では記述統計を学んだうえで、推測統計の大まかな考え方について学びます。\n　記述統計とは、ある集団のデータについて、数値やグラフでその特徴を記述する方法であり、統計学の基礎的な部分です。株価指数の動きや貯蓄現在高の分布、打率や視聴率など、さまざまな場面で用いられています。\n　推測統計とは、集団の一部を調査したデータから、もとの集団について推測する方法であり、失業率を調べたり、内閣の支持率や視聴率などを調べたりする際に幅広く用いられている手法です。\n\n【到達目標】\n① 記述統計の知識を身につけることができる。\n② 推測統計の大まかな考え方を理解することができる。\n③ 現実データの特徴を読み取ることができる。",
     "overview": "PowerPointのスライドを用いた講義をおこない、その後で、講義内容の理解を助けるために練習問題をおこないます。\n　スライドはteams経由で配布します。\n　経済をはじめスポーツ、視聴率などの現実データを取り上げ、その特徴を理解できるようにしていきます。\n　理論的な説明ばかりでなく、データを実際に分析することもあります。その際にノートパソコンが必要な時があります。\n　また、当日の内容の予習や前回の内容の復習のクイズを、授業時間の最初におこないます。クイズのための動画は作成する予定ですので、毎回視聴してから授業に臨んでください。\n　出欠はクイズの回答状況と、当日の着席状況を撮影したものを照合することによって確認します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "プレステップ統計学I　記述統計学",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "稲葉 由之",
             "publisher": "弘文堂",
             "price": 1980,
@@ -49,7 +49,7 @@
         },
         {
             "title": "初級 統計分析",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "西郷 浩",
             "publisher": "新世社",
             "price": 1980,
@@ -57,27 +57,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "① 記述統計の知識　② 推測統計の大まかな考え方の理解　③ 現実データの特徴を読み取り　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内の演習の状況を、課題提出を通して評価します。",
+    "grading_criteria": "① 記述統計の知識　② 推測統計の大まかな考え方の理解　③ 現実データの特徴を読み取り　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内の演習の状況を、課題提出を通して評価します。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 50,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "この授業の内容は、日本統計学会公式認定「統計検定」3級の出題範囲に対応しています。受講後に受験して合格を目指しましょう。\n\n【予習・復習について】\n予習…クイズのための動画を視聴してくること。\n復習…当日の内容や練習問題を確認し、内容の定着をはかること。復習問題への解答や、実習課題の作成をおこない、提出を求めることもあります。\n※ 予習・復習合わせて60分程度行うようにしてください。",
+    "teacher_message": "この授業の内容は、日本統計学会公式認定「統計検定」3級の出題範囲に対応しています。受講後に受験して合格を目指しましょう。\n\n【予習・復習について】\n予習…クイズのための動画を視聴してくること。\n復習…当日の内容や練習問題を確認し、内容の定着をはかること。復習問題への解答や、実習課題の作成をおこない、提出を求めることもあります。\n※ 予習・復習合わせて60分程度行うようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n　teamsの使い方\n統計学とはどのようなものか\nデータについての理解\n　データの収集と定義、データの種類",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "1変量データの記述(1)\n　折れ線グラフと棒グラフ、円グラフ、帯グラフ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "1変量データの記述(2)\n　度数分布表とヒストグラム、幹葉表示",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "1変量データの記述(3)\n　代表値",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "1変量データの記述(4)\n　散布度(分散と標準偏差、標準化と偏差値)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "1変量データの記述(5)\n　5数要約と箱ひげ図",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "総合問題の解説\n1変量データの記述(6)\n　都道府県データの地図による表現",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "2変量データの記述(1)\n　分割表、2次元ヒストグラム、散布図\n　相関係数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "2変量データの記述(2)\n　ローレンツ曲線とジニ係数\n　Excelによる実習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "2変量データの記述(3)\n　回帰分析(相関関係と因果関係、最小2乗法)\n　Excelによる実習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "2変量データの記述(4)\n　回帰分析(予測値と残差、決定係数)\n　Excelによる実習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "2変量データの記述(5)\n　見せかけの相関",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "2変量データの記述(6)\n　多変量データの記述",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "2変量データの記述(7)\n　問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前半まとめ\n　中間試験およびその解説",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "推測統計の基礎(1)\n　全数調査と標本調査",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -251,9 +251,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "推測統計の基礎(2)\n　場合の数の計算",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "推測統計の基礎(3)\n　確率の計算",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -273,9 +273,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "推測統計の基礎(4)\n　確率と確率分布",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "推測統計の基礎(5)\n　確率の計算(正規分布、標準化と標準正規分布)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "推測統計の基礎(6)\n　二項分布の正規近似",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "推測統計の考え方(7)\n　標本平均の標本分布",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "推測統計の考え方(2)\n　信頼区間\n　母平均の区間推定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "推測統計の考え方(3)\n　母比率の区間推定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "推測統計の考え方(4)\n　問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "推測統計の考え方(5)\n　仮説検定の考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -361,9 +361,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "推測統計の考え方(6)\n　母平均の検定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -372,9 +372,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "推測統計の考え方(7)\n　母比率の検定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -383,9 +383,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "推測統計の考え方(8)\n　問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -394,9 +394,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総復習\n　回帰分析、確率分布、推定、検定についての問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -405,6 +405,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

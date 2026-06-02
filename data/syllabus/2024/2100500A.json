@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:05:59Z",
+    "fetched_at": "2025-04-07T11:05:59Z",
     "name_ja": "データ分析基礎",
     "name_en": "Basics of Data Analyses",
     "syllabus_number": "2100500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "土屋　敏夫",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第２クォーター",
@@ -27,19 +27,19 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．統計手法を用いた基本的なデータ分析技術を修得できる。\n２．機械学習の内容、「教師あり学習」「教師なし学習」「強化学習」の考え方を理解できる。\n３．構築したモデルと予測精度の関係について理解できる。\n４．R言語、 Pythonの実行環境を、自らのコンピュータで構築し使い方を修得できる。",
+    "objectives": "１．統計手法を用いた基本的なデータ分析技術を修得できる。\n２．機械学習の内容、「教師あり学習」「教師なし学習」「強化学習」の考え方を理解できる。\n３．構築したモデルと予測精度の関係について理解できる。\n４．R言語、 Pythonの実行環境を、自らのコンピュータで構築し使い方を修得できる。",
     "overview": "本講義は、初学者向けにデータ分析の基礎を概説し、Excel、R 言語、Python を使って自らのコンピュータ上で手法を実装・実行することを目的とする。\n統計の種類や統計調査の方法を身に付けデータ分析の考え方を理解するとともに、AI・機械学習の構築方法および実社会での実装例を説明し、それらの重要性と社会的な必要性を理解する。\nR とPythonによる統計、機械学習プログラムを実行し、オープンデータを使って実習する。コードの入力は極力省略し、データサイエンティストとして必要とされるレベルで実際にアルゴリズムを動かすことで、データ分析の手法を直感的に把握し、動作原理を理解する。\n講義と実践を併用して授業を進める。講義では理論と手法を学び、実際に手法を適用しデータ分析の基礎を修得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "データサイエンス指向の統計学",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "大内 俊二",
             "publisher": "学術図書出版社",
             "price": 2000,
@@ -48,7 +48,7 @@
         },
         {
             "title": "AIエンジニアを目指す人のための機械学習入門",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "清水琢也他",
             "publisher": "技術評論社",
             "price": 2780,
@@ -56,27 +56,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "１．データ分析手法および分析結果をまとめる能力の修得\n２．機械学習の方法\n３．R言語とPythonによるデータ分析手法の実装と評価方法\n４．オープンデータを用いた現状と課題の分析および考察",
+    "grading_criteria": "１．データ分析手法および分析結果をまとめる能力の修得\n２．機械学習の方法\n３．R言語とPythonによるデータ分析手法の実装と評価方法\n４．オープンデータを用いた現状と課題の分析および考察",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 60,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 60,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "データサイエンスとは：データサイエンスに関する最新のトピッ\nクと統計学の関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "データの要約：Excel とRによるデータの集計とグラフ作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "データの特性値：データのばらつきをあらわす様々な特性値",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "標本と信頼区間：標本調査における平均値の信頼区間を算出する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "統計的検定①：平均値の信頼区間とｔ検定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "統計的検定②：比率の検定、カイ２乗検定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "統計的検定③：分散分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "人工知能と機械学習：人工知能の活用事例と機械学習の関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "教師あり学習①：重回帰分析の手法と実装",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "教師あり学習②：ロジスティック回帰によるクラス分類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "教師あり学習③：サポートベクターマシン SVC",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教師なし学習①：主成分分析による次元圧縮",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "教師なし学習②：k-meansクラスタリングとガウス混合モデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "データ分析手法の運用と評価：データの検討、目標設定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "モデルの選択と評価手法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

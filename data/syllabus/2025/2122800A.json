@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:06:21Z",
+    "fetched_at": "2025-04-04T06:06:21Z",
     "name_ja": "社会福祉法制",
     "name_en": "Social Welfare Law",
     "syllabus_number": "2122800A",
     "course_number": "23-2-21-21-05",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "脇野　幸太郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会福祉法制の概要について説明することができる。 \n②社会福祉法制の基本理念について説明することができる。 \n③社会福祉法制の史的展開過程について説明することができる。 \n④学んだことをソーシャルワーク実践に活用する視点について説明することができる。",
+    "objectives": "①社会福祉法制の概要について説明することができる。 \n②社会福祉法制の基本理念について説明することができる。 \n③社会福祉法制の史的展開過程について説明することができる。 \n④学んだことをソーシャルワーク実践に活用する視点について説明することができる。",
     "overview": "本科目では、社会福祉に関する法制度の仕組みと理念について学修し、利用者の立場に立った福祉サービスのあり方や理念について理解。そのうえで、福祉の実践者としてこれらの制度を利用者の自立生活のために活用できる視点を獲得することを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2"
     ],
     "textbooks": [
         {
             "title": "地域生活を支える社会福祉と法",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "平部康子・木村茂喜編",
             "publisher": "放送大学出版",
             "price": 2640,
@@ -45,32 +45,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "テキスト、前回授業時配布レジュメ",
+        "required_materials": "テキスト、前回授業時配布レジュメ",
         "other": ""
     },
-    "evaluation_criteria": "①社会福祉法制の概要 \n②社会福祉法制の基本理念 \n③社会福祉法制の史的展開過程 \n④学んだことをソーシャルワーク実践に活用する視点 \n上記①～④の理解度を以下の方法、割合により評価する\n筆記試験55％、毎回授業後に提示する課題30％、授業時に配布するコメントシートに対するコメント15％",
+    "grading_criteria": "①社会福祉法制の概要 \n②社会福祉法制の基本理念 \n③社会福祉法制の史的展開過程 \n④学んだことをソーシャルワーク実践に活用する視点 \n上記①～④の理解度を以下の方法、割合により評価する\n筆記試験55％、毎回授業後に提示する課題30％、授業時に配布するコメントシートに対するコメント15％",
     "evaluation_ratio": {
-        "試験": 55,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 15
+        "exam": 55,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 15
     },
-    "message_from_teachers": "社会福祉実践、ソーシャルワーク実践において、社会福祉法制の理解は必要不可欠のものである。本科目では、社会福祉法制について基礎から段階的に理解できるよう解説を行うので、講義には欠かさず出席し、理解を積み重ねっていってほしい。授業にあたっては、復習を中心に、毎回の課題の実践と指定テキストの講読を行ってほしい。 \n【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。 \n【オフィスアワー】  \n講義のある曜日　不在時はCラーニングで受け付けます。",
+    "teacher_message": "社会福祉実践、ソーシャルワーク実践において、社会福祉法制の理解は必要不可欠のものである。本科目では、社会福祉法制について基礎から段階的に理解できるよう解説を行うので、講義には欠かさず出席し、理解を積み重ねっていってほしい。授業にあたっては、復習を中心に、毎回の課題の実践と指定テキストの講読を行ってほしい。 \n【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。 \n【オフィスアワー】  \n講義のある曜日　不在時はCラーニングで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、社会福祉の法体系と目的",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会福祉法制の展開",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "社会福祉における給付の法構造①　措置と契約",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "社会福祉における給付の法構造②　契約とその法的課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "社会福祉における行政責任",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "社会福祉の財政と利用者負担",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "福祉サービスの提供体制①　福祉サービスの提供体制の概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "福祉サービスの提供体制②　社会福祉法人",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会福祉における権利擁護①　権利擁護の意義と重要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "社会福祉における権利擁護②　虐待防止法制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "家族と社会福祉法制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "外国籍住民と社会福祉法制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "犯罪と社会福祉法制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "社会福祉法制理解の必要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "社会福祉法制の今後の展望",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

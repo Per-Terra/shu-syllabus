@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-07T11:03:00Z",
+    "fetched_at": "2025-04-07T11:03:00Z",
     "name_ja": "コンディショニング論",
     "name_en": "Conditioning theory",
     "syllabus_number": "2032200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "佐野村　学",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "小野　高志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -31,12 +31,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．各種のコンディショニング法と実践方法について説明できる。\n２．コンディションに影響を及ぼす要因と各種のコンディショニング法について説明できる。",
+    "objectives": "１．各種のコンディショニング法と実践方法について説明できる。\n２．コンディションに影響を及ぼす要因と各種のコンディショニング法について説明できる。",
     "overview": "アスリートをサポートする上で必要とされるコンディショニングの理論および実践方法について理解する。また、各種のコンディショニング法とコンディショニング計画の立案、安全かつ効果的な指導を行うために必要な知識と技能について説明できることを目指す。対象者の健康づくり、及び安全で効果的なサポートを行うための環境整備やコンディショニング計画の立案方法を習得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
@@ -48,7 +48,7 @@
     "textbooks": [
         {
             "title": "日本スポーツ協会公認アスレティックトレーナー専門科目テキスト3巻 コンディショニング(2022年カリキュラム対応)",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "公益財団法人 日本スポーツ協会",
             "publisher": "文光堂",
             "price": 4400,
@@ -56,34 +56,34 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "解剖学",
             "生理学",
             "体力トレーニング論"
         ],
-        "recommended_courses": [
+        "recommended": [
             "スポーツ医学"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
+    "grading_criteria": "「授業のテーマ及び到達目標」に記されている項目について、「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 30,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】合わせて９０分程度。",
+    "teacher_message": "毎回、学習内容に関する予習・復習を実施すること。\n\n【事前学習・事後学習の時間】合わせて９０分程度。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "アスリートサポートとコンディショニング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "コンディションに影響を及ぼす内的要因",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "コンディションに影響を及ぼす外的要因",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "コンディションに影響を及ぼす様々な要因と対応方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "コンディショニングのプログラムデザイン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ウォームアップとクールダウン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "リカバリー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "競技特性の運動生理学的、バイメカニクス的分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "外的環境と対策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "女性アスリートの特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "成長期の特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "高齢者の特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "スポーツ選手の減量と増量",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "対象者に応じた健康づくり並びにコンディショニングの実践例",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "環境に応じた健康づくり並びにコンディショニングの実践例",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -246,6 +246,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "（佐野村学）これまでのスポーツ医科学の研究者および教育者、競技スポーツの現場におけるコンディショニング指導の経験を踏まえ、運動やスポーツの実践的な理解に繋がる教育を行っている。\n（小野高志）これまでのスポーツ医科学の研究者および教育者、競技スポーツ（主にサッカー）の現場におけるコンディショニング指導の経験を踏まえ、人体の構造・機能と運動・スポーツの実践的な理解に繋がる教育を行っている。"
+    "credit_auditing": true,
+    "practitioner_info": "（佐野村学）これまでのスポーツ医科学の研究者および教育者、競技スポーツの現場におけるコンディショニング指導の経験を踏まえ、運動やスポーツの実践的な理解に繋がる教育を行っている。\n（小野高志）これまでのスポーツ医科学の研究者および教育者、競技スポーツ（主にサッカー）の現場におけるコンディショニング指導の経験を踏まえ、人体の構造・機能と運動・スポーツの実践的な理解に繋がる教育を行っている。"
 }

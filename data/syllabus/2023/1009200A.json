@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2024-08-08T00:57:40Z",
+    "fetched_at": "2024-08-08T00:57:40Z",
     "name_ja": "キャリアプランニング基礎",
     "name_en": "Career Planning Basic",
     "syllabus_number": "1009200A",
     "course_number": "00CF201",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "坂本　勲",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -32,35 +32,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "「主体性を持った意欲ある人材を育成する」また「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」という教育目標に対し、将来のキャリア計画という具体的な課題に対し、学んだ知識や方法によって主体的にキャリア計画書を作成することを目標とする科目です。\n到達目標は、以下の通りです。\n(i)キャリア教育についての基礎的な知識を習得し、自己分析をもとにCASK内のポートフォリオを作成できる。\n(ii)一般企業、公務員、教員の就職試験の概要を理解し、計画書（キャリアプランニングシート）が作成できる。\n(iii) 業界・企業研究をもとに各自が志望する企業等の企業分析レポートが作成できる。",
+    "objectives": "「主体性を持った意欲ある人材を育成する」また「現実的な知識と手法を備え、問題解決能力を持った人材を育成する」という教育目標に対し、将来のキャリア計画という具体的な課題に対し、学んだ知識や方法によって主体的にキャリア計画書を作成することを目標とする科目です。\n到達目標は、以下の通りです。\n(i)キャリア教育についての基礎的な知識を習得し、自己分析をもとにCASK内のポートフォリオを作成できる。\n(ii)一般企業、公務員、教員の就職試験の概要を理解し、計画書（キャリアプランニングシート）が作成できる。\n(iii) 業界・企業研究をもとに各自が志望する企業等の企業分析レポートが作成できる。",
     "overview": "授業のねらい：キャリア教育の基礎、自己分析、企業等の就活について学び、学生各自のキャリア計画を作成します。\n概要：キャリア教育基礎知識、企業・公務員・教員の各試験概要と対策、自己分析とキャリア・プランニングシートの作成、企業研究、企業分析レポートの作成",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "・キャリア教育についての基礎的な知識の習得、自己分析をもとにしたポートフォリオの作成、一般企業、公務員、教員の就職試験の概要の理解、キャリアプランニングシートの作成、企業分析レポートの作成。",
+    "grading_criteria": "・キャリア教育についての基礎的な知識の習得、自己分析をもとにしたポートフォリオの作成、一般企業、公務員、教員の就職試験の概要の理解、キャリアプランニングシートの作成、企業分析レポートの作成。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 20,
-        "その他": 30
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 30
     },
-    "message_from_teachers": "この講座を通して各人のキャリア計画をしっかり立て、その後のキャリア形成に役立ててください。",
+    "teacher_message": "この講座を通して各人のキャリア計画をしっかり立て、その後のキャリア形成に役立ててください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション。受講の注意点。なぜ大学で学ぶのか。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "登録会\nキャリア教育について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "登録会\n一般企業、教員、公務員の就活の概要と準備",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "自己分析（キャリアアンカーと仕事について。適性検査①の実施）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "適性検査②の実施\n自己分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "自己分析（適性検査の結果の把握とキャリア・プランニングシートⅠの作成）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教員、公務員の就活の概要と準備、資格の活用、進学について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "自分のキャリアプランを考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "キャリアプランニングシートⅡ作成演習　基本計画の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャリアプランニングシートⅡ作成演習　長期計画の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "業界研究の具体的な方法。地域で働く意義・利点の説明。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "職種の種類と必要な適性。地域の優良企業の紹介。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企業分析の基礎、有価証券報告書、財務諸表の見方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "希望する業界の調査演習、レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "希望する企業の調査演習、レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:21Z",
+    "fetched_at": "2025-04-04T05:58:21Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AQ",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "道山　知成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,40 +28,40 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "最終的には、卒業研究として成果をあげることにありますが、教育目標では[1]「主体性を持った意欲ある人材」、[3]「現実的な知識と手法を備え、問題解決能力を持った人材」を育成することを実践を通じて達成するための授業科目です。\n（ⅰ）専門性にかかる知識もしくは技術の習得\n（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得\n（ⅲ）問題を見つけ出す力の獲得",
+    "objectives": "最終的には、卒業研究として成果をあげることにありますが、教育目標では[1]「主体性を持った意欲ある人材」、[3]「現実的な知識と手法を備え、問題解決能力を持った人材」を育成することを実践を通じて達成するための授業科目です。\n（ⅰ）専門性にかかる知識もしくは技術の習得\n（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得\n（ⅲ）問題を見つけ出す力の獲得",
     "overview": "持続可能な社会の実現に向け、どのような課題があるのかを、さまざまな調査を通じて考えてもらいます。また、実際に体験したり、自分でシステム構築したりして、理解を深めます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3",
         "情報科学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得上記、（ⅰ）～（ⅲ）に関する理解度をレポート40％、実技40％、ポートフォリオ20％で評価する。",
+    "grading_criteria": "（ⅰ）専門性にかかる知識もしくは技術の習得　（ⅱ）専門性にかかる調査演習とまとめる力、発表する力の修得　（ⅲ）問題を見つけ出す力の獲得上記、（ⅰ）～（ⅲ）に関する理解度をレポート40％、実技40％、ポートフォリオ20％で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "ゼミに参加するには、学び究める意欲が前提です。日常の自らの取り組みがなければ、自ずと発表内容に現れてしまうものです。評価は各人の努力にかかっています。",
+    "teacher_message": "ゼミに参加するには、学び究める意欲が前提です。日常の自らの取り組みがなければ、自ずと発表内容に現れてしまうものです。評価は各人の努力にかかっています。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、自己紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "研究の進め方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "レポートの書き方①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "レポートの書き方②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "研究テーマの決定方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "研究テーマに関するディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "データ収集・イベント実践①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "データ収集・イベント実践②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "データ収集・イベント実践③",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "データの整理・イベントの反省①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "データの整理・イベントの反省②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "12~15",
+            "number": "12~15",
             "content": "研究レポート執筆",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "16~21",
+            "number": "16~21",
             "content": "研究成果の中間報告・議論",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "22~23",
+            "number": "22~23",
             "content": "プレゼン資料準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -239,9 +239,9 @@
             ]
         },
         {
-            "session": "24 ~26",
+            "number": "24 ~26",
             "content": "研究レポート仕上げ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -251,9 +251,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "研究レポート報告準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "28~29",
+            "number": "28~29",
             "content": "研究レポート添削",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "来年度の卒業研究へ向けて",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -287,6 +287,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

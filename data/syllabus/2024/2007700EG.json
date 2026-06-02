@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:50Z",
+    "fetched_at": "2025-04-07T10:57:50Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EG",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "村岡　浩次",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、専門ゼミⅠで学んだ知識を応用し、各自で策定した卒業論文のテーマについて、丁寧に指導していきます。卒業論文を作成することはとても大変な学習ですが、全力で支援・指導しますので、自身の努力とともに良い論文を完成させていくことを目標とします。\n　また、そのような活動を通じて、現実社会の中に自ら問題を見出し、それを実際に解決していく能力を身に着けることを目標とします。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析する\n（ⅱ）経済理論を現実問題へ適用する\n（ⅲ）卒業論文を作成する",
+    "objectives": "本ゼミでは、専門ゼミⅠで学んだ知識を応用し、各自で策定した卒業論文のテーマについて、丁寧に指導していきます。卒業論文を作成することはとても大変な学習ですが、全力で支援・指導しますので、自身の努力とともに良い論文を完成させていくことを目標とします。\n　また、そのような活動を通じて、現実社会の中に自ら問題を見出し、それを実際に解決していく能力を身に着けることを目標とします。\n【到達目標】\n（ⅰ）各専門領域の先行研究や資料を収集し分析する\n（ⅱ）経済理論を現実問題へ適用する\n（ⅲ）卒業論文を作成する",
     "overview": "本授業は学生の自主的・主体的な参加型授業です。各自で策定した卒業論文のテーマについて調査し、毎回の授業でそれを発表・確認し、改善点などの指導を行っていきます。論文を作成することは簡単なことではありませんが、分析の方法論や、先行研究・参考文献、文章の改善など、あらゆる面で支援しますので、最後まで頑張っていきましょう。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -40,7 +40,7 @@
     "textbooks": [
         {
             "title": "Microeconometrics Using StataーRevised Edition",
-            "year": 2010,
+            "publication_year": 2010,
             "author": "A. Colin  Cameron, Pravin K. Trivedi",
             "publisher": "STATA Press",
             "price": 19240,
@@ -48,35 +48,35 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ",
             "経済学"
         ],
-        "recommended_courses": [
+        "recommended": [
             "ミクロ・マクロ経済学演習",
             "地域経済論",
             "国際経済学"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "毎回の研究報告や卒業論文に基づいて評価します。",
+    "grading_criteria": "毎回の研究報告や卒業論文に基づいて評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "論文作成について全力で支援していきます。各自の努力とともに、良い卒業論文を作成しましょう。\n【予習・復習について】\n　卒業論文制作においては、授業時間以外の自主的な研究が極めて重要です。自分が納得できる論文を作成するため、先行研究の調査や分析手法の修得、分析結果の提示や最終的な結論に到達するため、十分な学習時間を確保してください。具体的な目安は１日に４～５時間です。そして、それらの成果を毎回のゼミでぶつけてください。",
+    "teacher_message": "論文作成について全力で支援していきます。各自の努力とともに、良い卒業論文を作成しましょう。\n【予習・復習について】\n　卒業論文制作においては、授業時間以外の自主的な研究が極めて重要です。自分が納得できる論文を作成するため、先行研究の調査や分析手法の修得、分析結果の提示や最終的な結論に到達するため、十分な学習時間を確保してください。具体的な目安は１日に４～５時間です。そして、それらの成果を毎回のゼミでぶつけてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n\n各自の論文課題の確認",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "中間報告・ディスカッション①\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "中間報告・ディスカッション②\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "中間報告・ディスカッション③\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "中間報告・ディスカッション④\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "中間報告・ディスカッション⑤\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "中間報告・ディスカッション⑥\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "中間報告・ディスカッション⑦\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "中間報告・ディスカッション⑧\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "中間報告・ディスカッション⑨\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "中間報告・ディスカッション⑩\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "中間報告・ディスカッション⑪\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "中間報告・ディスカッション⑫\n\n先行研究と自らの研究の比較検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "中間報告・ディスカッション⑬\n\n研究テーマ、分析方法の再検討―改善点をまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期総括\n\n前期の成果をまとめ、夏期休暇の研究計画をまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "夏季休暇の研究発表\n\n後期研究計画発表\n\n夏季休暇の総括と研究計画の改善",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "中間報告・ディスカッション⑭\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "中間報告・ディスカッション⑮\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "中間報告・ディスカッション⑯\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "中間報告・ディスカッション⑰\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "中間報告・ディスカッション⑱\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "中間報告・ディスカッション⑲\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "中間報告・ディスカッション⑳\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "中間報告・ディスカッション―完成に向けて①\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -314,9 +314,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "中間報告・ディスカッション―完成に向けて②\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "中間報告・ディスカッション―完成に向けて③\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "中間報告・ディスカッション―完成に向けて④\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "中間報告・ディスカッション―完成に向けて⑤\n\n論文指導",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒業論文の仕上げ\n\n卒業論文の改善点をまとめて論文を仕上げる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業論文最終報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -374,6 +374,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

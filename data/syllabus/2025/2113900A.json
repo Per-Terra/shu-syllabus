@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:05:23Z",
+    "fetched_at": "2025-04-04T06:05:23Z",
     "name_ja": "ベースボール型球技",
     "name_en": "Baseball type ball game",
     "syllabus_number": "2113900A",
     "course_number": "21-2-27-21-03",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "北　哲也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1.基本的技術「投げる」「打つ」「捕る」が身に付いている。\n2.競技方法や規則について理解できている。\n3.安全に留意した授業実践と技術指導の要点について理解できている。",
+    "objectives": "1.基本的技術「投げる」「打つ」「捕る」が身に付いている。\n2.競技方法や規則について理解できている。\n3.安全に留意した授業実践と技術指導の要点について理解できている。",
     "overview": "ベースボール型とは身体やバットの操作と走塁での攻撃、ボール操作と定位置での守備などによって攻守を規則的に交代し、一定の回数内で相手より多くの得点を競い合うゲームである。そのため、授業内においては走・投・打といった個人に求められる基本的技能の習得を目指すとともに、ゲーム内での連携プレイを通してベースボール型球技の特性に触れる授業内容とする。またルールや審判法に関する知識を学ぶとともに、ベースボール型球技に対する理解や指導方法を身につけることを目的とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "わかりやすいソフトボールのルール（スポーツシリーズ）",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "木田京子",
             "publisher": "成美堂出版",
             "price": 825,
@@ -46,27 +46,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "運動に適した服装(ジャージ等)・シューズを着用すること。時計・アクセサリー類は禁止する。水分補給のためのドリンクを持参すること。",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "運動に適した服装(ジャージ等)・シューズを着用すること。時計・アクセサリー類は禁止する。水分補給のためのドリンクを持参すること。",
         "other": ""
     },
-    "evaluation_criteria": "ソフトボールに関する基本的な知識や技術の習得と、授業実践の方法ならびに注意点を理解しているかについて評価する。",
+    "grading_criteria": "ソフトボールに関する基本的な知識や技術の習得と、授業実践の方法ならびに注意点を理解しているかについて評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "多くの道具を使用するベースボール型球技の特性として、競技の運営にはプレーに直接関与していない者の関わりが重要となります。受講の際は、広い視野と協調性を意識して、意欲的に行動してください。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "多くの道具を使用するベースボール型球技の特性として、競技の運営にはプレーに直接関与していない者の関わりが重要となります。受講の際は、広い視野と協調性を意識して、意欲的に行動してください。\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n（授業概要、ベースボール型球技の特性・用具の説明）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "投球・捕球の基本的技術1\n（キャッチング・スローイングの基礎、グラブ操作）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "投球・捕球の基本的技術2\n（ゴロ捕球）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "投球・捕球の基本的技術3\n（フライ捕球）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "打撃の基本的技術1\n（スイングの基礎、ティーバッティング）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "打撃の基本的技術2\n（バットコントロール、遠くに打球を飛ばすコツ）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "走塁の基本的技術\n（ベースランニング）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "守備の基本的技術1\n（内野ノック）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "守備の基本的技術2\n（外野ノック、内・外野の連携）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "競技規則についての知識\n（ルールならびに審判法）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ゲーム1\n（競技の運営方法、授業における特別ルールの設定）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ゲーム2\n（状況に応じた守備側の動き）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ゲーム3\n（状況に応じた攻撃側の動き）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ゲーム4\n（ゲームにおける個人成績の管理）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ\n（基本的技能・指導上の留意点を確認）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -214,6 +214,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

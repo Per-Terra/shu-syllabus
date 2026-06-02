@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:03:14Z",
+    "fetched_at": "2025-04-04T06:03:14Z",
     "name_ja": "地域経済論Ⅰ",
     "name_en": "Regional Economics Ⅰ",
     "syllabus_number": "2040400A",
     "course_number": "11-2-22-22-06",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "村岡　浩次",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）地域経済の形成過程について理解を深める\n（２）産業連関分析、経済波及効果について理解する\n（３）実証的なデータをもとに、自分自身の地域活性化案を提案できる",
+    "objectives": "【到達目標】\n（１）地域経済の形成過程について理解を深める\n（２）産業連関分析、経済波及効果について理解する\n（３）実証的なデータをもとに、自分自身の地域活性化案を提案できる",
     "overview": "本講義では、主に地域経済学の理論や地域開発政策の歴史を学ぶ。この学習の目的は、「地域政策論Ⅱ」で実施する地域振興策の実証分析に必要な基礎知識を身につけることにある。経済のグローバル化が進展する一方で、地域間の格差が拡大している現状を踏まえ、地域経済の現状についての理論的な考察と共に、具体的な事例についての理解を深めることによって、地域経済の活性化策を企画立案できる基礎的な能力の習得を目指す。講義中の質疑応答、ディスカッション等により、様々な視点から地域経済を考察する。講義の到達目標は、世界経済、日本経済における地域経済の位置と役割についての基本的な理解を深めることにある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "現代経済学科DP4",
         "経済経営学科DP2",
@@ -41,7 +41,7 @@
     "textbooks": [
         {
             "title": "国際化時代の地域経済学",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "岡田知弘",
             "publisher": "有斐閣アルマ",
             "price": 2640,
@@ -49,10 +49,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "産業連関分析入門",
-            "year": 2002,
+            "publication_year": 2002,
             "author": "宮沢健一",
             "publisher": "日経BPマーケティング",
             "price": 1916,
@@ -61,7 +61,7 @@
         },
         {
             "title": "基本ケースで学ぶ地域経済学",
-            "year": 2008,
+            "publication_year": 2008,
             "author": "中村剛治郎",
             "publisher": "有斐閣",
             "price": 2640,
@@ -69,31 +69,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "経済学部2021年度以前入学の学生は、「地域経済論Ⅰ」及び「地域経済論Ⅱ」の両方の単位を修得することで、「地域経済論（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
+    "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "経済のグローバル化が進展する時代において、地域間格差が拡大している現状を踏まえ、地域経済の現状についての理論的な考察と共に、具体的な事例についての理解を進めることによって、地域経済の活性化策を企画立案できる基礎的な能力の習得を目指し、学習を進める。また、随時、新聞等の最新の地域課題や事例を取り上げ、自身の考えを集約・形成し、それを他者とディスカッションする機会を設ける。\n\n（メッセージ）\n　何かを提案するには、それを裏付ける実証的なデータがあると説得力が増します。一緒に産業連関分析という分析技法を身につけ、地域活性化案について考えて行きましょう。\n【予習・復習について】\n予習については、次回授業で取り上げる内容について、教科書の該当部分を読んでおくこと。\n復習については、配付資料並びに教科書の該当部分を読み直し、知識の定着とともに自分の疑問や提案を整理しておくこと。\nこれら予習・復習を合わせて９０分程度行うことが望ましい。",
+    "teacher_message": "経済のグローバル化が進展する時代において、地域間格差が拡大している現状を踏まえ、地域経済の現状についての理論的な考察と共に、具体的な事例についての理解を進めることによって、地域経済の活性化策を企画立案できる基礎的な能力の習得を目指し、学習を進める。また、随時、新聞等の最新の地域課題や事例を取り上げ、自身の考えを集約・形成し、それを他者とディスカッションする機会を設ける。\n\n（メッセージ）\n　何かを提案するには、それを裏付ける実証的なデータがあると説得力が増します。一緒に産業連関分析という分析技法を身につけ、地域活性化案について考えて行きましょう。\n【予習・復習について】\n予習については、次回授業で取り上げる内容について、教科書の該当部分を読んでおくこと。\n復習については、配付資料並びに教科書の該当部分を読み直し、知識の定着とともに自分の疑問や提案を整理しておくこと。\nこれら予習・復習を合わせて９０分程度行うことが望ましい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス／地域経済学とは何か　地域主義とグローバリズム\n\n関連する新聞記事の収集\n\nRESASの使用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "地域経済の不均等発展\n\n不均等発展の要因に対する考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "産業立地の理論\n\n産業立地に関する具体例を探す",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "産業と生活の空間",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "日本の地域経済の形成過程\n\n地域経済の形成過程を振り返る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "産業構造転換と地域経済構造\n\n現在の地域経済構造と戦後の政策の関連について考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "東京一極集中と都市問題\n\n東京一極集中の原因と考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "WTO体制と農村\n\n日本の農業に対する各自の分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "地域開発政策の展開Ⅰ\n\n全国総合開発計画について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "地域開発政策の展開Ⅱ\n\n地域開発政策に対する考察と国土形成計画",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "地方自治と地域づくり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "地方財政と地域づくり\n\n地方財政の現状と考察",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域づくりの歴史\n\n身近な地域づくりの例を探す",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域づくり政策の新しい流れ\n\n各自治体の地域づくり政策の検証",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "地域の持続可能性と地域経済\n\n地方の地域内再投資について\n各地域の取り組みと現状",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -241,6 +241,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

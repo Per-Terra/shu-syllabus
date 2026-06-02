@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T10:55:44Z",
+    "fetched_at": "2025-04-07T10:55:44Z",
     "name_ja": "心理学Ⅰ",
     "name_en": "General Psychology Ⅰ",
     "syllabus_number": "1102000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 看護学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "武田　朋昭",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -30,12 +30,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "日常生活の中で起きたことを人はどのように理解して行動するのだろうか。その行動の背景には何があるのだろうか。どのような行動に対しても背景がある。その背景を知りたいと思うことが心理学を学ぶことにとって大切な姿勢である。心のことを学問として捉え、人の理解を高めていきたい。また、心理学の知識や志向性が様々な領域で活動をする際に役立てられるように学ぶことが目標である。\n\n１）目に見えない人の心を学問として捉えることができる\n２）心理学的な視点を学び日常生活での幅を広げられるようになる",
+    "objectives": "日常生活の中で起きたことを人はどのように理解して行動するのだろうか。その行動の背景には何があるのだろうか。どのような行動に対しても背景がある。その背景を知りたいと思うことが心理学を学ぶことにとって大切な姿勢である。心のことを学問として捉え、人の理解を高めていきたい。また、心理学の知識や志向性が様々な領域で活動をする際に役立てられるように学ぶことが目標である。\n\n１）目に見えない人の心を学問として捉えることができる\n２）心理学的な視点を学び日常生活での幅を広げられるようになる",
     "overview": "私たちの心にまつわる謎は、病や性格に関するものだけではない。たとえば、せっかく勉強して覚えたことを忘れてしまうのはなぜだろうか。気をつけているはずでも、交通事故や医療ミスはなかなか防ぐことができない。世の中には道を覚えるのが得意な人がいる一方で、方向音痴の人たちもいるのはなぜなのか。何かを見聞きしたり、考えたり、といった何気ない行動の裏側ではいつも、私たちの心にあるプログラムが働いており、こうした謎の答えもそこにあると考えられる。本講義では「行動科学としての心理学」という視点に立ち、私たちの様々な行動について、心理学的に理解するための方法や基礎知識について解説する。また、日常場面と関わりの深い応用的な研究事例についても紹介する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "スポーツ健康科学科DP1",
@@ -46,10 +46,10 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "心理学 新版 (New Liberal Arts Selection)",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "無藤 隆 他",
             "publisher": "有斐閣",
             "price": 4620,
@@ -57,31 +57,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "※2023（令和5）年度入学生までにおける「心理学概論Ⅰ」の読替科目です。"
     },
-    "evaluation_criteria": "授業への積極的な姿勢、講義後のレポート(小テスト)、学期末のレポート提出で総合的に評価をします。",
+    "grading_criteria": "授業への積極的な姿勢、講義後のレポート(小テスト)、学期末のレポート提出で総合的に評価をします。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 0,
+        "quiz": 40,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "心理学の楽しさ、面白さを感じていただけるように講義も工夫していきます。",
+    "teacher_message": "心理学の楽しさ、面白さを感じていただけるように講義も工夫していきます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "心理学とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "心理学　の歴史・研究法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "心と脳１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "心と脳２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "情緒・動機づけ１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "情緒・動機づけ２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "学習・行動１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "学習・行動２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "記憶",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "知覚・認知１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "知覚・認知２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "思考・言語１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "思考・言語２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総論（ふりかえり）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -229,6 +229,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

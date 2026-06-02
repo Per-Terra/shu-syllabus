@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T11:02:01Z",
+    "fetched_at": "2025-04-07T11:02:01Z",
     "name_ja": "ソーシャルワーク演習Ⅲ",
     "name_en": "Social Work Practice Ⅲ",
     "syllabus_number": "2028600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "井上　浩",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "輪倉　一広",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -30,40 +30,40 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "授業のテーマ：\n本演習は、ソーシャルワーク実習Ⅰの事後指導（ソーシャルワーク支援技術としての演習）である。ソーシャルワークに係る知識と技術について個別的な体験を一般化し、実践的かつ学術的な知識及び技術として習得できるよう、集団指導並びに個別指導による実技指導を行う。本演習では、「現場の特異性」から「ソーシャルワーク一般としての支援」に変換した支援技術の習得を目指す。\n到達目標：ソーシャルワーク実習Ⅰで獲得した、その実践現場なりの支援技術をソーシャルワーク全般で適用できる支援技術へと転換できるようになる。",
+    "objectives": "授業のテーマ：\n本演習は、ソーシャルワーク実習Ⅰの事後指導（ソーシャルワーク支援技術としての演習）である。ソーシャルワークに係る知識と技術について個別的な体験を一般化し、実践的かつ学術的な知識及び技術として習得できるよう、集団指導並びに個別指導による実技指導を行う。本演習では、「現場の特異性」から「ソーシャルワーク一般としての支援」に変換した支援技術の習得を目指す。\n到達目標：ソーシャルワーク実習Ⅰで獲得した、その実践現場なりの支援技術をソーシャルワーク全般で適用できる支援技術へと転換できるようになる。",
     "overview": "実習で出会った事例から、ソーシャルワークの技術を高めていくことができる",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "ソーシャルワーク実習Ⅰ"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": "ソーシャルワーク実習Ⅰ事後演習ですので、実習生が実習中に取り組んできた事例が題材となります。"
     },
-    "evaluation_criteria": "ソーシャルワーク実習Ⅰで取り上げた事例に基づき、そのspecificな内容をgenericな視点へと転換できるようになったかを、レポート75％と実技25％で評価する。",
+    "grading_criteria": "ソーシャルワーク実習Ⅰで取り上げた事例に基づき、そのspecificな内容をgenericな視点へと転換できるようになったかを、レポート75％と実技25％で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 75,
-        "発表・実技": 25,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 75,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "演習は「受けただけ」では身につきません。その演習の中で教員が大切にしていた部分を、必ず復習してそしゃくし、自分のものにしていってください。とくに、この演習では支援技術に焦点を合わせ、どこの現場に行っても通用する技術としてまとめていきます。実習体験に基づく演習ですので、学生各自が自らの実習体験と照らし合わせながら、支援技術の「核となる部分」を復習するようにしてほしいと思います。予習時間として120分、復習時間に120分程度かかります。",
+    "teacher_message": "演習は「受けただけ」では身につきません。その演習の中で教員が大切にしていた部分を、必ず復習してそしゃくし、自分のものにしていってください。とくに、この演習では支援技術に焦点を合わせ、どこの現場に行っても通用する技術としてまとめていきます。実習体験に基づく演習ですので、学生各自が自らの実習体験と照らし合わせながら、支援技術の「核となる部分」を復習するようにしてほしいと思います。予習時間として120分、復習時間に120分程度かかります。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "ソーシャルワーク演習Ⅲの目的の説明\n―スペシフィックからジェネリックへの変換―",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "事例検討①（高齢者分野）\nアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "事例検討②（高齢者分野）\nプランニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "事例検討③（障がい者分野）\nアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "事例検討④（障がい者分野）\nプランニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "事例検討⑤（児童分野）\nアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "事例検討⑥（児童分野）\nプランニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "事例検討⑦（地域）\nアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "事例検討⑧（地域）\nプランニング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "理論と実践とを結ぶ①\n事例検討を通して、ソーシャルワークの価値・技術・知識がどのように用いられているのかを考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "理論と実践とを結ぶ②\nソーシャルワークの共通基盤について考える",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "自己覚知①\n実習中のインシデントについて、プロセスリコードに記入する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "自己覚知②\nプロセスリコードに基づくロールプレイ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "自己覚知③\nグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "演習のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -226,6 +226,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

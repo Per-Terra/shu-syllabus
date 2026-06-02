@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:13Z",
+    "fetched_at": "2025-04-04T06:04:13Z",
     "name_ja": "IoTとAI",
     "name_en": "IoT and Al",
     "syllabus_number": "2102500A",
     "course_number": "31-2-22-31-02",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河村　拓実",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第１クォーター",
@@ -27,43 +27,43 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. IoTの基本を理解できる\n2. さまざまなセンサーテクノロジーの概観を身に付けることができる\n3. IoTとAIを相互活用することでどのようなサービスが実現できるかを理解できる\n4. 今後のビジネスにIoTとAIをどのように活用すべきかの方向性をつかむことができる",
+    "objectives": "1. IoTの基本を理解できる\n2. さまざまなセンサーテクノロジーの概観を身に付けることができる\n3. IoTとAIを相互活用することでどのようなサービスが実現できるかを理解できる\n4. 今後のビジネスにIoTとAIをどのように活用すべきかの方向性をつかむことができる",
     "overview": "モノをインターネットの接続することでそこから得られるデータを効果的に処理したりモノを制御するフレームワークがIoT (Internet of Things) であるが、単純制御を超えて環境データなどに応じた動的な制御処理を行うことが意図されている点でAIとIoTは表裏一体であり、スマートソサエティなどの実現に欠かせない。本講義ではIoTの目や耳を担うセンサーテクノロジー、複数のモノからのデータを集約し処理する基本的なデータ処理技術、それに基づくアウトプットとしての警告発出やモノの制御について基礎的なレベルを概観し、それがどのように今後のビジネス、社会の向上につなげられるのかをケースステディとして学習することで、AIとIoTの協調で今後のビジネス社会がどのように発展していくかを知り、それを利用・活用する知識・技術の基盤を身に付ける。\n　授業では講義形式が中心となるが、実際の活用例をもとにした議論、初歩的なIoT の実装演習を含む。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "筆記具、ノート、ノートPC",
+        "required_materials": "筆記具、ノート、ノートPC",
         "other": "教科書　PDFでダウンロード　参考図書　授業時に指示する"
     },
-    "evaluation_criteria": "1.IoTとAIの概要、2.センサーテクノロジーの基本、3.IoTの入出力とその制御についての理解・修得度を以下の「学生に対する評価」により評価する。\n筆記試験 60% 課題演習 40% (授業期間後半に提示される5間のうちから2問を選択して提出する)",
+    "grading_criteria": "1.IoTとAIの概要、2.センサーテクノロジーの基本、3.IoTの入出力とその制御についての理解・修得度を以下の「学生に対する評価」により評価する。\n筆記試験 60% 課題演習 40% (授業期間後半に提示される5間のうちから2問を選択して提出する)",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "IoTとAIは今後の「スマートな」社会の実現に欠くことができないものであり、だからこそ大きなビジネスチャンスの種でもある。そうしたIoTとAIの基本を理解する上では概念知識の習得とともに実際に活用するためのスキルの習得も重要となる。このため、合計で3時間程度を想定される予習復習においては授業時に提示するさまざまなオンラインコンテンツを利用して習得度を高めるよう工夫する。\n【オフィスアワー】 講義のある曜日 不在時はメールで受け付けます。",
+    "teacher_message": "IoTとAIは今後の「スマートな」社会の実現に欠くことができないものであり、だからこそ大きなビジネスチャンスの種でもある。そうしたIoTとAIの基本を理解する上では概念知識の習得とともに実際に活用するためのスキルの習得も重要となる。このため、合計で3時間程度を想定される予習復習においては授業時に提示するさまざまなオンラインコンテンツを利用して習得度を高めるよう工夫する。\n【オフィスアワー】 講義のある曜日 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ITとAIの全体像",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "スマートホーム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "スマートファクトリー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "スマートソサエティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "センサーテクノロジー入門",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "センサーテクノロジー実践",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "センサー+インターネット",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "複数のセンサーの情報を集約する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "IoTに必要なAlを使った決定論的意思決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "IoTに必要なAIを使った機械学習的意思決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "リアルタイム処理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "エッジAIとIoT",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "複数デバイスの組み合わせとしてのIoT",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アウトプットから見たIoT",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "IoTとAIの今後",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,6 +211,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

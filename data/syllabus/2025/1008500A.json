@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-04T05:55:32Z",
+    "fetched_at": "2025-04-04T05:55:32Z",
     "name_ja": "情報リテラシー",
     "name_en": "Information literacy",
     "syllabus_number": "1008500A",
     "course_number": "11-1-14-21-05、21-1-14-21-04、22-1-14-21-03、23-1-14-21-04、31-1-14-21-05",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -13,18 +13,18 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "日置　智子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -32,12 +32,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "１．ノートPC の携行を常とし、学内外のネット上にある情報資源を有効に活用するための基本的な知識と技術を備えている。\n２．ワープロ（文書処理）や表計算の概念、プレゼンテーションの基礎技能を習得し、3 級レベルの検定試験に合格する実力を備えている。\n３．LMS 等へのアクセスが慣習となり、学内システム上に挙げられている情報や教材を活用し、自らが能動的に学んでいく学修姿勢（アクティブラーニング）と生活態度を身につけている。",
+    "objectives": "１．ノートPC の携行を常とし、学内外のネット上にある情報資源を有効に活用するための基本的な知識と技術を備えている。\n２．ワープロ（文書処理）や表計算の概念、プレゼンテーションの基礎技能を習得し、3 級レベルの検定試験に合格する実力を備えている。\n３．LMS 等へのアクセスが慣習となり、学内システム上に挙げられている情報や教材を活用し、自らが能動的に学んでいく学修姿勢（アクティブラーニング）と生活態度を身につけている。",
     "overview": "現代の情報化社会ではICT 活用能力は必須である。情報ネットワークに接続しそこにある有用な情報を余すことなく活用して生きていくための基本的な技術と習慣を身につけておく必要がある。情報教育システム活用への導入編となる講義科目が「情報リテラシー」である。現代の情報化社会において不可欠となるICT基礎技術や手法の習得を目指す。本授業はオンデマンド型の授業として実施する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "経済経営学科DP1",
         "経済経営学科DP3",
@@ -49,32 +49,32 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートPC",
+        "required_materials": "ノートPC",
         "other": "LMS で提示された e-learning 教材に、ノートパソコンでアクセスして進めていく授業です。したがって、LMS 上で提示された e-learning 教材が教科書になります。"
     },
-    "evaluation_criteria": "１．情報資源の有効活用、２．ワープロ＆表計算＆プレゼンテーションの基礎技能、３．LMS 等を活用したアクティブラーニング\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
+    "grading_criteria": "１．情報資源の有効活用、２．ワープロ＆表計算＆プレゼンテーションの基礎技能、３．LMS 等を活用したアクティブラーニング\n上記１．～３．に関する理解度を以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 15,
-        "発表・実技": 25,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 15,
+        "presentation": 25,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ノートPC を常時携行し、学内クラウド上の資源をフルに活用しながら、有意義な学修生活を送っていきましょう。この情報リテラシーは、そのための入り口となる科目です。\n授業に参加するにあたっては、次回の「授業の内容」に含まれるキーワードを参考にインターネットや書籍で情報収集し(予習・45分程度)、授業終了後には、授業時に提示した e-learning 教材の重要箇所の再確認を行い、知識を定着させてください(復習・45分程度)。\n【オンデマンドのオフィスアワー】オンデマンド教材の配信日 不在時はメールで受け付けます。",
+    "teacher_message": "ノートPC を常時携行し、学内クラウド上の資源をフルに活用しながら、有意義な学修生活を送っていきましょう。この情報リテラシーは、そのための入り口となる科目です。\n授業に参加するにあたっては、次回の「授業の内容」に含まれるキーワードを参考にインターネットや書籍で情報収集し(予習・45分程度)、授業終了後には、授業時に提示した e-learning 教材の重要箇所の再確認を行い、知識を定着させてください(復習・45分程度)。\n【オンデマンドのオフィスアワー】オンデマンド教材の配信日 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Windowsの基本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "情報倫理とセキュリティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "情報端末とネットワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "情報の検索",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "IoT技術とスマートシティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "プログラミング的思考とチャート図",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "オンラインサービスとeコマース",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "文書作成ソフトの活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "プレゼンテーションソフトの活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "表計算ソフトの基本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "表計算ソフトによる図表の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "表計算ソフトによる関数の活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アンケート調査の基本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

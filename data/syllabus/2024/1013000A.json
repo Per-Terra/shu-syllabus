@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:54:34Z",
+    "fetched_at": "2025-04-07T10:54:34Z",
     "name_ja": "健康産業施設実習",
     "name_en": "Health Promotion Facilites Workshop",
     "syllabus_number": "1013000A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,44 +28,44 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "健康産業施設等での現場体験を通じて健康指導の実際を体験学習する。健康産業施設での顧客に対応した運動プログラム作成と実践指導を体験することで即戦力となる健康運動指導の可能な健康運動指導士をめざす。\n\n【到達目標】\n1．現場体験を通しての運動指導の専門知識を習得する。\n2．自己を知り制御する能力、コミュニケーション能力を習得する。\n3．現場での運動指導を習得する。",
+    "objectives": "健康産業施設等での現場体験を通じて健康指導の実際を体験学習する。健康産業施設での顧客に対応した運動プログラム作成と実践指導を体験することで即戦力となる健康運動指導の可能な健康運動指導士をめざす。\n\n【到達目標】\n1．現場体験を通しての運動指導の専門知識を習得する。\n2．自己を知り制御する能力、コミュニケーション能力を習得する。\n3．現場での運動指導を習得する。",
     "overview": "健康増進施設実習は、長期休暇中に実施する予定です。事前教育（実習先訪問）・事後教育（レポート作成）を行います。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "解剖学",
             "生理学",
             "運動生理学"
         ],
-        "recommended_courses": [],
-        "brings": "スポーツウエア、インシューズ、水着、タオル",
+        "recommended": [],
+        "required_materials": "スポーツウエア、インシューズ、水着、タオル",
         "other": "授業中に適時、資料を配布する。"
     },
-    "evaluation_criteria": "実習に取り込む姿勢（発表・実技）45％、課題レポート20％、ポートフォリオ10％、その他25％から、総合的に評価を行う。",
+    "grading_criteria": "実習に取り込む姿勢（発表・実技）45％、課題レポート20％、ポートフォリオ10％、その他25％から、総合的に評価を行う。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 80,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 80,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "健康運動指導士受験資格希望者は、受講すること。また、毎回、学習内容に関する予習・復習を合計60分間実施すること。社会的評価の高い専門資格を取得するための必修科目ですので、高い目標意識をもって受講して下さい。実習費として、15,000円の費用が必要となります。金額は、変更することがあります。",
+    "teacher_message": "健康運動指導士受験資格希望者は、受講すること。また、毎回、学習内容に関する予習・復習を合計60分間実施すること。社会的評価の高い専門資格を取得するための必修科目ですので、高い目標意識をもって受講して下さい。実習費として、15,000円の費用が必要となります。金額は、変更することがあります。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n実習の心得指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "実習施設事前視察研修",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "現場指導実習①実習ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "現場指導実習②接客業務について",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "現場指導実習③施設管理業務について",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "現場指導実習④フィトネス業務\n～マシン・フロアメンテナンスについて～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "現場指導実習⑤フィトネス業務\n～有酸素マシーンについて～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "現場指導実習⑥フィットネス業務\n～レジスタンスマシーンについて～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "現場指導実習⑦フィットネス業務\n～グループエクササイズについて～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "現場指導実習⑧フィットネス業務\n～イベント企画について～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "現場指導実習⑨スイミング業務\n～プール環境管理について～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "現場指導実習⑩スイミング業務\n～成人スクールの水泳指導法について～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "現場指導実習⑪スイミング業務\n～レッスンプログラム指導法について～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "現場指導実習⑫スイミング業務\n～ジュニアコース指導法について～",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "現場指導実習⑬スイミング業務\n～イベント企画について～\n実習終了後、レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -227,6 +227,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

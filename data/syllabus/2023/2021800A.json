@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:15:56Z",
+    "fetched_at": "2024-08-08T01:15:56Z",
     "name_ja": "福祉情報インターフェース",
     "name_en": "Welfare Interface of Infomation & Communication Technology",
     "syllabus_number": "2021800A",
     "course_number": "05WI205",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "土屋　敏夫",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "インタフェースは、コンピュータ装置と人間の接点となる部分です。インタフェースデザインによって、コンピュータシステムを利用する人にとってのアクセシビリティが決まります。\n本講義では情報機器におけるインターフェースの基本と福祉におけるインターフェースの特徴について修得します。",
+    "objectives": "インタフェースは、コンピュータ装置と人間の接点となる部分です。インタフェースデザインによって、コンピュータシステムを利用する人にとってのアクセシビリティが決まります。\n本講義では情報機器におけるインターフェースの基本と福祉におけるインターフェースの特徴について修得します。",
     "overview": "初回のガイダンスで、講義の進め方と評価方法に関して確認をします。必要なアプリケーションや環境設定について説明します。\nまた、講義進度は受講者の理解度によって弾力的に変更する場合があります。\n配付資料はデジタルデータでの配布としますので毎回パソコンを持参してください。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "UIデザインの教科書[新版] マルチデバイス時代のインターフェース設計",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "原田 秀司",
             "publisher": "翔泳社",
             "price": 2618,
@@ -47,7 +47,7 @@
         },
         {
             "title": "ノンデザイナーでもわかる UX+理論で作るWebデザイン",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "川合 俊輔他",
             "publisher": "マイナビ出版",
             "price": 2739,
@@ -55,29 +55,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "情報システム論"
         ],
-        "brings": "パソコン",
+        "required_materials": "パソコン",
         "other": ""
     },
-    "evaluation_criteria": "試験は行いません。毎回、講義に関連する小レポートを提出してもらいます。レポートの内容や講義内でのプレゼンテーションなどで評価します。",
+    "grading_criteria": "試験は行いません。毎回、講義に関連する小レポートを提出してもらいます。レポートの内容や講義内でのプレゼンテーションなどで評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 60,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 60,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "・ガイダンス\n授業の進め方と評価\nアプリケーションのインストールとプログ\nラミング環境の設定",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "・UI/UXデザイン UI/UXについて\nUI/UXデザインの目的\nUI/UXについて理解する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "・物理的な制約\nインタフェースの物理的制約",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "・ソフトウエアの影響\nWebとアプリケーション\nマルチメディア\nパフォーマンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "・人間の認知特性1\n色・形・動き\nインタラクションコスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "・人間の認知特性2\n一貫性、シンプルさ\n共通概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "・階層と構造\n階層の深さと広さによる使いやすさの影響",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "・直感的に分かりやすいサイト構造\nわからないとは何か\n関連する情報をユーザーに提示する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "・ナビゲーションとインタラクション1\nナビゲーション、インタラクションとは\nナビゲーションの方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "・ナビゲーションとインタラクション2\nオーバーレイ、インレイとは\nスクロール、ページングとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "・デザインを形にする\nミニマルデザインとは\nデザインガイドライン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "・プロトタイピングとマルチデバイス\nプロトタイピングとは\nマルチデバイスとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "・デザイン思考とWebデザイン\nデザイン思考とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "・情報のデザイン\n情報設計とは\nストーリーボードとカードソーティング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "・ユーザーの感性に訴えるデザイン\n感性と使いやすさ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

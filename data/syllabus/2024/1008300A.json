@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-07T10:53:31Z",
+    "fetched_at": "2025-04-07T10:53:31Z",
     "name_ja": "データサイエンス入門",
     "name_en": "Introduction to data science",
     "syllabus_number": "1008300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -13,22 +13,22 @@
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "呉　靭",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "日置　智子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -37,12 +37,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．データサイエンスの社会での有用性の理解 \n\n２．実データ・実課題の理解・判断 \n\n３．表計算ソフトを用いた基礎的分析手法の習得",
+    "objectives": "１．データサイエンスの社会での有用性の理解 \n\n２．実データ・実課題の理解・判断 \n\n３．表計算ソフトを用いた基礎的分析手法の習得",
     "overview": "今後の情報を基盤とした社会においては、データサイエンスの基礎的な素養を持ち、正しく大量のデータを扱い、新たな価値を創造する能力が必要となってくる。そのためデータサイエンスを基盤的リテラシーと捉え、全員が身に付けていくことが重要である。 \n\nこの科目はデータサイエンスの入門科目として位置づけられる科目である。データサイエンスが、社会でどのように活用され新たな価値を生んでいるのかを理解し、社会の実データ・実課題を適切に読み解き、判断できることを念頭に置きながら、そのための基礎的な分析手法を、表計算ソフトを用いながら学んでいく。 \n\nこの講義により、受講者は、データサイエンスの基礎を修得することができ、社会で活用されるデータサイエンスの基礎知識、データサイエンスの基礎的な分析手法を身に付けることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP1",
@@ -54,28 +54,28 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "各回の課題（小レポートなど）への取組と期末試験の成績によって評価する \n\n定期試験40%、発表・実技40%、課題・レポート20%",
+    "grading_criteria": "各回の課題（小レポートなど）への取組と期末試験の成績によって評価する \n\n定期試験40%、発表・実技40%、課題・レポート20%",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この授業はオンデマンド型の授業として実施し、毎週1回分の動画教材等をオンラインで配信します。データサイエンスが実社会でどのように活用されているのかを講義したうえで、そのための基礎的な分析手法を、実データや教育用データを使い、表計算ソフトを用いながら学んでいきます。 \n\n受講生はその動画教材によって学習を進め、各回の課題や小レポートに取り組み、提出すること。15回の授業の後に期末試験を実施します。 \n\nデータサイエンスの基礎知識はこれからの社会における読み書きそろばんとなると言われているほど重要なものです。本授業を通してしっかりと学び、将来に役立てましょう。",
+    "teacher_message": "この授業はオンデマンド型の授業として実施し、毎週1回分の動画教材等をオンラインで配信します。データサイエンスが実社会でどのように活用されているのかを講義したうえで、そのための基礎的な分析手法を、実データや教育用データを使い、表計算ソフトを用いながら学んでいきます。 \n\n受講生はその動画教材によって学習を進め、各回の課題や小レポートに取り組み、提出すること。15回の授業の後に期末試験を実施します。 \n\nデータサイエンスの基礎知識はこれからの社会における読み書きそろばんとなると言われているほど重要なものです。本授業を通してしっかりと学び、将来に役立てましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション \n\n・概要 \n\n・Society 5.0とは \n\n・社会で活用されているデータの例 \n\n・PPDACサイクルとは　　など",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "データ・AIを扱う上での留意事項 \n\nデータを守る上での留意事項",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "データの種類と取得 \n\n折れ線グラフ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "データの可視化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "代表値(算術平均・中央値・モード) \n\nデータの並べ替え",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "散布度(分散・標準偏差、範囲・四分位範囲) \n\n箱ひげ図",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "度数分布表とヒストグラム",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "分割表・2次元ヒストグラム・散布図・相関係数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "相関関係と因果関係 \n\n単回帰分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "単回帰分析(予測値と残差) \n\n重回帰分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "母集団と標本 \n\n全数調査(国勢調査)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "GIS入門",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "データを用いた演習 \n\nレポート作成に向けた、課題発見",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "データを用いた演習 \n\nレポート完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "授業のまとめ \n\nレポートに対するコメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -250,6 +250,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

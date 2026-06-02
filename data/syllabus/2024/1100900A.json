@@ -1,42 +1,42 @@
 {
-    "_fetched_at": "2025-04-07T10:55:32Z",
+    "fetched_at": "2025-04-07T10:55:32Z",
     "name_ja": "生活と経済経営",
     "name_en": "Economics and Business for Living",
     "syllabus_number": "1100900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科",
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "田尾　真一",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "長澤　賢一",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "赤木　真由",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "百武　仁志",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "田島　正士",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -44,39 +44,39 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n　・日常生活で必要となる、経済・経営に関する基礎知識を修得している\n　・身の回りのことについて、経済・経営に関する知識を基に考察できるようになる\n　・自分自身や地域社会の生活を豊かにする方法を考え、実践できるようになる",
+    "objectives": "【到達目標】\n　・日常生活で必要となる、経済・経営に関する基礎知識を修得している\n　・身の回りのことについて、経済・経営に関する知識を基に考察できるようになる\n　・自分自身や地域社会の生活を豊かにする方法を考え、実践できるようになる",
     "overview": "本講義では、経済学や経営学を専門としていない学生でも日常生活を送るうえで必要となる経済学や経営学に関する知識をオムニバス形式で教授する。また、学んだことを踏まえて、最終的にアウトプットする手法についても学び、今後の生活にも活かせるようにする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP4",
         "看護学科DP1",
         "福祉学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "各回の講義内容についてしっかりと理解し、学習した内容を踏まえて身の回りの経済・社会問題に対して適切に考察できるようになっているのかを総合的に評価する。\n評価は講義後のリアクションペーパーやレポート課題、小テストにて判断する。各回の担当教員の指示をしっかりと聞き対応すること。",
+    "grading_criteria": "各回の講義内容についてしっかりと理解し、学習した内容を踏まえて身の回りの経済・社会問題に対して適切に考察できるようになっているのかを総合的に評価する。\n評価は講義後のリアクションペーパーやレポート課題、小テストにて判断する。各回の担当教員の指示をしっかりと聞き対応すること。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 20,
-        "レポート": 80,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 20,
+        "report": 80,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本講義は5人の教員によるオムニバス講義です。経済・経営に関する各教員の専門分野についてわかりやすく講義し、皆さんの大学生活や今後の人生にとって必要な知識を教授いたします。各教員の指示に従って受講するようにしてください。予習・復習については特に学んだことをしっかりと反芻し身に付けることに時間を使っていただければと思います（1時間～2時間程度）。\n大学では自分の専門分野以外のことも積極的に学べる環境があるので、こうした機会を十分に活かしてください。",
+    "teacher_message": "本講義は5人の教員によるオムニバス講義です。経済・経営に関する各教員の専門分野についてわかりやすく講義し、皆さんの大学生活や今後の人生にとって必要な知識を教授いたします。各教員の指示に従って受講するようにしてください。予習・復習については特に学んだことをしっかりと反芻し身に付けることに時間を使っていただければと思います（1時間～2時間程度）。\n大学では自分の専門分野以外のことも積極的に学べる環境があるので、こうした機会を十分に活かしてください。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "イントロダクション\n経済学の基本的な考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "公共部門の役割と日本財政の現状",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "税について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "合理的経済人と限定合理性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "ヒューリスティクスとバイアス、アノマリーとパラドックス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "ナッジとスラッジ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "通貨の役割／金融資産、通貨とその機能",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "暗号資産の概要／暗号資産と法定通貨との違い等について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "通貨の役割と暗号資産の概要に関する小テストおよび解説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "営利組織と非営利組織",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "企業の社会的役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "社会的企業の発展",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "問題定義\n経済学・経営学について得た知識を踏まえ、自分自身や地域社会の問題を新たな視点から定義する方法を学ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アイデア創出\n定義した問題を解くためのアイデアを創出の方法を学ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プロトタイピングと発表\nアイデアについて生活の中で何等かの「実験」を行った結果について共有する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

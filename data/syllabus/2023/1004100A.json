@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:56:29Z",
+    "fetched_at": "2024-08-08T00:56:29Z",
     "name_ja": "中国語Ⅰ",
     "name_en": "Chinese I",
     "syllabus_number": "1004100A",
     "course_number": "00FL101",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河村　玉",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "発音・表記の基本、簡単な中国語文法・会話については学習する。初修段階の基礎力を固める。ピンインを見て正確な発音・筆記ができる能力を養う。「話す」、「聞く」、「読む」、「書く」の四つの技能を高める。",
+    "objectives": "発音・表記の基本、簡単な中国語文法・会話については学習する。初修段階の基礎力を固める。ピンインを見て正確な発音・筆記ができる能力を養う。「話す」、「聞く」、「読む」、「書く」の四つの技能を高める。",
     "overview": "①\t中国語の文字表記と発音表記\n②\t中国語の学習方法\n③\tピンインについて\n④\t中国語であいさつと自己紹介、家族紹介等々\n⑤　　　中国語の入門基本文法",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "大学生のための初期中国語　２４回",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "杉野元子　黄漢青",
             "publisher": "白帝社",
             "price": 2640,
@@ -45,31 +45,31 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "外国人留学生は日本語能力試験N3以上を持つ者のみを受け入れる",
             "中国語を母国語としない者"
         ],
-        "recommended_courses": [],
-        "brings": "ノート、筆記用具",
+        "recommended": [],
+        "required_materials": "ノート、筆記用具",
         "other": ""
     },
-    "evaluation_criteria": "期末テスト６０％、小テスト２０％、授業態度２０％。欠席三分の一以上の学生は欠格。",
+    "grading_criteria": "期末テスト６０％、小テスト２０％、授業態度２０％。欠席三分の一以上の学生は欠格。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 60,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "時間厳守！授業前日に必ず習った単語等々を復習してください。授業は楽しくやっていきます。わからないことや困ったことがあったら、放課後に相談してください。",
+    "teacher_message": "時間厳守！授業前日に必ず習った単語等々を復習してください。授業は楽しくやっていきます。わからないことや困ったことがあったら、放課後に相談してください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "中国語について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -77,9 +77,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "第1課\n①\t声調　②単母音　③複母音",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "第２課\n①子音Ⅰ\n②子音Ⅱ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "第3課（１）\n鼻母音",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "第3課(2)\n親族名称\n人称代名詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "第４課（１）\n声調変化\n挨拶文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "第４課（２）\n声調変化\n声調の組み合わせ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "発音の総復習　　復習事項：　ピンイン\n母音と子音、声調。発音のチェック、挨拶の言葉",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "第５課\n姓・名の尋ね方と答え方\n数字の数え方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "第５課\n［是］の構文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "第5課\n疑問文\n年月日の言い方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "第６課\n動詞述語文（１）\n時刻の言い方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "第６課\n動詞述語文(2)\n選択疑問文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "第７課\n指示代名詞（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "第７課\n「的」について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -230,9 +230,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "第8課\n疑問詞疑問文\n助動詞「想」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "総復習\n数字の数え方\n日付、時刻の言い方\n是の構文\n動詞述語文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -252,9 +252,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "第9課（１）\n形容詞述語文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "第9課（２）\n反復疑問文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "第10課（１）\n所有を現す動詞（有）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "第10課（２）\n　量詞\n「几」と「多少」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -296,9 +296,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "第11課（１）\n文末の「了」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "第11課（２）\n前置詞「在」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -318,9 +318,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "第1２課\n連動文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -329,9 +329,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "第1３課（1）\n指示代名詞（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -340,9 +340,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "第1３課（２）\n存在を表す「在」と「有」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -351,9 +351,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "第1４課（1）\n動詞につく「了」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "第1４課（２）\n動詞の重ね型",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -373,9 +373,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "第1４課（３）\n前置詞「？」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -384,9 +384,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -395,6 +395,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

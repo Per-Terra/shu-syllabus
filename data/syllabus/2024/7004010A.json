@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:08:53Z",
+    "fetched_at": "2025-04-07T11:08:53Z",
     "name_ja": "剣道Ⅰ",
     "name_en": "Kendo I",
     "syllabus_number": "7004010A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "香田　郡秀",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,35 +28,35 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "剣道で必要とされる高度な専門的知識・技能・ルール・トレーニング法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n（ⅰ）剣道理合とその基本的技能を習得する\n（ⅱ）基本動作（構えと体さばき・打突の仕方と受け方）を身につける\n（ⅲ）対人的技能（しかけ技・応じ技）を身につける\n（ⅳ）ルール（含審判法）・トレーニング法を正しく理解し、実践できる\n（ⅴ）健康の維持増進および体力の向上のための「剣道」に関する知識を持ち、実践することができる",
+    "objectives": "剣道で必要とされる高度な専門的知識・技能・ルール・トレーニング法について理解し、実践できるようになることを目的とする。\n\n【到達目標】\n（ⅰ）剣道理合とその基本的技能を習得する\n（ⅱ）基本動作（構えと体さばき・打突の仕方と受け方）を身につける\n（ⅲ）対人的技能（しかけ技・応じ技）を身につける\n（ⅳ）ルール（含審判法）・トレーニング法を正しく理解し、実践できる\n（ⅴ）健康の維持増進および体力の向上のための「剣道」に関する知識を持ち、実践することができる",
     "overview": "剣道は、剣の理法の修練による人間形成の道である。打つ、突く、かわす、跳ぶなどの基礎的運動能力を身につけると同時に、洞察力、判断力、実行力などを養う。すなわち、身体の鍛錬を通し、精神面も同時に鍛錬するが、竹刀を媒体として相手を打突する運動だけに、礼儀作法についても特に力を入れて養成する。また各々の学習項目において、トレーニング法や指導法の習得を目指して授業をすすめ、最後にはこれらの知識や技能の修得を確認するための模擬授業を実施する。\n・個人で、竹刀、剣道着、袴が必要となる。販売についてはオリエンテーション時に指示する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "必要に応じて資料を配付する。"
     },
-    "evaluation_criteria": "発表・実技：60％\nその他修学意欲など：40％",
+    "grading_criteria": "発表・実技：60％\nその他修学意欲など：40％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "各回で実施する内容について、予習・復習をすること（各回30～61分程度）",
+    "teacher_message": "各回で実施する内容について、予習・復習をすること（各回30～61分程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（授業展開の説明、評価の説明、中学・高校学習指導要領「剣道」の解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "剣道着、袴のつけ方、たたみ方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "礼法、竹刀の持ち方、構え方、足捌き、目付け",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "竹刀の操作～素振り（刃筋を正す素振り、面打ちの素振り、一挙動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "基本打突（面打ち、小手打ち、胴打ち）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "切り返し",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "しかけ技の練習（連続技、払い技）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "しかけ技の練習（出ばな技、引き技）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "応じ技の練習（抜き技、すり上げ技）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "応じ技の練習（返し技、打ち落し技）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "しかけ技と応じ技の総合練習（基礎）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "しかけ技と応じ技の総合練習（実践）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "日本剣道形（１本目、２本目、３本目）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "日本剣道形（４本目、５本目）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "実技の到達度確認と前期のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

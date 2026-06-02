@@ -1,36 +1,36 @@
 {
-    "_fetched_at": "2025-04-07T11:06:14Z",
+    "fetched_at": "2025-04-07T11:06:14Z",
     "name_ja": "ビジネスアナリティクス概論",
     "name_en": "Introduction to Business Analytics",
     "syllabus_number": "2104400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小柳　淳二",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "木島　正明",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "橋本　喜代太",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "大島　和裕",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -39,38 +39,38 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。\n１．ビジネスアナリティクスが求められている社会的な背景を理解する\n２．ビジネスアナリティクスの代表的な活用事例を理解する\n３．ビジネスアナリティクスに必要な知識や技術の概要を理解する",
+    "objectives": "ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。\n１．ビジネスアナリティクスが求められている社会的な背景を理解する\n２．ビジネスアナリティクスの代表的な活用事例を理解する\n３．ビジネスアナリティクスに必要な知識や技術の概要を理解する",
     "overview": "Society 5.0の実現に向けて、デジタル・トランスフォーメーション（DX）への取組が盛んになっています。その中で、データを活用しビジネス上の意思決定を支える技術であるビジネスアナリティクスは、最も重要な要素の一つです。この講義では、ビジネスアナリティクスが求められている社会的あるいは技術的な背景とビジネスアナリティクスが活用されている代表的なビジネス事例について解説します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "レポートの提出状況と内容の出来を総合的に評価します。",
+    "grading_criteria": "レポートの提出状況と内容の出来を総合的に評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ビジネスアナリティクスは、データをビジネスで活用する上で欠かすことのできない技術です。普段からビジネスとデータに関する情報に関心を持ち、ビジネスでデータがどのように活用されているかを考えるようにして下さい。",
+    "teacher_message": "ビジネスアナリティクスは、データをビジネスで活用する上で欠かすことのできない技術です。普段からビジネスとデータに関する情報に関心を持ち、ビジネスでデータがどのように活用されているかを考えるようにして下さい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "デジタル社会とその特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "デジタル社会を支える技術とデータ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "メディアリテラシー",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "インターネットと集合知１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "インターネットと集合知２",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ビジネスにおけるデータ活用例１：マーケティング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ビジネスにおけるデータ活用例２：製造業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ビジネスにおけるデータ活用例３：金融",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ビジネスアナリティクスプログラムでの学び",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ビジネスにおける数理モデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "AI、機械学習とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "最適化とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "時系列解析とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "シミュレーションとは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "本講義のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T11:03:27Z",
+    "fetched_at": "2025-04-07T11:03:27Z",
     "name_ja": "マクロ経済学Ⅱ",
     "name_en": "Macroeconomics Ⅱ",
     "syllabus_number": "2034300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "田尾　真一",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "長澤　賢一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -30,12 +30,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）マクロ経済政策の分析手法を理解する。\n（２）マクロ経済学の分析手法を用いて実際の経済問題にアプローチすることができる。",
+    "objectives": "【到達目標】\n（１）マクロ経済政策の分析手法を理解する。\n（２）マクロ経済学の分析手法を用いて実際の経済問題にアプローチすることができる。",
     "overview": "マクロ経済学とは、所得、物価、雇用、経済成長など、我々の日常生活など、経済全体にかかわる大きな問題を分析する学問である。本講義では、マクロ経済学Ⅰで学習したことを基礎に、ＩＳ-ＬＭ分析や総需要・総供給曲線など、マクロ経済分析ツールを学習し、マクロ経済政策の基礎的な概念、マクロ経済政策が我々の日常生活へに与える影響等についての理解を深める。マクロ経済学の基礎的な概念を理解することで、日本経済新聞や経済雑誌に掲載されている経済ニュースをより理解することができるようになる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "経済経営学科DP2",
@@ -44,7 +44,7 @@
     "textbooks": [
         {
             "title": "マクロ経済学の基礎(第2版)",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "家森信繁",
             "publisher": "中央経済社",
             "price": 2200,
@@ -52,10 +52,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "マクロ経済学(第2版)",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "伊藤元重",
             "publisher": "日本評論社",
             "price": 3080,
@@ -63,34 +63,34 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "マクロ経済学Ⅰ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "ミクロ経済学Ⅰ",
             "ミクロ経済学Ⅱ",
             "金融論",
             "財政学"
         ],
-        "brings": "テキスト、必要に応じて電卓",
+        "required_materials": "テキスト、必要に応じて電卓",
         "other": "経済学部2021年度以前入学の学生は、「マクロ経済学Ⅰ」及び「マクロ経済学Ⅱ」の両方の単位を修得することで、「マクロ経済学（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "マクロ経済理論を用いて、実際の経済問題にアプローチするための分析手法の理解度を評価する。（最終回テスト：60％、中間テスト：40％）",
+    "grading_criteria": "マクロ経済理論を用いて、実際の経済問題にアプローチするための分析手法の理解度を評価する。（最終回テスト：60％、中間テスト：40％）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "マクロ経済学を学ぶことで現実の経済問題への理解が深まり、日本経済新聞などの経済ニュースの理解が深まります。本講義を受ける前と後においては、テキストを熟読してください（1～2時間程度）。",
+    "teacher_message": "マクロ経済学を学ぶことで現実の経済問題への理解が深まり、日本経済新聞などの経済ニュースの理解が深まります。本講義を受ける前と後においては、テキストを熟読してください（1～2時間程度）。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "ＩＳ－ＬＭ分析①／財市場と貨幣市場の均衡",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "ＩＳ－ＬＭ分析②／ＩＳ－ＬＭ分析における政策効果(金融政策)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "ＩＳ－ＬＭ分析③／ＩＳ－ＬＭ分析における政策効果(財政政策)",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "ＩＳ－ＬＭ分析④／政策効果に及ぼす影響",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "ＩＳ－ＬＭ分析⑤／ポリシーミックス、公債残高の資産効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "ＩＳ－ＬＭ分析⑥／ＩＳ－ＬＭ分析に関する小テスト、解説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "失業と物価の分析①／ＩＳ－ＬＭモデルの限界、物価が伸縮的なモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "失業と物価の分析②／労働需要曲線と労働供給曲線",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "失業と物価の分析③／失業の形態と賃金の下方硬直性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "失業と物価の分析④／総供給曲線と総需要曲線",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "失業と物価の分析⑤／総需要・総供給分析による政策効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "インフレーション①／インフレーションとデフレーション、コストと要因",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "インフレーション②／インフレーションとフィリップス曲線",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "失業と物価の分析、インフレーションに関する小テスト、解説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "テスト、講義の総括、振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -253,6 +253,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "この講座を担当する実務家教員（長澤賢一）の職歴等\n\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事しており、実務経験を踏まえた講義を行う。"
+    "credit_auditing": true,
+    "practitioner_info": "この講座を担当する実務家教員（長澤賢一）の職歴等\n\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事しており、実務経験を踏まえた講義を行う。"
 }

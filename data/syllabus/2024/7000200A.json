@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:07:46Z",
+    "fetched_at": "2025-04-07T11:07:46Z",
     "name_ja": "教育原理",
     "name_en": "Principles of Education",
     "syllabus_number": "7000200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "渡部　明",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,16 +27,16 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "（１）「教育の理念並びに教育に関する歴史および思想」に関する基本的な知識を身につけることができた。\n（２）教育の意義と課題について思索できるようになった。",
+    "objectives": "（１）「教育の理念並びに教育に関する歴史および思想」に関する基本的な知識を身につけることができた。\n（２）教育の意義と課題について思索できるようになった。",
     "overview": "「教育の理念並びに教育に関する歴史および思想」について教授する。そして、現代の学校教育が抱える諸問題や実践例をめぐり、その背景にある社会状況及び教育の意義と課題を検討する。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "『哲学する教育原理』",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "伊藤潔志編著",
             "publisher": "教育情報出版",
             "price": 2497,
@@ -44,28 +44,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "参考資料は講義内で適宜紹介する。"
     },
-    "evaluation_criteria": "本講義の主要テーマである「教育理念や教育史の基礎的な知識の習得」、「教育の意義や課題についての考察力」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
+    "grading_criteria": "本講義の主要テーマである「教育理念や教育史の基礎的な知識の習得」、「教育の意義や課題についての考察力」に関する内容の理解と応用力を以下の「学生に対する評価」により評価を行う。\n筆記試験70%、課題レポート30%",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教育の理念・歴史・思想について学んでいきましょう、また、現代の教育課題を視野に入れながら教育について考えていきましょう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
+    "teacher_message": "教育の理念・歴史・思想について学んでいきましょう、また、現代の教育課題を視野に入れながら教育について考えていきましょう。\n\n【予習・復習について】\n・授業中に指示する学習課題を中心に予習に取り組むこと。\n・配布資料やおよび参考図書などを参照して復習に取り組むこと。\n　※予習・復習あわせて240分以上取り組むこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n教育を基礎から考える（１）\nあらためて「教育とは何か」を考える（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "教育を基礎から考える（２）\nあらためて「教育とは何か」を考える（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "教育を基礎から考える（３）\nあらためて「子どもとは何か」を考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教育を基礎から考える（４）\nあらためて「学校とは何か」を考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "教育の基礎となる、思想と歴史を学ぶ（１）\n西洋の教育思想（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "教育の基礎となる、思想と歴史を学ぶ（２）\n西洋の教育思想（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教育の基礎となる、思想と歴史を学ぶ（３）\n日本の教育思想（１）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "教育の基礎となる、思想と歴史を学ぶ（４）\n日本の教育思想（２）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "哲学的思考の基本を学ぶ（１）\n「哲学する」とはどういうことなのか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "哲学的思考の基本を学ぶ（２）\n教育と教師を哲学する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "教育の現在を哲学する（１）\n教育課題を哲学する（アクティブ・ラーニング、道徳の教科化など）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "教育の現在を哲学する（２）\nグループ活動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "教育の現在を哲学する（３）\n現場と理論を結ぶ哲学（幼児教育・初等教育）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "教育の現在を哲学する（４）\n現場と理論を結ぶ哲学（中等教育）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "教育原理のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,6 +213,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:00:29Z",
+    "fetched_at": "2025-04-07T11:00:29Z",
     "name_ja": "情報システム論",
     "name_en": "Information Systems",
     "syllabus_number": "2022700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "土屋　敏夫",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,22 +27,22 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "コンピュータ等に関する基本的な構成を理解し説明できる。\n情報とコンピュータの仕組みについて理解し説明できる。\nソフトウエアとその役割について理解し説明できる。\nインターネット活用に関するセキュリティやマナーを理解し実践できる",
+    "objectives": "コンピュータ等に関する基本的な構成を理解し説明できる。\n情報とコンピュータの仕組みについて理解し説明できる。\nソフトウエアとその役割について理解し説明できる。\nインターネット活用に関するセキュリティやマナーを理解し実践できる",
     "overview": "現在、コンピュータは決して特別なものではなく、オフィスや各家庭にも浸透しており、様々な情報を得るためには欠かせない必需品となっている。また、近年におけるコンピュータの社会的応用は、コンピュータや関連する周辺機器など、ハードウェアの低価格化、小型化およびネットワーク化によって大きく変化しており、極めて重要な道具となりつつある。このような背景を踏まえ、コンピュータの仕組みから情報処理に関する基本的な知識までを修得することを目的として、コンピュータの原理、ハードウェア、ソフトウェア、ネットワークなどを中心とした知識を提供し、コンピュータを有効に利用する上で必要な知識を修得するとともに、コンピュータの利用とどう関わっているかを理解する。\n初回のガイダンスで，講義の進め方と評価方法に関して確認をします。\nまた，講義内容は受講者人数の状況により弾力的に変更する場合があります。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3",
         "情報科学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "コンピュータ概論: 情報システム入門 第9版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "魚田 勝臣他",
             "publisher": "共立出版",
             "price": 3080,
@@ -50,27 +50,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "パソコン",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "パソコン",
         "other": ""
     },
-    "evaluation_criteria": "毎回、講義に関する小テストを課題として提出してもらい、解答内容を評価する。期末テストは実施しない。",
+    "grading_criteria": "毎回、講義に関する小テストを課題として提出してもらい、解答内容を評価する。期末テストは実施しない。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "・ガイダンス-情報システムとは何か-\n 授業の進め方、コンピュータとその利用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "・ビジネスと情報システム\n 企業情報システム、インターネットビジ\nネス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "・コンピュータの誕生からネットワーク社\n会へ\n コンピュータの歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "・情報の表現(1) \n情報とメディア  デジタルデータの世界",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "・情報の表現(2) \n数値データの表現",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "・情報の表現(3) \n文字データ、画像データ、マルチメディ ア",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "・ハードウエアの仕組み(1) \n5大装置とその役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "・ハードウエアの仕組み(2) \n計算装置と記憶装置",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "・ソフトウエアの役割(1) \nソフトウエアの種類と役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "・ソフトウエアの役割(2) \nプログラミングとデータベース",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "・ネットワークと情報システム \nネットワークとLAN、WAN",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "・ヒューマンインタフェース\n インタフェースの設計技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "・情報システムの構築と維持\n情報システムの運用や故障およびバック\nアップ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "・情報倫理と情報セキュリティ(1)\n情報倫理、知的財産、個人情報",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "・情報倫理と情報セキュリティ(2)\n情報社会におけるセキュリティの必要性\nノ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,6 +218,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

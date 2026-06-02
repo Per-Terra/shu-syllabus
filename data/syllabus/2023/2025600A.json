@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2024-08-08T01:17:12Z",
+    "fetched_at": "2024-08-08T01:17:12Z",
     "name_ja": "社会福祉士特別セミナーⅢ",
     "name_en": "Studying for Examination of Certified Social Worker III",
     "syllabus_number": "2025600A",
     "course_number": "05HS309",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "守本　友美",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -31,40 +31,40 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "社会福祉士国家試験に合格するための基礎知識を暗記し、学習方法及び試験問題の解法を修得する。到達目標は以下の通りである。\n①社会福祉士国家試験に合格するために必要とされる基礎知識を暗記する。\n②過去問題の設問を正答する。\n③模試の正答率を50%以上とする。",
+    "objectives": "社会福祉士国家試験に合格するための基礎知識を暗記し、学習方法及び試験問題の解法を修得する。到達目標は以下の通りである。\n①社会福祉士国家試験に合格するために必要とされる基礎知識を暗記する。\n②過去問題の設問を正答する。\n③模試の正答率を50%以上とする。",
     "overview": "社会福祉士国家試験合格に向けて、学習習慣を確立するとともに、問題演習を通して知識を定着させる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "社会福祉士特別セミナーⅠ",
             "社会福祉士特別セミナーⅡ"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①基礎知識の習得\n②学習計画の管理",
+    "grading_criteria": "①基礎知識の習得\n②学習計画の管理",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 30,
-        "その他": 0
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 30,
+        "other": 0
     },
-    "message_from_teachers": "国家試験に向けた受験勉強はコツコツと努力を積み重ねることが大切です。毎週課題を出しますので、予習としてその課題に取り組んでください（予習1時間程度）。復習はその日に解いた問題の中で間違った問題を見直してください（復習30分程度）。",
+    "teacher_message": "国家試験に向けた受験勉強はコツコツと努力を積み重ねることが大切です。毎週課題を出しますので、予習としてその課題に取り組んでください（予習1時間程度）。復習はその日に解いた問題の中で間違った問題を見直してください（復習30分程度）。",
     "schedule": [
         {
-            "session": "第１回",
+            "number": "第１回",
             "content": "オリエンテーション：授業の進め方　過去問への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "第2回",
+            "number": "第2回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "第3回",
+            "number": "第3回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "第4回",
+            "number": "第4回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "第5回",
+            "number": "第5回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "第6回",
+            "number": "第6回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "第7回",
+            "number": "第7回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "第8回",
+            "number": "第8回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "第9回",
+            "number": "第9回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "第10回",
+            "number": "第10回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "第11回",
+            "number": "第11回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "第12回",
+            "number": "第12回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "第13回",
+            "number": "第13回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "第14回",
+            "number": "第14回",
             "content": "過去問題への取り組み",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "第15回",
+            "number": "第15回",
             "content": "過去問題への取り組み問題解答と解説\nまとめ、セミナーⅣに向けて",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -227,6 +227,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:59:37Z",
+    "fetched_at": "2024-08-08T00:59:37Z",
     "name_ja": "地域ゼミⅡ",
     "name_en": "",
     "syllabus_number": "1011800G",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "百武　仁志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,37 +27,37 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "「イベント」や「まちなか観光」で必要となる中小企業の実態が理解できるようになることを主な目的としています。また、中小企業の魅力を向上させる情報発信が自らできるようになることを到達目標としています。",
+    "objectives": "「イベント」や「まちなか観光」で必要となる中小企業の実態が理解できるようになることを主な目的としています。また、中小企業の魅力を向上させる情報発信が自らできるようになることを到達目標としています。",
     "overview": "演習形式で授業を進めていきます。教科書が無い授業になるので配布資料をきちんと理解するようにしてください。また、学外での活動がありますので参加を前提として授業に臨んでください。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "経営学概論"
         ],
-        "brings": "パソコン又はタブレット。（学外授業の時はデジタルカメラ又はビデオカメラ又はスマートフォン）",
+        "required_materials": "パソコン又はタブレット。（学外授業の時はデジタルカメラ又はビデオカメラ又はスマートフォン）",
         "other": ""
     },
-    "evaluation_criteria": "授業計画に記載している内容に基づき成績を評価をします（その他は取材の状況、マップの完成度で決まります）。\nなお、授業への参加態度により加点又は減点する場合があります。",
+    "grading_criteria": "授業計画に記載している内容に基づき成績を評価をします（その他は取材の状況、マップの完成度で決まります）。\nなお、授業への参加態度により加点又は減点する場合があります。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 60
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 60
     },
-    "message_from_teachers": "この地域ゼミは実際に地域に出て地域を学ぶゼミです。本ゼミの目標は地域に存在する中小企業の魅力を発信させることにあります。情報発信に興味を持つ学生が授業に参加してくれることを期待します。\nなお、授業計画を確認し、各回、事前事後学習を合わせて２時間程度、自己学習時間にあてるようにしてください。",
+    "teacher_message": "この地域ゼミは実際に地域に出て地域を学ぶゼミです。本ゼミの目標は地域に存在する中小企業の魅力を発信させることにあります。情報発信に興味を持つ学生が授業に参加してくれることを期待します。\nなお、授業計画を確認し、各回、事前事後学習を合わせて２時間程度、自己学習時間にあてるようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/地域ゼミの学び方\n全体の授業計画などが理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "地域の学び方①\n経営学・地域マーケティング・観光学の立場から地域が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "地域の学び方②\nビッグデータから地域特性が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "地域の学び方③\nフィールドワークの手法を学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "対象の魅力を伝える①\nソーシャルネットワークを活用した魅力の伝え方を学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "対象の魅力を伝える②\n観光マップについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "地域を知る①\n地図を使用し、地域の主な資源について学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "地域を知る②\n学外に出て地域を学ぶ（大学周辺地域の商店街を見学し、中小小売企業がどのような活動をしているのか学ぶ）。①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "地域を知る③\n学外に出て地域を学ぶ（大学周辺地域の商店街を見学し、中小小売企業がどのような活動をしているのか学ぶ）。②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "地域の魅力を発見する①\n自ら地域での取材計画を立てる（①取材計画、②取材の申し込み方法などについて学ぶ）。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "地域の魅力を発見する②\n自ら地域で取材を行う（①アポイントメントのとれた企業に取材に行く、②撮影を行う）。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "地域の魅力をまとめる\n今までの取材成果をゼミで発表し、地域の魅力についてまとめる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域情報を発信する①\nマップに取材データをプロットする方法を学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域情報を発信する②\nマップに取材データをプロットする。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体のまとめ\n地域ゼミ全体をまとめ、専門ゼミへの活かし方を学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

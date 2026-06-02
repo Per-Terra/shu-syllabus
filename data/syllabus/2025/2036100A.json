@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:02:48Z",
+    "fetched_at": "2025-04-04T06:02:48Z",
     "name_ja": "経営戦略論Ⅱ",
     "name_en": "Strategy Ⅱ",
     "syllabus_number": "2036100A",
     "course_number": "11-2-27-22-06",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "石谷　康人",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）「見えざる資産」をベースとする戦略論の観点から、実際の企業に対して興味を持てる。\n（２）「見えざる資産」ベースの戦略論にまつわる基本概念の意味するところを理解できる。\n（３）「見えざる資産」ベースの戦略論の基本的な概念を用いて、企業の成功事例を分析できる。",
+    "objectives": "【到達目標】\n（１）「見えざる資産」をベースとする戦略論の観点から、実際の企業に対して興味を持てる。\n（２）「見えざる資産」ベースの戦略論にまつわる基本概念の意味するところを理解できる。\n（３）「見えざる資産」ベースの戦略論の基本的な概念を用いて、企業の成功事例を分析できる。",
     "overview": "近年の経営戦略論の代表的なものに、企業の外部環境（立地、市場、取引関係）を重視するポジショニング・ビューと、企業の内部資源（独自の経営資源としてのコア・コンピタンス）を重視するリソース・ベースト・ビューがある。本講義では、後者のリソース・ベースト・ビューに着目するとともに、その古典的名著ともいえる伊丹敬之の『経営戦略の論理』を深く理解する。そうして学習した内容を、他の経営学関連科目の学習のみならず、就職活動や卒業論文の作成などで活用できることを目指す。本講義では、また、ケースブックを活用して講義を進めていく。教科書の概念を用いたケースの分析を通じて、企業の中核となる強み（コア・コンピタンス）としての経営資源（特に情報的資源としての見えざる資産）の蓄積と利用にまつわる経営戦略の論理を体系的かつ具体的に理解する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3"
@@ -40,7 +40,7 @@
     "textbooks": [
         {
             "title": "経営戦略の論理　ダイナミック適合と不均衡ダイナミズム　第4版",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "伊丹敬之",
             "publisher": "日本経済新聞出版",
             "price": 2200,
@@ -49,7 +49,7 @@
         },
         {
             "title": "ケースブック　経営戦略の論理　全面改訂版",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "伊丹敬之・西野和美",
             "publisher": "日本経済新聞出版",
             "price": 2090,
@@ -57,10 +57,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "ゼミナール経営学入門　新装版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "伊丹敬之・加護野忠男",
             "publisher": "日本経済新聞出版",
             "price": 3850,
@@ -69,7 +69,7 @@
         },
         {
             "title": "経営戦略入門",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "網倉久永・新宅純二郎",
             "publisher": "日本経済新聞出版",
             "price": 3740,
@@ -77,33 +77,33 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "経営戦略論Ⅰ",
             "経営学入門Ⅰ",
             "経営学入門Ⅱ"
         ],
-        "brings": "教科書「経営戦略の論理　第4版」、筆記用具など。",
+        "required_materials": "教科書「経営戦略の論理　第4版」、筆記用具など。",
         "other": "経済学部2021年度以前入学の学生は、「経営戦略論Ⅰ」及び「経営戦略論Ⅱ」の両方の単位を修得することで、「経営戦略論（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "2つの教科書「経営戦略の論理　第4版」および「ケースブック　経営戦略の論理　全面改訂版」の内容に対する理解度を「学生に対する評価」の方針に基づいて評価する。",
+    "grading_criteria": "2つの教科書「経営戦略の論理　第4版」および「ケースブック　経営戦略の論理　全面改訂版」の内容に対する理解度を「学生に対する評価」の方針に基づいて評価する。",
     "evaluation_ratio": {
-        "試験": 65,
-        "小テスト": 35,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 65,
+        "quiz": 35,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "上記教科書は、1980年に初版が刊行され、改訂を重ねながら40年以上も読まれ続けているロングセラーであり、名著です。本書には、今後の経営学の専門的な勉強、就職活動、卒業論文研究で参考になる重要なことがたくさん記されています。ぜひとも、本書を通読し、内容をしっかりと理解しましょう。\n\n【予習・復習について】\n各回を受講する前に、必ず、割り当てられている章を読んでくること。その際に、当日の授業で理解を深めるために、理解できない箇所を特定しておくと好ましい（60分）。\nそれぞれの授業では、ワークシートが配布されることがあるので、授業中および授業後に設問に解答すること（30分）。\nまた、授業後に、教育プラットフォーム等を通じて、小テストを受験しよう（30分）。",
+    "teacher_message": "上記教科書は、1980年に初版が刊行され、改訂を重ねながら40年以上も読まれ続けているロングセラーであり、名著です。本書には、今後の経営学の専門的な勉強、就職活動、卒業論文研究で参考になる重要なことがたくさん記されています。ぜひとも、本書を通読し、内容をしっかりと理解しましょう。\n\n【予習・復習について】\n各回を受講する前に、必ず、割り当てられている章を読んでくること。その際に、当日の授業で理解を深めるために、理解できない箇所を特定しておくと好ましい（60分）。\nそれぞれの授業では、ワークシートが配布されることがあるので、授業中および授業後に設問に解答すること（30分）。\nまた、授業後に、教育プラットフォーム等を通じて、小テストを受験しよう（30分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "経営戦略とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ビジネスシステムと見えざる資産その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ビジネスシステムと見えざる資産その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "顧客のニーズをダイナミックにとらえる　戦略の顧客適合その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "顧客のニーズをダイナミックにとらえる　戦略の顧客適合その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "競争優位をつくる　戦略の競争適合その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "競争優位をつくる　戦略の競争適合その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "資源を有効利用し、資源を効率的に蓄積する　戦略の資源適合その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "資源を有効利用し、資源を効率的に蓄積する　戦略の資源適合その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "技術を活用し、技術を進化させる―戦略の技術適合その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "技術を活用し、技術を進化させる―戦略の技術適合その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "人の心を動かし、刺激する　戦略の心理適合その１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "人の心を動かし、刺激する　戦略の心理適合その２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "市場創造の戦略―製品戦略の不均衡ダイナミズムその１",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "市場創造の戦略―製品戦略の不均衡ダイナミズムその２およびケース分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -251,6 +251,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

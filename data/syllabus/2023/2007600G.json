@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:03:12Z",
+    "fetched_at": "2024-08-08T01:03:12Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600G",
     "course_number": "10SE301、05HS301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "百武　仁志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,41 +26,41 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "授業のテーマ：「観光×中小企業」で賑わい創出の戦略を構築します。\n到達目標：本ゼミは、学生が持続可能な地域発展を仕掛けられる人材になれるよう、地域の賑わいを創出する戦略が構築できるようになることを到達目標とします。",
+    "objectives": "授業のテーマ：「観光×中小企業」で賑わい創出の戦略を構築します。\n到達目標：本ゼミは、学生が持続可能な地域発展を仕掛けられる人材になれるよう、地域の賑わいを創出する戦略が構築できるようになることを到達目標とします。",
     "overview": "COVID-19によって観光客が激減しました。しかし、政府の支援策などによって観光客が増加することが見込まれます。このゼミでは観光客に地域を良く見せ、「コト消費」につなげていき、地域の稼ぐ力をどのようにつければよいか、地域の主役である中小企業を中心に調べ、戦略を立案し、全員で一つの成果報告書を完成させていきます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "主体性・多様性・協調性の養成",
         "地域貢献に関する意識の醸成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "経営学概論"
         ],
-        "brings": "パソコン又はタブレット。",
+        "required_materials": "パソコン又はタブレット。",
         "other": ""
     },
-    "evaluation_criteria": "授業計画に記載している内容に基づき成績を評価をします。\nなお、授業への参加態度により加点又は減点する場合があります。",
+    "grading_criteria": "授業計画に記載している内容に基づき成績を評価をします。\nなお、授業への参加態度により加点又は減点する場合があります。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "今年度は「観光」と「中小企業」をテーマにゼミを運営していきます。\n周南市は山口県内でもトップを争う観光地ではないと思いますが、観光資源を想像することによって地域の稼ぐ力を高めることができるはずです。\n観光資源を創造していくために必要なのは、皆さんの発想に近い実年齢は高くても気持ちが若い中小企業経営者、思い切った行動をとる地元の中小企業経営者です。\n本ゼミではこれらの人々を発掘し、分析し、賑わいを創出する戦略を構築します。もし、この内容に興味があり、やる気のある学生さんはぜひ履修するようにしてください。\nなお、授業の第一回目に示した資料などを活用し事前事後学習を合わせて２時間程度、自己学習時間にあてるようにしてください。",
+    "teacher_message": "今年度は「観光」と「中小企業」をテーマにゼミを運営していきます。\n周南市は山口県内でもトップを争う観光地ではないと思いますが、観光資源を想像することによって地域の稼ぐ力を高めることができるはずです。\n観光資源を創造していくために必要なのは、皆さんの発想に近い実年齢は高くても気持ちが若い中小企業経営者、思い切った行動をとる地元の中小企業経営者です。\n本ゼミではこれらの人々を発掘し、分析し、賑わいを創出する戦略を構築します。もし、この内容に興味があり、やる気のある学生さんはぜひ履修するようにしてください。\nなお、授業の第一回目に示した資料などを活用し事前事後学習を合わせて２時間程度、自己学習時間にあてるようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "前期ガイダンス/専門ゼミⅠの学び方\n前期の授業計画などが理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "企画書の作成方法について学ぶ①\n一枚企画書の構成が理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "企画書の作成方法について学ぶ②\n効果的な一枚企画書とは何か理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "社会調査法を学ぶ\n質的調査や量的調査などを学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ビックデータを活用する①\nビックデータとは何か理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ビックデータを活用する②\n企業に関するビックデータを活用できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ビックデータを活用する③\nRESASが活用できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "地域分析を行う①\n地域の特性が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "地域分析を行う②\n地域振興にかかわる中小企業の経営行動が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "戦略を立案する①\n戦略の立案方法が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "戦略を立案する②\n賑わいを創出する戦略を立案することができるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "企画書を作成する①\n一枚企画書の効果的なレイアウトが理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企画書を作成する②\n一枚企画書が完成できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "企画書を発表する\n一枚企画書の発表ができるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期のまとめと夏期課題の説明\n前期の講義全体及び夏期課題が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期ガイダンス\n夏期課題の確認と後期の講義計画などが理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "夏期課題の報告を行う\n夏期課題について学生自身で報告を行う。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "報告書の書き方を学ぶ①\n一枚企画書と報告書の違いが理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "報告書の書き方を学ぶ②\n一枚企画書を基にした報告書の書き方が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -248,9 +248,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "報告書の書き方を学ぶ③\n訴求力のある報告書の書き方が理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "報告書を作成する①\n一枚企画書を基にした報告書の骨子が作成できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -268,9 +268,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "報告書を作成する②\n一枚企画書を基にした報告書が作成できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -278,9 +278,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "報告書を作成する③\n一枚企画書を基にした報告書が完成できる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -288,9 +288,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "プレゼンテーションを学ぶ①\n報告書を基にしたプレゼンテーションの仕方が理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -298,9 +298,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "プレゼンテーションを学ぶ②\nプレゼンテーションでの表現方法が理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -308,9 +308,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "プレゼンテーションを学ぶ③\n効果的なプレゼンテーションとは何か理解できるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -318,9 +318,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "プレゼンテーションを行う①\nプレゼンテーション資料を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "プレゼンテーションを行う②\nプレゼンテーションの練習をする。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -338,9 +338,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "プレゼンテーションを行う③\n自身で作成したプレゼンテーション資料を用い、プレゼンテーションが行えるようになる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -348,9 +348,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "全体のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -358,6 +358,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

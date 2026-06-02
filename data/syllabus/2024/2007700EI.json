@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:54Z",
+    "fetched_at": "2025-04-07T10:57:54Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EI",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "長澤　雅彦",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,12 +28,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "大学生活の総決算となる卒業論文・卒業制作を行なう一年となります。\nまた専門ゼミ１のゼミ生を指導し、その発表にも参加し自らの教養も深化させるよう努力することを目指します。",
+    "objectives": "大学生活の総決算となる卒業論文・卒業制作を行なう一年となります。\nまた専門ゼミ１のゼミ生を指導し、その発表にも参加し自らの教養も深化させるよう努力することを目指します。",
     "overview": "自らの研究テーマの追求と長澤からの指導を受ける。最終的に成果物としての卒論・卒制の提出。\n専門ゼミ１（3年生）へのアシスト。\n長澤が関係するイベントや映像制作への積極的参加。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -49,28 +49,28 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "卒業論文・卒業制作の完成・提出・・・・・・70点\n受講態度など・・・・・・・・・・・・・・30点\n※その他は出席回数や授業での発言の積極性などの受講態度を評価します。",
+    "grading_criteria": "卒業論文・卒業制作の完成・提出・・・・・・70点\n受講態度など・・・・・・・・・・・・・・30点\n※その他は出席回数や授業での発言の積極性などの受講態度を評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 20,
-        "ポートフォリオ": 30,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 20,
+        "portfolio": 30,
+        "other": 20
     },
-    "message_from_teachers": "とにもかくにも卒論・卒制！",
+    "teacher_message": "とにもかくにも卒論・卒制！",
     "schedule": [
         {
-            "session": "1-30",
+            "number": "1-30",
             "content": "卒業論文・卒業制作の制作と提出",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "1-15",
+            "number": "1-15",
             "content": "専門ゼミ１の発表への参加と専門ゼミ１生への指導助言",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,6 +91,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1989年～現在　　CM制作業界で制作・演出業務を担当。\n・1998年～現在　　映画監督および脚本家として長編劇場用映画、短編映画、ネットムービーなどを制作。\n・2013年～現在　　山口県下松市市制施行75周年記念映画を制作、2018年には80周年記念映画を制作。\n・2022年には下松市を中心とする周南エリアで撮影された映画「凪の島」を監督。\n【実務経験を活用した授業内容】\n第１教程～第15教程\n・映画製作の一線で培ってきた知識と、数々の国内外の映画祭参加経験、地方自治体関係者とのパイプを活かして学生により実践的でかつ柔軟な映画による地域貢献・地域おこしの手法とは何かを伝え、考えてもらう。"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1989年～現在　　CM制作業界で制作・演出業務を担当。\n・1998年～現在　　映画監督および脚本家として長編劇場用映画、短編映画、ネットムービーなどを制作。\n・2013年～現在　　山口県下松市市制施行75周年記念映画を制作、2018年には80周年記念映画を制作。\n・2022年には下松市を中心とする周南エリアで撮影された映画「凪の島」を監督。\n【実務経験を活用した授業内容】\n第１教程～第15教程\n・映画製作の一線で培ってきた知識と、数々の国内外の映画祭参加経験、地方自治体関係者とのパイプを活かして学生により実践的でかつ柔軟な映画による地域貢献・地域おこしの手法とは何かを伝え、考えてもらう。"
 }

@@ -1,33 +1,33 @@
 {
-    "_fetched_at": "2024-08-08T00:57:48Z",
+    "fetched_at": "2024-08-08T00:57:48Z",
     "name_ja": "生活と経済",
     "name_en": "Economy for Living",
     "syllabus_number": "1009700A",
     "course_number": "00SS101",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "経済学部",
+    "category": "総合科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "小林　啓祐",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "坂本　勲",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "田尾　真一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -35,17 +35,17 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "現代経済は、皆さんの生活に大きな影響を与えています。何気なく読んでいるニュースも、経済の知識を\nもって読むことで、今までとは違った見方ができることでしょう。また、経済を理解することは現代社会を理\n解することにもつながるだけでなく、自身のライフプランニングにもポジティブな影響を与えます。本講義で\nは、経済を専門的に学んでいない学生でもわかりやすく、経済学の知見について説明していきます。また日本\nの財政の状況や問題点、個人としてのお金の管理や資産運用についても学びます。\n\n【到達目標】\n１，基本的な経済学の概念が理解できる\n２，日本経済の歴史について基本的な概要が説明できる\n３，個人のライフイベントや生活で必要な「お金」の管理や資産運用の基礎について理解している。",
+    "objectives": "現代経済は、皆さんの生活に大きな影響を与えています。何気なく読んでいるニュースも、経済の知識を\nもって読むことで、今までとは違った見方ができることでしょう。また、経済を理解することは現代社会を理\n解することにもつながるだけでなく、自身のライフプランニングにもポジティブな影響を与えます。本講義で\nは、経済を専門的に学んでいない学生でもわかりやすく、経済学の知見について説明していきます。また日本\nの財政の状況や問題点、個人としてのお金の管理や資産運用についても学びます。\n\n【到達目標】\n１，基本的な経済学の概念が理解できる\n２，日本経済の歴史について基本的な概要が説明できる\n３，個人のライフイベントや生活で必要な「お金」の管理や資産運用の基礎について理解している。",
     "overview": "基本的には講義形式だが、3人の教員がリレー式で講義を担当する。1回から5回までを小林、5回から10回まで\nを田尾、11回から15回までを坂本が担当する。指示はTEAMSで行うので、送られてくる連絡に注意すること。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "ビジュアル　日本経済の基本",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "小峰隆夫",
             "publisher": "日経文庫",
             "price": 1100,
@@ -54,7 +54,7 @@
         },
         {
             "title": "財政のしくみがわかる本",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "神野直彦",
             "publisher": "岩波ジュニア新書",
             "price": 902,
@@ -62,27 +62,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "担当教員3人が課題をそれぞれ提出します。毎回課題が出ますので、必ず提出するようにしてください。評価は出された課題を3人がそれぞれ採点して評価します。",
+    "grading_criteria": "担当教員3人が課題をそれぞれ提出します。毎回課題が出ますので、必ず提出するようにしてください。評価は出された課題を3人がそれぞれ採点して評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "課題は担当する3教員がそれぞれ提出しますので、必ず出すようにしてください。課題に関しては予復習が重要になってきますので、それぞれ1時間程度取り組むようにしてください。",
+    "teacher_message": "課題は担当する3教員がそれぞれ提出しますので、必ず出すようにしてください。課題に関しては予復習が重要になってきますので、それぞれ1時間程度取り組むようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーションと基本的な経済学の考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -90,9 +90,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "高度経済成長期の日本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "平成・令和の日本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "企業と日本経済：自動車製造業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -120,9 +120,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "企業と日本経済：家電製造業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "社会インフラの整備について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "税について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "日本財政の現状",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会保障制度について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "環境と経済",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "パーソナルファイナンスとは何か。人生設計とお金について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ライフイベントと資金繰り　生涯キャッシュフロー表の作成演習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "資産運用についての考え方　生涯キャッシュフロー表の作成演習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "資産運用の方法　不動産投資",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "資産運用の方法　金融商品（株式、債券、外貨運用）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -230,6 +230,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

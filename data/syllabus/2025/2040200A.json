@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:03:13Z",
+    "fetched_at": "2025-04-04T06:03:13Z",
     "name_ja": "地域スポーツ経営論Ⅱ",
     "name_en": "Theory of community sports management Ⅱ",
     "syllabus_number": "2040200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,22 +27,22 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "地域スポーツ経営論Ⅰの内容を踏まえて、本講義では、地域スポーツの推進にとって重要な役割を果たす「総合型地域スポーツクラブ」の実態を理解するとともに、地域スポーツ振興の具体的事例を理解する。そのうえで、自分事として「地域スポーツ経営の担い手になれるか」考える。\n\n【到達目標】\n1．総合型地域スポーツクラブの実態とその課題について説明できる。\n2．地域スポーツ振興の具体的事例について説明できる。\n3．地域スポーツ経営の担い手になるために何が必要か説明することができる。",
+    "objectives": "地域スポーツ経営論Ⅰの内容を踏まえて、本講義では、地域スポーツの推進にとって重要な役割を果たす「総合型地域スポーツクラブ」の実態を理解するとともに、地域スポーツ振興の具体的事例を理解する。そのうえで、自分事として「地域スポーツ経営の担い手になれるか」考える。\n\n【到達目標】\n1．総合型地域スポーツクラブの実態とその課題について説明できる。\n2．地域スポーツ振興の具体的事例について説明できる。\n3．地域スポーツ経営の担い手になるために何が必要か説明することができる。",
     "overview": "前半は国が進めてきた総合型地域スポーツクラブのマネジメントについて、日本スポーツ協会のテキストの話題について講義する。テキストの内容に沿って講義するが、購入は必須ではない。また、総合型地域スポーツクラブのマネジャーをゲストスピーカーにお招きして、地域のWell-beingを目指した活動を展開しているクラブの現状を伺う。\n後半は、現在の地域スポーツが抱えている最大の課題である部活の地域移行について議論し、さらにまちづくり×地域スポーツの視点で事例を探して情報共有する。\n　授業は講義形式で行うが、できる限り、学生の意見や感想、アイデアなどを全員で共有したい。教員が伝える考え方や知識、アイデアとは違う視点で発言される学生の意見は極めて重要である。また、授業終了後には各自が「記録用紙」に授業の振り返りを記入し、講義内容の定着を行う。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "公認アシスタントマネジャー養成テキスト",
-            "year": 2006,
+            "publication_year": 2006,
             "author": "間野義之他",
             "publisher": "公益財団法人日本スポーツ協会",
             "price": 2420,
@@ -50,31 +50,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "筆記用具及び電子機器",
+        "required_materials": "筆記用具及び電子機器",
         "other": "適宜案内する。"
     },
-    "evaluation_criteria": "【到達目標】で示している点について、⑪に示す方法で評価する。",
+    "grading_criteria": "【到達目標】で示している点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "予習として、スライドや資料をあらかじめ読んでおくことを必須とする。（1時間）\n復習として、「記録用紙」に毎回の講義内容を記録する。（1時間）\n授業中に関連する文献やURLを紹介した場合は、学んだことについて「記録用紙」に記入する。（2時間）\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
+    "teacher_message": "予習として、スライドや資料をあらかじめ読んでおくことを必須とする。（1時間）\n復習として、「記録用紙」に毎回の講義内容を記録する。（1時間）\n授業中に関連する文献やURLを紹介した場合は、学んだことについて「記録用紙」に記入する。（2時間）\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日。不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション　「地域スポーツ経営論Ⅰの振り返り─とりわけ総合型地域スポーツクラブについて─」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「地域スポーツクラブとは」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "「クラブマネジャーの役割」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "「クラブのつくり方、クラブの運営」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "「総合型地域スポーツクラブの事例紹介①」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "「学生たちが企画提案した総合型地域スポーツクラブの事例紹介②─中山間地域の期待の星・高知県池川町‘清流クラブ池川’」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "「幅広い活動を展開している総合型地域スポーツクラブの事例紹介③─高知県南国市・特定非営利活動法人まほろばクラブ南国」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "リフレクション─前半の授業の振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "「部活の地域移行に伴い地域スポーツ活動の指導者はどうあるべきか」①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "「部活の地域移行に伴い地域スポーツ活動の指導者はどうあるべきか」②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "グループ討議「部活の地域移行について私たちはこう考えた」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "「スポーツイベントによる環境保護活動」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "「スポーツツーリズムによる地域振興」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "グループ発表「私たちが見つけた魅力的な地域スポーツイベント」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ「キミは地域スポーツ経営の担い手になれるか」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

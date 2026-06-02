@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:03:45Z",
+    "fetched_at": "2025-04-04T06:03:45Z",
     "name_ja": "経営管理論",
     "name_en": "Business Administration",
     "syllabus_number": "2044300A",
     "course_number": "11-2-23-22-05",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "村田　和博",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①現代に至るまでの経営管理論の展開を理解する。\n②講義内容を文章でまとめられるようになる。",
+    "objectives": "【到達目標】\n①現代に至るまでの経営管理論の展開を理解する。\n②講義内容を文章でまとめられるようになる。",
     "overview": "管理（マネジメント）とは、平易に言えば、主体が「思い通りにすること」といえる。不透明かつ複雑化する現代の組織では、管理（思い通りにすること）のハードルはますます高くなっている。本講義は、 H・ファヨールに始まる管理職能と管理過程の諸説を基礎としながら、現代のPDS・PDCAサイクルや3M+I（ヒト・モノ・カネ・情報）からなる経営資源のマネジメントの各論を概説する。そして、経営者・管理者の意思決定、組織の規模の拡大に伴う直接的管理から間接的管理への移行に伴って派生する「組織全体のマネジメントのしくみ」を詳説する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "基礎から学ぶ経営学〔第3版〕",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "村田　和博",
             "publisher": "五絃舎",
             "price": 2090,
@@ -50,28 +50,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "テキスト、ノート、筆記用具",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "テキスト、ノート、筆記用具",
         "other": ""
     },
-    "evaluation_criteria": "期末試験（100％）で評価する。",
+    "grading_criteria": "期末試験（100％）で評価する。",
     "evaluation_ratio": {
-        "試験": 100,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 100,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "予習については、授業内容に関するテキストの部分を読むこと。復習については、講義終了後に講義内容を確認すること。板書形式の授業になるので、テキスト、ノート、及び筆記用具を持参すること。",
+    "teacher_message": "予習については、授業内容に関するテキストの部分を読むこと。復習については、講義終了後に講義内容を確認すること。板書形式の授業になるので、テキスト、ノート、及び筆記用具を持参すること。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス（授業の進め方、評価方法など）、経営管理論で何を学ぶのか、経営学と経済学のアプローチの違い",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "テイラー(１)：テイラーの生涯、怠業の種類、差別出来高給制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "テイラー(２)：課業管理、職能別職長制度、精神革命",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ファヨール：ファヨールの生涯、企業の活動、過程学派、マネジメント・サイクル、PDCAサイクル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "人間関係論(１)：メイヨーとレスリスバーガーの生涯、ホーソン実験の内容",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "人間関係論(２)：ホーソン実験の内容、ホーソン実験を通じてわかったこと（非公式組織、感情の論理、人間関係志向のリーダー）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "フォレット：フォレットの生涯、コンフリクトの処理方法としての支配・妥協・統合、状況の法則、権限職能節",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ウェーバー：支配の諸類型（伝統的支配、カリスマ的支配、合法的支配）、官僚制組織",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "バーナード(１)：バーナードの生涯、協働体系、組織の成立要件（貢献意欲・共通目的・伝達）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "バーナード(２)：組織の存続要件（組織の有効性と組織の能率）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "バーナード(３)：管理者の役割（伝達体系の提供、構成員の活動の確保、目的の定期化と規定）、権限受容説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "サイモン(１)：サイモンの生涯、意思決定における事実と価値",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "サイモン(２)：意思決定における合理性（経済人と経営人の違い、満足基準による意思決定）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ドラッカー(１)：ドラッカーの生涯、事業のマネジメント、管理者のマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ドラッカー(２)：働く人間と仕事の管理、企業の社会的責任",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,6 +219,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

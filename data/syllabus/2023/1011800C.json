@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:59:27Z",
+    "fetched_at": "2024-08-08T00:59:27Z",
     "name_ja": "地域ゼミⅡ",
     "name_en": "",
     "syllabus_number": "1011800C",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "北村　光子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,35 +27,35 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "周南市の自然の歴史・特徴・課題などを理解している\n理解したことを文章や資料で的確に表現できる\n他者と協力して、共通の目標達成に向け行動できる",
+    "objectives": "周南市の自然の歴史・特徴・課題などを理解している\n理解したことを文章や資料で的確に表現できる\n他者と協力して、共通の目標達成に向け行動できる",
     "overview": "周南市のシティプロモーションやイオンタウン周南の方々とディスカッションしながら、福祉的な視点で構築していきます。\nまた、ゼミのまとめとして、その過程を記録し可視化していきます。\n子どもやシニアの方が自然と集まり、そこでの　交流を通して、文化の継承・交流ができる環境を設定します。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "（１）課題への取り組みかた　（２）資料作成　（３）ゼミ生間の協力\n上記（１）～（３）を評価の対象とします。",
+    "grading_criteria": "（１）課題への取り組みかた　（２）資料作成　（３）ゼミ生間の協力\n上記（１）～（３）を評価の対象とします。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 35,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 15
+        "exam": 0,
+        "quiz": 0,
+        "report": 35,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 15
     },
-    "message_from_teachers": "新規に市と民間団体とのコラボになります。０からのスタートで前期少しまとめています。その継続となりますので協力し新しいものを構築していきましょう。そのためには、日頃から五感を磨き情報収集しましょう。",
+    "teacher_message": "新規に市と民間団体とのコラボになります。０からのスタートで前期少しまとめています。その継続となりますので協力し新しいものを構築していきましょう。そのためには、日頃から五感を磨き情報収集しましょう。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "プロジェクトの参画\n（実施計画の見直し）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -63,9 +63,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "プロジェクトの参画\n（実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "プロジェクトの参画\n（実施した評価（振り返り））",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "プロジェクトの参画\n（実施した評価（振り返り））",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "プロジェクトの参画\n（再計画・実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "プロジェクトの参画\n（再計画・実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "プロジェクトの参画\n（再計画・実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "プロジェクトの参画\n（再計画・実施）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "報告書作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ゼミ内報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -203,6 +203,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

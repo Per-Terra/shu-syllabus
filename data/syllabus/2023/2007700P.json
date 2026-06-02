@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:04:43Z",
+    "fetched_at": "2024-08-08T01:04:43Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700P",
     "course_number": "10SE401、05HS401",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "必修科目",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,37 +26,37 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "(i)文献を精読し、その内容を要約し報告できた。\n(ii)科学的方法、特に社会学的方法を理解し、実践できた。\n(iii)論文作成の基礎を理解し、先行研究をもとに卒業論文の執筆を行うことができた。",
+    "objectives": "(i)文献を精読し、その内容を要約し報告できた。\n(ii)科学的方法、特に社会学的方法を理解し、実践できた。\n(iii)論文作成の基礎を理解し、先行研究をもとに卒業論文の執筆を行うことができた。",
     "overview": "人々の健康といった広いテーマについて、社会・文化現象・吟味・批判的に検討し、文献の精読や科学的手法を用いた調査などを通じて、各自の課題研究（卒業論文の執筆）を行なっていきます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "④に記載の到達目標に対して、以下の観点から総合的に評価します。",
+    "grading_criteria": "④に記載の到達目標に対して、以下の観点から総合的に評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 10,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 10,
+        "other": 50
     },
-    "message_from_teachers": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。",
+    "teacher_message": "それぞれが興味を持ったテーマについて、卒業論文の執筆ができるよう対応していきたいと思います。このゼミを通じて、専門的で幅広い知識と思考力を身につけることができるようにサポートしていきます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（卒業論文とは）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -64,9 +64,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "専門ゼミⅠの成果報告①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "専門ゼミⅠの成果報告②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "研究計画の立案①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "研究計画の立案②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "研究計画の立案③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "研究計画の立案④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "予備調査①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "予備調査②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "予備調査③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "データ分析①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "データ分析②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "データ分析③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "予備調査の研究発表会①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "予備調査の研究発表会②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "本調査①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "本調査②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "本調査③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "データ分析①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "データ分析②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "データ分析③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "データ分析④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "データ分析⑤",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "執筆作業①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "執筆作業②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "執筆作業③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -314,9 +314,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "執筆作業④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "執筆作業⑤",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "執筆作業⑥",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業論文発表会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,6 +354,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,10 +1,10 @@
 {
-    "_fetched_at": "2025-04-04T05:55:22Z",
+    "fetched_at": "2025-04-04T05:55:22Z",
     "name_ja": "ドイツ語Ⅰ",
     "name_en": "German I",
     "syllabus_number": "1004700A",
     "course_number": "11-1-13-22-07、21-1-13-22-06、22-2-13-22-02、23-1-13-22-04、31-1-13-22-04",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
@@ -13,18 +13,18 @@
         "情報科学部 情報科学科",
         "人間健康科学部 看護学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -33,12 +33,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
+    "objectives": "ヨーロッパはもちろん世界の中で重要な役割を果たす国の１つであるドイツ。その国の言語であるドイツ語のあいさつなど日常会話でよく使われる語句、表現を学んでいきます。また、ドイツの生活や文化を垣間見ることで、楽しくドイツ語の総合的な基礎力を培っていきます。\nドイツ語の発音のきまりを覚えて、正しい発音で読むことができる、また、基礎文法を使って、簡単な文を作ることができるようになることを目指します。",
     "overview": "初級レベルの語彙・文法・表現を学び、ドイツ語習得の基礎を築く。日常会話でよく使われるあいさつ表現や文字と音の対応規則を学び、平易な文を聞き取ったり書いたりできる。また、ドイツ語圏の社会・文化・歴史などにも触れ、幅広い教養、知識の獲得を目指す。\n\n＊テキスト、ノートを準備しておいてください。\n＊新しい言語の習得に辞書は不可欠です。毎回の授業内で必ず辞書が必要になりますので、独和、和独辞書を用意して授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
@@ -48,7 +48,7 @@
     "textbooks": [
         {
             "title": "ドイツ語エコー１",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "高橋　秀彰",
             "publisher": "朝日出版社",
             "price": 2750,
@@ -57,7 +57,7 @@
         },
         {
             "title": "ベーシッククラウン独和・和独辞典　小型版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "",
             "publisher": "三省堂",
             "price": 2530,
@@ -65,32 +65,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "テキスト、ノート、辞書",
+        "required_materials": "テキスト、ノート、辞書",
         "other": "なし"
     },
-    "evaluation_criteria": "「試験」60％、「その他」40％で評価する。「その他」は授業中に指定した課題、小テスト、ワークシートや参加態度・意欲などに対する評価とする。",
+    "grading_criteria": "「試験」60％、「その他」40％で評価する。「その他」は授業中に指定した課題、小テスト、ワークシートや参加態度・意欲などに対する評価とする。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 60,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）\n\nその日に学習するページに出てくる単語を予習して、授業に臨み、その日に習った表現を復習する時間を最低３０分～１時間確保しましょう。\n＊皆さんの理解度に応じて、授業計画の内容に変更があることを承知しておいてください。また、変更の際には、皆さんにはきちんと説明します。",
+    "teacher_message": "第二外国語を学ぶ喜びを一緒に楽しみましょう！\n\n授業には必ず辞書を持ってきましょう。（独和、和独ともに使用します。もしも持ってるものがあれば、指定した辞書でなくても使用してもらって構いません。）\n\nその日に学習するページに出てくる単語を予習して、授業に臨み、その日に習った表現を復習する時間を最低３０分～１時間確保しましょう。\n＊皆さんの理解度に応じて、授業計画の内容に変更があることを承知しておいてください。また、変更の際には、皆さんにはきちんと説明します。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の進め方、評価方法などについてのオリエンテーション\nアルファベット\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "アルファベット、発音のルール\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "発音のルール　\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Lektion１　あいさつ　\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Lektion１　あいさつ、敬称　\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Lektion１　あいさつ、名前を言う、聞く　\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Lektion２　人称代名詞（１格）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Lektion２　現在人称変化（規則動詞）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Lektion２　語順　\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Lektion３　現在人称変化（不規則動詞）　\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Lektion３　habenとsein　\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Lektion３　否定のnicht\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Lektion４　名詞の性、格\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Lektion４　定冠詞、不定冠詞、否定冠詞\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Lektion４　名詞の複数形\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -253,9 +253,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "Lektion５　話法の助動詞（können,wollen,werden）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "Lektion５　数字、所有冠詞\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "Lektion５　人称代名詞（３，４格）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -286,9 +286,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "Lektion６　前置詞（３格支配）\n　　　　　 前置詞（３格支配と４格支配ができる前置詞）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -297,9 +297,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "Lektion６　冠詞（dieser,welcher）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -308,9 +308,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "Lektion６　話法の助動詞（müssen,sollen,dürfen,möchte）\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -319,9 +319,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "Lektion７　時刻\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -330,9 +330,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "Lektion７　分離動詞と非分離動詞\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -341,9 +341,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "Lektion７　非人称のes\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "Lektion８　現在完了形\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -363,9 +363,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "Lektion８　現在完了形\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "Lektion８　従属接続詞\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -385,9 +385,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "ドイツ語でいろんなことを話してみよう\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -396,9 +396,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "ドイツ語でいろんなことを書いてみよう\n発音練習と文法演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -407,9 +407,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "試験対策演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -418,6 +418,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

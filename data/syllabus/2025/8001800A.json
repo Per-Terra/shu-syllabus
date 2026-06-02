@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T06:07:53Z",
+    "fetched_at": "2025-04-04T06:07:53Z",
     "name_ja": "ビジネス日本語Ⅰ",
     "name_en": "Business Japanese Ⅰ",
     "syllabus_number": "8001800A",
     "course_number": "11-2-20-21-06",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "山本　晋也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,19 +29,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、日本社会でのワークキャリア・ライフキャリア形成をめざし、必要な言語文化知識について学ぶ。具体的な到達目標は、以下3点である。\n1）日本での就職、および就職活動に関する基礎知識を身につける\n2）場面にあった話し方(待遇表現)について学び、適切に使用できるようになる\n3）2）の理解に基づき、文章作成に応用することができる",
+    "objectives": "本講義では、日本社会でのワークキャリア・ライフキャリア形成をめざし、必要な言語文化知識について学ぶ。具体的な到達目標は、以下3点である。\n1）日本での就職、および就職活動に関する基礎知識を身につける\n2）場面にあった話し方(待遇表現)について学び、適切に使用できるようになる\n3）2）の理解に基づき、文章作成に応用することができる",
     "overview": "本講義では、日本国内での就職活動への参加と就職後のライフキャリア形成を想定し、そのために必要な言語文化知識の習得を目指す。特に、日本での「就職」に関わる場面や話題を取り上げ、関連する言語文化知識や表現形式を学習する。上記の活動を通じて、就職活動への円滑な参加を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3"
     ],
     "textbooks": [
         {
             "title": "外国人のためのケーススタディで学ぶビジネス日本語",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "千駄ヶ谷日本語教育研究所",
             "publisher": "スリーエーネットワーク",
             "price": 2400,
@@ -49,32 +49,32 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書・筆記用具",
+        "required_materials": "教科書・筆記用具",
         "other": "なし"
     },
-    "evaluation_criteria": "本講義では、学期末の最終レポートを主な成績評価の対象とします。その他には、ゲストスピーカーの講演の際には、内容をまとめた小レポートの作成を課すことがあります。また、講義内で指示した課題は、teams上に取りまとめて提出します。最終的には、これら3点をもとに総合的な評価を行います。",
+    "grading_criteria": "本講義では、学期末の最終レポートを主な成績評価の対象とします。その他には、ゲストスピーカーの講演の際には、内容をまとめた小レポートの作成を課すことがあります。また、講義内で指示した課題は、teams上に取りまとめて提出します。最終的には、これら3点をもとに総合的な評価を行います。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 20,
-        "その他": 0
+        "exam": 0,
+        "quiz": 30,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 20,
+        "other": 0
     },
-    "message_from_teachers": "「キャリアとは何か」を理解し自身にとってのキャリアの核を築くことは、将来の進路選択に限らず現在の大学生活を送る上でも重要です。\n本講義では、将来日本での就職を希望する学生に限らず、全ての留学生を受け入れます。\n講義の前後には、前時の復習と課題作成のためそれぞれ120分程度の作業を行ってください。その他、最終レポートの作成と修正に合計30時間程度の作業を想定しています。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。",
+    "teacher_message": "「キャリアとは何か」を理解し自身にとってのキャリアの核を築くことは、将来の進路選択に限らず現在の大学生活を送る上でも重要です。\n本講義では、将来日本での就職を希望する学生に限らず、全ての留学生を受け入れます。\n講義の前後には、前時の復習と課題作成のためそれぞれ120分程度の作業を行ってください。その他、最終レポートの作成と修正に合計30時間程度の作業を想定しています。疑問点などは授業後、またはオフィスアワー(毎週火14：40～16：10)に受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "授業オリエンテーション・今後の授業計画について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "第１課：依頼",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "第２課：アポイントメント",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "第３課：謝罪",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "第４課：感謝",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "第５課：自己紹介・他者紹介",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "第６課：挨拶",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "第７課：誘い",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "第８課：指示",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "第９課：報告",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "第10課：申し出",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "第11課：許可",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "第12課：意見交換",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "最終レポート　準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "最終レポート　検討会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -237,6 +237,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

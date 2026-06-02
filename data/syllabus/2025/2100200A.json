@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-04T06:03:52Z",
+    "fetched_at": "2025-04-04T06:03:52Z",
     "name_ja": "実社会とデータ分析",
     "name_en": "Applications of Data Analytics",
     "syllabus_number": "2100200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科",
         "人間健康科学部 福祉学科",
         "情報科学部 情報科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "矢島　安敏",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第１クォーター",
@@ -28,37 +28,37 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "デジタル社会において、以下の項目を理解する \n\n1.なぜデータ活用が必要なのか \n\n2.どのようなデータが使われているのか \n\n3.データの活用にはどのような技術が使われているのか \n\n4.データ活用で留意しなくてはならない点",
+    "objectives": "デジタル社会において、以下の項目を理解する \n\n1.なぜデータ活用が必要なのか \n\n2.どのようなデータが使われているのか \n\n3.データの活用にはどのような技術が使われているのか \n\n4.データ活用で留意しなくてはならない点",
     "overview": "現代のデジタル社会では、様々な活動にデータが活用されています。皆さんが便利に日常を過ごしている背後には、膨大な量のデータがやりとりされ高度なデジタル技術が活用されています。この講義では、データ活用の実際を幅広い分野の事例を通じ、なぜデータ活用が必要か、どのようなデータが使われているのか、どのような技術が使われているのか、データ活用で留意しなくてはならない点、さらに、データ活用の中心となるデータサイエンティストの活動の実際に関してもお話します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC",
         "other": "講義の際には資料を提供する"
     },
-    "evaluation_criteria": "毎回の講義に関連した課題を設定しますので、レポートを提出してください。毎回のレポートの評価により成績とします。 \n\n成績評価の割合；レポート100％",
+    "grading_criteria": "毎回の講義に関連した課題を設定しますので、レポートを提出してください。毎回のレポートの評価により成績とします。 \n\n成績評価の割合；レポート100％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "毎回の講義後は、インターネット等で関連した社会活動の情報収集を行いさらに理解を深めてください。また、ニュースなどを通じてデジタル社会に関連した世の中の最新の動向に、アンテナを広げ続ける努力をしてください。 講義後にはレポート作成に取り組む必要があります（1時間程度）\n\n【オフィスアワー】講義のある曜日　不在時はチャットで受け付けます。",
+    "teacher_message": "毎回の講義後は、インターネット等で関連した社会活動の情報収集を行いさらに理解を深めてください。また、ニュースなどを通じてデジタル社会に関連した世の中の最新の動向に、アンテナを広げ続ける努力をしてください。 講義後にはレポート作成に取り組む必要があります（1時間程度）\n\n【オフィスアワー】講義のある曜日　不在時はチャットで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "企業におけるデータサイエンティストの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "旅客サービス業におけるデータ活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "製薬業におけるデータ活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "社会におけるスケジューリングと最適化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "大規模マーケティングデータプラットフォーマーの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "AIコンサルティング企業におけるデータサイエンティストの活動の実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "金融におけるIT技術の活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "航空会社におけるDXとアプリケーションの内製化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "クラウドファンディング運営会社におけるデータ活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "物作り企業におけるデジタル経営変革",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ポイントを軸としたエコシステムの展開",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企業経営におけるビジネスインテリジェント活用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "製造業のDXの現状",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,6 +206,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かして実社会におけるデータ活用の知識を身に着けさせる。"
+    "credit_auditing": false,
+    "practitioner_info": "企業におけるデータ活用のコンサルティングサービスに従事してきた教員が、そこでの経験を生かして実社会におけるデータ活用の知識を身に着けさせる。"
 }

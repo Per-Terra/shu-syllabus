@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:58:47Z",
+    "fetched_at": "2025-04-07T10:58:47Z",
     "name_ja": "スポーツ心理学",
     "name_en": "Sports Psychology",
     "syllabus_number": "2009900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,21 +27,21 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "運動・スポーツに関わる行動や諸問題について，スポーツ心理学の知見から理解を深め，スポーツ現場での実践に活かすことをテーマに授業を展開します．\n　到達目標は以下の3つです。\n（ⅰ）スポーツ心理学に関する基礎的知識を習得する\n（ⅱ）スポーツにおける心理的問題・課題に対する興味・関心をもつ\n（ⅲ）現場への応用方法を学ぶ",
+    "objectives": "運動・スポーツに関わる行動や諸問題について，スポーツ心理学の知見から理解を深め，スポーツ現場での実践に活かすことをテーマに授業を展開します．\n　到達目標は以下の3つです。\n（ⅰ）スポーツ心理学に関する基礎的知識を習得する\n（ⅱ）スポーツにおける心理的問題・課題に対する興味・関心をもつ\n（ⅲ）現場への応用方法を学ぶ",
     "overview": "運動・スポーツに関わる行動や諸問題，また実践の中で感じる疑問について考えてもらい，それらの現象をスポーツ心理学の知見から深く理解することを目指す．さらに，学習した知識や知見を，競技者・指導者という視点に立って実践現場で活かすことを期待する．",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "やわらかアカデミズム・＜わかる＞シリーズ　よくわかるスポーツ心理学",
-            "year": 2012,
+            "publication_year": 2012,
             "author": "中込四郎・伊藤豊彦・山本裕二　編著",
             "publisher": "ミネルヴァ書房",
             "price": 2400,
@@ -50,7 +50,7 @@
         },
         {
             "title": "スポーツ心理学の世界",
-            "year": 2000,
+            "publication_year": 2000,
             "author": "杉原隆・船越正康・工藤孝幾・中込四郎　編著",
             "publisher": "福村出版",
             "price": 2600,
@@ -59,7 +59,7 @@
         },
         {
             "title": "スポーツメンタルトレーニング教本 三訂版",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "日本スポーツ心理学会 編",
             "publisher": "大修館書店",
             "price": 2200,
@@ -67,29 +67,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "心理学"
         ],
-        "brings": "ノート、筆記用具",
+        "required_materials": "ノート、筆記用具",
         "other": "なし"
     },
-    "evaluation_criteria": "(ⅰ)スポーツ心理学に関する基礎的知識の習得する\n(ⅱ)スポーツにおける心理的問題・課題に対する興味・関心をもつ\n(ⅲ)現場への応用方法を学ぶ\n上記ⅰ～ⅲについて評価を行う．\n課題レポート20% 定期試験80%",
+    "grading_criteria": "(ⅰ)スポーツ心理学に関する基礎的知識の習得する\n(ⅱ)スポーツにおける心理的問題・課題に対する興味・関心をもつ\n(ⅲ)現場への応用方法を学ぶ\n上記ⅰ～ⅲについて評価を行う．\n課題レポート20% 定期試験80%",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "大勢の受講が予想されますが、一人一人の真摯な受講態度を期待します。\nまた、授業内容をしっかりとノートにまとめ、深く理解することを期待します。",
+    "teacher_message": "大勢の受講が予想されますが、一人一人の真摯な受講態度を期待します。\nまた、授業内容をしっかりとノートにまとめ、深く理解することを期待します。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（スポーツ心理学小史）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "スポーツにおける動機づけ①～動機づけ，原因帰属，行動変容の理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "スポーツにおける動機づけ②～自己効力感",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "スポーツにおける動機づけ③～自己決定理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "スポーツの社会心理①～集団規範",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "スポーツの社会心理②～リーダーシップ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "スポーツの社会心理③～指導者の社会的勢力",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "運動による健康の増進➀～運動の心理的効果，ストレスの考え方と評価法，ストレスマネジメントとカウンセリング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "運動による健康の増進②～トランスセオレティカルモデル，運動の健康行動（禁煙など）への影響",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "競技スポーツの心理①～パーソナリティ研究",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "競技スポーツの心理②～アスリートの心性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "競技スポーツの心理③～心理サポート",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "運動学習①～運動学習とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "運動学習②～指導への応用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -237,6 +237,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

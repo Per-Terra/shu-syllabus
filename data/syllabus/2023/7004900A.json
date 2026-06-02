@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:25:07Z",
+    "fetched_at": "2024-08-08T01:25:07Z",
     "name_ja": "学校保健",
     "name_en": "School Health",
     "syllabus_number": "7004900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "教職科目",
-    "main_department": "経済学部",
+    "category": "教職科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "川﨑　裕美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,35 +26,35 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "学校における児童生徒、教職員の健康の保持増進に係る考え方、根拠、方略、教員の役割について教授する。\n教員として、教育を推進するための基盤としての健康を理解し、保持増進のための制度と役割が理解できる。",
+    "objectives": "学校における児童生徒、教職員の健康の保持増進に係る考え方、根拠、方略、教員の役割について教授する。\n教員として、教育を推進するための基盤としての健康を理解し、保持増進のための制度と役割が理解できる。",
     "overview": "",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めます。"
     },
-    "evaluation_criteria": "",
+    "grading_criteria": "",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 70,
-        "レポート": 20,
-        "発表・実技": 10,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 70,
+        "report": 20,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "集中講義ですので、一日の欠席が単位取得に係ることがあります。しっかり体調管理してください。",
+    "teacher_message": "集中講義ですので、一日の欠席が単位取得に係ることがあります。しっかり体調管理してください。",
     "schedule": [
         {
-            "session": "１回",
+            "number": "１回",
             "content": "学校教育と学校保健",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -62,9 +62,9 @@
             ]
         },
         {
-            "session": "２回",
+            "number": "２回",
             "content": "学校保健と学校安全",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -72,25 +72,25 @@
             ]
         },
         {
-            "session": "３回",
+            "number": "３回",
             "content": "教育とヘルスプロモーションの考え方",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 ""
             ]
         },
         {
-            "session": "４回",
+            "number": "４回",
             "content": "子どもの発育・発達",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 ""
             ]
         },
         {
-            "session": "５回",
+            "number": "５回",
             "content": "子どもの行動特性と発達上の課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "６回",
+            "number": "６回",
             "content": "子どもの疾病と予防",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "７回",
+            "number": "７回",
             "content": "健康診断の意義と方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "８回",
+            "number": "８回",
             "content": "健康相談の方法と役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "９回",
+            "number": "９回",
             "content": "保健教育の役割、保健指導との関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "１０回",
+            "number": "１０回",
             "content": "保健指導の方法と役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "１１回",
+            "number": "１１回",
             "content": "心の健康",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "１２回",
+            "number": "１２回",
             "content": "特別な配慮を必要とする児童生徒、医療的ケアへの対応",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "１３回",
+            "number": "１３回",
             "content": "子どもの生活習慣と自律",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "１４回",
+            "number": "１４回",
             "content": "学校保健における養護教諭の役割と教員連携",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,14 +188,14 @@
             ]
         },
         {
-            "session": "１５回",
+            "number": "１５回",
             "content": "学校保健経営の在り方、多職種連携",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 ""
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:04:14Z",
+    "fetched_at": "2025-04-04T06:04:14Z",
     "name_ja": "多変量解析",
     "name_en": "Multivariate analysis technique",
     "syllabus_number": "2102600A",
     "course_number": "33-2-54-33-06、31-2-22-33-03",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部",
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "大島　和裕",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -28,18 +28,18 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．様々な多変量解析手法に関する知識を取得する。\n２．多変量解析の数学的根拠を理解する。\n３．簡単な多変量解析をプログラミングを用いて実施することができる。",
+    "objectives": "１．様々な多変量解析手法に関する知識を取得する。\n２．多変量解析の数学的根拠を理解する。\n３．簡単な多変量解析をプログラミングを用いて実施することができる。",
     "overview": "多変量解析とは、多くの情報（複数のデータ）の関連性を分析し、「要約・予測」するための分析手法であり、情報化社会において必須のスキルのひとつである。本講義では、線形代数・微分積分・数理統計等の知識を前提とし、多変量解析の方法を学ぶ。数式を用いた多変量解析の厳密な記述ではなく、多変量解析の本質的な考え方を理解することが主眼となる。また、様々な多変量解析の種類と選択方法を解説し、RやPythonを用いた実践的な手段も紹介する。重回帰分析、判別分析、主成分分析等の代表的な手法の数学的根拠を理解し、実践的な課題に取り組む能力を身につける。主に講義形式で授業を進めていくが、プログラミングを用いた演習等も必要に応じて実施する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [
         {
             "title": "多変量解析がわかる",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "涌井良幸、涌井貞美",
             "publisher": "技術評論社",
             "price": 2068,
@@ -47,10 +47,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "多変量解析法入門",
-            "year": 2001,
+            "publication_year": 2001,
             "author": "永田 靖、棟近雅彦",
             "publisher": "サイエンス社",
             "price": 2420,
@@ -59,7 +59,7 @@
         },
         {
             "title": "多変量解析のはなし【改訂版】",
-            "year": 2006,
+            "publication_year": 2006,
             "author": "大村 平",
             "publisher": "日科技連出版社",
             "price": 2200,
@@ -67,31 +67,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "線形代数基礎",
             "微分積分学基礎",
             "確率統計基礎"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "1.回帰分析、2.主成分分析、3.因子分析、4.SEM、5.判別分析、6.質的データの多変量解析の6つの項目に関する理解度を以下によって評価する。\n課題別レポート60%、期末レポート40%\n課題別レポートとして、6つの項目それぞれに対して簡単なレポートを2回の講義毎に実施する。\n期末レポートとして応用的な問題に取り組み、提出してもらう。",
+    "grading_criteria": "1.回帰分析、2.主成分分析、3.因子分析、4.SEM、5.判別分析、6.質的データの多変量解析の6つの項目に関する理解度を以下によって評価する。\n課題別レポート60%、期末レポート40%\n課題別レポートとして、6つの項目それぞれに対して簡単なレポートを2回の講義毎に実施する。\n期末レポートとして応用的な問題に取り組み、提出してもらう。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "多変量解析で学ぶ解析手法は、卒業研究等で役に立ちます。また、データサイエンティストとして就職した際は、必要不可欠なスキルです。社会人向けの多変量解析のセミナー等もたくさん開催されていますが、どれも高額です。大学生の間に身につけておいて損はありません。多変量解析は古くから発展してきた分野であるため、様々な教科書がありますが、数学的な記述が難解で自主学習を諦めてしまう人も多くいます。講義では難解な数式の本質的な意味を解説することで、数学的根拠を理解した上で実践的な技術も習得できるように工夫します。教科書に沿って授業しますので、事前に該当箇所に目を通しておくと理解度が増すと思います。復習として１時間程度で解答できるレポートを単元毎に実施します。成績評価においても重要ですので、必ず提出してください。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
+    "teacher_message": "多変量解析で学ぶ解析手法は、卒業研究等で役に立ちます。また、データサイエンティストとして就職した際は、必要不可欠なスキルです。社会人向けの多変量解析のセミナー等もたくさん開催されていますが、どれも高額です。大学生の間に身につけておいて損はありません。多変量解析は古くから発展してきた分野であるため、様々な教科書がありますが、数学的な記述が難解で自主学習を諦めてしまう人も多くいます。講義では難解な数式の本質的な意味を解説することで、数学的根拠を理解した上で実践的な技術も習得できるように工夫します。教科書に沿って授業しますので、事前に該当箇所に目を通しておくと理解度が増すと思います。復習として１時間程度で解答できるレポートを単元毎に実施します。成績評価においても重要ですので、必ず提出してください。\n【オフィスアワー】講義のある曜日 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "ガイダンス、多変量解析とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "多変量解析の準備",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "回帰分析①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "回帰分析②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "主成分分析①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "主成分分析②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "因子分析①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "因子分析②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "構造方程式モデル（SEM）①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "構造方程式モデル（SEM）②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "判別分析①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "判別分析②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "質的データの多変量解析①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "質的データの多変量解析②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -245,6 +245,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

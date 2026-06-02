@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:24:50Z",
+    "fetched_at": "2024-08-08T01:24:50Z",
     "name_ja": "バレーボールⅠ",
     "name_en": "Volleyball I",
     "syllabus_number": "7004310A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "教職科目",
-    "main_department": "経済学部",
+    "category": "教職科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "西　博史",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,17 +26,17 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "(ⅰ) バレーボール競技のルールおよび基礎知識を理解する。\n(ⅱ) 基礎技術におけるボールに力を伝えるための動きと力を伝えるタイミングを身につける。\n(ⅲ)仲間と協力した連係プレーを計画し、実践することができる。",
+    "objectives": "(ⅰ) バレーボール競技のルールおよび基礎知識を理解する。\n(ⅱ) 基礎技術におけるボールに力を伝えるための動きと力を伝えるタイミングを身につける。\n(ⅲ)仲間と協力した連係プレーを計画し、実践することができる。",
     "overview": "バレーボールは幅広い年代においてプレーされているスポーツである。また、学校体育ではネット型の運動\n種目として取り上げられている。そこで本授業では、以下の2点を目的とする。\n・バレーボールのパス・トス・スパイクなどの基礎技術、ルール、フォーメーション等についての理解を深め\nる。\n・仲間との連係プレーなどのチーム戦術についての理解を深める。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "コーチングバレーボール（基礎編）",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "公益財団法人日本バレーボール協会 編　日本バレーボール学会 編集協力",
             "publisher": "大修館書店",
             "price": 2530,
@@ -44,27 +44,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "運動を行うことができる服装、体育館シューズ",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "運動を行うことができる服装、体育館シューズ",
         "other": ""
     },
-    "evaluation_criteria": "(ⅰ) バレーボール競技のルールおよび基礎知識\n(ⅱ) 基礎技術におけるボールに力を伝えるための動きと力を伝えるタイミングの習熟度\n(ⅲ)仲間と協力した連係プレーを計画し、実践することができる協調性",
+    "grading_criteria": "(ⅰ) バレーボール競技のルールおよび基礎知識\n(ⅱ) 基礎技術におけるボールに力を伝えるための動きと力を伝えるタイミングの習熟度\n(ⅲ)仲間と協力した連係プレーを計画し、実践することができる協調性",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（バレーボールの歴史、バレーボール用具、コート・設備について）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "試しのゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ボールコントロール（直上パス・2人1組によるパス）、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ボールコントロール（3人1組によるパス）、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ボールコントロール（対人パス）、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ボールコントロール（円陣パス、3人レシーブ）、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "スパイク、ブロック、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "サーブ（アンダーハンド、フローター）、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "サーブレシーブ、強打レシーブ、簡易ゲーム",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "速攻、コンビネーション攻撃",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "チーム戦術（サーブレシーブ）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "チーム戦術（スパイクレシーブ）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "チーム戦術（ブロック）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "チーム対抗戦（全チームによる総当たり戦）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "個人技術、チーム戦術のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -212,6 +212,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

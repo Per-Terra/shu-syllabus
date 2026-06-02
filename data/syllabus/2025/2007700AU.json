@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:21Z",
+    "fetched_at": "2025-04-04T05:59:21Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AU",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部 人間ｺﾐｭﾆｹｰｼｮﾝ学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "髙藤　大介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,41 +26,41 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼定式化された課題を解決するアルゴリズムを設計できる。\n▼設計したアルゴリズムを計算機上にプログラミングできる。\n▼適切な計算機シミュレーションにより、アルゴリズムを評価できる。",
+    "objectives": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼定式化された課題を解決するアルゴリズムを設計できる。\n▼設計したアルゴリズムを計算機上にプログラミングできる。\n▼適切な計算機シミュレーションにより、アルゴリズムを評価できる。",
     "overview": "まず、定式化された課題を解くアルゴリズムを設計する。定式化された課題に指定はなく、学生自身が興味を持った課題、やってみたい課題を優先する。\n設計したアルゴリズムを計算機上にプログラミングする。使用するプログラミング言語はC言語またはC++言語の使用を想定している。\n高精度な計算機サーバを使用してシミュレーションを行う場合もある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "アルゴリズム",
             "プログラミング基礎",
             "プログラミング演習"
         ],
-        "brings": "ノートパソコン、筆記用具、ノート",
+        "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": "特定の教科書は指定せず、必要に応じて授業中に配布する資料を中心に進めていきます。"
     },
-    "evaluation_criteria": "課題解決に取り組む姿勢や貢献度、また習得した知識によって評価します。",
+    "grading_criteria": "課題解決に取り組む姿勢や貢献度、また習得した知識によって評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "試行錯誤を繰り返し、継続して課題解決・勉強を続けてください。\nこのゼミを通して問題解決能力とコミュニケーション能力を身に付けてください。",
+    "teacher_message": "試行錯誤を繰り返し、継続して課題解決・勉強を続けてください。\nこのゼミを通して問題解決能力とコミュニケーション能力を身に付けてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ゼミの進め方、アルゴリズムとプログラミングについて復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2-5",
+            "number": "2-5",
             "content": "アルゴリズムとプログラミングの復習",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "6-21",
+            "number": "6-21",
             "content": "卒業研究、進捗状況報告",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "22-25",
+            "number": "22-25",
             "content": "卒業研究のまとめ、進捗状況報告",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "26-29",
+            "number": "26-29",
             "content": "卒業研究発表の準備、卒業研究のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -109,14 +109,14 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業研究発表",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "高藤大介"
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

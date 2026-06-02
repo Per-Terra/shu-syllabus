@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:24:11Z",
+    "fetched_at": "2024-08-08T01:24:11Z",
     "name_ja": "教育相談Ⅱ",
     "name_en": "Educational Consultation II",
     "syllabus_number": "7002800A",
     "course_number": "05PS209",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "米田　成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,35 +28,35 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "現在の学校現場では，不登校，いじめ，自死など，児童・生徒の不適応を背景とする問題が大きく，年々拡大している状況である。このような学校現場において，教育相談の果たすべき役割は重要なものとなっている。本講義では，正しい子ども理解による適切な支援について，心理学的な理論と実践的なアプローチを，適宜，演習を行いながら学ぶ。本講義を通じて，現場における生徒指導・教育相談の実践的な力量を身につけることを目指す。",
+    "objectives": "現在の学校現場では，不登校，いじめ，自死など，児童・生徒の不適応を背景とする問題が大きく，年々拡大している状況である。このような学校現場において，教育相談の果たすべき役割は重要なものとなっている。本講義では，正しい子ども理解による適切な支援について，心理学的な理論と実践的なアプローチを，適宜，演習を行いながら学ぶ。本講義を通じて，現場における生徒指導・教育相談の実践的な力量を身につけることを目指す。",
     "overview": "本講義は，講義形式・実践ワークショップ・事例検討（ディスカッション）などの活動を通じて，教育相談に関する理論と実践を学ぶ。現場で役立つ実践的な内容となっているので，教員としての力量形成を目指して取り組んでほしい。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "① 学校現場における教育相談の役割　② 正しい子ども理解（アセスメント）　③ 適切な支援のための理論　④ 子どもに対する支援の実践的方略　について，知識量・思考力・表現力を評価する。",
+    "grading_criteria": "① 学校現場における教育相談の役割　② 正しい子ども理解（アセスメント）　③ 適切な支援のための理論　④ 子どもに対する支援の実践的方略　について，知識量・思考力・表現力を評価する。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "課題の大きな児童・生徒に対する困難課題対応的生徒指導から，全ての児童・生徒を対象にした発達支持的生徒指導まで，これからの生徒指導・教育相談のあり方や進め方について，その理論と実践について学びます。ワークショップでのロールプレイや，事例検討におけるディスカッションにも積極的に参加し，教員としての力量形成に努めてほしい。\n\n予習・復習については，興味・関心に応じて，本や論文を読んでみてほしい。",
+    "teacher_message": "課題の大きな児童・生徒に対する困難課題対応的生徒指導から，全ての児童・生徒を対象にした発達支持的生徒指導まで，これからの生徒指導・教育相談のあり方や進め方について，その理論と実践について学びます。ワークショップでのロールプレイや，事例検討におけるディスカッションにも積極的に参加し，教員としての力量形成に努めてほしい。\n\n予習・復習については，興味・関心に応じて，本や論文を読んでみてほしい。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "学校における生徒指導・教育相談の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -64,9 +64,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "子どもの発達理解（発達特性と愛着理論）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "正しい子ども理解（アセスメント）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "子どもを取り巻く環境",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "事例検討① 個別の課題のアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "生徒の課題・問題行動に対するチーム支援",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "個別支援の実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "教育相談コーディネーターの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "外部リソースを活用したネットワーク型支援チーム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "事例検討② 支援チームのコーディネートと支援策の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "包括的生徒指導・教育相談の理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "包括的生徒指導・教育相談の実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "キャリア教育と教育相談",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "感情理解とスキルトレーニング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "UDL（Universal Design for Learning）と協同学習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,6 +207,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

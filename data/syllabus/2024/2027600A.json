@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:01:43Z",
+    "fetched_at": "2025-04-07T11:01:43Z",
     "name_ja": "ソーシャルワークの理論と方法Ⅱ",
     "name_en": "Social Work Theory and Practice Ⅱ",
     "syllabus_number": "2027600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "井上　浩",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "授業のテーマ：\n本科目はソーシャルワークの実践の基本として、面接の方法や記録について学び、特にメゾからマクロ支援の考え方としてコミュニティワーク、アドミニストレーション、ソーシャルアクションの考え方を学ぶ。またグループを用いた技法と、新人職員においては支援者が支援の進め方について戸惑いを感じることがあることから、スーパービジョンやコンサルテーションの必要性についても論じていく。学生は、人間のウエルビーイング実現のために、人や集団・地域社会が持っている課題解決力に気づき、個人から地域に働きかけていくための知識と知識に裏付けされた技術を身に付ける力を養う。\n到達目標：\nⅰ）面接についてその意義や方法について説明できる。\nⅱ）記録の意義と方法について説明できる。\nⅲ）ケアマネジメントについて基本的な概念を説明できる。\nⅳ）グループを用いた技法について説明できる。\nⅴ）コミュニティワークの基本的な概念を説明できる。\nⅵ）ソーシャルアドミニストレーションについて基本的な概念を説明できる。\nⅶソーシャルアクションについて基本的な考え方を説明できる。\nⅷ）スーパービジョン・コンサルテーションについて基本的な概念を説明できる。",
+    "objectives": "授業のテーマ：\n本科目はソーシャルワークの実践の基本として、面接の方法や記録について学び、特にメゾからマクロ支援の考え方としてコミュニティワーク、アドミニストレーション、ソーシャルアクションの考え方を学ぶ。またグループを用いた技法と、新人職員においては支援者が支援の進め方について戸惑いを感じることがあることから、スーパービジョンやコンサルテーションの必要性についても論じていく。学生は、人間のウエルビーイング実現のために、人や集団・地域社会が持っている課題解決力に気づき、個人から地域に働きかけていくための知識と知識に裏付けされた技術を身に付ける力を養う。\n到達目標：\nⅰ）面接についてその意義や方法について説明できる。\nⅱ）記録の意義と方法について説明できる。\nⅲ）ケアマネジメントについて基本的な概念を説明できる。\nⅳ）グループを用いた技法について説明できる。\nⅴ）コミュニティワークの基本的な概念を説明できる。\nⅵ）ソーシャルアドミニストレーションについて基本的な概念を説明できる。\nⅶソーシャルアクションについて基本的な考え方を説明できる。\nⅷ）スーパービジョン・コンサルテーションについて基本的な概念を説明できる。",
     "overview": "ⅰ）面接についてその意義や方法について説明する。\nⅱ）記録の意義と方法について説明する。\nⅲ）ケアマネジメントについて基本的な概念を説明する。\nⅳ）グループを用いた技法について説明する。\nⅴ）コミュニティワークの基本的な概念を説明する。\nⅵ）ソーシャルアドミニストレーションについて基本的な概念を説明する。\nⅶソーシャルアクションについて基本的な考え方を説明する。\nⅷ）スーパービジョン・コンサルテーションについて基本的な概念を説明する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [
         {
             "title": "ソーシャルワークの理論と方法[共通科目]",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "日本ソーシャルワーク教育学校連盟（編）",
             "publisher": "中央法規出版",
             "price": 3190,
@@ -46,28 +46,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "本科目は知識や概念が問われるので、テストにて評価する。授業中に行う小テストと期末テストで評価する。小テストの割合が40％、期末テストの割合が60％である。",
+    "grading_criteria": "本科目は知識や概念が問われるので、テストにて評価する。授業中に行う小テストと期末テストで評価する。小テストの割合が40％、期末テストの割合が60％である。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "各回、盛り沢山の概念が出てきます。これらの概念は、今後学生が一つひとつ掘り下げていくことになりますが、本授業ではその基礎となる概念整理を行います。したがって、必ず復習するようにしてください。さらに、教科書を指定しています。次回授業の範囲を伝えますので、該当する部分をよく読み込んでおいてください。復習に120分、予習に120分必要です。",
+    "teacher_message": "各回、盛り沢山の概念が出てきます。これらの概念は、今後学生が一つひとつ掘り下げていくことになりますが、本授業ではその基礎となる概念整理を行います。したがって、必ず復習するようにしてください。さらに、教科書を指定しています。次回授業の範囲を伝えますので、該当する部分をよく読み込んでおいてください。復習に120分、予習に120分必要です。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ソーシャルワークの面接①　面接の意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "ソーシャルワークの面接②　面接の方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "ソーシャルワークの記録①　記録の意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "ソーシャルワークの記録②　記録の内容とフォーマット",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "ケアマネジメント　原則と方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "グループを用いた支援①　意義と目的／セルフヘルプグループ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "グループを用いた支援②　展開過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "コミュニティワーク①　意義と展開",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "コミュニティワーク②　理論的系譜とモデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソーシャルアドミニストレーション①　意義と概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ソーシャルアドミニストレーション②　組織介入と財源",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ソーシャルアクション①　概念と意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ソーシャルアクション②　コミュニティ・オーガナイジング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "スーパービジョン　目的・方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "コンサルテーション　目的と方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

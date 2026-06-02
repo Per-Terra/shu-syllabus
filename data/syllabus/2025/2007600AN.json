@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:17Z",
+    "fetched_at": "2025-04-04T05:58:17Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600AN",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "松村　遼",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,21 +27,21 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "専門ゼミIでは、一定のテーマの下、卒業研究を実施するための基本的能力を習得する。\n各人が個別のテーマを設定し、それを通じて　1．プログラミング能力（および各種ライブラリの活用能力）　2．サーベイ能力（文献・技術調査）　3．プレゼンテーション能力　を修得することを目標とする。",
+    "objectives": "専門ゼミIでは、一定のテーマの下、卒業研究を実施するための基本的能力を習得する。\n各人が個別のテーマを設定し、それを通じて　1．プログラミング能力（および各種ライブラリの活用能力）　2．サーベイ能力（文献・技術調査）　3．プレゼンテーション能力　を修得することを目標とする。",
     "overview": "週1回のゼミは、文献紹介もしくは進捗報告とそれに基づいた議論によって展開します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "深層学習",
-            "year": 2015,
+            "publication_year": 2015,
             "author": "麻生 英樹, 安田 宗樹, 前田 新一, 岡野原 大輔, 岡谷 貴之, 久保 陽太郎, ボレガラ ダヌシカ",
             "publisher": "近代科学社",
             "price": 3850,
@@ -50,7 +50,7 @@
         },
         {
             "title": "つくりながら学ぶ! PyTorchによる発展ディープラーニング",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "小川雄太郎",
             "publisher": "マイナビ出版",
             "price": 3828,
@@ -59,7 +59,7 @@
         },
         {
             "title": "ディジタル画像処理[改訂第二版]",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "ディジタル画像処理編集委員会",
             "publisher": "画像情報教育振興協会",
             "price": 4290,
@@ -67,30 +67,30 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "機械学習入門",
             "AI・データサイエンス実践"
         ],
-        "brings": "ノートPC",
+        "required_materials": "ノートPC",
         "other": ""
     },
-    "evaluation_criteria": "到達目標に挙げる　1．プログラミング能力（および各種ライブラリの活用能力）の修得　2．サーベイ能力（文献・技術調査）の修得　3．プレゼンテーション能力の修得　を「学生に対する評価」の内容により評価する。",
+    "grading_criteria": "到達目標に挙げる　1．プログラミング能力（および各種ライブラリの活用能力）の修得　2．サーベイ能力（文献・技術調査）の修得　3．プレゼンテーション能力の修得　を「学生に対する評価」の内容により評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ゼミにおける評価は、自らの主体性と意欲に大きく影響されます。能動性と自己探求を欠かさず、積極的に取り組んでいきましょう。",
+    "teacher_message": "ゼミにおける評価は、自らの主体性と意欲に大きく影響されます。能動性と自己探求を欠かさず、積極的に取り組んでいきましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "テーマの検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "テーマの決定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "4～6",
+            "number": "4～6",
             "content": "先行研究調査\n文献調査の方法、論文の読み方について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "7～8",
+            "number": "7～8",
             "content": "文献紹介ゼミ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "9～10",
+            "number": "9～10",
             "content": "環境構築\n各種ライブラリの導入",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "11～14",
+            "number": "11～14",
             "content": "公開データセットを用いた画像認識実践",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "成果報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "16～26",
+            "number": "16～26",
             "content": "各テーマにおける画像認識モデルの実装および実験",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "最終成果報告会に向けたアブストラクト作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "最終成果報告会に向けた発表準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "最終成果報告会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "専門ゼミⅠ報告レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -220,6 +220,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

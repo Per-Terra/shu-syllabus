@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:06:52Z",
+    "fetched_at": "2025-04-04T06:06:52Z",
     "name_ja": "社会福祉法人会計",
     "name_en": "Accounting for social welfare corporation",
     "syllabus_number": "2126200A",
     "course_number": "23-2-25-21-03",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会福祉法人会計基準の意義について説明することができる。\n②会計基準に従った会計処理方法について具体的に述べることができる。\n③会計基準に従って作成した計算書類について説明することができる。",
+    "objectives": "①社会福祉法人会計基準の意義について説明することができる。\n②会計基準に従った会計処理方法について具体的に述べることができる。\n③会計基準に従って作成した計算書類について説明することができる。",
     "overview": "本講義では、社会福祉法人による社会福祉事業の円滑な遂行について、会計的視点から考察できるようになることを目的とする。具体的には、「社会福祉法人の経営力強化」を主なテーマとし、社会福祉法人会計基準に従った会計処理方法の理解から、同基準に従って作成する計算書類、すなわち、資金収支計算書、事業活動計算書、貸借対照表の作成方法までを習得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "サクッとうかる社会福祉法人経営実務検定試験会計3級公式テキスト&トレーニング【第2版】",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "桑原 知之",
             "publisher": "ネットスクール",
             "price": 2640,
@@ -45,10 +45,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "サクッとうかる社会福祉法人経営実務検定試験会計2級公式テキスト&トレーニング",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "桑原 知之",
             "publisher": "ネットスクール",
             "price": 3080,
@@ -56,27 +56,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "教科書、電卓",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、電卓",
         "other": ""
     },
-    "evaluation_criteria": "①社会福祉法人会計基準の意義について理解できている。\n②会計基準に従った会計処理方法について理解できている。\n③会計基準に従って作成した計算書類について理解できている。\n上記①～③に関する理解度を以下の割合により評価する。",
+    "grading_criteria": "①社会福祉法人会計基準の意義について理解できている。\n②会計基準に従った会計処理方法について理解できている。\n③会計基準に従って作成した計算書類について理解できている。\n上記①～③に関する理解度を以下の割合により評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 50,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】月曜2限",
+    "teacher_message": "【事前・事後学習について】 \nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】月曜2限",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、社会福祉法人における会計基準の意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "社会福祉法人の計算書類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "仕訳と転記①、第1回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "仕訳と転記②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "日常の会計処理①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "日常の会計処理②、第2回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,17 +134,17 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "日常の会計処理③",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "梅田　勝利"
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "固定資産の会計処理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,17 +152,17 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "純資産の会計処理、第3回小テスト",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "梅田　勝利"
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "資本コストとリスク評価",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "決算手続き①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "決算手続き②、第4回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "決算書類の作成①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "決算書類の作成②、第5回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "授業の総括、社会福祉法人における会計基準の今後の課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -220,6 +220,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

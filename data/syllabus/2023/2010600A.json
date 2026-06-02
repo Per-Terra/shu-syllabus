@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:05:47Z",
+    "fetched_at": "2024-08-08T01:05:47Z",
     "name_ja": "スポーツ運動学",
     "name_en": "Sports Movement and Behaviour",
     "syllabus_number": "2010600A",
     "course_number": "04SP203",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "西山　健太",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,19 +26,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 運動学の基礎的知識を理解し、自分の意見を述べることができる。\n2. 運動学の視点から運動を理解し、自分の意見を述べることができる。\n3. 運動学の知見を運動指導に応用する方法を述べることができる。",
+    "objectives": "1. 運動学の基礎的知識を理解し、自分の意見を述べることができる。\n2. 運動学の視点から運動を理解し、自分の意見を述べることができる。\n3. 運動学の知見を運動指導に応用する方法を述べることができる。",
     "overview": "運動学は指導者が運動動作を把握し、効果的な指導を行う際の拠り所となる理論を提供することを目的とする。本授業を通して、運動の技術とは何か、運動の良否をどう判断するか、運動を学習するときにどのような過程をたどるのか、成長に伴ってどのように運動技能が発達してゆくのかといった、運動学の基本的な問題について自分の意見を述べることができるようになることを目ざす。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [
         {
             "title": "運動学講義",
-            "year": 1990,
+            "publication_year": 1990,
             "author": "金子明友・朝岡正雄",
             "publisher": "大修館書店",
             "price": 2200,
@@ -46,10 +46,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "教師のための運動学",
-            "year": 1996,
+            "publication_year": 1996,
             "author": "吉田茂・三木四郎　編",
             "publisher": "大修館書店",
             "price": 2200,
@@ -57,27 +57,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "基礎知識および運動の理解、運動指導への応用を小テストによって評価する。",
+    "grading_criteria": "基礎知識および運動の理解、運動指導への応用を小テストによって評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この授業を通して、運動に対する理解を深めるとともに、運動指導者のあるべき姿について自分なりにじっくり考えてみましょう。",
+    "teacher_message": "この授業を通して、運動に対する理解を深めるとともに、運動指導者のあるべき姿について自分なりにじっくり考えてみましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "運動学の概念と目的",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "体育運動の分類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "達成力としての運動技能の構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "体力の運動学的認識",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "技術の運動学的認識",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "戦術の運動学的認識",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "運動構造の運動学的認識",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "運動の学習転移",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "運動ゲシュタルトの発達",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "運動の発生と習熟位相",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "運動の修正指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "運動の定着と適応",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "運動の観察と分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "運動指導の計画と管理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "運動指導の方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-04T06:04:22Z",
+    "fetched_at": "2025-04-04T06:04:22Z",
     "name_ja": "情報ネットワークとセキュリティ",
     "name_en": "Network and security issues",
     "syllabus_number": "2103800A",
     "course_number": "31-2-23-33-04",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "内田　善彦",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "児玉　満",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -30,20 +30,20 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1.情報ネットワークの基礎を理解する。\n2.インターネットの動作原理を理解する。\n3.情報セキュリティーを体系的に理解する。\n4.具体的な情報セキュリティマネジメントについて理解する。",
+    "objectives": "1.情報ネットワークの基礎を理解する。\n2.インターネットの動作原理を理解する。\n3.情報セキュリティーを体系的に理解する。\n4.具体的な情報セキュリティマネジメントについて理解する。",
     "overview": "本講義は現在の情報化社会において中核となっている、情報ネットワークと情報セキュリティについて基礎的・体系的に学び、理解することを目的とする。\n\n（情報ネットワーク）インターネットを中心とした情報通信ネットワークが幅広く利用されている現在において、Society 5.0の実現に向けて家電やモバイル端末などがネットワークへの接続を前提としたものとなり、ネットワークが生活の基盤になりつつある。そこで、ネットワークの基本的な知識・技術を知ることは必要不可欠であるため、ネットワークの構成や通信に必要となるプロトコル、通信サービスなどを学び、それらを体系的に理解することを目標とする。\n\n（情報セキュリティ）インターネットを中核とするITが企業の活動に深く浸透することに伴い、適切な情報セキュリティの確保は企業が有効かつ効率的に活動するにあたっての前提条件となってきていることを踏まえ、情報セキュリティを体系的に把握する。情報セキュリティにおける脅威や脆弱性、最新の技術動向、関連法制度、関連する情報システムなどを学習し、具体的な情報セキュリティマネジメントについて理解することを目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "令和07年 情報セキュリティマネジメント 合格教本",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "岡嶋裕史",
             "publisher": "技術評論社",
             "price": 1980,
@@ -52,7 +52,7 @@
         },
         {
             "title": "令和07年 ネットワークスペシャリスト 合格教本",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "岡嶋裕史",
             "publisher": "技術評論社",
             "price": 3300,
@@ -60,27 +60,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコンまたはタブレット",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコンまたはタブレット",
         "other": "この授業は実習を含みます"
     },
-    "evaluation_criteria": "授業内小テスト30%、課題30%、筆記試験40%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。原則として、欠席5回以上のものには単位を与えない。",
+    "grading_criteria": "授業内小テスト30%、課題30%、筆記試験40%。\n欠席はやむを得ない場合を除き、事前に担当教員の許可を得ること。原則として、欠席5回以上のものには単位を与えない。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 40,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "情報ネットワークは今では生活の一部として使われるようになっているため、基本的な部分について知っておく必要があります。授業で最低限必要となる実践的な知識・技術を学びます。そのため、ある程度予習・復習をすることが望ましいです。\n\n情報技術の活用には、適切な情報セキュリティマネジメントが必須です。授業ではこれを支える要素技術を包括的に学びます。授業にあたっては、予習は不要ですが、丁寧な復習が望ましいです。また、好奇心を持って自ら学習の課題を持って講義に参加することで学習効果はより高くなります。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "情報ネットワークは今では生活の一部として使われるようになっているため、基本的な部分について知っておく必要があります。授業で最低限必要となる実践的な知識・技術を学びます。そのため、ある程度予習・復習をすることが望ましいです。\n\n情報技術の活用には、適切な情報セキュリティマネジメントが必須です。授業ではこれを支える要素技術を包括的に学びます。授業にあたっては、予習は不要ですが、丁寧な復習が望ましいです。また、好奇心を持って自ら学習の課題を持って講義に参加することで学習効果はより高くなります。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス-情報ネットワークとセキュリティについて-",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "くらしと情報ネットワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "通信プロトコルとOSI参照モデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "TCP/IPモデルとパケット交換方式",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "イーサネットと無線LAN",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "IPアドレスとドメイン名",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "インターネットへの接続方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "インターネットへの接続方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "近年の情報セキュリティ事故",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "機密性・完全性・可用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "サイバー攻撃手法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "暗号技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "認証・認可",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "情報セキュリティリスクマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "国際標準や国内のガイドライン",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

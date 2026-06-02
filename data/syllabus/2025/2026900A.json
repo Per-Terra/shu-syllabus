@@ -1,31 +1,31 @@
 {
-    "_fetched_at": "2025-04-04T06:01:28Z",
+    "fetched_at": "2025-04-04T06:01:28Z",
     "name_ja": "社会福祉の原理と政策Ⅰ",
     "name_en": "Theory and Policy of Social Welfare",
     "syllabus_number": "2026900A",
     "course_number": "23-1-44-21-03、27-1-34-21-02、23-1-21-21-03",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "輪倉　一広",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -33,18 +33,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会福祉の原理をめぐる思想・哲学と理論の概要を説明することができる。\n②社会福祉の歴史的展開の過程と社会福祉の理論を踏まえ、欧米との比較によって日本の社会福祉の特性を説明することができる。\n③社会問題と社会構造の関係の視点から、現代の社会問題の特徴を説明することができる。",
+    "objectives": "①社会福祉の原理をめぐる思想・哲学と理論の概要を説明することができる。\n②社会福祉の歴史的展開の過程と社会福祉の理論を踏まえ、欧米との比較によって日本の社会福祉の特性を説明することができる。\n③社会問題と社会構造の関係の視点から、現代の社会問題の特徴を説明することができる。",
     "overview": "社会福祉の歴史的な展開と社会福祉理論を踏まえ、日本の社会福祉の特性を理解する。そのために、社会福祉の原理（思想や哲学）を学び、社会問題がなぜ生じているのか、社会構造から理解できるようにする。具体的には、以下の内容で学びを進めていく。①社会福祉の歴史、特に日本と欧米との歴史的な展開について。②社会福祉の原理。これについては、社会福祉の思想や哲学について学ぶ。③社会福祉の哲学・思想・理論について。これには社会正義や人間の尊厳、平和主義などが含まれる。また、社会福祉に関わる政策論や技術論、運動論について学ぶ。さらに、社会福祉の論点として普遍主義と選別主義、自己決定とパターナリズム、社会福祉の対象について説明する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2"
     ],
     "textbooks": [
         {
             "title": "『社会福祉の原理と政策』",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "一般社団法人日本ソーシャルワーク教育学校連盟編",
             "publisher": "中央法規出版",
             "price": 3190,
@@ -52,10 +52,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "『社会福祉の思想入門―なぜ人を助けるのか―』",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "秋山智久",
             "publisher": "ミネルヴァ書房",
             "price": 3080,
@@ -64,7 +64,7 @@
         },
         {
             "title": "『福祉原理ー社会はなぜ他者を援助する仕組みを作ってきたのか』",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "岩崎晋也",
             "publisher": "有斐閣",
             "price": 3100,
@@ -72,29 +72,29 @@
             "available_on_campus": true
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "特になし"
         ],
-        "recommended_courses": [],
-        "brings": "教科書",
+        "recommended": [],
+        "required_materials": "教科書",
         "other": "特になし"
     },
-    "evaluation_criteria": "①社会福祉の思想・哲学、②社会福祉の理論、③日本の社会福祉の歴史、④現代の社会問題\n上記①～④に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 80%、課題レポート 20％",
+    "grading_criteria": "①社会福祉の思想・哲学、②社会福祉の理論、③日本の社会福祉の歴史、④現代の社会問題\n上記①～④に関する理解度を以下の割合により評価する。\n評価の割合：筆記試験 80%、課題レポート 20％",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "「社会福祉とは何か」という根源的な問いに対して、自分なりの考えを述べられるようになってください。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、専門用語の整理をしておくこと（復習 2 時間程度）。\n\n\n\nオフィスアワー：水曜日の午前中",
+    "teacher_message": "「社会福祉とは何か」という根源的な問いに対して、自分なりの考えを述べられるようになってください。授業に参加するにあたっては次回の授業内容を参照し、教科書の該当ページを通読しておくこと（予習 2 時間程度）。授業後は、専門用語の整理をしておくこと（復習 2 時間程度）。\n\n\n\nオフィスアワー：水曜日の午前中",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業の進め方 歴史を学ぶ視点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "欧米の社会福祉の歴史的展開：生成期から発展期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "欧米の社会福祉の歴史的展開：成熟前期から成熟中期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "欧米の社会福祉の歴史的展開：成熟後期から転換期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "日本の社会福祉の歴史的展開：萌芽期から生成期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "日本の社会福祉の歴史的展開：発展期から成熟前期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "日本の社会福祉の歴史的展開：成熟後期から転換期",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "社会福祉の思想・哲学",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会福祉の理論：戦後の社会福祉理論の特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "社会福祉の理論：海外の社会福祉・福祉政策に関する理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "社会福祉の論点：公私関係論から多元的供給主体論へ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "社会福祉の論点：普遍主義と選別主義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "現代における社会問題：複雑化・多様化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "現代における社会問題：新しい社会的リスク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "社会問題の構造的背景",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -242,6 +242,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

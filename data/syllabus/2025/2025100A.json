@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:01:10Z",
+    "fetched_at": "2025-04-04T06:01:10Z",
     "name_ja": "福祉住環境コーディネーター",
     "name_en": "Housing Environment Coordinator for Elderly and Disabled People",
     "syllabus_number": "2025100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①医療・福祉・建築の総合的な知識を用いて、高齢者や障がい者に対して住みやすい住環境を提案することができる。\n②福祉住環境コーディネーターの業務について具体的に述べることができる。",
+    "objectives": "【到達目標】\n①医療・福祉・建築の総合的な知識を用いて、高齢者や障がい者に対して住みやすい住環境を提案することができる。\n②福祉住環境コーディネーターの業務について具体的に述べることができる。",
     "overview": "本授業では、医療・福祉・建築の総合的な知識を用いて、高齢者や障がい者に対して住みやすい住環境を提案できるようになることを目的とする。具体的には、少子高齢化進行による今後の課題を把握、介護保険制度や障害者総合支援法の内容を理解、住まいの整備のための基本技術を習得など、福祉住環境コーディネーター検定試験3級合格を念頭に置いて授業を進める。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "福祉住環境コーディネーター検定試験 3級公式テキスト 改訂6版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "東京商工会議所編",
             "publisher": "東京商工会議所",
             "price": 2750,
@@ -45,28 +45,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "教科書",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書",
         "other": "なし"
     },
-    "evaluation_criteria": "①医療・福祉・建築の総合的な知識を用いて、高齢者や障がい者に対して住みやすい住環境を提案することができている。\n②福祉住環境コーディネーターの業務について具体的に述べることができている。\n上記①～②に関する理解度を「学生に対する評価」の割合により評価する。",
+    "grading_criteria": "①医療・福祉・建築の総合的な知識を用いて、高齢者や障がい者に対して住みやすい住環境を提案することができている。\n②福祉住環境コーディネーターの業務について具体的に述べることができている。\n上記①～②に関する理解度を「学生に対する評価」の割合により評価する。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 50,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 50,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "①事前学習（予修。2時間）として、前回の授業において指示された教科書部分を熟読すること。\n②事後学習（復修。2時間）として、各章末の練習問題を解き、各自が授業内容に照らして、正答を確認しておくこと。なお、疑問点などあれば、次回の授業開始時に質問すること。\n【オフィスアワー】月曜2限",
+    "teacher_message": "①事前学習（予修。2時間）として、前回の授業において指示された教科書部分を熟読すること。\n②事後学習（復修。2時間）として、各章末の練習問題を解き、各自が授業内容に照らして、正答を確認しておくこと。なお、疑問点などあれば、次回の授業開始時に質問すること。\n【オフィスアワー】月曜2限",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、少子高齢社会と共生社会への道",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "福祉住環境整備の重要性・必要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "在宅生活の維持とケアサービス、第1回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "高齢者の健康と自立",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "障害者が生活の不自由を克服する道",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "バリアフリーとユニバーサルデザインを考える、第2回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "生活を支えるさまざまな用具",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "住まいの整備のための基本技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "生活行為別に見る安全・安心・快適な住まい、第3回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ライフスタイルの多様化と住まい",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "安心できる住生活",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "安心して暮らせるまちづくり、第4回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "過去問題解答・解説（1）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "過去問題解答・解説（2）、第5回小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "授業の総括",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,6 +214,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

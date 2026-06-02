@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:05:39Z",
+    "fetched_at": "2025-04-07T11:05:39Z",
     "name_ja": "原価計算論",
     "name_en": "Cost Accounting",
     "syllabus_number": "2044500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "福原　道照",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）工業簿記の基礎と原価の費目別計算が理解できる。\n（２）個別原価計算、部門別個別原価計算が理解できる。\n（３）総合原価計算が理解できる。\n（４）標準原価計算が理解できる。\n（５）直接原価計算が理解できる。",
+    "objectives": "【到達目標】\n（１）工業簿記の基礎と原価の費目別計算が理解できる。\n（２）個別原価計算、部門別個別原価計算が理解できる。\n（３）総合原価計算が理解できる。\n（４）標準原価計算が理解できる。\n（５）直接原価計算が理解できる。",
     "overview": "原価計算は、製造業における製品を製造するために要した費用を計算する手続きである。本講義では、原価計算の知識である工業簿記の特徴、材料費・労務費・経費の計算、個別原価計算、総合原価計算、標準原価計算、直接原価計算などに関する理論が学修できる。本講義での学修を通じ、ビジネスに必要な製造業の製造活動の全容について理解でき、経営問題を発見し、その解決を試みる力を身につけることができる。また、経理担当者に必要な製造活動に関する会計情報の認識・測定・記録・伝達に係る理論知識の習得とその応用力を身につけることができる。同時に、日商簿記検定2級の工業簿記の合格レベルの知識を身につけることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "よくわかる簿記シリーズ 合格テキスト 日商簿記2級工業簿記 Ver.10.0",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "TAC株式会社(簿記検定講座) 編著",
             "publisher": "TAC出版",
             "price": 2310,
@@ -50,10 +50,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "みんなが欲しかった! 簿記の教科書 日商2級 工業簿記 第12版",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "滝澤 ななみ 著",
             "publisher": "TAC出版",
             "price": 1650,
@@ -62,7 +62,7 @@
         },
         {
             "title": "2024年度版 スッキリわかる 日商簿記2級 工業簿記",
-            "year": 2024,
+            "publication_year": 2024,
             "author": "滝澤 ななみ 著",
             "publisher": "TAC出版",
             "price": 1650,
@@ -70,30 +70,30 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "簿記初級Ⅰ",
             "簿記初級Ⅱ"
         ],
-        "recommended_courses": [],
-        "brings": "電卓",
+        "recommended": [],
+        "required_materials": "電卓",
         "other": "特になし"
     },
-    "evaluation_criteria": "(ⅰ)工業簿記の基礎と原価の費目別計算についての理解\n(ⅱ)個別原価計算、部門別個別原価計算についての理解\n(ⅲ)総合原価計算についての理解\n(ⅳ)標準原価計算についての理解\n(ⅴ)直接原価計算についての理解",
+    "grading_criteria": "(ⅰ)工業簿記の基礎と原価の費目別計算についての理解\n(ⅱ)個別原価計算、部門別個別原価計算についての理解\n(ⅲ)総合原価計算についての理解\n(ⅳ)標準原価計算についての理解\n(ⅴ)直接原価計算についての理解",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "工業簿記、原価計算の知識は製造業だけにとどまらず、商業など他の業種にも応用されるものです。予習・復習を十分に行い、知識の定着を図りましょう。\n【予習・復習について】\n　予習：授業の内容に係るテキストの該当箇所について予習する。（120分程度）\n　復習：授業の内容について復習（問題演習）する。（120分程度）",
+    "teacher_message": "工業簿記、原価計算の知識は製造業だけにとどまらず、商業など他の業種にも応用されるものです。予習・復習を十分に行い、知識の定着を図りましょう。\n【予習・復習について】\n　予習：授業の内容に係るテキストの該当箇所について予習する。（120分程度）\n　復習：授業の内容について復習（問題演習）する。（120分程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "工業簿記の概要～工業簿記の基礎と勘定連絡～\n　[テキストpp.2-16]\n材料費～材料費の分類、材料費の計算～\n　[テキストpp.18-34]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "労務費～労務費の分類、労務費の計算～\n　[テキストpp.36-48]\n経費～経費の分類、経費の計算～\n費目別計算のまとめ\n　[テキストpp.50-61]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "個別原価計算（Ⅰ）～個別原価計算の基礎、製造間接費の実際配賦～\n　[テキストpp.62-74]\n個別原価計算（Ⅱ）～製造間接費の予定配賦～\n　[テキストpp.76-91]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "部門別個別原価計算（Ⅰ）～部門別個別原価計算の基礎～\n　[テキストpp.92-107]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "部門別個別原価計算（Ⅱ）～製造部門費の実際配賦と予定配賦～\n　[テキストpp.108-127]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "１回から５回までの授業のまとめ\n　[テキストpp.2-127]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "総合原価計算（Ⅰ）～単純総合原価計算～\n　[テキストpp.128-136]\n総合原価計算（Ⅱ）～月初仕掛品がある場合の計算～\n　[テキストpp.138-153]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "総合原価計算（Ⅲ）～仕損費と減損費の処理～\n　[テキストpp.154-176]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "総合原価計算（Ⅳ）～工程別総合原価計算～\n　[テキストpp.178-183]\n総合原価計算（Ⅴ）～組別総合原価計算、等級別総合原価計算～\n　[テキストpp.184-193]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "７回から９回までの授業のまとめ\n　[テキストpp.128-193]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "財務諸表～製造原価報告書の作成～\n　[テキストpp.194-205]\n本社工場会計～工場会計を独立させた場合の記帳方法～\n　[テキストpp.270-273]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "標準原価計算（Ⅰ）～標準原価の計算と記帳方法～\n　[テキストpp.206-218]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "標準原価計算（Ⅱ）～原価差異の分析～\n　[テキストpp.220-237]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "直接原価計算（Ⅰ）～直接原価計算の損益計算書～\n　[テキストpp.240-247]\n直接原価計算（Ⅱ）～ＣＶＰ分析～\n　[テキストpp.248-264]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "１１回から１４回までの授業のまとめ\n　[テキストpp.194-273]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -241,6 +241,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

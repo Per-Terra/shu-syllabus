@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:00:22Z",
+    "fetched_at": "2025-04-07T11:00:22Z",
     "name_ja": "ソフトウェア演習",
     "name_en": "Software Exercises",
     "syllabus_number": "2022110A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "土屋　敏夫",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,12 +28,12 @@
         "講義",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "HTML、CSSの基礎的技術が理解できる。\nWebページ作成および運用について理解できる。",
+    "objectives": "HTML、CSSの基礎的技術が理解できる。\nWebページ作成および運用について理解できる。",
     "overview": "この授業は、Webサイトの作成を通じて、インターネットによる情報収集および発信の方法を学ぶ。 HTMLおよびCSSを使ったWebサイトの構築と公開の手法について学ぶ。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "これだけで基本がしっかり身につく HTML/CSS&Webデザイン1冊目の本",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "Capybara Design, 竹内 直人, 竹内 瑠美",
             "publisher": "翔泳社",
             "price": 2200,
@@ -50,28 +50,28 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "教科書、パソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、パソコン",
         "other": ""
     },
-    "evaluation_criteria": "毎回の講義で作成した内容を課題として提出してもらいます。試験は実施しません。",
+    "grading_criteria": "毎回の講義で作成した内容を課題として提出してもらいます。試験は実施しません。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 100,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 100,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "・ガイダンス\n授業の進め方と評価\nアプリケーションのインストールとプログ\nラミング環境の設定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -80,9 +80,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "・HTMLの基本を学ぼう\nマークアップ言語について エディタを使ったコードの記述方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "・CSSのきほんを学ぼう\nCSSについて CSSファイルとHTMLファイルの紐付け",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "・SNSリンク集のCSSを書いてみよう\nサンプルコードを使ってSNSリンク集を作成する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "・ブログサイトのHTMLを書いてみよう\nインタフェースのパーツ\nアウトラインとセクション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "・ブログサイトのCSSを書いてみよう\nフレックスボックスレイアウトを使う\nページごとのCSS書く",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "・Web招待状サイトのHTMLを書いてみよう\nフォームをマークアップする",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "・Web招待状サイトのCSSを書いてみよう\nセクションごとにCSSを記述する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "・CSSアニメーションをつけてみよう\nCSSアニメーションの基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "・レスポンシブウェブデザインに対応させ\nよう\nマルチデバイスについて\nパーツの表示方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "・複数ページのサイトを作ってみよう\n制作の流れとWebデザインのきほん",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "・レストランサイトのCSSを書こう(モバ イル)\nモバイル用複数ページサイトのコーティング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "・レストランサイトのCSSを書こう(PC)\nPC用複数ページサイトのコーティング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "・参考サイトの活用方法を学ぼう\nWeb上の情報を活用する サンプルコードをサイトに組み込む",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -223,9 +223,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "・まとめ\nWebサイト公開のための様々な運用方 法を理解する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

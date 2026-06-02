@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:56:50Z",
+    "fetched_at": "2025-04-07T10:56:50Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600FD",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "守本　友美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,38 +27,38 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①自分の興味・関心のある研究テーマを設定することができる。\n②論文の書き方・約束事について説明することができる。\n③自分が調べてきた内容について適切にプレゼンテーションができる。\n④グループディスカッションに参加することができる。",
+    "objectives": "①自分の興味・関心のある研究テーマを設定することができる。\n②論文の書き方・約束事について説明することができる。\n③自分が調べてきた内容について適切にプレゼンテーションができる。\n④グループディスカッションに参加することができる。",
     "overview": "本授業においては、卒業論文を執筆するための準備の段階として、各自の興味・関心のあるテーマを設定し、そのテーマを研究する方法を理解し、卒業論文の序論・本論にあたる部分の概要を完成させる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC",
         "other": "必要な資料については適宜配付する。必要な書籍については授業中に指示する。"
     },
-    "evaluation_criteria": "①テーマ設定、②論文の書き方の理解、③プレゼンテーション、④グループディスカッション",
+    "grading_criteria": "①テーマ設定、②論文の書き方の理解、③プレゼンテーション、④グループディスカッション",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 50,
-        "ポートフォリオ": 30,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 50,
+        "portfolio": 30,
+        "other": 0
     },
-    "message_from_teachers": "前半は講義中心になるので、予習として専門用語の復習をしておいてください（60分程度）。復習として講義の内容をノート等に整理しておいてください（180分程度）。後半は、プレゼンテーションを行いますので、十分に準備をしておいてください（240分程度）。",
+    "teacher_message": "前半は講義中心になるので、予習として専門用語の復習をしておいてください（60分程度）。復習として講義の内容をノート等に整理しておいてください（180分程度）。後半は、プレゼンテーションを行いますので、十分に準備をしておいてください（240分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション　自己紹介\n授業の進め方\nテーマ設定の方法についての解説",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -67,9 +67,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "テーマ設定の方法についての解説\n各自のテーマに対して質疑応答を行い、テーマを絞り込む",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "各自のテーマを深めるためのグループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "研究方法についての説明：量的研究",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "研究方法についての説明：質的研究",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "論文の書き方の説明：論文の構成について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "論文の書き方の説明：文献の探し方、引用方法について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "論文の書き方の説明：要約の方法について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "発表とディスカッション：各自が調べてきた内容を発表する。\n発表内容についての意見交換を行う。",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "レポート（序論部分）作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "先行研究のレビューの方法の説明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "先行研究のレビューについて発表とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -243,9 +243,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "先行研究のレビューについて発表とディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "調査の準備：調査票、インタビューガイドの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "調査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -276,9 +276,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "調査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -287,9 +287,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "調査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -298,9 +298,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "調査の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -309,9 +309,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "調査結果の整理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -320,9 +320,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "調査結果の整理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -331,9 +331,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "調査結果の整理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -342,9 +342,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "調査結果の整理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -353,9 +353,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "レポート作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -375,9 +375,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "レポート（本論部分）完成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -386,6 +386,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

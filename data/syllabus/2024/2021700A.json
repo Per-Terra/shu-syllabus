@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:00:16Z",
+    "fetched_at": "2025-04-07T11:00:16Z",
     "name_ja": "コンピュータ概論",
     "name_en": "Introduction to Computer Science",
     "syllabus_number": "2021700A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "橋本　喜代太",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,18 +27,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①コンピュータに関する基本的な知識（誕生背景、動作原理）を習得すること。\n②現代の私たちの社会や生活の中でどのような存在であるか長所・短所を含めて理解すること。\n③うまく活用していくためのリテラシーの基礎を身に付けること。",
+    "objectives": "①コンピュータに関する基本的な知識（誕生背景、動作原理）を習得すること。\n②現代の私たちの社会や生活の中でどのような存在であるか長所・短所を含めて理解すること。\n③うまく活用していくためのリテラシーの基礎を身に付けること。",
     "overview": "本講義では、コンピュータの歴史、基本的な仕組み、どのように進化してきたかを学ぶ。超スマート社会(Society5.0)を迎える現代社会において、コンピュータ、ネットワーク(通信)、AIをはじめとするコンピュータシステムと私たちの社会や生活は密接な関係がある。それらを上手に活用するために、本講義を通じてコンピュータの基本的な知識を得ると同時に、その問題点や危険性も理解し、適切な関わり方を考えていく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [
         {
             "title": "コンピュータ概論‐情報システム入門 第8版",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "魚田勝臣",
             "publisher": "共立出版",
             "price": 2960,
@@ -46,28 +46,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC、教科書、ノート、筆記具",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC、教科書、ノート、筆記具",
         "other": ""
     },
-    "evaluation_criteria": "講義内容を振り返り理解を深めるために3回ほどの小レポート（又は小テスト）(担当教員ごと)を課します。\nまた、全体講義終了後に全体の理解度を確認するための試験(60分)を行います。\n成績評価の割合：小レポート(又は小テスト)60％、試験40%",
+    "grading_criteria": "講義内容を振り返り理解を深めるために3回ほどの小レポート（又は小テスト）(担当教員ごと)を課します。\nまた、全体講義終了後に全体の理解度を確認するための試験(60分)を行います。\n成績評価の割合：小レポート(又は小テスト)60％、試験40%",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 60,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 60,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "今後、情報科学部で様々なカリキュラムを学んでいく上で基本となる知識となります。本講義でコンピュータシステムの全体像を理解し、以降のカリキュラムの理解がスムーズに進むように努めてください。",
+    "teacher_message": "今後、情報科学部で様々なカリキュラムを学んでいく上で基本となる知識となります。本講義でコンピュータシステムの全体像を理解し、以降のカリキュラムの理解がスムーズに進むように努めてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス：コンピュータシステムとの関わり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "コンピュータとその利用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ビジネスとコンピュータシステム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "コンピュータシステムの歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "情報の表現：デジタルとアナログ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "コンピュータと科学：AIとロボットの時代",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ハードウェアの仕組み１：コンピュータアーキテクチャ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ハードウェアの仕組み２：計算や記憶をできる仕組み",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ソフトウェアの仕組み１：OS、プログラミング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソフトウェアの仕組み２：データ、データベース",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ネットワーク（LAN、WAN、無線通信、光通信）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "情報倫理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "情報セキュリティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "クラウドの仕組みとデータセンター",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "野村　典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
+    "credit_auditing": false,
+    "practitioner_info": "野村　典文\n企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験や国立大学で教育・研究に従事してきた教員が、そこでの経験を生かしてコンピュータサイエンス、データベース、ソフトウェア工学に関する実践的な知識を身に着けさせる。"
 }

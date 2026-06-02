@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:48Z",
+    "fetched_at": "2025-04-07T10:57:48Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EF",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小林　啓祐",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,47 +26,47 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミは、歴史学の手法を用いながら、卒論を執筆することが最終目標です。歴史学の手法といっても、1000\n年前のことをやらなくてはいけない、ということではありません。端的に言えば、過去に作られた資料をもと\nに、説得的な論理展開をすることが歴史学的な手法となります。ほかの分野に比しても、資料引用の回酢も自\n然と多くなります。地道にな作業が多くなりますが、しっかりとした論理展開をするために資料と向きあって\nほしいと思います。\n\n【到達目標】\n・歴史学の基本的な手法を用いて卒業論文が書ける",
+    "objectives": "本ゼミは、歴史学の手法を用いながら、卒論を執筆することが最終目標です。歴史学の手法といっても、1000\n年前のことをやらなくてはいけない、ということではありません。端的に言えば、過去に作られた資料をもと\nに、説得的な論理展開をすることが歴史学的な手法となります。ほかの分野に比しても、資料引用の回酢も自\n然と多くなります。地道にな作業が多くなりますが、しっかりとした論理展開をするために資料と向きあって\nほしいと思います。\n\n【到達目標】\n・歴史学の基本的な手法を用いて卒業論文が書ける",
     "overview": "基本的には対面で進めますが、研究活動は自分で進めていくものですので講義時間外の学習が中心になります。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
         "現代経済学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "日本史Ⅰ",
             "日本史Ⅱ",
             "経済史",
             "日本経済史"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "特に書籍は指定しませんが、随時課題解決に必要な書籍を購読します。卒論執筆に必要な書籍は適宜指示し、各自購入してもらいます。"
     },
-    "evaluation_criteria": "卒業論文提出でもって評価します",
+    "grading_criteria": "卒業論文提出でもって評価します",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "卒業論文は指導教官から指示されて書くものではありません。自分で問題関心を持ち、自分で調べて、自分で考えて書くものです。就職活動も忙しいとは思いますが、大学4年間の学びの集大成が作ることができるようにしっかりと準備してください。　常に卒論準備に向けて報告ができるよう準備し（予習６０分）、ゼミ後には必ず修正点に対応してください（復習６０分）。",
+    "teacher_message": "卒業論文は指導教官から指示されて書くものではありません。自分で問題関心を持ち、自分で調べて、自分で考えて書くものです。就職活動も忙しいとは思いますが、大学4年間の学びの集大成が作ることができるようにしっかりと準備してください。　常に卒論準備に向けて報告ができるよう準備し（予習６０分）、ゼミ後には必ず修正点に対応してください（復習６０分）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "年間計画作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "課題決定のための準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "先行研究調査開始",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "先行研究の読み込みと整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "先行研究の読み込みと整理した結果発表、フィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "先行研究の再収集",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "先行研究の読み込みと整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "先行研究の読み込みと整理した結果を再度発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "先行研究整理の反省点・課題整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "先行研究の問題点整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "先行研究の問題点整理をふまえた課題発見",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "問題関心発表とフィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "問題関心再検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "問題関心に基づいた夏季休暇の調査計画立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "夏季休暇の調査計画立案・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "夏季休暇の調査報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "先行研究調査を活かした序論執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "序論発表フィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "夏季休暇の調査結果をふまえた本論執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "引き続き本論執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "本論途中経過発表フィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "本論で浮かび上がった課題に則した補充調査開始",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "補充調査継続",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "補充調査をもとに本論リライト",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "リライトした本論発表、フィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -314,9 +314,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "結論の検討開始",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "結論執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒論全体像完成、発表、フィードバック",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "完成稿に向けた執筆",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒論完成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -364,6 +364,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

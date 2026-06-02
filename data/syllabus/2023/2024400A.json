@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:16:48Z",
+    "fetched_at": "2024-08-08T01:16:48Z",
     "name_ja": "認知心理学Ⅰ",
     "name_en": "Cognitive psychology Ⅰ",
     "syllabus_number": "2024400A",
     "course_number": "05PS301",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "福祉情報学部",
+    "category": "専門科目",
+    "home_department": "福祉情報学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "梨和　ひとみ",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,21 +26,21 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "「認知心理学」は、心理学の中では比較的新しい分野です。1950年代後半以降に「情報科学」の影響を受けて生まれました。人間を一つの「情報処理システム」と捉えることで人間の心的活動を明らかにしています。\n「認知心理学」の研究対象は多岐にわたり、「注意」「記憶」「思考」「表象」「推論」「意思決定」など、人間の高次の知的活動を対象としています。授業では、認知心理学の研究手法や、それによって明らかになった知見を学ぶことを通して、私たちの心的活動を科学的に捉える視点を獲得します。\n\n【到達目標】\n(ⅰ)人間の高度な情報処理システムについて，基礎的な知識を得る。\n(ⅱ)認知心理学的な研究の方法論について知る。\n(ⅲ)(ⅰ)、(ⅱ)の知識に基づき，日常場面における私たちの行動をよりよく理解する。\n(ⅳ) (ⅰ)～(ⅲ)を通じて，日常生活の中から疑問を発見し，認知心理学的に検討するセンスを養う。",
+    "objectives": "「認知心理学」は、心理学の中では比較的新しい分野です。1950年代後半以降に「情報科学」の影響を受けて生まれました。人間を一つの「情報処理システム」と捉えることで人間の心的活動を明らかにしています。\n「認知心理学」の研究対象は多岐にわたり、「注意」「記憶」「思考」「表象」「推論」「意思決定」など、人間の高次の知的活動を対象としています。授業では、認知心理学の研究手法や、それによって明らかになった知見を学ぶことを通して、私たちの心的活動を科学的に捉える視点を獲得します。\n\n【到達目標】\n(ⅰ)人間の高度な情報処理システムについて，基礎的な知識を得る。\n(ⅱ)認知心理学的な研究の方法論について知る。\n(ⅲ)(ⅰ)、(ⅱ)の知識に基づき，日常場面における私たちの行動をよりよく理解する。\n(ⅳ) (ⅰ)～(ⅲ)を通じて，日常生活の中から疑問を発見し，認知心理学的に検討するセンスを養う。",
     "overview": "基礎的事項は講義形式で解説しますが、簡単な実験や心理検査など実習的課題を通して、理解を深めます。授業の始めに、前回の復習テストを実施します。ノートをとってください。毎回、コメントカードを書いていただきます。質問などに対しては、次回フィードバックします。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "主体性・多様性・協調性の養成"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "認知心理学 (New Liberal Arts Selection)",
-            "year": 2010,
+            "publication_year": 2010,
             "author": "箱田 裕司 (著), 都築 誉史 (著), 川畑 秀明 (著), 萩原 滋 (著)",
             "publisher": "有斐閣",
             "price": 3740,
@@ -49,7 +49,7 @@
         },
         {
             "title": "認知心理学 -- 知のアーキテクチャを探る 新版",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "道又 爾 (著), 北崎 充晃 (著), 大久保 街亜 (著), 今井 久登 (著), 山川 恵子 (著), 黒沢 学 (著)",
             "publisher": "有斐閣",
             "price": 2310,
@@ -57,30 +57,30 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "心理学",
             "心理学概論"
         ],
-        "brings": "ノート",
+        "required_materials": "ノート",
         "other": ""
     },
-    "evaluation_criteria": "(ⅰ)基礎知識の獲得、(ⅱ)研究方法の理解、(ⅲ)日常場面への応用、(ⅳ)問題発見 の四点について、⑪に示す方法で評価する。",
+    "grading_criteria": "(ⅰ)基礎知識の獲得、(ⅱ)研究方法の理解、(ⅲ)日常場面への応用、(ⅳ)問題発見 の四点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 55,
-        "小テスト": 5,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 55,
+        "quiz": 5,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "「認知心理学」は、普段私たち人間が何気なく行っている活動（行動、心的活動、知的活動）が、どのようなメカニズムで成り立っているのか、なぜそのようなメカニズムが働くのかなどを、科学的手法を用いて明らかにしています。「なぜ」「どのように」を知ると、日々の生活が楽しくなります。認知心理学Ⅰでは、「注意」と「記憶」の話が中心となります。\n\n【予習・復習について】\n各回で実施する内容についてまとめることで知識を定着させてください。",
+    "teacher_message": "「認知心理学」は、普段私たち人間が何気なく行っている活動（行動、心的活動、知的活動）が、どのようなメカニズムで成り立っているのか、なぜそのようなメカニズムが働くのかなどを、科学的手法を用いて明らかにしています。「なぜ」「どのように」を知ると、日々の生活が楽しくなります。認知心理学Ⅰでは、「注意」と「記憶」の話が中心となります。\n\n【予習・復習について】\n各回で実施する内容についてまとめることで知識を定着させてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション：認知心理学とはどんな学問か？",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "認知心理学の歴史（認知心理学の誕生）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "注意①：選択的注意・古典的フィルターモデル・減衰モデル・後期選択説",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "注意②：注意資源・空間的注意・処理コンポーネント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "記憶①：再生法と再認法・二重貯蔵モデル",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "記憶②：感覚記憶・ワーキングメモリ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "記憶③：処理水準仮説・二重符号化理論・文脈効果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "記憶④：状態依存記憶・符号化特殊性原理・転移適切性処理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "記憶⑤：カテゴリー化・意味記憶",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "記憶⑥：顕在記憶・潜在記憶・長期記憶の分類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "記憶⑦：記憶の変容・忘却",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "記憶⑧：日常記憶・生態学的妥当性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "記憶⑨：目撃記憶・日常事物の記憶",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "記憶⑩：自伝的記憶・展望的記憶",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "記憶⑪：フラッシュバルブ記憶・アクションスリップ・メタ記憶・メタ認知",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

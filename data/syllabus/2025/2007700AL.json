@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:15Z",
+    "fetched_at": "2025-04-04T05:59:15Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700AL",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "内田　善彦",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,12 +27,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "暗号資産を題材として、貨幣とは何か、取引とは何か、について理解する。\nブロックチェーンを自分で設計・実装できる。",
+    "objectives": "暗号資産を題材として、貨幣とは何か、取引とは何か、について理解する。\nブロックチェーンを自分で設計・実装できる。",
     "overview": "より良いと考える暗号資産（ブロックチェーン）を自ら設計し、実装する。\nブロックチェーンを運用し、特徴を評価する。\n上記の過程で、暗号資産を活用したビジネス、関連する法律・制度などについても調査する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2",
         "情報科学科DP3",
@@ -43,10 +43,10 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "イニングやNFTを無料で本格運用できるブロックチェーンを作る！",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "安田恒",
             "publisher": "秀和システム",
             "price": 2420,
@@ -55,7 +55,7 @@
         },
         {
             "title": "プログラミング・ビットコイン ―ゼロからビットコインをプログラムする方法",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "Jimmy Song",
             "publisher": "オライリージャパン",
             "price": 3960,
@@ -64,7 +64,7 @@
         },
         {
             "title": "詳解 ビットコイン ―ゼロから設計する過程で学ぶデジタル通貨システム",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "Kalle Rosenbaum",
             "publisher": "オライリージャパン",
             "price": 4180,
@@ -72,29 +72,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミI"
         ],
-        "recommended_courses": [],
-        "brings": "ノートパソコン",
+        "recommended": [],
+        "required_materials": "ノートパソコン",
         "other": "基礎的な線形代数と解析学の知識と、300行程度のプログラミング経験があること。ブロックチェーンに関する基礎的な知識があること。"
     },
-    "evaluation_criteria": "ブロックチェーンの詳細に関する理解について、⑪に示す形で評価する。",
+    "grading_criteria": "ブロックチェーンの詳細に関する理解について、⑪に示す形で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "暗号理論等を扱うため、線形代数と解析学の基礎を理解している必要があります。数学を味方にすることは、将来の可能性を飛躍的に拡大させるので、これを機会に線形代数と解析学いついてしっかりと学のは良い機会かもしれません。また、資本市場の基本を理解することは、独学が容易ではない分野でもあります。ガッツのある学生の参加を期待します。\n学ぶことは苦行ではなくて、楽しい行為です。楽しみながら学びます。",
+    "teacher_message": "暗号理論等を扱うため、線形代数と解析学の基礎を理解している必要があります。数学を味方にすることは、将来の可能性を飛躍的に拡大させるので、これを機会に線形代数と解析学いついてしっかりと学のは良い機会かもしれません。また、資本市場の基本を理解することは、独学が容易ではない分野でもあります。ガッツのある学生の参加を期待します。\n学ぶことは苦行ではなくて、楽しい行為です。楽しみながら学びます。",
     "schedule": [
         {
-            "session": "1-10",
+            "number": "1-10",
             "content": "ブロックチェーンを設計する。",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "11-20",
+            "number": "11-20",
             "content": "ブロックチェーンを実装する。",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "21−25",
+            "number": "21−25",
             "content": "ブロックチェーンを運用し、評価する。",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "26-30",
+            "number": "26-30",
             "content": "論文に纏める。",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -136,6 +136,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

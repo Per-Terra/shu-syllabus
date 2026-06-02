@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:02:58Z",
+    "fetched_at": "2024-08-08T01:02:58Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600B",
     "course_number": "10SE301、05HS301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,38 +26,38 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "健康運動分野の指導者としてスポーツ科学的知見を高めるために、様々なスポーツ科学に関する知識・技術を身につけることを狙いとする。\n\n【到達目標】\n①専門分野の研究論文を検索し、内容を理解することができる。\n②スポーツ科学の各種測定やデータ処理などが出来るようになる。\n③国内外の研究動向を調べ、卒業論文に関わる研究計画を立案することができる。",
+    "objectives": "健康運動分野の指導者としてスポーツ科学的知見を高めるために、様々なスポーツ科学に関する知識・技術を身につけることを狙いとする。\n\n【到達目標】\n①専門分野の研究論文を検索し、内容を理解することができる。\n②スポーツ科学の各種測定やデータ処理などが出来るようになる。\n③国内外の研究動向を調べ、卒業論文に関わる研究計画を立案することができる。",
     "overview": "各自、国内外のスポーツ科学に関する研究論文の検索し、内容を理解し、レジュメを作成する。\nレジュメをもとに論文抄読会にて発表およびディスカッションを行う。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "レポート30％、研究発表70％とし、総合的に評価する。",
+    "grading_criteria": "レポート30％、研究発表70％とし、総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 70,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 70,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "まず、研究方法を理解するためには、先行研究を調べることから始まります。大切なことは、その論文で何が明らかになったのかを理解することです。さらに得られた知見を、今後どのように自分の専門に活かしていけるかを考える「課題探究能力」の向上を目指します。\nまた、各テーマの予習・復習を毎回60分間実施すること。",
+    "teacher_message": "まず、研究方法を理解するためには、先行研究を調べることから始まります。大切なことは、その論文で何が明らかになったのかを理解することです。さらに得られた知見を、今後どのように自分の専門に活かしていけるかを考える「課題探究能力」の向上を目指します。\nまた、各テーマの予習・復習を毎回60分間実施すること。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション（専門ゼミの説明）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "研究・論文とは",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "文献収集の方法①インターネットから収集",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "文献収集の方法②図書館からの収集・利用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "基礎的論文の抄読①抄録を読む",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "基礎的論文の抄読②本文の構成理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "スポーツ科学雑誌の抄読・内容理解",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "スポーツ科学雑誌の抄読・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "統計解析の基礎",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "データの読み方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "測定器の準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "測定の実践について（屋内）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "測定の実践について（屋外）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "研究における倫理観・インフォームドコンセント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "データの取り扱い方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "測定方法の習得①身体計測、他",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "測定方法の習得②筋力、他",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "測定方法の習得③持久力、他",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -235,9 +235,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "測定方法の習得④平衡性・バランス機能、他",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -245,9 +245,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "研究計画の立案①文献的検証",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -255,9 +255,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "研究計画の立案②測定項目の検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -265,9 +265,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "研究計画の立案③対象者の検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "研究計画の立案④研究期間の検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -285,9 +285,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "実験①測定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "実験②測定値の再現性の検証",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -305,9 +305,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "データ解析①統計処理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "データ解析②グラフ作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -325,9 +325,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "プレゼン資料作成①ポスター作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "プレゼン資料作成②ポスター確認・発表練習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -345,9 +345,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "プレゼンテーション・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -355,6 +355,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

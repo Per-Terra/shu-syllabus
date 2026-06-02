@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-04T06:07:36Z",
+    "fetched_at": "2025-04-04T06:07:36Z",
     "name_ja": "器械運動",
     "name_en": "Gymnastics",
     "syllabus_number": "7003700A",
     "course_number": "21-2-91-21-03",
-    "target_departments_and_courses": [
+    "departments": [
         "ﾋﾞｼﾞﾈｽ戦略学科 ｽﾎﾟｰﾂﾏﾈｼﾞﾒﾝﾄｺｰｽ",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "前田　一篤",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -31,19 +31,19 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 器械・器具を点検し、安全に留意しながら練習や指導を行うことができる。\n2. 器械運動（主にマット・跳び箱）における知識と技術を身につけ、技を円滑に実施できる。\n3. グループ活動において、積極的かつ協働的な姿勢で取り組むことができる。",
+    "objectives": "1. 器械・器具を点検し、安全に留意しながら練習や指導を行うことができる。\n2. 器械運動（主にマット・跳び箱）における知識と技術を身につけ、技を円滑に実施できる。\n3. グループ活動において、積極的かつ協働的な姿勢で取り組むことができる。",
     "overview": "学習指導要領（保健体育編）の体育分野領域の一つ「B 器械運動」は、マット運動、鉄棒運動、平均台運動、跳び箱運動で構成され、器械の特性に応じて多くの「技」に挑戦し、その技ができる楽しさや喜びを味わうことのできる運動である。本授業では主にマット運動及び跳び箱運動に関する知識や技能を修得し、最終的には、それぞれの技を組み合わせた連続技の試技によって、技能の定着を確認する。また、器械運動における各種目の技術を段階的・系統的に学習し修得することを通して、それらの技の補助法・指導法についても学び、実践的な指導技術の修得を目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "中学校学習指導要領　保健体育編",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "文部科学省",
             "publisher": "東山書房",
             "price": 496,
@@ -52,7 +52,7 @@
         },
         {
             "title": "高等学校学習指導要領　保健体育編　体育編",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "文部科学省",
             "publisher": "東山書房",
             "price": 552,
@@ -60,31 +60,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "必要な教材は適宜授業内で配付します",
+        "required_materials": "必要な教材は適宜授業内で配付します",
         "other": "なし"
     },
-    "evaluation_criteria": "1　 器械・器具を点検し、安全に留意して練習や指導が出来るようになる、\n2　 器械運動（主にマット・跳び箱）における知識と技術を身につけ、技が円滑にできるようになる、\n3　 グループ活動を通して、積極的かつ協同的な姿勢で取り組むことが出来るようになる \n以上三点について、⑪に示す方法で評価する。",
+    "grading_criteria": "1　 器械・器具を点検し、安全に留意して練習や指導が出来るようになる、\n2　 器械運動（主にマット・跳び箱）における知識と技術を身につけ、技が円滑にできるようになる、\n3　 グループ活動を通して、積極的かつ協同的な姿勢で取り組むことが出来るようになる \n以上三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教員養成講座の実技科目である為、知識や技能を身につけることはもちろんのこと、学習に対して主体的かつ協働的に取り組む態度を求めます。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "教員養成講座の実技科目である為、知識や技能を身につけることはもちろんのこと、学習に対して主体的かつ協働的に取り組む態度を求めます。\n\n【事前学習・事後学習の時間】あわせて90分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション（本授業の概要，授業の分担決めとグループ分け）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（マット・跳び箱の難易度Aの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（マットの難易度Bの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（跳び箱の難易度Bの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（マットの難易度Cの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（跳び箱の難易度Cの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（マットの難易度Dの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "各種目（マット・跳び箱）に分かれてグループ練習（跳び箱の難易度Dの技術習得）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "マットの既習技の試技",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "跳び箱の既習技の試技",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "マットの連続技の練習",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "跳び箱の連続技の練習",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "試験で発表する連続技の練習",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "連続技の発表会（マット）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "連続技の発表会（跳び箱）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -247,6 +247,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:01Z",
+    "fetched_at": "2025-04-04T05:58:01Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "WEI　DI",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,12 +27,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "従来の中国ビジネスモデルは経済性に重きを置いていましたが、近年では次世代テクノロジーの導入により、ビジネスモデルが大きく変換してきました。\nこのゼミを通じて、\n①経済性と社会性の統合、\n②テクノロジーとイノベーション、\n③キャッシュレス社会の構築、\nという3つの面から、中国の次世代ビジネスモデルを理解することが目標とします。",
+    "objectives": "従来の中国ビジネスモデルは経済性に重きを置いていましたが、近年では次世代テクノロジーの導入により、ビジネスモデルが大きく変換してきました。\nこのゼミを通じて、\n①経済性と社会性の統合、\n②テクノロジーとイノベーション、\n③キャッシュレス社会の構築、\nという3つの面から、中国の次世代ビジネスモデルを理解することが目標とします。",
     "overview": "中国の次世代ビジネスモデルについての深い理解を目指します。具体的には、デジタル経済、AI、フィンテック、グリーンテクノロジーなどの分野に焦点を当てます。また、中国のビジネス環境や政策の最新動向を常に追跡し、ゼミの内容に反映させます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP3",
         "現代経済学科DP4",
         "経営コースDP3",
@@ -42,10 +42,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "中国デジタルイノベーション",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "岡野寿彦",
             "publisher": "日本経済新聞出版社",
             "price": 2500,
@@ -53,27 +53,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "以下の３点に基づいて、評価を行う。\n①文献を精読し、発表を行っているかについての評価\n②グループ内での協力についての評価\n③最終成果物としての発表・レポートについての評価",
+    "grading_criteria": "以下の３点に基づいて、評価を行う。\n①文献を精読し、発表を行っているかについての評価\n②グループ内での協力についての評価\n③最終成果物としての発表・レポートについての評価",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "レジメの作り方・レポートの書き方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "発表の仕方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4～12",
+            "number": "4～12",
             "content": "文献輪読・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "13～14",
+            "number": "13～14",
             "content": "チームによる研究発表準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "進捗状況報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "16～20",
+            "number": "16～20",
             "content": "チームによる研究発表：ディスカッション・改良\n（他大学学生とのゼミ合同発表会に向けて）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "21～29",
+            "number": "21～29",
             "content": "各自の研究テーマの選定・準備\n卒論に向けて研究テーマの調整・発表",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "ゼミ総括",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,6 +164,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

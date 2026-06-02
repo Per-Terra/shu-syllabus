@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:59:14Z",
+    "fetched_at": "2024-08-08T00:59:14Z",
     "name_ja": "地域ゼミⅠ",
     "name_en": "Seminar for Community Revitalization Ⅰ",
     "syllabus_number": "1011700U",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "小林　啓祐",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,37 +27,37 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、周南地域における歴史資源をアピールするポスターを作ることを目的とします。ポスターを作る過程では、まず対象を理解することから始め、さらにはいかにアピールするかについても学んでいきます。歴史を題材としますが、積極的に発信する能力も伸ばしていきます。\n\n【到達目標】\n①歴史事象について的確に情報を収集し、紙媒体にすることができる。\n②周南地域ないしは周防国の歴史事象について理解し、説明することができる",
+    "objectives": "本ゼミでは、周南地域における歴史資源をアピールするポスターを作ることを目的とします。ポスターを作る過程では、まず対象を理解することから始め、さらにはいかにアピールするかについても学んでいきます。歴史を題材としますが、積極的に発信する能力も伸ばしていきます。\n\n【到達目標】\n①歴史事象について的確に情報を収集し、紙媒体にすることができる。\n②周南地域ないしは周防国の歴史事象について理解し、説明することができる",
     "overview": "基本的には講義室や動画で提出課題についてその方法を学び、フィールドワークに出て課題作成という順番で学んでいきます。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "日本史Ⅰ"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "講義内で指示される課題提出をもって評価します。課題解決のためには、必ず現地調査を行うことが必須になりますので、講義時間外での活動必須です。",
+    "grading_criteria": "講義内で指示される課題提出をもって評価します。課題解決のためには、必ず現地調査を行うことが必須になりますので、講義時間外での活動必須です。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "歴史に関する興味があることがまず必須です。また、歴史は教科書だけで学ぶものではなく、地域に必ず存在するものです。インターネットや地域の図書館でそうした歴史を学んでください。講義時間外でも、そういった活動が必須になります。",
+    "teacher_message": "歴史に関する興味があることがまず必須です。また、歴史は教科書だけで学ぶものではなく、地域に必ず存在するものです。インターネットや地域の図書館でそうした歴史を学んでください。講義時間外でも、そういった活動が必須になります。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション　自己紹介\n今後の講義の進め方について学んでいきます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "【歴史上の人物を紹介しよう１】自分が紹介したいと思う歴史上の人物をとりあげ、A4のチラシをつくります。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "【歴史上の人物を紹介しよう２】A4チラシを作り、講義内で発表しあって修正点の指摘をしあいます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "【歴史上の人物を紹介しよう３】A4チラシの最終発表、相互評価を行います",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "【歴史事象を説明しよう１】グループを作り、任意の歴史事象を説明するパンフレットを作ります",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "【歴史事象を説明しよう２】グループで作っているパンフレットを中間報告し、問題点を指摘しあいます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "【歴史事象を説明しよう３】グループで作ったパンフレットを用いてプレゼンを行います",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "【周南地域の歴史資源を掘り起こそう１】個人で周南地域の歴史事象・歴史人物について調べ、A3ポスターを作ります。その構想を練ってもらいます",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "【周南地域の歴史資源を掘り起こそう２】現地調査も含めて、歴史資源の掘り起こしを進めてもらいます。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "【周南地域の歴史資源を掘り起こそう３】制作したポスターを発表し、相互批評を行います。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "【周南地域の歴史資源を掘り起こそう４】ポスター発表を行い、相互批評を行います。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "【周南地域の歴史資源の特徴を見つけよう１】前回作ったポスターをふまえ、ゼミとして周南地域の歴史資源の特徴を見つけ、A2ポスターを作ります。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "【周南地域の歴史資源の特徴を見つけよう2】追加の現地調査を含めて、ポスター作製をグループで行います",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "【周南地域の歴史資源の特徴を見つけよう3】ポスター作製を引き続き行います",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "【周南地域の歴史資源の特徴を見つけよう4】　ポスターを完成させ、発表の準備をします。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

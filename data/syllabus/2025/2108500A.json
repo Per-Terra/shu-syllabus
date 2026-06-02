@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:04:57Z",
+    "fetched_at": "2025-04-04T06:04:57Z",
     "name_ja": "企業概論Ⅱ",
     "name_en": "Introduction to Business EnterprisesⅡ",
     "syllabus_number": "2108500A",
     "course_number": "11-1-27-22-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "百武　仁志",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）経営学の理論を用いて企業を分析できるようになる。\n（２）実際の企業事例を通じて、企業の意思決定過程を理解し説明できるようになる。\n（３）企業の社会的責任（CSR）やソーシャルビジネスの役割を理解し、持続可能な経営について説明できるようになる。",
+    "objectives": "【到達目標】\n（１）経営学の理論を用いて企業を分析できるようになる。\n（２）実際の企業事例を通じて、企業の意思決定過程を理解し説明できるようになる。\n（３）企業の社会的責任（CSR）やソーシャルビジネスの役割を理解し、持続可能な経営について説明できるようになる。",
     "overview": "本講義は現代社会において必要不可欠な組織である企業について、事例を中心に理解するとともに、実際の企業がどのような活動を行っているのかについて理解することができる科目である。具体的には企業を理解するため、企業の構造的特徴の事例、法人としての組織形態の事例、コーポレートガバナンスの事例、経営戦略の事例、中小企業及びベンチャー企業の事例など、企業全般についての事例について理解を深める。本講義を通じて、現代社会における企業の特徴、制度、役割の実際を理解し、自ら企業の分析ができる力を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -43,7 +43,7 @@
     "textbooks": [
         {
             "title": "ケースに学ぶ経営学 第3版",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "東北大学経営学グループ",
             "publisher": "有斐閣",
             "price": 2970,
@@ -51,32 +51,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "企業概論Ⅰ"
         ],
-        "brings": "教科書、パソコン又はタブレット",
+        "required_materials": "教科書、パソコン又はタブレット",
         "other": "経済学部の学生は、「企業概論Ⅰ」及び「企業概論Ⅱ」の両方の単位を修得することで、「企業概論（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "期末レポート60％、授業内のワーク40％で成績を評価する。\n※受講者数が多い場合は、期末試験を実施することがある。\nなお、授業への参加態度により加点または減点する場合がある。",
+    "grading_criteria": "期末レポート60％、授業内のワーク40％で成績を評価する。\n※受講者数が多い場合は、期末試験を実施することがある。\nなお、授業への参加態度により加点または減点する場合がある。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "私たちが暮らす資本主義社会において、企業は重要な経済主体の一つであり、その仕組みを理解することは日常生活にも不可欠です。\n本講義では、企業の基礎知識を学びながら、その特性を理解していきます。\nなお、事前・事後学習を含め、自己学習に2時間程度を確保するようにしてください。\nまた、ゲストスピーカーを招く予定です。",
+    "teacher_message": "私たちが暮らす資本主義社会において、企業は重要な経済主体の一つであり、その仕組みを理解することは日常生活にも不可欠です。\n本講義では、企業の基礎知識を学びながら、その特性を理解していきます。\nなお、事前・事後学習を含め、自己学習に2時間程度を確保するようにしてください。\nまた、ゲストスピーカーを招く予定です。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス・企業概論の学び方\n全体の講義計画などが理解できる。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "企業の誕生\nメルカリの設立と成長事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "環境・組織・戦略\nフォードとGMの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "競争戦略の基本型\n日本マクドナルドとモスバーガーの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "事業のリストラクチャリングと組織改革\nGEの企業革新などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ビジネス・システムの革新とIoT\nコマツのビジネス・システムの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "破壊的技術への対応と新規事業創造\n富士フィルムの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "グローバル戦略\nサムスン電子の統合と適応のジレンマの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "経営理念と組織文化\nリクルート社の起業家精神と組織文化の事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "日本的生産システム\nトヨタ生産方式の事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "成熟市場における商品開発\nサントリーのハイボール・ストロングゼロの開発事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "環境変化のマーケティング活の変革\n良品計画における危機とその克服事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ビジネスの倫理\nJR西日本の新幹線台車亀裂トラブルの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ソーシャル・ビジネス\nアスヘノキボウによる協働のまちづくりの事例などについて学ぶ。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

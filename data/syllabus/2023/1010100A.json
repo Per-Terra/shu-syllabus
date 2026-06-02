@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:57:59Z",
+    "fetched_at": "2024-08-08T00:57:59Z",
     "name_ja": "総合英語入門A（再履修）",
     "name_en": "",
     "syllabus_number": "1010100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "英語は世界で最も広範囲に使われ、最も有効な国際共通語です。この科目は皆さんが高校までに学んだ語彙、文法、構文をかため、さらに日常会話で使用頻度の高い表現を学びながら、コミュニケーションの道具としての総合的な英語運用能力の基礎を築くことを主目的とします。また、学生の皆さんに受験を推奨しているTOEIC Listening & Reading Test（以下TOEIC L&R）のテスト形式に慣れることとテストに頻出する単語・フレーズを覚えることも目標です。\n \n受講後も計画的に学習を続け、卒業時には皆さんがスコア550以上を取得されることを期待します。",
+    "objectives": "英語は世界で最も広範囲に使われ、最も有効な国際共通語です。この科目は皆さんが高校までに学んだ語彙、文法、構文をかため、さらに日常会話で使用頻度の高い表現を学びながら、コミュニケーションの道具としての総合的な英語運用能力の基礎を築くことを主目的とします。また、学生の皆さんに受験を推奨しているTOEIC Listening & Reading Test（以下TOEIC L&R）のテスト形式に慣れることとテストに頻出する単語・フレーズを覚えることも目標です。\n \n受講後も計画的に学習を続け、卒業時には皆さんがスコア550以上を取得されることを期待します。",
     "overview": "テキストに沿ってまず頻出の単熟語や表現を学んで、次に問題タイプ別の解答技術や必須の文法事項を身に付けるための説明を聞いて基礎練習問題を解いていきます。また、副教材のワークで、さらに文法演習を重ねます。\n\n授業には予習・復習をして臨んでください。また、自分のレベルにあった目標設定をして、継続的に語彙学習や聴解・読解の練習に取り組むことも大切です。そして、外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を用意して、授業に持ってきてください。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "BEST PRACTICE FOR THE TOEIC TEST -Basic-",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "吉塚　弘　　Graham Skerritt",
             "publisher": "成美堂",
             "price": 2530,
@@ -46,7 +46,7 @@
         },
         {
             "title": "５分間基本英文法",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "佐藤　誠司",
             "publisher": "南雲堂",
             "price": 770,
@@ -54,28 +54,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "評価割合は「試験」60％、「小テスト」30％、「その他」10％です。「試験」は定期試験期間に実施される期末試験です。「小テスト」は授業中に行う語彙・文法等のクイズやワークシート、課題提出に対する評価、「その他」は学習意欲、取り組みを含む評価となります。",
+    "grading_criteria": "評価割合は「試験」60％、「小テスト」30％、「その他」10％です。「試験」は定期試験期間に実施される期末試験です。「小テスト」は授業中に行う語彙・文法等のクイズやワークシート、課題提出に対する評価、「その他」は学習意欲、取り組みを含む評価となります。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 60,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "授業にきちんと参加し、「わからない」を「わかった」に変えていけるように一緒に頑張りましょう！\n\n\n与えられるのを待つのではなく、「自ら学ぶ」意欲を持ちましょう。自主的かつ継続的に努力を重ねて、目標スコアを達成しましょう。",
+    "teacher_message": "授業にきちんと参加し、「わからない」を「わかった」に変えていけるように一緒に頑張りましょう！\n\n\n与えられるのを待つのではなく、「自ら学ぶ」意欲を持ちましょう。自主的かつ継続的に努力を重ねて、目標スコアを達成しましょう。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション（授業の進め方など）\nMini Test",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "Unit1　\nWarm up\n頻出単語チェック\nGrammar　Review（人称代名詞）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "Unit1\nPart5演習問題\nPart1,2 実践問題\nワークUnit3（疑問詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "Unit1\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "Unit1\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "Unit2　\nWarm up\n頻出単語チェック\nGrammar　Review（不定代名詞）／　Part5演習問題\nークUnit8（文型）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "Unit2\nPart5演習問題\nPart1,2 実践問題\nワークUnit6（さまざまな文）、7（助動詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "Unit2\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "Unit2\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "Unit3　\nWarm up\n頻出単語チェック\nGrammar　Review（再帰代名詞）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "Unit3\nPart5演習問題\nPart1,2 実践問題\nワークUnit8,9（文型）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "Unit3\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "Unit3\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "Unit4 \nWarm up\n頻出単語チェック\nGrammar　Review（現在完了形）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "Unit4\nPart5演習問題\nPart1,2 実践問題\nワークUnit4,5（時制）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "Unit4\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "Unit4\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -260,9 +260,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "Unit5　\nWarm up\n頻出単語チェック\nGrammar　Review（主語と動詞の一致）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -271,9 +271,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "Unit5\nPart5演習問題\nPart1,2 実践問題\nワークUnit1,2（一般動詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -282,9 +282,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "Unit5\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -293,9 +293,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "Unit5\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "Unit6　\nWarm up\n頻出単語チェック\nGrammar　Review（形容詞）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -315,9 +315,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "Unit6\nPart5演習問題\nPart1,2 実践問題\nワークUnit12,13（不定詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -326,9 +326,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "Unit6\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -337,9 +337,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "Unit6\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -348,9 +348,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "Unit7　\nWarm up\n頻出単語チェック\nGrammar　Review（前置詞　時・期間）／　Part5演習問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -359,9 +359,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "Unit7\nPart5演習問題\nPart1,2 実践問題\nワークUnit14（動名詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -370,9 +370,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "Unit7\nPart3,4 長文リスニング演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -381,9 +381,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "Unit7\nPart6,7 長文読解問題演習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -392,9 +392,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "Unit1～7復習\n試験対策",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -403,6 +403,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

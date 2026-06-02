@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:58:12Z",
+    "fetched_at": "2025-04-07T10:58:12Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700SA",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "岡井　理香",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,12 +28,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、専門ゼミⅠでの活動内容をさらに深める。達成する目標は以下の3点である。\n\n１）専門ゼミⅠで設定した「学術的問い」に対する研究・調査・実験を行う。\n２）上記の結果を分析し、卒業論文にまとめる。\n３）卒業論文のプレゼンテーションを行う。",
+    "objectives": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、専門ゼミⅠでの活動内容をさらに深める。達成する目標は以下の3点である。\n\n１）専門ゼミⅠで設定した「学術的問い」に対する研究・調査・実験を行う。\n２）上記の結果を分析し、卒業論文にまとめる。\n３）卒業論文のプレゼンテーションを行う。",
     "overview": "卒論の提出に向けて、ゼミ生一人ひとりの進捗状況と希望に応じた個別ゼミを基本的な授業形式とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -51,28 +51,28 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "卒論への取り組み状況、および卒業論文を総合的に評価する。",
+    "grading_criteria": "卒論への取り組み状況、および卒業論文を総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス・オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "研究計画書の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "執筆①（目的）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "執筆②（方法）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "結果の分析",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "執筆③（結果）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "執筆④（考察）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "執筆⑤（まとめ・結論）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "執筆⑥（ブラシュアップ）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "プレゼンテーション（資料作成）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "プレゼンテーション（発表練習）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "プレゼンテーション（ブラシュアップ）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "発表会（準備）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "発表会（実践・質疑応答）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "発表会（まとめ）",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -232,6 +232,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
+    "credit_auditing": true,
+    "practitioner_info": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
 }

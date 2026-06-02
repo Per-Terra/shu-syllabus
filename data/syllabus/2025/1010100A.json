@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T05:55:46Z",
+    "fetched_at": "2025-04-04T05:55:46Z",
     "name_ja": "総合英語入門A（再履修）",
     "name_en": "Comprehensive English for Beginners A (Retakers)",
     "syllabus_number": "1010100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "田中　数恵",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "①繰り返しや言い換えがあれば、平易な短い英語を理解できる。\n②平易な英語で書かれた短いEメールなどの英文を読んで大意を理解できる。\n③基礎レベルの語彙・構文を使って、日常生活について短い英文を話したり書いたりできる。",
+    "objectives": "①繰り返しや言い換えがあれば、平易な短い英語を理解できる。\n②平易な英語で書かれた短いEメールなどの英文を読んで大意を理解できる。\n③基礎レベルの語彙・構文を使って、日常生活について短い英文を話したり書いたりできる。",
     "overview": "主教材のテキスト『English Day!』に沿ってまず語彙・表現を学び、モデル会話を聞いたり話したりする練習でそれらの定着をはかります。次に、ターゲットになる文法事項を学び、それを含む短い英文を読んだり書いたりしながら練習します。各ユニットの一連の学習は、私たちが日常生活の中でよく出合うような場面・トピックに関連する内容になっています。ひとつのUnitの学習の中盤と完了時に、小テストとReview Quizで習った事項の理解度を測ります。\nまた、適宜副教材のテキスト『Best Practice for the TOEIC L&R Test Basic』を使って、職場・旅行・買い物など誰もが日常生活で遭遇するような場面のコミュニケーションで使われる実用的な英語を、TOEIC形式の易しい練習問題で学びます。\n外国語学習に辞書は欠かせません。用例・成句・語法等の説明が豊富な英語辞典（紙の辞書も電子辞書も可）を用意してください。\nなお、この科目の授業は原則オンデマンドで実施しますが、初回と最終回の授業は対面で行います。対面授業の日時・場所については追ってC-learningとTeamsチャットで連絡します。\n\n※初回の対面授業について\n4月16日（水）2時限、本館6階の田中研究室で行います。教科書・筆記用具・ノートパソコンを持って、10時40分に来てください。「総合英語入門（再履修）」の履修登録者には、この日程について改めて個人宛てのC-learningメールとTeamsチャットで連絡します。この日程で都合が悪い人は、必ず初回授業日までに担当者・田中まで連絡してください。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "English Day!",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "Robert Hickling",
             "publisher": "金星堂",
             "price": 2200,
@@ -46,7 +46,7 @@
         },
         {
             "title": "Best Practice for the TOEIC L&R Test Basic TESTUDY Edition",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "吉塚弘、Graham Skerritt",
             "publisher": "成美堂",
             "price": 2750,
@@ -54,32 +54,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、ノート、筆記用具、辞書",
+        "required_materials": "教科書、ノート、筆記用具、辞書",
         "other": "第1回と第30回の講義は対面で実施します（日時・場所は追ってC-learningとTeamsチャットで連絡）。オンデマンドで実施する授業日の出席は、小テスト・小課題の提出で確認します。小テストや課題など平常の授業で行う活動を基にする評価が半分を占めますので、提出遅れをしないよう注意しましょう。　※初回の対面授業について　4月16日（水）2時限、本館6階の田中研究室で行います。教科書・筆記用具・ノートパソコンを持って、10時40分に来てください。「総合英語入門（再履修）」の履修登録者には、この日程について改めて個人宛てのC-learningメールとTeamsチャットで連絡します。この日程で都合が悪い人は、必ず初回授業日までに担当者・田中まで連絡してください。"
     },
-    "evaluation_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや英作文課題、授業活動への参加態度、英語学習への日常的な関わり・意欲などを含みます。詳細については第1回目の授業（対面で実施）で説明します。",
+    "grading_criteria": "基本語彙・表現・文法の習得と短い英文・会話文の理解力を、「学生に対する評価」にある通り評価します。評価基準の「その他」は、ワークシートや英作文課題、授業活動への参加態度、英語学習への日常的な関わり・意欲などを含みます。詳細については第1回目の授業（対面で実施）で説明します。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 25,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 25
+        "exam": 50,
+        "quiz": 25,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 25
     },
-    "message_from_teachers": "効果的な学習のため教科書は必ず書き込みのないものを準備してください。予習は原則として必要ありませんが、学習したことの定着を図るために復習はしっかりやってください。\n\n授業計画は進捗などにより変更する場合があります。\n\n初回と最終回の授業は対面で行いますので、注意してください。\n\n※初回の対面授業について\n4月16日（水）2時限に、本館6階の田中研究室で行います。教科書・筆記用具・ノートパソコンを持って、10時40分に来てください。「総合英語入門（再履修）」の履修登録者には、この日程について改めて個人宛てのC-learningメールとTeamsチャットで連絡します。この日程で都合が悪い人は、必ず初回授業日までに担当者・田中まで連絡してください。\n\n【予習・復習について】\n重要単熟語や文法事項の復習と、聴解・読解問題の復習をしてください。教科書と付録の音声教材を使って習った英文の音読をしたり、教科書を離れて図書館の英語絵本を読んだりして、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 3～4時間）\n\n【オフィスアワー】\n原則として木曜日2限、これ以外の曜日・時間帯でも可能であれば対応します。\n面談希望の人は、事前にTeamsチャットかC-learningメールで連絡の上お越しください。\n　田中数恵　tanakak@shunan-u.ac.jp　研究室：本館６階609",
+    "teacher_message": "効果的な学習のため教科書は必ず書き込みのないものを準備してください。予習は原則として必要ありませんが、学習したことの定着を図るために復習はしっかりやってください。\n\n授業計画は進捗などにより変更する場合があります。\n\n初回と最終回の授業は対面で行いますので、注意してください。\n\n※初回の対面授業について\n4月16日（水）2時限に、本館6階の田中研究室で行います。教科書・筆記用具・ノートパソコンを持って、10時40分に来てください。「総合英語入門（再履修）」の履修登録者には、この日程について改めて個人宛てのC-learningメールとTeamsチャットで連絡します。この日程で都合が悪い人は、必ず初回授業日までに担当者・田中まで連絡してください。\n\n【予習・復習について】\n重要単熟語や文法事項の復習と、聴解・読解問題の復習をしてください。教科書と付録の音声教材を使って習った英文の音読をしたり、教科書を離れて図書館の英語絵本を読んだりして、毎日30分以上英語に触れるよう心がけましょう。\n（事前事後学修時間の目安 3～4時間）\n\n【オフィスアワー】\n原則として木曜日2限、これ以外の曜日・時間帯でも可能であれば対応します。\n面談希望の人は、事前にTeamsチャットかC-learningメールで連絡の上お越しください。\n　田中数恵　tanakak@shunan-u.ac.jp　研究室：本館６階609",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の進め方・評価方法・英語多読について\n※対面で実施する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "Unit 1: Getting Up\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "Unit 1: Getting Up\n文法（現在時制　BE動詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -110,9 +110,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "Unit 1: Getting Up\n【Unit 1 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "Unit 1: Getting Up\n【Unit 1 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "Unit 2: Breakfast Time\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Unit 2: Breakfast Time\n文法（現在時制　一般動詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "Unit 2: Breakfast Time\n【Unit 2 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "Unit 2: Breakfast Time\n【Unit 2 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "Unit 3: Getting Ready for School\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "Unit 3: Getting Ready for School\n文法（名詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "Unit 3: Getting Ready for School\n【Unit 3 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "Unit 3: Getting Ready for School\n【Unit 3 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習③",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -220,9 +220,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Unit 4: First Class of the Day\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Unit 4: First Class of the Day\n文法（代名詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "Unit 4: First Class of the Day\n【Unit 4 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -253,9 +253,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "Unit 4: First Class of the Day\n【Unit 4 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習④\t講義【オンデマンド】",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "Unit 5: Lunchtime\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -275,9 +275,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "Unit 5: Lunchtime\n文法（前置詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -286,9 +286,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "Unit 5: Lunchtime\n【Unit 5 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -297,9 +297,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "Unit 5: Lunchtime\n【Unit 5 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習⑤",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -308,9 +308,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "Unit 6: Shopping\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -319,9 +319,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "Unit 6: Shopping\n文法（WH疑問文）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -330,9 +330,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "Unit 6: Shopping\n【Unit 6 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -341,9 +341,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "Unit 6: Shopping\n【Unit 6 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習⑥",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "Unit 7: Getting Lost\n語彙・表現・会話",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -363,9 +363,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "Unit 7: Getting Lost\n文法（過去時制　BE動詞と一般動詞）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -374,9 +374,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "Unit 7: Getting Lost\n【Unit 7 小テスト】語彙・会話・文法\n読解・作文",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -385,9 +385,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "Unit 7: Getting Lost\n【Unit 7 REVIEW QUIZ】語彙・会話・文法\n【副教材】TOEIC Listening & Reading Test 基本練習⑦",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -396,9 +396,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総復習　期末試験について　オンライン授業評価\n※対面で実施する",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -407,6 +407,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

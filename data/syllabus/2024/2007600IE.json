@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-07T10:57:01Z",
+    "fetched_at": "2025-04-07T10:57:01Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Specialized Seminar 1",
     "syllabus_number": "2007600IE",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "木島　正明",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "酒井　徹也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -30,39 +30,39 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．情報科学の理論と技術を駆使して、高次元データを収集・処理するための知識と能力の獲得。\n２．実データを効率的に処理するためのプログラミング能力の獲得。\n３．多様化・複雑化した情報社会における課題に対して、最適なソリューションを導く能力の獲得。",
+    "objectives": "１．情報科学の理論と技術を駆使して、高次元データを収集・処理するための知識と能力の獲得。\n２．実データを効率的に処理するためのプログラミング能力の獲得。\n３．多様化・複雑化した情報社会における課題に対して、最適なソリューションを導く能力の獲得。",
     "overview": "専門ゼミは卒業論文を作成するための準備として位置付けられ、担当教員の指導の下、文献検索や論文・専門書の輪読、実データの分析や必要なプログラミングについて学ぶ。専門ゼミ１では、受講生は興味を持った研究トピックに関連する論文・専門書を読み、ディスカッションを通して卒業論文の執筆につながる基礎知識やスキルを習得する。加えて、実社会での実装例を学びながら、それらの\n重要性と社会的な必要性を理解する。文献講読では、①要点、②評価、③語句説明等を含めたレジュメを作成し報告を行う。報告者以外の受講生もディスカッションに参加し、質問や意見を述べて理解を深める。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "必携パソコン",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "必携パソコン",
         "other": ""
     },
-    "evaluation_criteria": "各回の報告の内容、ディスカッションへの参加\n各回の報告：60％\nディスカッションへの参加：40％",
+    "grading_criteria": "各回の報告の内容、ディスカッションへの参加\n各回の報告：60％\nディスカッションへの参加：40％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "大学での学びの集大成である卒業論文の執筆に向けて、自らの興味・関心・問題意識に基づいてテーマを設定し研究計画を立案します。主体的・自律的な取組みを期待します。\n\n【予復習】2時間（報告の準備と振り返り）",
+    "teacher_message": "大学での学びの集大成である卒業論文の執筆に向けて、自らの興味・関心・問題意識に基づいてテーマを設定し研究計画を立案します。主体的・自律的な取組みを期待します。\n\n【予復習】2時間（報告の準備と振り返り）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "前期、文献研究テーマの設定、文献検索",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "共通の文献1の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "共通の文献1の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "共通の文献1の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "共通の文献1の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "共通の文献1の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "共通の文献１のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "共通の文献2の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "共通の文献2の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "共通の文献2の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "共通の文献2の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "共通の文献2の輪読",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "共通の文献2のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "後期オリエンテーション、個別テーマ設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "個別の文献１の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -247,9 +247,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "個別の文献１の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -258,9 +258,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "個別の文献１の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -269,9 +269,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "個別の文献2の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -280,9 +280,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "個別の文献2の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -291,9 +291,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "個別の文献2の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -302,9 +302,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "後期前半のまとめ、後半個別のテーマ設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -313,9 +313,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "個別の文献3の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "個別の文献3の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -335,9 +335,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "個別の文献3の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -346,9 +346,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "個別の文献4の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -357,9 +357,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "個別の文献4の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -368,9 +368,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "個別の文献4の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -379,9 +379,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総括：　1年間のまとめと振り返り",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -390,6 +390,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

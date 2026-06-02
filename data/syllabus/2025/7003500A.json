@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:07:35Z",
+    "fetched_at": "2025-04-04T06:07:35Z",
     "name_ja": "職業指導Ⅱ",
     "name_en": "Guidance for Profession II",
     "syllabus_number": "7003500A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "坂本　勲",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）広範囲な業界・職種についての知識がある。\n（２）職業選択のための企業分析の方法を習得している。\n（３）ビジネス文書、マナー、試験対策について指導ができる。",
+    "objectives": "【到達目標】\n（１）広範囲な業界・職種についての知識がある。\n（２）職業選択のための企業分析の方法を習得している。\n（３）ビジネス文書、マナー、試験対策について指導ができる。",
     "overview": "具体的に進路指導を行う際に必要な業界・職種等の知識と就職試験で必要なビジネスマナー、グループディスカッション、面接等の対策についての指導の方法を学ぶ講義である。本講義で学ぶ項目は、①高等学校の就職指導、進学指導の内容、②業界・職種研究、③企業研究と分析方法、④ビジネスマナー、⑤グループディスカッション対策、⑥グループ面接対策、⑦筆記試験対策、⑧グループディスカッション・面接ロールプレイング演習である。本講義を受講することにより、高等学校等にて進路指導を行う際の学生への具体的な指導の方法や内容について理解を深めることができ、実践的な進路指導を行う能力が身につく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -40,32 +40,32 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "職業指導Ⅰ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "・広範囲な業界・職種についての知識の習得、職業選択のための企業分析の方法の習得、ビジネス文書、マナー、試験対策について指導力の習得です。",
+    "grading_criteria": "・広範囲な業界・職種についての知識の習得、職業選択のための企業分析の方法の習得、ビジネス文書、マナー、試験対策について指導力の習得です。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 40,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 40,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "教員として進路指導を行うためには業界や職種の広範囲な知識や就活で必要なビジネス・マナー、筆記試験、面接試験等に対する知識が必要です。この授業を通して進路指導を行うための広い知識と実践力を身につけてください。",
+    "teacher_message": "教員として進路指導を行うためには業界や職種の広範囲な知識や就活で必要なビジネス・マナー、筆記試験、面接試験等に対する知識が必要です。この授業を通して進路指導を行うための広い知識と実践力を身につけてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、進路指導のポイントと流れ、高校生の就職指導",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "高校生の進学指導\n自己分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "課題発表\n業界研究",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "業界研究",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "職種研究",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "企業研究",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "企業分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ビジネス・マナー\nES、履歴書",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ビジネス・マナー\n挨拶、身だしなみ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "業界・企業研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "業界・企業研究発表",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "グループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "グループディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "筆記試験について\n面接試験対策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -203,9 +203,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "面接試験対策\n総まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -213,6 +213,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴\n【職歴】\n・1982年～1987年、丸三証券会社にて株式市場課（日本株式トレーディング業務）、外国部（外国人機関投資家に対する日本株式・債券の推奨業務）等\n・1987年～1995年、ベアリング証券会社東京支店（職名：シニアートレーダー）にて日本株式、債券等のトレーディング業務、外国人機関投資家、ヘッジファンドに対する日本株式、債券等の推奨、注文の受託等"
 }

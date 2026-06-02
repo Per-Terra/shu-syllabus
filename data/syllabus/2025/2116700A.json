@@ -1,44 +1,44 @@
 {
-    "_fetched_at": "2025-04-04T06:05:48Z",
+    "fetched_at": "2025-04-04T06:05:48Z",
     "name_ja": "看護過程",
     "name_en": "Nursing Process",
     "syllabus_number": "2116700A",
     "course_number": "22-2-22-22-03",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "堂本　司",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "磯濱　真理子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "上野　和美",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "杉本　吉恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "藤井　宝恵",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "福森　絢子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -46,12 +46,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．看護過程の概要や構成要素を説明することができる。\n２．看護に必要な情報収集をすることができる。\n３．ニーズの充足・未充足の視点から情報を分析し、全体像を記述することができる。\n４．情報の分析結果に基づいて、看護問題を明確化することができる。\n５．明確化した看護問題に対して、個別性を考慮した看護計画を立案することができる。\n６．立案した看護計画を実施・評価し、修正することができる。",
+    "objectives": "１．看護過程の概要や構成要素を説明することができる。\n２．看護に必要な情報収集をすることができる。\n３．ニーズの充足・未充足の視点から情報を分析し、全体像を記述することができる。\n４．情報の分析結果に基づいて、看護問題を明確化することができる。\n５．明確化した看護問題に対して、個別性を考慮した看護計画を立案することができる。\n６．立案した看護計画を実施・評価し、修正することができる。",
     "overview": "本授業は、看護過程の意義や目的について理解し、対象者の全体像や看護問題を明確にし、問題解決に向けた看護過程の一連のプロセスの修得を目的とする。本授業では、紙上事例を用いてヘンダーソンの看護理論を活用し、展開の思考プロセスを理解する。本授業を通して、今後の実習に向けて、看護過程を展開するための基礎となる能力を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP2",
         "看護学科DP3",
         "看護学科DP4"
@@ -59,7 +59,7 @@
     "textbooks": [
         {
             "title": "系統看護学 専門分野 基礎看護学[2] 基礎看護技術Ⅰ 第19版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "茂野　香おる",
             "publisher": "医学書院",
             "price": 2970,
@@ -68,7 +68,7 @@
         },
         {
             "title": "看護過程を使ったヘンダーソン看護論の実践 第５版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "秋葉 公子",
             "publisher": "ヌーヴェルヒロカワ",
             "price": 2860,
@@ -77,7 +77,7 @@
         },
         {
             "title": "看護診断ハンドブック 第12版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "黒江ゆり子/リンダ J.カルペニート",
             "publisher": "医学書院",
             "price": 4400,
@@ -85,10 +85,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "病期・病態・重症度からみた疾患別看護過程 第４版",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "井上 智子・窪田 哲朗",
             "publisher": "医学書院",
             "price": 7700,
@@ -96,31 +96,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "看護学概論"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、ノートパソコンまたはタブレット端末",
+        "required_materials": "教科書、ノートパソコンまたはタブレット端末",
         "other": "本科目は、基礎看護実習Ⅱまでの単位取得見込みが望ましい。"
     },
-    "evaluation_criteria": "個人の課題提出物70％、筆記試験30％で総合的に評価する。\n成績の総合評価は、100点満点で60点以上を合格とし、60点未満を不合格とする。ただし、筆記試験は得点率が60％未満の場合は、不合格とする。",
+    "grading_criteria": "個人の課題提出物70％、筆記試験30％で総合的に評価する。\n成績の総合評価は、100点満点で60点以上を合格とし、60点未満を不合格とする。ただし、筆記試験は得点率が60％未満の場合は、不合格とする。",
     "evaluation_ratio": {
-        "試験": 30,
-        "小テスト": 0,
-        "レポート": 70,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 30,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "授業時間以外に予習・復習として、それぞれ２時間、費やしてください。",
+    "teacher_message": "授業時間以外に予習・復習として、それぞれ２時間、費やしてください。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "看護過程の概要　構成要素／ヘンダーソンの看護理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "アセスメント①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "アセスメント②　個人ワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "全体像①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "全体像②　個人ワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "アセスメント・全体像③ グループワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "看護問題の明確化①　看護診断",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "看護問題の明確化②　看護診断 個人ワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "看護計画の立案①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "看護計画の立案②　個人ワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -248,9 +248,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "看護問題の明確化・看護計画の立案③　グループワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アセスメント・全体像・看護計画の共有",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "計画の実施",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -290,9 +290,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実施評価・計画修正 グループワーク",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "教員からのフィードバック／まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -316,6 +316,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "看護師として病院での勤務経験のある教員が、その実務経験を生かし、看護過程を教授する。"
+    "credit_auditing": false,
+    "practitioner_info": "看護師として病院での勤務経験のある教員が、その実務経験を生かし、看護過程を教授する。"
 }

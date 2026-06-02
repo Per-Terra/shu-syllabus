@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:07:04Z",
+    "fetched_at": "2025-04-07T11:07:04Z",
     "name_ja": "コミュニケーション論",
     "name_en": "Nursing Communicatio",
     "syllabus_number": "2116300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "杉本　吉恵",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,19 +27,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．コミュニケーションとは何か、その意義や目的について説明できる。 \n２．効果的なコミュニケーションに必要な基本的態度・行動について説明できる。 \n３．言語的コミュニケーションと非言語的コミュニケーションについて説明できる。 \n４．傾聴や共感の技術について説明できる。 \n５．情報収集や説明の技術について説明できる。 \n６．アサーティブネスの意義、アサーティブ行動について説明できる。 \n７．保健医療チームにおける看護師の役割とコミュニケーションについて説明できる。 \n８．患者・医療者関係、患者・看護師関係について説明できる。 \n９．授業を通して、自己のコミュニケーションの傾向と課題を説明できる",
+    "objectives": "１．コミュニケーションとは何か、その意義や目的について説明できる。 \n２．効果的なコミュニケーションに必要な基本的態度・行動について説明できる。 \n３．言語的コミュニケーションと非言語的コミュニケーションについて説明できる。 \n４．傾聴や共感の技術について説明できる。 \n５．情報収集や説明の技術について説明できる。 \n６．アサーティブネスの意義、アサーティブ行動について説明できる。 \n７．保健医療チームにおける看護師の役割とコミュニケーションについて説明できる。 \n８．患者・医療者関係、患者・看護師関係について説明できる。 \n９．授業を通して、自己のコミュニケーションの傾向と課題を説明できる",
     "overview": "よりよい看護を実践するためには、患者との良好な人間関係の構築が前提となる。そのため、この科目では患者との人間関係の構築に必要な看護師のコミュニケーションの基本技術を学ぶ。効果的なコミュニケーションに必要な基本的態度・行動、言語的コミュニケーションと非言語的コミュニケーション、傾聴や共感の技術、情報収集や説明の技術、アサーティブ行動、保健医療チームにおける看護師の役割とコミュニケーション、患者・医療者関係、患者・看護師関係について具体的に学ぶ。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP3",
         "看護学科DP5"
     ],
     "textbooks": [
         {
             "title": "系統看護学講座　基礎分野　人間関係論",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "医学書院",
             "price": null,
@@ -48,7 +48,7 @@
         },
         {
             "title": "系統看護学講座　基礎看護学２　基礎看護技術Ⅰ",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "医学書院",
             "price": null,
@@ -56,10 +56,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "メディカルスタッフのための基礎からわかる人間関係論",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "南山堂",
             "price": null,
@@ -68,7 +68,7 @@
         },
         {
             "title": "【看護実践能力向上シリーズ】患者のこころによりそう看護コミュニケーション（全4巻）",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "JSP　東京サウンド・プロダクション",
             "price": null,
@@ -76,29 +76,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [],
-        "brings": "教科書、ノートパソコンまたはタブレット端末",
+        "recommended": [],
+        "required_materials": "教科書、ノートパソコンまたはタブレット端末",
         "other": "授業ではグループワークを実施するので、積極的に参加すること。本科目は、基礎看護実習Ⅰを受講するにあたり先行要件の科目となります。"
     },
-    "evaluation_criteria": "授業の到達目標の達成度で評価する。",
+    "grading_criteria": "授業の到達目標の達成度で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この授業を通してコミュニケーションの基本を学び、学生生活の中で学生や教員とのコミュニケーションで活用しましょう。学ぶことは変わることとも言われています。履修後には日常の生活の中で意識して効果的なコミュニケーションを実践できるようにしていきましょう。 \n予習復習の時間は、2時間必要となります。 \n\n【オフィスアワー】\n講義のある曜日　不在時はC-learingの相談機能で受け付けます。",
+    "teacher_message": "この授業を通してコミュニケーションの基本を学び、学生生活の中で学生や教員とのコミュニケーションで活用しましょう。学ぶことは変わることとも言われています。履修後には日常の生活の中で意識して効果的なコミュニケーションを実践できるようにしていきましょう。 \n予習復習の時間は、2時間必要となります。 \n\n【オフィスアワー】\n講義のある曜日　不在時はC-learingの相談機能で受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "コミュニケーションの意義と目的 \nコミュニケーションの構成要素",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "コミュニケーションの基本的態度・行動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "言語的コミュニケーションと非言語的コミュニケーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "効果的なコミュニケーションスキル：傾聴・共感の技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "効果的なコミュニケーションスキル：情報収集・説明の技術",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "アサーティブネスの意義、アサーティブ行動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "保健医療チームにおける看護師の役割とコミュニケーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "患者を支える人間関係　 \n自己のコミュニケーションの課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,6 +176,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "看護師としての臨床経験を踏まえて、医療・看護におけるコミュニケーションについて、わかりやすく教授する。"
+    "credit_auditing": false,
+    "practitioner_info": "看護師としての臨床経験を踏まえて、医療・看護におけるコミュニケーションについて、わかりやすく教授する。"
 }

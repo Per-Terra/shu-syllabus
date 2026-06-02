@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:06:44Z",
+    "fetched_at": "2025-04-04T06:06:44Z",
     "name_ja": "ケアマネジメント論",
     "name_en": "Theory of Care management",
     "syllabus_number": "2125500A",
     "course_number": "23-2-24-22-04",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ソーシャルワークの支援技術の1つである「ケアマネジメント」について概説し、受講者が概念的に理解していること,\nそして支援を実践する際の留意点を理解できるよう、授業を展開していく。\n\n\n【到達目標】\n①地域自立生活を支える技法としてのケアマネジメントを説明することができる。\n②ケアマネジメントの支援過程を展開できる\n③コーディネーション、社会資源開発、多職種・多業種連携の方法を説明することができる。",
+    "objectives": "ソーシャルワークの支援技術の1つである「ケアマネジメント」について概説し、受講者が概念的に理解していること,\nそして支援を実践する際の留意点を理解できるよう、授業を展開していく。\n\n\n【到達目標】\n①地域自立生活を支える技法としてのケアマネジメントを説明することができる。\n②ケアマネジメントの支援過程を展開できる\n③コーディネーション、社会資源開発、多職種・多業種連携の方法を説明することができる。",
     "overview": "本科目は、ケアマネジメントの基本理論や目的を理解し、現在のソーシャルワークの技法として多く活用されるケアマネジメントの実践的な方法を学ぶことである。\n　具体的には、地域において生活する利用者が持つ潜在的能力を引き出して自立支援を行うケアマネジメントの、インテークから終結までのプロセスを解説し、それぞれの段階においてのポイント・留意事項を考え実践に反映できるようにする。特にケアマネジメントにおけるコーディネーション、社会資源開発、多職種・多業種連携については介護保険制度における事例を通じて理解を促進する。\n　この授業を通して①地域自立生活を支える技法としてのケアマネジメントを理解し、②ケアマネジメントの支援過程を展開できる力、具体的にはコーディネーション、社会資源開発、多職種・多業種連携を行う力を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP3"
     ],
     "textbooks": [
         {
             "title": "ケアマネジメント論－わかりやすい基礎理論と幅広い事例から学ぶ",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "白澤政和",
             "publisher": "ミネルヴァ書房",
             "price": 3080,
@@ -45,28 +45,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①地域自立生活を支える技法としてのケアマネジメントを理解できる\n②ケアマネジメントの支援過程を展開できる\n③コーディネーション、社会資源開発、多職種・多業種連携の方法を理解できる\n上記の①～③を次の方法で評価する。",
+    "grading_criteria": "①地域自立生活を支える技法としてのケアマネジメントを理解できる\n②ケアマネジメントの支援過程を展開できる\n③コーディネーション、社会資源開発、多職種・多業種連携の方法を理解できる\n上記の①～③を次の方法で評価する。",
     "evaluation_ratio": {
-        "試験": 40,
-        "小テスト": 0,
-        "レポート": 60,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 40,
+        "quiz": 0,
+        "report": 60,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "ケアマネジメントは、現代のソーシャルワークの理念である自立支援を達成する重要な技術となっています。ほかのソーシャルワーク技術とどのように関係しているかを考えながら授業へ参加してください。\n\n授業に参加するにあたっては「授業の内容」を参照し、教科書の該当ページを通読しておくこと（予習120分程度）、授業終了後には、授業で行った箇所の再読及び資料の再確認を行い、知識を定着させてください（復習120分程度）。\n\n【オフィスアワー】\n講義のある曜日",
+    "teacher_message": "ケアマネジメントは、現代のソーシャルワークの理念である自立支援を達成する重要な技術となっています。ほかのソーシャルワーク技術とどのように関係しているかを考えながら授業へ参加してください。\n\n授業に参加するにあたっては「授業の内容」を参照し、教科書の該当ページを通読しておくこと（予習120分程度）、授業終了後には、授業で行った箇所の再読及び資料の再確認を行い、知識を定着させてください（復習120分程度）。\n\n【オフィスアワー】\n講義のある曜日",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業の進め方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ケアマネジメントとは何か①ケアマネジメントの定義、ケアマネジメントの目的と焦点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ケアマネジメントとは何か②ケアマネジメントとソーシャルワークの関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ケアマネジメントとは何か③ケアマネジメントの構造、ケアマネジメントの実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ケアマネジメントの方法①ケアマネジメントの過程",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ケアマネジメントの方法②生活ニーズと社会資源",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "地域におけるケアマネジメントの実際①　外部講師：地域包括支援センター職員",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ケアマネジメントと地域①地域包括ケアシステムとケアマネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ケアマネジメントと地域②地域にある社会資源の活用方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ケアマネジメントと地域③ケアマネジメントと行政計画",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "地域におけるケアマネジメントの実際②　外部講師：基幹形相談支援センター職員",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "対象者別ケアマネジメントの実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "在宅生活支援におけるケアマネジメントの実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "福祉施設におけるケアマネジメントの実際",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "ケアマネジメント論まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,6 +214,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

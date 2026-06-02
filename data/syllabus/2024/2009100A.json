@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:58:33Z",
+    "fetched_at": "2025-04-07T10:58:33Z",
     "name_ja": "3DCG制作演習",
     "name_en": "Practice of 3D",
     "syllabus_number": "2009100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "久保　俊介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,42 +28,42 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ、問題解決能力を持った人材の育成を意図した授業です。\n3DCGの基本知識と技術の習得、またその技術を使って応用する力、最適解を導き出す判断力を養います。",
+    "objectives": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ、問題解決能力を持った人材の育成を意図した授業です。\n3DCGの基本知識と技術の習得、またその技術を使って応用する力、最適解を導き出す判断力を養います。",
     "overview": "3D表現手法で身に付けた3DCGの基本的な技術を使って、実写合成、アニメ、グラフィック、プロダクトなど\n様々な用途に応用する技術を学びます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "CG入門Ⅰ",
             "CG入門Ⅱ",
             "３D表現手法"
         ],
-        "recommended_courses": [],
-        "brings": "USBフラッシュメモリ（データ保存用）",
+        "recommended": [],
+        "required_materials": "USBフラッシュメモリ（データ保存用）",
         "other": ""
     },
-    "evaluation_criteria": "①制作工程の理解②3次元的な動きの理解③CGアニメーション制作課題",
+    "grading_criteria": "①制作工程の理解②3次元的な動きの理解③CGアニメーション制作課題",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "",
+    "teacher_message": "",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -71,9 +71,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ローポリモデルの制作",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "マテリアル",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "キャラクターアニメーションの基本",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "キャラクターアニメーション：アーマチュア①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "キャラクターアニメーション：アーマチュア②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "キャラクターアニメーション：アーマチュア③",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "キャラクターアニメーション：FK",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "キャラクターアニメーション：歩き",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャラクターアニメーション：IK",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "キャラクターアニメーション：階段",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "制作手順ライティング、レンダリング手法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "アニメーション課題ラジオ体操",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実写合成：動画合成",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -213,9 +213,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "講評",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -224,6 +224,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
 }

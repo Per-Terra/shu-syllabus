@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:03:00Z",
+    "fetched_at": "2024-08-08T01:03:00Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600C",
     "course_number": "10SE301、05HS301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "必修科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "なかはらかぜ",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,39 +26,39 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "カリキュラムポリシーにあるところの、コンテンツビジネス業界の中で実践として使える創造性とスキルを身につけ、プロとしてビジネス の現場で即戦力として活躍できる力を育てます。\n一般企業や会社において必要なクリエイティブな資質を育てます。",
+    "objectives": "カリキュラムポリシーにあるところの、コンテンツビジネス業界の中で実践として使える創造性とスキルを身につけ、プロとしてビジネス の現場で即戦力として活躍できる力を育てます。\n一般企業や会社において必要なクリエイティブな資質を育てます。",
     "overview": "創作活動、実技中心の授業です。\nマンガ、イラストレーション、それらを使ったデザインワークなどを制作します。プロとして通用する実力を養うために、個別にその学生の実力にあった指導をします。\nデッサン、クロッキーなどの基礎能力をたかめる課題をさせることもあります。\n絵本・小説・文藝・ノベルズについても投稿作品を制作します。。\n実力にあわせて、商業誌の編集部へ作品を持ち込み、直接担当編集者に講評してもらいます。\nまた、地域で企画開催されるマンガやイラストなどの中心のイベントに積極的に参加、コラボレーションし、不特定多数の人たちに見られ ることにより実力とスキルアップを目指します。\nゼミの時間は各自の作品の進捗状況チェックやアドバイスをうける時間です。 ゼミ以外の時間にどれだけ自主的に創作活動できるかがプロへの近道だと考えています。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "地域貢献に関する意識の醸成"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "作画用教材",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "作画用教材",
         "other": ""
     },
-    "evaluation_criteria": "1.プロの漫画家や映画監督、東京の漫画編集部による講評会を企画し参加します。  10月に弘兼憲史先生の特別講義と講評会に参加します。  11月頃に毎年予定されている「しゅうなん萌えサミット」に協力します。  そのほかにも地域共創センターと協力して、地域連携プロジェクトに積極的に参加します。それらへの積極的な参加を評価します。\n2.11月の大学祭や、3月の卒業進級制作展に作品展示します。\n3.その他、新人賞や公募展への投稿、行政や企業との地域連携によるコラボプロジェクトなどに積極的に参加します。\n4.2月に希望者による東京の漫画編集部への持ち込み研修(実費)を実施します。\n5.年間、漫画やノベルズ作品は2作品、イラスト作品は6点を提出してもらいます。",
+    "grading_criteria": "1.プロの漫画家や映画監督、東京の漫画編集部による講評会を企画し参加します。  10月に弘兼憲史先生の特別講義と講評会に参加します。  11月頃に毎年予定されている「しゅうなん萌えサミット」に協力します。  そのほかにも地域共創センターと協力して、地域連携プロジェクトに積極的に参加します。それらへの積極的な参加を評価します。\n2.11月の大学祭や、3月の卒業進級制作展に作品展示します。\n3.その他、新人賞や公募展への投稿、行政や企業との地域連携によるコラボプロジェクトなどに積極的に参加します。\n4.2月に希望者による東京の漫画編集部への持ち込み研修(実費)を実施します。\n5.年間、漫画やノベルズ作品は2作品、イラスト作品は6点を提出してもらいます。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "真剣にプロ作家やコンテンツ業界を目指す学生であること。またその熱意と情熱があることが必要です。\nイメージ表現基礎やイメージ表現応用で学んだことに加えて、自らプロとしてこの業界でやっていくために、講義時間以外でも日頃から作品制 作することができるだけの向上心と勉強意欲も必要です。\n下記授業計画は「漫画制作」を例にしてありますが、イラストレーション・ノベルズなど媒体にあわせて、学生と綿密な計画をたてます。\n20分以上の遅刻は欠席とします、気をつけてください。遅刻・欠席が半分以上あると不可となります。",
+    "teacher_message": "真剣にプロ作家やコンテンツ業界を目指す学生であること。またその熱意と情熱があることが必要です。\nイメージ表現基礎やイメージ表現応用で学んだことに加えて、自らプロとしてこの業界でやっていくために、講義時間以外でも日頃から作品制 作することができるだけの向上心と勉強意欲も必要です。\n下記授業計画は「漫画制作」を例にしてありますが、イラストレーション・ノベルズなど媒体にあわせて、学生と綿密な計画をたてます。\n20分以上の遅刻は欠席とします、気をつけてください。遅刻・欠席が半分以上あると不可となります。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "シラバス説明。\n年間のスケジュールを考える。\n完全個別指導なので、全体的な指導計画はありませんの で、以下標準的な進行を明記します。",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -66,9 +66,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "前期作品制作\n-ストーリー起",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "前期作品制作\n-ストーリー承",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "前期作品制作\n-ストーリー承",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "前期作品制作\n-ストーリー結",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "前期作品制作\n-ネームへのアプローチの仕方",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "前期作品制作\n-ネームをすすめる",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "前期作品制作\n-ネームをまとめる",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "前期作品制作\n-ネームのチェック・最終確認",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "前期作品制作\n-ペン入れ準備",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "前期作品制作\n-ペン入れ-キャラクター",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "前期作品制作\n-ペン入れ-サブキャラ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "前期作品制作\n-ペン入れ-その他のキャラ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "前期作品制作\n-ペン入れ-背景",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期作品制作\n-ペン入れ-仕上げとチェック・修正",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "学内講評会用作品の制作\n-プロ作家による講評会作品の準備",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "学内講評会用作品の制作\n-ストーリー確認",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "学内講評会用作品の制作\n-作品制作",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -236,9 +236,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "学内講評会用作品の制作\n-作品仕上げ\n   ※前期課題をそのまますすめても良い",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "学祭発表作品制作\n-学祭に提出する学生は、その作品を制作",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -256,9 +256,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "学祭発表作品制作\n-学祭用作品の仕上げ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -266,9 +266,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "兼憲史先生特別講義\n-講評してほしい作品持参",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -277,9 +277,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "進級制作\n-原稿のプロット制作",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -287,9 +287,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "進級制作\n-原稿の制作\n-物語のプロットの確認",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -297,9 +297,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "進級制作 原稿のネーム制作\n-ストーリー確認",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -307,9 +307,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "進級制作\n-ネーム確認",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "進級制作\n-原稿のペン入れ制作\n-ペン入れ開始",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -327,9 +327,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "進級制作 \n-制作中のペン入れチェック",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -337,9 +337,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "進級制作\n-持ち込み作品の仕上げ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -347,9 +347,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "卒業進級制作展準備\n-展示作品のチェック",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -357,6 +357,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "プロの漫画家・イラストレーターが教えます。"
+    "credit_auditing": false,
+    "practitioner_info": "プロの漫画家・イラストレーターが教えます。"
 }

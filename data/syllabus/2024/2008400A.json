@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:58:28Z",
+    "fetched_at": "2025-04-07T10:58:28Z",
     "name_ja": "アニメーション基礎原理",
     "name_en": "Basic principle of animation",
     "syllabus_number": "2008400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "久保　俊介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,19 +27,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ問題解決能力を持った人材の育成を意図した授業です。\n「動き」の原理を理解し、実際の動きを観察して、自分で考えてアニメーションを描く力を身に付けます。",
+    "objectives": "本学の教育目標における[２]世界的視野と広く豊かな教養を有する人材の育成、[３]現実的な知識と手法を備\nえ問題解決能力を持った人材の育成を意図した授業です。\n「動き」の原理を理解し、実際の動きを観察して、自分で考えてアニメーションを描く力を身に付けます。",
     "overview": "アニメーションの基礎知識、動きの原理を理解し制作工程の学習や見せ方を身に着けます\n画の動かし方の基本を押さえ実際に動画を制作します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2"
     ],
     "textbooks": [
         {
             "title": "After Effects for アニメーションBEGINNER",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "大平幸輝",
             "publisher": "BNN",
             "price": 3520,
@@ -47,30 +47,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "CG入門"
         ],
-        "brings": "USBフラッシュメモリ（データ保存用）",
+        "required_materials": "USBフラッシュメモリ（データ保存用）",
         "other": "定員 19 名。定員を超える場合には抽選で履修者を決定します。 但し、知財開発コース学生向けの主学科科目で ある為、知財開発コースの学生を優先します"
     },
-    "evaluation_criteria": "①制作工程の理解②動きの原理の理解を期末アニメーション制作課題により評価します。",
+    "grading_criteria": "①制作工程の理解②動きの原理の理解を期末アニメーション制作課題により評価します。",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "イラストの上手下手にとらわれず、原理を理解し描いたものを動かしてみてください。",
+    "teacher_message": "イラストの上手下手にとらわれず、原理を理解し描いたものを動かしてみてください。",
     "schedule": [
         {
-            "session": "01",
+            "number": "01",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "02",
+            "number": "02",
             "content": "アニメーション制作工程",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "03",
+            "number": "03",
             "content": "基本設定と考え方",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "04",
+            "number": "04",
             "content": "タイムシートとインターフェース",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "05",
+            "number": "05",
             "content": "素材配置・レイヤー構造",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "06",
+            "number": "06",
             "content": "キーフレーム・連弁セル・親子構造",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "07",
+            "number": "07",
             "content": "キーフレームの停止・パン",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "08",
+            "number": "08",
             "content": "トラックマット",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "09",
+            "number": "09",
             "content": "オーバーラップ・モーションブラー",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "レイヤー処理・エフェクト",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "３D処理",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "編集作業・ポストプロダクション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "２Dアニメーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -210,9 +210,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "制作課題",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "制作課題仕上・講評",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -231,6 +231,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴と授業内容\n【職歴】\n・1999年～専門学校YICグループにてグラフィックデザイン、CGアート分野の科目担当、就職斡旋、学生支援他\n・企業、行政、学校等のデザイン企画受諾。ポスター、冊子、広告等アートディレクション\n・テレビCM、企業PV、アナログゲームのアートワーク\n・二科会デザイン部会員\n\n\n【実務経験を活用した授業内容】\n・デジタルベースでの作品制作\n・コンピュータグラフィックの理解\n・平面構成・CGデザインの理解\n・映像編集・アニメーションへの応用"
 }

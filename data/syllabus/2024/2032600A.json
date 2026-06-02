@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:03:05Z",
+    "fetched_at": "2025-04-07T11:03:05Z",
     "name_ja": "スポーツマネジメントⅠ",
     "name_en": "Sport Management　Ⅰ",
     "syllabus_number": "2032600A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,40 +28,40 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、スポーツマネジメントの定義と理論した上で、グローバルビッグスポーツイベントとしての近代オリンピック大会マネジメントの歴史的変容とこれがスポーツ界に及ぼした影響について理解する。\n　また、日本のスポーツ政策および行財政制度を理解した上で、地域スポーツの振興に密接な公共スポーツ施設マネジメントの個別事例を理解する。\n　さらに、世界的なスポーツ企業であるＮＩＫＥ、アディダス、プーマ、コンバース社などの経営史からスポーツ関連企業マネジメントに関する理解を深める。\n【到達目標】\n１．スポーツマネジメントの定義を説明できる。\n２．スポーツマネジメント手法であるスポーツスポンサーシップの構造について説明できる。\n３．日本のスポーツ製作と行財政制度の基本を理解した上で、公共スポーツ施設管理運営方法の基礎理論を説明できる。\n４．スポーツ企業のブランディング戦略について説明できる。",
+    "objectives": "本講義では、スポーツマネジメントの定義と理論した上で、グローバルビッグスポーツイベントとしての近代オリンピック大会マネジメントの歴史的変容とこれがスポーツ界に及ぼした影響について理解する。\n　また、日本のスポーツ政策および行財政制度を理解した上で、地域スポーツの振興に密接な公共スポーツ施設マネジメントの個別事例を理解する。\n　さらに、世界的なスポーツ企業であるＮＩＫＥ、アディダス、プーマ、コンバース社などの経営史からスポーツ関連企業マネジメントに関する理解を深める。\n【到達目標】\n１．スポーツマネジメントの定義を説明できる。\n２．スポーツマネジメント手法であるスポーツスポンサーシップの構造について説明できる。\n３．日本のスポーツ製作と行財政制度の基本を理解した上で、公共スポーツ施設管理運営方法の基礎理論を説明できる。\n４．スポーツ企業のブランディング戦略について説明できる。",
     "overview": "講義は、原則PP資料の解説で進められる。受講生は、講義内容のまとめおよび小課題への対応をもって、講義内容の理解を深める。\n　なお、シラバス内容は、受講生の人数、講義の進捗状況によって変更することがある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "参考文献等は、講義中に適宜案内する。"
     },
-    "evaluation_criteria": "到達目標に関して⑪に示した方法で評価する。",
+    "grading_criteria": "到達目標に関して⑪に示した方法で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 30,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 0,
+        "quiz": 30,
+        "report": 30,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "復習として、毎回の交尾内容を文章化することを推奨する。",
+    "teacher_message": "復習として、毎回の交尾内容を文章化することを推奨する。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -69,9 +69,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "スポーツマネジメント研究の成立および定義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "グローバルビッグスポーツイベントのマネジメント１－ピエール度・クーベルタンの教育・スポーツしそうと近代オリンピック大会の開催－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "グローバルビッグスポーツイベントのマネジメント２－1984年ロス五輪におけるスポーツスポンサーシップ構造－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "グローバルビッグスポーツイベントのマネジメント３－1984年ロス五輪におけるメディエーテッドスポーツマネジメントの構造－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "2020年東京オリンピック大会マネジメントの検証－ＪＯＣ各種報告の収集－（学生グループワーク）－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "2020年東京オリンピック大会マネジメントの検証－ＪＯＣ各種報告の分析－（学生グループワーク）－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "公共スポーツ施設マネジメント１－日本のスポーツ製作および地方スポーツ行財政の理解－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "公共スポーツ施設マネジメント２－ＰＦＩ、指定管理者制度－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "公共スポーツ施設マネジメント３－地方における個別事例の理解、特に周南市公園緑地公園の管理運営について－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "スポーツ企業マネジメント１－ＮＩＫＥの経営史とブランド戦略－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "スポーツ企業マネジメント２－アディダスとプーマの経営史とブランド戦略について－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "スポーツ企業マネジメント３－コンバース社の経営史からみるフットウエアマネジメント戦略－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "日本スポーツメーカーの経営－個別企業の事例研究：レポートの準備－",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,6 +209,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

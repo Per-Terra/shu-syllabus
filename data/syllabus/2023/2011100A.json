@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:05:52Z",
+    "fetched_at": "2024-08-08T01:05:52Z",
     "name_ja": "スポーツ栄養学",
     "name_en": "Sports Nutrition",
     "syllabus_number": "2011100A",
     "course_number": "04SP204、05LS202",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "八木　香里",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,18 +27,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "身体は食物が原料となり、適切な食事が健康な身体を作ります。アスリートは高強度の身体活動量が多く、摂取エネルギーや様々な栄養素の不足が生じないよう留意する必要があります。また、競技特性により求められる身体づくりも異なります。さらに同じ競技のアスリートであっても個人によって求める身体づくりは異なります。この授業では栄養についての基礎知識や、様々な目的や状況における応用方法を学ぶことができます。\n講義形式で授業を進めますが、自分の食事についてのレポート作成を課し、自分の食生活を見直す演習的要素も含みます。\n【到達目標】\n　1.栄養素や消化吸収について、基礎的な理論の理解ができる\n　2.バランスの良い食事を基礎とし、一般人とアスリートの留意点の違いが理解できる\n　3.アスリートの目的や状況に応じた栄養摂取方法が理解できる\n　4.自身の食事調査を基にレポートを作成",
+    "objectives": "身体は食物が原料となり、適切な食事が健康な身体を作ります。アスリートは高強度の身体活動量が多く、摂取エネルギーや様々な栄養素の不足が生じないよう留意する必要があります。また、競技特性により求められる身体づくりも異なります。さらに同じ競技のアスリートであっても個人によって求める身体づくりは異なります。この授業では栄養についての基礎知識や、様々な目的や状況における応用方法を学ぶことができます。\n講義形式で授業を進めますが、自分の食事についてのレポート作成を課し、自分の食生活を見直す演習的要素も含みます。\n【到達目標】\n　1.栄養素や消化吸収について、基礎的な理論の理解ができる\n　2.バランスの良い食事を基礎とし、一般人とアスリートの留意点の違いが理解できる\n　3.アスリートの目的や状況に応じた栄養摂取方法が理解できる\n　4.自身の食事調査を基にレポートを作成",
     "overview": "授業は講義形式ですが、自分の食事調査を基にレポートを作成する実践も含みます。レポート作成については講義の中で詳細を説明します。講義で習ったことを自身の食生活に反映させてください。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得"
     ],
     "textbooks": [
         {
             "title": "『理論と実践　スポーツ栄養学』",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "鈴木志保子",
             "publisher": "日本文芸社",
             "price": 2200,
@@ -46,10 +46,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "食品解説つき 八訂準拠 ビジュアル食品成分表",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "「新しい食生活を考える会」 編",
             "publisher": "大修館書店",
             "price": 1540,
@@ -58,7 +58,7 @@
         },
         {
             "title": "健康運動指導士養成講習会テキスト上・下",
-            "year": 0,
+            "publication_year": null,
             "author": "公益財団法人健康・体力づくり事業財団",
             "publisher": "",
             "price": null,
@@ -66,29 +66,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "運動生理学"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "下記の内容について、筆記試験とレポート提出にて評価を行う\n　消化と吸収の機構\n　身体活動量の定量法とその実際\n　食生活と健康運動・栄養素の機能と代謝\n　栄養・食事指導の基本（1,2）\n　試合期・遠征中の栄養管理・食生活\n　目的別の栄養管理\n　栄養・食事アセスメント\n　自身の栄養調査を基にしたレポート",
+    "grading_criteria": "下記の内容について、筆記試験とレポート提出にて評価を行う\n　消化と吸収の機構\n　身体活動量の定量法とその実際\n　食生活と健康運動・栄養素の機能と代謝\n　栄養・食事指導の基本（1,2）\n　試合期・遠征中の栄養管理・食生活\n　目的別の栄養管理\n　栄養・食事アセスメント\n　自身の栄養調査を基にしたレポート",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "アスリートにとっての食事は自分の持っているパフォーマンスを最大限に発揮させるため、決して疎かにできないものです。アスリートでなくても、不適切な食事は、朝起きられない、何となく疲れる、やる気が出ない、感情の起伏が激しいなど身体だけでなくメンタルの不調にも影響を及ぼすことがあります。この科目を通じて、食の大切さを学んでいただければと思います。\n【予習】次回の「授業の内容」を参照し、教科書該当ページを通読する\n【復習】授業で行った箇所の再読及び提供資料（PPT等）の重要箇所の再確認を行い、知識を定着させる\n　※予習・復習を各30分程度行うこと",
+    "teacher_message": "アスリートにとっての食事は自分の持っているパフォーマンスを最大限に発揮させるため、決して疎かにできないものです。アスリートでなくても、不適切な食事は、朝起きられない、何となく疲れる、やる気が出ない、感情の起伏が激しいなど身体だけでなくメンタルの不調にも影響を及ぼすことがあります。この科目を通じて、食の大切さを学んでいただければと思います。\n【予習】次回の「授業の内容」を参照し、教科書該当ページを通読する\n【復習】授業で行った箇所の再読及び提供資料（PPT等）の重要箇所の再確認を行い、知識を定着させる\n　※予習・復習を各30分程度行うこと",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "消化と吸収の機構\nどのように消化と吸収されるかメカニズムを知る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "身体活動量の定量法とその実際\nエネルギーの補給と消費\n（エネルギー代謝・TCA回路・電子伝達系・β酸化）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "食生活と健康運動・栄養素の機能と代謝\n栄養素の基礎知識（炭水化物）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "食生活と健康運動・栄養素の機能と代謝\n栄養素の基礎知識（脂質）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "食生活と健康運動・栄養素の機能と代謝\n栄養素の基礎知識（たんぱく質）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "食生活と健康運動・栄養素の機能と代謝\n栄養素の基礎知識（ビタミン）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "食生活と健康運動・栄養素の機能と代謝\n栄養素の基礎知識（ミネラル）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "栄養・食事指導の基本（１）わが国の食生活指針等\nバランスの良い食事（食事バランスガイド・一汁三菜）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "栄養・食事指導の基本（２）食品表示等\nバランスの良い食事（調理法・食品の選び方）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "試合期・遠征中の栄養管理・食生活\n（グリコーゲンローディング・試合期の食事の注意点）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "試合期・遠征中の栄養管理・食生活\n（試合期の食事の注意点・ドーピング）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "目的別の栄養管理（増量・エネルギー不足・疲労骨折）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "目的別の栄養管理（貧血・減量）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "栄養・食事アセスメント（低栄養対策を含む）\nコンディショニング（セルフマネジメント・女性・ジュニア・シニア・障がい者）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "栄養素の機能と代謝\n熱中症の予防と水分補給",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -236,6 +236,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

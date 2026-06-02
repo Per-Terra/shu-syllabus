@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-04T06:01:34Z",
+    "fetched_at": "2025-04-04T06:01:34Z",
     "name_ja": "ソーシャルワーク演習Ⅰ",
     "name_en": "Social Work Practice Ⅰ",
     "syllabus_number": "2027400A",
     "course_number": "23-2-22-21-02",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "オムニバス",
+    "course_division": "",
+    "instruction_format": "オムニバス",
     "teachers": [
         {
             "name": "竹下　徹",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "井上　浩",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -34,38 +34,38 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会福祉士として求められる基礎的な展開能力について説明することができる。\n②ソーシャルワークの基本的な価値倫理について説明することができる。\n③ソーシャルワークにとって基本的なコミュニケーション能力について説明することができる。",
+    "objectives": "①社会福祉士として求められる基礎的な展開能力について説明することができる。\n②ソーシャルワークの基本的な価値倫理について説明することができる。\n③ソーシャルワークにとって基本的なコミュニケーション能力について説明することができる。",
     "overview": "本演習では、ソーシャルワーク専門職に求められる基本的な知識と技術について、実践的に修得することを目的とする。そのために、個別並びに集団指導を通して、具体的な援助場面を想定した実技指導（ロールプレイング等）を中心とする演習を行う。学生は、このことで①ソーシャルワークの知識と技術の結びつきを他科目との関連性を踏まえ、社会福祉士及び精神保健福祉士として求められる基礎的な能力を築いていく力、②ソーシャルワークの価値と倫理を実践的に理解する力、③ソーシャルワークを行う際の基本的なコミュニケーション能力、④ソーシャルワークを展開する際に、知識と技\n術を結び付けられる力を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2",
         "福祉学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "授業で配布する資料",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "授業で配布する資料",
         "other": "特定の教科書は指定せず、授業中に配布する資料を中心に進めていきます。参考図書は講義内で適宜案内します。"
     },
-    "evaluation_criteria": "①社会福祉士として求められる基礎的な展開能力 \n②ソーシャルワークの基本的な価値倫理 \n③ソーシャルワークにとって基本的なコミュニケーション能力 \n上記①～③に関する理解度を以下の割合により評価する。 \n評価の割合：レポート30％、実技70％",
+    "grading_criteria": "①社会福祉士として求められる基礎的な展開能力 \n②ソーシャルワークの基本的な価値倫理 \n③ソーシャルワークにとって基本的なコミュニケーション能力 \n上記①～③に関する理解度を以下の割合により評価する。 \n評価の割合：レポート30％、実技70％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 70,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 70,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "この科目は、「ソーシャルワーク演習」の最も基本的な技術を身につけようとする科目です。他者と向かい合うとはどういうことか、そこにソーシャルワークの専門的価値・技術がどのように必要とされるのかを具現化していけるようになっていってほしいと思います。\n【事前・事後学習について】\nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】\n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
+    "teacher_message": "この科目は、「ソーシャルワーク演習」の最も基本的な技術を身につけようとする科目です。他者と向かい合うとはどういうことか、そこにソーシャルワークの専門的価値・技術がどのように必要とされるのかを具現化していけるようになっていってほしいと思います。\n【事前・事後学習について】\nシラバスで示している授業回のテーマについて社会的な状況を調べ（事前学習２時間）、授業で用いた教材等をもとに振り返りをすること（事後学習２時間）。\n【オフィスアワー】\n講義のある曜日で対応する。不在時はメールなどで受け付ける。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "自己覚知\n-自分と他者との違いを知る-",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "基本的なコミュニケーション技術①\n言語的技術（質問、促し、言い換え）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "基本的なコミュニケーション技術②\n言語的技術（感情の反映、繰り返し、要約等）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "基本的なコミュニケーション技術③\n-非言語技術-",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "基本的なコミュニケーション技術の応用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "基本的な面接技術\n―構造化面接、生活場面面接",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "ソーシャルワークの展開過程①\nケースの発見とインテーク",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ソーシャルワークの展開過程②\nアセスメント",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ソーシャルワークの展開過程③\nプランニングからモニタリングまで",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソーシャルワークの展開過程④\n支援の終結と評価、アフターケア",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "ソーシャルワークの記録",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "グループダイナミクスの活用①\nグループワークの構成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "グループダイナミクスの活用②\nグループワークの展開過程",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プレゼンテーション技術①\n個人プレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "プレゼンテーション技術②\nグループプレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -243,6 +243,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "社会福祉士としての実務経験を有する。（竹下徹・牛島豊広）"
+    "credit_auditing": false,
+    "practitioner_info": "社会福祉士としての実務経験を有する。（竹下徹・牛島豊広）"
 }

@@ -1,48 +1,48 @@
 {
-    "_fetched_at": "2025-04-04T05:55:29Z",
+    "fetched_at": "2025-04-04T05:55:29Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000B",
     "course_number": "11-2-12-11-02、21-2-12-11-02、23-2-12-11-02",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "人間健康科学部 福祉学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "難波　利光",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "北村　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "伊藤　敏安",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "脇野　幸太郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -51,22 +51,22 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n２．計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n３．活動の成果を総括し、他者に向けて分かりやすく報告することができる。\n４．課題発見・解決へ向けて、他者と協働して活動することができる。",
+    "objectives": "１．取組むテーマに関して、充分な現状理解がなされ、価値ある課題を発見することができる。\n２．計画を立て調査分析を行う等、課題の解決に向け行動することができる。\n３．活動の成果を総括し、他者に向けて分かりやすく報告することができる。\n４．課題発見・解決へ向けて、他者と協働して活動することができる。",
     "overview": "この授業は、課題解決型学習（PBL; Project/Problem Based Learning）の入門編として、地域が抱える課題の発見・解決に取組み、他者と協働した課題解決の方法論の習得・課題対応能力の伸長を目指します。担当する教員によってゼミの活動テーマが異なります。学生は、それぞれのゼミのテーマに応じて、また連携相手となる地域のニーズに応じて、自ら取組むべき課題を見出し、まちづくり、ボランティア、イベント企画・開催、商品づくり、コンテンツ制作、情報発信など課題解決活動を行います。\n学生が取組む課題はゼミによって多様ですが、課題解決に向けたプロセスはどのゼミにも共通します。フィールドワーク中心のゼミでも文献調査中心のゼミでも、対象となるテーマ・地域に関する現状認識を深め、そこにある問題を発見し、各ゼミのテーマに応じた解決計画・行動をとり、その結果を結論づけ総括するというプロセスを体験します。\nなお、ゼミによってテーマが多様であることや地域課題解決という事柄の性質上、ゼミ活動が授業計画通りに進行しない場合がある。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "スポーツ健康科学科DP1",
         "福祉学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "適宜指示する",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -74,27 +74,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "PC、ノート、筆記用具",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "PC、ノート、筆記用具",
         "other": "なし"
     },
-    "evaluation_criteria": "１．現状理解・問題発見、２．課題解決、３．活動の総括・報告、４．協働性のそれぞれの観点について、活動の成果、活動報告、平素の活動状況から総合的に評価する。１～３の課題解決プロセスの評価に関しては「課題対応能力コモンルーブリック」を参考にする。\n\n活動報告（成果物含む）60％、その他（平素の活動状況）40％を目安とする。",
+    "grading_criteria": "１．現状理解・問題発見、２．課題解決、３．活動の総括・報告、４．協働性のそれぞれの観点について、活動の成果、活動報告、平素の活動状況から総合的に評価する。１～３の課題解決プロセスの評価に関しては「課題対応能力コモンルーブリック」を参考にする。\n\n活動報告（成果物含む）60％、その他（平素の活動状況）40％を目安とする。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "地域ゼミはチームによる課題解決を行います。学びを深めるためにはゼミ生同士・地域の協力者との協働が不可欠です。周囲とのコミュニケーションを十分にとり、ゼミ活動に積極的に参画することを期待します。\nゼミ内でのグループワークや学外活動を意義あるものとするため、ワークや活動地域に関する予習、事後の振り返りを十分に行ってください（予習2時間程度・復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
+    "teacher_message": "地域ゼミはチームによる課題解決を行います。学びを深めるためにはゼミ生同士・地域の協力者との協働が不可欠です。周囲とのコミュニケーションを十分にとり、ゼミ活動に積極的に参画することを期待します。\nゼミ内でのグループワークや学外活動を意義あるものとするため、ワークや活動地域に関する予習、事後の振り返りを十分に行ってください（予習2時間程度・復習2時間程度）。\n\n【オフィスアワー】\n講義のある曜日、 不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション、地域ゼミの目的と意義",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "チームビルディング",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "課題解決の方法論や心構えの学習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "現状認識①取組むテーマについての調査・学習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "現状認識②対象となる地域についての調査・学習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "問題発見①地域が抱える問題についての調査・学習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "問題発見②取組むべき課題を見出す",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "課題解決①課題解決方法の検討",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "課題解決②課題解決に向けた計画立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "課題解決③課題解決策の試行",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "課題解決④課題解決策の改善",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -257,9 +257,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "課題解決⑤課題解決策の実行",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "活動報告の準備①：活動の振返り・総括",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -287,9 +287,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "活動報告の準備②：発表資料作り",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -302,9 +302,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "活動報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -317,6 +317,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

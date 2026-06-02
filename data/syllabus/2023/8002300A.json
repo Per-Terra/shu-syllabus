@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:41:08Z",
+    "fetched_at": "2024-08-08T01:41:08Z",
     "name_ja": "上級日本語Ⅰ",
     "name_en": "Advanced JapaneseⅠ",
     "syllabus_number": "8002300A",
     "course_number": "00JP109",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "佐野　千亜紀",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -29,16 +29,16 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "日本の企業で働くためには、最低限N1級レベルの日本語が必要だと考えられています。本講義では，日本語能力試験N1級レベルで必要とされる「文法知識」について学び、幅広い話題、幅広い対象者に用いる言語知識を身につけます。\n\nⅰ 幅広い話題に対応した言語知識のうち文法的な側面の知識を身につける。\nⅱ 幅広い対象に対応した言語知識のうち文法的な側面の知識を身につける。\nⅲ 幅広い話題、対象者に適した文法表現を選択できる弁別的能力を身につける。",
+    "objectives": "日本の企業で働くためには、最低限N1級レベルの日本語が必要だと考えられています。本講義では，日本語能力試験N1級レベルで必要とされる「文法知識」について学び、幅広い話題、幅広い対象者に用いる言語知識を身につけます。\n\nⅰ 幅広い話題に対応した言語知識のうち文法的な側面の知識を身につける。\nⅱ 幅広い対象に対応した言語知識のうち文法的な側面の知識を身につける。\nⅲ 幅広い話題、対象者に適した文法表現を選択できる弁別的能力を身につける。",
     "overview": "授業では，それぞれトピックに関する文章を読み理解し，内容を深めていきます。その上でその中で扱われている日本語能力試験N1級レベルの文法表現を学びます。また毎回の授業後にオンラインによる確認問題を復習として行います。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "『日本語能力試験 完全攻略問題集上級1級の文法改訂版』",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "宇民美智子",
             "publisher": "語文研究社",
             "price": null,
@@ -46,33 +46,33 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "中級日本語",
             "中上級日本語Ⅰ",
             "中上級日本語Ⅱ",
             "中上級日本語Ⅲ"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "1文法に関する知識　2授業のなかで読解部分で考える文法観察能力　3文法表現にかかわる表現選択\n\n 上記3つの観点から評価する。\n\n※その他・・授業での発言や理解度",
+    "grading_criteria": "1文法に関する知識　2授業のなかで読解部分で考える文法観察能力　3文法表現にかかわる表現選択\n\n 上記3つの観点から評価する。\n\n※その他・・授業での発言や理解度",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 50,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "日本語の文章を読み、日本社会を知るということを通じて、N1レベルの文法を学んでいきます。同時に、N2レベルの文法の復習も行います。普段から、日本語の文章を読んで、しっかり内容について考え、その上で文法にも着目することを意識してください。\n\n予習：次回実施内容を確認し、その箇所を読んでおくこと\n復習：オンラインでの練習問題を行うこと",
+    "teacher_message": "日本語の文章を読み、日本社会を知るということを通じて、N1レベルの文法を学んでいきます。同時に、N2レベルの文法の復習も行います。普段から、日本語の文章を読んで、しっかり内容について考え、その上で文法にも着目することを意識してください。\n\n予習：次回実施内容を確認し、その箇所を読んでおくこと\n復習：オンラインでの練習問題を行うこと",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "動詞に注目したN1文法1 「ある」「言う」「来る」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "動詞に注目したN1文法2「なる」「する」 名詞に注目したN1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "動詞の連用形、形容詞、副詞などに注目し たN1文法1「限る・限り」「耐える」など",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "動詞の連用形、形容詞、副詞などに注目し たN1文法2「至る・至り」「極まる・極ま り」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "動詞の連用形、形容詞、副詞などに注目し たN1文法3「即す」「置く」「早い」など",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "形式名詞に注目したN1文法1 「もの」「こと」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "形式名詞に注目したN1文法2 「ところ」「ため」「わけ」など",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "助詞に注目したN1文法1 「から」「まで」",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "助詞に注目したN1文法2 「さえ」「のみ」など(強調に使われる助 詞)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "動詞や名詞などの成分がペアで使われるN 1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "助動詞に注目したN1文法 接尾辞・補助動詞に注目したN1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "感情を表すN1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "その他の文末表現に関するN1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -238,9 +238,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "そのまま覚えるN1文法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習",
                 "実験・実習・実技"
@@ -250,6 +250,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

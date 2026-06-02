@@ -1,28 +1,28 @@
 {
-    "_fetched_at": "2025-04-04T06:02:14Z",
+    "fetched_at": "2025-04-04T06:02:14Z",
     "name_ja": "アントレプレナーシップ実習",
     "name_en": "Practical Entrepreneurship",
     "syllabus_number": "2030900A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "赤木　真由",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "長澤　雅彦",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -30,12 +30,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）ファクトを集め、課題を発見することができる\n（２）問題を特定し、解決策を提案できる\n（３）課題発見、問題定義、解決策の提案まで自発的、積極的に行動できる",
+    "objectives": "【到達目標】\n（１）ファクトを集め、課題を発見することができる\n（２）問題を特定し、解決策を提案できる\n（３）課題発見、問題定義、解決策の提案まで自発的、積極的に行動できる",
     "overview": "本講義では、アントレプレナーシップの考え方をフィールドワークの中で実践することを目的とする。周南地域と広島市内をフィールドにそれぞれの地域の魅力を発見し、その表現方法の実践までを行う。地域の魅力を捉え直すために、デザイン思考、システム思考のインプットを得ることで、実際に起きていることを俯瞰的に捉え、自分たちが伝えるべきポイントを特定する。制作したものに対して多視点からフィードバックを得ることで改善していき、講義の中で完成度を高めていく。\n※本講義は集中講義形式で行い、一部広島県立叡啓大学にて実施します。周南公立大学からのバスを出す予定ですが、個人で行き来する場合の交通費は自己負担となります。\n\n【アクティブラーニングについて】\nほぼすべての授業にアクティブラーニング（グループワーク、フィールドワーク）を含む",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -44,10 +44,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "アントレプレナーシップ",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "清水洋",
             "publisher": "有斐閣",
             "price": 3080,
@@ -56,7 +56,7 @@
         },
         {
             "title": "1からのアントレプレナーシップ",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "山田幸三、江島由裕",
             "publisher": "碩学舎",
             "price": 2640,
@@ -65,7 +65,7 @@
         },
         {
             "title": "アントレプレナーシップ教科書",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "松重和美、三枝省三、竹本拓治",
             "publisher": "中央経済社",
             "price": 3300,
@@ -73,31 +73,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "デザインシンキング",
             "地域ゼミ",
             "アントレプレナーシップ入門"
         ],
-        "brings": "筆記用具、ノートPC",
+        "required_materials": "筆記用具、ノートPC",
         "other": "交通費がかかる場合があります。"
     },
-    "evaluation_criteria": "自ら設定したテーマに対して提案する内容（ポートフォリオ40%）と、そのプレゼンテーション（発表40%）を評価します。また、積極的な姿勢、リーダーシップの発揮など授業に対する取り組み姿勢（その他20%）を評価します。",
+    "grading_criteria": "自ら設定したテーマに対して提案する内容（ポートフォリオ40%）と、そのプレゼンテーション（発表40%）を評価します。また、積極的な姿勢、リーダーシップの発揮など授業に対する取り組み姿勢（その他20%）を評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 40,
-        "ポートフォリオ": 40,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 40,
+        "portfolio": 40,
+        "other": 20
     },
-    "message_from_teachers": "アントレプレナーシップは、起業家だけでなく様々な職業で発揮することが求められます。知識として得たアントレプレナーシップを発揮する機会として、本授業を活用してもらいたいと思います。",
+    "teacher_message": "アントレプレナーシップは、起業家だけでなく様々な職業で発揮することが求められます。知識として得たアントレプレナーシップを発揮する機会として、本授業を活用してもらいたいと思います。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n授業の目的や必要となる基礎知識について説明",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "デザイン思考　基礎編①　共感",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "デザイン思考　基礎編②　問題定義",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "デザイン思考　基礎編③　アイデア創造",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "アイデアの表現方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "デザイン思考　実践編　＆　システム思考\n叡啓大学ソーシャルシステムデザイン学部 保井学部長をゲスト講師に迎えた講義",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "デザイン思考　実践編　＆　フィールドワークの方法\n叡啓大学ソーシャルシステムデザイン学部 川瀬真紀教授をゲスト講師に迎えた講義",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "フィールドワーク\n広島市内を中心にフィールドワークを行い、画像・動画素材を収集する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "フィールドワークのリフレクション\nフィールドワークで集めた動画をチームで振り返り、プレゼンテーションにいかにまとめるか検討する",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "プレゼンテーションの準備\nこれまでの取り組みから解決策をブラッシュアップし、プレゼンテーションとして効果的にまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -230,9 +230,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "プレゼンテーションの準備\nこれまでの取り組みから解決策をブラッシュアップし、プレゼンテーションとして効果的にまとめる",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -241,9 +241,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "最終発表会\n自身のアイデアをプレゼンテーションしフィードバックを得る",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -252,6 +252,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

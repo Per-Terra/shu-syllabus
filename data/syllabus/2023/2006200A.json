@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:02:25Z",
+    "fetched_at": "2024-08-08T01:02:25Z",
     "name_ja": "管理工学",
     "name_en": "Management Engineering",
     "syllabus_number": "2006200A",
     "course_number": "02MI301",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河田　正樹",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,20 +27,20 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "この科目は、オペレーションズ・リサーチ(OR)の手法を学びます。ORとは、企業をはじめとする組織の経営や生産管理システムなどについて、モデル分析によって効率的な解決法を導く方法の総称です。\nORを学ぶことで、合理的な意思決定をおこなうことが可能となります。\n\n【到達目標】\n① ORのさまざまな手法を、Excelを用いておこなうことができる。\n② どのような問題に、どういうORの手法が適用可能か理解できる。",
+    "objectives": "この科目は、オペレーションズ・リサーチ(OR)の手法を学びます。ORとは、企業をはじめとする組織の経営や生産管理システムなどについて、モデル分析によって効率的な解決法を導く方法の総称です。\nORを学ぶことで、合理的な意思決定をおこなうことが可能となります。\n\n【到達目標】\n① ORのさまざまな手法を、Excelを用いておこなうことができる。\n② どのような問題に、どういうORの手法が適用可能か理解できる。",
     "overview": "この授業は講義とPC演習(Excel)で進めていきます。\n最初に、その日とりあげる内容についてPowerPointなどを用いて簡単に説明します。\nそして、その内容を、Excelで実際に分析しています。\n定着をはかるために、復習課題を出すことがあります。\n定められた期限までに、授業中の課題や復習課題を提出するようにしてください。\n\n出欠は目視で確認します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "Excelで学ぶOR",
-            "year": 2011,
+            "publication_year": 2011,
             "author": "藤澤 克樹, 後藤 順哉, 安井 雄一郎",
             "publisher": "オーム社",
             "price": 3520,
@@ -48,33 +48,33 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "情報リテラシー",
             "データサイエンス入門"
         ],
-        "recommended_courses": [
+        "recommended": [
             "数学",
             "統計学基礎"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①ORのさまざまな手法のExcelを用いた分析、②OR手法の適用可能性緒理解　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内の演習の状況を、各回の課題提出を通して評価します。",
+    "grading_criteria": "①ORのさまざまな手法のExcelを用いた分析、②OR手法の適用可能性緒理解　について、「学生に対する評価」の内容で評価します。\n「その他」は授業内の演習の状況を、各回の課題提出を通して評価します。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "さまざまな問題を、実際に分析してみることが大事ですので、毎回授業に出席する必要があります。やむをえず欠席した場合は、授業の動画を視聴し、分析をおこなってください。\n\n【予習・復習について】\n予習…授業の内容を確認してくること。\n復習…当日の講義内容を確認し、授業中に終わらなかった演習問題の残ったもの、復習のための演習問題に取り組むこと。\n※ 予習・復習合わせて60分程度行うようにしてください。",
+    "teacher_message": "さまざまな問題を、実際に分析してみることが大事ですので、毎回授業に出席する必要があります。やむをえず欠席した場合は、授業の動画を視聴し、分析をおこなってください。\n\n【予習・復習について】\n予習…授業の内容を確認してくること。\n復習…当日の講義内容を確認し、授業中に終わらなかった演習問題の残ったもの、復習のための演習問題に取り組むこと。\n※ 予習・復習合わせて60分程度行うようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス\n　ORとはどういうものか",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "線形計画法(1)\n　生産計画問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "線形計画法(2)\n　ネットワーク型輸送問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "線形計画法(3)\n　ナップザック問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "線形計画法(4)\n　巡回セールスマン問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "動的計画法(1)\n　最短経路問題",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "動的計画法(2)\n　ダイクストラ法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "シミュレーション(1)\n　確率的シミュレーション(じゃんけん)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -160,9 +160,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "シミュレーション(2)\n　確率的シミュレーション(モンティ・ホール問題)",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "待ち行列(1)\n　ATM1台の待ち行列",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "待ち行列(2)\n　コインパーキングの駐車台数",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -193,9 +193,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "ゲーム理論\n　囚人のジレンマ、ナッシュ均衡",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "ファイナンス理論(1)\n　ポートフォリオ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ファイナンス理論(2)\n　効率的フロンティア",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -226,9 +226,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -237,6 +237,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

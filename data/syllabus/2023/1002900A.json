@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:56:10Z",
+    "fetched_at": "2024-08-08T00:56:10Z",
     "name_ja": "心理学概論Ⅰ",
     "name_en": "Introduction to Psychology I",
     "syllabus_number": "1002900A",
     "course_number": "00SS105",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "西村　由貴子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,16 +27,16 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "【授業のテーマ】\n　「心」や「心理学」について皆さんはどんなことを考えますか？また，どんなイメージを持っていますか？実体が無く，それでも何となく感じとれる「心」は，人間の生き方にはもちろん，生活の身近なところに存在しています。\n　心理学とは，そんな「心」について考え，科学を用いて検討していく学問であり，多くの人の心を映し出すであろう様子や行動を取り出し，そこから心の法則を組み立てることを目的としています。認知・社会・臨床など，多岐にわたる心理学領域を全て網羅するのは難しいと思いますが，心理学という科学的な学問に触れながら，みなさんには「心理学的に考える」ことのアウトラインを掴んでもらいたいと思っています。そして，自身の考えや生活に心理学がどのように関係しているのかについて，みなさん一人一人に考えて欲しいと思います。\n\n【到達目標】\n①心理学の成り立ち，主要な領域で行われる現象について理解し，説明ができる。\n②受講生自身の生活や経験，考えの中に心理学がどのように関わっているかについて説明できる。",
+    "objectives": "【授業のテーマ】\n　「心」や「心理学」について皆さんはどんなことを考えますか？また，どんなイメージを持っていますか？実体が無く，それでも何となく感じとれる「心」は，人間の生き方にはもちろん，生活の身近なところに存在しています。\n　心理学とは，そんな「心」について考え，科学を用いて検討していく学問であり，多くの人の心を映し出すであろう様子や行動を取り出し，そこから心の法則を組み立てることを目的としています。認知・社会・臨床など，多岐にわたる心理学領域を全て網羅するのは難しいと思いますが，心理学という科学的な学問に触れながら，みなさんには「心理学的に考える」ことのアウトラインを掴んでもらいたいと思っています。そして，自身の考えや生活に心理学がどのように関係しているのかについて，みなさん一人一人に考えて欲しいと思います。\n\n【到達目標】\n①心理学の成り立ち，主要な領域で行われる現象について理解し，説明ができる。\n②受講生自身の生活や経験，考えの中に心理学がどのように関わっているかについて説明できる。",
     "overview": "本講義は，オンラインによる講義形式で行います。心理学という学問について，その成り立ちから，それぞれの心理学領域についてその概要を解説していきます。ただ受動的に聴くだけでなく，学生の皆さんにはぜひ授業で学んだことが日常生活とどのように関連するのかについて主体的に考えて欲しいと思います。質問は，適宜受け付け，講義終了後に各講義ごとの感想や質問をフォーム上で回答してもらいます。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "心理学 新版 (New Liberal Arts Selection)",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "無藤 隆, 森 敏昭, 遠藤 由美, 玉瀬 耕治",
             "publisher": "有斐閣",
             "price": 4620,
@@ -44,28 +44,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "【到達目標】に加え，授業への参加態度や出席状況を加味した上で，総合的に評価します。各講義終了後にミニレポート (授業への感想や質問) を，学期末にレポート課題を提出していただきます。",
+    "grading_criteria": "【到達目標】に加え，授業への参加態度や出席状況を加味した上で，総合的に評価します。各講義終了後にミニレポート (授業への感想や質問) を，学期末にレポート課題を提出していただきます。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 90,
-        "発表・実技": 10,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 90,
+        "presentation": 10,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本講義を通して，みなさんが少しでも心理学という学問に興味が持てたり，日常生活に生かせたりするような知識をお伝えしていきたいと思っています。教科書や授業資料を適宜読み返すことで，知識の定着に努めてください。また，オンライン講義ですが，基本的に画面はオンにした状態で参加していただきますので，周辺環境の整備をよろしくお願いします。",
+    "teacher_message": "本講義を通して，みなさんが少しでも心理学という学問に興味が持てたり，日常生活に生かせたりするような知識をお伝えしていきたいと思っています。教科書や授業資料を適宜読み返すことで，知識の定着に努めてください。また，オンライン講義ですが，基本的に画面はオンにした状態で参加していただきますので，周辺環境の整備をよろしくお願いします。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション：心理学の成り立ち",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -73,9 +73,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "心と脳：心を支える脳のメカニズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -83,9 +83,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "感覚と知覚：環境を認識する心の働き",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "記憶：過去を記録する心の働き",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "学習：未来に備える心の働き",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -113,9 +113,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "言語・思考：知性と創造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "情動：心のダイナミズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "動機づけ：人を動かす要因",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -143,9 +143,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "性格：人柄のバラエティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "人間と社会：人はいかに社会的存在か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "社会的影響：集団の中の文法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "人間関係：人と人が向き合うとき",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -183,9 +183,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "集団・組織そして規範：「個人の集合」を超えて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -193,6 +193,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

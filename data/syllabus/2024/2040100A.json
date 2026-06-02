@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:04:34Z",
+    "fetched_at": "2025-04-07T11:04:34Z",
     "name_ja": "地域スポーツ経営論Ⅰ",
     "name_en": "Theory of community sports management Ⅰ",
     "syllabus_number": "2040100A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,40 +27,40 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンデマンド"
     ],
-    "themes_and_goals": "本講義における「地域スポーツ経営」は、地域が有するスポーツ資源を活用することを通じて、地域課題を解決すると共に地域のスポーツ資源をさらに拡大するという概念である。\n　本講義では、「地域スポーツ経営」の具体策の創造に不可欠なスポーツ環境である国内外のスポーツ政策、健康政策、スポーツ参加状況などについて理解する。\n　そして、スポーツツーリズムという観点から「地域スポーツ経営」の具立的スポーツ推進事例を知る。\n【到達目標】\n1．国内外のスポーツ政策について説明することが出来る。\n2．スポーツツーリズムという概念を説明できる。\n3．地域スポーツ振興の具体事例を理解している。",
+    "objectives": "本講義における「地域スポーツ経営」は、地域が有するスポーツ資源を活用することを通じて、地域課題を解決すると共に地域のスポーツ資源をさらに拡大するという概念である。\n　本講義では、「地域スポーツ経営」の具体策の創造に不可欠なスポーツ環境である国内外のスポーツ政策、健康政策、スポーツ参加状況などについて理解する。\n　そして、スポーツツーリズムという観点から「地域スポーツ経営」の具立的スポーツ推進事例を知る。\n【到達目標】\n1．国内外のスポーツ政策について説明することが出来る。\n2．スポーツツーリズムという概念を説明できる。\n3．地域スポーツ振興の具体事例を理解している。",
     "overview": "約1時間程度のオンデマンドによる講義を受講し、各講義内容の確認小テスト及びレスポンスペーパー・小課題をフォームスに提出することで学習を深める。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "適宜指示する。"
     },
-    "evaluation_criteria": "【到達目標】を⑪で示す方法で評価する。",
+    "grading_criteria": "【到達目標】を⑪で示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 50,
-        "レポート": 35,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 15
+        "exam": 0,
+        "quiz": 50,
+        "report": 35,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 15
     },
-    "message_from_teachers": "復習として、講義内容を文章化することを推奨する。",
+    "teacher_message": "復習として、講義内容を文章化することを推奨する。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "地域スポーツ経営の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "スポーツ政策の基本理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "国際的なスポーツ推進体制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "北米のスポーツ政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "イギリスのスポーツ政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "日本のスポーツ参加状況",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "国内外の健康政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "子どものスポーツ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "地域スポーツ振興に関わるスポーツ産業振興",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "スポーツツーリズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "スポーツツーリズム2",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域課題の解決とスポーツ振興－南紀白浜トライアスロン大会の課題－",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域スポーツコミッションの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,6 +208,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

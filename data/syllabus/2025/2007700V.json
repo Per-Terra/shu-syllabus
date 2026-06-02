@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:59:44Z",
+    "fetched_at": "2025-04-04T05:59:44Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700V",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "東恩納　玲代",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,41 +26,41 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、スポーツ・健康分野の研究方法を学び、卒業研究論文完成に向けて論文を執筆する。\n1）伝わりやすい文章を書ける。\n2）測定・調査が実施できる。\n3）目的に沿った統計解析を選択できる。\n4）卒業研究論文を完成させる。",
+    "objectives": "本ゼミでは、スポーツ・健康分野の研究方法を学び、卒業研究論文完成に向けて論文を執筆する。\n1）伝わりやすい文章を書ける。\n2）測定・調査が実施できる。\n3）目的に沿った統計解析を選択できる。\n4）卒業研究論文を完成させる。",
     "overview": "専門Ⅰでの学びを活かし、卒業研究論文を作成する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [],
-        "brings": "モバイル端末",
+        "recommended": [],
+        "required_materials": "モバイル端末",
         "other": "必要に応じて適宜資料を配布する。"
     },
-    "evaluation_criteria": "本文への取り組み状況、測定・調査への意欲・態度、データの取り扱いで総合的に評価します。",
+    "grading_criteria": "本文への取り組み状況、測定・調査への意欲・態度、データの取り扱いで総合的に評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "卒業研究論文執筆に向けて、常日頃からスポーツ健康科学に興味関心を持ち、何事にも自ら考え計画的かつ意欲的に取り組むことに努めてください。",
+    "teacher_message": "卒業研究論文執筆に向けて、常日頃からスポーツ健康科学に興味関心を持ち、何事にも自ら考え計画的かつ意欲的に取り組むことに努めてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業の概要、シラバス、授業の進め方、成績評価の方法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2～4",
+            "number": "2～4",
             "content": "卒業研究論文計画書の作成：卒業研究論文計画書の修正を行い、完成させる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "5～7",
+            "number": "5～7",
             "content": "卒業研究論文作成：緒言を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "卒業研究論文作成：緒言を作成する。測定・調査結果データ入力のための準備を行う。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "卒業研究論文作成：緒言を完成させる。方法を作成する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "卒業研究論文作成：方法を修正する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "卒業研究論文作成：方法を完成させる。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "卒業研究論文作成：測定・調査を実施する。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "13～15",
+            "number": "13～15",
             "content": "卒業研究論文作成：データ入力、データ整理、統計解析を行う。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "16～30",
+            "number": "16～30",
             "content": "卒業研究論文の完成に取り組む：引用（剽窃、盗用、解釈）に注意して、卒業研究論文の完成に取り組む。",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -158,6 +158,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

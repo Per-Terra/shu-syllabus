@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T11:06:21Z",
+    "fetched_at": "2025-04-07T11:06:21Z",
     "name_ja": "経済学入門Ⅱ",
     "name_en": "Introduction to EconomicsⅡ",
     "syllabus_number": "2106800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "岩本　直",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）マクロ経済学に関する基礎的事項について理解できる。",
+    "objectives": "【到達目標】\n（１）マクロ経済学に関する基礎的事項について理解できる。",
     "overview": "本講義では主にマクロ経済学の基礎にを学習する。まずは一国の経済力の指標であるGDP（国内総生産）と経済指標の見方、GDPの決定について講義する。次に、消費と貯蓄の異時点間選択、ライフサイクル仮説と恒常所得仮説、ケインズの投資理論といった消費と投資の理論について分析を行う。また、貨幣の需要と供給について取り上げ、続いて、IS−LM分析について講義を行う。次いで、経済政策の有効性について分析を行い、景気変動と経済政策、財政・金融政策の手段、そして、財政・金融政策の有効性について検討する。さらに、オープン・マクロ経済について分析を行い、次いで、労働市場と総需要・総供給について講義を行う。そして、インフレーションと失業について取り上げる。最後に、経済成長について取り上げ、その理論の定式化を利用し、アメリカのデータを用いて計量経済学的な分析を行うことも目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "経営コースDP1",
@@ -42,10 +42,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "マンキュー入門経済学（第3版）",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "N・グレゴリー・マンキュー",
             "publisher": "東洋経済新報社",
             "price": 3520,
@@ -53,31 +53,31 @@
             "available_on_campus": true
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
-    "evaluation_criteria": "・マクロ経済学に関する基礎的事項について理解できる。\n上記の基準を⑪によって評価する。",
+    "grading_criteria": "・マクロ経済学に関する基礎的事項について理解できる。\n上記の基準を⑪によって評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分でさらに深く調べてみる等、学習の深掘りをすること。\n講義形式で授業を進めていく。授業の理解を進める上で学生には受動的に講義を受けるのではなく、世の中の経済情勢の動き等に関心を持って授業に臨んでもらいたい。",
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分でさらに深く調べてみる等、学習の深掘りをすること。\n講義形式で授業を進めていく。授業の理解を進める上で学生には受動的に講義を受けるのではなく、世の中の経済情勢の動き等に関心を持って授業に臨んでもらいたい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "マクロ経済学の基本１/マクロ経済活動のとらえ方、GDPの概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "マクロ経済学の基本２/三面等価の法則、物価指数",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "GDP決定のメカニズム１/ケインズ経済学、国民所得決定のメカニズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "GDP決定のメカニズム２/財市場と貨幣市場の均衡",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "マクロ経済主体の行動１/家計の消費行動、企業の投資行動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "マクロ経済主体の行動２/政府の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "財政/財政赤字、公債は誰が返すのか",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "金融/ハイパワード・マネー、中央銀行の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "景気と失業/雇用と労働市場、長時間労働",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "インフレとデフレ/よいインフレと悪いインフレ、バブル経済とその崩壊",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "経済成長/高度経済成長と経済成長の低迷化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "国際経済/貿易の利益、経済統合と通貨統合",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "マクロ経済政策/政治と経済の関係、政府の信頼性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総括/本授業の内容の振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
 }

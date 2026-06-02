@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:01:17Z",
+    "fetched_at": "2025-04-04T06:01:17Z",
     "name_ja": "言語情報学",
     "name_en": "Linguistics",
     "syllabus_number": "2025900B",
     "course_number": "31-2-21-32-04",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "立部　文崇",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1.\t自然言語の分析に関わる形態素、音素など基礎的な用語と仕組みが理解できる\n2.\t自然言語の分析を通して明らかとされている知見について理解できる\n3.\t自然言語の分析を通して明らかにされることと他分野との関連について考えることができる",
+    "objectives": "1.\t自然言語の分析に関わる形態素、音素など基礎的な用語と仕組みが理解できる\n2.\t自然言語の分析を通して明らかとされている知見について理解できる\n3.\t自然言語の分析を通して明らかにされることと他分野との関連について考えることができる",
     "overview": "コンピュータが理解し、処理を実行するための命令にプログラミング言語が用いられるのに対し、我々人間がコミュニケーションに用いる言語は自然言語と呼ばれます。この自然言語は、日常的に行われる情報伝達には、必要不可欠なものです。本授業では、情報伝達において「自然言語」がどのような役割を果たしているのかを考える上での基本的な知識、考え方を身に付けます。授業では、一般的に、「言語学」と呼ばれる学問について考えていきます。具体的には、私たちの身の回りにある「自然言語」がどのようなものかをゆっくり考えることから始め、自然言語における文法の成り立ち、用語のあり方、自然言語の分析に関わる基礎的な概念、いくつかの研究手法について学びます。その後、自然言語の分析が現在、他分野においてどのように活用されているのかを紹介します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP4",
         "経営コースDP4",
         "知財開発コースDP4",
@@ -42,7 +42,7 @@
     "textbooks": [
         {
             "title": "はじめての言語学",
-            "year": 2004,
+            "publication_year": 2004,
             "author": "黒田龍之助",
             "publisher": "講談社",
             "price": 946,
@@ -51,7 +51,7 @@
         },
         {
             "title": "ふだん使いの言語学",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "川添愛",
             "publisher": "新潮選書",
             "price": 1595,
@@ -59,10 +59,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "言語学入門―これから始める人のための入門書",
-            "year": 2004,
+            "publication_year": 2004,
             "author": "佐久間 淳一 , 町田 健 , 加藤 重広",
             "publisher": "KENKYUSHA",
             "price": 1980,
@@ -71,7 +71,7 @@
         },
         {
             "title": "言語学入門",
-            "year": 2010,
+            "publication_year": 2010,
             "author": "斎藤純男",
             "publisher": "三省堂",
             "price": 2310,
@@ -79,27 +79,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "毎回必要とはしないが、指示によりPCの持参を必要とする場合がある",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "毎回必要とはしないが、指示によりPCの持参を必要とする場合がある",
         "other": ""
     },
-    "evaluation_criteria": "1.\t自然言語の分析に関わる用語や仕組みに関する基本的な知識\n2.\t自然言語の分析結果の活用事例\n3.\t自然言語の分析方法の基本的な知識\n4.\t自然言語の分析\n\nこれら４つの視点についての理解度を以下の「学生に対する評価」により評価する。\n\n課題レポート　40%、授業ごとの小課題30％、２回の小レポート30％",
+    "grading_criteria": "1.\t自然言語の分析に関わる用語や仕組みに関する基本的な知識\n2.\t自然言語の分析結果の活用事例\n3.\t自然言語の分析方法の基本的な知識\n4.\t自然言語の分析\n\nこれら４つの視点についての理解度を以下の「学生に対する評価」により評価する。\n\n課題レポート　40%、授業ごとの小課題30％、２回の小レポート30％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 30,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 30,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "私たちの周りにある「ことば（自然言語）」は、私たちの社会を形成する基盤となるもののひとつです。この「ことば（自然言語）」の観察、分析を通して、社会を考えます。「ことば（自然言語）」の観察方法、分析方法を知ることで、社会の片鱗を知ることができます。授業に参加するにあたっては、授業内容にとどまらず、その内容が他分野とどのように連関可能かをも考えるようにしてください。そのためにも授業前に、該当ページを通読してください（予習・30分程度）。授業終了後、毎回の小課題に取り組んでください。このとき、授業で提供したPPTなどを参考にしてください（復習・60分程度）。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "私たちの周りにある「ことば（自然言語）」は、私たちの社会を形成する基盤となるもののひとつです。この「ことば（自然言語）」の観察、分析を通して、社会を考えます。「ことば（自然言語）」の観察方法、分析方法を知ることで、社会の片鱗を知ることができます。授業に参加するにあたっては、授業内容にとどまらず、その内容が他分野とどのように連関可能かをも考えるようにしてください。そのためにも授業前に、該当ページを通読してください（予習・30分程度）。授業終了後、毎回の小課題に取り組んでください。このとき、授業で提供したPPTなどを参考にしてください（復習・60分程度）。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "Introduction 「言語学」ってなに?-言語学のポイント-",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "「言語学」の「言語」とは何か?-動物の鳴き声は言語か?",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "「言語」を「音」から考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "世界の「ことば」の「音」",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ことばの「文法」について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "「語」について考える-「ハンバーガー」の切れ目はどこ?",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -157,9 +157,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "文の作り方について考える-文の並び方・言語の線状性と文節",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -167,9 +167,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "「文」の意味-文のあいまい性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -177,9 +177,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "無意識の言語への知識を眺める：意味編",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "無意識の言語への知識を眺める：文法編",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "言語データを分析してみる①時の流れによる言葉の変化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "言語データを分析してみる②コーパスを使って検索してみる",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -217,9 +217,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "言語データを分析してみる③コーパスを使って、無意識の日本語を観る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -227,9 +227,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "言語データを分析してみる④性差、世代による言葉の使い方を観る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -237,9 +237,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "「言語学」と関連分野の関わり-今後の社会に言語学が役立つこと-",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -247,6 +247,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "なし"
+    "credit_auditing": true,
+    "practitioner_info": "なし"
 }

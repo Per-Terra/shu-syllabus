@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:04:45Z",
+    "fetched_at": "2025-04-07T11:04:45Z",
     "name_ja": "都市経済学",
     "name_en": "Urban Economics",
     "syllabus_number": "2040800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "伏木　貞文",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "都市とは何か、地域とは何か、現代の都市や地域が直面する諸問題について概説した上で、都市化のメカニズム、都市規模と都市システム、土地利用、企業・産業・住宅の立地、地域間格差と人口移動、都市交通などについて理解を深める。\n\n【到達目標】\n（１）現実の都市が直面している諸問題についての理解を深める\n（２）都市化、都市の集積、地域間人口移動等に関する経済理論を身につける\n（３）都市・地域に関する経済理論を基に身のまわりの社会事象について考察を行うこと",
+    "objectives": "都市とは何か、地域とは何か、現代の都市や地域が直面する諸問題について概説した上で、都市化のメカニズム、都市規模と都市システム、土地利用、企業・産業・住宅の立地、地域間格差と人口移動、都市交通などについて理解を深める。\n\n【到達目標】\n（１）現実の都市が直面している諸問題についての理解を深める\n（２）都市化、都市の集積、地域間人口移動等に関する経済理論を身につける\n（３）都市・地域に関する経済理論を基に身のまわりの社会事象について考察を行うこと",
     "overview": "都市とは何か、地域とは何か、現代の都市や地域が直面する諸問題について概説したうえで、都市化のメカニズム、都市規模と都市システム、土地利用、企業・産業・住宅の立地、地域間格差と人口移動、都市交通などについて理解を深める。本講義を通じ、①現実の都市が直面している諸問題についての理解を深める、②都市化、都市の集積、地域間人口移動等に関する経済理論を身につける、③都市・地域に関する経済理論を基に受講者が身のまわりの社会事象についての考察を行うことを目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2",
         "現代経済学科DP4",
         "経済経営学科DP1",
@@ -39,10 +39,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "都市・地域経済学への招待状",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "佐藤泰裕",
             "publisher": "有斐閣",
             "price": 1980,
@@ -50,31 +50,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。\n講義内容をもとに考察を深めるミニ事例研究（小レポート）を課す。",
+    "grading_criteria": "講義で扱った内容に関して、以下の「学生に対する評価」に基づいて評価を行う。\n講義内容をもとに考察を深めるミニ事例研究（小レポート）を課す。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 50,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "【予習・復習について】\n予習は、指定があるときには参考図書の該当部分を読んでおくこと、。\n復習は、授業の知識の定着とともに自分の疑問や提案を整理しておくこと。\nこれら予習・復習を合わせて６０～９０分程度行うことが望ましい。",
+    "teacher_message": "【予習・復習について】\n予習は、指定があるときには参考図書の該当部分を読んでおくこと、。\n復習は、授業の知識の定着とともに自分の疑問や提案を整理しておくこと。\nこれら予習・復習を合わせて６０～９０分程度行うことが望ましい。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/都市・地域について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "都市化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "都市集積の理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "都市内の土地利用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "住宅立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "企業・産業立地",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "地域経済の構造",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "地域間格差",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "都市規模の理論と地域間人口移動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "都市・地域の交通",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "都市・地域の環境問題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "都市・地域の防災とリスクシェア",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "公共部門と地方公共財(1)/地方政府の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "公共部門と地方公共財(2)/地方公共財、サミュエルソン条件",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "講義のまとめ・振り返り",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,6 +222,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "地方公共団体での勤務経験を踏まえ、事例を交えて講義を行う。"
+    "credit_auditing": true,
+    "practitioner_info": "地方公共団体での勤務経験を踏まえ、事例を交えて講義を行う。"
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:27Z",
+    "fetched_at": "2025-04-04T06:04:27Z",
     "name_ja": "感性情報処理",
     "name_en": "Kansei Information Processing",
     "syllabus_number": "2104500A",
     "course_number": "31-2-24-31-01",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "河村　拓実",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第１クォーター",
@@ -27,18 +27,18 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．感性工学の手法と商品開発のプロセスと特徴について修得できる。\n２．感性評価実験について修得できる。\n３．感性データ分析の手法と分析結果のデザインへの応用について修得できる。",
+    "objectives": "１．感性工学の手法と商品開発のプロセスと特徴について修得できる。\n２．感性評価実験について修得できる。\n３．感性データ分析の手法と分析結果のデザインへの応用について修得できる。",
     "overview": "本講義は、感性工学の理論を理解し、実験、統計、多変量解析、データ分析、デザイン案の創出について演習を交え学習する。\n感性工学の考え方や様々な手法について学び、感性工学の事例を修得する。さらに、感性評価実験の方法およびデータ分析の方法について演習を通じて学ぶ。実際の商品デザインを例に、実験とデータ分析の結果をまとめ、デザイン案を提案する。また、感性工学で用いられるAI技術について講義する。\n講義と演習を併用して授業を進める。講義では理論と手法を学び、演習で実際に手法を適用しデザイン案の検討方法を修得する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP2"
     ],
     "textbooks": [
         {
             "title": "感性工学とAI､VRへの応用",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "長町三生 監修",
             "publisher": "海文堂出版株式会社",
             "price": 2750,
@@ -46,10 +46,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "人間工学ガイド　増補版　-感性を科学する方法-",
-            "year": 2009,
+            "publication_year": 2009,
             "author": "慶應義塾大学福田忠彦研究室　編著",
             "publisher": "サイエンティスト社",
             "price": 3300,
@@ -57,31 +57,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": "なし"
     },
-    "evaluation_criteria": "１．感性、感性工学の概念とデザインへの適用例\n２．感性工学の方法\n３．感性評価実験の方法\n４．感性工学によるデザイン開発手法\n１〜４について、以下の方法で評価する。\n毎回の小テスト（４０％）、課題レポート（４０％）、プレゼンテーション（２０％）",
+    "grading_criteria": "１．感性、感性工学の概念とデザインへの適用例\n２．感性工学の方法\n３．感性評価実験の方法\n４．感性工学によるデザイン開発手法\n１〜４について、以下の方法で評価する。\n毎回の小テスト（４０％）、課題レポート（４０％）、プレゼンテーション（２０％）",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 40,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 40,
+        "report": 40,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "感性工学は、人間の感性をデザインに適用する日本発の手法です。感性工学は海外の多くの企業で使われており、”Kansei Engineering”は英語で通用する世界共通のデザイン手法になっています。実際の感性工学は非常に多岐にわたる内容を含みますが、実験とデータ分析に特化して講義します。\n【事前・事後学修】予習として、予備的知識を整理した教材（講義の中で紹介します）などを予め学習した上で授業に臨んでください(30～1時間程度を想定)。授業時に学んだ知識や技術の定着のため、復習として、理解のレベルに合わせた教材（講義の中で紹介します）での学習、提示する課題、授業で扱った演習の別事例での再現・拡張(1～2時間を想定)などに取り組んでください。 \n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "感性工学は、人間の感性をデザインに適用する日本発の手法です。感性工学は海外の多くの企業で使われており、”Kansei Engineering”は英語で通用する世界共通のデザイン手法になっています。実際の感性工学は非常に多岐にわたる内容を含みますが、実験とデータ分析に特化して講義します。\n【事前・事後学修】予習として、予備的知識を整理した教材（講義の中で紹介します）などを予め学習した上で授業に臨んでください(30～1時間程度を想定)。授業時に学んだ知識や技術の定着のため、復習として、理解のレベルに合わせた教材（講義の中で紹介します）での学習、提示する課題、授業で扱った演習の別事例での再現・拡張(1～2時間を想定)などに取り組んでください。 \n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "感性工学とは：感性とはなにか？感性工学の誕生と商品開発のプロセス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "感性工学の手法：感性工学のタイプと事例",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -99,9 +99,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "意味微分法（SD法）：SD法の目的と手順",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -109,9 +109,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "SD評価実験：実際のデザインを例にしたSD評価実験とデータ収集",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "感性データ分析①：数量化理論I類、因子分析",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "デザイン案の検討①：分析結果の考察とデザイン案の検討、KJ法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "デザイン案のプレゼンテーション①：グループワークとデザイン案のプレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "一対比較法：一対比較法の目的と手順",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "一対比較実験：実際のデザインを例にした一対比較実験とデータ収集",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "感性データ分析②：分散分析法と統計的検定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "デザイン案の検討②：分析結果の考察とデザイン案の検討、UXデザイン",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "デザイン案のプレゼンテーション②：グループワークとデザイン案のプレゼンテーション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -199,9 +199,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "感性工学分析のAI手法①：ニューラルネットワークによる主成分分析、自己組織化マップ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -209,9 +209,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "感性工学分析のAI手法②：PLS回帰分析",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -219,9 +219,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "感性工学システム：Twitterテキスト分析によるトレンド解析の応用",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -229,6 +229,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

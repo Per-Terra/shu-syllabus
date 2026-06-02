@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:07:13Z",
+    "fetched_at": "2025-04-07T11:07:13Z",
     "name_ja": "医学概論",
     "name_en": "Introduction to medicine",
     "syllabus_number": "2122300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "木村　相泰",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,18 +26,18 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "①人のライフステージにおける心身の変化と健康課題について説明することができる。\n②人の身体構造と心身機能について説明することができる。\n③健康・疾病の捉え方について説明することができる。\n④疾病と障害の成り立ち及び回復過程について説明することができる。\n⑤公衆衛生の観点から、人々の健康に影響を及ぼす要因や健康課題を解決するための対策を説明することができる。",
+    "objectives": "①人のライフステージにおける心身の変化と健康課題について説明することができる。\n②人の身体構造と心身機能について説明することができる。\n③健康・疾病の捉え方について説明することができる。\n④疾病と障害の成り立ち及び回復過程について説明することができる。\n⑤公衆衛生の観点から、人々の健康に影響を及ぼす要因や健康課題を解決するための対策を説明することができる。",
     "overview": "本科目では、ライフステージごとの心身の変化と健康課題や、健康及び疾病の捉え方を学ぶ。そして身体構造や心身機能、疾病と障害の成り立ち及び回復過程についても学習する。さらに制度としての公衆衛生も学ぶ。\n授業目標は以下のとおりである。\n　①人のライフステージにおける心身の変化と健康課題について理解する。\n　②人の身体構造と心身機能について理解する。\n　③健康・疾病の捉え方について理解する。\n　④疾病と障害の成り立ち及び回復過程について理解する。\n　⑤公衆衛生の観点から、人々の健康に影響を及ぼす要因や健康課題を解決するための対策を理解する。\nこの授業を通して、ソーシャルワークの対象となる人の特性としての健康について理解を深め、それらの人の生活課題を解決する制度としての公衆衛生を理解し活用できる力を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2"
     ],
     "textbooks": [
         {
             "title": "最新　社会福祉士養成講座　精神保健福祉士養成講座１ 医学概論",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "一般社団法人日本ソーシャルワーク教育学校連盟 編集",
             "publisher": "中央法規出版",
             "price": 2750,
@@ -45,28 +45,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "教科書、筆記用具",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "教科書、筆記用具",
         "other": "解剖学、生理学及び医学知識の理解を必要とするため、十分な事前学習が必要である。"
     },
-    "evaluation_criteria": "①人のライフステージにおける心身の変化と健康課題について理解できる。\n②人の身体構造と心身機能について理解できる。\n③健康・疾病の捉え方について理解できる。\n④疾病と障害の成り立ち及び回復過程について理解できる。\n⑤公衆衛生の観点から、人々の健康に影響を及ぼす要因や健康課題を解決するための対策を理解できる。\n上記①～⑤の理解度を、次の方法で評価する。\n筆記試験60％、課題レポート40％",
+    "grading_criteria": "①人のライフステージにおける心身の変化と健康課題について理解できる。\n②人の身体構造と心身機能について理解できる。\n③健康・疾病の捉え方について理解できる。\n④疾病と障害の成り立ち及び回復過程について理解できる。\n⑤公衆衛生の観点から、人々の健康に影響を及ぼす要因や健康課題を解決するための対策を理解できる。\n上記①～⑤の理解度を、次の方法で評価する。\n筆記試験60％、課題レポート40％",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "福祉の専門家となるに相応しい知識や科学的思考を習得すること目標とするが、ヒトを対象とする医学に対する興味を持つようになることにも待したい。\n取り扱う範囲が非常に広いため、全ての事項について詳細に触れることは困難であることから、主体的かつ充分な授業外学習が期待される。",
+    "teacher_message": "福祉の専門家となるに相応しい知識や科学的思考を習得すること目標とするが、ヒトを対象とする医学に対する興味を持つようになることにも待したい。\n取り扱う範囲が非常に広いため、全ての事項について詳細に触れることは困難であることから、主体的かつ充分な授業外学習が期待される。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ライフステージにおける心身の変化と健康課題①\n－ライフステージにおける心身の変化と健康課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ライフステージにおける心身の変化と健康課題②\n－心身の加齢・老化",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ライフステージにおける心身の変化と健康課題③\n－ライフステージ別の健康課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "健康及び疾病の捉え方①\n－健康の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "健康及び疾病の捉え方②\n－疾病の概念",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "健康及び疾病の捉え方③\n－国際生活機能分類（ICF）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "身体構造と心身機能①\n－人体部位の名称",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "身体構造と心身機能②\n－基幹系と臓器の役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "疾病と障害の成り立ち及び回復過程①\n－疾病の発生要因",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "疾病と障害の成り立ち及び回復過程②\n－病変の成立機序",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "疾病と障害の成り立ち及び回復過程③\n－障害の概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "疾病と障害の成り立ち及び回復過程④\n－リハビリテーションの概要と範囲",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "疾病と障害の成り立ち及び回復過程⑤\n－疾病と障害及びその予防・治療・予後・リハビリテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "公衆衛生①\n－公衆衛生の概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,14 +204,14 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "公衆衛生②\n－健康増進と保健医療対策",
-            "methods": [],
+            "teaching_methods": [],
             "teachers": [
                 "木村　相泰"
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "口腔外科医（歯科医師）として臨床に携わった後に医師となり、医療（病理診断及び臨床）・教育・研究に従事している。\n実務経験に関連する授業内容：\n生体を理解するための解剖学や生理学と医学の関連性、及び各種の病気や障害が実臨床ではどのように理解され、診断・治療等されているかについても具体的に解説する。"
+    "credit_auditing": false,
+    "practitioner_info": "口腔外科医（歯科医師）として臨床に携わった後に医師となり、医療（病理診断及び臨床）・教育・研究に従事している。\n実務経験に関連する授業内容：\n生体を理解するための解剖学や生理学と医学の関連性、及び各種の病気や障害が実臨床ではどのように理解され、診断・治療等されているかについても具体的に解説する。"
 }

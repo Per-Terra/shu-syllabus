@@ -1,29 +1,29 @@
 {
-    "_fetched_at": "2025-04-07T10:53:44Z",
+    "fetched_at": "2025-04-07T10:53:44Z",
     "name_ja": "キャリアプランニング基礎",
     "name_en": "Career planning basics",
     "syllabus_number": "1009200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "坂本　勲",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -32,12 +32,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "オンライン"
     ],
-    "themes_and_goals": "授業テーマ：キャリア教育の基礎、自己分析、企業等の就活について学び、学生各自のキャリア計画を作成します。\n到達目標：(i)キャリアについての基礎的な知識を習得する。(ii)一般企業、公務員、教員の就職試験の概要を理解し、計画書（キャリアプランニングシート）が作成できる。(iii) 業界・企業研究をもとに各自が志望する企業等の企業分析レポートが作成できる。",
+    "objectives": "授業テーマ：キャリア教育の基礎、自己分析、企業等の就活について学び、学生各自のキャリア計画を作成します。\n到達目標：(i)キャリアについての基礎的な知識を習得する。(ii)一般企業、公務員、教員の就職試験の概要を理解し、計画書（キャリアプランニングシート）が作成できる。(iii) 業界・企業研究をもとに各自が志望する企業等の企業分析レポートが作成できる。",
     "overview": "キャリアについての基礎知識、企業・公務員・教員の各試験概要と対策、自己分析とキャリア・プランニングシートの作成、業界、職種、企業研究、企業分析レポートの作成",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP3",
         "現代経済学科DP4",
         "経営コースDP4",
@@ -45,28 +45,28 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "授業内でアップロードする資料を使用して授業を行います。"
     },
-    "evaluation_criteria": "業界、職種、企業研究を行ったうえでのキャリアプランニング計画が作成できているか。各自が志望する業界、企業の分析ができているか。",
+    "grading_criteria": "業界、職種、企業研究を行ったうえでのキャリアプランニング計画が作成できているか。各自が志望する業界、企業の分析ができているか。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 50
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 50
     },
-    "message_from_teachers": "この講座を通して各人のキャリア計画をしっかり立て、その後のキャリア形成に役立ててください。レポート作成に当たり、授業時間内だけでは作成時間が不足するので授業時間以外に時間を十分に取り、業界、業種、企業研究をしっかり行った上で、レポートを作成してください。\n\n授業外の学習課題（予習復習等） と時間（分）については授業計画を参照してください。",
+    "teacher_message": "この講座を通して各人のキャリア計画をしっかり立て、その後のキャリア形成に役立ててください。レポート作成に当たり、授業時間内だけでは作成時間が不足するので授業時間以外に時間を十分に取り、業界、業種、企業研究をしっかり行った上で、レポートを作成してください。\n\n授業外の学習課題（予習復習等） と時間（分）については授業計画を参照してください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション。受講の注意点。なぜ大学で学ぶのか。\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "登録会\nキャリア教育について、資格取得について\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "登録会\n一般企業、教員、公務員試験の概要と準備\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "自己分析（キャリアアンカーと仕事について、適性検査①の実施\n\n〇授業外の学習課題（予習復習等）（240分）\n①配布資料の復習 \n②適性検査①の作成、確認",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "適性検査②の実施\n自己分析\n\n〇授業外の学習課題（予習復習等）（240分）\n①配布資料の復習\n②適性検査の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "自己分析（適性検査の結果の把握とキャリプランニングシートⅠの作成）\n\n〇授業外の学習課題（予習復習等）（240分）\nキャリアプランニングシートⅠの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教員、公務員の就活の概要と準備、資格の活用、進学について\n\n〇授業外の学習課題（予習復習等）（240分）\nキャリアプランニングシートⅠの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -137,9 +137,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "自分のキャリアプランを考える\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "キャリプランニングシートⅡ作成演習、基本計画の作成\n\n〇授業外の学習課題（予習復習等）（240分）\n①配布資料の復習\n②キャリアプランニングシートⅡ作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャリプランニングシートⅡ作成演習、長期計画の作成\n\n〇授業外の学習課題（予習復習等）（240分）\n①配布資料の復習\n②キャリアプランニングシートⅡ作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "業界研究の具体的な方法\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "職種の種類と必要な適性\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -189,9 +189,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "希望する業界の調査、レポート作成演習①\n\n〇授業外の学習課題（予習復習等）（240分）\n配布資料の復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "希望する業界の調査、レポート作成演習②\n\n〇授業外の学習課題（予習復習等）（240分）\n企業調査レポートの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "独立開業について\n\n〇授業外の学習課題（予習復習等）（240分）\n企業調査レポートの作成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,6 +221,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

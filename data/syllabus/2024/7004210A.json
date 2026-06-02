@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:08:57Z",
+    "fetched_at": "2025-04-07T11:08:57Z",
     "name_ja": "ソフトボールⅠ",
     "name_en": "Softball I",
     "syllabus_number": "7004210A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,37 +26,37 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "・ソフトボールの基本的技術「投げる」「打つ」「捕る」が身に付いている。\n・ソフトボールの競技方法や規則について理解できている。\n・ゲームの審判をすることができる。",
+    "objectives": "・ソフトボールの基本的技術「投げる」「打つ」「捕る」が身に付いている。\n・ソフトボールの競技方法や規則について理解できている。\n・ゲームの審判をすることができる。",
     "overview": "本授業は学習指導要領（保健体育編）の体育分野領域の一つ「E球技」に構成されるベースボール型の球技である。ベースボール型とは身体やバットの操作と走塁での攻撃、ボール操作と定位置での守備などによって攻守を規則的に交代し、一定の回数内で相手より多くの得点を競い合うゲームである。そのため、授業内においては走・投・打といった個人に求められる基本的技能の習得を目指すとともに、ゲーム内での連携プレイを通してベースボール型球技の特性に触れる授業内容とする。\nまたルールや審判法に関する知識を学ぶとともに、ベースボール型球技に対する理解や指導方法を身につけることを目的とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "実技を行うのに相応しい身なりで受講すること。"
     },
-    "evaluation_criteria": "ソフトボールに関する基本的な知識や技術を習得しているかについて、以下の「学生に対する評価」により評価する。",
+    "grading_criteria": "ソフトボールに関する基本的な知識や技術を習得しているかについて、以下の「学生に対する評価」により評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 40,
-        "ポートフォリオ": 30,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 40,
+        "portfolio": 30,
+        "other": 0
     },
-    "message_from_teachers": "種目を学ぶだけでなく、種目を通して何を学ぶのかということを考えながら取り組んで行きましょう。",
+    "teacher_message": "種目を学ぶだけでなく、種目を通して何を学ぶのかということを考えながら取り組んで行きましょう。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション\n（授業概要・中学、高等学校の学習指導要領の説明）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -64,9 +64,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "キャッチボールに関する基礎知識1\n（キャッチング・スローイングの基礎）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -74,9 +74,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "キャッチボールに関する基礎知識2\n（前回の復習、遠投）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "キャッチボールに関する基礎知識3\n（前回の復習、クイックスロー）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "バッティングに関する基礎知識1\n（前回の復習、スイングの基礎）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "バッティングに関する基礎知識2\n（前回の復習、バットコントロール）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "バッティングに関する基礎知識3\n（前回の復習、遠くに打球を飛ばすコツ）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "バッティングに関する基礎知識4\n（前回の復習、ロングティー）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "バッティングに関する基礎知識5\n（前回の復習、フリーバッティング）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソフトボールの競技規則についての知識\n（ルールならびに審判法）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "守備に関する基礎知識1\n（前回の復習、ゴロの正しい捕球）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "守備に関する基礎知識2\n（前回の復習、フライの正しい捕球）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "守備に関する基礎知識3\n（前回の復習、フィールディング）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "守備に関する基礎知識4\n（前回の復習、内野のノック）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "守備に関する基礎知識5\n（前回の復習、外野のノック）",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -204,6 +204,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

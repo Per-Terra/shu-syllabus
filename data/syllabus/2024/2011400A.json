@@ -1,26 +1,26 @@
 {
-    "_fetched_at": "2025-04-07T10:59:00Z",
+    "fetched_at": "2025-04-07T10:59:00Z",
     "name_ja": "スポーツバイオメカニクス",
     "name_en": "Sports Biomechanics",
     "syllabus_number": "2011400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "西山　健太",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,12 +28,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1. 生理学、解剖学などの基礎知識を応用し、実際の身体運動の仕組みを力学的に理解できる。",
+    "objectives": "1. 生理学、解剖学などの基礎知識を応用し、実際の身体運動の仕組みを力学的に理解できる。",
     "overview": "本講義では、生理学、解剖学などの基礎知識を応用し、実際の身体運動の仕組みを力学的に理解することを目標とする。そのため、基礎領域として、筋系やエネルギー供給系、神経系、骨格系などについて解説した後、実践・応用領域では、走る、跳ぶ、投げるなどの基本的なスポーツ動作の成り立ちについて力学的観点から解説する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP1",
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
@@ -44,7 +44,7 @@
     "textbooks": [
         {
             "title": "スポーツ・バイオメカニクス入門 第4版",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "金子公宥・藤原敏行",
             "publisher": "杏林書院",
             "price": 2750,
@@ -52,10 +52,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "バイオメカニクス-身体運動の科学的基礎-",
-            "year": 2004,
+            "publication_year": 2004,
             "author": "金子公宥・福永哲夫",
             "publisher": "杏林書院",
             "price": 8250,
@@ -63,30 +63,30 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "解剖学",
             "生理学"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "筆記試験 100％",
+    "grading_criteria": "筆記試験 100％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 100,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 100,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "スポーツ動作を力学的な観点から分析することは、パフォーマンスをよりよく理解するうえでとても役に立ちます。ぜひ、この授業での学びをスポーツ活動に活かしてください。\n授業に参加するにあたって、次回の「授業の内容」を参照し、教科書該当ページを通読しておいてください。毎回の授業後には、その回の内容を振り返る小テストを実施します。配布資料等を用いて取り組んでください。\n\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "スポーツ動作を力学的な観点から分析することは、パフォーマンスをよりよく理解するうえでとても役に立ちます。ぜひ、この授業での学びをスポーツ活動に活かしてください。\n授業に参加するにあたって、次回の「授業の内容」を参照し、教科書該当ページを通読しておいてください。毎回の授業後には、その回の内容を振り返る小テストを実施します。配布資料等を用いて取り組んでください。\n\n\n【事前学習・事後学習の時間】あわせて 90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "身体運動に関係する筋",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "エネルギー供給",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "運動の指令と調整機構",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "身体の構造と運動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "運動と力学の法則①：運動の3法則",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "運動と力学の法則②：力学",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "バイオメカニクスの実際①：立つ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "バイオメカニクスの実際②：歩く",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "バイオメカニクスの実際③：走る",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "バイオメカニクスの実際④：高く跳ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "バイオメカニクスの実際⑤：遠くへ跳ぶ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "バイオメカニクスの実際⑥：投げる",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "バイオメカニクスの実際⑦：泳ぐ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

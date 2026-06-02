@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:22:41Z",
+    "fetched_at": "2024-08-08T01:22:41Z",
     "name_ja": "コンテンツビジネス入門",
     "name_en": "Introduction to Contents Business",
     "syllabus_number": "2044400A",
     "course_number": "02CP102",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "水田　直美",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,19 +27,19 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、コンテンツビジネスの誕生から現在までの状況を学び、将来の可能性について考えていく。コンテンツビジネスの定義や特徴、コンテンツビジネス産業の特徴と動向を理解する。急激に発達しているコンテンツビジネスを体系的・グローバル的に理解する。\n【到達目標】\n①コンテンツおよびコンテンツビジネスの定義や特徴を理解し、説明できる。\n②コンテンツビジネス産業の特徴と動向を理解し、説明できる。",
+    "objectives": "本講義では、コンテンツビジネスの誕生から現在までの状況を学び、将来の可能性について考えていく。コンテンツビジネスの定義や特徴、コンテンツビジネス産業の特徴と動向を理解する。急激に発達しているコンテンツビジネスを体系的・グローバル的に理解する。\n【到達目標】\n①コンテンツおよびコンテンツビジネスの定義や特徴を理解し、説明できる。\n②コンテンツビジネス産業の特徴と動向を理解し、説明できる。",
     "overview": "講義形式で進めていくが、学生は受動的に講義を受けるのではなく、主体的に事例や問題について考えてもらいたい。復習を通して、学生自身が知識と考える力を確実に身につけることができるようにする。\n※出欠はAAAパスワードの他、小テストによっても確認します。両方が満たされて出席となります。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "情報メディア白書2023",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "電通メディアイノベーションラボ",
             "publisher": "ダイヤモンド社",
             "price": 17600,
@@ -47,27 +47,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "筆記用具、ノートパソコン",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具、ノートパソコン",
         "other": "特定の教科書は使用せず、授業中に配布する資料を中心に進めていきます。上記以外の参考図書は講義内で適宜案内します。"
     },
-    "evaluation_criteria": "①コンテンツおよびコンテンツビジネスの定義や特徴、②コンテンツビジネス産業の特徴と動向、③コンテンツビジネスの具体例と問題点について「学生に対する評価」の内容で評価する。\n※「その他」は授業における発言の質や参加態度を評価する。",
+    "grading_criteria": "①コンテンツおよびコンテンツビジネスの定義や特徴、②コンテンツビジネス産業の特徴と動向、③コンテンツビジネスの具体例と問題点について「学生に対する評価」の内容で評価する。\n※「その他」は授業における発言の質や参加態度を評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 30,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 60,
+        "quiz": 30,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "コンテンツやコンテンツビジネスについての知識は、ゲーム、書籍の利用や、インターネットでの発信を適切に行う上でも必要です。関心を持って授業に参加してくれることを期待します。\n【予習・復習について】\n予習…配付資料について、事前に読んでおくこと。\n復習…実施内容について配付資料の該当箇所を読み返し、身近な事例についても考えること。\n※予習・復習合わせて60分程度を行うこと。",
+    "teacher_message": "コンテンツやコンテンツビジネスについての知識は、ゲーム、書籍の利用や、インターネットでの発信を適切に行う上でも必要です。関心を持って授業に参加してくれることを期待します。\n【予習・復習について】\n予習…配付資料について、事前に読んでおくこと。\n復習…実施内容について配付資料の該当箇所を読み返し、身近な事例についても考えること。\n※予習・復習合わせて60分程度を行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション／コンテンツおよびコンテンツビジネスを学ぶ上での基礎知識の確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "コンテンツビジネスの定義と特徴",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "コンテンツおよびコンテンツビジネス産業の歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "知的財産権",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "コンテンツ産業（1）出版産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "コンテンツ産業（2）音楽産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "コンテンツ産業（3）映像メディア産業（映画、テレビ）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "コンテンツ産業（4）映像メディア産業（ネット配信）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "コンテンツ産業（5）ゲーム産業",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "コンテンツ産業（6）インターネット利用（SNS、アプリケーション）",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "コンテンツ産業（7）イベント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "コンテンツ産業（8）ツーリズム",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "日本のコンテンツ産業政策（1）国内",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "日本のコンテンツ産業政策（2）海外に向けて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "まとめ\n※15回講義終了後に試験を実施",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,6 +215,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

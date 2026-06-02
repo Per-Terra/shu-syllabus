@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T00:56:44Z",
+    "fetched_at": "2024-08-08T00:56:44Z",
     "name_ja": "ドイツ語Ⅱ",
     "name_en": "German II",
     "syllabus_number": "1004800A",
     "course_number": "00FL203",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "新枝　美帆",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,16 +28,16 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。",
+    "objectives": "ドイツ語Ⅰ既修者を対象とするクラスであることから、中級文法へと内容を進めていくと同時に、初級文法を使って、読む、書く、聴く、話すの4技能を伸ばすことを目的としている。",
     "overview": "ドイツ語Ⅰで使用したテキストの中級文法はテキストに沿って、文法、表現を学習し、音読、練習問題に取り組むことで定着させる。また、新しいテキストを使い、既習内容の復習も兼ねて、たくさん書いてたくさん読んで、たくさん話す時間をとって、学生参加型の授業を展開する。\n＊ドイツ語Ⅰで使用したテキストと辞書は必ず持ってくること。\n\n※全授業数の３分の２以上の出席がないと、期末試験の受験資格はありません。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [
         {
             "title": "ドイツ語の収穫",
-            "year": 2015,
+            "publication_year": 2015,
             "author": "春日　正男　　高橋　泰雄",
             "publisher": "朝日出版社",
             "price": 2420,
@@ -45,28 +45,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
+    "grading_criteria": "「試験」60％、「小テスト」40％で評価する。「小テスト」は授業中に指定した課題、小テスト、ワークシートなどに対する評価とする。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "使えるドイツ語を目指して頑張りましょう！",
+    "teacher_message": "使えるドイツ語を目指して頑張りましょう！",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "授業の進め方についてのオリエンテーション\n発音練習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "Lektion１動詞の語尾変化と動詞の場所",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "Lektion２名詞の性・数・格／冠詞／複数形\nLektion１－２練習問題／クイズ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "Lektion３いろいろな冠詞／代名詞／疑問詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "Lektion４不規則変化動詞／命令形\nLektion３－４練習問題／クイズ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "Lektion５前置詞／人称代名詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "Lektion６分離動詞／再帰代名詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "Lektion５－６練習問題／クイズ\n読み物",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "Lektion７助動詞／未来形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "課題解説、復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "Lektion８形容詞の語尾変化",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "Lektion８形容詞の語尾変化\nLektion７－８練習問題／クイズ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "Lektion９動詞の基本３形／語順を変える接続詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "Lektion９動詞の基本３形／語順を変える接続詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "Lektion１０完了形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "Lektion１０完了形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "Lektion９－１０練習問題／クイズ\n読み物",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -251,9 +251,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "Lektion１１関係詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "Lektion１１関係詞",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -273,9 +273,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "Lektion１２比較",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "Lektion１２zu不定句",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "Lektion１１－１２練習問題／クイズ\n読み物",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "Lektion１３受動態",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "Lektion１３受動態",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "Lektion１４接続法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "Lektion１４接続法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "読み物",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -361,9 +361,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "読み物",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -372,9 +372,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "課題解説、復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -383,9 +383,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "試験対策",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -394,6 +394,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

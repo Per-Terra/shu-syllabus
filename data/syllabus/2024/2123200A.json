@@ -1,44 +1,44 @@
 {
-    "_fetched_at": "2025-04-07T11:07:21Z",
+    "fetched_at": "2025-04-07T11:07:21Z",
     "name_ja": "地域福祉キャリア形成活動Ⅰ",
     "name_en": "Community Welfare Career Development Activity I.",
     "syllabus_number": "2123200A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 福祉学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "小林　武生",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "牛島　豊広",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "金子　幸",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "北村　光子",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "伊藤　敏安",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "梅田　勝利",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -46,18 +46,18 @@
     "teaching_methods": [
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①社会人に求められるソーシャルスキルについて説明することができる。 \n②今後のキャリア選択肢について説明することができる。 \n③子ども、高齢者や障害のある方と関わり、支援の基盤となるコミュニケーションスキルについて説明することができる。",
+    "objectives": "①社会人に求められるソーシャルスキルについて説明することができる。 \n②今後のキャリア選択肢について説明することができる。 \n③子ども、高齢者や障害のある方と関わり、支援の基盤となるコミュニケーションスキルについて説明することができる。",
     "overview": "授業では、社会人基礎力の育成、社会人としての職業観の涵養、社会福祉事業・施設の理解、子ども、高齢者や障害のある方との関係構築について学び、活動を行う施設の職員、学生、担当教員の三者で協議したプログラムを実施・体験していく。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "福祉学科DP2"
     ],
     "textbooks": [
         {
             "title": "適宜、必要な資料を配布、もしくは紹介する。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -65,10 +65,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "適宜、必要な資料を配布、もしくは紹介する。",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -76,29 +76,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "地域福祉キャリア形成活動指導Ⅰ"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": "なし"
     },
-    "evaluation_criteria": "①社会人に求められるソーシャルスキル \n②今後のキャリアの選択肢 \n③子ども、高齢者や障害のある方とのコミュニケーションスキル",
+    "grading_criteria": "①社会人に求められるソーシャルスキル \n②今後のキャリアの選択肢 \n③子ども、高齢者や障害のある方とのコミュニケーションスキル",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 75,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 25
+        "exam": 0,
+        "quiz": 0,
+        "report": 75,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 25
     },
-    "message_from_teachers": "学外での実習が中心となる。実習では、周南公立大学の学生として、責任を持ち、積極的な行動をとることが求められる。また、社会福祉の現場を知ることはもちろん、礼儀作法やビジネスマナーもしっかり身に付けるように取り組むこと。実習に参加するにあたっては、実習施設から指示される課題に加え、その周辺領域の学びに取り組む必要がある。",
+    "teacher_message": "学外での実習が中心となる。実習では、周南公立大学の学生として、責任を持ち、積極的な行動をとることが求められる。また、社会福祉の現場を知ることはもちろん、礼儀作法やビジネスマナーもしっかり身に付けるように取り組むこと。実習に参加するにあたっては、実習施設から指示される課題に加え、その周辺領域の学びに取り組む必要がある。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -216,9 +216,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -261,9 +261,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -276,9 +276,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -291,9 +291,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "実習先での活動",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -321,6 +321,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

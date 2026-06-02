@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-04T06:06:03Z",
+    "fetched_at": "2025-04-04T06:06:03Z",
     "name_ja": "精神看護学概論",
     "name_en": "Introduction to Psychiatric and Mental Health Nursing",
     "syllabus_number": "2118700A",
     "course_number": "22-2-24-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 看護学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "羽生　貞親",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "大達　亮",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡田　昌也",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -34,12 +34,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．精神看護の目的および役割について説明することができる。\n２．精神看護における看護者の倫理および精神障害者の人権について説明することができる。\n３．精神看護の対象の持つ生活機能障害について説明することができる。\n４．精神看護における援助的人間関係を構築する方法について説明することができる。",
+    "objectives": "１．精神看護の目的および役割について説明することができる。\n２．精神看護における看護者の倫理および精神障害者の人権について説明することができる。\n３．精神看護の対象の持つ生活機能障害について説明することができる。\n４．精神看護における援助的人間関係を構築する方法について説明することができる。",
     "overview": "本授業では、精神看護の基本概念を理解し、精神障害を持つ個人とその家族への看護に必要な基礎的知識および技術を学修する。\n本授業では、精神医療および看護の変遷と動向、精神看護を実践する上で基盤となる人間関係論、看護者の倫理および精神障害者の人権について理解する。\n本授業を通して、精神看護に必要な理論や基礎的知識、技術を身につける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "看護学科DP1",
         "看護学科DP3",
         "看護学科DP4",
@@ -48,7 +48,7 @@
     "textbooks": [
         {
             "title": "ナーシング・グラフィカ精神看護学①情緒発達と精神看護の基本　第5版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "出口禎子／鷹野朋実（編集）",
             "publisher": "メディカ出版",
             "price": 2860,
@@ -57,7 +57,7 @@
         },
         {
             "title": "ナーシング・グラフィカ　精神看護学②精神障害と看護の実践　第5版",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "出口禎子／鷹野朋実（編集）",
             "publisher": "メディカ出版",
             "price": 3520,
@@ -65,32 +65,32 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "ノートパソコンまたはタブレット端末",
+        "required_materials": "ノートパソコンまたはタブレット端末",
         "other": "精神看護方法、精神看護実践、精神看護実習の先修条件科目である。"
     },
-    "evaluation_criteria": "レポート、期末試験、出席状況などの参加状況から総合的に評価する。",
+    "grading_criteria": "レポート、期末試験、出席状況などの参加状況から総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 30,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 10
+        "exam": 60,
+        "quiz": 0,
+        "report": 30,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 10
     },
-    "message_from_teachers": "授業は６月９日（月）が初回になります。\n精神看護について学ぶ初めての科目です。精神看護学概論で学修したことが、精神看護方法や精神看護実践の科目に繋がっていきますので、積極的に学修してもらえたらと思います。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "授業は６月９日（月）が初回になります。\n精神看護について学ぶ初めての科目です。精神看護学概論で学修したことが、精神看護方法や精神看護実践の科目に繋がっていきますので、積極的に学修してもらえたらと思います。（事前学習 45 分、事後学習 45 分）\n【オフィスアワー】\n講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "精神看護学の概要",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "精神医療および看護の変遷と動向",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "患者看護者関係",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -119,9 +119,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "治療的環境",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -129,9 +129,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "精神看護におけるコミュニケーション①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "精神看護におけるコミュニケーション②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "精神看護におけるコミュニケーション③",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "人権と倫理",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,6 +175,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "精神科領域において、看護師として勤務経験を持つ教員が授業を担当する。"
+    "credit_auditing": true,
+    "practitioner_info": "精神科領域において、看護師として勤務経験を持つ教員が授業を担当する。"
 }

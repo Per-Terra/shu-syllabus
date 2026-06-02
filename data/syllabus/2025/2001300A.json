@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T05:57:50Z",
+    "fetched_at": "2025-04-04T05:57:50Z",
     "name_ja": "経済政策",
     "name_en": "Economic Policy",
     "syllabus_number": "2001300A",
     "course_number": "11-2-22-22-05",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "岩本　直",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,37 +27,37 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "経済政策は、現代社会の運営のために必要不可欠な政策である。経済政策の対象は広範囲にわたり、私たちの生活に深く結びついている。本授業では経済政策を構成する個別の政策（産業政策、国土政策、中小企業政策等）を中心に解説する。\n\n【到達目標】\n①経済政策の概要及び推移を理解し、現在の経済政策の課題について理解できる。\n②経済政策と自らの生活との関わりについて理解できる。",
+    "objectives": "経済政策は、現代社会の運営のために必要不可欠な政策である。経済政策の対象は広範囲にわたり、私たちの生活に深く結びついている。本授業では経済政策を構成する個別の政策（産業政策、国土政策、中小企業政策等）を中心に解説する。\n\n【到達目標】\n①経済政策の概要及び推移を理解し、現在の経済政策の課題について理解できる。\n②経済政策と自らの生活との関わりについて理解できる。",
     "overview": "経済政策は国家の運営、現代社会の維持のために必要不可欠である。本講義ではまず、日本でこれまでに実施されてきた経済政策の全体概要、推移等について解説する。次に、経済政策を構成する個別の各政策（産業政策、国土政策、財政政策、中小企業政策、農業政策等）について解説する。これらの各個別政策については、さらに理解を深めるために、それぞれの実施要因、内容と効果、実施後の課題等についても解説する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
     },
-    "evaluation_criteria": "・経済政策の概要及び推移を理解し、現在の経済政策の課題について理解できる。\n・経済政策と自らの生活との関わりについて理解できる。\n上記の基準を⑪によって評価する。",
+    "grading_criteria": "・経済政策の概要及び推移を理解し、現在の経済政策の課題について理解できる。\n・経済政策と自らの生活との関わりについて理解できる。\n上記の基準を⑪によって評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 100,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 100,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深掘りをすること。\n\n\n【予習・復習】\n予習・復習は合わせて60分以上行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス/本授業の概要、受講にあたっての留意点",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "経済の仕組みと経済政策/経済政策の定義、アベノミクス",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -75,9 +75,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "経済政策の推移/戦前、戦後の経済政策の推移",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "産業政策、国土政策/産業政策、国土政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "中小企業政策/中小企業政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "農業政策、林業政策、水産業政策/農業政策、林業政策、水産業政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "労働政策/労働政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "医療政策、福祉政策/医療政策、福祉政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "観光政策/観光政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "都市政策/都市政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "財政政策/財政政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "金融政策/金融政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "科学技術政策、エネルギー政策、防災政策/科学技術政策、エネルギー政策、防災政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "通商政策/通商政策の推移と課題",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "開発援助政策/開発援助政策の推移と課題、国際平和維持の必要性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,6 +205,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
 }

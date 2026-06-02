@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:40Z",
+    "fetched_at": "2025-04-07T10:57:40Z",
     "name_ja": "専門ゼミⅡ",
     "name_en": "Seminar on Specialized Subjects II",
     "syllabus_number": "2007700EB",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 4,
-    "period": "",
+    "target_year": 4,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "赤木　真由",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは、専門ゼミⅠで設定したテーマついて研究をおこない、卒業論文を作成する。受講生は卒業研究を通じて、地域デザインのプロセスとして、問題の探索、定義、解決策の検討、検証、プレゼンテーションを実践的に身につける。\n\n①自分自身の関心に沿って研究テーマを設定できる\n②問題を設定し、その解決策を検証することができる\n③卒業論文として論理的に執筆し、発表することができる",
+    "objectives": "本ゼミでは、専門ゼミⅠで設定したテーマついて研究をおこない、卒業論文を作成する。受講生は卒業研究を通じて、地域デザインのプロセスとして、問題の探索、定義、解決策の検討、検証、プレゼンテーションを実践的に身につける。\n\n①自分自身の関心に沿って研究テーマを設定できる\n②問題を設定し、その解決策を検証することができる\n③卒業論文として論理的に執筆し、発表することができる",
     "overview": "受講生は自身の卒業研究プロジェクトについて主体的・自律的に企画進行していく。各回のゼミでは受講生は自身のプロジェクトの進行状況をレポートする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP4",
         "経営コースDP1",
         "経営コースDP2",
@@ -41,30 +41,30 @@
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "専門ゼミⅠ"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "各回の報告の内容および最終的に仕上げる卒業論文によって総合的に判断する。\n各回の報告：60％\n卒業論文：40％",
+    "grading_criteria": "各回の報告の内容および最終的に仕上げる卒業論文によって総合的に判断する。\n各回の報告：60％\n卒業論文：40％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "卒業研究に取り組むことで、自分自身が関心があるテーマについて深掘りし、論理的に物事を説明する力をつけることができます。また、自律的に研究プロセスを設計し、それを実行経験は、社会人となってからも活かすことができます。教員がサポートしますので、主体的に取り組んでいきましょう。（予習復習：4時間程度）",
+    "teacher_message": "卒業研究に取り組むことで、自分自身が関心があるテーマについて深掘りし、論理的に物事を説明する力をつけることができます。また、自律的に研究プロセスを設計し、それを実行経験は、社会人となってからも活かすことができます。教員がサポートしますので、主体的に取り組んでいきましょう。（予習復習：4時間程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：1年間の研究計画の策定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -72,9 +72,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "研究テーマの検討1：因果ループ図、コンテクスト図、ユースケース図などを使用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -82,9 +82,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "研究テーマの検討2：文献検索",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "研究テーマの設定",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "先行研究の調査1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "先行研究の調査2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "実証準備1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "実証準備2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実証1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "実証2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "実証結果の整理",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "実証結果の考察",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実証結果のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実証結果の報告",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "前期まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "先行研究の調査3",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "先行研究のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "序論執筆1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -242,9 +242,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "実証執筆1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -252,9 +252,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "序論執筆2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "実証執筆2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "全体的考察執筆1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -282,9 +282,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "実証執筆3",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -292,9 +292,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "全体的考察執筆2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -302,9 +302,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "序論執筆3",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -312,9 +312,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "卒論全体の調整",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -322,9 +322,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "卒業研究発表会の準備1",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -332,9 +332,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "卒業研究発表会の準備2",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -342,9 +342,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "卒業研究発表会",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -352,9 +352,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "総括：2年間のまとめと振り返り",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -362,6 +362,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

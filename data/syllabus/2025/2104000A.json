@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:24Z",
+    "fetched_at": "2025-04-04T06:04:24Z",
     "name_ja": "コンピュータグラフィックス",
     "name_en": "Computer Graphics",
     "syllabus_number": "2104000A",
     "course_number": "31-2-23-34-06",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部 情報科学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "呉　靭",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第４クォーター",
@@ -27,19 +27,19 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "１．ディジタル画像の基礎が理解できる。\n２．幾何学的変換が理解できる。\n３．モデリング、レンダリング、アニメーションの主な技法が理解できる。\n４．簡単なCG作品が制作できる。",
+    "objectives": "１．ディジタル画像の基礎が理解できる。\n２．幾何学的変換が理解できる。\n３．モデリング、レンダリング、アニメーションの主な技法が理解できる。\n４．簡単なCG作品が制作できる。",
     "overview": "コンピュータグラフィックスは現代のディジタル映像技術には欠かせないものであり、映像の表現の幅を広げてくれるものでもある。本講義では、コンピュータグラフィックスに関する基礎技術から近年の最新技術の動向について学習し、基礎的な画像の知識はもとより2D画像で用いられる色彩技能や画像処理技術、3D映像で用いられるプリミティブ・モデリング・レンダリング・ライティング・マテリアル・ノード設定・物理シミュレーションなどと言った多くの手技手法を学び、それらを実践することで様々な場面でCGを駆使することができる知識・技術を身に付ける。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2"
     ],
     "textbooks": [
         {
             "title": "コンピュータグラフィックス(改訂新版)",
-            "year": 2015,
+            "publication_year": 2015,
             "author": "",
             "publisher": "CG-ARTS協会",
             "price": 3960,
@@ -47,10 +47,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "Pov-Rayによる３次元CG制作 ―モデリングからアニメーションまで",
-            "year": 2020,
+            "publication_year": 2020,
             "author": "",
             "publisher": "CG-ARTS協会",
             "price": 3080,
@@ -58,27 +58,27 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "授業への取り組み30%、定期試験50%、CG作品制作20%",
+    "grading_criteria": "授業への取り組み30%、定期試験50%、CG作品制作20%",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 0,
-        "レポート": 0,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 50,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "授業に参加するにあたっては、事前に配布された授業資料および教科書該当ページを通読しておくこと。授業後は宿題を解き、知識を定着させてください。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
+    "teacher_message": "授業に参加するにあたっては、事前に配布された授業資料および教科書該当ページを通読しておくこと。授業後は宿題を解き、知識を定着させてください。\n\n【オフィスアワー】講義のある曜日　不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、CG技術の概要、CGソフトウェア(Pov-Ray)使用準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -87,9 +87,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "カラーモデル、ディジタル画像の基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -97,9 +97,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "CGのための数学の基礎",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -107,9 +107,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "幾何学的変換",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "実習１：オブジェクト、カメラ、ライトの関係",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "形状モデル、ソリッドモデルの形状表現",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "実習２：プリミティブ、オブジェクトの変形",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "曲線・曲面",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -159,9 +159,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "実習３：CGS手法、模様や質感の設定",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -170,9 +170,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ポリゴン曲面の表現、そのほかの形状生成手法",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "隠面消去、シェーディング、シャドウイング、マッピング",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -190,9 +190,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アニメーション、物理シミュレーション",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -200,9 +200,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "実習４：アニメーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "実習５：簡単なCG作品の制作",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総合復習",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -233,6 +233,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "なし"
+    "credit_auditing": false,
+    "practitioner_info": "なし"
 }

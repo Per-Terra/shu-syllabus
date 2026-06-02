@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:34Z",
+    "fetched_at": "2025-04-04T05:58:34Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600D",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "岡井　理香",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -28,12 +28,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、スポーツ科学領域の専門的なアカデミックスキルを学ぶとともに、企業および行政との地域共創事業に参画する。研究と実践の双方を重視するゼミ展開により、下記３点の目標を達成する。\n\n１）「学術的な問い」の設定方法、および研究における目的・方法・結果・考察の構成を説明できる。\n２）先行研究と地域のリサーチを通して、課題解決のためのアクションを起こすことができる。\n３）上記２および効果検証の結果をまとめ、発表することができる。",
+    "objectives": "本ゼミは「ウェルビーング・スポーツ・健康」をテーマとし、スポーツ科学領域の専門的なアカデミックスキルを学ぶとともに、企業および行政との地域共創事業に参画する。研究と実践の双方を重視するゼミ展開により、下記３点の目標を達成する。\n\n１）「学術的な問い」の設定方法、および研究における目的・方法・結果・考察の構成を説明できる。\n２）先行研究と地域のリサーチを通して、課題解決のためのアクションを起こすことができる。\n３）上記２および効果検証の結果をまとめ、発表することができる。",
     "overview": "授業で取り扱う内容、ゼミ生一人ひとりの興味・関心、希望に応じて多様かつ柔軟な形式でゼミを行う。上記の目標達成に向けて、課題を抽出する方法を学ぶとともに、課題を解決するための実践活動を通して、スポーツの本質的な意義と価値を深く考え学び、スポーツアドミニストレーション（統括・管理・提案・実行）に必要なスキルと経験の獲得を目指します。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3",
@@ -51,28 +51,28 @@
         "人間コミュニケーション学科DP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "主体性、レポート、プレゼンテーション、協同学習への貢献度等を総合的に評価する。",
+    "grading_criteria": "主体性、レポート、プレゼンテーション、協同学習への貢献度等を総合的に評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "本ゼミは、教育、地域、医科学、施設、ブランディング、プロモーション、ビジネス等、多角的な観点からスポーツや健康を分析し、事業の立案や企画運営、教育プログラムの開発等の活動を通して、社会的な実践力・行動力を高めたい学生を募集します。ゼミの配属にあたっては提出課題により選考を行い、「志望動機・主体性・学業・ゼミで取り組みたいことの具体性」等の観点から総合的に合否を決定します。",
+    "teacher_message": "本ゼミは、教育、地域、医科学、施設、ブランディング、プロモーション、ビジネス等、多角的な観点からスポーツや健康を分析し、事業の立案や企画運営、教育プログラムの開発等の活動を通して、社会的な実践力・行動力を高めたい学生を募集します。ゼミの配属にあたっては提出課題により選考を行い、「志望動機・主体性・学業・ゼミで取り組みたいことの具体性」等の観点から総合的に合否を決定します。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス・オリエンテーション",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "アカデミックスキル（研究テーマ・問いの設定）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "アカデミックスキル（先行研究・目的）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "アカデミックスキル（方法）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "アカデミックスキル（データ分析）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "アカデミックスキル（結果）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "アカデミックスキル（考察）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -147,9 +147,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "プレゼンテーション（研究テーマ・問いの設定・先行研究）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "プレゼンテーション（方法）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "協同学習（研究テーマ・問いの設定・先行研究）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -180,9 +180,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "協同学習（方法）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "地域実習①企画立案・準備",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "地域実習②活動実践",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "地域実習③リフレクション・ブラシュアップ",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "発表会・まとめ",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -232,6 +232,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
+    "credit_auditing": true,
+    "practitioner_info": "本授業は保健体育科教諭および日本スポーツ振興センターWPN（ワールドクラス・パスウェイ・ネットワーク）の加盟団体における研修講師の実務経験を有する教員が担当し、学校教育機関とスポーツ現場で求められているヘルスプロモーションの推進および教育実践に必要な知識とスキルを高める。"
 }

@@ -1,64 +1,64 @@
 {
-    "_fetched_at": "2025-04-07T10:55:00Z",
+    "fetched_at": "2025-04-07T10:55:00Z",
     "name_ja": "英会話初級Ⅱ（EB-2～5,HS,SW,N-2～3）",
     "name_en": "Basic Conversation II (EB-2~5, HS, SW, N-2~3)",
     "syllabus_number": "1013400B",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済経営学部 経済経営学科"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "ポーリーン",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ボールドウィン",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ダーシー",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ドワイヤー",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ホール",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ショーナ",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "ローン",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "トラバス",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "キャンベル",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "トレーシー",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "スコット",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -67,12 +67,12 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "①英語の音声への抵抗感をなくし言葉のリズムに慣れる\n②日常生活に根ざした場面でよく使われる単語や表現を学ぶ\n③身近な話題についての質問を大まかに理解し簡単な語や短い文で返答する\n④臆さずに英語で発話する",
+    "objectives": "①英語の音声への抵抗感をなくし言葉のリズムに慣れる\n②日常生活に根ざした場面でよく使われる単語や表現を学ぶ\n③身近な話題についての質問を大まかに理解し簡単な語や短い文で返答する\n④臆さずに英語で発話する",
     "overview": "英会話初級 Iに引き続き、ネイティブスピーカーと共に英語を用いて自分の考えを表現し、意思疎通が図れるよう訓練する。相手の質問に答えるだけでなく、自ら不明点や疑問点などを問いかけることを意識しながら英語を聞き話す経験を積み、自信をつけることを目的とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "スポーツ健康科学科DP1",
@@ -82,7 +82,7 @@
     "textbooks": [
         {
             "title": "English Firsthand Success (5th Edition) Student Book with MyMobileWorld",
-            "year": 2018,
+            "publication_year": 2018,
             "author": "Marc Helgesen, John Wiltshier, Steven Brown",
             "publisher": "Pearson",
             "price": 3630,
@@ -90,30 +90,30 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "英会話初級I"
         ],
-        "brings": "教科書、ノート、筆記用具、辞書",
+        "required_materials": "教科書、ノート、筆記用具、辞書",
         "other": "なし"
     },
-    "evaluation_criteria": "簡単な語を使って繰り返しや言い換えをしながら話してもらえれば、身近な話題についての話や質問を理解できるかどうかを評価します。また、簡単な語を使って、身近な話題についての質問に答えられるかどうかを評価します。評価基準の「その他」は、発表、作文、授業活動への参加態度を含みます。これについては、第1回目の授業で詳しく説明します。",
+    "grading_criteria": "簡単な語を使って繰り返しや言い換えをしながら話してもらえれば、身近な話題についての話や質問を理解できるかどうかを評価します。また、簡単な語を使って、身近な話題についての質問に答えられるかどうかを評価します。評価基準の「その他」は、発表、作文、授業活動への参加態度を含みます。これについては、第1回目の授業で詳しく説明します。",
     "evaluation_ratio": {
-        "試験": 50,
-        "小テスト": 25,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 25
+        "exam": 50,
+        "quiz": 25,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 25
     },
-    "message_from_teachers": "We hope that this class will help you all gain confidence in speaking English with anyone in the world. Even if you are shy, you can still have fun speaking English at your own pace. We recommend studying new words and phrases before class, and reviewing the words and grammar rules you have learned after class. Please note that lesson plans described below are subject to change.\n\n世界中の人々と、自信を持って英語で話せるようになりましょう。たとえ恥ずかしがりやの性格だとしても、自分のペースで英語を話すことを楽しんでください。授業外の学習として、新出の単熟語を予習や、授業で習った語い・表現・文法規則の復習をしてください。なお、以下に示される授業計画は変更する場合があります。\n（事前事後学修時間の目安 60分）",
+    "teacher_message": "We hope that this class will help you all gain confidence in speaking English with anyone in the world. Even if you are shy, you can still have fun speaking English at your own pace. We recommend studying new words and phrases before class, and reviewing the words and grammar rules you have learned after class. Please note that lesson plans described below are subject to change.\n\n世界中の人々と、自信を持って英語で話せるようになりましょう。たとえ恥ずかしがりやの性格だとしても、自分のペースで英語を話すことを楽しんでください。授業外の学習として、新出の単熟語を予習や、授業で習った語い・表現・文法規則の復習をしてください。なお、以下に示される授業計画は変更する場合があります。\n（事前事後学修時間の目安 60分）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "UNIT 7\nTalking about experiences",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -130,9 +130,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "UNIT 7\nDescribing past positive events",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -149,9 +149,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "UNIT 8\nComparing animals and nature",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "UNIT 8\nDescribing a personal experience with an animal",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -187,9 +187,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "UNIT 9\nDescribing and demonstrating abilities",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -206,9 +206,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "UNIT 9\nEvaluating school/class activities",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "Review: UNITS 7-9",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "UNIT 10\nTalking about likes and dislikes",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -263,9 +263,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "UNIT 10\nTalking about routine activities",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -282,9 +282,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "UNIT 11\nTalking about rules and requirements",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -301,9 +301,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "UNIT 11\nTalking about obligation and preference",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -320,9 +320,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "UNIT 12\nDescribing past events",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "UNIT 12\nStorytelling",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -358,9 +358,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "Review: UNITS 10-12",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -377,9 +377,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "Review and mini-test: UNITS 7-12\nReflection/Feedback",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -396,6 +396,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

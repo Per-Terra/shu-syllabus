@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2024-08-08T01:22:33Z",
+    "fetched_at": "2024-08-08T01:22:33Z",
     "name_ja": "財政学",
     "name_en": "Public Finance",
     "syllabus_number": "2043900A",
     "course_number": "01EP302",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "経済学部",
+    "category": "専門科目",
+    "home_department": "経済学部",
     "requirements": "選択科目",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "田尾　真一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -28,21 +28,21 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "財政学は公共部門(国や地方自治体)の経済活動について学ぶ学問である。それゆえ、私たちの生活と直結する学問であると言える。私たちは日常的に、道路などの公共サービスを使用しており、そのための財源として消費税などの税金を支払っている。政府の資金調達から公共財の供給、それらを通じた所得再分配や経済安定化など、財政が果たす役割は大きい。財政学の講義を通じてその仕組みを理解し、現代社会にどのような問題があり、どのように解決していくべきなのかということを考え、解決していく力を身につけること、その一助となることが本講義の目的である。\n\n【到達目標】\n(ⅰ) 財政の意義と役割について理解し、説明できる\n(ⅱ) 租税の意義や制度を理解している\n(ⅲ) 日本財政が抱える問題点・あるべき姿について把握し、議論できる",
+    "objectives": "財政学は公共部門(国や地方自治体)の経済活動について学ぶ学問である。それゆえ、私たちの生活と直結する学問であると言える。私たちは日常的に、道路などの公共サービスを使用しており、そのための財源として消費税などの税金を支払っている。政府の資金調達から公共財の供給、それらを通じた所得再分配や経済安定化など、財政が果たす役割は大きい。財政学の講義を通じてその仕組みを理解し、現代社会にどのような問題があり、どのように解決していくべきなのかということを考え、解決していく力を身につけること、その一助となることが本講義の目的である。\n\n【到達目標】\n(ⅰ) 財政の意義と役割について理解し、説明できる\n(ⅱ) 租税の意義や制度を理解している\n(ⅲ) 日本財政が抱える問題点・あるべき姿について把握し、議論できる",
     "overview": "基本的には講義形式で授業を進めるが、講義に際しては事前に学習内容について学生同士で議論する機会を設け、意欲的に学べる環境を整えたいと考える。また、授業中における学生からの積極的な質問や発言は歓迎する。単に講義を受け身の姿勢で聞くだけではなく、主体的に財政の諸問題に関して学び、考えるようになってほしい。必要に応じて授業に関連する新聞、雑誌等を配布し、議論を行いたい。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "知識及び技能の習得",
         "思考力・判断力・表現力等の養成",
         "主体性・多様性・協調性の養成"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "財政学〔第3版〕",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "神野直彦",
             "publisher": "有斐閣",
             "price": 3630,
@@ -51,7 +51,7 @@
         },
         {
             "title": "テキストブック現代財政学",
-            "year": 2016,
+            "publication_year": 2016,
             "author": "植田和弘、諸富徹ほか",
             "publisher": "有斐閣",
             "price": 2970,
@@ -60,7 +60,7 @@
         },
         {
             "title": "財政のしくみがわかる本",
-            "year": 2007,
+            "publication_year": 2007,
             "author": "神野直彦",
             "publisher": "岩波書店",
             "price": 902,
@@ -68,29 +68,29 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "経済政策"
         ],
-        "brings": "",
+        "required_materials": "",
         "other": "地方財政論も履修することで、より身近な財政についても学び考えていただきたい"
     },
-    "evaluation_criteria": "(ⅰ) 財政の意義の説明、(ⅱ) 租税論の理解、(ⅲ) 日本財政の問題点の把握・議論、について「学生に対する評価」の内容で評価する。",
+    "grading_criteria": "(ⅰ) 財政の意義の説明、(ⅱ) 租税論の理解、(ⅲ) 日本財政の問題点の把握・議論、について「学生に対する評価」の内容で評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "どうして政府は必要なのでしょうか。政府はどういう役割を担っているのでしょうか。どうして政府は税を徴収しているのでしょうか。そして、我が国の政府は今後どうあるべきなのでしょうか。そうした疑問について考えるのが財政学という授業です。この講義を通じて、政治・経済・社会についてより深く関心を持ち、この国の将来について考えてくれるようになってもらえれば幸いです。\n\n【予習・復習について】\n講義内容について、毎講義後に復習して下さい（60～90分）。その際には、単に講義で学んだことを受け入れるだけでなく、批判的に捉えて自分なりに調べたりすると学びの幅は広がると思います。",
+    "teacher_message": "どうして政府は必要なのでしょうか。政府はどういう役割を担っているのでしょうか。どうして政府は税を徴収しているのでしょうか。そして、我が国の政府は今後どうあるべきなのでしょうか。そうした疑問について考えるのが財政学という授業です。この講義を通じて、政治・経済・社会についてより深く関心を持ち、この国の将来について考えてくれるようになってもらえれば幸いです。\n\n【予習・復習について】\n講義内容について、毎講義後に復習して下さい（60～90分）。その際には、単に講義で学んだことを受け入れるだけでなく、批判的に捉えて自分なりに調べたりすると学びの幅は広がると思います。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n　－財政学とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "財政の役割\n　－財政の３機能",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "財政学の歴史・思想史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "予算論\n　－財政民主主義とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "ワーク・ディスカッション①\n　－税について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "租税論①　\n　－租税の基礎理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "租税論②\n　－租税原則",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "租税論③\n　－租税の分類・租税体系",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "ワーク・ディスカッション②\n　－所得課税について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "１０",
+            "number": "１０",
             "content": "所得課税①\n　－所得とは",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "１１",
+            "number": "１１",
             "content": "所得課税②\n　－所得税の課税のしくみ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "１２",
+            "number": "１２",
             "content": "法人税",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "１３",
+            "number": "１３",
             "content": "グローバル化する税制",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "１４",
+            "number": "１４",
             "content": "これまでの復習・演習\n（演習問題の解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "１５",
+            "number": "１５",
             "content": "中間試験　\n（解答・解説）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "１６",
+            "number": "１６",
             "content": "ワーク・ディスカッション③\n　－消費課税について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -250,9 +250,9 @@
             ]
         },
         {
-            "session": "１７",
+            "number": "１７",
             "content": "消費課税①\n　－消費課税の分類",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -260,9 +260,9 @@
             ]
         },
         {
-            "session": "１８",
+            "number": "１８",
             "content": "消費課税②\n　－付加価値税の課税のしくみ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -270,9 +270,9 @@
             ]
         },
         {
-            "session": "１９",
+            "number": "１９",
             "content": "消費課税③\n　－支出税",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -280,9 +280,9 @@
             ]
         },
         {
-            "session": "２０",
+            "number": "２０",
             "content": "公共投資と財政\n　－社会資本論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -290,9 +290,9 @@
             ]
         },
         {
-            "session": "２１",
+            "number": "２１",
             "content": "公債と財政投融資制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -300,9 +300,9 @@
             ]
         },
         {
-            "session": "２２",
+            "number": "２２",
             "content": "ワーク・ディスカッション④\n　－社会保障について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -310,9 +310,9 @@
             ]
         },
         {
-            "session": "２３",
+            "number": "２３",
             "content": "社会保障と財政①\n　－社会保障制度の理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -320,9 +320,9 @@
             ]
         },
         {
-            "session": "２４",
+            "number": "２４",
             "content": "社会保障と財政②\n　－日本の社会保障制度",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -330,9 +330,9 @@
             ]
         },
         {
-            "session": "２５",
+            "number": "２５",
             "content": "ワーク・ディスカッション⑤\n　－環境政策について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -340,9 +340,9 @@
             ]
         },
         {
-            "session": "２６",
+            "number": "２６",
             "content": "環境と財政①\n　－環境問題と環境政策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "２７",
+            "number": "２７",
             "content": "環境と財政②\n　－環境政策の理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -360,9 +360,9 @@
             ]
         },
         {
-            "session": "２８",
+            "number": "２８",
             "content": "ワーク・ディスカッション⑥\n　－政府間財政関係について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -370,9 +370,9 @@
             ]
         },
         {
-            "session": "２９",
+            "number": "２９",
             "content": "政府間財政関係論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -380,9 +380,9 @@
             ]
         },
         {
-            "session": "３０",
+            "number": "３０",
             "content": "本講義のまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "実験・実習・実技"
             ],
@@ -391,6 +391,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

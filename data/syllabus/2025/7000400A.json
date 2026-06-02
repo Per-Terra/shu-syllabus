@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:07:04Z",
+    "fetched_at": "2025-04-04T06:07:04Z",
     "name_ja": "教育行政論",
     "name_en": "Theory of Educational Administration",
     "syllabus_number": "7000400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "教職科目",
-    "main_department": "",
+    "category": "教職科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "石橋　孝明",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n(１)現代の学校教育に関する社会的、制度的又は経営的事項について基礎的な知識を身に付けることができる。\n(２)学校と地域との連携に関する理解ができる。\n(３)学校安全への対応に関する基礎的知識を身に付けることができる。",
+    "objectives": "【到達目標】\n(１)現代の学校教育に関する社会的、制度的又は経営的事項について基礎的な知識を身に付けることができる。\n(２)学校と地域との連携に関する理解ができる。\n(３)学校安全への対応に関する基礎的知識を身に付けることができる。",
     "overview": "教育行政論は教育制度や組織についての基礎となる科目であり、教職課程にとっても基本となるものである。したがって、本講義を学ぶことにより、今日の教育の在り方を考えることにつながり、教育上の諸課題を探求していく姿勢を培うことになる。本講義では、現代の学校教育に関する社会的、制度的又は経営的事項のそれぞれにについて、基礎的な知識を身につけるとともに、それらに関連する課題を理解する。また、学校と地域との連携に関する理解及び学校安全への対応に関する基礎的知識も身につけることを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP2",
         "経済経営学科DP3",
@@ -41,10 +41,10 @@
         "スポーツ健康科学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "新・教育制度論[第2版]",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "髙妻紳次二郎",
             "publisher": "ミネルヴァ書房",
             "price": 2640,
@@ -53,7 +53,7 @@
         },
         {
             "title": "現代教育の制度と行政[改訂版]",
-            "year": 2017,
+            "publication_year": 2017,
             "author": "河野和清 編著",
             "publisher": "福村出版",
             "price": 2530,
@@ -62,7 +62,7 @@
         },
         {
             "title": "新しい教育行政学",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "河野和清",
             "publisher": "ミネルヴァ書房",
             "price": 2750,
@@ -70,31 +70,31 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "教育課程論"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "なし"
     },
-    "evaluation_criteria": "(１)教育行政の社会的、制度的、経営的知識の習得、(２) 学校と地域との連携の知識の修得、(３)学校安全の知識の修得 以上三点について、⑪に示す方法で評価する。",
+    "grading_criteria": "(１)教育行政の社会的、制度的、経営的知識の習得、(２) 学校と地域との連携の知識の修得、(３)学校安全の知識の修得 以上三点について、⑪に示す方法で評価する。",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 20,
-        "レポート": 0,
-        "発表・実技": 20,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 20,
+        "report": 0,
+        "presentation": 20,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "教科書に即して授業を進める。基本的には講義形式で行うが、一部グループワークを取り入れる。必要に応じてプリントを配布する。授業計画は、進行状況・問題への関心等に応じて、一部変更することがある。教師になることを目指す以上、その自覚をもって受講すること。\n\n【予習・復習について】\n授業計画を確認し、次回授業の範囲について参考書等を参照して下調べをしておくこと。また、各回実施内容について考察、振り返りを行うこと。",
+    "teacher_message": "教科書に即して授業を進める。基本的には講義形式で行うが、一部グループワークを取り入れる。必要に応じてプリントを配布する。授業計画は、進行状況・問題への関心等に応じて、一部変更することがある。教師になることを目指す以上、その自覚をもって受講すること。\n\n【予習・復習について】\n授業計画を確認し、次回授業の範囲について参考書等を参照して下調べをしておくこと。また、各回実施内容について考察、振り返りを行うこと。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "学校を巡る近年の様々な状況の変化と指導上の課題について考える課題について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -102,9 +102,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "わが国の公教育制度：公教育の概念とその制度的原理について、現代の学校制度の課題について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -112,9 +112,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "教育法制の構造と機能：教育法規の体系や構造について、教育基本法改正後の動向について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教育行政の概念と基本理念：教育行政とは何かについて、教育行政の基本構造と一般原則について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -132,9 +132,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "学校経営：学校経営とは何か、学校評価とは何かについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -142,9 +142,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "学校安全の目的と具体的取組：学校安全の必要性や具体的取組について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -152,9 +152,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "教育課程行政：教育課程行政の仕組み、学習指導要領の構成と変遷、教科書検定及び採択について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "教職員の職務と教育評価制度：教職員の職務と服務、教育評価について、教員養成や研修制度について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -172,9 +172,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "社会教育行政と保育行政：社会教育行政の組織や施設、その職員について、保育行政・幼稚園行政について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -182,9 +182,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "教育財政とわが国教育行政の課題：教育財政とは何かについて、その課題について、最近の教育政策・制度改革の動向について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "地域との連携・協働：地域との連携・協働について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -202,9 +202,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アメリカ・イギリスの教育行政制度：アメリカ・イギリスの教育行政制度について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -212,9 +212,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "フランス・ドイツの教育行政制度：フランス・ドイツの教育行政制度について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -222,9 +222,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "ロシア・ニュージーランド・フィンランドの教育行政制度：ロシア・ニュージーランド・フィンランドの教育行政制度について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -232,9 +232,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "全体の振り返りとまとめ：授業全体のポイントを確認する",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -242,6 +242,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T10:57:10Z",
+    "fetched_at": "2025-04-07T10:57:10Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600IK",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "髙藤　大介",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,18 +27,18 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼卒業研究の遂行に必要な知識を習得できる。",
+    "objectives": "▼課題解決のために試行錯誤を継続する能力を身に付けることができる。\n▼チャレンジ精神を身に付けることができる。\n▼コミュニケーション能力を身に付けることができる。\n▼卒業研究の遂行に必要な知識を習得できる。",
     "overview": "各学生に担当する教科書のページを割り当てますので、学生は割り当てられたページを勉強して、学習内容を発表してもらいます。また、理解度を確認するためにプログラム作成などの演習をやってもらいます。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1"
     ],
     "textbooks": [
         {
             "title": "問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく本",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "米田 優峻",
             "publisher": "技術評論社",
             "price": 2948,
@@ -46,28 +46,28 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートパソコン、筆記用具、ノート",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートパソコン、筆記用具、ノート",
         "other": ""
     },
-    "evaluation_criteria": "発表内容やその理解度に応じて評価する。",
+    "grading_criteria": "発表内容やその理解度に応じて評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "原則すべての授業に出席すること。\n教科書をしっかり理解し、学習内容を理解してもらうためのわかりやすいスライドを作成するよう努力すること。",
+    "teacher_message": "原則すべての授業に出席すること。\n教科書をしっかり理解し、学習内容を理解してもらうためのわかりやすいスライドを作成するよう努力すること。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、アルゴリズムのイントロダクション、アルゴリズムとプログラミング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "2-30",
+            "number": "2-30",
             "content": "学習内容の発表、プログラム作成などの演習",
-            "methods": [
+            "teaching_methods": [
                 "演習",
                 "実験・実習・実技"
             ],
@@ -87,6 +87,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

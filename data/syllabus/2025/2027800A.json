@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:01:41Z",
+    "fetched_at": "2025-04-04T06:01:41Z",
     "name_ja": "地域福祉と包括支援体制Ⅰ",
     "name_en": "Community Welfare and Inclusive Support SystemⅠ",
     "syllabus_number": "2027800A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "内田　充範",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "授業テーマ：地域福祉及び包括的支援体制における行政と住民及び諸団体等の協働による実践について学ぶ。\n\n到達目標：地域福祉の概念と理論、歴史、動向、地域福祉の推進主体について説明できる。\n　　　　　福祉行政組織・専門職の役割、国と地方の関係、財源について説明できる。\n　　　　　地域福祉計画の意義と種類、策定と運用について説明できる。",
+    "objectives": "授業テーマ：地域福祉及び包括的支援体制における行政と住民及び諸団体等の協働による実践について学ぶ。\n\n到達目標：地域福祉の概念と理論、歴史、動向、地域福祉の推進主体について説明できる。\n　　　　　福祉行政組織・専門職の役割、国と地方の関係、財源について説明できる。\n　　　　　地域福祉計画の意義と種類、策定と運用について説明できる。",
     "overview": "地域福祉の概念と理論、歴史、動向等の基本的な考え方を踏まえた上で、国、都道府県、市町村の福祉行政組織及び専門職の役割と関係性、財源について理解する。また、地域福祉の推進を図るための地域福祉計画の意義と策定・運用について理解する。さらに、地域福祉計画が地域生活課題の解決に向けて果たす役割について理解する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP1",
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP4"
@@ -39,7 +39,7 @@
     "textbooks": [
         {
             "title": "入門地域福祉と包括的支援体制",
-            "year": 2021,
+            "publication_year": 2021,
             "author": "川村匡由編著",
             "publisher": "ミネルヴァ書房",
             "price": 3080,
@@ -47,10 +47,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "適宜紹介する",
-            "year": 0,
+            "publication_year": null,
             "author": "",
             "publisher": "",
             "price": null,
@@ -58,32 +58,32 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "なし"
         ],
-        "recommended_courses": [
+        "recommended": [
             "ソーシャルワークの基盤と専門職",
             "ソーシャルワークの理論と方法"
         ],
-        "brings": "教科書、ノート（必要に応じて）　※パソコン使用不可",
+        "required_materials": "教科書、ノート（必要に応じて）　※パソコン使用不可",
         "other": "なし"
     },
-    "evaluation_criteria": "１．地域福祉の基本的な考え方、２．福祉行財政のシステム、３．地域福祉計画の意義と種類、策定と運用に関する理解度を以下の「学生に対する評価」により評価します。",
+    "grading_criteria": "１．地域福祉の基本的な考え方、２．福祉行財政のシステム、３．地域福祉計画の意義と種類、策定と運用に関する理解度を以下の「学生に対する評価」により評価します。",
     "evaluation_ratio": {
-        "試験": 80,
-        "小テスト": 0,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 80,
+        "quiz": 0,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "事前学習の「教科書を読む」は、分からない用語や疑問点を調べることを含みます。講義内容を理解するためには、地域の出来事や住民の生活に関心を持つ必要があります。新聞や関係図書を読む習慣をつけて、それらの内容と教科書を対照しながら学びましょう。\n上記の予習に90分、講義終了後の教科書、ノートの確認等の復習に90分を確保してください。\nまた、地域のイベントやボランティア等への参加を推奨します。",
+    "teacher_message": "事前学習の「教科書を読む」は、分からない用語や疑問点を調べることを含みます。講義内容を理解するためには、地域の出来事や住民の生活に関心を持つ必要があります。新聞や関係図書を読む習慣をつけて、それらの内容と教科書を対照しながら学びましょう。\n上記の予習に90分、講義終了後の教科書、ノートの確認等の復習に90分を確保してください。\nまた、地域のイベントやボランティア等への参加を推奨します。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n第１章　地域福祉の基本的な考え方Ⅰ\n地域福祉の概念と理論\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "第１章　地域福祉の基本的な考え方Ⅱ\n地域福祉の歴史\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -101,9 +101,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "第１章　地域福祉の基本的な考え方Ⅲ\n地域福祉の動向\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "第１章　地域福祉の基本的な考え方Ⅳ\n地域福祉の推進主体\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -121,9 +121,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "第１章　地域福祉の基本的な考え方Ⅴ\n地域福祉の主体と形成\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -131,9 +131,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "第２章　福祉行政のシステムⅠ\n国の役割\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -141,9 +141,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "第２章　福祉行政のシステムⅡ\n都道府県の役割\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "第２章　福祉行政のシステムⅢ\n市町村の役割\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -161,9 +161,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "第２章　福祉行政のシステムⅣ\n国と地方の関係\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -171,9 +171,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "第２章　福祉行政のシステムⅤ\n福祉行政組織・専門職の役割\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -181,9 +181,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "第２章　福祉行政のシステムⅥ\n福祉における財源\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -191,9 +191,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "第３章　地域福祉計画の意義と種類、策定と運用Ⅰ\n福祉計画の意思、目的と展開\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "第３章　地域福祉計画の意義と種類、策定と運用Ⅱ\n市町村地域福祉計画・都道府県地域福祉支援計画の内容\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -211,9 +211,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "第３章　地域福祉計画の意義と種類、策定と運用Ⅲ\n福祉計画の策定過程と方法\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -221,9 +221,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "第３章　地域福祉計画の意義と種類、策定と運用Ⅳ\n福祉計画の実施と評価\n事前：教科書の該当ページに目を通す。\n事後：教科書又はノートを見直す。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -231,6 +231,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

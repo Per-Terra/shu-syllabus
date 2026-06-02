@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T05:58:55Z",
+    "fetched_at": "2025-04-04T05:58:55Z",
     "name_ja": "専門ゼミⅠ",
     "name_en": "Seminar on Specialized Subjects I",
     "syllabus_number": "2007600W",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 3,
-    "period": "",
+    "target_year": 3,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "長澤　賢一",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -27,12 +27,12 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n①コーポレートファイナンスに関する基本的な考え方について理解できる。\n②基礎的な統計解析をできるようにする。",
+    "objectives": "【到達目標】\n①コーポレートファイナンスに関する基本的な考え方について理解できる。\n②基礎的な統計解析をできるようにする。",
     "overview": "本ゼミでは、企業の資金調達や投資活動などのコーポレートファイナンス領域について学習する。また、自ら課題を設定し、論文作成に向けた研究計画書を作成する。なお、コーポレートファイナンスの学習においては、基礎的な計量経済学の知識を習得する必要があるため、基礎的な計量経学も併せて学習する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "現代経済学科DP1",
         "現代経済学科DP2",
         "現代経済学科DP3"
@@ -40,7 +40,7 @@
     "textbooks": [
         {
             "title": "あわせて学ぶ　会計＆ファイナンス入門講座",
-            "year": 2013,
+            "publication_year": 2013,
             "author": "保田隆明、田中慎一",
             "publisher": "ダイヤモンド社",
             "price": 2200,
@@ -48,10 +48,10 @@
             "available_on_campus": false
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "ファイナンス論",
             "ミクロ経済学Ⅰ",
             "ミクロ経済学Ⅱ",
@@ -59,24 +59,24 @@
             "マクロ経済学Ⅰ",
             "マクロ経済学Ⅱ"
         ],
-        "brings": "電卓、パソコン、筆記具",
+        "required_materials": "電卓、パソコン、筆記具",
         "other": "なし"
     },
-    "evaluation_criteria": "文献講読においてのレジュメの作成・発表：50％\n研究計画書の作成：50％",
+    "grading_criteria": "文献講読においてのレジュメの作成・発表：50％\n研究計画書の作成：50％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 50,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "コーポレートファイナンスの知識の習得は、金融機関や一般企業の財務部などの就職を希望する学生諸君にとって、就職活動中および就職後において極めて有益である。なお、履修の際には、教員の指示に従って、効率的に学習するための計画を立てることが重要である。本講義を受ける前と後においては、テキストを熟読すること（1～2時間程度）。",
+    "teacher_message": "コーポレートファイナンスの知識の習得は、金融機関や一般企業の財務部などの就職を希望する学生諸君にとって、就職活動中および就職後において極めて有益である。なお、履修の際には、教員の指示に従って、効率的に学習するための計画を立てることが重要である。本講義を受ける前と後においては、テキストを熟読すること（1～2時間程度）。",
     "schedule": [
         {
-            "session": "１",
+            "number": "１",
             "content": "オリエンテーション\n　（本授業の進め方について）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "session": "２",
+            "number": "２",
             "content": "文献講読（アカウンティングファイナンス分野）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -94,9 +94,9 @@
             ]
         },
         {
-            "session": "３",
+            "number": "３",
             "content": "文献講読（アカウンティングファイナンス分野）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -104,9 +104,9 @@
             ]
         },
         {
-            "session": "４",
+            "number": "４",
             "content": "文献講読（アカウンティングファイナンス分野）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "５",
+            "number": "５",
             "content": "文献講読（アカウンティングファイナンス分野）④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -124,9 +124,9 @@
             ]
         },
         {
-            "session": "６",
+            "number": "６",
             "content": "文献講読（アカウンティングファイナンス分野）⑤",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -134,9 +134,9 @@
             ]
         },
         {
-            "session": "７",
+            "number": "７",
             "content": "文献講読（アカウンティングファイナンス分野）⑥",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "８",
+            "number": "８",
             "content": "文献講読（アカウンティングファイナンス分野）⑦",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -154,9 +154,9 @@
             ]
         },
         {
-            "session": "９",
+            "number": "９",
             "content": "文献講読（アカウンティングファイナンス分野）⑧",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -164,9 +164,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "文献講読（アカウンティングファイナンス分野）⑨",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "文献講読（アカウンティングファイナンス分野）⑩",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -184,9 +184,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "文献講読（アカウンティングファイナンス分野）⑪",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -194,9 +194,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "文献講読（アカウンティングファイナンス分野）⑫",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -204,9 +204,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "文献講読（アカウンティングファイナンス分野）⑬",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -214,9 +214,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "文献講読（アカウンティングファイナンス分野）⑭",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -224,9 +224,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "文献講読（財務分析ケーススタディ）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -234,9 +234,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "文献講読（財務分析ケーススタディ）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "文献講読（財務分析ケーススタディ）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -254,9 +254,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "文献講読（財務分析ケーススタディ）④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -264,9 +264,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "文献講読（財務分析ケーススタディ）⑤",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -274,9 +274,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "文献購読およびグループワーク①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "文献購読およびグループワーク②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -294,9 +294,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "文献購読およびグループワーク③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -304,9 +304,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "文献購読およびグループワーク④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -314,9 +314,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "文献購読およびグループワーク⑤",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -324,9 +324,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "文献購読およびグループワーク⑥",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -334,9 +334,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "各グループにおける財務分析の発表①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -344,9 +344,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "各グループにおける財務分析の発表②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "各グループにおける財務分析の発表③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -364,9 +364,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "本授業のまとめ・次年度に向けた準備",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -374,6 +374,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。\n・授業は職務経験を踏まえ行う。"
+    "credit_auditing": false,
+    "practitioner_info": "この講座を担当する実務家教員の職歴\n【職歴】\n・1992年～2022年、財務省で勤務。主に、証券取引等監視委員会、財務省関東財務局において、金融商品取引業者の検査、監督業務に従事。\n・授業は職務経験を踏まえ行う。"
 }

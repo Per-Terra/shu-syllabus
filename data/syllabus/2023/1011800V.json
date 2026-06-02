@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2024-08-08T01:00:17Z",
+    "fetched_at": "2024-08-08T01:00:17Z",
     "name_ja": "地域ゼミⅡ",
     "name_en": "",
     "syllabus_number": "1011800V",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "必修科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "必修",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "松村　遼",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -29,35 +29,35 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本ゼミでは小学校のプログラミング教育支援を行います。教材作成から授業実施・運営まで関わってもらう予定です。小学校での授業は、ビジュアルプログラミング言語であるScratchを利用し、インベーダーゲームを題材として扱い、その完成までを児童に教授します。\n\n【到達目標】\n①専門知識・技術を活かした地域貢献について理解する\n②児童を対象とした授業を通じて効果的な教授法・教材作成法を修得する\n③教材作成を通じてプログラミング能力を向上させる\n④ゼミ活動を通じて主体性を修得する",
+    "objectives": "本ゼミでは小学校のプログラミング教育支援を行います。教材作成から授業実施・運営まで関わってもらう予定です。小学校での授業は、ビジュアルプログラミング言語であるScratchを利用し、インベーダーゲームを題材として扱い、その完成までを児童に教授します。\n\n【到達目標】\n①専門知識・技術を活かした地域貢献について理解する\n②児童を対象とした授業を通じて効果的な教授法・教材作成法を修得する\n③教材作成を通じてプログラミング能力を向上させる\n④ゼミ活動を通じて主体性を修得する",
     "overview": "小学校の教育課程に関わることになるので、主体的かつ真面目に取り組んでくれることを期待します。プログラミングが得意、PCやタブレットの操作に習熟していることが望ましいです。\n小学校で実施する授業は本授業の開講時間と同一時間になるように連携先と調整中ですが、教材の作成等によって時間外の活動が多くなることが予想されますので注意してください。\nまた、下記の「授業計画」についても連携先との調整次第では変更となる可能性があります。その場合には事前に告知します。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "ノートPC（毎回持参するようにしてください）",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "ノートPC（毎回持参するようにしてください）",
         "other": "教科書はありません。適宜資料を配布します。"
     },
-    "evaluation_criteria": "到達目標に挙げる ①専門知識・技術を活かした地域貢献についての理解　②効果的な教授法・教材作成法の修得　③プログラミング能力の向上　④主体性の修得　を以下により評価する。",
+    "grading_criteria": "到達目標に挙げる ①専門知識・技術を活かした地域貢献についての理解　②効果的な教授法・教材作成法の修得　③プログラミング能力の向上　④主体性の修得　を以下により評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 60,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 60,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "上記したように、教材作成等で授業時間外での活動が発生します。教材作成に必要となるScratchによるプログラミングについての調査や、授業での取り組みについて都度振り返りを実施してください。これらを予習・復習として60分程度行うようにしてください。",
+    "teacher_message": "上記したように、教材作成等で授業時間外での活動が発生します。教材作成に必要となるScratchによるプログラミングについての調査や、授業での取り組みについて都度振り返りを実施してください。これらを予習・復習として60分程度行うようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス：本ゼミの内容概説、小学校での授業について詳細説明、Scratch概説、インベーダーゲーム作成について説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "授業構成と教材作成のポイントについて説明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -76,9 +76,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "教材作成と教材レビュー①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -86,9 +86,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "教材作成と教材レビュー②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -96,9 +96,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "教材作成と教材レビュー③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -106,9 +106,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "小学校でのプログラミング教育実践①",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -116,9 +116,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "小学校でのプログラミング教育実践②",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -126,9 +126,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "小学校でのプログラミング教育実践③",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -136,9 +136,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "小学校でのプログラミング教育実践④",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -146,9 +146,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "小学校でのプログラミング教育実践⑤",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -156,9 +156,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "小学校でのプログラミング教育実践⑥",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "小学校でのプログラミング教育実践⑦",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -176,9 +176,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "小学校でのプログラミング教育実践⑧",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "振り返りとまとめ：レポートの作成と成果発表準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -197,9 +197,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "成果発表準備",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -208,6 +208,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

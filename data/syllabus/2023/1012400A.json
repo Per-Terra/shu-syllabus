@@ -1,37 +1,37 @@
 {
-    "_fetched_at": "2024-08-08T01:00:39Z",
+    "fetched_at": "2024-08-08T01:00:39Z",
     "name_ja": "ワークショップデザインⅠ",
     "name_en": "Workshop Design 1",
     "syllabus_number": "1012400A",
     "course_number": "00DT201",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "選択科目",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "赤木　真由",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "大坂　遊",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "寺田　篤史",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡井　理香",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -40,39 +40,39 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本講義では、ワークショップデザインの基礎を学び、チームビルディングのアクティビティを計画、実践する。具体的には新1年生を対象にした「EQスタートアップ」にて、自己理解と他者理解を深めるためにチームで実施するアクティビティをデザインする。トライアルを経て、アクティビティをブラッシュアップし、チームで自律的にワークショップをデザインできるようになることを目指す。\n\n【到達目標】\n1. ワークショップデザインの基礎を理解し、アクティビティづくりに生かすことができる。\n2. EQスタートアップの意義を理解した上で、チームで協力してアクティビティを計画することができる。\n3. チームワークに参画し、アクティビティの実行まで主体的・自律的に取り組むことができる。",
+    "objectives": "本講義では、ワークショップデザインの基礎を学び、チームビルディングのアクティビティを計画、実践する。具体的には新1年生を対象にした「EQスタートアップ」にて、自己理解と他者理解を深めるためにチームで実施するアクティビティをデザインする。トライアルを経て、アクティビティをブラッシュアップし、チームで自律的にワークショップをデザインできるようになることを目指す。\n\n【到達目標】\n1. ワークショップデザインの基礎を理解し、アクティビティづくりに生かすことができる。\n2. EQスタートアップの意義を理解した上で、チームで協力してアクティビティを計画することができる。\n3. チームワークに参画し、アクティビティの実行まで主体的・自律的に取り組むことができる。",
     "overview": "この授業では、チームでワークを実施し、新1年生向けのアクティビティを考えます。チームワークで得られる学びや気づきも多く、今後の学生生活や社会人になってからも活かせる自分の強みも発見できるかもしれません。チームワークに積極的・主体的に参加することはもちろんこと、最終レポートでの振り返りまでしっかり取り組むことが求められます。\n\n【アクティブラーニングについて】\n全ての回にアクティブラーニング（グループワーク）を含む。",
-    "corresponding_diploma_policies": [],
+    "diploma_policies": [],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "システム思考・デザイン思考",
             "EQトレーニングⅠ",
             "EQトレーニングⅡ"
         ],
-        "brings": "ノートパソコン、筆記用具",
+        "required_materials": "ノートパソコン、筆記用具",
         "other": ""
     },
-    "evaluation_criteria": "全日程（事前研修およびEQスタートアップ当日）への出席を必須とする。\n上記１～３に関する理解度を以下の項目で評価する。チームや授業への貢献度は、担当教員の複数の視点からの評価および学生の相互評価によって評価する。\n課題レポート 50％、EQスタートアップの実施 30%、チームや授業への貢献度 20％",
+    "grading_criteria": "全日程（事前研修およびEQスタートアップ当日）への出席を必須とする。\n上記１～３に関する理解度を以下の項目で評価する。チームや授業への貢献度は、担当教員の複数の視点からの評価および学生の相互評価によって評価する。\n課題レポート 50％、EQスタートアップの実施 30%、チームや授業への貢献度 20％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 50,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 20
+        "exam": 0,
+        "quiz": 0,
+        "report": 50,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 20
     },
-    "message_from_teachers": "この授業では、ワークショップデザインについて体系的に学び、自らの経験に基づき、新入生にとって初めてのチームビルディングの機会にあたる「EQスタートアップ」のアクティビティをデザインする。主体性、チームワークを意識した学生同士のコミュニケーションを通じたチームメンバーと連携したアクティビティのデザインを期待する。\nアクティビティの実施に集中するだけでなく、俯瞰的に自分たちがデザインしたアクティビティを振り返り、良かった点や改善点を客観的にレポートにまとめられるようにすること（復習・30分程度）。",
+    "teacher_message": "この授業では、ワークショップデザインについて体系的に学び、自らの経験に基づき、新入生にとって初めてのチームビルディングの機会にあたる「EQスタートアップ」のアクティビティをデザインする。主体性、チームワークを意識した学生同士のコミュニケーションを通じたチームメンバーと連携したアクティビティのデザインを期待する。\nアクティビティの実施に集中するだけでなく、俯瞰的に自分たちがデザインしたアクティビティを振り返り、良かった点や改善点を客観的にレポートにまとめられるようにすること（復習・30分程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "授業の目的とワークショップデザインに関するインプット",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "アクティビティ体験によるチームビルディング要素の検討①",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -92,9 +92,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "アクティビティ体験によるチームビルディング要素の検討②",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "ワークショップ形式でのグループ分け",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "チームワーク（アクティビティのデザイン）①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "アクティビティの相互体験とブラッシュアップ①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -140,9 +140,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "アクティビティの相互体験とブラッシュアップ②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "チームワーク（アクティビティのデザイン）②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -166,9 +166,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "アクティビティの相互体験とブラッシュアップ③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -179,9 +179,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "アクティビティの相互体験とブラッシュアップ④",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -192,9 +192,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "チームワーク（アクティビティのデザイン）③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "EQスタートアップにおけるアクティビティの実施①",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "EQスタートアップにおけるアクティビティの実施②",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -231,9 +231,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "EQスタートアップにおけるアクティビティの実施③",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -244,9 +244,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総括（アクティビティの良かった点・改善点の話し合い）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -257,6 +257,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

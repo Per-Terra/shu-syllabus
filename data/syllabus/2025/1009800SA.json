@@ -1,72 +1,72 @@
 {
-    "_fetched_at": "2025-04-04T05:55:44Z",
+    "fetched_at": "2025-04-04T05:55:44Z",
     "name_ja": "教養ゼミ（HS-1～6）",
     "name_en": "Seminar on Basic Subjects",
     "syllabus_number": "1009800SA",
     "course_number": "11-1-14-21-04、21-1-14-21-03、22-1-14-21-02、23-1-14-21-03、31-1-14-21-04",
-    "target_departments_and_courses": [
+    "departments": [
         "人間健康科学部 スポーツ健康科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "クラス分け",
+    "course_division": "",
+    "instruction_format": "クラス分け",
     "teachers": [
         {
             "name": "江﨑　和希",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　健",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "岡井　理香",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "東恩納　玲代",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "清原　泰治",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "佐野村　学",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "瀬尾　賢一郎",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "西山　健太",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "小野　高志",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "小笠　博義",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "尾形　聡",
-            "main": false
+            "is_primary": false
         },
         {
             "name": "松生　香里",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -74,37 +74,37 @@
     "teaching_methods": [
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "1．大学において学問を学ぶために必要な基本的な技術を身に付けることができる。\n2．自己表現力やコミュニケーション能力を高めることができる。\n3．大学として必要な生活習慣や社会性を高めることができる。",
+    "objectives": "1．大学において学問を学ぶために必要な基本的な技術を身に付けることができる。\n2．自己表現力やコミュニケーション能力を高めることができる。\n3．大学として必要な生活習慣や社会性を高めることができる。",
     "overview": "この授業は、本学が推進するEQ教育をベースとして、大学での学びに必要な基本的な技術・作法（アカデミックスキル）の修得・向上を目指す。大学での学びをスタートさせるにあたって自己開示やコミュニケーションの意義・方法を学ぶとともに、自身の考えを表現するレポートの作成法やグループ活動を通じてのプレゼンテーションの技術を学ぶ。こうした力は2年次以降のPBL（課題発見・解決型の学習）による学びの基礎となるのみならず、EQ力を涵養することを目指す本学での4年間の学生生活の基盤となる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツ健康科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "",
         "other": "適宜案内する。"
     },
-    "evaluation_criteria": "課題 30 ％、プレゼンテーション・発表 30 ％、レポート 40 ％",
+    "grading_criteria": "課題 30 ％、プレゼンテーション・発表 30 ％、レポート 40 ％",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 30,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 30,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "大学の 教員は、 教科の教員ではなく 医学、スポーツ科学 分野 において様々なテーマ で研究している研究者です。ゼミを きっかけ に積極的に 教員 と交流し、 学問への知的好奇心を 高めてください。\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
+    "teacher_message": "大学の 教員は、 教科の教員ではなく 医学、スポーツ科学 分野 において様々なテーマ で研究している研究者です。ゼミを きっかけ に積極的に 教員 と交流し、 学問への知的好奇心を 高めてください。\n【事前学習・事後学習の時間】あわせて90 分程度。\n【オフィスアワー】講義のある曜日、不在時はメールで受け付けます。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：ゼミの内容、自己紹介など",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -123,9 +123,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "カリキュラムの理解：スポーツ健康科学とは何か",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "大学生活と学習計画の立案",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "講義ノートの取り方",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -186,9 +186,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "図書館の利用",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "参考文献検索の方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -228,9 +228,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "学術論文検索の方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -249,9 +249,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "リフレクション：7回授業までの振り返りと復習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -270,9 +270,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "レポート作成の方法",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -291,9 +291,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "レポート課題の設定と論述について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -312,9 +312,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "資料の調査・収集及び実験について",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -333,9 +333,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "エクセル、ワード、パワーポイントの基礎",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -354,9 +354,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "プレゼンテーションの要領",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -375,9 +375,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "発表・ディスカッション",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -396,9 +396,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "総括",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -417,6 +417,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

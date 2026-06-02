@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-04T06:03:01Z",
+    "fetched_at": "2025-04-04T06:03:01Z",
     "name_ja": "財務会計論",
     "name_en": "Financial Accounting",
     "syllabus_number": "2038400A",
     "course_number": "11-2-27-21-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "経済経営学部 経済経営学科"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "福原　道照",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "前期",
@@ -27,12 +27,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n（１）財務諸表の利用、会計の基本的プロセス、財務諸表の体系について理解できる。 \n（２）貸借対照表のしくみ、資産・負債・純資産の項目と分類について理解できる。\n（３）損益計算書のしくみ、収益・費用の項目と分類について理解できる。\n（４）キャッシュフロー計算書の構造と読み方について理解できる。\n（５）財務諸表の基本的な分析について理解できる。",
+    "objectives": "【到達目標】\n（１）財務諸表の利用、会計の基本的プロセス、財務諸表の体系について理解できる。 \n（２）貸借対照表のしくみ、資産・負債・純資産の項目と分類について理解できる。\n（３）損益計算書のしくみ、収益・費用の項目と分類について理解できる。\n（４）キャッシュフロー計算書の構造と読み方について理解できる。\n（５）財務諸表の基本的な分析について理解できる。",
     "overview": "本講義では、①企業の資金調達活動、仕入活動、製造活動、販売活動などがどのように数値として記録され、貸借対照表、損益計算書、キャッシュフロー計算書に集約されていくかについて、②企業の収益性分析、安全性分析の理論、について扱う。これらの理論を体系的に学習・習得することで企業の経営状況の分析及び経営改善に役立つ知識を学修できる。本講義を学修することで、ビジネスマンとして必要な企業の経営活動と関連付けながら財務諸表を分析でき、会計専門家として企業活動と関連付けながら企業取引を認識・測定・記録する基礎的理論を深めることができる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -43,7 +43,7 @@
     "textbooks": [
         {
             "title": "ビジネス会計検定試験公式テキスト3級　第5版",
-            "year": 2023,
+            "publication_year": 2023,
             "author": "大阪商工会議所　編",
             "publisher": "中央経済社",
             "price": 1870,
@@ -51,33 +51,33 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [
             "簿記初級Ⅰ",
             "簿記初級Ⅱ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "なし"
         ],
-        "brings": "教科書、電卓、筆記用具",
+        "required_materials": "教科書、電卓、筆記用具",
         "other": "特になし"
     },
-    "evaluation_criteria": "（１）財務諸表の利用、会計の基本的プロセス、財務諸表の体系についての理解 \n（２）貸借対照表のしくみ、資産・負債・純資産の項目と分類についての理解\n（３）損益計算書のしくみ、収益・費用の項目と分類についての理解\n（４）キャッシュフロー計算書の構造と読み方についての理解\n（５）財務諸表の基本的な分析についての理解",
+    "grading_criteria": "（１）財務諸表の利用、会計の基本的プロセス、財務諸表の体系についての理解 \n（２）貸借対照表のしくみ、資産・負債・純資産の項目と分類についての理解\n（３）損益計算書のしくみ、収益・費用の項目と分類についての理解\n（４）キャッシュフロー計算書の構造と読み方についての理解\n（５）財務諸表の基本的な分析についての理解",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 40,
-        "レポート": 0,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 40,
+        "report": 0,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "財務会計とは、企業関係者に対して、企業の財政状態、経営成績や資金の状況についての情報を提供するための会計活動です。予習・復習を十分に行い、知識の定着を図りましょう。\n【予習・復習について】\n　予習：授業の内容に係るテキストの該当箇所について予習する。（120分程度）\n　復習：授業の内容について復習（要点整理、問題演習）する。（120分程度）",
+    "teacher_message": "財務会計とは、企業関係者に対して、企業の財政状態、経営成績や資金の状況についての情報を提供するための会計活動です。予習・復習を十分に行い、知識の定着を図りましょう。\n【予習・復習について】\n　予習：授業の内容に係るテキストの該当箇所について予習する。（120分程度）\n　復習：授業の内容について復習（要点整理、問題演習）する。（120分程度）",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "財務諸表とは\n　[テキストpp.1-11]\n貸借対照表①～貸借対照表のしくみ～\n　[テキストpp.13-22]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -85,9 +85,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "貸借対照表②～資産～\n　[テキストpp.23-44]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "貸借対照表③～負債・純資産～\n　[テキストpp.45-58]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "１回から３回までの授業のまとめ\n　[テキストpp.1-58]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "損益計算書①～損益計算書のしくみ、損益計算のルール～\n　[テキストpp.59-74]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "損益計算書②～売上総利益、営業利益、経常利益～\n　[テキストpp.75-88]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "損益計算書③～税引前当期純利益、当期純利益～\n　[テキストpp.89-102]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "５回から７回までの授業のまとめ\n　[テキストpp.59-102]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "キャッシュ・フロー計算書①～キャッシュ・フロー計算書とは、キャッシュ・フロー計算書と貸借対照表・損益計算書との関係～\n　[テキストpp.103-121]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "キャッシュ・フロー計算書②～キャッシュ･フロー計算書の読み方～\n　[テキストpp.122-140]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "９回から１０回までの授業のまとめ\n　[テキストpp.103-140]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "財務諸表分析①～基本分析、成長性および伸び率の分析～\n　[テキストpp.141-179]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "財務諸表分析②～安全性の分析、キャッシュ・フロー情報の利用、収益性の分析～\n　[テキストpp.180-216]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "財務諸表分析③～1株当たり分析、1人当たり分析、平均指標・標準指標の参考値～\n　[テキストpp.217-243]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "１２回から１４回までの授業のまとめ\n　[テキストpp.141-243]",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,6 +225,6 @@
             ]
         }
     ],
-    "open_to_non_students": true,
-    "practitioner": ""
+    "credit_auditing": true,
+    "practitioner_info": ""
 }

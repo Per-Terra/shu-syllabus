@@ -1,25 +1,25 @@
 {
-    "_fetched_at": "2025-04-07T10:52:52Z",
+    "fetched_at": "2025-04-07T10:52:52Z",
     "name_ja": "地域ゼミ",
     "name_en": "Seminar for Community Revitalization",
     "syllabus_number": "1007000H",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "水﨑　佑毅",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -28,39 +28,39 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本地域ゼミでは、「小学校の体育授業の運営」というテーマのもと、体育授業へのボランティア参加を通して、子どもに対する運動課題や指導方法を学び、実践的な指導力を身につけます。\n　到達目標は以下の3つです。\n(i) 子どもの運動発達に関する専門的な知識を身につける。\n(ii) 運動に関する指導者としての資質を高める。\n(iii) 子どもの運動発達の特性を理解し、効果的な運動指導を実践できる。",
+    "objectives": "本地域ゼミでは、「小学校の体育授業の運営」というテーマのもと、体育授業へのボランティア参加を通して、子どもに対する運動課題や指導方法を学び、実践的な指導力を身につけます。\n　到達目標は以下の3つです。\n(i) 子どもの運動発達に関する専門的な知識を身につける。\n(ii) 運動に関する指導者としての資質を高める。\n(iii) 子どもの運動発達の特性を理解し、効果的な運動指導を実践できる。",
     "overview": "「講義」と学外における「実践活動」の組み合わせで行います（※学外における「実践活動」の日時は固定されていません）。\n　授業は、近隣小学校の体育授業を運営することです。対象となる小学校の時間割により、必ずしも授業開講時間と同一時間にならないケースも生じてきます。成果報告を含めて2単位時間分の活動を行います。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "スポーツマネジメントコースDP2",
         "スポーツマネジメントコースDP3",
         "スポーツマネジメントコースDP4"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "適宜配布します。",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "適宜配布します。",
         "other": ""
     },
-    "evaluation_criteria": "小学校での活動のための準備から実際の活動までを評価します。また活動後にはレポートを課し、その内容を評価します。",
+    "grading_criteria": "小学校での活動のための準備から実際の活動までを評価します。また活動後にはレポートを課し、その内容を評価します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 45,
-        "発表・実技": 55,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 0,
+        "quiz": 0,
+        "report": 45,
+        "presentation": 55,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "地域の方々（小学校の先生や児童・生徒）と直接的な関わりが多いので、責任感を持って取り組むことが必要となります。新聞やニュース、関連書籍等をみて、地域課題に関する最新の情報を入手する時間を60分程度は設けるようにしてください。",
+    "teacher_message": "地域の方々（小学校の先生や児童・生徒）と直接的な関わりが多いので、責任感を持って取り組むことが必要となります。新聞やニュース、関連書籍等をみて、地域課題に関する最新の情報を入手する時間を60分程度は設けるようにしてください。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "オリエンテーション：授業全体の説明",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "体力や運動能力の実態について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -78,9 +78,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "子どもに求められるもの運動指導",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -89,9 +89,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "小学校の体育授業について",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -100,9 +100,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "体育授業の見学",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -111,9 +111,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "体力・運動能力などの測定法と評価法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -122,9 +122,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "単元について①\n（体つくり運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -133,9 +133,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "単元について②\n（体ほぐし運動）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -144,9 +144,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "多様な動きをつくる運動遊びについて",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "体育授業への参画①\n（運営補助）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "体育授業への参画②\n（準備運動）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "体育授業への参画③\n（体ほぐし運動）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "体育授業への参画④\n（多様な動きをつくる運動遊び）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "体育授業への参画⑤\n（授業全体）",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "受講生全員による報告とディスカッション、報告書の作成",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -216,6 +216,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

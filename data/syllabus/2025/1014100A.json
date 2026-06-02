@@ -1,32 +1,32 @@
 {
-    "_fetched_at": "2025-04-04T05:56:49Z",
+    "fetched_at": "2025-04-04T05:56:49Z",
     "name_ja": "キャリア形成活動Ⅰ",
     "name_en": "Career development I",
     "syllabus_number": "1014100A",
     "course_number": "11-1-14-11-01、21-1-14-11-01、31-1-14-11-01",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部",
         "福祉情報学部",
         "経済経営学部 経済経営学科",
         "人間健康科学部 スポーツ健康科学科",
         "情報科学部 情報科学科"
     ],
-    "type": "総合科目",
-    "main_department": "",
+    "category": "総合科目",
+    "home_department": "",
     "requirements": "",
-    "year": 1,
-    "period": "",
+    "target_year": 1,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "複数",
+    "course_division": "",
+    "instruction_format": "複数",
     "teachers": [
         {
             "name": "寺田　篤史",
-            "main": true
+            "is_primary": true
         },
         {
             "name": "中嶋　克成",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "通年",
@@ -36,40 +36,40 @@
         "演習",
         "実験・実習・実技"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "就業体験は経済経営学部・スポーツ健康科学科は6月、情報科学部は9月に実施予定です（実習期間は３～５日程度）。事前学習として、就業体験に向けた目標設定やマナー研修等を行います。また、就業体験ののち、目標の達成度の振り返り、体験の共有、レポート作成等の事後学習を行います。事前・事後学習への参加は履修時の絶対的な前提条件となります。\n事前学習は講義、事後学習は講義または演習、就業体験は学外活動となります。\n\n(i) 企業・地域等についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii) 社会が求める能力・人物像を理解する。\n(iv) 社会人として必要な基本的マナーを習得する。",
+    "objectives": "就業体験は経済経営学部・スポーツ健康科学科は6月、情報科学部は9月に実施予定です（実習期間は３～５日程度）。事前学習として、就業体験に向けた目標設定やマナー研修等を行います。また、就業体験ののち、目標の達成度の振り返り、体験の共有、レポート作成等の事後学習を行います。事前・事後学習への参加は履修時の絶対的な前提条件となります。\n事前学習は講義、事後学習は講義または演習、就業体験は学外活動となります。\n\n(i) 企業・地域等についての理解を深める。\n(ii) 自分の適性を確認する。\n(iii) 社会が求める能力・人物像を理解する。\n(iv) 社会人として必要な基本的マナーを習得する。",
     "overview": "この授業では、周南地域にある企業での就業体験を含む3～5日程度のキャリア形成活動を行う。学生は、就業体験に向けた目標設定やマナー研修等の所定の事前学習を行う。その後、企業や公官庁等で実習・研修的な就業体験に参加する。就業体験ののち、目標の達成度の振り返り、体験の共有等の事後学習を行う。1年次にこのようなキャリア形成活動に参加することで、在学中の早い段階から自分の適性を確認する機会になるだけでなく、周南地域での就業の可能性に接し、キャリア形成意識を高めることを目指す。社会が求める能力を具体的に把握することができ、卒業までの成長の目標を明確にすることができる。また、アルバイトとは異なり、企業の組織・ビジョン・マネジメント等の企業研究の場にもなる。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経済経営学科DP1",
         "経済経営学科DP3",
         "情報科学科DP4",
         "スポーツ健康科学科DP1"
     ],
     "textbooks": [],
-    "reference_books": [],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [],
-        "brings": "筆記用具、PC",
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": "筆記用具、PC",
         "other": "教科書は使用しないが、授業で使用するスライド等についてはLMSで配布する"
     },
-    "evaluation_criteria": "就業体験への参加とレポートによって評価します。就業体験への参加は受入企業からの評価票に基づいて、参加状況等を評価します。レポートは内容・形式に関するチェックリストを用いて評価します。レポートでは就業体験に参加する際の目標、体験内容、体験の自己評価等を報告します。",
+    "grading_criteria": "就業体験への参加とレポートによって評価します。就業体験への参加は受入企業からの評価票に基づいて、参加状況等を評価します。レポートは内容・形式に関するチェックリストを用いて評価します。レポートでは就業体験に参加する際の目標、体験内容、体験の自己評価等を報告します。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 0,
-        "レポート": 70,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 30
+        "exam": 0,
+        "quiz": 0,
+        "report": 70,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 30
     },
-    "message_from_teachers": "事前学習では事前アンケートへの記入や振り返り、受入企業についての調べ物などに各回240分相当程度を要する。実習期間中は日報の作成などに各回120分相当程度を要する。事後学習ではレポートの作成・事後アンケートへの回答・体験共有の準備や振り返りなどに各回240分相当程度を要する。\n\n企業等でのキャリア形成活動を中心とした授業である。実習先は主に周南市内の企業・団体であり、候補企業は地域共創センターを通じて決定・授業で提示する。",
+    "teacher_message": "事前学習では事前アンケートへの記入や振り返り、受入企業についての調べ物などに各回240分相当程度を要する。実習期間中は日報の作成などに各回120分相当程度を要する。事後学習ではレポートの作成・事後アンケートへの回答・体験共有の準備や振り返りなどに各回240分相当程度を要する。\n\n企業等でのキャリア形成活動を中心とした授業である。実習先は主に周南市内の企業・団体であり、候補企業は地域共創センターを通じて決定・授業で提示する。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -79,9 +79,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "事前研修①：働くことについて（業種・職種・企業研究）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -91,9 +91,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "事前研修②：就業体験までの流れの説明",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -103,9 +103,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "事前研修③：\n・大学生活をどう過ごすか？①強み・弱みの確認（PROG受験）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "事前研修④：\n・ビジネスマナー講習①講義（敬語の使い方・身だしなみ・挨拶等）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -127,9 +127,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "事前研修⑤：\n・ビジネスマナー講習②ロールプレイング",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "事前研修⑥：\n・就業体験レポートの作成方法",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -151,9 +151,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "事前研修⑦：\n・大学生活をどう過ごすか？②強み・弱みの活かし方（PROG解説会）",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -163,9 +163,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "事前研修⑧：\n・受入企業の確認\n・実習期間中の過ごし方",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -174,9 +174,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "企業等での実習（１）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "企業等での実習（２）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "企業等での実習（３）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "企業等での実習（４）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "企業等での実習（５）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "企業等での実習（６）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -240,9 +240,9 @@
             ]
         },
         {
-            "session": "16",
+            "number": "16",
             "content": "企業等での実習（７）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -251,9 +251,9 @@
             ]
         },
         {
-            "session": "17",
+            "number": "17",
             "content": "企業等での実習（８）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "session": "18",
+            "number": "18",
             "content": "企業等での実習（９）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -273,9 +273,9 @@
             ]
         },
         {
-            "session": "19",
+            "number": "19",
             "content": "企業等での実習（１０）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -284,9 +284,9 @@
             ]
         },
         {
-            "session": "20",
+            "number": "20",
             "content": "企業等での実習（１１）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -295,9 +295,9 @@
             ]
         },
         {
-            "session": "21",
+            "number": "21",
             "content": "企業等での実習（１２）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -306,9 +306,9 @@
             ]
         },
         {
-            "session": "22",
+            "number": "22",
             "content": "企業等での実習（１３）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -317,9 +317,9 @@
             ]
         },
         {
-            "session": "23",
+            "number": "23",
             "content": "企業等での実習（１４）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -328,9 +328,9 @@
             ]
         },
         {
-            "session": "24",
+            "number": "24",
             "content": "企業等での実習（１５）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -339,9 +339,9 @@
             ]
         },
         {
-            "session": "25",
+            "number": "25",
             "content": "企業等での実習（１６）～各実習先での指示に従うこと",
-            "methods": [
+            "teaching_methods": [
                 "実験・実習・実技"
             ],
             "teachers": [
@@ -350,9 +350,9 @@
             ]
         },
         {
-            "session": "26",
+            "number": "26",
             "content": "体験報告会",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -362,9 +362,9 @@
             ]
         },
         {
-            "session": "27",
+            "number": "27",
             "content": "学生生活をどう過ごすか①：資格取得について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -373,9 +373,9 @@
             ]
         },
         {
-            "session": "28",
+            "number": "28",
             "content": "学生生活をどう過ごすか②：アントレプレナーシップについて",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -384,9 +384,9 @@
             ]
         },
         {
-            "session": "29",
+            "number": "29",
             "content": "学生生活をどう過ごすか③内定獲得者の談話",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -395,9 +395,9 @@
             ]
         },
         {
-            "session": "30",
+            "number": "30",
             "content": "これからのキャリア形成にむけて\n・キャリア関連科目・就職活動のスケジュール確認",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -406,6 +406,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

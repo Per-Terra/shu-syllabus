@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:00:24Z",
+    "fetched_at": "2025-04-04T06:00:24Z",
     "name_ja": "認知症の理解Ⅰ",
     "name_en": "Understanding of Dementia I",
     "syllabus_number": "2017400A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "福祉情報学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "佐々木　好子",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "本科目では、認知症の原因となる疾患や症状の特徴及び生活への影響と個別性を踏まえた支援の在り方、行政の施策について理解することを目指す。到達目標は以下の通りである。\n①認知症を取り巻く歴史的背景や施策、認知症者の現状を通じて、認知症ケアの理念を理解することができる。\n\n②認知症の人の心理や身体機能・社会的側面に関する基礎知識を習得する。\n\n③認知症のある人の人格や尊厳を尊重する倫理観や介護観に基づき、本人・家族・地域の力を活かした認知症ケアについて理解するための基礎的な知識を習得する。",
+    "objectives": "本科目では、認知症の原因となる疾患や症状の特徴及び生活への影響と個別性を踏まえた支援の在り方、行政の施策について理解することを目指す。到達目標は以下の通りである。\n①認知症を取り巻く歴史的背景や施策、認知症者の現状を通じて、認知症ケアの理念を理解することができる。\n\n②認知症の人の心理や身体機能・社会的側面に関する基礎知識を習得する。\n\n③認知症のある人の人格や尊厳を尊重する倫理観や介護観に基づき、本人・家族・地域の力を活かした認知症ケアについて理解するための基礎的な知識を習得する。",
     "overview": "認知症の概念・診断および状態像の評価に関すること、引き起こされる生活への影響およびその人らしく尊厳ある生活ができるようにする支援の在り方を学ぶことを目指す。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "人間コミュニケーション学科DP2",
         "人間コミュニケーション学科DP3",
         "人間コミュニケーション学科DP4"
@@ -39,7 +39,7 @@
     "textbooks": [
         {
             "title": "最新・介護福祉士養成講座13「認知症の理解第2版」",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "介護福祉士養成講座編集委員会",
             "publisher": "中央法規出版",
             "price": 2420,
@@ -47,10 +47,10 @@
             "available_on_campus": true
         }
     ],
-    "reference_books": [
+    "references": [
         {
             "title": "最新・介護福祉士養成講座11こころとからだのしくみ",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "介護福祉士養成講座編集委員会",
             "publisher": "中央法規",
             "price": 2420,
@@ -58,29 +58,29 @@
             "available_on_campus": true
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "介護福祉実習Ⅰ・Ⅱに関わる科目ごとの履修条件に準ずる"
         ],
-        "recommended_courses": [],
-        "brings": "",
+        "recommended": [],
+        "required_materials": "",
         "other": ""
     },
-    "evaluation_criteria": "①認知症ケアの理念及びケアに関する理解度\n②認知症のある方の心理・身体機能・社会的側面の理解度",
+    "grading_criteria": "①認知症ケアの理念及びケアに関する理解度\n②認知症のある方の心理・身体機能・社会的側面の理解度",
     "evaluation_ratio": {
-        "試験": 70,
-        "小テスト": 15,
-        "レポート": 15,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 70,
+        "quiz": 15,
+        "report": 15,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "医学的な基礎知識が必要となるので、人体の構造と機能及び疾病について復習をしておいてください。ケアを必要としている方がどのような生活を送りたいと考えているのか、安心した暮らしとは何なのか等への理解を深めるために、事例やグループワークも行いますので積極的な参加を希望します。予習は教科書の該当部分を熟読してください（30分程度）。復習は、授業内容のポイントの整理と提示する課題を行ってください。（1時間程度）。",
+    "teacher_message": "医学的な基礎知識が必要となるので、人体の構造と機能及び疾病について復習をしておいてください。ケアを必要としている方がどのような生活を送りたいと考えているのか、安心した暮らしとは何なのか等への理解を深めるために、事例やグループワークも行いますので積極的な参加を希望します。予習は教科書の該当部分を熟読してください（30分程度）。復習は、授業内容のポイントの整理と提示する課題を行ってください。（1時間程度）。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ガイダンス、各自の持つ認知症者へのイメージを明確にする",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -88,9 +88,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "認知症を取り巻く状況、認知症高齢者の理解\n(1)視聴覚教材を用いての理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -98,9 +98,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "認知症を取り巻く状況　認知症高齢者の理解\n(2)視聴覚教材を用いての理解",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -108,9 +108,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "認知症ケアの歴史",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -118,9 +118,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "認知症ケアの理念について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "認知症高齢者を取り巻く社会的環境、その人の特性を踏まえたアセスメントの視点について\n小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -138,9 +138,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "認知症の医学的・心理的側面の基礎的理解\n(1)認知症による障害について",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -148,9 +148,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "認知症の医学的・心理的側面の基礎的理解\n(2)認知症の原因となる主な疾患及び段階に応じた心身の変化や心理・症状について①",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -158,9 +158,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "認知症の医学的・心理的側面の基礎的理解\n(3)認知症の原因となる主な疾患及び段階に応じた心身の変化や心理・症状について②",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -168,9 +168,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "認知症の医学的・心理的側面の基礎的理解\n(4)認知症と類似する疾患",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -178,9 +178,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "認知症の医学的・心理的側面の基礎的理解\n(5)病院で行われる検査や治療の実際\n　　\n小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -188,9 +188,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "認知症に関する行政の方針と施策",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -198,9 +198,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "事例検討(1)心身の変化により生じる生活や人間関係の支障及び家族の課題と受容段階や介護の内容、地域で支えるサポート体制・多職種連携と協働について考える",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -208,9 +208,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "事例検討(2)援助者としての倫理観や介護観について考える。",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "認知症ケアの課題\nまとめ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -228,6 +228,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "・特別養護老人ホーム、通所介護事業所、訪問介護事業所\n・介護福祉士養成専門学校（専任教員）、介護福祉士実務者研修講師、介護職員初任者研修講師、外国人技能実習生介護導入講習講師などの教育経験。"
+    "credit_auditing": false,
+    "practitioner_info": "・特別養護老人ホーム、通所介護事業所、訪問介護事業所\n・介護福祉士養成専門学校（専任教員）、介護福祉士実務者研修講師、介護職員初任者研修講師、外国人技能実習生介護導入講習講師などの教育経験。"
 }

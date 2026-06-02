@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-07T11:03:52Z",
+    "fetched_at": "2025-04-07T11:03:52Z",
     "name_ja": "経営組織論Ⅱ",
     "name_en": "organization study",
     "syllabus_number": "2036300A",
     "course_number": "",
-    "target_departments_and_courses": [
+    "departments": [
         "経済学部"
     ],
-    "type": "",
-    "main_department": "",
+    "category": "",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "",
+    "course_division": "",
+    "instruction_format": "",
     "teachers": [
         {
             "name": "木全　晃",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "後期",
@@ -26,12 +26,12 @@
     "teaching_methods": [
         "講義"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "対面"
     ],
-    "themes_and_goals": "【到達目標】\n以下の事項を説明できるようになること\n（１）経営組織論とは何か\n（２）現代組織のミクロ的な諸課題とは何か\n（３）対処するうえでの“メガネ”（理論や思考の枠組み）にはどのようなものがあるか\n（４）これらを自らの「腑に落ちる」言葉で説明できるようになること",
+    "objectives": "【到達目標】\n以下の事項を説明できるようになること\n（１）経営組織論とは何か\n（２）現代組織のミクロ的な諸課題とは何か\n（３）対処するうえでの“メガネ”（理論や思考の枠組み）にはどのようなものがあるか\n（４）これらを自らの「腑に落ちる」言葉で説明できるようになること",
     "overview": "本講義は、主に組織のミクロ的観点から個人や集団と組織との関係に焦点を当て、組織のマネジメントの諸課題について講義する。そこでは、心理学や社会心理学等の知見をもとにパーソナリティと情動などの概念をはじめ、昨今のダイバーシティの考え方などをもとに組織のなかの個人はどのように捉えられるかを概説する。そして組織行動論の観点から、モチベーション（内容理論とプロセス理論）、組織コミットメント（3次元モデル）、リーダーシップ（2次元モデル、コンティンジェンシー理論）、コンフリクトとパワー、組織風土・文化などの機能、個人と組織に及ぼす影響等について事例を交えながら詳説する。このような講義を通して、組織マネジメントの諸課題について理解することを目標とする。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "経営コースDP1",
         "経営コースDP2",
         "経営コースDP3",
@@ -40,10 +40,10 @@
         "経済経営学科DP3"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "ミクロ組織論",
-            "year": 2019,
+            "publication_year": 2019,
             "author": "竹内倫和・福原康司",
             "publisher": "学文社",
             "price": 2530,
@@ -52,7 +52,7 @@
         },
         {
             "title": "組織のメタファー",
-            "year": 2022,
+            "publication_year": 2022,
             "author": "高橋正泰・木全晃",
             "publisher": "文眞堂",
             "price": 3080,
@@ -60,34 +60,34 @@
             "available_on_campus": false
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [
+    "enrollment_info": {
+        "prerequisites": [
             "経営組織論Ⅰ"
         ],
-        "recommended_courses": [
+        "recommended": [
             "経営学総論",
             "経営管理論",
             "企業概論",
             "経営戦略論"
         ],
-        "brings": "なし",
+        "required_materials": "なし",
         "other": "経済学部2021年度以前入学の学生は、「経営組織論Ⅰ」及び「経営組織論Ⅱ」の両方の単位を修得することで、「経営組織論（４単位）」の単位が修得できます。"
     },
-    "evaluation_criteria": "不定期かつ複数回の講義内レポート等（40点）、期末試験（60点）",
+    "grading_criteria": "不定期かつ複数回の講義内レポート等（40点）、期末試験（60点）",
     "evaluation_ratio": {
-        "試験": 60,
-        "小テスト": 0,
-        "レポート": 40,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 0
+        "exam": 60,
+        "quiz": 0,
+        "report": 40,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 0
     },
-    "message_from_teachers": "基本的に毎回配布する講義資料をもとに進める。講義形式をとるが、日頃からメディア等を通じて組織について問題意識を醸成すること。講義形式をとるが、質問を投げかけることがあるので、主体的参加を心掛けられたい。準備学習等については初回講義時にアナウンスする。",
+    "teacher_message": "基本的に毎回配布する講義資料をもとに進める。講義形式をとるが、日頃からメディア等を通じて組織について問題意識を醸成すること。講義形式をとるが、質問を投げかけることがあるので、主体的参加を心掛けられたい。準備学習等については初回講義時にアナウンスする。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "イントロダクション：講義の進め方について．ミクロ組織論とは何か",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "組織のなかの個人①：パーソナリティと情動",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "組織のなかの個人②：ダイバーシティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -115,9 +115,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "モチベーション①：内容理論とプロセス理論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -125,9 +125,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "モチベーション②：内発的動機付け",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -135,9 +135,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "組織コミットメント、組織活性化：3次元モデル、I-Iチャート",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -145,9 +145,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "リーダーシップ①：特性理論と行動理論、コンティンジェンシー・アプローチ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -155,9 +155,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "リーダーシップ②：サーバントリーダーシップ、マネジャーの役割",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -165,9 +165,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "コンフリクトとパワー①：発生と解決、パワーの源泉と依存",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -175,9 +175,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "コンフリクトとパワー②：連合体の形成",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "組織風土・文化①：風土論と文化論",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -195,9 +195,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "組織風土・文化②：異文化マネジメント",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -205,9 +205,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "組織風土・文化③：個人と組織のアイデンティティ",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -215,9 +215,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "集団とダイナミクス：集団凝集性、日本的コミュニケーションの特性",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -225,9 +225,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "本講義の総括とふりかえり",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -235,6 +235,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": ""
+    "credit_auditing": false,
+    "practitioner_info": ""
 }

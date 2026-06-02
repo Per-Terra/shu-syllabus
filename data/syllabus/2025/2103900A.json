@@ -1,24 +1,24 @@
 {
-    "_fetched_at": "2025-04-04T06:04:23Z",
+    "fetched_at": "2025-04-04T06:04:23Z",
     "name_ja": "ソフトウェア工学",
     "name_en": "Software Engineering",
     "syllabus_number": "2103900A",
     "course_number": "31-2-23-33-05",
-    "target_departments_and_courses": [
+    "departments": [
         "情報科学部"
     ],
-    "type": "専門科目",
-    "main_department": "",
+    "category": "専門科目",
+    "home_department": "",
     "requirements": "",
-    "year": 2,
-    "period": "",
+    "target_year": 2,
+    "time_slot": "",
     "required_or_elective": "",
-    "course_category": "",
-    "class_type": "単独",
+    "course_division": "",
+    "instruction_format": "単独",
     "teachers": [
         {
             "name": "田中　輝明",
-            "main": false
+            "is_primary": false
         }
     ],
     "term": "第３クォーター",
@@ -27,20 +27,20 @@
         "講義",
         "演習"
     ],
-    "class_forms": [
+    "delivery_modes": [
         "ﾊｲﾌﾚｯｸｽ"
     ],
-    "themes_and_goals": "ソフトウェアの実装に関して、要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守といった一連のプロセスの理解とチーム共同でソフトウェアを構築する能力を身につける．また、ソフトウェアの抽象化の考え方を習得することで「問題発見能力」や「問題解決能力」などを身に付ける。",
+    "objectives": "ソフトウェアの実装に関して、要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守といった一連のプロセスの理解とチーム共同でソフトウェアを構築する能力を身につける．また、ソフトウェアの抽象化の考え方を習得することで「問題発見能力」や「問題解決能力」などを身に付ける。",
     "overview": "ソフトウェア工学には、要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守といった作業に関する知識・ツール・手法が含まれる。そこで、プログラミング言語の習得に留まらず、開発の全体像である要求開発から検証と妥当性確認、保守、プロセスやマネジメントといった開発ライフサイクルを網羅する内容を実践で学び、社会のニーズに応える人材を育成する。",
-    "corresponding_diploma_policies": [
+    "diploma_policies": [
         "情報科学科DP1",
         "情報科学科DP2"
     ],
     "textbooks": [],
-    "reference_books": [
+    "references": [
         {
             "title": "ソフトウェアエンジニアリング基礎知識体系SWEBOK V3",
-            "year": 2014,
+            "publication_year": 2014,
             "author": "松本 吉弘(翻訳)",
             "publisher": "オーム社",
             "price": 4400,
@@ -48,31 +48,31 @@
             "available_on_campus": true
         }
     ],
-    "notes_on_enrollment": {
-        "required_courses": [],
-        "recommended_courses": [
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [
             "計算機概論",
             "情報エンジニアリング概論",
             "データベース"
         ],
-        "brings": "ノートパソコン",
+        "required_materials": "ノートパソコン",
         "other": ""
     },
-    "evaluation_criteria": "ソフトウェア要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守及びプロジェクト管理に関する学生の理解度を以下で評価する。",
+    "grading_criteria": "ソフトウェア要求分析、ソフトウェア設計、プログラミング、ソフトウェアテスト、ソフトウェア保守及びプロジェクト管理に関する学生の理解度を以下で評価する。",
     "evaluation_ratio": {
-        "試験": 0,
-        "小テスト": 40,
-        "レポート": 20,
-        "発表・実技": 0,
-        "ポートフォリオ": 0,
-        "その他": 40
+        "exam": 0,
+        "quiz": 40,
+        "report": 20,
+        "presentation": 0,
+        "portfolio": 0,
+        "other": 40
     },
-    "message_from_teachers": "これからの社会はソフトウェアが中心となって成り立っていくデジタル社会です。\nソフトウェア実装の知識や経験を学ぶことは、デジタル社会の担い手として世界から期待されています。おおいなる志を持って授業に参加されることを期待します。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、事前資料該当ページを通読しておくこと(予習・1時間程度)、授業終了後には、授業で行った箇所の再読及び提供資料（PPT等）の重要箇所の再確認を行い、知識を定着させてください（復習・1時間程度)。",
+    "teacher_message": "これからの社会はソフトウェアが中心となって成り立っていくデジタル社会です。\nソフトウェア実装の知識や経験を学ぶことは、デジタル社会の担い手として世界から期待されています。おおいなる志を持って授業に参加されることを期待します。\n授業に参加するにあたっては、次回の「授業の内容」を参照し、事前資料該当ページを通読しておくこと(予習・1時間程度)、授業終了後には、授業で行った箇所の再読及び提供資料（PPT等）の重要箇所の再確認を行い、知識を定着させてください（復習・1時間程度)。",
     "schedule": [
         {
-            "session": "1",
+            "number": "1",
             "content": "ソフトウェア工学概説\n・本講義の概要と目的および進め方\n・ソフトウェア工学の背景、定義、現在までの成果",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -81,9 +81,9 @@
             ]
         },
         {
-            "session": "2",
+            "number": "2",
             "content": "ソフトウェア要求分析、要求定義\n　・要求獲得、要求分析、要求定義",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -93,9 +93,9 @@
             ]
         },
         {
-            "session": "3",
+            "number": "3",
             "content": "ソフトウェアアーキテクチャ\n　・ソフトウェアアーキテクチャパターン",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -105,9 +105,9 @@
             ]
         },
         {
-            "session": "4",
+            "number": "4",
             "content": "オブジェクト指向の考え方\n　・オブジェクト指向による抽象化技術",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -117,9 +117,9 @@
             ]
         },
         {
-            "session": "5",
+            "number": "5",
             "content": "ソフトウェア設計Ⅰ（UMLモデリング）\n　・ユースケース図、状態マシン図、アクティビティ図、シーケンス図、コラボレーション図、クラス図",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -128,9 +128,9 @@
             ]
         },
         {
-            "session": "6",
+            "number": "6",
             "content": "ソフトウェア設計Ⅱ（UMLモデリング演習）\n　・例題を使った設計演習",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -139,9 +139,9 @@
             ]
         },
         {
-            "session": "7",
+            "number": "7",
             "content": "プログラミング\n　・ツールと使ったプログラム作成",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -150,9 +150,9 @@
             ]
         },
         {
-            "session": "8",
+            "number": "8",
             "content": "ソフトウェアテスト\n　・単体テスト、システムテスト",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -162,9 +162,9 @@
             ]
         },
         {
-            "session": "9",
+            "number": "9",
             "content": "ソフトウェア保守\n　・維持管理とソフトウェア改修",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -173,9 +173,9 @@
             ]
         },
         {
-            "session": "10",
+            "number": "10",
             "content": "ソフトウェア開発環境\n・Eclipse、VisualStudio、GitHub等",
-            "methods": [
+            "teaching_methods": [
                 "講義",
                 "演習"
             ],
@@ -185,9 +185,9 @@
             ]
         },
         {
-            "session": "11",
+            "number": "11",
             "content": "プロジェクト管理\n　・PMBOK、Scrum",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -196,9 +196,9 @@
             ]
         },
         {
-            "session": "12",
+            "number": "12",
             "content": "アジャイル開発プロジェクト実践\n　例題を用いたインセプションデッキ、開発計画、役割分担",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -207,9 +207,9 @@
             ]
         },
         {
-            "session": "13",
+            "number": "13",
             "content": "アジャイル開発プロジェクト実践\n　例題を用いたアジャイルソフトウェア開発",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -218,9 +218,9 @@
             ]
         },
         {
-            "session": "14",
+            "number": "14",
             "content": "アジャイル開発プロジェクト実践\n　例題を用いたアジャイルソフトウェア開発",
-            "methods": [
+            "teaching_methods": [
                 "演習"
             ],
             "teachers": [
@@ -229,9 +229,9 @@
             ]
         },
         {
-            "session": "15",
+            "number": "15",
             "content": "今までの振り返りと重要事項のまとめ,小テスト",
-            "methods": [
+            "teaching_methods": [
                 "講義"
             ],
             "teachers": [
@@ -240,6 +240,6 @@
             ]
         }
     ],
-    "open_to_non_students": false,
-    "practitioner": "企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験を生かしてソフトウェア工学に関する実践的な知識を身に着けさせる。"
+    "credit_auditing": false,
+    "practitioner_info": "企業でのシステム開発、ビジネスコンサルティング、システムコンサルティングの実務経験を生かしてソフトウェア工学に関する実践的な知識を身に着けさせる。"
 }
