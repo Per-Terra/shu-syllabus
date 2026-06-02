@@ -1,8 +1,8 @@
 # shu-syllabus
 
-周南公立大学の [Active Academy Advance (AAA)](https://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0010.aspx?me=EU&opi=mt0010) からシラバスデータをスクレイピング・ロードする Python ライブラリ。2023年度以降のシラバスデータを同梱しており、インストール後すぐに分析を開始できる。
+周南公立大学の [Active Academy Advance (AAA)](https://aaaweb.shunan-u.ac.jp/aa_web/syllabus/se0010.aspx?me=EU&opi=mt0010) からシラバスデータをスクレイピング・ロードする Python ライブラリ。2023年度以降のシラバスデータを同梱しており、インストールすればすぐに使えます。
 
-このライブラリは周南公立大学の2024年度開講科目「Python応用」の最終課題として作成されました。提出時点のコードは [v0.1.0](https://github.com/Per-Terra/shu-syllabus/releases/tag/v0.1.0) を参照してください。v1.0.0 で API の全面的な見直しと型安全なデータモデルの導入を行っています。
+周南公立大学の2024年度開講科目「Python応用」の最終課題として作成しました。提出時点のコードは [v0.1.0](https://github.com/Per-Terra/shu-syllabus/releases/tag/v0.1.0) を参照してください。v1.0.0 で API を全面的に見直し、型安全なデータモデルを導入しています。
 
 ## インストール
 
@@ -44,7 +44,7 @@ with shu_syllabus.Scraper() as scraper:
 
 ## データモデル
 
-すべてのフィールドは dataclass で定義されており、IDE の補完と型チェックが有効。各フィールドの docstring に日本語元名を記載。
+すべてのフィールドを dataclass で定義しており、IDE の補完・型チェックが利きます。各フィールドの docstring には元の日本語項目名を記載しています。
 
 - `Syllabus` — シラバス本体（30+フィールド）
 - `Teacher` — 担当教員（name, is_primary）
@@ -63,7 +63,7 @@ shu-syllabus-update 2025
 shu-syllabus-bundle 2025
 ```
 
-GitHub Actions で毎週自動チェックし、変更があれば PR を作成する。
+GitHub Actions で毎週自動チェックし、変更があれば PR を作成します。
 
 ## 開発
 
@@ -74,4 +74,4 @@ pytest
 
 ## ライセンス
 
-[LICENSE](LICENSE) を参照（シラバスデータを除く）。
+[LICENSE](LICENSE) を参照してください（シラバスデータを除く）。
