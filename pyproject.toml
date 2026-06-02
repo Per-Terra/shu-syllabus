@@ -21,7 +21,7 @@ shu-syllabus-bundle = "shu_syllabus._cli.bundle:main"
 Homepage = "https://github.com/Per-Terra/shu-syllabus"
 
 [dependency-groups]
-dev = ["pytest", "ruff"]
+dev = ["pytest", "ruff", "types-beautifulsoup4", "types-requests"]
 
 [build-system]
 requires = ["hatchling"]
@@ -54,3 +54,7 @@ ignore = [
     "RUF002", # docstring 中の全角括弧を許可（日本語ドキュメント）
     "TC001",  # ランタイムでも使用する内部インポートを許可
 ]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
