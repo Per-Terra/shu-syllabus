@@ -15,7 +15,7 @@ dependencies = ["beautifulsoup4", "requests"]
 [project.scripts]
 shu-syllabus-update = "shu_syllabus._cli.update:main"
 shu-syllabus-bundle = "shu_syllabus._cli.bundle:main"
-shu-syllabus-migrate = "shu_syllabus._cli.migrate:main"
+
 
 [project.urls]
 Homepage = "https://github.com/Per-Terra/shu-syllabus"
