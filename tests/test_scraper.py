@@ -42,7 +42,7 @@ def test_search_parses_syllabus_numbers(search_html: str) -> None:
         scraper._session.get.return_value = mock_fields_response
         scraper._session.post.return_value = mock_search_response
 
-        results = scraper.search("2025", course_name="Python")
+        results = scraper.search("2026", course_name="国際経済学")
         assert len(results) >= 1
         assert all(isinstance(code, str) for code in results)
         assert all(len(code) >= 8 for code in results)
