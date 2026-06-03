@@ -1,6 +1,6 @@
 [project]
 name = "shu_syllabus"
-version = "1.0.0"
+version = "1.1.0"
 authors = [{ name = "per-terra" }]
 description = "Scrape and load Shunan University syllabus data from Active Academy Advance."
 readme = "README.md"
