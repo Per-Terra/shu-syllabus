@@ -4,7 +4,7 @@
 
 ## プロジェクト概要
 
-周南公立大学の Active Academy Advance (AAA) システムからシラバスデータをスクレイピング・パース・バンドルするPythonライブラリ。事前取得済みのシラバスデータ（2023年度以降）を同梱しており、`shu_syllabus.load("2025")` ですぐに分析を開始できる。AAAシステムはASP.NET WebFormsアプリケーションのため、スクレイピングにはViewStateや隠しフィールドの管理が必要。
+周南公立大学の Active Academy Advance (AAA) システムからシラバスデータをスクレイピング・パース・バンドルするPythonライブラリ。事前取得済みのシラバスデータ（2023年度以降）を同梱しており、`shu_syllabus.load("2026")` ですぐに分析を開始できる。AAAシステムはASP.NET WebFormsアプリケーションのため、スクレイピングにはViewStateや隠しフィールドの管理が必要。
 
 ## コマンド
 
@@ -20,10 +20,10 @@ uv run ruff check src/ tests/
 uv run ruff format src/ tests/
 
 # AAAサーバーからシラバスデータを更新（リクエスト間隔0.2秒）
-uv run shu-syllabus-update <年度>    # 例: uv run shu-syllabus-update 2025
+uv run shu-syllabus-update <年度>    # 例: uv run shu-syllabus-update 2026
 
 # 個別JSONファイルをパッケージ用に1ファイルにバンドル
-uv run shu-syllabus-bundle <年度>    # 例: uv run shu-syllabus-bundle 2025
+uv run shu-syllabus-bundle <年度>    # 例: uv run shu-syllabus-bundle 2026
 ```
 
 ## アーキテクチャ
@@ -36,12 +36,12 @@ uv run shu-syllabus-bundle <年度>    # 例: uv run shu-syllabus-bundle 2025
 import shu_syllabus
 
 # バンドル済みデータの読み込み
-syllabuses = shu_syllabus.load("2025")    # list[Syllabus]
+syllabuses = shu_syllabus.load("2026")    # list[Syllabus]
 
 # ライブ取得
 with shu_syllabus.Scraper() as scraper:
-    codes = scraper.search("2025")         # list[str]
-    syllabus = scraper.fetch("2025", codes[0])  # Syllabus
+    codes = scraper.search("2026")         # list[str]
+    syllabus = scraper.fetch("2026", codes[0])  # Syllabus
 ```
 
 ### パッケージ構造

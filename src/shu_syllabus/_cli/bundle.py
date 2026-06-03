@@ -11,7 +11,7 @@ from .._utils import letter_to_number
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Bundle individual syllabus JSONs.")
-    parser.add_argument("nendo", help="Academic year (e.g., 2025)")
+    parser.add_argument("nendo", help="Academic year (e.g., 2026)")
     args = parser.parse_args()
     nendo: str = args.nendo
 

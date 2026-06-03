@@ -22,8 +22,8 @@ class Scraper:
     Example::
 
         with Scraper() as scraper:
-            codes = scraper.search("2025")
-            syllabus = scraper.fetch("2025", codes[0])
+            codes = scraper.search("2026")
+            syllabus = scraper.fetch("2026", codes[0])
     """
 
     def __init__(self, session: requests.Session | None = None) -> None:
@@ -55,7 +55,7 @@ class Scraper:
         """指定年度のシラバス番号一覧を取得する。
 
         Args:
-            nendo: 年度（例: "2025"）。
+            nendo: 年度（例: "2026"）。
             course_name: 講義科目名で絞り込み。
             teacher_name: 教員名で絞り込み。
             keyword_1: キーワード1。
@@ -96,7 +96,7 @@ class Scraper:
         """シラバスを1件取得してパースする。
 
         Args:
-            nendo: 年度（例: "2025"）。2023 以降のみ対応。
+            nendo: 年度（例: "2026"）。2023 以降のみ対応。
             syllabus_no: シラバス番号（例: "1000600A"）。
 
         Returns:

@@ -12,7 +12,7 @@ from .._scraper import Scraper
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Fetch syllabus data from AAA.")
-    parser.add_argument("nendo", help="Academic year (e.g., 2025)")
+    parser.add_argument("nendo", help="Academic year (e.g., 2026)")
     parser.add_argument(
         "--delay",
         type=float,

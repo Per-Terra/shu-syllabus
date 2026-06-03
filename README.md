@@ -17,7 +17,7 @@ pip install git+https://github.com/Per-Terra/shu-syllabus.git
 ```python
 import shu_syllabus
 
-syllabuses = shu_syllabus.load("2025")  # list[Syllabus]
+syllabuses = shu_syllabus.load("2026")  # list[Syllabus]
 
 s = syllabuses[0]
 s.name_ja           # '意思決定科学'
@@ -38,8 +38,8 @@ first_year = [s for s in syllabuses if s.target_year == 1]
 
 ```python
 with shu_syllabus.Scraper() as scraper:
-    codes = scraper.search("2025")                  # list[str]
-    syllabus = scraper.fetch("2025", codes[0])      # Syllabus
+    codes = scraper.search("2026")                  # list[str]
+    syllabus = scraper.fetch("2026", codes[0])      # Syllabus
 ```
 
 ## データモデル
@@ -57,10 +57,10 @@ with shu_syllabus.Scraper() as scraper:
 
 ```shell
 # AAAサーバーから取得
-uv run shu-syllabus-update 2025
+uv run shu-syllabus-update 2026
 
 # パッケージ用にバンドル
-uv run shu-syllabus-bundle 2025
+uv run shu-syllabus-bundle 2026
 ```
 
 GitHub Actions で毎週自動チェックし、変更があれば PR を作成します。
