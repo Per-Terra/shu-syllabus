@@ -1,0 +1,313 @@
+{
+    "fetched_at": "2026-06-08T05:05:54Z",
+    "name_ja": "専門ゼミⅠ",
+    "name_en": "Seminar on Specialized Subjects I",
+    "syllabus_number": "2007600D",
+    "course_number": "11-3-31-11-01",
+    "departments": [
+        "経済経営学部 経済経営学科"
+    ],
+    "category": "専門科目",
+    "home_department": "経済経営学部 経済経営学科",
+    "requirements": null,
+    "target_year": 3,
+    "required_or_elective": null,
+    "instruction_format": "クラス分け",
+    "teachers": [
+        {
+            "name": "岩本　直",
+            "is_primary": false
+        }
+    ],
+    "term": "通年",
+    "credits": 4,
+    "teaching_methods": [
+        "講義",
+        "演習"
+    ],
+    "delivery_modes": [
+        "対面"
+    ],
+    "objectives": "現在の厳しい地方圏の経済情勢を理解し、自らのキャリアプラン、地域における起業プラン（新ビジネスプラン）、地域活性化プラン（地域づくり、まちづくり）、現在の世界経済情勢を考えるにあたって、必要な知識を習得する。また、専門ゼミⅡにおける卒業論文のテーマ設定、研究の進め方についても理解する。\n\n【到達目標】\n①現在の厳しい地方圏の経済状況、世界情勢を理解することができる。\n②キャリアプラン、起業、地域資源による地域活性化について理解することができる。",
+    "overview": "講義、教員とのディスカッション、ゼミ生の研究発表、現地視察、卒業研究の基礎的理解等を行い、授業を進めていく",
+    "diploma_policies": [
+        "経済経営学科DP1",
+        "経済経営学科DP2",
+        "経済経営学科DP3"
+    ],
+    "textbooks": [],
+    "references": [],
+    "enrollment_info": {
+        "prerequisites": [],
+        "recommended": [],
+        "required_materials": null,
+        "other": "特定の教科書は使用せず、授業で使用する資料を中心に授業を進める。"
+    },
+    "teaching_certificate": null,
+    "grading_criteria": "毎回の授業における「発表・実技」及び「その他」を評価対象とする。\n※「その他」は授業への参加意欲を評価対象とする。",
+    "evaluation_ratio": {
+        "exam": 0,
+        "quiz": 0,
+        "report": 0,
+        "presentation": 50,
+        "portfolio": 0,
+        "other": 50
+    },
+    "teacher_message": "本授業で強く関心を持った事項は、その事項について自分で深く調べてみる等、学習の深堀りをすること。",
+    "schedule": [
+        {
+            "number": "1",
+            "content": "ガイダンス、受講にあたっての留意点",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "2",
+            "content": "キャリアデザインを考える",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "3",
+            "content": "地域における起業プラン（新ビジネスプラン）を考える１",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "4",
+            "content": "地域における起業プラン（新ビジネスプラン）を考える２",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "5",
+            "content": "地域活性化プランを考える１",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "6",
+            "content": "地域活性化プランを考える２",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "7",
+            "content": "現地視察１",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "8",
+            "content": "現地視察２",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "9",
+            "content": "地域活性化プランを考える３",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "10",
+            "content": "地域活性化プランを考える４",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "11",
+            "content": "地域活性化プランを考える５",
+            "teaching_methods": [
+                "講義",
+                "演習"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "12",
+            "content": "地域活性化プランを考える６",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "13",
+            "content": "地域活性化プランを考える７",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "14",
+            "content": "地域活性化プラン発表会１",
+            "teaching_methods": [
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "15",
+            "content": "地域活性化プラン発表会２",
+            "teaching_methods": [
+                "演習",
+                "実験・実習・実技"
+            ],
+            "teachers": [
+                "岡井　理香"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "研究方法の理解１",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "17",
+            "content": "研究方法の理解２",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "18",
+            "content": "研究方法の理解３",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "19",
+            "content": "研究進捗状況の報告１",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "20",
+            "content": "研究進捗状況の報告２",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "21",
+            "content": "研究進捗状況の報告３",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "22",
+            "content": "研究進捗状況の報告４",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "23",
+            "content": "現地視察３",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "24",
+            "content": "研究進捗状況の報告５",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "25",
+            "content": "研究進捗状況の報告６",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "26",
+            "content": "研究進捗状況の報告７",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "27",
+            "content": "研究進捗状況の報告８",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "28",
+            "content": "研究進捗状況の報告９",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "29",
+            "content": "４年生との合同ゼミ１（４年生専門ゼミⅡ卒論発表会参加）",
+            "teaching_methods": [],
+            "teachers": []
+        },
+        {
+            "number": "30",
+            "content": "４年生との合同ゼミ２（４年生専門ゼミⅡ卒論発表会参加）",
+            "teaching_methods": [],
+            "teachers": []
+        }
+    ],
+    "credit_auditing": true,
+    "practitioner_info": "教員の実務経験（国家公務員、独立行政法人職員等）に基づく様々な事例を授業の中で紹介し、授業のさらなる理解促進を図る。"
+}
