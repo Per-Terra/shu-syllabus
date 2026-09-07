@@ -1,9 +1,9 @@
 {
-    "fetched_at": "2026-06-02T15:19:08Z",
+    "fetched_at": "2026-09-07T02:45:39Z",
     "name_ja": "プログラミング演習",
     "name_en": "Exercise in Computer Programming",
     "syllabus_number": "2022500A",
-    "course_number": null,
+    "course_number": "2022500",
     "departments": [
         "経済学部",
         "福祉情報学部"
@@ -20,7 +20,7 @@
             "is_primary": false
         }
     ],
-    "term": "通年",
+    "term": "前期",
     "credits": 2,
     "teaching_methods": [
         "講義",

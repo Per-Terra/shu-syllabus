@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:21:40Z",
+    "fetched_at": "2026-09-07T02:48:19Z",
     "name_ja": "デジタルファブリケーション演習",
     "name_en": "Digital Fabrication Practice",
     "syllabus_number": "2109000A",
@@ -16,6 +16,10 @@
     "teachers": [
         {
             "name": "亀ヶ谷　友佑",
+            "is_primary": false
+        },
+        {
+            "name": "獅子野　光佑",
             "is_primary": false
         }
     ],
