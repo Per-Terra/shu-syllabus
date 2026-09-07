@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:22:51Z",
+    "fetched_at": "2026-09-07T02:49:37Z",
     "name_ja": "成人慢性期看護実習",
     "name_en": "Adult Chronic Care Nursing  Clinical Practicum",
     "syllabus_number": "2120500A",
@@ -15,6 +15,10 @@
     "instruction_format": "複数",
     "teachers": [
         {
+            "name": "酒井　知恵子",
+            "is_primary": true
+        },
+        {
             "name": "中谷　信江",
             "is_primary": false
         },
@@ -28,6 +32,10 @@
         },
         {
             "name": "松浦　純平",
+            "is_primary": false
+        },
+        {
+            "name": "百田　由希子",
             "is_primary": false
         }
     ],

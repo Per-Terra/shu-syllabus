@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:17:56Z",
+    "fetched_at": "2026-09-07T02:44:21Z",
     "name_ja": "日本経済史",
     "name_en": "Japanese Economic History",
     "syllabus_number": "2000800A",
@@ -37,25 +37,33 @@
         "経済経営学科DP2",
         "経済経営学科DP3"
     ],
-    "textbooks": [
+    "textbooks": [],
+    "references": [
         {
-            "title": "日本経済史1600-2015:歴史に読む現代 　増補改訂版",
+            "title": "日本経済史1600-2015:歴史に読む現代",
             "publication_year": 2017,
-            "author": "浜野潔　他著",
+            "author": "浜野潔、井奥成彦、中村宗悦、岸田真、永江雅和、牛島利明",
             "publisher": "慶応義塾大学出版会",
             "price": 3080,
-            "isbn": "978-4766423358",
-            "available_on_campus": true
+            "isbn": "978-4-7664-2335-8",
+            "available_on_campus": false
+        },
+        {
+            "title": "日本経済史:近世-現代",
+            "publication_year": 2012,
+            "author": "杉山伸也",
+            "publisher": "岩波書店",
+            "price": null,
+            "isbn": "9784000242820",
+            "available_on_campus": false
         }
     ],
-    "references": [],
     "enrollment_info": {
         "prerequisites": [
             "なし"
         ],
         "recommended": [
-            "日本史Ⅰ",
-            "日本史Ⅱ"
+            "なし"
         ],
         "required_materials": "なし",
         "other": "なし"
@@ -64,7 +72,7 @@
         "subject": "教科及び教科の指導法に関する科目",
         "enforcement": "【中一種免（社会）】「社会学、経済学」\n【高一種免（公民）】日本史"
     },
-    "grading_criteria": "講義内レポート、講義時間外レポートで評価する。これらはすべて講義内容に準じたものである。評価は「学生に対する評価」に準じて評価する。",
+    "grading_criteria": "テスト70％、レポート30％（ミニッツ・ペーパーの類いを含む）",
     "evaluation_ratio": {
         "exam": 70,
         "quiz": 0,
@@ -73,7 +81,7 @@
         "portfolio": 0,
         "other": 0
     },
-    "teacher_message": "基本的に教科書とワークシートを中心に進めていくが、適宜学生と対話しながら進めていく。毎回課題（講義内課題、講義時間外課題）が出るので、必ず出すこと。5回に1回の頻度で1000字以上の記述を必要とする課題を出すので、全部出す覚悟を持って受けること。\nシラバスを読んで、テキスト等で事前に60分程度予習しておくこと。また、課題を通して60分程度復習をすること。\n基本的に教科書に準じて講義していきますが、教科書すべての内容を網羅できるわけではありません。講義の理解には予復習は欠かせないです。とくに課題については復習も兼ねていますので、しっかり取り組むようにしてください。",
+    "teacher_message": "基本的に配布資料をもとに講義します。配布資料は復習（60分程度）でも活用して下さい。授業時間中に簡単なレポートを数回出します。なお分からない用語があったら積極的に調べてください。その積み重ねで理解度が格段に違います。",
     "schedule": [
         {
             "number": "1",
@@ -107,7 +115,7 @@
         },
         {
             "number": "4",
-            "content": "近世経済のマクロ的概観",
+            "content": "近世の貿易",
             "teaching_methods": [
                 "講義"
             ],
@@ -221,6 +229,14 @@
             "teaching_methods": [
                 "講義"
             ],
+            "teachers": [
+                "新鞍　拓生"
+            ]
+        },
+        {
+            "number": "16",
+            "content": "定期試験",
+            "teaching_methods": [],
             "teachers": [
                 "新鞍　拓生"
             ]
