@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:23:10Z",
+    "fetched_at": "2026-09-28T03:33:45Z",
     "name_ja": "保育ソーシャルワーク論",
     "name_en": "Childcare Social Work Theory",
     "syllabus_number": "2123800A",
@@ -12,18 +12,10 @@
     "requirements": null,
     "target_year": 3,
     "required_or_elective": null,
-    "instruction_format": null,
+    "instruction_format": "単独",
     "teachers": [
         {
-            "name": "成績認定用教員",
-            "is_primary": true
-        },
-        {
             "name": "竹下　徹",
-            "is_primary": false
-        },
-        {
-            "name": "牛島　豊広",
             "is_primary": false
         }
     ],
@@ -75,98 +67,160 @@
         {
             "number": "1",
             "content": "保育におけるソーシャルワークの必要性",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "2",
             "content": "保育ソーシャルワークの定義と目的、沿革",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "3",
             "content": "保育ソーシャルワークの対象と原理、機能",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "4",
             "content": "保育ソーシャルワークの価値と倫理",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "5",
             "content": "保育ソーシャルワークにおけるアセスメント",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "6",
             "content": "保育ソーシャルワークにおけるストレングス",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "7",
             "content": "保育ソーシャルワークにおける展開過程",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "8",
             "content": "ミクロレベルにおける保育ソーシャルワーク",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "9",
             "content": "メゾレベルにおける保育ソーシャルワーク",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "10",
             "content": "マクロレベルにおける保育ソーシャルワーク",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "11",
             "content": "保育ソーシャルワークにおける面接技術",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "12",
             "content": "保育ソーシャルワークを活用した保護者への対応",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "13",
             "content": "保育ソーシャルワークを活用したネグレクト対応",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "14",
             "content": "保育ソーシャルワークを推進する組織体制",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "15",
             "content": "保育ソーシャルワークの今後の課題",
-            "teaching_methods": [],
-            "teachers": []
+            "teaching_methods": [
+                "講義"
+            ],
+            "teachers": [
+                "竹下　徹"
+            ]
         },
         {
             "number": "16",
             "content": "筆記試験",
             "teaching_methods": [],
-            "teachers": []
+            "teachers": [
+                "竹下　徹"
+            ]
         }
     ],
     "credit_auditing": false,
