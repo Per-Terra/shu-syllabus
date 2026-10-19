@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:17:24Z",
+    "fetched_at": "2026-10-19T03:07:04Z",
     "name_ja": "生活と経済経営",
     "name_en": "Economics and Business for Living",
     "syllabus_number": "1100900A",
@@ -30,6 +30,10 @@
         },
         {
             "name": "高山　寛",
+            "is_primary": false
+        },
+        {
+            "name": "清水　太郎",
             "is_primary": false
         }
     ],
@@ -75,7 +79,7 @@
                 "講義"
             ],
             "teachers": [
-                "長澤賢一"
+                "長澤　賢一"
             ]
         },
         {
@@ -85,7 +89,7 @@
                 "講義"
             ],
             "teachers": [
-                "長澤賢一"
+                "長澤　賢一"
             ]
         },
         {
@@ -95,7 +99,7 @@
                 "講義"
             ],
             "teachers": [
-                "長澤賢一"
+                "長澤　賢一"
             ]
         },
         {
@@ -160,32 +164,32 @@
         },
         {
             "number": "10",
-            "content": "営利組織と非営利組織",
+            "content": "自動車保険について学ぶ",
             "teaching_methods": [
                 "講義"
             ],
             "teachers": [
-                "百武　仁志"
+                "清水　太郎"
             ]
         },
         {
             "number": "11",
-            "content": "企業の社会的役割",
+            "content": "生命保険について学ぶ",
             "teaching_methods": [
                 "講義"
             ],
             "teachers": [
-                "百武　仁志"
+                "清水　太郎"
             ]
         },
         {
             "number": "12",
-            "content": "社会的企業の発展",
+            "content": "医療保険・傷害保険について学ぶ",
             "teaching_methods": [
                 "講義"
             ],
             "teachers": [
-                "百武　仁志"
+                "清水　太郎"
             ]
         },
         {
