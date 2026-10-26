@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-06-02T15:18:58Z",
+    "fetched_at": "2026-10-26T03:04:43Z",
     "name_ja": "健康医学",
     "name_en": "Health medicine",
     "syllabus_number": "2012100A",
@@ -22,6 +22,10 @@
         },
         {
             "name": "小笠　博義",
+            "is_primary": false
+        },
+        {
+            "name": "奥本　正",
             "is_primary": false
         }
     ],
